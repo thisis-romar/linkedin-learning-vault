@@ -64,14 +64,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Microsoft 365's AI assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980)
+#### [Explore Microsoft 365's AI assistant](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980&t=0)** - Let AI help you create, summarize, and analyze your documents, messages, and data.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980&t=6)** Microsoft 365 Copilot is the version of Microsoft's AI assistant that can supercharge your office applications, including Word, Excel, PowerPoint, Outlook, and Teams.
+> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980&t=6)** [[Microsoft 365]] [[Microsoft Copilot|Copilot]] is the version of [[Microsoft]]'s AI assistant that can supercharge your [[Microsoft Office|office]] applications, including [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], and Teams.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980&t=18)** Copilot and Microsoft 365 also includes the business chat, which is similar to other AI assistants that you've seen, but it can answer questions using private information from your organization, including your messages, meetings, and documents.
 >
@@ -81,18 +80,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), ai (3), [[Microsoft 365]] (3), data (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft 365]] (3), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
 
-#### Understand the Microsoft 365 Copilot subscription
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980)
+#### [Understand the Microsoft 365 Copilot subscription](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=0)** - There are different versions of Microsoft Copilot, including a free version that anybody can use at the website, copilot.[microsoft.com](https://microsoft.com).
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=0)** - There are different versions of [[Microsoft Copilot]], including a free version that anybody can use at the website, [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com).
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=9)** But the version that we are covering in this workshop is Microsoft 365 Copilot.
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=9)** But the version that we are covering in this workshop is [[Microsoft 365]] Copilot.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=15)** This is a set of AI tools designed to help people in the workplace.
 >
@@ -100,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=26)** First, you must have an existing Microsoft 365 account with a business, school, or similar organization.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=32)** Generally, this means that your employer or school has assigned a Microsoft account to you and your coworkers, which you use for Microsoft Services and applications like Word, Excel, PowerPoint, and Outlook.
+> **[0:32](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=32)** Generally, this means that your employer or school has assigned a Microsoft account to you and your coworkers, which you use for Microsoft Services and applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and [[Microsoft Outlook|Outlook]].
 >
 > **[0:45](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=45)** You can see a list of the specific Microsoft 365 licenses that are eligible here on this website.
 >
@@ -110,15 +108,15 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=75)** This Microsoft administrator is usually somebody in the IT department at your company or school.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=81)** So the tools that we will see in this workshop are only for people in an organization, however, if you are an individual not associated with an organization like this, you may want to look into Copilot Pro, that is a separate subscription for individual users, which will also enable AI tools inside of Office applications, like Word, Excel, PowerPoint, and Outlook, but for an individual account.
+> **[1:21](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=81)** So the tools that we will see in this workshop are only for people in an organization, however, if you are an individual not associated with an organization like this, you may want to look into Copilot Pro, that is a separate subscription for individual users, which will also enable AI tools inside of [[Microsoft Office|Office]] applications, like Word, Excel, PowerPoint, and Outlook, but for an individual account.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=107)** Of course, we're not covering Copilot Pro in this workshop, but for more information and context about Copilot Pro and other Copilot products, I encourage you to watch my other workshop called, "What is Copilot?
+> **[1:47](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=107)** Of course, we're not covering Copilot Pro in this workshop, but for more information and context about Copilot Pro and other Copilot [[Microsoft Products|products]], I encourage you to watch my other workshop called, "What is Copilot?
 >
-> **[2:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=120)** Get started with Microsoft's Everyday AI companion," and if you do have a Microsoft 365 account with the Microsoft 365 Copilot license, make sure you're ready to sign into that account as we go through the rest of this workshop.
+> **[2:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/understand-the-microsoft-365-copilot-subscription?u=76281980&t=120)** Get started with Microsoft's Everyday AI companion," and if you do have a Microsoft 365 account with the Microsoft 365 Copilot license, make sure you're ready to sign into that account as we go through the [[Representational State Transfer (REST)|rest]] of this workshop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft 365]] (8), [[Microsoft]] (6), ai (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft 365]] (8), [[Microsoft]] (6), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -129,18 +127,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Copilot Business Chat with your work data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980)
+#### [Use Copilot Business Chat with your work data](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=0)** - As we start using Copilot on the web, it's very important that you recognize that things change.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=0)** - As we start using [[Microsoft Copilot|Copilot]] on the web, it's very important that you recognize that things change.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=6)** Copilot is updated and changed very often.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=10)** In the past, I would recommend you start at the website, copilot.[microsoft.com](https://microsoft.com), but now the tools on this website are really only intended for individual consumers.
+> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=10)** In the past, I would recommend you start at the website, copilot.[[[Microsoft]].com](https://microsoft.com), but now the tools on this website are really only intended for individual consumers.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=19)** For business, enterprise and education users, you should go to [office.com](https://office.com) and sign in with your Microsoft 365 account.
+> **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=19)** For business, enterprise and education users, you should go to [[[Microsoft Office|office]].com](https://office.com) and sign in with your [[Microsoft 365]] account.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=28)** After signing in, you'll see a button for Copilot on the sidebar on the left.
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=111)** If you switch to the work mode, then questions you ask or requests you make in the chat will be answered using information from your organization.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=120)** So you can get information about your own calendar, your coworkers, your team communication or files that have been shared with you on OneDrive or SharePoint.
+> **[2:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=120)** So you can get information about your own calendar, your coworkers, your team communication or files that have been shared with you on [[Microsoft OneDrive|OneDrive]] or [[SharePoint]].
 >
 > **[2:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=130)** This experience is called Business Chat or Biz Chat, and it's one of the main benefits of Microsoft 365 Copilot.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=274)** So I can select one of these to see all of the questions and responses from that conversation, and I could continue that chat from here.
 >
-> **[4:42](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=282)** With the Business Chat, everything is protected by the security and privacy safeguards in Microsoft 365.
+> **[4:42](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=282)** With the Business Chat, everything is protected by the security and [[Privacy]] safeguards in Microsoft 365.
 >
 > **[4:49](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980&t=289)** You will never be able to access another person's messages, calendar or other private information.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), web (6), business (3), [[Microsoft 365]] (3), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (16), [[Microsoft 365]] (3), [[Microsoft Office|Office]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[SharePoint]] (2)
 > **CLI Commands:** make (4), find (1)
 > **URLs:** [office.com](https://office.com) (2), [microsoft.com](https://microsoft.com) (1), [microsoft365.com](https://microsoft365.com) (1)
 > **UI Navigation:** switch to (2), go to (1), open the (1)
@@ -229,16 +226,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - as (1)
 
-#### Generate drafts and modify documents in Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980)
+#### [Generate drafts and modify documents in Word](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=0)** - With Microsoft 365 Copilot, you can use AI tools inside of Office applications.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=0)** - With [[Microsoft 365]] [[Microsoft Copilot|Copilot]], you can use AI tools inside of [[Microsoft Office|Office]] applications.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=6)** In this video, we will see how to work with Copilot in Microsoft Word.
+> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=6)** In this video, we will see how to work with Copilot in [[Microsoft Word]].
 >
-> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=10)** I have a document open in Word.
+> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=10)** I have a document open in [[Microsoft Word|Word]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=12)** You can click the Account button near the top right and you should make sure that you are signed in with the account that has the Microsoft 365 Copilot subscription.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=155)** You can use natural language to write whatever request you have, and the draft will be better if you provide more information.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=162)** I'll ask it to write product descriptions comparing the different solar panel products from the company KinetEco.
+> **[2:42](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=162)** I'll ask it to write product descriptions comparing the different solar panel [[Microsoft Products|products]] from the company KinetEco.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=169)** After typing in your request, you can just click Generate, and of course, Copilot will use information that it finds online to generate a draft.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=194)** You can type the Slash key, then start typing the name of the file.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=197)** And based on what I typed, it found a PowerPoint presentation on my OneDrive, and you can reference as many as three files in each request.
+> **[3:17](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=197)** And based on what I typed, it found a [[Microsoft PowerPoint|PowerPoint]] presentation on my [[Microsoft OneDrive|OneDrive]], and you can reference as many as three files in each request.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/generate-drafts-and-modify-documents-in-word?u=76281980&t=206)** But for now, I just want to see what happens if I don't reference a file.
 >
@@ -324,25 +320,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft 365]] (4), [[Microsoft Word|Word]] (2), ai (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft 365]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Word]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - with (1)
 
-#### Analyze data in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980)
+#### [Analyze data in Excel](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=0)** - Copilot can help you work in Excel, making it much easier to sort, filter, analyze data, and more.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] can help you work in [[Microsoft Excel|Excel]], making it much easier to sort, filter, analyze data, and more.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=7)** But before we get started, Copilot in Excel will only work with files stored on one of Microsoft's online storage tools.
+> **[0:07](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=7)** But before we get started, Copilot in Excel will only work with files stored on one of [[Microsoft]]'s online storage tools.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=14)** You could use Excel on the web, but if you use the Excel Desktop application, when you open your document, you cannot open a file from your computer.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=22)** You'll need to open a file from OneDrive or SharePoint.
+> **[0:22](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=22)** You'll need to open a file from [[Microsoft OneDrive|OneDrive]] or [[SharePoint]].
 >
 > **[0:25](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=25)** With a spreadsheet open, there is an AutoSave option near the top left.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=109)** Next, let's try a filter.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=112)** There are lots of different types of products in this inventory sheet.
+> **[1:52](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=112)** There are lots of different types of [[Microsoft Products|products]] in this inventory sheet.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/analyze-data-in-excel?u=76281980&t=115)** I see inverters, batteries, solar panels, and more.
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft Excel|Excel]] (8), data (4), web (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft Excel|Excel]] (8), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
@@ -444,12 +439,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - copilot (1)
 
-#### Create and improve PowerPoint presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980)
+#### [Create and improve PowerPoint presentations](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=0)** - Copilot can be used in PowerPoint to help you draft new presentations or new slides, or it can be used to make improvements to a presentation that you already have.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] can be used in [[Microsoft PowerPoint|PowerPoint]] to help you draft new presentations or new slides, or it can be used to make improvements to a presentation that you already have.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=10)** From the welcome screen in PowerPoint, I will start a new blank presentation.
 >
@@ -473,15 +467,15 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=67)** And remember, the more information you provide, the more effective the draft will be.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=71)** And a great way to provide that information is to reference a Microsoft Word document that already contains the relevant information.
+> **[1:11](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=71)** And a great way to provide that information is to reference a [[Microsoft Word]] document that already contains the relevant information.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=79)** So I'll type make a presentation from then I want to refer to a document that I already have.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=85)** You can type the slash key followed by the name of a document and this searches through your documents from OneDrive or SharePoint.
+> **[1:25](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=85)** You can type the slash key followed by the name of a document and this searches through your documents from [[Microsoft OneDrive|OneDrive]] or [[SharePoint]].
 >
 > **[1:33](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=93)** It found the document that I wanted, so I'll select that, then send the request.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=98)** So that made a new presentation using the information from the Word document that I provided.
+> **[1:38](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=98)** So that made a new presentation using the information from the [[Microsoft Word|Word]] document that I provided.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/create-and-improve-powerpoint-presentations?u=76281980&t=103)** And Copilot can also help you add individual slides.
 >
@@ -507,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft PowerPoint|Powerpoint]] (2), next (2), management (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** open the (3)
 > **Exercise Files:** template (1)
@@ -515,14 +509,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - copilot (1)
 
-#### Draft and summarize messages in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980)
+#### [Draft and summarize messages in Outlook](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=0)** - Copilot in Outlook can help you draft email messages or get summaries of messages that you've received.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] in [[Microsoft Outlook|Outlook]] can help you draft email messages or get summaries of messages that you've received.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=6)** Copilot works in Outlook for Windows, Outlook for Mac, and even Outlook on the web.
+> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=6)** Copilot works in Outlook for [[Windows]], Outlook for Mac, and even Outlook on the web.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=11)** First, I'll select a message in my inbox, and above the message, there is an option to summarize it using Copilot.
 >
@@ -530,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=28)** So I'll click that button to get the summary, and instead of reading through all the messages and replies in this conversation, I can read the summary and I will probably find the information that I need.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=39)** Next, let's compose a new message.
+> **[0:39](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=39)** Next, let's [[Jetpack Compose|compose]] a new message.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/draft-and-summarize-messages-in-outlook?u=76281980&t=41)** I'll add somebody to the recipient field, then type in the subject line.
 >
@@ -588,19 +581,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Outlook|Outlook]] (6), [[Windows]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Outlook|Outlook]] (6), [[Windows]] (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - copilot (1)
 
-#### Leverage several Copilot tools in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/leverage-several-copilot-tools-in-microsoft-teams?u=76281980)
+#### [Leverage several Copilot tools in Microsoft Teams](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/leverage-several-copilot-tools-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/leverage-several-copilot-tools-in-microsoft-teams?u=76281980&t=0)** - There are several Copilot tools in Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/leverage-several-copilot-tools-in-microsoft-teams?u=76281980&t=0)** - There are several [[Microsoft Copilot|Copilot]] tools in [[Microsoft Teams]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/leverage-several-copilot-tools-in-microsoft-teams?u=76281980&t=4)** So let's take a quick look at some of those features.
 >
@@ -682,18 +674,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), business (5), teams (4), [[Microsoft Teams]] (3), web (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Teams]] (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Get summaries of meetings in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980)
+#### [Get summaries of meetings in Teams](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=0)** - In another video, we saw several Copilot features in Teams, but there's one more feature we need to see.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=0)** - In another video, we saw several [[Microsoft Copilot|Copilot]] features in Teams, but there's one more feature we need to see.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=6)** Copilot can offer AI recaps and summaries of meetings in Teams.
 >
@@ -761,15 +752,15 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=188)** I see the Copilot button in the top right, and I can click that to open the chat panel, and ask a question that Copilot will only be able to answer using information from the meeting transcript.
 >
-> **[3:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=199)** I'll ask, what are the challenges our banks have faced with the new online banking system?
+> **[3:19](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=199)** I'll ask, what are the challenges our banks have faced with the new online [[Banking]] system?
 >
 > **[3:26](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=206)** And Copilot is able to answer that question based on the meeting transcript.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=210)** So with the Microsoft 365 Copilot license, you have the extra ability to ask questions or ask for summaries in the AI chat while the meeting is still in progress, or from the recap tab after the meeting is finished.
+> **[3:30](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/get-summaries-of-meetings-in-teams?u=76281980&t=210)** So with the [[Microsoft 365]] Copilot license, you have the extra ability to ask questions or ask for summaries in the AI chat while the meeting is still in progress, or from the recap tab after the meeting is finished.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), ai (9), teams (2), feature (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Banking]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (3), open the (3), select the (2), click on (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)

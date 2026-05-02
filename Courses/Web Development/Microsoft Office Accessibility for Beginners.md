@@ -67,18 +67,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Office makes content and function acessible to all
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980)
+#### [Microsoft Office makes content and function acessible to all](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=0)** - [Jess] Everyone around the world has different needs, languages, learning styles, and abilities.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=6)** Microsoft 365 has a strong commitment to ensuring that everyone can create, consume, and work together no matter where you are, what language you speak, or what device or operating system you're using.
+> **[0:06](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=6)** [[Microsoft 365]] has a strong commitment to ensuring that everyone can create, consume, and work together no matter where you are, what language you speak, or what device or operating system you're using.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=20)** The tools to consume and create inclusive content are there for you to use, and I'm here to show you what those tools are and how they work.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=28)** My name is Jess Stratton, and in this very short LinkedIn Learning course, I'm going to give you a beginner-level introduction to the tools that everyone should know about and be using.
+> **[0:28](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=28)** My name is Jess Stratton, and in this very short [[LinkedIn]] Learning course, I'm going to give you a beginner-level introduction to the tools that everyone should know about and be using.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980&t=39)** If you're new to creating inclusive content and don't know where to start, or perhaps your needs have changed and you want to know what tools are out there to help you work, you've come to the right place.
 >
@@ -94,16 +93,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the Dictate tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980)
+#### [Use the Dictate tool](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=0)** - [Narrator] If you have a working microphone and an internet connection, you can use speech to text to create content.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=8)** I'll be showing you this in Word.
+> **[0:08](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=8)** I'll be showing you this in [[Microsoft Word|Word]].
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=10)** Currently, you can use the dictation tool in Word, OneNote, PowerPoint, and Outlook.
+> **[0:10](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=10)** Currently, you can use the dictation tool in Word, [[OneNote]], [[Microsoft PowerPoint|PowerPoint]], and [[Microsoft Outlook|Outlook]].
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=17)** As you can see, here it is in action and it's a very good tool.
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=29)** It's important to me that you see that these tools work the same in both platforms.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=33)** In fact, I'll most likely be on Windows for the next video and if there are any slight differences, I'll call them out.
+> **[0:33](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=33)** In fact, I'll most likely be on [[Windows]] for the next video and if there are any slight differences, I'll call them out.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=40)** Dictation is currently available in over 30 languages and you can even include punctuation and emojis.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=215)** If you're a little wary about sending your uttered speech into these important documents over the internet, that's understandable.
 >
-> **[3:42](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=222)** I did want to point out that your audio or transcribed text is not saved or stored anywhere except your document and the speech is only sent to Microsoft and only used to send back text results to you.
+> **[3:42](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=222)** I did want to point out that your audio or transcribed text is not saved or stored anywhere except your document and the speech is only sent to [[Microsoft]] and only used to send back text results to you.
 >
 > **[3:57](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980&t=237)** When you're all done dictating, you can click the X and it's going to close out of that dialogue box.
 
@@ -187,12 +185,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Request accessible content
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/request-accessible-content?u=76281980)
+#### [Request accessible content](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/request-accessible-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/request-accessible-content?u=76281980&t=1)** - [Instructor] In Outlook, you can specify that you prefer receiving accessible content from other people.
+> **[0:01](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/request-accessible-content?u=76281980&t=1)** - [Instructor] In [[Microsoft Outlook|Outlook]], you can specify that you prefer receiving accessible content from other people.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/request-accessible-content?u=76281980&t=7)** I love this feature because, not only will it be good for you, it also serves to remind others that we should all be doing this anyway as good practice.
 >
@@ -220,17 +217,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), feature (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Immersive Reader
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980)
+#### [Use the Immersive Reader](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=1)** - [Instructor] The Immersive Reader is a Microsoft Word tool that can help you both read and edit your documents.
+> **[0:01](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=1)** - [Instructor] The Immersive Reader is a [[Microsoft Word]] tool that can help you both read and edit your documents.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=7)** You can customize your experience by changing how the text appears to you.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=75)** I'll select a color.
 >
-> **[1:18](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=78)** And the Windows version of Immersive Reader has a feature called Line Focus.
+> **[1:18](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=78)** And the [[Windows]] version of Immersive Reader has a feature called Line Focus.
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=84)** This is going to narrow your reading focus and it's going to let you choose between one, three or five lines to highlight at a time so that you can move through the document line by line.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=119)** This is going to show a break character in between each syllable of words.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=124)** This is fantastic for improving both word recognition and helping with pronunciation.
+> **[2:04](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=124)** This is fantastic for improving both [[Microsoft Word|word]] recognition and helping with pronunciation.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-immersive-reader?u=76281980&t=130)** This tool is also a toggle, it's either on or off.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Microsoft Word]] (1), hit (1), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** toggle (2), click on (1), scroll up (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -295,8 +291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Have content read out loud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980)
+#### [Have content read out loud](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -306,11 +301,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=11)** There's two other ways that you can access this feature besides getting into the Immersive Reader.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=17)** In Microsoft Word, on the Home ribbon tab, you could click the Read Aloud button.
+> **[0:17](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=17)** In [[Microsoft Word]], on the Home ribbon tab, you could click the Read Aloud button.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=23)** You can also use the keyboard shortcut, Alt + Control + Space, to start it.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=30)** The Read Aloud feature is going to highlight each word as it reads your document to you.
+> **[0:30](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=30)** The Read Aloud feature is going to highlight each [[Microsoft Word|word]] as it reads your document to you.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980&t=36)** Once you click the button, it's going to start reading.
 >
@@ -334,18 +329,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Microsoft Word]] (1), [[Microsoft Word|Word]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (2), - [reader] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** right-click (1)
 
-#### Set alt tags on images
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980)
+#### [Set alt tags on images](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=2)** - [Instructor] When people with visual impairments use screen readers on software like Excel, Outlook, PowerPoint, and Word, those screen readers need to give context to what it's reading.
+> **[0:02](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=2)** - [Instructor] When people with visual impairments use screen readers on software like [[Microsoft Excel|Excel]], [[Microsoft Outlook|Outlook]], [[Microsoft PowerPoint|PowerPoint]], and [[Microsoft Word|Word]], those screen readers need to give context to what it's reading.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=15)** You can give it that context by setting alternative text, also called alt text for any shape, object, chart, or photo that you have in any of these apps.
 >
@@ -407,21 +401,20 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=182)** I won't finish this, but it's saying a pie chart depicting sales in millions.
 >
-> **[3:07](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=187)** Cloud services had 26, software had 30, and I could continue.
+> **[3:07](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=187)** [[Cloud Services]] had 26, software had 30, and I could continue.
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/set-alt-tags-on-images?u=76281980&t=193)** When you're done with your alt text, click the X to close out of the pain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1), [[Cloud Services]] (1)
 > **Analogies:** picture (4), for example (1), such as (1)
 > **UI Navigation:** checkbox (2), click on (1), toggle (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding screen reader considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980)
+#### [Understanding screen reader considerations](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=46)** In a previous video I talked about all text.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=50)** Here I have a logo in Word.
+> **[0:50](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=50)** Here I have a logo in [[Microsoft Word|Word]].
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=52)** Let's check and make sure that the all text was generated.
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=117)** This one is also set to heading two, so you'll want to go through your document and make sure that they're all set up.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=124)** For example, we have example products set to heading one.
+> **[2:04](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=124)** For example, we have example [[Microsoft Products|products]] set to heading one.
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=129)** Here's one of our products that's set to heading two.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=147)** Now it matches.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=150)** You can go through the list and set the rest of these products to heading two also.
+> **[2:30](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=150)** You can go through the list and set the [[Representational State Transfer (REST)|rest]] of these products to heading two also.
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/understanding-screen-reader-considerations?u=76281980&t=156)** I have a hyperlink in this document, use screen tips for hyperlinks if your link isn't descriptive.
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** red30 (2)
@@ -524,16 +517,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 
-#### Using the Accessibility Checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980)
+#### [Using the Accessibility Checker](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=0)** - [Instructor] Microsoft Office comes with a fantastic free tool called the Accessibility Checker.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=0)** - [Instructor] [[Microsoft Office]] comes with a fantastic free tool called the Accessibility Checker.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=6)** It's in Word, Outlook, Excel, PowerPoint, and OneNote and what the Accessibility Checker does is scans for potential issues and not only that, it tells you how to fix them and in many cases, it gives you direct links so that you can fix the issues right there on the spot.
+> **[0:06](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=6)** It's in [[Microsoft Word|Word]], [[Microsoft Outlook|Outlook]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and [[OneNote]] and what the Accessibility Checker does is scans for potential issues and not only that, it tells you how to fix them and in many cases, it gives you direct links so that you can fix the issues right there on the spot.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=25)** I'm in PowerPoint on Windows right now, and to get into the accessibility checker here, I can either change to the review tab and from here, I can click check accessibility or in any of these apps, down on the bottom left hand side of the screen, you can click where it says Accessibility Investigate.
+> **[0:25](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=25)** I'm in PowerPoint on [[Windows]] right now, and to get into the accessibility checker here, I can either change to the review tab and from here, I can click check accessibility or in any of these apps, down on the bottom left hand side of the screen, you can click where it says Accessibility Investigate.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/using-the-accessibility-checker?u=76281980&t=47)** It's going to open up the accessibility checker inspection results.
 >
@@ -593,14 +585,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Turn on live captions in Teams and PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980)
+#### [Turn on live captions in Teams and PowerPoint](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980&t=2)** - [Narrator] Both PowerPoint and Microsoft Teams now support live captions in both your presentations and Teams meetings.
+> **[0:02](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980&t=2)** - [Narrator] Both [[Microsoft PowerPoint|PowerPoint]] and [[Microsoft Teams]] now support live captions in both your presentations and Teams meetings.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980&t=10)** To set those up, I'll first start in PowerPoint and I'm on the Mac right now, but it works exactly the same on Windows.
+> **[0:10](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980&t=10)** To set those up, I'll first start in PowerPoint and I'm on the Mac right now, but it works exactly the same on [[Windows]].
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/turn-on-live-captions-in-teams-and-powerpoint?u=76281980&t=17)** Change to the slideshow ribbon tab.
 >
@@ -634,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft PowerPoint|Powerpoint]] (3), next (3), [[Microsoft Teams]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Teams]] (1), [[Windows]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
@@ -643,8 +634,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn accessibility options in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980)
+#### [Learn accessibility options in depth](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,13 +642,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=6)** If you want to learn more about this, we have many in-depth courses, as this was just an overview of the tools.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=13)** We have [[Accessibility for Web Design]], [[Foundations of Accessible Elearning]], [[Creating Accessible PDFs]], and finally, Supporting Workers with Disabilities.
+> **[0:13](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=13)** We have [[Accessibility for [[Web Design]]]], [[Foundations of Accessible Elearning]], [[Creating Accessible PDFs]], and finally, Supporting Workers with Disabilities.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=24)** If you have any questions or comments, you can find me on Twitter, @Nerdgirljess, or follow me on LinkedIn.
+> **[0:24](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980&t=24)** If you have any questions or comments, you can find me on Twitter, @Nerdgirljess, or follow me on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [jess] (1)
 

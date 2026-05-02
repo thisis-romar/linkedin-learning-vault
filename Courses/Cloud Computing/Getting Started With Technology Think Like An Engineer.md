@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thinking like an engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/thinking-like-an-engineer?u=76281980)
+#### [Thinking like an engineer](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/thinking-like-an-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,12 +88,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1)
 > **Analogies:** it's like (1), just like (1)
 > **Speakers:** - [kathryn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/what-you-should-know-14349707?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/what-you-should-know-14349707?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +113,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
@@ -127,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coding languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980)
+#### [Coding languages](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=10)** If you are working with websites, these are the languages you are most likely to see.
 >
-> **[0:15](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=15)** HTML is the one most people start off with.
+> **[0:15](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=15)** [[HTML]] is the one most people start off with.
 >
 > **[0:18](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=18)** HTML stands for hypertext markup language, and it helps us create the skeleton for our content.
 >
@@ -146,13 +141,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=34)** Websites with just HTML or like those websites from the 80s, no design, only text.
 >
-> **[0:41](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=41)** To add some design to our web pages, one tool we can use is called CSS or cascading style sheets.
+> **[0:41](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=41)** To add some design to our web pages, one tool we can use is called CSS or [[Cascading Style Sheets (CSS)|cascading style sheets]].
 >
 > **[0:47](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=47)** CSS is like the skin to our skeleton.
 >
 > **[0:50](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=50)** It helps us format and beautified the skeleton code that holds our content.
 >
-> **[0:55](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=55)** More complicated languages include JavaScript and Ruby.
+> **[0:55](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=55)** More complicated languages include [[JavaScript]] and Ruby.
 >
 > **[0:58](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=58)** JavaScript adds the muscle to our web applications.
 >
@@ -172,13 +167,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=96)** Ruby is just a newer language.
 >
-> **[1:38](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=98)** For all of these languages and tools, we write our code inside of a code editor, just like someone might use word to write a book.
+> **[1:38](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=98)** For all of these languages and tools, we write our code inside of a code editor, just like someone might use [[Microsoft Word|word]] to write a book.
 >
 > **[1:45](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=105)** We'll need to have a code editor to write our website code.
 >
-> **[1:49](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=109)** If you're working with apps, you're probably trying to make an app for either iOS or Android.
+> **[1:49](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=109)** If you're working with apps, you're probably trying to make an app for either iOS or [[Android]].
 >
-> **[1:54](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=114)** iOS apps are created with a software called Xcode and are written either in Objective-C or Swift.
+> **[1:54](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=114)** iOS apps are created with a software called [[Xcode]] and are written either in Objective-C or [[Swift (Programming Language)|Swift]].
 >
 > **[2:01](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=121)** Swift came out a few years ago and it's what most people are learning to create iOS applications.
 >
@@ -188,19 +183,19 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=133)** An alternative to iOS is Android, and Android applications are created with Android Studio, which is a software you can download on any computer.
 >
-> **[2:22](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=142)** Android apps are also written in a language called Java.
+> **[2:22](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=142)** Android apps are also written in a language called [[Java]].
 >
 > **[2:25](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=145)** This is different from JavaScript.
 >
 > **[2:27](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=147)** However, depending on what you're building, you might draw from other coding languages as well.
 >
-> **[2:32](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=152)** Whether you build an iOS or Android application, you will most likely learn the same types of programming concepts.
+> **[2:32](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=152)** Whether you build an iOS or Android application, you will most likely learn the same types of [[Programming Concepts]].
 >
 > **[2:39](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=159)** So any platform is a good choice.
 >
-> **[2:42](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=162)** If you are interested in analytics, R in Python are the most popular languages to use.
+> **[2:42](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=162)** If you are interested in analytics, R in [[Python (Programming Language)|Python]] are the most popular languages to use.
 >
-> **[2:47](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=167)** R is written in an application called RStudio, while Python can be written using a number of different softwares.
+> **[2:47](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=167)** R is written in an application called [[RStudio]], while Python can be written using a number of different softwares.
 >
 > **[2:54](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=174)** The most popular are PyCharm and Eclipse.
 >
@@ -208,7 +203,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=179)** So if you are new to coding, I'd recommend Python as a good language to learn first.
 >
-> **[3:04](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=184)** However, if you are interested more in the visualization of statistics, R maybe a better way to go.
+> **[3:04](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=184)** However, if you are interested more in the visualization of [[Statistics]], R maybe a better way to go.
 >
 > **[3:10](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980&t=190)** However, Python is great if you are interested in integrating data into web applications.
 >
@@ -232,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[HTML]] (5), [[JavaScript]] (5), [[Python (Programming Language)|Python]] (5), web (4)
+> **Frameworks & Libraries:** [[Android]] (6), [[HTML]] (5), [[JavaScript]] (5), [[Python (Programming Language)|Python]] (5), [[Xcode]] (2)
 > **CLI Commands:** ruby (7), python (5), rails (2), make (1)
 > **Env Vars:** html (5), css (3)
 > **Code Identifiers:** ios (6)
@@ -241,8 +236,7 @@ created: 2026-05-02
 > **Tools:** pycharm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making a website: What it's like
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980)
+#### [Making a website: What it's like](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=70)** After drawing it all out, you'll want to create a skeleton.
 >
-> **[1:13](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=73)** This will consist of HTML code that inserts the images, texts and other content you would want on your web page.
+> **[1:13](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=73)** This will consist of [[HTML]] code that inserts the images, texts and other content you would want on your web page.
 >
 > **[1:21](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=81)** As an example, this is what my website looks with just HTML code.
 >
@@ -300,7 +294,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=118)** We can also change how the header looks on the screen.
 >
-> **[2:01](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=121)** This involves design, so we'll need to add some CSS, or cascading style sheets.
+> **[2:01](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=121)** This involves design, so we'll need to add some CSS, or [[Cascading Style Sheets (CSS)|cascading style sheets]].
 >
 > **[2:07](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-website-what-it-s-like-14349706?u=76281980&t=127)** Continuing with our example, let's say we wanted to make this big title red.
 >
@@ -316,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2), web (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** html (4), css (2)
 > **Tools:** sublime (1), atom (1)
 > **CLI Commands:** make (1)
@@ -324,8 +318,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making a mobile app: What it's like
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-mobile-app-what-it-s-like-14353503?u=76281980)
+#### [Making a mobile app: What it's like](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-mobile-app-what-it-s-like-14353503?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,18 +406,17 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-mobile-app-what-it-s-like-14353503?u=76281980&t=193)** This is exactly the kind of logic that's used in coding.
 >
-> **[3:17](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-mobile-app-what-it-s-like-14353503?u=76281980&t=197)** If Android is your thing, check out the Java Central Training course, and then move on to the Learning Android App Development course.
+> **[3:17](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/making-a-mobile-app-what-it-s-like-14353503?u=76281980&t=197)** If [[Android]] is your thing, check out the [[Java]] Central Training course, and then move on to the Learning Android App Development course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), mobile application (2), [[Android]] (2), web (1), application (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Java]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why use an analytics tool?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980)
+#### [Why use an analytics tool?](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,23 +446,22 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=72)** You might want to use this type of thinking to see what types of users download your app or visit your website.
 >
-> **[1:18](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=78)** There are lots of use cases for analytics, and if you are interested, data science might be for you.
+> **[1:18](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=78)** There are lots of use cases for analytics, and if you are interested, [[Data Science]] might be for you.
 >
 > **[1:23](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=83)** If you are excited about crowdsourcing information and getting feedback from your own websites and apps, knowing data science is essential.
 >
-> **[1:31](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=91)** You'll usually be coding in either Python or R.
+> **[1:31](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=91)** You'll usually be coding in either [[Python (Programming Language)|Python]] or R.
 >
 > **[1:34](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/why-use-an-analytics-tool?u=76281980&t=94)** Check out the Understanding Data Science course to get a bigger preview of what data science is all about, or dive deep into the [[Introduction to Data Science]] course to get a comprehensive overview of modern data science.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating AI programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980)
+#### [Creating AI programs](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,13 +471,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=14)** AI solves this by learning from data and making decisions in real time, providing more dynamic, adaptable, and intelligent applications.
 >
-> **[0:24](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=24)** For example, consider a customer support chatbot.
+> **[0:24](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=24)** For example, consider a [[Customer Support]] chatbot.
 >
 > **[0:28](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=28)** A traditional rules-based system would require pre-programmed responses for every possible user query.
 >
 > **[0:35](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=35)** But with AI, the chatbot can learn from conversations, improve its understanding of user questions, and offer more accurate answers over time.
 >
-> **[0:45](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=45)** AI encompasses a variety of techniques, from machine learning to natural language processing to computer vision.
+> **[0:45](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=45)** AI encompasses a variety of techniques, from machine learning to [[Natural Language Processing (NLP)|natural language processing]] to [[Computer Vision]].
 >
 > **[0:52](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/creating-ai-programs?u=76281980&t=52)** Depending on your problem, you'll need to choose the appropriate type.
 >
@@ -518,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (6), chatbot (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Computer Vision]] (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Computer Vision]] (2), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -529,8 +520,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Efficiency is key
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/efficiency-is-key-14354393?u=76281980)
+#### [Efficiency is key](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/efficiency-is-key-14354393?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,13 +572,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Problem-solving: Think systematically
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980)
+#### [Problem-solving: Think systematically](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,11 +620,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=103)** In the software world, say you are making a website and you want to center an image on the homepage.
 >
-> **[1:48](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=108)** If you are coding this in HTML and CSS, a good thing to search would be HTML CSS centering an image.
+> **[1:48](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=108)** If you are coding this in [[HTML]] and CSS, a good thing to search would be HTML CSS centering an image.
 >
 > **[1:56](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=116)** When you are searching for a solution, it's important to be as descriptive as possible, providing the language, the software you using, as well as the problem that you're trying to solve.
 >
-> **[2:07](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=127)** Usually, you'll find stuff from Stack Overflow, GitHub and W3Schools, and I highly recommend these resources.
+> **[2:07](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=127)** Usually, you'll find stuff from Stack Overflow, [[GitHub]] and W3Schools, and I highly recommend these resources.
 >
 > **[2:15](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/problem-solving-think-systematically-14349710?u=76281980&t=135)** Breaking down problems and coming up with a solution to each individual step is often the way we approach problems here in engineering.
 >
@@ -646,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[HTML]] (2), css (2), [[GitHub]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[GitHub]] (1)
 > **Prerequisites:** you'll need (5)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (1), find (1)
@@ -655,8 +643,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 
-#### Coding: Readable, shareable, and color-coded
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-readable-shareable-and-color-coded-14349708?u=76281980)
+#### [Coding: Readable, shareable, and color-coded](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-readable-shareable-and-color-coded-14349708?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +697,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (2)
 > **Tools:** sublime (2)
@@ -719,12 +705,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980)
+#### [Testing applications](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=0)** - [Instructor] One of the core principles of software development is ensuring that the code you write works as expected and continues to work as the application evolves.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=0)** - [Instructor] One of the core principles of [[Software Development]] is ensuring that the code you write works as expected and continues to work as the application evolves.
 >
 > **[0:09](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=9)** This is where testing comes in.
 >
@@ -736,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=27)** Testing can be done manually or automatically, depending on the scenario.
 >
-> **[0:32](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=32)** Manual testing involves running the application and checking that various features work as expected.
+> **[0:32](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=32)** [[Manual Testing]] involves running the application and checking that various features work as expected.
 >
 > **[0:39](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=39)** This can be useful for catching user interface issues invalidating complex workflows, but nowadays most of our testing can be automated.
 >
@@ -746,9 +731,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=67)** Beyond verifying functionality, testing also includes evaluating how your application handles larger loads, traffic spikes, and extended usage.
 >
-> **[1:17](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=77)** Performance, and scalability tests are important to ensure that the system remains stable and responsive under different conditions.
+> **[1:17](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=77)** Performance, and [[Scalability]] tests are important to ensure that the system remains stable and responsive under different conditions.
 >
-> **[1:25](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=85)** Testing is often done by quality assurance teams, but it should also be done by the author of the code.
+> **[1:25](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=85)** Testing is often done by [[Quality Assurance]] teams, but it should also be done by the author of the code.
 >
 > **[1:32](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/testing-applications?u=76281980&t=92)** You are responsible for the code changes you make.
 >
@@ -756,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Software Development]] (1), [[Manual Testing]] (1), traffic (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Manual Testing]] (1), [[Scalability]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -765,8 +750,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your journey with technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/your-journey-with-technology?u=76281980)
+#### [Your journey with technology](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/your-journey-with-technology?u=76281980)
 
 > [!transcript]- Transcript
 >

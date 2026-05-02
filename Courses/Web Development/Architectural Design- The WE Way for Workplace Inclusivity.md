@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the WE Way
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980)
+#### [Welcome to the WE Way](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -77,7 +76,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980&t=6)** At work.
 >
-> **[0:07](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980&t=7)** As architects, designers, space owners, and experienced artists, we have an opportunity to provide multi-generational workspaces that are efficient, agile, sustainable, safe, and inclusive.
+> **[0:07](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980&t=7)** As architects, designers, space owners, and experienced artists, we have an opportunity to provide multi-generational workspaces that are efficient, [[Agile Development|agile]], sustainable, safe, and inclusive.
 >
 > **[0:25](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980&t=25)** In this course, I'll introduce you to my unique framework, The Workplace Experience Way, also known as The WE Way, where it's not about how to design space per se, but rather how to reimagine architectural design as an inclusive way for everyone in your organization to feel seen, welcomed, valued, and loved.
 >
@@ -99,12 +98,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 
-#### The four keys of the WE Way: Your commons, sanctuary, neighborhood, and cocoon
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/the-four-keys-of-the-we-way-your-commons-sanctuary-neighborhood-and-cocoon?u=76281980)
+#### [The four keys of the WE Way: Your commons, sanctuary, neighborhood, and cocoon](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/the-four-keys-of-the-we-way-your-commons-sanctuary-neighborhood-and-cocoon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,7 +166,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), teams (1), game (1)
 > **Definitions:** known as (1), refers to (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - whether (1)
@@ -178,8 +175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your commons: Where your space speaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980)
+#### [Your commons: Where your space speaks](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980&t=221)** Is it strong? Is it safe? Is it warm?
 >
-> **[3:44](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980&t=224)** Is it, blah? Is it exciting? Is it agile?
+> **[3:44](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980&t=224)** Is it, blah? Is it exciting? Is it [[Agile Development|agile]]?
 >
 > **[3:48](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980&t=228)** Is it rigid? Or is it tech forward?
 >
@@ -253,14 +249,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), cloud (1), business (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1), apt (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - have (1)
 
-#### Your commons: Take ownership of your authentic story to the world
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980)
+#### [Your commons: Take ownership of your authentic story to the world](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=23)** Let me tell you a story.
 >
-> **[0:26](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=26)** In 1961, president John F. Kennedy was visiting NASA headquarters for the first time.
+> **[0:26](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=26)** In 1961, president [[John the Ripper|John]] F. Kennedy was visiting NASA headquarters for the first time.
 >
 > **[0:33](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=33)** And while touring the facility, he introduced himself to a janitor who was mopping the floor and asked him what he did at NASA.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=124)** Their comments embodies Airbnb's authentic story and unique invitation to belong anywhere.
 >
-> **[2:14](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=134)** By taking ownership of your own authentic story, you have an opportunity to showcase your values and to support an intentional storytelling of your organization through space.
+> **[2:14](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=134)** By taking ownership of your own authentic story, you have an opportunity to showcase your values and to support an intentional [[Storytelling]] of your organization through space.
 >
 > **[2:30](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-take-ownership-of-your-authentic-story-to-the-world?u=76281980&t=150)** So let's take a moment here to pause and to reflect on your organizational values.
 >
@@ -318,13 +313,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Storytelling]] (1)
 > **Env Vars:** nasa (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - by (1)
 
-#### Your commons: Your space as an invitation to foster diversity, inclusion, and belonging
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging?u=76281980)
+#### [Your commons: Your space as an invitation to foster diversity, inclusion, and belonging](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging?u=76281980&t=45)** When we all learn to apply an inclusive consciousness to architectural design.
 >
-> **[0:52](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging?u=76281980&t=52)** We spend $8 billion a year on diversity and inclusion yet 75% of us say we have not benefited from our company's DNI programs.
+> **[0:52](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging?u=76281980&t=52)** We spend $8 billion a year on [[Diversity and Inclusion]] yet 75% of us say we have not benefited from our company's DNI programs.
 >
 > **[1:03](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-your-space-as-an-invitation-to-foster-diversity-inclusion-and-belonging?u=76281980&t=63)** In the U.S. the federal government has found that race and gender disparities have resulted in losses to the GDP by $2.6 trillion, trillion not billion, and this was in 2019 alone.
 >
@@ -386,8 +380,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - good (1)
 
-#### Your commons: The practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-the-practice?u=76281980)
+#### [Your commons: The practice](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-the-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-the-practice?u=76281980&t=86)** Who will you be expressing your ethos and your values to?
 >
-> **[1:31](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-the-practice?u=76281980&t=91)** Ideally, this will include everyone from your C suite to your back office, to your customers and vendors, write it down and do not move to the next step until the step is complete.
+> **[1:31](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-the-practice?u=76281980&t=91)** Ideally, this will include everyone from your C suite to your back [[Microsoft Office|office]], to your customers and vendors, write it down and do not move to the next step until the step is complete.
 >
 > **[1:45](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-the-practice?u=76281980&t=105)** The third contemplation: What spaces will perform your organizational values?
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
@@ -466,8 +459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your sanctuary: Where your people restore, recuperate, and rejuvenate
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate?u=76281980)
+#### [Your sanctuary: Where your people restore, recuperate, and rejuvenate](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,13 +497,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - our (1)
 
-#### Your sanctuary: Your space as a warm invitation to bring your whole self to work
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980)
+#### [Your sanctuary: Your space as a warm invitation to bring your whole self to work](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +515,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=35)** And guess what? You invite them to do so as an exciting part of their job.
 >
-> **[0:42](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=42)** Innovative organizations attract and retain their beloved employees and customers with sanctuaries like sports and wellness facilities that empower employees to bring more of themselves to work.
+> **[0:42](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=42)** Innovative organizations attract and retain their beloved employees and customers with sanctuaries like sports and [[Wellness]] facilities that empower employees to bring more of themselves to work.
 >
 > **[0:58](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=58)** But you may still be asking, Oshoka, I don't get it.
 >
@@ -533,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=71)** Well, the data tells us that 34% of US employees are engaged and 16.5% of us are actually actively disengaged.
 >
-> **[1:23](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=83)** So what are the rest of us doing, playing Angry Birds?
+> **[1:23](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=83)** So what are the [[Representational State Transfer (REST)|rest]] of us doing, playing Angry Birds?
 >
 > **[1:29](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-your-space-as-a-warm-invitation-to-bring-your-whole-self-to-work?u=76281980&t=89)** These numbers, believe it or not, affect your business bottom line.
 >
@@ -555,13 +545,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Wellness]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1), express (1)
+> **Frameworks & Libraries:** [[Wellness]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 16.5 (1)
 > **Speakers:** - where (1)
 
-#### Your sanctuary: Build delight into the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-build-delight-into-the-workplace?u=76281980)
+#### [Your sanctuary: Build delight into the workplace](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-build-delight-into-the-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,14 +586,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - architectural (1)
 
-#### Your sanctuary: The practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-the-practice?u=76281980)
+#### [Your sanctuary: The practice](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-the-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +655,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
@@ -677,8 +663,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your neighborhood: Where your people connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980)
+#### [Your neighborhood: Where your people connect](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980&t=52)** How could this be?
 >
-> **[0:54](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980&t=54)** Well, each one had an office with an adjacent meeting room that they spend the majority of their time at, but they did not have the spatial invitation to freely move about their space.
+> **[0:54](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980&t=54)** Well, each one had an [[Microsoft Office|office]] with an adjacent meeting room that they spend the majority of their time at, but they did not have the spatial invitation to freely move about their space.
 >
 > **[1:06](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980&t=66)** So they were together in the same building, but siloed in their different worlds.
 >
@@ -754,14 +739,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft Office|Office]] (2), business (2), game (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Analogies:** for example (1), similar to (1), for instance (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - your (1)
 
-#### Your neighborhood: Reimagine your back office
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-reimagine-your-back-office?u=76281980)
+#### [Your neighborhood: Reimagine your back office](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-reimagine-your-back-office?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +755,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-reimagine-your-back-office?u=76281980&t=15)** Your neighborhood invites you to reimagine how to meet the boring, functional needs of your people as an important aspect of workspace design.
 >
-> **[0:25](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-reimagine-your-back-office?u=76281980&t=25)** These deliberate considerations of your back office areas matter.
+> **[0:25](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-reimagine-your-back-office?u=76281980&t=25)** These deliberate considerations of your back [[Microsoft Office|office]] areas matter.
 >
 > **[0:31](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-reimagine-your-back-office?u=76281980&t=31)** Traditionally, your back office would include spaces like pantries, mail room, printing, recycling, storage, tech support space, restrooms, to name but a few.
 >
@@ -807,12 +791,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), functional (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
 
-#### Your neighborhood: Become a conductor of human connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-become-a-conductor-of-human-connection?u=76281980)
+#### [Your neighborhood: Become a conductor of human connection](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-become-a-conductor-of-human-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,15 +849,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), functional (1), business (1), game (1), next (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** roi (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - far (1)
 
-#### Your neighborhood: The practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-the-practice?u=76281980)
+#### [Your neighborhood: The practice](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-the-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-the-practice?u=76281980&t=61)** The first contemplation, what is your commitments to building collaborative spaces?
 >
-> **[1:08](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-the-practice?u=76281980&t=68)** For example, I'm committed to more diversity of choice, I'm committed to freedom of movement or I'll reimagine my back office space, et cetera.
+> **[1:08](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-the-practice?u=76281980&t=68)** For example, I'm committed to more diversity of choice, I'm committed to freedom of movement or I'll reimagine my back [[Microsoft Office|office]] space, et cetera.
 >
 > **[1:18](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-the-practice?u=76281980&t=78)** Write this down and do not move to the next step until the step is complete.
 >
@@ -938,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), teams (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - well (1)
 
@@ -947,8 +928,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your cocoon: Love and honor your worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980)
+#### [Your cocoon: Love and honor your worker](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,9 +940,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=31)** So from a furniture baseline, you may contemplate, hmm, sitting is the new smoking, so how may I provide each and every one of my beloved with access to ergonomic seating and sit/stand desks?
 >
-> **[0:46](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=46)** From another wellness baseline, you may ask yourself, how may I provide everyone with access to daylight?
+> **[0:46](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=46)** From another [[Wellness]] baseline, you may ask yourself, how may I provide everyone with access to daylight?
 >
-> **[0:52](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=52)** How may I provide them options regarding their privacy?
+> **[0:52](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=52)** How may I provide them options regarding their [[Privacy]]?
 >
 > **[0:56](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=56)** How do I make sure I don't select toxic materials?
 >
@@ -992,7 +972,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=184)** So imagine a future workplace where on your first day, instead of being shown to one desk and one chair as your workspace experience, you're presented with your cocoon as your architectural menu of choice in support of your greatest personalized work experience.
 >
-> **[3:25](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=205)** A spacious locker, a focus room with a walk station, a traditional office, a hot desk in a cafe-like setting.
+> **[3:25](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=205)** A spacious locker, a focus room with a walk station, a traditional [[Microsoft Office|office]], a hot desk in a cafe-like setting.
 >
 > **[3:34](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980&t=214)** Your cocoon is your contemplation of the workspaces that directly impact each unique individual.
 >
@@ -1010,8 +990,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - your (1)
 
-#### Your cocoon: Where your people focus
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980)
+#### [Your cocoon: Where your people focus](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=42)** Your cocoon can help with choice as your new minimum standard.
 >
-> **[0:47](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=47)** Spaces like quiet rooms, focus rooms and think pods that provide privacy and uninterrupted focus to those who require it.
+> **[0:47](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=47)** Spaces like quiet rooms, focus rooms and think pods that provide [[Privacy]] and uninterrupted focus to those who require it.
 >
 > **[0:59](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=59)** Back in 1980, more than half of workers had no privacy in the workplace.
 >
@@ -1051,7 +1030,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=157)** It gives them the time and space to calm their sensory systems and regain control of their emotions.
 >
-> **[2:45](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=165)** Leading organizations like Procter & Gamble, Google, T-Mobile, are just a few of the companies incorporating cocoons as room to think into their corporate standards.
+> **[2:45](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=165)** Leading organizations like Procter & Gamble, [[Google]], T-Mobile, are just a few of the companies incorporating cocoons as room to think into their corporate standards.
 >
 > **[2:59](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-where-your-people-focus?u=76281980&t=179)** This approach helps to create a workplace climate in which people feel supported to give the best of themselves every day.
 >
@@ -1059,11 +1038,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Google]] (1)
 > **Speakers:** - work (1)
 
-#### Your cocoon: The practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-the-practice?u=76281980)
+#### [Your cocoon: The practice](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-the-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1075,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-the-practice?u=76281980&t=71)** Which individual's wellbeing do you choose to support through your design choices?
 >
-> **[1:18](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-the-practice?u=76281980&t=78)** Are you including everyone, from the C-suite to the back office, to your customers and vendors?
+> **[1:18](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-the-practice?u=76281980&t=78)** Are you including everyone, from the C-suite to the back [[Microsoft Office|office]], to your customers and vendors?
 >
 > **[1:25](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-the-practice?u=76281980&t=85)** What do you see?
 >
@@ -1141,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - great (1)
 
@@ -1150,8 +1128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A call to action
-> [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/a-call-to-action?u=76281980)
+#### [A call to action](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/a-call-to-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1160,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - well (1)
 

@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,19 +99,18 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980&t=62)** We'll do this on two live projects from start to finish.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980&t=66)** All this is in Learning Graphic Design: Layouts.
+> **[1:06](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980&t=66)** All this is in Learning [[Graphic Design]]: Layouts.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980&t=70)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - layout (1)
 
-#### What is layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/what-is-layout?u=76281980)
+#### [What is layout](https://www.linkedin.com/learning/learning-graphic-design-layouts/what-is-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,14 +170,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), data (1)
 > **Analogies:** think of it as (2), it's like (1)
 > **CLI Commands:** snap (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - layout (1)
 
-#### The hidden page (visible and invisible properties)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-hidden-page-visible-and-invisible-properties?u=76281980)
+#### [The hidden page (visible and invisible properties)](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-hidden-page-visible-and-invisible-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +229,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - layout (1)
@@ -243,8 +238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep it simple
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/keep-it-simple?u=76281980)
+#### [Keep it simple](https://www.linkedin.com/learning/learning-graphic-design-layouts/keep-it-simple?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,8 +317,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - every (1)
 
-#### Have a focal point and think boldly
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/have-a-focal-point-and-think-boldly?u=76281980)
+#### [Have a focal point and think boldly](https://www.linkedin.com/learning/learning-graphic-design-layouts/have-a-focal-point-and-think-boldly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,8 +404,7 @@ created: 2026-05-02
 > **CLI Commands:** make (7)
 > **Speakers:** - always (1)
 
-#### The necessary silence of white space
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-necessary-silence-of-white-space?u=76281980)
+#### [The necessary silence of white space](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-necessary-silence-of-white-space?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,7 +416,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-necessary-silence-of-white-space?u=76281980&t=10)** I think the most important thing about white is that it is visual silence.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-necessary-silence-of-white-space?u=76281980&t=15)** It's a pause, it's rest.
+> **[0:15](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-necessary-silence-of-white-space?u=76281980&t=15)** It's a pause, it's [[Representational State Transfer (REST)|rest]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-graphic-design-layouts/the-necessary-silence-of-white-space?u=76281980&t=19)** The fact that there's silence around something allows you to concentrate on the thing.
 >
@@ -451,8 +443,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - white (1)
 
-#### Handling images
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/handling-images?u=76281980)
+#### [Handling images](https://www.linkedin.com/learning/learning-graphic-design-layouts/handling-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,8 +506,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Symmetrical
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980)
+#### [Symmetrical](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=20)** This is for convenience as much as anything.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=22)** Typography of course is always a part of your design, and often a big part, but this course is about layout, so I wanna keep the type differences to a minimum.
+> **[0:22](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=22)** [[Typography]] of course is always a part of your design, and often a big part, but this course is about layout, so I wanna keep the type differences to a minimum.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=31)** Minion is an excellent text face.
 >
@@ -556,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=85)** We're looking here at a half-inch.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=87)** Fill it with 12-point text, which is as big as you wanna go, and you get a jam-packed page with 115-character lines like this and nowhere to rest.
+> **[1:27](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=87)** Fill it with 12-point text, which is as big as you wanna go, and you get a jam-packed page with 115-character lines like this and nowhere to [[Representational State Transfer (REST)|rest]].
 >
 > **[1:37](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980&t=97)** It's a torrent of data, all grey, very difficult to deal with.
 >
@@ -608,13 +598,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Typography]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Typography]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Asymmetrical
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/asymmetrical?u=76281980)
+#### [Asymmetrical](https://www.linkedin.com/learning/learning-graphic-design-layouts/asymmetrical?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,8 +714,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), as we saw (1)
 > **Speakers:** - grids (1)
 
-#### Two-page book grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/two-page-book-grid?u=76281980)
+#### [Two-page book grid](https://www.linkedin.com/learning/learning-graphic-design-layouts/two-page-book-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,8 +761,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A campus poster
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980)
+#### [A campus poster](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +787,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=77)** It's cropped to this side and we can't make it any bigger.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=80)** The second thing is that we have some incredibly stark color contrasts.
+> **[1:20](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=80)** The second thing is that we have some incredibly [[Stark (Accessibility Software)|stark]] color contrasts.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=86)** His very dark skin and very dark suit against a very light background and a very light shirt, which is going to, as you'll see, cause a few problems as we're working and we're going to have to find work arounds for those.
 >
@@ -822,7 +809,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=180)** I'm a big fan of being conservative with type choices unless there's a super reason to have something kind of quirky or gingerbready or whatever.
 >
-> **[3:10](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=190)** I like, well, just conservative choices and so the one that came to mind immediately for the topic of jazz reached all the way back to the 1960s and the famous Dave Brubeck and his band came out with an album, a Greatest Hits album that looked like this and you can see the typography on it.
+> **[3:10](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=190)** I like, well, just conservative choices and so the one that came to mind immediately for the topic of jazz reached all the way back to the 1960s and the famous Dave Brubeck and his band came out with an album, a Greatest Hits album that looked like this and you can see the [[Typography]] on it.
 >
 > **[3:29](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=209)** We have a very bold condensed sans serif typeface that's very tightly set both letter spacing and line spacing and then all the song titles are off to the side and you can see there's three songs per big line of type til the last one, I see there's two.
 >
@@ -894,7 +881,7 @@ created: 2026-05-02
 >
 > **[9:04](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=544)** Maybe here or even a little bit lower.
 >
-> **[9:06](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=546)** So the Jax is up just above his eyes, the Croll is right below his lips and it forms kind of this visual block across here, the problem being you can see is the conflict we have between the black type and his black suit and also on this composition, it just leave a big empty space up at the top, so we would have to put our smaller information up there and that would have things out of sequence.
+> **[9:06](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=546)** So the Jax is up just above his eyes, the Croll is right below his lips and it [[Forms]] kind of this visual block across here, the problem being you can see is the conflict we have between the black type and his black suit and also on this composition, it just leave a big empty space up at the top, so we would have to put our smaller information up there and that would have things out of sequence.
 >
 > **[9:34](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=574)** Really, he's the focal point and his name is a focal point and they need to be prominent and bold and in a superior position, so this doesn't work, either.
 >
@@ -998,7 +985,7 @@ created: 2026-05-02
 >
 > **[16:58](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=1018)** Like September 23rd?
 >
-> **[17:00](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=1020)** The easy answer for that is let's just abbreviate it and fit it right in that same text column, and then she was playing the devil's advocate and she said well what if my director comes in and says she wants the word September spelled out?
+> **[17:00](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=1020)** The easy answer for that is let's just abbreviate it and fit it right in that same text column, and then she was playing the devil's advocate and she said well what if my director comes in and says she wants the [[Microsoft Word|word]] September spelled out?
 >
 > **[17:15](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980&t=1035)** I had to laugh.
 >
@@ -1032,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Typography]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Typography]] (1), [[Forms]] (1)
 > **CLI Commands:** make (11), find (3), ls (2)
 > **Definitions:** is a  (8), is an  (1)
 > **Analogies:** picture (8), it's like (1)
@@ -1040,8 +1027,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [teacher] (1)
 
-#### A magazine article
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-magazine-article?u=76281980)
+#### [A magazine article](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-magazine-article?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1089,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-magazine-article?u=76281980&t=217)** What I prefer to do is reduce the size of the sans-serif type and so that X-height matches whenever possible, like this.
 >
-> **[3:48](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-magazine-article?u=76281980&t=228)** Now we'll get rid of this guide, zoom back out and there's our lead.
+> **[3:48](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-magazine-article?u=76281980&t=228)** Now we'll get rid of this guide, [[Zoom]] back out and there's our lead.
 >
 > **[3:55](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-magazine-article?u=76281980&t=235)** Next step is to add the first bit of body text to this.
 >
@@ -1309,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** picture (15), for example (1), just like (1)
 > **Definitions:** is a  (14), is an  (1)
 > **Cross-References:** earlier in (2), as we saw (2), as you saw (1), we talked about (1)
@@ -1322,8 +1308,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/learning-graphic-design-layouts/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >

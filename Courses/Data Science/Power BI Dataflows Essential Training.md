@@ -79,44 +79,42 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing your data with Power BI dataflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980)
+#### [Optimizing your data with Power BI dataflows](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=0)** - [Helen] Power BI lets us keep up with the increasing demand to understand data trends, and the growing volume of data that drives it.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=0)** - [Helen] [[Microsoft Power BI|Power BI]] lets us keep up with the increasing demand to understand data trends, and the growing volume of data that drives it.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=8)** You can transform the data connection into an efficient, useful table in Power Query Online for other users to connect to.
+> **[0:08](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=8)** You can transform the data connection into an efficient, useful table in [[Microsoft Power Query|Power Query]] Online for other users to connect to.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=16)** You can create dashboards with different views at the same data flow.
+> **[0:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=16)** You can create [[Dashboards]] with different views at the same data flow.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=21)** You can automatically refresh data in the data flow to the latest numbers.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=26)** Hi, I'm Helen Wall, and I'm a data analytics enthusiast who enjoys sharing the incredible capabilities that we can tap into with Power BI.
 >
-> **[0:34](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=34)** Come join me in my LinkedIn Learning course on Power BI data flows.
+> **[0:34](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980&t=34)** Come join me in my [[LinkedIn]] Learning course on Power BI data flows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (3), bi (3), [[Microsoft Power Query|Power query]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Power Query|Power query]] (1), [[Dashboards]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [helen] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] You'll need at least a beginning knowledge of Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] You'll need at least a beginning knowledge of [[Microsoft Power BI|Power BI]].
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980&t=3)** In the library you can check out the Essential Training course to get a fast start on using the application.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980&t=9)** Most of the examples are in the cloud service, so it's also beneficial to at least understand why we want to leverage the standardations and scalability it offers us.
+> **[0:09](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980&t=9)** Most of the examples are in the cloud service, so it's also beneficial to at least understand why we want to leverage the standardations and [[Scalability]] it offers us.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/what-you-should-know?u=76281980&t=20)** You'll find the course more beneficial if you know the premise of using ETL frameworks for different sources of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), application (1), cloud (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** etl (1)
 > **Prerequisites:** you'll need (1)
@@ -127,18 +125,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating the Power BI ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980)
+#### [Navigating the Power BI ecosystem](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=0)** - [Instructor] Power BI allows you to create scalable, visually-interactive dashboards, or what Microsoft officially calls reports, that you can share with a large group of end users.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=0)** - [Instructor] [[Microsoft Power BI|Power BI]] allows you to create scalable, visually-interactive [[Dashboards]], or what [[Microsoft]] officially calls reports, that you can share with a large group of end users.
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=12)** Power BI gives them the capability to monitor, analyze and make decisions from multiple views of data without having to understand the business-intelligence technology on the back end.
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=24)** Applications that roll into Power BI include Microsoft's Access, Power Query, PowerPivot and Excel.
+> **[0:24](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=24)** Applications that roll into Power BI include Microsoft's Access, [[Microsoft Power Query|Power Query]], [[PowerPivot]] and [[Microsoft Excel|Excel]].
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=33)** Power BI also leverages rapidly-developing new technologies such as cloud computing, advanced analytics and machine learning.
+> **[0:33](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=33)** Power BI also leverages rapidly-developing new technologies such as [[Cloud Computing]], advanced analytics and machine learning.
 >
 > **[0:43](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980&t=43)** Power BI automates processes like connecting to and refreshing data.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), power (11), bi (11), [[Dashboards]] (4), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Dashboards]] (4), [[Microsoft]] (2), [[Microsoft Power Query|Power query]] (2), [[PowerPivot]] (1)
 > **Env Vars:** etl (3)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -178,18 +175,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing Power BI versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980)
+#### [Comparing Power BI versions](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=0)** - [Instructor] Power BI comes in several different versions.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=0)** - [Instructor] [[Microsoft Power BI|Power BI]] comes in several different versions.
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=3)** Power BI Desktop is a free application you download to your own computer.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=8)** I recommend creating your dashboards in the Desktop version as it maximizes development capabilities.
+> **[0:08](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=8)** I recommend creating your [[Dashboards]] in the Desktop version as it maximizes development capabilities.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=16)** Microsoft pushes out updates to the Desktop version every month that include defect fixes, enhancements and new features.
+> **[0:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=16)** [[Microsoft]] pushes out updates to the Desktop version every month that include defect fixes, enhancements and new features.
 >
 > **[0:25](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-power-bi-versions?u=76281980&t=25)** If you want to refresh your data, you will need to do it manually, as the Desktop version doesn't support scheduled data refreshing.
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15), bi (15), data (6), [[Dashboards]] (5), [[Microsoft]] (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (15), [[Dashboards]] (5), [[Microsoft]] (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** find (1)
@@ -241,16 +237,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing a dataflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980)
+#### [Utilizing a dataflow](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=0)** - [Instructor] When you share a Power BI Desktop file through a cloud account, you can think of the file as a template containing two important components.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=0)** - [Instructor] When you share a [[Microsoft Power BI|Power BI]] Desktop file through a cloud account, you can think of the file as a template containing two important components.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=11)** The front-end component is the visually dynamic front-end dashboard.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=16)** Behind these dashboards, you have the back-end component, or the data driving the front-end views, which reside in the dataset section of your workspace.
+> **[0:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=16)** Behind these [[Dashboards]], you have the back-end component, or the data driving the front-end views, which reside in the dataset section of your workspace.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=28)** Datasets can contain multiple data sources from a workbook connection that you set up an automatic refreshing schedule to update the data in the cloud.
 >
@@ -270,15 +265,15 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=100)** Power BI dataflows can consolidate much of the ETL processes into a shared data table that multiple users can then create their own ETL processes from.
 >
-> **[1:53](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=113)** You can think of them as data structures within your organization to optimize the scalability and shareability to use your data.
+> **[1:53](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=113)** You can think of them as [[Data Structures]] within your organization to optimize the [[Scalability]] and shareability to use your data.
 >
 > **[2:03](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=123)** Those that connect to the dataflow don't have to create their own entirely new ETL process, or framework, to get the data they need to create a Power BI dashboard.
 >
 > **[2:15](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=135)** A dataflow can reduce the potential for errors, because it eliminates ETL variances between users by referencing much of the same ETL framework.
 >
-> **[2:27](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=147)** It also increases data accessibility, because it means someone unfamiliar with, say, SQL queries, can still connect to this data.
+> **[2:27](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=147)** It also increases data accessibility, because it means someone unfamiliar with, say, [[SQL]] queries, can still connect to this data.
 >
-> **[2:36](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=156)** To understand the benefits of dataflows, let's think of how data sharing works within an example organization.
+> **[2:36](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=156)** To understand the benefits of dataflows, let's think of how [[Data Sharing]] works within an example organization.
 >
 > **[2:45](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-a-dataflow?u=76281980&t=165)** A large company has numerous departments, such as sales, finance, and operations.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), etl (13), power (8), bi (8), front-end (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Dashboards]] (2), [[Data Structures]] (1), [[Scalability]] (1), [[SQL]] (1)
 > **Env Vars:** etl (13), sql (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -308,12 +303,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing Azure Data Lake
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980)
+#### [Utilizing Azure Data Lake](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=0)** - [Instructor] You don't have to be a large organization to utilize cloud computing.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=0)** - [Instructor] You don't have to be a large organization to utilize [[Cloud Computing]].
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=5)** For example, if you store and access your personal documents or photos online rather than using your own computer, you are using cloud technology.
 >
@@ -329,17 +323,17 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=62)** Unlike a hierarchical database that stores data in files or folders, a data lake stores data in a flat hierarchy.
 >
-> **[1:10](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=70)** They allow organizations to increase storage capacity for very large data sets, but also simplify data management and security.
+> **[1:10](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=70)** They allow organizations to increase storage capacity for very large data sets, but also simplify [[Data Management]] and security.
 >
-> **[1:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=80)** Microsoft has its own cloud computing platform called Azure.
+> **[1:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=80)** [[Microsoft]] has its own cloud computing platform called [[Microsoft Azure|Azure]].
 >
-> **[1:25](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=85)** With Azure Data Lake, you can connect to other Azure applications for data ingestion and preparation as well as querying curated data.
+> **[1:25](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=85)** With Azure Data Lake, you can connect to other Azure applications for [[Data Ingestion]] and preparation as well as querying curated data.
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=94)** You can also tap into AI through machine learning models.
 >
-> **[1:38](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=98)** Some of these applications require leveraging, high levels of programming, data science, or data engineering knowledge.
+> **[1:38](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=98)** Some of these applications require leveraging, high levels of programming, [[Data Science]], or [[Data Engineering]] knowledge.
 >
-> **[1:46](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=106)** Power BI on the other hand, doesn't necessarily require much coding knowledge to leverage its powerful capabilities.
+> **[1:46](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=106)** [[Microsoft Power BI|Power BI]] on the other hand, doesn't necessarily require much coding knowledge to leverage its powerful capabilities.
 >
 > **[1:55](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=115)** You can actually leverage Azure Data Lake to store your Power BI data flows.
 >
@@ -353,13 +347,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=149)** The common data model consists of a set of standardized, extendable data schemas that you can customize across applications, deployments, and models.
 >
-> **[2:39](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=159)** These predefined schemas include entities, attributes, semantic metadata, and relationships.
+> **[2:39](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=159)** These predefined schemas include entities, attributes, semantic [[Metadata]], and relationships.
 >
 > **[2:46](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-azure-data-lake?u=76281980&t=166)** It uses open source standard definitions alongside customized schema to promote a shared understanding of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), cloud (7), [[Microsoft Azure|Azure]] (6), power (3), bi (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Cloud Computing]] (4), [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (2), [[Data Management]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -369,16 +363,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980)
+#### [Setting up gateways](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=0)** - [Instructor] As we start to setup data connections in our Power BI dataflows, take a moment to determine key information about these data sources such as where the source resides and any pertinent login credentials.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=0)** - [Instructor] As we start to setup data connections in our [[Microsoft Power BI|Power BI]] dataflows, take a moment to determine key information about these data sources such as where the source resides and any pertinent login credentials.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=15)** Depending on the answers to these questions, we may need to setup gateways in the Power BI cloud.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=20)** For example, we need to setup gateways for connecting to SQL Server or an API query that requires login credentials.
+> **[0:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=20)** For example, we need to setup gateways for connecting to [[Microsoft SQL Server|SQL Server]] or an API query that requires login credentials.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=30)** The good news is that if we create multiple queries to the same data source we can reuse the data connection.
 >
@@ -402,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=108)** We see in this cloud icon that guides us through the process of installing the gateway that we're presented with a choice of options between the on-premises and the personal mode.
 >
-> **[2:01](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=121)** We want to choose the Microsoft recommended gateway rather than the personal gateway which makes this gateway scalable across multiple users of the data flow.
+> **[2:01](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=121)** We want to choose the [[Microsoft]] recommended gateway rather than the personal gateway which makes this gateway scalable across multiple users of the data flow.
 >
 > **[2:12](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=132)** We can run this selection and we see this installs the gateway on our computer.
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=263)** Notice in dialog box it indicates that power apps and power BI have working gateways.
 >
-> **[4:30](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=270)** We see that we need to create the Azure gateway separately if this is something we need to do.
+> **[4:30](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=270)** We see that we need to create the [[Microsoft Azure|Azure]] gateway separately if this is something we need to do.
 >
 > **[4:37](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980&t=277)** We can then close the window to the on-premises gateway installation.
 >
@@ -464,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), power (10), bi (9), cloud (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** setup (5), install (3), set up (1), configure (1)
 > **UI Navigation:** go to (1), navigate to (1), select the (1), click on (1)
 > **Env Vars:** sql (1), api (1), exe (1)
@@ -473,8 +466,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Best Practices:** recommended (1)
 
-#### Organizing data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980)
+#### [Organizing data sources](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=20)** You commission access to and refresh an entire dataflow at the same time.
 >
-> **[0:26](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=26)** I created a workspace called PBI dataflows and Power BI that I want to use to create my dataflow set.
+> **[0:26](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=26)** I created a workspace called PBI dataflows and [[Microsoft Power BI|Power BI]] that I want to use to create my dataflow set.
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=35)** On the home page, let's select this workspace to enter into it.
 >
@@ -498,7 +490,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=89)** Let's start by selecting Define New Entities and the Add New Entities option at the bottom.
 >
-> **[1:37](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=97)** This takes us into the power query online functionality.
+> **[1:37](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=97)** This takes us into the [[Microsoft Power Query|power query]] online functionality.
 >
 > **[1:42](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=102)** Now we select the source of our data.
 >
@@ -526,7 +518,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=196)** We now see our new data table in the dataflow entity list.
 >
-> **[3:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=201)** If we expand the arrows next to the name, we see the metadata for the fields within this connection and we just have a string for a single field.
+> **[3:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=201)** If we expand the arrows next to the name, we see the [[Metadata]] for the fields within this connection and we just have a string for a single field.
 >
 > **[3:36](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/organizing-data-sources?u=76281980&t=216)** From here we can add more entities to this dataflow by selecting Add Entities from the top, for example.
 >
@@ -534,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (4), power (2), bi (2), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (2), [[Metadata]] (1)
 > **Env Vars:** etl (1), pbi (1), cdm (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (2)
@@ -543,34 +535,33 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Connecting to databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980)
+#### [Connecting to databases](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=0)** - [Instructor] You can connect to many kinds of databases in the Power BI cloud.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=0)** - [Instructor] You can connect to many kinds of [[Databases]] in the [[Microsoft Power BI|Power BI]] cloud.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=4)** The database you want to access will likely depend on the databases your own organization utilizes to store and query data.
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=13)** This is not a course on databases or Azure, but identifying them as database connection types in Power BI data flows, means that you can explore how to tap into their potential.
+> **[0:13](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=13)** This is not a course on databases or [[Microsoft Azure|Azure]], but identifying them as database connection types in Power BI data flows, means that you can explore how to tap into their potential.
 >
 > **[0:25](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=25)** To set up the database connection, you will typically need credentials like the server name, the database name, and any related login credentials to access them.
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=37)** It's also helpful to know what tables you want to query or bring in the data from, especially if you're working with a large database.
 >
-> **[0:46](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=46)** SQL server is an example of a well known relational database.
+> **[0:46](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=46)** [[Microsoft SQL Server|SQL server]] is an example of a well known relational database.
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=50)** It consists of tables within a database that we can query to create sets of useful data.
 >
 > **[0:58](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=58)** An organization hosts a server like SQL server on premises instead of in the cloud.
 >
-> **[1:05](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=65)** Conversely, Microsoft's Azure allows you to connect to data sources like blobs, tables, SQL databases, and even to data analyzed through machine learning technologies.
+> **[1:05](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=65)** Conversely, [[Microsoft]]'s Azure allows you to connect to data sources like blobs, tables, [[SQL]] databases, and even to data analyzed through machine learning technologies.
 >
 > **[1:17](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=77)** The databases work very much like the on premises servers much of the time, except the users access them through the cloud instead of the on-premises server.
 >
 > **[1:28](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=88)** You can also connect to databases using predefined queries for related, multidimensional tables instead of querying using SQL.
 >
-> **[1:38](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=98)** Many of you may work at organizations that heavily rely on database connections like this for scalability as well as security across a very large user base.
+> **[1:38](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=98)** Many of you may work at organizations that heavily rely on database connections like this for [[Scalability]] as well as security across a very large user base.
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=108)** If you want to connect to these databases, you will not find this option available as a Power BI data flow connection.
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=140)** You can set up a live connection to the model, which makes Power BI a front end process only by removing the ETL capabilities.
 >
-> **[2:28](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=148)** You can also set it up using a DAX query on the database connection through the import connection type.
+> **[2:28](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=148)** You can also set it up using a [[DAX]] query on the database connection through the import connection type.
 >
 > **[2:36](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-databases?u=76281980&t=156)** This query returns results that we can continue to modify using the ETL capabilities.
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), data (20), power (11), bi (11), [[Databases]] (10)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Databases]] (10), [[Microsoft SQL Server|Sql server]] (8), [[Microsoft Azure|Azure]] (4), [[SQL]] (3)
 > **Env Vars:** sql (11), etl (2), dax (1)
 > **Prerequisites:** set up (10), setup (1), you'll need (1)
 > **UI Navigation:** select the (2), navigate to (1)
@@ -651,8 +642,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up web connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980)
+#### [Setting up web connections](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +650,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=10)** Please note to exercise caution when connecting to online data sources as links can change and these changes remain out of our control.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=19)** Let's say that we want to get Microsoft reported financial data for the past five years from the MarketWatch website.
+> **[0:19](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=19)** Let's say that we want to get [[Microsoft]] reported [[Financial Data]] for the past five years from the MarketWatch website.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=28)** You see on the screen that this resource provides us data tables on a web page.
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=42)** this now shows us the code that drives the website that we actually see in the interface.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=50)** When we set up a web connection to this URL in Power BI, it connects the code behind the web page, not the actual interface.
+> **[0:50](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=50)** When we set up a web connection to this URL in [[Microsoft Power BI|Power BI]], it connects the code behind the web page, not the actual interface.
 >
 > **[1:01](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-web-connections?u=76281980&t=61)** In the Power BI Cloud, let's add a new entity to our Testing Tables Dataflow.
 >
@@ -700,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), web (7), power (4), bi (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft]] (1), [[Financial Data]] (1)
 > **Env Vars:** url (2), https (1), http (1), api (1)
 > **UI Navigation:** select the (2), right-click (1), navigate to (1)
 > **Prerequisites:** set up (3)
@@ -709,8 +699,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying API data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980)
+#### [Querying API data](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=26)** The API connection then returns our requested data.
 >
-> **[0:31](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=31)** We're going to obtain Microsoft stock data for its entire history as a publicly-traded company.
+> **[0:31](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=31)** We're going to obtain [[Microsoft]] stock data for its entire history as a publicly-traded company.
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=38)** To get this data, let's use the World Trading Data online portal.
 >
@@ -730,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=54)** You first need to sign up for an account on the website.
 >
-> **[0:58](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=58)** Remember to save your user name and password for these websites, as we require the log in credentials to set up the API connection in Power BI later.
+> **[0:58](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=58)** Remember to save your user name and password for these websites, as we require the log in credentials to set up the API connection in [[Microsoft Power BI|Power BI]] later.
 >
 > **[1:10](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=70)** For the World Trading Data website, you can see we already have an API token automatically created for the account.
 >
@@ -792,7 +781,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=334)** In the lower-right, we see a warning that we can click on, and it indicates the query is not a table.
 >
-> **[5:42](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=342)** We'll transform this data connection later in Power Query Online into a useful data table that we can use.
+> **[5:42](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=342)** We'll transform this data connection later in [[Microsoft Power Query|Power Query]] Online into a useful data table that we can use.
 >
 > **[5:51](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/querying-api-data?u=76281980&t=351)** For now, select Save and Close.
 >
@@ -804,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (31), data (17), web (6), [[Microsoft]] (4), power (4)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** api (31), url (3), http (1)
 > **Prerequisites:** set up (5), you'll need (1)
 > **CLI Commands:** make (2), find (1)
@@ -813,16 +802,15 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **API Endpoints:** get  (1)
 
-#### Connecting to Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980)
+#### [Connecting to Excel](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=0)** - [Instructor] Let's say that you work in an organization that, like many others, does a lot of analysis in Excel.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=0)** - [Instructor] Let's say that you work in an organization that, like many others, does a lot of analysis in [[Microsoft Excel|Excel]].
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=7)** Whether it's making estimates or creating forecasts, you now want to share this analysis with others.
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=13)** You can see an example Excel file that we want to leverage in a Power BI dataflow on the screen.
+> **[0:13](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=13)** You can see an example Excel file that we want to leverage in a [[Microsoft Power BI|Power BI]] dataflow on the screen.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=19)** I randomly created sales numbers, and created formulas to adjust the monthly total sales based on how the running total of the actual sales compares to the forecasted numbers.
 >
@@ -836,7 +824,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=64)** Those of you with access to the exercise files can download the Excel analysis to test this process on your own.
 >
-> **[1:12](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=72)** You can see the name of the Excel file, Forecasting, and the folder path it resides in on my own computer.
+> **[1:12](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=72)** You can see the name of the Excel file, [[Forecasting]], and the folder path it resides in on my own computer.
 >
 > **[1:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=80)** We're going to copy this path and upload this same file path in our Power BI dataflow.
 >
@@ -856,7 +844,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=135)** We're going to select the Power BI DataFlows Testing data gateway.
 >
-> **[2:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=141)** And this time we use the Windows authentication, so enter the username and password that you use to log in to your computer.
+> **[2:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=141)** And this time we use the [[Windows]] authentication, so enter the username and password that you use to log in to your computer.
 >
 > **[2:33](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-excel?u=76281980&t=153)** We hit Next to link up to the file and save the credentials to our data gateway.
 >
@@ -880,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), power (7), bi (7), data (4), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft Power BI|Power bi]] (7), [[Forecasting]] (2), [[Windows]] (1)
 > **UI Navigation:** select the (3)
 > **Env Vars:** url (2)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -893,8 +881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Updating dataflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/updating-dataflows?u=76281980)
+#### [Updating dataflows](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/updating-dataflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,18 +933,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), power (1), ai (1), hit (1)
 > **UI Navigation:** select the (2), right-click (1), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [helen] (1)
 
-#### Utilizing Power Query Online applied steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980)
+#### [Utilizing Power Query Online applied steps](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=0)** - [Instructor] Power Query Online is the web version of Power Query and Power BI Desktop, and also Excel.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=0)** - [Instructor] [[Microsoft Power Query|Power Query]] Online is the web version of Power Query and [[Microsoft Power BI|Power BI]] Desktop, and also [[Microsoft Excel|Excel]].
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=7)** After connecting to data sources in Power BI data flows, we can then transform these queries into usable data tables.
 >
@@ -965,11 +950,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=25)** Examples of these transformation functions include splitting column text, changing data types, adding new calculated columns, pivoting data tables, and drilling into query objects.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=39)** Query folding is a Power BI query editor functionality that takes extraction and transformation steps and translates them into SQL commands to send back to the connection for compatible databases.
+> **[0:39](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=39)** Query folding is a Power BI query editor functionality that takes extraction and transformation steps and translates them into [[SQL]] commands to send back to the connection for compatible [[Databases]].
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=54)** Examples of query commands that can translate into query folding include merging or joining tables, appending tables, applying filters, adding new columns, renaming fields, and removing columns.
 >
-> **[1:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=71)** In our Power BI Pro account, we already set up an API query for the Microsoft Stock price data from the world trading data website.
+> **[1:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=71)** In our Power BI Pro account, we already set up an API query for the [[Microsoft]] Stock price data from the world trading data website.
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=81)** We can go back into edit the query by selecting the edit action.
 >
@@ -1003,7 +988,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=215)** We can expand out each of these records in the value column by selecting the icon with the diverging arrows at the top of the column name.
 >
-> **[3:47](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=227)** We don't want to include value in our column name, so we're going to uncheck this box and keep the rest of these fields selected.
+> **[3:47](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=227)** We don't want to include value in our column name, so we're going to uncheck this box and keep the [[Representational State Transfer (REST)|rest]] of these fields selected.
 >
 > **[3:57](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/utilizing-power-query-online-applied-steps?u=76281980&t=237)** We hit OK, we now see the expanded data table.
 >
@@ -1037,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Microsoft]] (5), power (4), bi (4), [[Microsoft Power Query|Power query]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Env Vars:** api (3), sql (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** click on (2)
@@ -1046,14 +1031,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Prerequisites:** set up (1)
 
-#### Translating from Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980)
+#### [Translating from Power BI Desktop](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=0)** - [Instructor] To perform ETL processes in the query editor, Power BI relies behind the scenes on the M Language accessible through the Advanced Editor.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=0)** - [Instructor] To perform ETL processes in the query editor, [[Microsoft Power BI|Power BI]] relies behind the scenes on the M Language accessible through the Advanced Editor.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=11)** This language is exclusive to the Microsoft Power Query editor but has similarities to the F# language.
+> **[0:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=11)** This language is exclusive to the [[Microsoft Power Query]] editor but has similarities to the F# language.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=18)** Just a few examples of standard M functions include connecting to web tables, adding new columns, and creating date formulas.
 >
@@ -1061,9 +1045,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=34)** I'm not going to go into much detail about the semantics of M, but if you would like to learn more about the M language on your own, I would encourage you to check out the [[Power BI Data Methods]] course in the library.
 >
-> **[0:49](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=49)** In the Power BI cloud account, we created a query that connects to an API connection to get the Microsoft stock price data.
+> **[0:49](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=49)** In the Power BI cloud account, we created a query that connects to an API connection to get the [[Microsoft]] stock price data.
 >
-> **[0:57](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=57)** We then transformed this data connection using the Power Query online transformation functions to make it into a useful table that we see here on the screen.
+> **[0:57](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=57)** We then transformed this data connection using the [[Microsoft Power Query|Power Query]] online transformation functions to make it into a useful table that we see here on the screen.
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/translating-from-power-bi-desktop?u=76281980&t=69)** We can see the M code behind the query by right clicking on the query name and selecting the advanced editor option.
 >
@@ -1125,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), bi (11), data (8), api (6), etl (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Microsoft]] (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft Power Query]] (1)
 > **Env Vars:** api (6), etl (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), select the (1)
@@ -1134,22 +1118,21 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 
-#### Setting up a Common Data Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980)
+#### [Setting up a Common Data Model](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=0)** - [Instructor] The common data model defines the data schema for entities, attributes, semantic metadata, and relationships.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=0)** - [Instructor] The common data model defines the data schema for entities, attributes, semantic [[Metadata]], and relationships.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=7)** In Power BI, we can map existing queries to a common data model to create a more consistent, shared data understanding and schema between multiple sources.
+> **[0:07](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=7)** In [[Microsoft Power BI|Power BI]], we can map existing queries to a common data model to create a more consistent, shared data understanding and schema between multiple sources.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=19)** To see how mapping schemas works, let's take a small sample of data for stock prices that I consolidated in an Excel file you see here on the screen.
+> **[0:19](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=19)** To see how mapping schemas works, let's take a small sample of data for stock prices that I consolidated in an [[Microsoft Excel|Excel]] file you see here on the screen.
 >
-> **[0:31](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=31)** There are three fields, date, stock ticker name, in this case Microsoft and Nasdaq, and the closing prices of these stocks on those dates.
+> **[0:31](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=31)** There are three fields, date, stock ticker name, in this case [[Microsoft]] and Nasdaq, and the closing prices of these stocks on those dates.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=41)** Those of you with access to the exercise files can use the same data, or you can create your test data on your own.
 >
-> **[0:49](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=49)** To show how the common data mapping works, let's examine two sample queries and the testing tables data flow.
+> **[0:49](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=49)** To show how the common [[Data Mapping]] works, let's examine two sample queries and the testing tables data flow.
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-a-common-data-model?u=76281980&t=57)** I already set these queries up with the naming convention CDM by copying and pasting the data from our Excel file into this two blank tables.
 >
@@ -1197,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Search]] (3), [[Microsoft Excel|Excel]] (2), product (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Mapping]] (2), [[Metadata]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft]] (1)
 > **Env Vars:** cdm (3)
 > **UI Navigation:** select the (2), in the menu (1)
 > **Cross-References:** as we saw (1)
@@ -1210,18 +1193,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting to dataflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980)
+#### [Connecting to dataflows](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=0)** - [Instructor] After creating the ETL framework for the query entities within the Power BI data flows, you now want to make this data available for others to use in their own Power BI dashboards.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=0)** - [Instructor] After creating the ETL framework for the query entities within the [[Microsoft Power BI|Power BI]] data flows, you now want to make this data available for others to use in their own Power BI [[Dashboards]].
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=14)** To create dashboards from Power BI data flows, you really have to load the data twice.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=20)** First when you connect to the data flow, and second when you actually load the data to the view where you develop your Power BI dashboards.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=30)** We set up a Power BI data flow containing the Microsoft Stock Prices we obtained using an API query.
+> **[0:30](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=30)** We set up a Power BI data flow containing the [[Microsoft]] Stock Prices we obtained using an API query.
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980&t=39)** We now want to set up a Power BI data flow connection in Power BI desktop that points to this specific query.
 >
@@ -1311,7 +1293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), power (21), bi (20), etl (8), [[Microsoft]] (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (20), [[Microsoft]] (5), [[Dashboards]] (4)
 > **Env Vars:** etl (8), api (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
@@ -1320,16 +1302,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing dataflows to data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980)
+#### [Comparing dataflows to data sets](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=0)** - [Instructor] When you set up a Power BI dataflow, this create a single, scalable ETL framework and power query online that multiple users can utilize.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=0)** - [Instructor] When you set up a [[Microsoft Power BI|Power BI]] dataflow, this create a single, scalable ETL framework and [[Microsoft Power Query|power query]] online that multiple users can utilize.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=10)** They don't necessarily need to know much about how you develop the dataflow query to consume the data themselves.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=17)** They can connect Power Query and Power BI desktop to these queries to create their own ETL frameworks which they use to develop Power BI dashboards.
+> **[0:17](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=17)** They can connect Power Query and Power BI desktop to these queries to create their own ETL frameworks which they use to develop Power BI [[Dashboards]].
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=28)** Datasets on the other hand allow multiple users to connect to the same data, except they cannot create their own ETL processes for their data connections.
 >
@@ -1341,7 +1322,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=69)** I then created dashboards for each of these files to visually communicate the data trends in different ways.
 >
-> **[1:15](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=75)** You can see the first dashboard here that lets us visualize the performance of Microsoft's stock.
+> **[1:15](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=75)** You can see the first dashboard here that lets us visualize the performance of [[Microsoft]]'s stock.
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/comparing-dataflows-to-data-sets?u=76281980&t=81)** It's a pretty simple dashboard example with two lines on the line chart representing the low price and the high price for each day of trading.
 >
@@ -1427,15 +1408,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (21), bi (20), data (15), etl (8), [[Dashboards]] (7)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (20), [[Dashboards]] (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft]] (1)
 > **Env Vars:** etl (8)
 > **Prerequisites:** set up (3), setup (1)
 > **UI Navigation:** select the (2), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing dataflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/sharing-dataflows?u=76281980)
+#### [Sharing dataflows](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/sharing-dataflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1449,7 +1429,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/sharing-dataflows?u=76281980&t=30)** Setting up these roles allows for multiple users to access the queries in the data flow without sacrificing security, thus making it a scalable solution.
 >
-> **[0:40](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/sharing-dataflows?u=76281980&t=40)** You can see on the screen the capabilities for each of these roles in a Power BI data flow.
+> **[0:40](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/sharing-dataflows?u=76281980&t=40)** You can see on the screen the capabilities for each of these roles in a [[Microsoft Power BI|Power BI]] data flow.
 >
 > **[0:47](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/sharing-dataflows?u=76281980&t=47)** Based on what they're trying to do that you see in this list, you can decide how you want to commission their access.
 >
@@ -1463,16 +1443,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (3), bi (3), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [helen] (1)
 
-#### Scheduling data refreshing
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/scheduling-data-refreshing?u=76281980)
+#### [Scheduling data refreshing](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/scheduling-data-refreshing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/scheduling-data-refreshing?u=76281980&t=0)** - [Instructor] In the Power BI cloud, we set up our refreshing schedule by going to the Microsoft Stock Price dataflows in the dataflow list.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/scheduling-data-refreshing?u=76281980&t=0)** - [Instructor] In the [[Microsoft Power BI|Power BI]] cloud, we set up our refreshing schedule by going to the [[Microsoft]] Stock Price dataflows in the dataflow list.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/scheduling-data-refreshing?u=76281980&t=11)** We then select the tablet icon that allows us to schedule the data refresh.
 >
@@ -1538,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), power (3), bi (3), cloud (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (2)
 > **UI Navigation:** select the (5)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (4)
@@ -1547,14 +1526,13 @@ created: 2026-05-02
 > **Versions:** version 1 (1)
 > **Warnings:** warning (1)
 
-#### Representing dataflow structures with JSON files
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980)
+#### [Representing dataflow structures with JSON files](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980&t=0)** - [Helen] JSON, or JavaScript Object Notation, files stored data in a structured format that machines, like computers, can easily read.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980&t=0)** - [Helen] [[JSON]], or [[JavaScript]] Object Notation, files stored data in a structured format that machines, like computers, can easily read.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980&t=11)** In the context of Power BI dataflows, you can share or transfer your dataflows and the queries within them by exporting the dataflow as a JSON file, which is a native functionality available for the dataflows.
+> **[0:11](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980&t=11)** In the context of [[Microsoft Power BI|Power BI]] dataflows, you can share or transfer your dataflows and the queries within them by exporting the dataflow as a JSON file, which is a native functionality available for the dataflows.
 >
 > **[0:25](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/representing-dataflow-structures-with-json-files?u=76281980&t=25)** You can then import this JSON file to create a new dataflow.
 >
@@ -1594,7 +1572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), power (3), bi (3), [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Microsoft Power BI|Power bi]] (3), [[JavaScript]] (1)
 > **Env Vars:** json (7), api (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -1607,24 +1585,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Power BI dataflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980)
+#### [Next steps with Power BI dataflows](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=0)** - [Helen] Thanks for joining me to create Power BI data flow queries.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=0)** - [Helen] Thanks for joining me to create [[Microsoft Power BI|Power BI]] data flow queries.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=4)** Try out some examples of data connections in your own organization that would benefit from utilizing data flows, whether that's from a database, sales force report, or an API query.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=17)** Think about how to scale this data to consolidate ETL processes and remove unnecessary duplicated work.
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=24)** Stay tuned for Microsoft updates, as they're moving fast in accessing cloud data like this.
+> **[0:24](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=24)** Stay tuned for [[Microsoft]] updates, as they're moving fast in accessing cloud data like this.
 >
-> **[0:29](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=29)** Feel free to connect with me on LinkedIn, or follow my posts on Power BI and data analytics and visualization.
+> **[0:29](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980&t=29)** Feel free to connect with me on [[LinkedIn]], or follow my posts on Power BI and data analytics and visualization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (2), bi (2), database (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (1), etl (1)
 > **Speakers:** - [helen] (1)
 

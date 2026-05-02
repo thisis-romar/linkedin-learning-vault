@@ -20,7 +20,7 @@ tags:
   - topic/software-development
   - topic/data-science
   - topic/artificial-intelligence
-course_count: 113
+course_count: 114
 created: 2026-05-02
 ---
 
@@ -28,7 +28,7 @@ created: 2026-05-02
 
 # Microsoft 365
 
-> **Type:** Service | **Courses:** 113 | **Topics:** [[Cloud Computing]], [[Network and System Administration]], [[Software Development]], [[Data Science]], [[Artificial Intelligence (AI)]]
+> **Type:** Service | **Courses:** 114 | **Topics:** [[Cloud Computing]], [[Network and System Administration]], [[Software Development]], [[Data Science]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -43,7 +43,7 @@ created: 2026-05-02
 9. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 52 mentions
 10. [[Deploying Microsoft Entra ID]] — 45 mentions
 
-> [!note]- See all 113 courses
+> [!note]- See all 114 courses
 > 11. [[Configure and Manage OneDrive]] — 34 mentions
 > 12. [[Microsoft Teams Essential Training]] — 31 mentions
 > 13. [[Azure Administration Essential Training]] — 30 mentions
@@ -111,42 +111,43 @@ created: 2026-05-02
 > 75. [[Microsoft Security Copilot]] — 1 mentions
 > 76. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
 > 77. [[Ethical Hacking- Enumeration]] — 1 mentions
-> 78. [[Canva- Designing Engaging, Accessible Presentations]] — 1 mentions
-> 79. [[Microsoft Office Accessibility for Beginners]] — 1 mentions
-> 80. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
-> 81. [[IT Support for a Hybrid Workforce]] — 1 mentions
-> 82. [[Everything as a Service (XaaS) is the Future of Business]] — 1 mentions
-> 83. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
-> 84. [[Excel Essential Training (Microsoft 365)]] — 1 mentions
-> 85. [[Interaction Design- Software and Web Design Patterns]] — 1 mentions
-> 86. [[Effectively Leading Digital Transformation]] — 1 mentions
-> 87. [[Introduction to IT Automation]] — 1 mentions
-> 88. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 1 mentions
-> 89. [[A Practical Guide to Upskilling Your Organization on AI]] — 1 mentions
-> 90. [[Azure AI Services Essential Training]] — 1 mentions
-> 91. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
-> 92. [[Data Cleaning and Manipulating with Python in Excel]] — 1 mentions
-> 93. [[Excel for Healthcare- Practical Applications and Skills]] — 1 mentions
-> 94. [[Introduction to Generative AI with GPT]] — 1 mentions
-> 95. [[Manage Virtual Machines in Azure]] — 1 mentions
-> 96. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
-> 97. [[AWS Essential Training for Architects]] — 1 mentions
-> 98. [[AI in Business Essential Training]] — 1 mentions
-> 99. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
-> 100. [[Excel- PivotTables in Depth]] — 1 mentions
-> 101. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
-> 102. [[Power Bi Dashboards For Beginners]] — 1 mentions
-> 103. [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]] — 1 mentions
-> 104. [[Learning Excel- Data Analysis]] — 1 mentions
-> 105. [[Excel Vba Managing Files And Data]] — 1 mentions
-> 106. [[Excel VBA- Process Modeling]] — 1 mentions
-> 107. [[Excel- Working Together with Power Query and Power Pivot]] — 1 mentions
-> 108. [[Advanced Analysis Using Python in Excel Copilot]] — 1 mentions
-> 109. [[Excel- Filtering Data for Beginners]] — 1 mentions
-> 110. [[Excel- Power Query for Beginners]] — 1 mentions
-> 111. [[Windows 10 for IT Support- Advanced Troubleshooting]] — 1 mentions
-> 112. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
-> 113. [[Excel Online (Microsoft 365)- Work Smarter with Copilot]] — 1 mentions
+> 78. [[Ethical Hacking- Cloud Computing]] — 1 mentions
+> 79. [[Canva- Designing Engaging, Accessible Presentations]] — 1 mentions
+> 80. [[Microsoft Office Accessibility for Beginners]] — 1 mentions
+> 81. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
+> 82. [[IT Support for a Hybrid Workforce]] — 1 mentions
+> 83. [[Everything as a Service (XaaS) is the Future of Business]] — 1 mentions
+> 84. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
+> 85. [[Excel Essential Training (Microsoft 365)]] — 1 mentions
+> 86. [[Interaction Design- Software and Web Design Patterns]] — 1 mentions
+> 87. [[Effectively Leading Digital Transformation]] — 1 mentions
+> 88. [[Introduction to IT Automation]] — 1 mentions
+> 89. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 1 mentions
+> 90. [[A Practical Guide to Upskilling Your Organization on AI]] — 1 mentions
+> 91. [[Azure AI Services Essential Training]] — 1 mentions
+> 92. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
+> 93. [[Data Cleaning and Manipulating with Python in Excel]] — 1 mentions
+> 94. [[Excel for Healthcare- Practical Applications and Skills]] — 1 mentions
+> 95. [[Introduction to Generative AI with GPT]] — 1 mentions
+> 96. [[Manage Virtual Machines in Azure]] — 1 mentions
+> 97. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
+> 98. [[AWS Essential Training for Architects]] — 1 mentions
+> 99. [[AI in Business Essential Training]] — 1 mentions
+> 100. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 101. [[Excel- PivotTables in Depth]] — 1 mentions
+> 102. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
+> 103. [[Power Bi Dashboards For Beginners]] — 1 mentions
+> 104. [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]] — 1 mentions
+> 105. [[Learning Excel- Data Analysis]] — 1 mentions
+> 106. [[Excel Vba Managing Files And Data]] — 1 mentions
+> 107. [[Excel VBA- Process Modeling]] — 1 mentions
+> 108. [[Excel- Working Together with Power Query and Power Pivot]] — 1 mentions
+> 109. [[Advanced Analysis Using Python in Excel Copilot]] — 1 mentions
+> 110. [[Excel- Filtering Data for Beginners]] — 1 mentions
+> 111. [[Excel- Power Query for Beginners]] — 1 mentions
+> 112. [[Windows 10 for IT Support- Advanced Troubleshooting]] — 1 mentions
+> 113. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
+> 114. [[Excel Online (Microsoft 365)- Work Smarter with Copilot]] — 1 mentions
 
 ## Learning Paths
 

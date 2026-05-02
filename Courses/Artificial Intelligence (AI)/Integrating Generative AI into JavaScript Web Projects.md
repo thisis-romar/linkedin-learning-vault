@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrate generative AI into your web projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980)
+#### [Integrate generative AI into your web projects](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,9 +106,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980&t=7)** These transformative changes are shaping industries and opening up new possibilities for businesses and consumers alike.
 >
-> **[0:15](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980&t=15)** In this course, we explore different use cases of generative AI, and we experiment with language models and APIs offered by Open AI.
+> **[0:15](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980&t=15)** In this course, we explore different use cases of [[Generative AI]], and we experiment with language models and APIs offered by Open AI.
 >
-> **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980&t=24)** If you are a JavaScript developer and new to generative AI, you'll be glad to know that Open AI offers nice interfaces to easily integrate an intelligence layer into your web projects.
+> **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980&t=24)** If you are a [[JavaScript]] developer and new to generative AI, you'll be glad to know that Open AI offers nice interfaces to easily integrate an intelligence layer into your web projects.
 >
 > **[0:36](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980&t=36)** My name is Sandy.
 >
@@ -119,27 +118,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), web (3), [[Generative AI]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[JavaScript]] (1)
 > **Speakers:** - [sandy] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is for any developer from beginner to intermediate with one to two years of experience in web development.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is for any developer from beginner to intermediate with one to two years of experience in [[Web Development]].
 >
-> **[0:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=9)** This course is for any developer willing to learn about generative AI.
+> **[0:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=9)** This course is for any developer willing to learn about [[Generative AI]].
 >
 > **[0:13](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=13)** So let's first review some of the fundamental knowledge and skills that you should all have in order to make the best of this course.
 >
-> **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=20)** First, it is recommended to have a basic knowledge of the JavaScript programming language.
+> **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=20)** First, it is recommended to have a basic knowledge of the [[JavaScript]] programming language.
 >
 > **[0:25](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=25)** So I would assume that you know about the fundamental syntax and the data types in JavaScript, and that you perfectly know how to use the variables, the operators, and the basic control structures, like the if statements and the loops.
 >
-> **[0:39](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=39)** It is also recommended to understand how to set up and run Node projects, and we're going to use also React, which is a popular JavaScript library to create front end applications.
+> **[0:39](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=39)** It is also recommended to understand how to set up and run Node projects, and we're going to use also [[React.js|React]], which is a popular JavaScript library to create front end applications.
 >
-> **[0:52](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=52)** We're going to work a lot with the command line interface, so it will be helpful to have some experience with the basic command line operations and understand, for example, how to install the Node packages by using npm with npm install.
+> **[0:52](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=52)** We're going to work a lot with the command line interface, so it will be helpful to have some experience with the basic command line operations and understand, for example, how to install the Node packages by using [[npm]] with npm install.
 >
 > **[1:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/what-you-should-know?u=76281980&t=66)** It is good also to understand how to navigate the file system, for example, with cd to change directory and ls to display the list of folders and files inside one directory.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Generative AI]] (2), node (2), [[npm]] (2), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Generative AI]] (2), [[npm]] (2), [[Web Development]] (1), [[React.js|React]] (1)
 > **CLI Commands:** node (2), npm (2), make (1), cd (1), ls (1)
 > **Prerequisites:** install (2), set up (1)
 > **Tools:** command line (2)
@@ -162,8 +160,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/tools-and-exercise-files?u=76281980)
+#### [Tools and exercise files](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/tools-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,11 +210,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/tools-and-exercise-files?u=76281980&t=134)** I'm going to walk you through the process when we're going to start our very first project with OpenAI.
 >
-> **[2:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/tools-and-exercise-files?u=76281980&t=141)** So once you're all set, we are ready to get started with the presentation of generative AI with OpenAI.
+> **[2:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/tools-and-exercise-files?u=76281980&t=141)** So once you're all set, we are ready to get started with the presentation of [[Generative AI]] with OpenAI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), node (3), [[Security]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Env Vars:** api (4), readme (1)
 > **Exercise Files:** exercise files (4), download the (1)
 > **CLI Commands:** node (3), make (1)
@@ -231,18 +228,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI: Genesis and evolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980)
+#### [Generative AI: Genesis and evolution](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=0)** - [Narrator] AI is a very broad field with the ambitious goal to create intelligent machines.
 >
-> **[0:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=5)** Over the years, the applications of AI have split between multiple subsets, including machine learning and deep learning.
+> **[0:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=5)** Over the years, the applications of AI have split between multiple subsets, including machine learning and [[Deep Learning]].
 >
 > **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=12)** And so machine learning and deep learning are subsets of AI.
 >
-> **[0:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=16)** Machine learning has been around since the early days of computing in an effort to leverage technologies around artificial intelligence.
+> **[0:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=16)** Machine learning has been around since the early days of computing in an effort to leverage technologies around [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=24)** And it was in 1966 that the first AI chatbot was created, ELIZA, capable of imitating the behavior of a psychotherapist, and asked the exact same questions of a psychotherapist.
 >
@@ -254,13 +250,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=75)** Years later and today, AI is progressively entering our day-to-Day lives and work with more AI driven tools and services.
 >
-> **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=82)** And AI is also integrating our home with personal digital assistance, like Apple Siri, Alexa, or Google Home, that are capable of performing actions on simple voice commands.
+> **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=82)** And AI is also integrating our home with personal digital assistance, like Apple Siri, Alexa, or [[Google]] Home, that are capable of performing actions on simple voice commands.
 >
-> **[1:35](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=95)** So without even knowing it, our online experience has been driven by AI with personalized content and tailored recommendations when watching streaming content or whenever you use translation tools, and also with customer support.
+> **[1:35](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=95)** So without even knowing it, our online experience has been driven by AI with personalized content and tailored recommendations when watching streaming content or whenever you use translation tools, and also with [[Customer Support]].
 >
 > **[1:51](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=111)** Chatbots can provide instant assistance and escalate issues in a human and natural fashion.
 >
-> **[1:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=118)** And customer service chatbots use natural language, NLP, and machine learning to understand and respond to customer queries, and now with ChatGPT that literally took the internet by storm since its release in November, 2022.
+> **[1:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=118)** And customer service chatbots use natural language, NLP, and machine learning to understand and respond to customer queries, and now with [[ChatGPT]] that literally took the internet by storm since its release in November, 2022.
 >
 > **[2:15](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=135)** ChatGPT is a chatbot, but not just any chatbot.
 >
@@ -268,25 +264,25 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=149)** And so ChatGPT is powered by the GPT models, which are a type of neural network-based models inspired by the neurons of a human brain.
 >
-> **[2:38](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=158)** Much like the human brain, large language models are capable of understanding, learning, they are capable of self-improvement to generate new content based on what they've learned.
+> **[2:38](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=158)** Much like the human brain, [[Large Language Models (LLM)|large language models]] are capable of understanding, learning, they are capable of self-improvement to generate new content based on what they've learned.
 >
 > **[2:50](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=170)** And so GPT is short for generative pre-trained transformer, and they are called large, large language models, because they're trained on millions of data and defined by billions of parameters, making them capable of generating new content and perform various text processing tasks.
 >
-> **[3:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=189)** And so Generative AI is another subset of AI, meshing learning and deep learning altogether, giving applications like ChatGPT the ability to generate new content like text, images, and music, and also with the combination of NLP, which is short for natural language processing, again, another subset of AI.
+> **[3:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=189)** And so [[Generative AI]] is another subset of AI, meshing learning and deep learning altogether, giving applications like ChatGPT the ability to generate new content like text, images, and music, and also with the combination of NLP, which is short for [[Natural Language Processing (NLP)|natural language processing]], again, another subset of AI.
 >
-> **[3:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=211)** And there has been one domain where Generative AI has been particularly disruptive, which is in web development.
+> **[3:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=211)** And there has been one domain where Generative AI has been particularly disruptive, which is in [[Web Development]].
 >
 > **[3:38](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=218)** Generative AI offers new possibilities in the way that websites and applications are developed.
 >
 > **[3:44](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=224)** We're going to see plenty of nice examples in this course with the open AI APIs and language models.
 >
-> **[3:50](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=230)** So we can use Generative AI to automate tasks like content creation, do testing, generate artistic images.
+> **[3:50](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=230)** So we can use Generative AI to automate tasks like [[Content Creation]], do testing, generate artistic images.
 >
 > **[3:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=238)** We can create chatbots and virtual assistants powered by AI to answer user queries and troubleshoot technical issues.
 >
-> **[4:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=246)** So this course explores several examples of AI integration with Node and JavaScript, from basic to advanced.
+> **[4:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=246)** So this course explores several examples of AI integration with Node and [[JavaScript]], from basic to advanced.
 >
-> **[4:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=254)** We're going to create powerful AI agents that we set with specific behaviors to fit our needs.
+> **[4:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=254)** We're going to create powerful [[AI Agents]] that we set with specific behaviors to fit our needs.
 >
 > **[4:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980&t=261)** We also connect to the tool function calling to expand the many capabilities of the large language models.
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Generative AI]] (5), [[Deep Learning]] (4), [[ChatGPT]] (4), chatbot (3)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Deep Learning]] (4), [[ChatGPT]] (4), [[Large Language Models (LLM)|Large language models]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** nlp (2), gpt (2), eliza (1), api (1)
 > **Definitions:** is a  (2), short for (2)
 > **CLI Commands:** node (1), make (1)
@@ -306,8 +302,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### OpenAI: Key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980)
+#### [OpenAI: Key concepts](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=5)** So with Open AI, developers have the option to select the programming language that they want to work with.
 >
-> **[0:10](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=10)** So for example, we're going to go under quick start, and there you can select either Python or Node.js to have the steps in order to set up your development environments and get started quickly with the Open AI library.
+> **[0:10](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=10)** So for example, we're going to go under quick start, and there you can select either [[Python (Programming Language)|Python]] or [[Node.js]] to have the steps in order to set up your development environments and get started quickly with the Open AI library.
 >
 > **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=24)** And what's important to keep in mind is that the Open AI libraries offer convenient interfaces to interact with the Open AI's generative models.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=69)** They can be connected to built-in tools, like Code Interpreter, in order to process code and handle files.
 >
-> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=76)** You also have the option to connect to function calling in order to connect your Assistants with real-time data.
+> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=76)** You also have the option to connect to function calling in order to connect your Assistants with [[Real-Time]] data.
 >
 > **[1:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=84)** And let's go back here under embedding.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=103)** And so in order to get started, we're going to look at the key concept concepts of the Open AI library.
 >
-> **[1:50](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=110)** So there is one important concept, which is the tokenization, which is the process of breaking down the piece of text into small units called tokens, which is a crucial step in natural language processing, allowing the language models to analyze and understand the structure of the input text.
+> **[1:50](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=110)** So there is one important concept, which is the tokenization, which is the process of breaking down the piece of text into small units called [[Tokens]], which is a crucial step in [[Natural Language Processing (NLP)|natural language processing]], allowing the language models to analyze and understand the structure of the input text.
 >
 > **[2:10](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-key-concepts?u=76281980&t=130)** Let's see one quick example with the tokenizer tool right here.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Tokens]] (7), data (4), [[Programming]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Python (Programming Language)|Python]] (1), [[Node.js]] (1), [[Real-Time]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** gpt (3), api (1)
 > **UI Navigation:** select the (1), dropdown (1), scroll down (1)
 > **Prerequisites:** set up (3)
@@ -408,8 +403,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **File Paths:** node.js (1)
 
-#### OpenAI: Getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980)
+#### [OpenAI: Getting started](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=41)** On top of that, you have access to an API reference.
 >
-> **[0:44](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=44)** For every endpoint, you can then find instructions, for example, audio to create speech recognition, here, to create chat completions, and right below, you have also a guide to build your own assistant and personal experience, just like with ChatGPT.
+> **[0:44](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=44)** For every endpoint, you can then find instructions, for example, audio to create [[Speech Recognition]], here, to create chat completions, and right below, you have also a guide to build your own assistant and personal experience, just like with [[ChatGPT]].
 >
 > **[1:04](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=64)** And we're going to see a similar example.
 >
@@ -451,9 +445,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=106)** I'm going to do Log in, and here, you're going to see that you have the option to sign up with an email or a Gmail account.
 >
-> **[1:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=114)** You can also use a Microsoft or an Apple account if you have one.
+> **[1:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=114)** You can also use a [[Microsoft]] or an Apple account if you have one.
 >
-> **[1:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=118)** So I'm going to go ahead and continue with Google to sign up with my Gmail account right here, and from there, this is very simple.
+> **[1:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=118)** So I'm going to go ahead and continue with [[Google]] to sign up with my Gmail account right here, and from there, this is very simple.
 >
 > **[2:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/openai-getting-started?u=76281980&t=128)** And one important information is that for every new account, you're going to be granted with a $5 credit.
 >
@@ -475,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), next (4), ai (1), web (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (1), [[ChatGPT]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** api (5)
 > **Prerequisites:** set up (3), getting started (1), configure (1)
 > **Cross-References:** in the next (3)
@@ -489,8 +483,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Node project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980)
+#### [Node project setup](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -504,13 +497,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=26)** And we're going to need to set up a secret key for the OpenAI library in order to be able to send API requests.
 >
-> **[0:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=33)** We're going to use also nodemon, which is a utility tool to restart the application automatically every time that there is a change, which is detected in your JavaScript files.
+> **[0:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=33)** We're going to use also nodemon, which is a utility tool to restart the application automatically every time that there is a change, which is detected in your [[JavaScript]] files.
 >
 > **[0:43](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=43)** And there is this convenient tool, which is readline-sync that allows to interact with the application by using the command line interface.
 >
-> **[0:51](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=51)** And of course we're going to need to install the OpenAI API library.
+> **[0:51](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=51)** And of course we're going to need to install the [[OpenAI API]] library.
 >
-> **[0:57](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=57)** So if you go on the documentation for developers, you're going to find the quickstart guides and you're going to need to select the section for Node.js.
+> **[0:57](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=57)** So if you go on the documentation for developers, you're going to find the quickstart guides and you're going to need to select the section for [[Node.js]].
 >
 > **[1:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=65)** And the first step will be to make sure that you have the latest copy of Node installed on your machine.
 >
@@ -538,7 +531,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=134)** And I'm going to run this script to install all the libraries.
 >
-> **[2:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=138)** And if you check the package.json, you're going to be able to see that now we've got all these libraries that are installed for our projects.
+> **[2:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=138)** And if you check the package.[[JSON]], you're going to be able to see that now we've got all these libraries that are installed for our projects.
 >
 > **[2:25](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=145)** And on the same package.json, you're going to find also this script, and this is to start your project.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=197)** So let's try that.
 >
-> **[3:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=199)** So I'm going to start this app by running npm start, like this.
+> **[3:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=199)** So I'm going to start this app by running [[npm]] start, like this.
 >
 > **[3:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980&t=204)** And here it's going to give me the options to ask a question.
 >
@@ -596,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), api (5), node (5), ai (3), next (3)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JSON]] (2), [[npm]] (2), [[JavaScript]] (1), [[OpenAI API]] (1)
 > **CLI Commands:** node (7), find (5), make (5), npm (2)
 > **Prerequisites:** install (7), set up (6), configure (1)
 > **Env Vars:** api (6), readme (1), download (1), chat (1)
@@ -605,8 +598,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1), the documentation (1)
 > **Exercise Files:** starter project (2)
 
-#### Authenticate and configure with OpenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980)
+#### [Authenticate and configure with OpenAI](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=9)** And below, you're going to find the first example.
 >
-> **[0:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=11)** So you're going to make sure that we select Node.js for the language.
+> **[0:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=11)** So you're going to make sure that we select [[Node.js]] for the language.
 >
 > **[0:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=16)** And we're going to find the first example to make an API request.
 >
@@ -632,15 +624,15 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=43)** So that's going to be one quick example to make an API request.
 >
-> **[0:47](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=47)** From the ChatGPT API, let's go here and try this right here.
+> **[0:47](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=47)** From the [[ChatGPT]] API, let's go here and try this right here.
 >
 > **[0:53](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=53)** I'm going to show you what happens.
 >
-> **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=56)** We're going to run with NPM starts.
+> **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=56)** We're going to run with [[npm]] starts.
 >
 > **[0:59](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=59)** There we go, and we've got an error.
 >
-> **[1:01](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=61)** And if we check it out, you're going to see that here, it says that the OpenAI API key environment variable is missing or empty.
+> **[1:01](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=61)** And if we check it out, you're going to see that here, it says that the [[OpenAI API]] key environment variable is missing or empty.
 >
 > **[1:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=68)** And that is the important step.
 >
@@ -698,7 +690,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=197)** So I'm going to go here and remove this.
 >
-> **[3:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=199)** So that's going to be actually the rest of the demonstration, so I don't want to go too fast.
+> **[3:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=199)** So that's going to be actually the [[Representational State Transfer (REST)|rest]] of the demonstration, so I don't want to go too fast.
 >
 > **[3:27](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/authenticate-and-configure-with-openai?u=76281980&t=207)** And right here, so what I want to show you is that we can successfully now access the API key.
 >
@@ -714,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), next (2), [[Node.js]] (1), [[ChatGPT]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[ChatGPT]] (1), [[npm]] (1), [[OpenAI API]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (15), npm (1)
 > **CLI Commands:** make (5), find (3), node (1), npm (1)
 > **Cross-References:** go back to (3)
@@ -723,8 +715,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 
-#### Define prompts and a system message
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980)
+#### [Define prompts and a system message](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +729,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=20)** We're going to find the developer quickstart guide.
 >
-> **[0:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=23)** We're going to scroll down and find the example under the Node.js library.
+> **[0:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=23)** We're going to scroll down and find the example under the [[Node.js]] library.
 >
 > **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=28)** And that's going to be under step three to send our first API request.
 >
@@ -766,7 +757,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=78)** And what we're going to do is as soon as we submit an input to send a message to the assistant, we're going to append, we're going to add this new object to the list of messages and then add it as an input.
 >
-> **[1:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=94)** So let's see this first example, We're going to run npm start.
+> **[1:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=94)** So let's see this first example, We're going to run [[npm]] start.
 >
 > **[1:43](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=103)** And here we have the options to exit the conversation by typing x or to write a question.
 >
@@ -832,7 +823,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=259)** I could have changed this to you are a professional assistant or you are a funny assistant if I want to generate funny responses from AI.
 >
-> **[4:32](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=272)** And this is what we defined prompt engineering.
+> **[4:32](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=272)** And this is what we defined [[Prompt Engineering]].
 >
 > **[4:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-prompts-and-a-system-message?u=76281980&t=274)** The prompt is the text input in natural language that you send to the language model in order to get better results and optimized results.
 >
@@ -854,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), api (4), next (3), prompt (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[npm]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** find (4), make (2), node (1), npm (1)
 > **Env Vars:** api (4)
 > **Cross-References:** go back to (4)
@@ -863,8 +854,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **Definitions:** is an  (2)
 
-#### Challenge: Create an AI-agent and jokes generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980)
+#### [Challenge: Create an AI-agent and jokes generator](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=18)** So we're going to create a jokes generator.
 >
-> **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=21)** And for this purpose we're going to use the art of prompt engineering.
+> **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=21)** And for this purpose we're going to use the art of [[Prompt Engineering]].
 >
 > **[0:25](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=25)** So prompt engineering is the art of writing effective prompts by giving specific instructions to get the AI to generate the desired outputs.
 >
@@ -940,13 +930,13 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=233)** Okay.
 >
-> **[3:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=234)** And what I've done as well is to create a package.json because we need to also install all the dependencies.
+> **[3:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=234)** And what I've done as well is to create a package.[[JSON]] because we need to also install all the dependencies.
 >
 > **[3:59](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=239)** So what you need to do next is, here, to make sure that you install all the dependencies.
 >
 > **[4:04](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=244)** So before that, you're going to need to navigate to this new folder, which is challenge.
 >
-> **[4:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=248)** Then run NPM install to install all the dependencies.
+> **[4:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=248)** Then run [[npm]] install to install all the dependencies.
 >
 > **[4:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-create-an-ai-agent-and-jokes-generator?u=76281980&t=251)** And what you need to do next is also to set up an API key, just like you did for the local projects.
 >
@@ -978,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), api (5), ai (3), chatbot (2), [[Prompt Engineering]] (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[JSON]] (1), [[npm]] (1)
 > **Prerequisites:** install (4), set up (3), configure (1)
 > **Env Vars:** api (5), npm (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -987,8 +977,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), starter project (1)
 > **Best Practices:** remember to (1), you should never (1)
 
-#### Solution: Generate chat completions
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980)
+#### [Solution: Generate chat completions](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,11 +987,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=12)** We learned to define prompts and a persona, a funny persona, in order to make the chatbot capable of telling jokes.
 >
-> **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=20)** And before moving forward, so I'm going to make one recommendation, which is to stop this current Codespaces, and restart it, because we have just set up a new secret key.
+> **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=20)** And before moving forward, so I'm going to make one recommendation, which is to stop this current [[Codespaces]], and restart it, because we have just set up a new secret key.
 >
 > **[0:29](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=29)** And to make sure that this is taken into account, we're going to make sure that we reload this Codespaces.
 >
-> **[0:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=34)** So we're going to do that by selecting Shift + Command + and then P, or Control + Shift + P, if you work on Windows.
+> **[0:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=34)** So we're going to do that by selecting Shift + Command + and then P, or Control + Shift + P, if you work on [[Windows]].
 >
 > **[0:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=42)** So we're going to then select Stop Current Codespace like this.
 >
@@ -1020,7 +1009,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=80)** Right here, we're going to visit Documentation and find the section for Chat Completions.
 >
-> **[1:27](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=87)** And we're going to use the same example, and make sure that you select node.js here for the library.
+> **[1:27](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=87)** And we're going to use the same example, and make sure that you select [[Node.js]] here for the library.
 >
 > **[1:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=93)** And we're going to copy from line 6 all the way down to 12, like this.
 >
@@ -1066,7 +1055,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=224)** So let's just make sure that we navigate to challenge because I had created this new repository.
 >
-> **[3:52](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=232)** And after that I'm going to run npm start.
+> **[3:52](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=232)** And after that I'm going to run [[npm]] start.
 >
 > **[3:57](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=237)** All right, so now I can ask a question or I can ask the chatbot to tell a joke.
 >
@@ -1088,7 +1077,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=277)** So here I'm running the project from Visual Studio Code.
 >
-> **[4:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=280)** So you also have this option, and this time I'm adding here the options to also keep track of the usage of the number of tokens that you use for every prompt that you submit.
+> **[4:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=280)** So you also have this option, and this time I'm adding here the options to also keep track of the usage of the number of [[Tokens]] that you use for every prompt that you submit.
 >
 > **[4:53](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-generate-chat-completions?u=76281980&t=293)** Let's try that.
 >
@@ -1138,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (5), chatbot (4), [[Tokens]] (4), prompt (3), ai (2)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[Tokens]] (4), [[Windows]] (1), [[Node.js]] (1), [[npm]] (1)
 > **CLI Commands:** make (8), find (2), node (1), npm (1)
 > **Prerequisites:** set up (2), configure (1)
 > **UI Navigation:** scroll down (1), navigate to (1)
@@ -1152,12 +1141,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing function calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980)
+#### [Introducing function calling](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=0)** - [Instructor] So far what we've been doing is to successfully integrate the open AI APIs within our node applications to create agents powered by artificial intelligence so we can interact with these AI agents in a natural fashion to perform various text processing tasks like generating content, answering questions, and process basic math operations.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=0)** - [Instructor] So far what we've been doing is to successfully integrate the open AI APIs within our node applications to create agents powered by [[Artificial Intelligence (AI)|artificial intelligence]] so we can interact with these [[AI Agents]] in a natural fashion to perform various text processing tasks like generating content, answering questions, and process basic math operations.
 >
 > **[0:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=23)** So let's see a quick example.
 >
@@ -1179,9 +1167,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=65)** Here we go.
 >
-> **[1:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=66)** And now we can read that, I'm sorry, but as a text-based AI, I do not have access to real-time data.
+> **[1:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=66)** And now we can read that, I'm sorry, but as a text-based AI, I do not have access to [[Real-Time]] data.
 >
-> **[1:12](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=72)** However, it suggests that we check the current data in Paris by searching online or by using a word clock website or application.
+> **[1:12](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=72)** However, it suggests that we check the current data in Paris by searching online or by using a [[Microsoft Word|word]] clock website or application.
 >
 > **[1:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=81)** So that is something to keep in mind.
 >
@@ -1205,11 +1193,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=131)** In this module, we're going to discover the function calling feature.
 >
-> **[2:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=134)** With function calling, you can give the language models the ability to use external tools and to fetch current data from public APIs, cloud database, or your own backend API.
+> **[2:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=134)** With function calling, you can give the language models the ability to use external tools and to [[Fetch]] current data from public APIs, cloud database, or your own backend API.
 >
 > **[2:26](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=146)** What we want is to create an AI agent and to take it a step further by allowing the chat models to call external APIs, public APIs.
 >
-> **[2:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=154)** In order to generate extended response and be able to provide with an enhanced user experience.
+> **[2:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=154)** In order to generate extended response and be able to provide with an enhanced [[User Experience (UX)|user experience]].
 >
 > **[2:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980&t=160)** And for the next demonstration, we're going to use this public API provided by [openweathermap.org](https://openweathermap.org) in order to get the current weather information.
 >
@@ -1225,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (7), api (6), next (2), node (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[AI Agents]] (1), [[Real-Time]] (1), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
 > **Env Vars:** api (6), gpt (2)
 > **CLI Commands:** node (1), find (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (2)
@@ -1234,16 +1222,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Prerequisites:** set up (1)
 
-#### Enable function calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980)
+#### [Enable function calling](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980&t=1)** - [Instructor] Now let's have a closer look at the function calling feature that gives language models the ability to fetch current data, call APIs to provide with an extended, generated response by including training data combined with the current information.
+> **[0:01](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980&t=1)** - [Instructor] Now let's have a closer look at the function calling feature that gives language models the ability to [[Fetch]] current data, call APIs to provide with an extended, generated response by including training data combined with the current information.
 >
 > **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980&t=14)** So we're going to find below an example in order to implement the function calling.
 >
-> **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980&t=21)** So make sure that you select node.js for the library.
+> **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980&t=21)** So make sure that you select [[Node.js]] for the library.
 >
 > **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/enable-function-calling?u=76281980&t=24)** And here you have an example of a function, a dummy function that returns hardcoded information, so when you call this function.
 >
@@ -1379,7 +1366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (2), next (2), feature (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Node.js]] (1)
 > **CLI Commands:** make (5), find (1), node (1)
 > **Code Identifiers:** toolcalls (2), toolscalls (1)
 > **Definitions:** means that (2), is an  (1)
@@ -1388,8 +1375,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **File Paths:** node.js (1)
 
-#### Define tools and parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-tools-and-parameters?u=76281980)
+#### [Define tools and parameters](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-tools-and-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1439,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-tools-and-parameters?u=76281980&t=159)** I think we have the options for Paris, so let's try that.
 >
-> **[2:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-tools-and-parameters?u=76281980&t=162)** Here we go so we've got the JSON object back, which corresponds to this step right here.
+> **[2:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-tools-and-parameters?u=76281980&t=162)** Here we go so we've got the [[JSON]] object back, which corresponds to this step right here.
 >
 > **[2:49](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/define-tools-and-parameters?u=76281980&t=169)** So first it detected that function calling is necessary.
 >
@@ -1475,7 +1461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), next (3), [[JSON]] (2), application (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** api (5), json (2)
 > **URLs:** [weathermap.org](https://weathermap.org) (1)
 > **Cross-References:** go back to (1)
@@ -1484,8 +1470,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Call the public API
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980)
+#### [Challenge: Call the public API](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1517,7 +1502,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=85)** So you can run this project from your usual code editor, and you also have the option, if you'd like, to run it from one cut space.
 >
-> **[1:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=94)** So by accessing here the repository which is provided by LinkedIn Learning, which is one organization account.
+> **[1:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=94)** So by accessing here the repository which is provided by [[LinkedIn]] Learning, which is one organization account.
 >
 > **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=102)** And as a reminder, whenever you use an organization account, you may have some limitations in order to access the settings, so that's why I recommend that you use it from your personal accounts.
 >
@@ -1553,7 +1538,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=208)** So like this one.
 >
-> **[3:29](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=209)** So by setting up the package JSON.
+> **[3:29](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=209)** So by setting up the package [[JSON]].
 >
 > **[3:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/challenge-call-the-public-api?u=76281980&t=213)** Here, you have the index dot GS, so I'm going to complete mine in order to complete with the solution next.
 >
@@ -1585,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (19), data (6), next (5), web (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[LinkedIn]] (1)
 > **Env Vars:** api (19), json (2), gpt (2)
 > **Prerequisites:** set up (7)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (5)
@@ -1594,8 +1579,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (3)
 > **Exercise Files:** starter project (2)
 
-#### Solution: Call functions and connect to APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-connect-to-apis?u=76281980)
+#### [Solution: Call functions and connect to APIs](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-connect-to-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1647,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-connect-to-apis?u=76281980&t=217)** You've got the status code, which is 200, which is fine.
 >
-> **[3:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-connect-to-apis?u=76281980&t=221)** And what I'm going to do is to transform this into a JSON object.
+> **[3:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-connect-to-apis?u=76281980&t=221)** And what I'm going to do is to transform this into a [[JSON]] object.
 >
 > **[3:46](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-connect-to-apis?u=76281980&t=226)** So I'm going to do JSON, await response JSON, and we're going to log this JSON objects instead.
 >
@@ -1691,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[JSON]] (7), web (2), data (1)
+> **Frameworks & Libraries:** [[JSON]] (7)
 > **Env Vars:** api (7), json (7), gpt (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), just like (1)
@@ -1700,8 +1684,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Definitions:** is an  (1)
 
-#### Solution: Call functions and generate extended responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980)
+#### [Solution: Call functions and generate extended responses](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1694,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=8)** And we simply need to provide with more information that we get after doing this API call.
 >
-> **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=14)** So here, let's go back, and we're going to see that we've got the JSON objects.
+> **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=14)** So here, let's go back, and we're going to see that we've got the [[JSON]] objects.
 >
 > **[0:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=19)** We want to access the weather information.
 >
@@ -1827,7 +1810,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=317)** So this example helped us understand how to use the Chat Completions API in combination with the feature function calling to extend the capabilities of the GPT models.
 >
-> **[5:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=331)** And it is important to note as well about tokens.
+> **[5:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=331)** And it is important to note as well about [[Tokens]].
 >
 > **[5:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=334)** Is that under the hood functions are also included in the count of tokens.
 >
@@ -1841,13 +1824,13 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=372)** And there are plenty of other options that you can use, explore, and experiment with integration of function calling.
 >
-> **[6:22](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=382)** For example, you can connect your assistance to a backend API to train the assistance with custom knowledge, about your product and services, and allow the chat models to generate a personalized response for your customers, and provide an enhanced user experience.
+> **[6:22](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=382)** For example, you can connect your assistance to a backend API to train the assistance with custom knowledge, about your product and services, and allow the chat models to generate a personalized response for your customers, and provide an enhanced [[User Experience (UX)|user experience]].
 >
 > **[6:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/solution-call-functions-and-generate-extended-responses?u=76281980&t=400)** And you can find more examples to test and experiment here with the OpenAI Cookbook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[JSON]] (4), [[Tokens]] (3), data (1), feature (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Tokens]] (3), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (5), json (4), gpt (3)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (4)
@@ -1861,18 +1844,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assistants API overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980)
+#### [Assistants API overview](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=0)** - [Narrator] Chat bots are often used online and on websites for customer support and to provide assistance by answering general inquiries, helping customers navigate a website, and help customers find responses to their queries.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=0)** - [Narrator] Chat bots are often used online and on websites for [[Customer Support]] and to provide assistance by answering general inquiries, helping customers navigate a website, and help customers find responses to their queries.
 >
-> **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=14)** And with the rise of AI over the years, AI agents take it a step further.
+> **[0:14](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=14)** And with the rise of AI over the years, [[AI Agents]] take it a step further.
 >
 > **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=20)** They are now capable of engaging with users in the most natural way by making predictions, making decisions, and take actions, in order to provide with valuable information and respond to user queries based on the given context and the user inputs.
 >
-> **[0:36](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=36)** And in 2022, we discovered chatGPT, a multi-model and multitask chat bot.
+> **[0:36](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=36)** And in 2022, we discovered [[ChatGPT]], a multi-model and multitask chat bot.
 >
 > **[0:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=41)** So you can ask chatGPT about any task that you want, like drafting an email, translating a document, even generating code, to name a few examples.
 >
@@ -1886,7 +1868,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=77)** We're going to use external tools to fine tune the behavior of the assistant and extend their capabilities.
 >
-> **[1:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=83)** So you can connect to three type of tools with the assistants: code interpreter to execute code and access files, also knowledge retrieval to access specific data and instructions to fine tune the behavior of the assistant, and also function calling, a tool that we used in a previous example to fetch external and current data.
+> **[1:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=83)** So you can connect to three type of tools with the assistants: code interpreter to execute code and access files, also knowledge retrieval to access specific data and instructions to fine tune the behavior of the assistant, and also function calling, a tool that we used in a previous example to [[Fetch]] external and current data.
 >
 > **[1:47](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980&t=107)** And in this module, we see a practical example of how to build our own AI powered conversational agents.
 >
@@ -1908,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), ai (7), [[ChatGPT]] (4), next (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Customer Support]] (1), [[AI Agents]] (1), [[Fetch]] (1)
 > **Env Vars:** api (8)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** chatgpt (4)
@@ -1917,8 +1899,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** remember to (1)
 
-#### Create an assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980)
+#### [Create an assistant](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1913,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=21)** And you have next, Retrieval, which is also used to access files, specific data, and instructions to fine tune the behavior of the Assistants.
 >
-> **[0:30](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=30)** Then you have Function calling that we used in a previous example, in order to fetch external and current data.
+> **[0:30](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=30)** Then you have Function calling that we used in a previous example, in order to [[Fetch]] external and current data.
 >
 > **[0:37](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=37)** And it says also that in the future, OpenAI will provide with more tools, more built-in tools.
 >
@@ -1976,19 +1957,19 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=187)** So we're going to allow the Assistants to access this specific information in order to allow the Assistants to respond to user queries about this fictitious company, ABC Shoe Company, alright?
 >
-> **[3:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=198)** That's going to be a super AI agents, capable of informing your customers about frequently asked questions about your services and your company.
+> **[3:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=198)** That's going to be a super [[AI Agents]], capable of informing your customers about frequently asked questions about your services and your company.
 >
 > **[3:28](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=208)** And so the first step will be to create an Assistants.
 >
 > **[3:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=211)** Let's go back to the documentations to find out how.
 >
-> **[3:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=213)** Here we're going to copy this code example and make sure that you select node.js for the library.
+> **[3:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=213)** Here we're going to copy this code example and make sure that you select [[Node.js]] for the library.
 >
 > **[3:39](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=219)** We're going to copy this, let's go back, and here, so this is where you're going to call to create your Assistants.
 >
 > **[3:47](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=227)** So let's go back up here at this level, we're going to paste this and only replace with our own information.
 >
-> **[3:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=234)** So the name of the Assistants, you'll see that at the top, I am providing with specific instructions about our assistant bots so the name will be Customer Support Assistant, so I'm going to replace this with our name.
+> **[3:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=234)** So the name of the Assistants, you'll see that at the top, I am providing with specific instructions about our assistant bots so the name will be [[Customer Support]] Assistant, so I'm going to replace this with our name.
 >
 > **[4:09](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-an-assistant?u=76281980&t=249)** I'm providing also with Assistants default instructions, "You are a professional assistant."
 >
@@ -2012,7 +1993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2), api (2), [[Fetch]] (1), ai (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[AI Agents]] (1), [[Node.js]] (1), [[Customer Support]] (1)
 > **CLI Commands:** find (5), make (1), node (1)
 > **Env Vars:** abc (3), api (2)
 > **Cross-References:** go back to (2)
@@ -2021,8 +2002,7 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Code Identifiers:** createassistant (1)
 
-#### Upload files using the Files API
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/upload-files-using-the-files-api?u=76281980)
+#### [Upload files using the Files API](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/upload-files-using-the-files-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2054,7 +2034,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/upload-files-using-the-files-api?u=76281980&t=78)** And for the purpose, we're going to specify assistants.
 >
-> **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/upload-files-using-the-files-api?u=76281980&t=82)** If we go back to the documentation, you're going to see that files is used to upload documents that can be used with features like assistants and fine tuning.
+> **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/upload-files-using-the-files-api?u=76281980&t=82)** If we go back to the documentation, you're going to see that files is used to upload documents that can be used with features like assistants and [[Fine Tuning]].
 >
 > **[1:34](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/upload-files-using-the-files-api?u=76281980&t=94)** So this is exactly what we're looking at.
 >
@@ -2134,7 +2114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), ai (2), next (2), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** remember to (2), you should always (1)
 > **Env Vars:** api (2)
@@ -2143,8 +2123,7 @@ created: 2026-05-02
 > **Code Identifiers:** faq_abc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a conversation session
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-a-conversation-session?u=76281980)
+#### [Create a conversation session](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/create-a-conversation-session?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2231,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), api (3)
 > **Env Vars:** api (3), abc (2), faq (1)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (3), in the next (1)
@@ -2260,9 +2238,9 @@ created: 2026-05-02
 > **Code Identifiers:** user_input (2), addmessagetothread (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
+> **Exercise Files:** source code (1)
 
-#### Run the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/run-the-conversation?u=76281980)
+#### [Run the conversation](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/run-the-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2302,7 +2280,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/run-the-conversation?u=76281980&t=81)** Let's go back and make sure that we access first the content, then the text, and finally the value.
 >
-> **[1:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/run-the-conversation?u=76281980&t=93)** Let's make a quick test so I'm going to run npm-start.
+> **[1:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/run-the-conversation?u=76281980&t=93)** Let's make a quick test so I'm going to run [[npm]]-start.
 >
 > **[1:37](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/run-the-conversation?u=76281980&t=97)** All right so we're going to ask questions like, what is the return policy, something simple.
 >
@@ -2366,7 +2344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **CLI Commands:** make (4), find (3), npm (1)
 > **Cross-References:** go back to (3), in the next (1)
 > **Code Identifiers:** runthread (1), runassistants (1)
@@ -2374,8 +2352,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Check Run lifecycle and status
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/check-run-lifecycle-and-status?u=76281980)
+#### [Check Run lifecycle and status](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/check-run-lifecycle-and-status?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2495,7 +2472,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), api (1)
 > **CLI Commands:** find (5), make (4)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (3)
@@ -2503,8 +2479,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1), api reference (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieve and display messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980)
+#### [Retrieve and display messages](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2528,7 +2503,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=65)** So before doing that, I'm going to make a quick check, which is to check if the run status is completed.
 >
-> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=76)** I'm going to do that first, and then I'm going to accept this proposition from copilot, which is to retrieve the messages with this endpoint, which is open AI beta, threads, messages, lists.
+> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=76)** I'm going to do that first, and then I'm going to accept this proposition from [[Microsoft Copilot|copilot]], which is to retrieve the messages with this endpoint, which is open AI beta, threads, messages, lists.
 >
 > **[1:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=91)** And then we pass the information of the thread ID to retrieve the complete list of messages.
 >
@@ -2662,11 +2637,11 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=458)** So that's going to be in your account that you're going to need to get your billing information and then add to your credit balance if needed.
 >
-> **[7:45](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=465)** So I hope that you liked and that you enjoyed this demonstration about the assistance API, which is an excellent tool in order to connect with the language models and also connect to the open AI hosted tools like function calling, code interpreter, and retrieval that we used in this demonstration in order to create a super powerful AI agents capable of responding to your users and provide the best user experience to your users and customers based on custom data.
+> **[7:45](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/retrieve-and-display-messages?u=76281980&t=465)** So I hope that you liked and that you enjoyed this demonstration about the assistance API, which is an excellent tool in order to connect with the language models and also connect to the open AI hosted tools like function calling, code interpreter, and retrieval that we used in this demonstration in order to create a super powerful [[AI Agents]] capable of responding to your users and provide the best [[User Experience (UX)|user experience]] to your users and customers based on custom data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), data (4), ai (3), next (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[AI Agents]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (12), abc (2)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (5)
@@ -2680,8 +2655,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starter project and set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980)
+#### [Starter project and set up](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2697,7 +2671,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=16)** I'm going to walk you through the start of projects.
 >
-> **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=18)** And what we're using here is Express, which is a Node.js framework that we use to build RESTful APIs.
+> **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=18)** And what we're using here is Express, which is a [[Node.js]] framework that we use to build RESTful APIs.
 >
 > **[0:25](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=25)** And we also use Chorus, and this is to allow API calls between different servers.
 >
@@ -2729,7 +2703,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=97)** So the first one, the RESTful API that we built with Node and Express.
 >
-> **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=102)** And also we built a front end application built with the React CLI.
+> **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=102)** And also we built a front end application built with the [[React.js|React]] [[CLI]].
 >
 > **[1:47](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=107)** So the best part is coming with the creation of a user interface built with React.
 >
@@ -2741,9 +2715,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=133)** But for now, let's install all the dependencies.
 >
-> **[2:17](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=137)** And while this is being installed, I'm going to show you the package JSON, where you can see that now we have a few more dependencies, including express, cors, and also node-fetch in order to make API calls from the backend API.
+> **[2:17](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=137)** And while this is being installed, I'm going to show you the package [[JSON]], where you can see that now we have a few more dependencies, including express, cors, and also node-[[Fetch]] in order to make API calls from the backend API.
 >
-> **[2:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=151)** All right, so once this is done, we can then start this API by running npm start.
+> **[2:31](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=151)** All right, so once this is done, we can then start this API by running [[npm]] start.
 >
 > **[2:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980&t=161)** All right.
 >
@@ -2805,7 +2779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), next (6), express (3), application (3), [[React.js|React]] (3)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Node.js]] (1), [[CLI]] (1), [[JSON]] (1), [[Fetch]] (1)
 > **Env Vars:** api (11), cli (1), json (1), readme (1)
 > **Prerequisites:** set up (3), setup (2), install (2)
 > **CLI Commands:** node (3), make (2), npm (1)
@@ -2814,12 +2788,11 @@ created: 2026-05-02
 > **Ports:** port 4000 (1)
 > **Documentation:** the readme (1)
 
-#### Making API requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980)
+#### [Making API requests](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=0)** - [Instructor] Now we are going to spend more time working on the front end application, built with React.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=0)** - [Instructor] Now we are going to spend more time working on the front end application, built with [[React.js|React]].
 >
 > **[0:05](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=5)** And you see that we have some demi-data right here, which is a fake conversation between the user and the AI assistant.
 >
@@ -2853,7 +2826,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=86)** So right below this use effect, so the use effect is a hook that we use to apply side effects whenever there is a change in the application state.
 >
-> **[1:35](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=95)** And what we want to do is to use fetch, which is the built-in JavaScript method to make API requests, and we want to make, oh, that's going to be actually the port 4,000, okay?
+> **[1:35](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=95)** And what we want to do is to use [[Fetch]], which is the built-in [[JavaScript]] method to make API requests, and we want to make, oh, that's going to be actually the port 4,000, okay?
 >
 > **[1:47](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=107)** So we run the backend API on the port 4,000, and that's going to be just these endpoints.
 >
@@ -2865,7 +2838,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=133)** Let me first open the terminal because we're going to keep track of every API call running by going to the top network.
 >
-> **[2:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=143)** You can do comment R, hit control R, if you are on Windows, we're going to see what's happening.
+> **[2:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=143)** You can do comment R, hit control R, if you are on [[Windows]], we're going to see what's happening.
 >
 > **[2:30](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/making-api-requests?u=76281980&t=150)** So this is as soon as the start of the app that you're going to get this request.
 >
@@ -2891,7 +2864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), api (3), application (2), node (2), dom (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Fetch]] (1), [[JavaScript]] (1), [[Windows]] (1)
 > **CLI Commands:** make (4), node (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** api (3)
@@ -2900,20 +2873,19 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
 
-#### Send a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980)
+#### [Send a message](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=0)** - All right, so we're going to define another request, and this time, this is to send a message and interact with the AI assistant.
 >
-> **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=6)** And before that, before going any further, so I just want to remind you that you should always make sure that the server is up and running, so you should read this, that the server is running on localhost:4000, and the React application is already up and running, so we are good to go.
+> **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=6)** And before that, before going any further, so I just want to remind you that you should always make sure that the server is up and running, so you should read this, that the server is running on localhost:4000, and the [[React.js|React]] application is already up and running, so we are good to go.
 >
 > **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=24)** All right, and in the case that you run into any errors, so we're going to check this one out, so you should see, if we check out the console, that you should see an error like this, because you're trying to set here reading an ID object information on a priority which is null.
 >
 > **[0:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=40)** Let's go back. We're going to make just one small change.
 >
-> **[0:43](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=43)** You know that whenever you want to set here the thread ID, which is right here, what you should do is to use this operator, which is an operator provided by ES6, the modern JavaScript, that allows to check if an object is existing before accessing an information.
+> **[0:43](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=43)** You know that whenever you want to set here the thread ID, which is right here, what you should do is to use this operator, which is an operator provided by ES6, the modern [[JavaScript]], that allows to check if an object is existing before accessing an information.
 >
 > **[1:02](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=62)** So in the case that thread is not existing, it's not going to try to access ID, but without the application crashing.
 >
@@ -2931,13 +2903,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=113)** So whatever is typed by the user, we're going to use that as an input, all right?
 >
-> **[1:59](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=119)** And we're going to send another request, again, by using the fetch method.
+> **[1:59](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=119)** And we're going to send another request, again, by using the [[Fetch]] method.
 >
 > **[2:04](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=124)** It's going to be the same endpoints, localhost, okay?
 >
 > **[2:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=128)** But this time, remember that we have different endpoints.
 >
-> **[2:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=131)** This time, we use this endpoint, which is send message, so let's make sure that we interact with the right endpoints, and after that, we're going to specify that this is a method POST and all the rest, the headers, and we also specify the body, because it's going to be sent with here the message information from the user.
+> **[2:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=131)** This time, we use this endpoint, which is send message, so let's make sure that we interact with the right endpoints, and after that, we're going to specify that this is a method POST and all the [[Representational State Transfer (REST)|rest]], the headers, and we also specify the body, because it's going to be sent with here the message information from the user.
 >
 > **[2:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=174)** And finally, we get the response back.
 >
@@ -2965,7 +2937,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=270)** All right, and we're going to wait for the response, and something we can do is, of course, access the components extensions, just to check if anything is not working as usual.
 >
-> **[4:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=281)** You see that what we've tried to here append to the list of messages is JSON.
+> **[4:41](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=281)** You see that what we've tried to here append to the list of messages is [[JSON]].
 >
 > **[4:46](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=286)** Let's go back to the source code, and we were a bit too fast.
 >
@@ -2983,13 +2955,13 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=342)** Okay, so we cleared the text area.
 >
-> **[5:46](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=346)** All right, so this is working perfect, so we got the response back from the assistants API, and now we can read the message from the customer support that the opening hours for ABC Shoes are from 9:00 AM to 8:00 PM, Monday to Saturday.
+> **[5:46](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=346)** All right, so this is working perfect, so we got the response back from the assistants API, and now we can read the message from the [[Customer Support]] that the opening hours for ABC Shoes are from 9:00 AM to 8:00 PM, Monday to Saturday.
 >
 > **[6:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/send-a-message?u=76281980&t=360)** Excellent.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), application (3), [[JSON]] (3), ai (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (1), [[Fetch]] (1)
 > **Env Vars:** api (4), json (3), es6 (1), post (1), abc (1)
 > **CLI Commands:** make (7)
 > **Ports:** :00 (2), :4000 (1)
@@ -2998,12 +2970,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (2)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Introduction the Moderation API
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980)
+#### [Introduction the Moderation API](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=0)** - [Instructor] In today's world where content creation and sharing is as easy as one click, the need to keep the internet as a safe and respectful environment is critical.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=0)** - [Instructor] In today's world where [[Content Creation]] and sharing is as easy as one click, the need to keep the internet as a safe and respectful environment is critical.
 >
 > **[0:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=11)** For example, a chat bot application is not just about answering queries or performing tasks.
 >
@@ -3021,7 +2992,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=71)** So we're going to use the Moderation endpoint.
 >
-> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=76)** So we're going to use the example for the Node.js library.
+> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=76)** So we're going to use the example for the [[Node.js]] library.
 >
 > **[1:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=79)** So that's going to be this one, so let's go check out.
 >
@@ -3073,7 +3044,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=198)** And this time we test this endpoint, which is moderate.
 >
-> **[3:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=203)** And we're going to send this request along with some data that's going to be in JSON formats.
+> **[3:23](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=203)** And we're going to send this request along with some data that's going to be in [[JSON]] formats.
 >
 > **[3:30](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introduction-the-moderation-api?u=76281980&t=210)** Let's just go back and let's just make sure also that the app is up and running.
 >
@@ -3117,7 +3088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (3), api (2), [[Node.js]] (2), data (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Content Creation]] (1), [[JSON]] (1)
 > **CLI Commands:** make (6), node (2), find (1)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** api (2), json (1)
@@ -3126,8 +3097,7 @@ created: 2026-05-02
 > **Tools:** postman (2)
 > **Code Identifiers:** moderateconversation (1)
 
-#### Add a moderation layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980)
+#### [Add a moderation layer](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3143,7 +3113,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=24)** So we want to access the first object of that array and then access the flagged poverty, which is this one.
 >
-> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=32)** And for the rest, we would like maybe to have some visibility on the categories and category_scores.
+> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=32)** And for the [[Representational State Transfer (REST)|rest]], we would like maybe to have some visibility on the categories and category_scores.
 >
 > **[0:38](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=38)** So we're going to update here and allow to display the information of categories.
 >
@@ -3189,7 +3159,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=114)** So basically what we do here is to return the response from the requests like this.
 >
-> **[2:02](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=122)** And that's going to be as a JSON object, so the JSON with a JSON format.
+> **[2:02](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=122)** And that's going to be as a [[JSON]] object, so the JSON with a JSON format.
 >
 > **[2:08](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/add-a-moderation-layer?u=76281980&t=128)** And finally, what we do is simply resolve to return the result, the output, from the language model.
 >
@@ -3267,7 +3237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[JSON]] (3), api (2), [[Representational State Transfer (REST)|Rest]] (1), front-end (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** category_scores (5), moderateconversation (2), sendmessage (1), moderateconversations (1), usermessage (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** json (3), api (2), gpt (1)
@@ -3275,8 +3245,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate and moderate conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generate-and-moderate-conversations?u=76281980)
+#### [Generate and moderate conversations](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generate-and-moderate-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3430,7 +3399,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), ai (2), api (1)
 > **Code Identifiers:** usememo (3), setgenerating (2), isdisabled (2), isgenerating (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (4)
@@ -3438,38 +3406,38 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Env Vars:** api (1), gpt (1)
 > **UI Navigation:** go to (1)
+> **Warnings:** be careful (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Last words and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980)
+#### [Last words and next steps](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=0)** - [Instructor] I hope that you enjoyed this course and that you learned a lot from it.
 >
-> **[0:04](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=4)** Other examples of AI integration include visual recognition by incorporating computers with vision capabilities, so with the GPT-4 and the vision model to understand images and identify objects.
+> **[0:04](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=4)** Other examples of AI integration include visual recognition by incorporating computers with vision capabilities, so with the [[GPT-4]] and the vision model to understand images and identify objects.
 >
-> **[0:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=19)** Other IDs of AI integration may involve developing AI capabilities to recognize emotional intelligence and empathy, to respond to users' emotional states, and also in the domain of the internet of things.
+> **[0:19](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=19)** Other IDs of AI integration may involve developing AI capabilities to recognize emotional intelligence and empathy, to respond to users' emotional states, and also in the domain of the [[IoT|internet of things]].
 >
 > **[0:33](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=33)** Connecting AI to home appliances, security systems should become a reality in the near future.
 >
-> **[0:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=40)** The areas of implementations for generative AI are endless and limitless.
+> **[0:40](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=40)** The areas of implementations for [[Generative AI]] are endless and limitless.
 >
 > **[0:45](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=45)** The expansion of AI into various sectors of businesses and customer service is likely to change the way that we work and interact with technologies.
 >
 > **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=56)** And generative AI is much more.
 >
-> **[0:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=58)** Artificial intelligence is of general interest.
+> **[0:58](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=58)** [[Artificial Intelligence (AI)|Artificial intelligence]] is of general interest.
 >
 > **[1:01](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=61)** The ambition of OpenAI is to create a super intelligence capable of performing any task that any human being can do, and that also aligns with human progress.
 >
 > **[1:15](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=75)** And your journey to get the best developer experience should not end here.
 >
-> **[1:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=78)** If you want to learn more about generative AI in Python, there is another course available in the library that teaches the exact same techniques to integrate the OpenAI APIs with the Python programming language.
+> **[1:18](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=78)** If you want to learn more about generative AI in [[Python (Programming Language)|Python]], there is another course available in the library that teaches the exact same techniques to integrate the OpenAI APIs with the Python programming language.
 >
 > **[1:32](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980&t=92)** AI is a very large ecosystem, which is constantly improving and evolving.
 >
@@ -3479,7 +3447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (4), [[Python (Programming Language)|Python]] (2), [[GPT-4]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Python (Programming Language)|Python]] (2), [[GPT-4]] (1), [[IoT|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)

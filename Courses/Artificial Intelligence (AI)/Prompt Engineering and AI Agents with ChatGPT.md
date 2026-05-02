@@ -63,12 +63,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The new age of prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980)
+#### [The new age of prompting](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=0)** - ChatGPT is only a couple of years old, having been released at the end of 2020, and a lot of people don't know how to take advantage of improvements in the platform since then.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=0)** - [[ChatGPT]] is only a couple of years old, having been released at the end of 2020, and a lot of people don't know how to take advantage of improvements in the platform since then.
 >
 > **[0:10](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=10)** What's really changed is prompting.
 >
@@ -76,9 +75,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=16)** Then, ChatGPT gained multimodal features with version four, so you can use documents, images, and other inputs.
 >
-> **[0:23](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=23)** With the addition of the code interpreter, ChatGPT can write Python code to process and visualize data for you.
+> **[0:23](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=23)** With the addition of the code interpreter, ChatGPT can write [[Python (Programming Language)|Python]] code to process and visualize data for you.
 >
-> **[0:30](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=30)** Today we have enhanced memory, custom GPTs and the ability to modularize our prompting to create agentic behaviors.
+> **[0:30](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=30)** Today we have enhanced memory, [[Custom GPTs]] and the ability to modularize our prompting to create agentic behaviors.
 >
 > **[0:38](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980&t=38)** So if you're still prompting like it's 2022, it's time for an update.
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Python (Programming Language)|Python]] (1), data (1), [[Custom GPTs]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Python (Programming Language)|Python]] (1), [[Custom GPTs]] (1)
 > **CLI Commands:** python (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - chatgpt (1)
@@ -96,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompting strategies for agentic behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980)
+#### [Prompting strategies for agentic behavior](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=19)** You might try using a prop like this, "Give me some ideas for a podcast."
 >
-> **[0:26](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=26)** ChatGPT does a reasonable job with this, but the answer is pretty generic.
+> **[0:26](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=26)** [[ChatGPT]] does a reasonable job with this, but the answer is pretty generic.
 >
 > **[0:31](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=31)** It helps to remember that ChatGPT learned to mimic human chat conversations, but a real person you chat with will understand more context about who you are and what the conversation is about.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=53)** This is the role you want ChatGPT to pursue.
 >
-> **[0:57](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=57)** Let's create a new chat and type in the following, "You're a talented and experienced top artificial intelligence podcaster.
+> **[0:57](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=57)** Let's create a new chat and type in the following, "You're a talented and experienced top [[Artificial Intelligence (AI)|artificial intelligence]] podcaster.
 >
 > **[1:05](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=65)** Give me some ideas for my next podcast."
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=160)** Make it one paragraph, three sentences, no more than 300 characters, and give me three different options."
 >
-> **[2:47](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=167)** Sometimes when you're filling out forms, you'll need to limit it yourself to a certain amount of characters, and you can include that in your instructions.
+> **[2:47](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=167)** Sometimes when you're filling out [[Forms]], you'll need to limit it yourself to a certain amount of characters, and you can include that in your instructions.
 >
 > **[2:55](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980&t=175)** Let's regenerate to get some different versions.
 >
@@ -189,18 +187,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (5), next (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), generic (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
 
-#### Personalizing your prompts with custom instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980)
+#### [Personalizing your prompts with custom instructions](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=0)** - Custom instructions is one of those underutilized gems in ChatGPT that will have a dramatic effect on the quality of your results.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=0)** - Custom instructions is one of those underutilized gems in [[ChatGPT]] that will have a dramatic effect on the quality of your results.
 >
 > **[0:08](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=8)** If you go to your account profile, then click on customized ChatGPT, you'll see a couple of text boxes where you can drop in some text.
 >
@@ -216,11 +213,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=47)** Here's the custom instructions that I use for myself.
 >
-> **[0:51](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=51)** I'm a master course designer with 13 years of experience building online courses for LinkedIn Learning and [Lynda.com](https://Lynda.com).
+> **[0:51](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=51)** I'm a master course designer with 13 years of experience building online courses for [[LinkedIn]] Learning and [Lynda.com](https://Lynda.com).
 >
 > **[0:58](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=58)** I love technology and specialize in topics that can help others have profitable careers.
 >
-> **[1:03](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=63)** I can confidently teach artificial intelligence, full stack development, GitHub, graphic design and web design.
+> **[1:03](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=63)** I can confidently teach [[Artificial Intelligence (AI)|artificial intelligence]], full stack development, [[GitHub]], [[Graphic Design]] and [[Web Design]].
 >
 > **[1:09](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=69)** I want to help people learn practical skills to improve their lives.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=82)** Here's an example.
 >
-> **[1:24](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=84)** Always use a 16 by nine aspect ratio when creating images with Dall-E 3.
+> **[1:24](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=84)** Always use a 16 by nine aspect ratio when creating images with [[DALL-E]] 3.
 >
 > **[1:29](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/personalizing-your-prompts-with-custom-instructions?u=76281980&t=89)** If you have the paid plan, ChatGPT generates square images by default, so I'm overriding that with this custom instruction, since I usually need wider generations.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (2), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub]] (1), [[Graphic Design]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
@@ -289,12 +286,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 
-#### Using memories to remember information
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980)
+#### [Using memories to remember information](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=0)** - You can ask ChatGPT to remember things for you.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=0)** - You can ask [[ChatGPT]] to remember things for you.
 >
 > **[0:03](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=3)** As you interact with the chatbot, it can automatically manage those memories, making ChatGPT more and more accurate over time.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=90)** Let's try this as the next prompt.
 >
-> **[1:32](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=92)** I'll say, "Remember that my default target audience is "technologists and new users who want "to learn more about artificial intelligence."
+> **[1:32](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=92)** I'll say, "Remember that my default target audience is "technologists and new users who want "to learn more about [[Artificial Intelligence (AI)|artificial intelligence]]."
 >
 > **[1:40](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-memories-to-remember-information?u=76281980&t=100)** I'll go ahead and submit that and you'll see that the memory has also been updated.
 >
@@ -356,20 +352,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), prompt (3), chatbot (1), data (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - you (1)
 
-#### Archiving reusable chats
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980)
+#### [Archiving reusable chats](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=0)** - Archiving chats is another one of those underutilized gems that lets you store prompts in a special location, which is a great place to store chats, information or data you may want to reuse.
 >
-> **[0:12](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=12)** Now, as you know, prompts are auto named by ChatGPT.
+> **[0:12](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=12)** Now, as you know, prompts are auto named by [[ChatGPT]].
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=15)** If you look next to one of the pre-prompts, you can see that there is an archive item right here.
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=133)** You can also archive prompts that include files with some information that you may want to process later.
 >
-> **[2:19](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=139)** Now, I'm going to go to my LinkedIn profile, and one of the features that I like about LinkedIn is the ability to save your profile as a PDF file.
+> **[2:19](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=139)** Now, I'm going to go to my [[LinkedIn]] profile, and one of the features that I like about LinkedIn is the ability to save your profile as a PDF file.
 >
 > **[2:27](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=147)** So I'm going to go to Resources, Save to PDF, and this will download a PDF with my profile information here.
 >
@@ -451,25 +446,24 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=204)** Sometimes I've noticed that ChatGPT will not keep certain files for a long time.
 >
-> **[3:29](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=209)** For more complex files, you may want to use custom GPTs, which will cover later.
+> **[3:29](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=209)** For more complex files, you may want to use [[Custom GPTs]], which will cover later.
 >
 > **[3:34](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/archiving-reusable-chats?u=76281980&t=214)** However, this would work for someone on the free plan that doesn't have access to creating custom GPTs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), [[ChatGPT]] (3), next (2), [[LinkedIn]] (2), [[Custom GPTs]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[LinkedIn]] (2), [[Custom GPTs]] (2)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (3), click on (3)
 > **Env Vars:** pdf (3), prompt (1), info (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - archiving (1)
 
-#### Using variables and identifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-variables-and-identifiers?u=76281980)
+#### [Using variables and identifiers](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-variables-and-identifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-variables-and-identifiers?u=76281980&t=0)** - For powerful reusable prompts, you can ask ChatGPT to create variables as well as internal identifiers that store information for later use.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-variables-and-identifiers?u=76281980&t=0)** - For powerful reusable prompts, you can ask [[ChatGPT]] to create variables as well as internal identifiers that store information for later use.
 >
 > **[0:10](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/using-variables-and-identifiers?u=76281980&t=10)** Let's take a look at an example of how that would work.
 >
@@ -555,18 +549,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (2), hit (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Env Vars:** new_title (3), csv (3), tfit (2), slug (2), prefix (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - for (1)
 
-#### Converting prompts to custom GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980)
+#### [Converting prompts to custom GPTs](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=0)** - Custom GPTs are only available to paid users, but they take prompting to the next level by letting you create your own versions of ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=0)** - [[Custom GPTs]] are only available to paid users, but they take prompting to the next level by letting you create your own versions of [[ChatGPT]].
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=9)** Let's take a look at how you can create custom GPTs with the agentic behavior we've been programming into our prompts.
 >
@@ -582,9 +575,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=38)** Because I'm not using the create tab, it's not going to generate artwork for us.
 >
-> **[0:42](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=42)** I can upload some artwork myself, or I can ask DALL-E to generate some art for me.
+> **[0:42](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=42)** I can upload some artwork myself, or I can ask [[DALL-E]] to generate some art for me.
 >
-> **[0:48](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=48)** But to generate that artwork, it's going to look at the rest of the form, so I'm going to wait to do that a little bit later.
+> **[0:48](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=48)** But to generate that artwork, it's going to look at the [[Representational State Transfer (REST)|rest]] of the form, so I'm going to wait to do that a little bit later.
 >
 > **[0:54](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/converting-prompts-to-custom-gpts?u=76281980&t=54)** First thing we'll need is a name for your GPT, so I'm going to call this short link preparer and I'm going to add a description.
 >
@@ -660,7 +653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Custom GPTs]] (5), hit (4), [[DALL-E]] (4), next (3)
+> **Frameworks & Libraries:** [[Custom GPTs]] (5), [[DALL-E]] (4), [[ChatGPT]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (11), dall (4), api (1), tfit (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
@@ -669,12 +662,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Creating modular agentic GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980)
+#### [Creating modular agentic GPTs](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=0)** - You can call custom GPTs from any other chat by using the at symbol.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=0)** - You can call [[Custom GPTs]] from any other chat by using the at symbol.
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=5)** That means that your custom GPTs can be modular tools that you can call upon to take care of tasks inside existing prompts.
 >
@@ -706,9 +698,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=112)** This is the format that YouTube links should be written in, so I'll make that the sample file for this project.
 >
-> **[2:01](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=121)** I'm also going to add some instructions for the icon that I wanted to use for this one, so I'm going to say, "When you create an icon using DALL-E, use something that looks like a video player."
+> **[2:01](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=121)** I'm also going to add some instructions for the icon that I wanted to use for this one, so I'm going to say, "When you create an icon using [[DALL-E]], use something that looks like a video player."
 >
-> **[2:11](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=131)** Go ahead and hit Close for the instructions, and we'll fill out the rest of the information for this one.
+> **[2:11](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=131)** Go ahead and hit Close for the instructions, and we'll fill out the [[Representational State Transfer (REST)|rest]] of the information for this one.
 >
 > **[2:17](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=137)** I'll call it YouTube Link Preparer.
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=147)** And I'm going to click right here to upload my YouTube links example, and then make sure that the code interpreter is on just like before.
 >
-> **[2:37](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=157)** And once again, I'll turn off using this conversation to train ChatGPT, and I'll go ahead and go back to the top and create the icon using DALL-E.
+> **[2:37](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=157)** And once again, I'll turn off using this conversation to train [[ChatGPT]], and I'll go ahead and go back to the top and create the icon using DALL-E.
 >
 > **[2:48](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=168)** That looks pretty good.
 >
@@ -736,11 +728,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=209)** In addition to making your own custom GPTs, you can go to the Explore GPTs section and find thousands of other GPTs that others have created.
 >
-> **[3:39](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=219)** Between the ability to create your own custom and modular GPTs, plus the thousands of GPTs available in the GPT store, you are ready to make artificial intelligence agents make your life and work a lot easier.
+> **[3:39](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/creating-modular-agentic-gpts?u=76281980&t=219)** Between the ability to create your own custom and modular GPTs, plus the thousands of GPTs available in the GPT store, you are ready to make [[Artificial Intelligence (AI)|artificial intelligence]] agents make your life and work a lot easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Custom GPTs]] (4), hit (2), [[DALL-E]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (4), [[DALL-E]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[ChatGPT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gpt (9), csv (2), dall (2), slug (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (3)

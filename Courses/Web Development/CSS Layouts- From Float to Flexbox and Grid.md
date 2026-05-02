@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980&t=0)** - Creating page layouts is one of the cornerstones of writing CSS, and it's gone through a lot of changes since the early days of HTML tables.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980&t=0)** - Creating page layouts is one of the cornerstones of writing CSS, and it's gone through a lot of changes since the early days of [[HTML]] tables.
 >
 > **[0:08](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980&t=8)** From floating and positioning elements to creating rows and columns, there are many different options.
 >
@@ -108,16 +107,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Speakers:** - creating (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/what-you-should-know?u=76281980&t=0)** - [Instruktor] Da biste izvukli maksimum iz ovog kursa, ne morate biti stručnjak za HTML ili CSS.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/what-you-should-know?u=76281980&t=0)** - [Instruktor] Da biste izvukli maksimum iz ovog kursa, ne morate biti stručnjak za [[HTML]] ili CSS.
 >
 > **[0:05](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/what-you-should-know?u=76281980&t=5)** Fokusiraću se na različite tehnike CSS rasporeda iz temelja, tako da će biti nekih instrukcija o osnovnim temama.
 >
@@ -129,12 +127,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (4), bi (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** css (5), html (4)
 > **Speakers:** - [instruktor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=6)** Click the show all link to download the zip file.
 >
-> **[0:09](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=9)** You can also get a copy from my GitHub account.
+> **[0:09](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=9)** You can also get a copy from my [[GitHub]] account.
 >
 > **[0:12](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=12)** Just select code, then download zip.
 >
@@ -152,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=34)** As we're going through the course, the exercises will be presented in two formats.
 >
-> **[0:38](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=38)** The first will be small code samples using an online tool called CodePen, which is great for experimenting and seeing the output right away.
+> **[0:38](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=38)** The first will be small code samples using an online tool called [[CodePen]], which is great for experimenting and seeing the output right away.
 >
 > **[0:48](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/using-the-exercise-files-26971303?u=76281980&t=48)** All of the CodePen exercises in this course can be found in my collection.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (2), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[GitHub]] (1)
 > **Exercise Files:** exercise files (2), download the (1), zip file (1)
 > **CLI Commands:** unzip (1), find (1)
 > **Tools:** github (1), visual studio (1)
@@ -177,24 +174,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layouts with HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980)
+#### [Layouts with HTML](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=0)** - [Instructor] In the early days of the web, it was common to use HTML Tables for page layouts because of its ability to create columns and rows.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=0)** - [Instructor] In the early days of the web, it was common to use [[HTML]] Tables for page layouts because of its ability to create columns and rows.
 >
 > **[0:08](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=8)** As CSS matured, it became standard practice to separate content from style, and eventually, it became a recommendation not to use tables for layouts.
 >
 > **[0:18](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=18)** HTML Tables were originally intended for tabular data, and can still be used for this purpose.
 >
-> **[0:24](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=24)** Let's look at a basic table layout on CodePen.
+> **[0:24](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=24)** Let's look at a basic table layout on [[CodePen]].
 >
 > **[0:28](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=28)** Before we jump in the code, I just want to make a change to the Editor setting in CodePen.
 >
 > **[0:33](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=33)** I'm going to select this Change View button and dock my code panels to the left.
 >
-> **[0:38](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=38)** I'll also minimize the JS panel as well, since we won't be writing any JavaScript.
+> **[0:38](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=38)** I'll also minimize the JS panel as well, since we won't be writing any [[JavaScript]].
 >
 > **[0:43](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980&t=43)** And then I'll just resize this panel as well.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), css (5), [[HTML]] (3), [[CodePen]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (5), html (3)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
@@ -240,8 +236,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Layouts with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-css-26966362?u=76281980)
+#### [Layouts with CSS](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-css-26966362?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-css-26966362?u=76281980&t=5)** The normal flow, which defines the default layout behavior before any CSS is added.
 >
-> **[0:11](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-css-26966362?u=76281980&t=11)** Floats, which was a technique used to create page layouts as we moved away from HTML table based layouts.
+> **[0:11](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-css-26966362?u=76281980&t=11)** Floats, which was a technique used to create page layouts as we moved away from [[HTML]] table based layouts.
 >
 > **[0:19](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-css-26966362?u=76281980&t=19)** Positioning is also used to move elements from the normal flow, but it's generally used for smaller components within a page layout.
 >
@@ -271,13 +266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1), mdn (1), w3c (1)
 > **Documentation:** mdn (1), w3c (1)
 > **Speakers:** - [narrator] (1)
 
-#### Browser support and CSS standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/browser-support-and-css-standards?u=76281980)
+#### [Browser support and CSS standards](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/browser-support-and-css-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +331,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[Search]] (1)
 > **Env Vars:** css (6), v3c (5), w3c (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (2)
 > **Documentation:** w3c (1)
@@ -348,12 +341,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inline and block elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980)
+#### [Inline and block elements](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980&t=0)** - [Pripovedač] Normalan tok je način na koji pretraživač podrazumevano postavlja HTML elemente kada CSS nije primenjen.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980&t=0)** - [Pripovedač] Normalan tok je način na koji pretraživač podrazumevano postavlja [[HTML]] elemente kada CSS nije primenjen.
 >
 > **[0:07](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980&t=7)** Elementi su prikazani u istom redosledu u kojem se pojavljuje u HTML-u.
 >
@@ -385,13 +377,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (4), bi (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** css (5), html (4), html5 (2)
 > **Versions:** 4.01 (1)
 > **Speakers:** - [pripoveda (1)
 
-#### The box model properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-properties?u=76281980)
+#### [The box model properties](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-properties?u=76281980&t=6)** Svaki element pretraživač posmatra kao pravougaoni okvir.
 >
-> **[0:10](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-properties?u=76281980&t=10)** CSS Bok model opisuje kako se ove kutije generišu za svaki HTML element.
+> **[0:10](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-properties?u=76281980&t=10)** CSS Bok model opisuje kako se ove kutije generišu za svaki [[HTML]] element.
 >
 > **[0:17](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-properties?u=76281980&t=17)** Postoji pet osobina koje se mogu koristiti za definisanje modela kutije.
 >
@@ -477,13 +468,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[HTML]] (1), bi (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (1), html (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instruktor] (1)
 
-#### The display property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-display-property?u=76281980)
+#### [The display property](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-display-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +511,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-display-property?u=76281980&t=118)** Iako nema margine ni na jednom od ovih elemenata, postoji mali razmak između elemenata.
 >
-> **[2:04](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-display-property?u=76281980&t=124)** Ovo zapravo dolazi iz preloma reda u HTML-u.
+> **[2:04](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-display-property?u=76281980&t=124)** Ovo zapravo dolazi iz preloma reda u [[HTML]]-u.
 >
 > **[2:08](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-display-property?u=76281980&t=128)** Ako stavimo oznake na istu liniju, prostor će biti uklonjen.
 >
@@ -567,13 +557,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), bi (4)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instruktor] (1)
 
-#### The box model and layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-and-layouts?u=76281980)
+#### [The box model and layouts](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-and-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +614,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-and-layouts?u=76281980&t=148)** Ali ako podesimo levu i desnu vrednost na auto, to će horizontalno centrirati naše elemente na nivou bloka linija.
 >
-> **[2:36](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-and-layouts?u=76281980&t=156)** Hajde da se vratimo na CodePen i ažuriramo vrednost margine.
+> **[2:36](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-and-layouts?u=76281980&t=156)** Hajde da se vratimo na [[CodePen]] i ažuriramo vrednost margine.
 >
 > **[2:41](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-box-model-and-layouts?u=76281980&t=161)** Prvi broj se odnosi na gornje i donje vrednosti.
 >
@@ -653,12 +642,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (6), css (4), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **Env Vars:** css (4)
 > **Speakers:** - [instruktor] (1)
 
-#### The float property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-float-property?u=76281980)
+#### [The float property](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-float-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,7 +678,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-float-property?u=76281980&t=77)** Svaki od ovih programera se koristi da sadrži elemente ugnežđene u njima.
 >
-> **[1:22](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-float-property?u=76281980&t=82)** Proširiću svoj panel kako bih napravio više prostora za html.
+> **[1:22](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-float-property?u=76281980&t=82)** Proširiću svoj panel kako bih napravio više prostora za [[HTML]].
 >
 > **[1:26](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-float-property?u=76281980&t=86)** Tu je moj prvi omot i tu je moj drugi omot.
 >
@@ -734,11 +722,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), bi (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Speakers:** - [narator] (1)
 
-#### Clearing floats
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/clearing-floats-26969324?u=76281980)
+#### [Clearing floats](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/clearing-floats-26969324?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +747,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/clearing-floats-26969324?u=76281980&t=49)** I can apply the clear to the second paragraph.
 >
-> **[0:52](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/clearing-floats-26969324?u=76281980&t=52)** So let's add that to the HTML.
+> **[0:52](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/clearing-floats-26969324?u=76281980&t=52)** So let's add that to the [[HTML]].
 >
 > **[0:54](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/clearing-floats-26969324?u=76281980&t=54)** Here's my second paragraph, so I'll give it the class of clear, class equals clear in quotes.
 >
@@ -862,7 +849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** sudo (2), find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -871,14 +858,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980)
+#### [Setting up your project](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=0)** - [Speaker] In this course, we're going to build the same layout using Float, Flexbox, and Grid to compare the different methods.
 >
-> **[0:06](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=6)** In the exercise files, there's a start folder containing an HTML file and three CSS files.
+> **[0:06](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=6)** In the exercise files, there's a start folder containing an [[HTML]] file and three CSS files.
 >
 > **[0:14](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=14)** For each exercise, we'll use the same HTML and just swap out the CSS file.
 >
@@ -888,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=38)** The other folders in the exercise files named by chapter and video numbers contain the final versions of each exercise.
 >
-> **[0:48](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=48)** If you don't have access to the exercise files, you can also download them from my GitHub repo.
+> **[0:48](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=48)** If you don't have access to the exercise files, you can also download them from my [[GitHub]] repo.
 >
 > **[0:54](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/setting-up-your-project-26973324?u=76281980&t=54)** Just select the clone or download button and download zip.
 >
@@ -938,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (4), [[GitHub]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[GitHub]] (1)
 > **Env Vars:** css (8), html (3)
 > **Exercise Files:** exercise files (4), github repo (1)
 > **CLI Commands:** make (2)
@@ -947,12 +933,11 @@ created: 2026-05-02
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Cross-References:** in the next (1)
 
-#### Exercise: Build a layout with float
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980)
+#### [Exercise: Build a layout with float](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=0)** - [Instructor] We'll first take a look at the HTML markup to decide which elements to apply the CSS styles to.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=0)** - [Instructor] We'll first take a look at the [[HTML]] markup to decide which elements to apply the CSS styles to.
 >
 > **[0:07](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=7)** We have a header nav tag at the top, followed by a main tag for the main page content.
 >
@@ -982,7 +967,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=98)** You'll need to scroll horizontally to see all of the content.
 >
-> **[1:43](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=103)** Back when float-based layouts were used, responsive web design wasn't a standard practice yet.
+> **[1:43](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=103)** Back when float-based layouts were used, [[Responsive Web Design]] wasn't a standard practice yet.
 >
 > **[1:48](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-float-26988338?u=76281980&t=108)** The two common resolutions to target based on width were either 1280 pixels or 1024 pixels.
 >
@@ -1064,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[HTML]] (2), [[Responsive Web Design]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Responsive Web Design]] (1)
 > **Env Vars:** css (5), html (2)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
@@ -1073,8 +1058,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Position: Relative and absolute
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980)
+#### [Position: Relative and absolute](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1066,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=11)** Iako se pozicija ne koristi za kreiranje rasporeda cele stranice, korisna je za fino podešavanje komponenti unutar stranice.
 >
-> **[0:19](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=19)** Pogledajmo kako funkcioniše relativno i apsolutno pozicioniranje u primeru CodePen-a.
+> **[0:19](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=19)** Pogledajmo kako funkcioniše relativno i apsolutno pozicioniranje u primeru [[CodePen]]-a.
 >
 > **[0:24](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=24)** Napravio sam osnovni raspored stranice bez plovaka ili drugih stilova rasporeda.
 >
@@ -1138,7 +1122,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=162)** Zbog toga se ova dva elementa preklapaju.
 >
-> **[2:46](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=166)** Za pozicionirane elemente, ovaj redosled slaganja se zasniva na njihovom redosledu u HTML-u.
+> **[2:46](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=166)** Za pozicionirane elemente, ovaj redosled slaganja se zasniva na njihovom redosledu u [[HTML]]-u.
 >
 > **[2:51](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-relative-and-absolute?u=76281980&t=171)** Onaj koji dolazi posle relativne kutije u ovom primeru ima veći redosled slaganja.
 >
@@ -1192,13 +1176,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (1), css (1), bi (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (1)
 > **Env Vars:** html (3), css (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instruktor] (1)
 
-#### Position: Fixed, sticky, and static
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-fixed-sticky-and-static-26984305?u=76281980)
+#### [Position: Fixed, sticky, and static](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-fixed-sticky-and-static-26984305?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,7 +1199,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-fixed-sticky-and-static-26984305?u=76281980&t=25)** Remember, we talked about position in the z-index, right?
 >
-> **[0:27](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-fixed-sticky-and-static-26984305?u=76281980&t=27)** Well, we added position relative to the main element, and it comes after the nav in the HTML.
+> **[0:27](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-fixed-sticky-and-static-26984305?u=76281980&t=27)** Well, we added position relative to the main element, and it comes after the nav in the [[HTML]].
 >
 > **[0:35](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/position-fixed-sticky-and-static-26984305?u=76281980&t=35)** So by default, it has a higher stack order.
 >
@@ -1292,7 +1275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1), hit (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** we talked about (1)
@@ -1305,8 +1288,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/getting-started-with-flexbox?u=76281980)
+#### [Getting started with Flexbox](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/getting-started-with-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,11 +1336,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (2)
 > **Speakers:** - [pripoveda (1)
 
-#### Orientation with flex-direction and flex-wrap
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/orientation-with-flex-direction-and-flex-wrap?u=76281980)
+#### [Orientation with flex-direction and flex-wrap](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/orientation-with-flex-direction-and-flex-wrap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,7 +1364,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/orientation-with-flex-direction-and-flex-wrap?u=76281980&t=71)** Kada se koriste ove vrednosti pravac glavnog početka i glavnog kraja se okreće.
 >
-> **[1:15](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/orientation-with-flex-direction-and-flex-wrap?u=76281980&t=75)** Za pristupačnost, korišćenje obrnutih vrednosti ne bi trebalo da bude zamena za stvarni redosled sadržaja u html-u.
+> **[1:15](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/orientation-with-flex-direction-and-flex-wrap?u=76281980&t=75)** Za pristupačnost, korišćenje obrnutih vrednosti ne bi trebalo da bude zamena za stvarni redosled sadržaja u [[HTML]]-u.
 >
 > **[1:23](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/orientation-with-flex-direction-and-flex-wrap?u=76281980&t=83)** Preuređivanje je samo vizuelno.
 >
@@ -1418,11 +1398,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Speakers:** - [instruktor] (1)
 
-#### Flexible sizing
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/flexible-sizing?u=76281980)
+#### [Flexible sizing](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/flexible-sizing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1429,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/flexible-sizing?u=76281980&t=63)** Osnovna vrednost se može koristiti sa bilo kojim vrednostima dužine, procentima ili ključnim rečima.
 >
-> **[1:09](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/flexible-sizing?u=76281980&t=69)** Hajde da otvorimo Codepen primer da vidimo pregled kako se ove vrednosti primenjuju na flek stavke.
+> **[1:09](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/flexible-sizing?u=76281980&t=69)** Hajde da otvorimo [[CodePen]] primer da vidimo pregled kako se ove vrednosti primenjuju na flek stavke.
 >
 > **[1:16](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/flexible-sizing?u=76281980&t=76)** Prvo, mi ćemo definisati flek kontejner dodavanjem displeja flek.
 >
@@ -1556,14 +1535,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (3), [[CodePen]] (1), next (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** v3c (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [pripoveda (1)
 
-#### Sizing multiple flex items
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/sizing-multiple-flex-items-26985334?u=76281980)
+#### [Sizing multiple flex items](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/sizing-multiple-flex-items-26985334?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,12 +1583,11 @@ created: 2026-05-02
 > **Versions:** 1.7 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The order property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-order-property-26968366?u=76281980)
+#### [The order property](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-order-property-26968366?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-order-property-26968366?u=76281980&t=0)** - [Narrator] Another new Flexbox property is order, which is used to change the layout order of flex items without changing the HTML.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-order-property-26968366?u=76281980&t=0)** - [Narrator] Another new Flexbox property is order, which is used to change the layout order of flex items without changing the [[HTML]].
 >
 > **[0:08](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/the-order-property-26968366?u=76281980&t=8)** This is something that was previously unavailable with traditional layout techniques, but note this will only visually change the order.
 >
@@ -1636,13 +1613,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), css (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Env Vars:** html (6), css (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [narrator] (1)
 
-#### Nesting flex containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/nesting-flex-containers?u=76281980)
+#### [Nesting flex containers](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/nesting-flex-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1656,7 +1632,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/nesting-flex-containers?u=76281980&t=18)** Flek stavke u ugnežđenom flek kontejneru mogu biti raspoređeni duž iste ili suprotne ose svog roditeljskog flek kontejnera.
 >
-> **[0:26](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/nesting-flex-containers?u=76281980&t=26)** Pogledajmo primer u CodePen-u.
+> **[0:26](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/nesting-flex-containers?u=76281980&t=26)** Pogledajmo primer u [[CodePen]]-u.
 >
 > **[0:29](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/nesting-flex-containers?u=76281980&t=29)** U ovom primeru, kontejner za omotavanje stranice ima dva potomečka elementa, bočni i glavni element.
 >
@@ -1726,15 +1702,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (1), bi (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **Speakers:** - [insructor] (1)
 
-#### Exercise: Build a layout with Flexbox, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-1?u=76281980)
+#### [Exercise: Build a layout with Flexbox, part 1](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-1?u=76281980&t=0)** - [Speaker] Since we're using the same HTML for all three layout exercises, let's start by switching to the flexbox.css file.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-1?u=76281980&t=0)** - [Speaker] Since we're using the same [[HTML]] for all three layout exercises, let's start by switching to the flexbox.css file.
 >
 > **[0:10](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-1?u=76281980&t=10)** This gives us a fresh place to start with just the base presentational styles and no float CSS from the previous layout exercise.
 >
@@ -1844,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (6), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** css (3), html (1)
 > **File Paths:** flexbox.css (2), floats.css (1)
@@ -1853,8 +1828,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [speaker] (1)
 
-#### Exercise: Build a layout with Flexbox, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-2?u=76281980)
+#### [Exercise: Build a layout with Flexbox, part 2](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1864,7 +1838,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-2?u=76281980&t=18)** But since this is a flexbox layout, let's try using a flex-based property instead.
 >
-> **[0:24](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-2?u=76281980&t=24)** Let's go back to the index.html file.
+> **[0:24](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-2?u=76281980&t=24)** Let's go back to the index.[[HTML]] file.
 >
 > **[0:28](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-flexbox-part-2?u=76281980&t=28)** Flex items are aligned horizontally with the justify content property, which is added to the flex-container.
 >
@@ -1912,7 +1886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** go back to (2)
 > **Non-Speech:** (typing loudly) (2)
@@ -1926,8 +1900,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grid vs. Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-vs-flexbox?u=76281980)
+#### [Grid vs. Flexbox](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-vs-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1971,14 +1944,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (2)
 > **Env Vars:** vksnumksc (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narator] (1)
 
-#### Grid, grid systems, and CSS Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-grid-systems-and-css-grid?u=76281980)
+#### [Grid, grid systems, and CSS Grid](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-grid-systems-and-css-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,12 +2003,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (14), bi (3)
 > **Env Vars:** css (14), ksnumks (2)
 > **Speakers:** - [instruktor] (1)
 
-#### Create a basic Grid layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/create-a-basic-grid-layout?u=76281980)
+#### [Create a basic Grid layout](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/create-a-basic-grid-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,7 +2028,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/create-a-basic-grid-layout?u=76281980&t=53)** Vrednosti se mogu deklarisati sa procentom ili bilo kojom jedinicom dužine CSS-a.
 >
-> **[0:59](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/create-a-basic-grid-layout?u=76281980&t=59)** Hajde da otvorimo primer u CodePen-u.
+> **[0:59](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/create-a-basic-grid-layout?u=76281980&t=59)** Hajde da otvorimo primer u [[CodePen]]-u.
 >
 > **[1:02](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/create-a-basic-grid-layout?u=76281980&t=62)** Počnimo dodavanjem u mrežu prikaza.
 >
@@ -2149,13 +2118,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[CodePen]] (1), bi (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **Env Vars:** gap (3), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instruktor] (1)
 
-#### Columns, rows, and gutters with Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/columns-rows-and-gutters-with-grid-26992165?u=76281980)
+#### [Columns, rows, and gutters with Grid](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/columns-rows-and-gutters-with-grid-26992165?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2215,7 +2183,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/columns-rows-and-gutters-with-grid-26992165?u=76281980&t=195)** This won't look different from how it was before because the min value is the same as the value I set before.
 >
-> **[3:21](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/columns-rows-and-gutters-with-grid-26992165?u=76281980&t=201)** But if I go up to the HTML panel and add in the extra content, we'll be able to see some changes.
+> **[3:21](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/columns-rows-and-gutters-with-grid-26992165?u=76281980&t=201)** But if I go up to the [[HTML]] panel and add in the extra content, we'll be able to see some changes.
 >
 > **[3:33](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/columns-rows-and-gutters-with-grid-26992165?u=76281980&t=213)** Since the max value is set to auto, the row will expand to make space for the extra content.
 >
@@ -2227,7 +2195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[Search]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (1), html (1)
@@ -2236,8 +2204,7 @@ created: 2026-05-02
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Tools:** firefox (1)
 
-#### Positioning with Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980)
+#### [Positioning with Grid](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2255,7 +2222,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=36)** Takođe možete koristiti negativan numerički indeks da biste upućivali na suprotni kraj mreže.
 >
-> **[0:42](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=42)** Podrazumevano, stavke se pojavljuju u istom redosledu kao i HTML unutrašnji smešten u jednu mrežnu ćeliju.
+> **[0:42](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=42)** Podrazumevano, stavke se pojavljuju u istom redosledu kao i [[HTML]] unutrašnji smešten u jednu mrežnu ćeliju.
 >
 > **[0:48](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=48)** Možemo da promenimo položaj stavki mreže tako što ćemo odrediti početnu i završnu liniju sa sledećim svojstvima.
 >
@@ -2283,7 +2250,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=126)** U željenom rasporedu nalaze se tri kolone i dva reda.
 >
-> **[2:12](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=132)** Hajde da otvorimo ovaj primer u CodePen-u.
+> **[2:12](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=132)** Hajde da otvorimo ovaj primer u [[CodePen]]-u.
 >
 > **[2:16](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/positioning-with-grid?u=76281980&t=136)** Prva stvar koju ćemo uraditi je da ćemo dodati u mrežu šablona kolone i osobine redova.
 >
@@ -2339,15 +2306,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (4), [[HTML]] (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1)
 > **Env Vars:** html (1)
 
-#### Exercise: Build a layout with Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-grid-26989221?u=76281980)
+#### [Exercise: Build a layout with Grid](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-grid-26989221?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-grid-26989221?u=76281980&t=0)** - [Speaker] In our previous codepen exercise, we got some practice building a basic grid layout.
+> **[0:00](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-grid-26989221?u=76281980&t=0)** - [Speaker] In our previous [[CodePen]] exercise, we got some practice building a basic grid layout.
 >
 > **[0:05](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-build-a-layout-with-grid-26989221?u=76281980&t=5)** In this exercise, we're going to do the same, but take it a step further and create a 12-column grid system to lay out the page components.
 >
@@ -2435,7 +2401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (3), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (4)
 > **Cross-References:** go back to (2)
@@ -2444,8 +2410,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Exercise Files:** template (1)
 
-#### Exercise: Create a sticky footer with Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980)
+#### [Exercise: Create a sticky footer with Grid](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2465,7 +2430,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=41)** So the first style we need to add is height to the body element to make it expand the height of the view port.
 >
-> **[0:51](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=51)** It's common to add this style to both the HTML and body selector.
+> **[0:51](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=51)** It's common to add this style to both the [[HTML]] and body selector.
 >
 > **[0:54](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=54)** So let's create a new selector list.
 >
@@ -2489,7 +2454,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=122)** This approach is more common than evenly distributing the extra space across all rows.
 >
-> **[2:07](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=127)** I'm going to zoom out a bit in my browser to show how the page would look on a larger screen.
+> **[2:07](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=127)** I'm going to [[Zoom]] out a bit in my browser to show how the page would look on a larger screen.
 >
 > **[2:15](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/exercise-create-a-sticky-footer-with-grid?u=76281980&t=135)** The taller the view port, the more space will be added below the content in each row.
 >
@@ -2515,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (3), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Zoom]] (1)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
@@ -2527,8 +2492,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/next-steps-and-resources-26970311?u=76281980)
+#### [Next steps and resources](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/next-steps-and-resources-26970311?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2548,7 +2512,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), css (1)
 > **Env Vars:** css (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - in (1)

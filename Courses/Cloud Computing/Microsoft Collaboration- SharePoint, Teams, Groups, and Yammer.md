@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980)
+#### [Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980&t=0)** - [Gini] Microsoft is the recognized leader in collaboration software because of tools like SharePoint, Microsoft Teams, Yammer, and Microsoft 365 Groups.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980&t=0)** - [Gini] [[Microsoft]] is the recognized leader in collaboration software because of tools like [[SharePoint]], [[Microsoft Teams]], Yammer, and [[Microsoft 365]] Groups.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980&t=10)** But how do you decide which collaboration tools should be used for a particular project or by a particular team?
 >
@@ -96,12 +95,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1), teams (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gini] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=10)** To do so, you'll need to have some software.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=13)** Specifically, you'll need to have Microsoft Teams, Microsoft SharePoint Online, Microsoft 365 or Office 365, and Yammer.
+> **[0:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=13)** Specifically, you'll need to have [[Microsoft Teams]], [[Microsoft]] [[SharePoint]] Online, [[Microsoft 365]] or [[Microsoft Office|Office]] 365, and Yammer.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=24)** And with all of these, you need to have sufficient permission to be able to create things.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=53)** I also assume that you have knowledge of or experience with collaborating in at least a couple of these tools, perhaps in all four.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=61)** But if you'd like to pause right now and get some additional information about how to use these apps, I have some resources to recommend from the LinkedIn Learning Library.
+> **[1:01](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=61)** But if you'd like to pause right now and get some additional information about how to use these apps, I have some resources to recommend from the [[LinkedIn]] Learning Library.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/what-you-need-to-know?u=76281980&t=70)** For Microsoft Teams, the go-to course is [[Microsoft Teams Essential Training]] by Nick Brazzi.
 >
@@ -149,8 +147,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How collaboration begins
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980)
+#### [How collaboration begins](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,9 +155,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=6)** They begin with the realization that they need some way to be able to work together more easily.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=10)** So one possibility is an email group, for example, a contact list in Microsoft Outlook, or a shared email mailbox that can be monitored by this group.
+> **[0:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=10)** So one possibility is an email group, for example, a contact list in [[Microsoft Outlook]], or a shared email mailbox that can be monitored by this group.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=21)** If they need to work together on documents, a file share is normally set up, perhaps something in Windows, somewhere in the network, or maybe it's hosted in one of the team member's OneDrives.
+> **[0:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=21)** If they need to work together on documents, a file share is normally set up, perhaps something in [[Windows]], somewhere in the network, or maybe it's hosted in one of the team member's OneDrives.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=32)** And if there's access to something like Chat or Yammer, or another messaging system, this is often the time that the group will agree to have some of their communications in chat.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=75)** And they say, "You know what?
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=77)** The work that we're doing really belongs in an Office 365 group, in a Microsoft Team or a Microsoft Team channel, or perhaps in a SharePoint Team site."
+> **[1:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=77)** The work that we're doing really belongs in an [[Microsoft Office|Office]] 365 group, in a [[Microsoft]] Team or a Microsoft Team channel, or perhaps in a [[SharePoint]] Team site."
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=86)** But which do we create?
 >
@@ -182,25 +179,24 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=92)** And the answer of course is, it depends.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=94)** In the next few movies, we'll take a look at the features in Office 365 groups, in Microsoft Teams and in SharePoint sites.
+> **[1:34](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=94)** In the next few movies, we'll take a look at the features in Office 365 groups, in [[Microsoft Teams]] and in SharePoint sites.
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980&t=102)** And then we'll return to the question of where should we collaborate?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[SharePoint]] (2), teams (1), [[Microsoft Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[SharePoint]] (2), [[Microsoft Outlook]] (1), [[Windows]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Teams for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980)
+#### [Microsoft Teams for collaboration](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=0)** - [Instructor] Microsoft Teams was designed to be the central hub for your team's work life.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=0)** - [Instructor] [[Microsoft Teams]] was designed to be the central hub for your team's work life.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=7)** Teams includes the ability to communicate.
 >
@@ -228,11 +224,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=53)** But it's easy enough to add a tab and include another application that is important to your team.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=62)** For example, you might have a particular library you would like them to look at, some forums that they use, custom Microsoft lists, and so on.
+> **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=62)** For example, you might have a particular library you would like them to look at, some forums that they use, custom [[Microsoft]] lists, and so on.
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=73)** All of these applications and more can be integrated directly into Microsoft Teams.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=80)** The Microsoft Power platform, which includes tools like Power Apps, Power Automate, Power BI, and Power Virtual Agents or chat bots are all available to Teams.
+> **[1:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=80)** The Microsoft Power platform, which includes tools like Power Apps, Power Automate, [[Microsoft Power BI|Power BI]], and Power Virtual Agents or chat bots are all available to Teams.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=90)** And this is really important because this allows your organization to create custom applications, custom workflows, custom reports, and chat bots and connect those directly to Teams.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=116)** And as with the other collaboration options that we are exploring, Microsoft Teams is secure.
 >
-> **[2:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=122)** Teams has a web app, a desktop app for Windows, which is what I'll be using, and mobile apps so that you can work with Teams on the road.
+> **[2:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=122)** Teams has a web app, a desktop app for [[Windows]], which is what I'll be using, and mobile apps so that you can work with Teams on the road.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-teams-for-collaboration?u=76281980&t=133)** When you use Teams, you create teams, groups of people who work together.
 >
@@ -268,18 +264,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (23), [[Microsoft Teams]] (6), power (6), [[Microsoft]] (3), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[Microsoft]] (3), [[Microsoft Power BI|Power bi]] (1), [[Windows]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SharePoint for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980)
+#### [SharePoint for collaboration](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=0)** - [Instructor] This is a SharePoint team site.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=0)** - [Instructor] This is a [[SharePoint]] team site.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=4)** SharePoint is a platform that is used to build websites, that are then used to share documents, data, and applications to collaborate.
 >
@@ -293,9 +288,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=37)** There's also an on-premise version of SharePoint called SharePoint Server usually with a year number after it.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=43)** OneDrive for Business, which you may be using already, is actually a service of SharePoint Online.
+> **[0:43](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=43)** [[Microsoft OneDrive|OneDrive]] for Business, which you may be using already, is actually a service of SharePoint Online.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=50)** And to make things a little more complex but accurate, if you are storing or sharing files in Microsoft Teams, those files are actually being stored in SharePoint Online.
+> **[0:50](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=50)** And to make things a little more complex but accurate, if you are storing or sharing files in [[Microsoft Teams]], those files are actually being stored in SharePoint Online.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=62)** The features that made SharePoint famous include robust support for documents and for authoring.
 >
@@ -303,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=83)** You can also include versioning and approval processes for documents very easily in SharePoint.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=90)** With data, we have Excel like lists, and there are built in list types, but you can also create your own custom lists for whatever data you need to track.
+> **[1:30](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=90)** With data, we have [[Microsoft Excel|Excel]] like lists, and there are built in list types, but you can also create your own custom lists for whatever data you need to track.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=100)** If you already have data in lists or tables in Excel, you can easily publish or promote those to SharePoint for shared or work group use.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=129)** SharePoint also allows us to create communication sites which are typically used by some project team or department in an organization to be able to share information with the larger company.
 >
-> **[2:23](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=143)** SharePoint also has list level integration with the Microsoft Power Platform, which means that if I am looking at a list, I'll see options that make it easy for me to create or run an application from Power Apps or create or run a workflow that was created using Power Automate.
+> **[2:23](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=143)** SharePoint also has list level integration with the [[Microsoft]] Power Platform, which means that if I am looking at a list, I'll see options that make it easy for me to create or run an application from Power Apps or create or run a workflow that was created using Power Automate.
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=164)** I can do that in the list and I can also add workflows to document libraries.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=187)** You can also search for documents by who created them or what document type they are.
 >
-> **[3:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=192)** SharePoint also features world class security, and for ease of administration and security management, SharePoint has built in security groups, which you can use or you can customize them if you have different security needs.
+> **[3:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=192)** SharePoint also features world class security, and for ease of administration and [[Security Management]], SharePoint has built in security groups, which you can use or you can customize them if you have different security needs.
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/sharepoint-for-collaboration?u=76281980&t=206)** With this huge feature set, it is not surprising that SharePoint has seen wide adoption.
 >
@@ -331,23 +326,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (24), data (5), [[Search]] (4), [[Security]] (4), power (3)
+> **Frameworks & Libraries:** [[SharePoint]] (24), [[Microsoft Excel|Excel]] (2), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Teams]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (3), in other words (1), refers to (1), means that (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft 365 Groups for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980)
+#### [Microsoft 365 Groups for collaboration](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=0)** - [Instructor] I'm in Microsoft Outlook in my inbox and if I look at the navigation pane on the left and scroll down below my favorites, below my folder structure, I'll see groups.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=0)** - [Instructor] I'm in [[Microsoft Outlook]] in my inbox and if I look at the navigation pane on the left and scroll down below my favorites, below my folder structure, I'll see groups.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=15)** It may be collapsed like this.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=17)** If so, just click to expand it.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=20)** This is a list of the Microsoft 365 groups that are available to me.
+> **[0:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=20)** This is a list of the [[Microsoft 365]] groups that are available to me.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=25)** There are a few that I've used more recently.
 >
@@ -359,19 +353,19 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=46)** So what is a Microsoft 365 group?
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=50)** Microsoft 365 groups, formerly called Office 365 groups, are easy to create groups that work with more than 22 Microsoft applications.
+> **[0:50](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=50)** Microsoft 365 groups, formerly called [[Microsoft Office|Office]] 365 groups, are easy to create groups that work with more than 22 [[Microsoft]] applications.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=62)** Not only are they easy to create, they're easy to use and they're easy to administer.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=68)** Microsoft 365 groups have shared resources.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=72)** For example, if I click on this Administrative Professionals group, the toolbar switches, and you'll notice here that we have an email inbox, a calendar, files that are stored in SharePoint and a notebook and all of these are resources for this group.
+> **[1:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=72)** For example, if I click on this Administrative Professionals group, the toolbar switches, and you'll notice here that we have an email inbox, a calendar, files that are stored in [[SharePoint]] and a notebook and all of these are resources for this group.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=91)** You can add additional resources if you wish.
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=94)** Most of them will start with this core set, however.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=97)** That group was created with Outlook, one of the applications that I can use to create Microsoft 365 groups.
+> **[1:37](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=97)** That group was created with [[Microsoft Outlook|Outlook]], one of the applications that I can use to create Microsoft 365 groups.
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=104)** But I can also create Microsoft 365 groups in the Planner app.
 >
@@ -403,27 +397,26 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=196)** With Microsoft 365, the default is to create groups that are private.
 >
-> **[3:22](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=202)** Microsoft 365 groups, Office 365 groups at the time, were developed and released after SharePoint existed and before Microsoft Teams and some people view Teams as replacement for Microsoft 365 groups.
+> **[3:22](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=202)** Microsoft 365 groups, Office 365 groups at the time, were developed and released after SharePoint existed and before [[Microsoft Teams]] and some people view Teams as replacement for Microsoft 365 groups.
 >
 > **[3:40](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/microsoft-365-groups-for-collaboration?u=76281980&t=220)** But even if your organization is already using SharePoint and Teams, you may still have a need for easy to create, easy to manage, easy to use Microsoft 365 groups.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[SharePoint]] (7), [[Microsoft Outlook|Outlook]] (4), teams (3), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[SharePoint]] (7), [[Microsoft Outlook|Outlook]] (4), [[Microsoft Office|Office]] (2), [[Microsoft Outlook]] (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Yammer for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980)
+#### [Yammer for collaboration](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=0)** - [Instructor] Yammer is a social networking tool for the enterprise.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=5)** For the past few years, Microsoft's Yammer team has been working on the new Yammer fully integrated with Microsoft 365 and this is what it looks like.
+> **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=5)** For the past few years, [[Microsoft]]'s Yammer team has been working on the new Yammer fully integrated with [[Microsoft 365]] and this is what it looks like.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=16)** This is the new Yammer.
 >
@@ -441,15 +434,15 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=74)** I can see which of my team members are online and whether they're using Yammer on a mobile device or in a browser.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=81)** Yammer search is powered by artificial intelligence, so when you and I search in Yammer the results we will see will almost always be different because they are personalized based on our connections and previous interactions using Yammer and using the other Microsoft applications.
+> **[1:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=81)** Yammer search is powered by [[Artificial Intelligence (AI)|artificial intelligence]], so when you and I search in Yammer the results we will see will almost always be different because they are personalized based on our connections and previous interactions using Yammer and using the other Microsoft applications.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=100)** All of this personalization is being powered by other Microsoft products like Microsoft Graph and Veva.
+> **[1:40](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=100)** All of this personalization is being powered by other [[Microsoft Products]] like Microsoft Graph and Veva.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=109)** As a matter of fact, if you want to use Yammer in Teams, you actually do it using a Veva app.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=116)** You can work with Yammer from almost anywhere, you can use a browser, you can use it on a mobile device, you can embed Yammer in Teams, and you can use Yammer within SharePoint.
+> **[1:56](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=116)** You can work with Yammer from almost anywhere, you can use a browser, you can use it on a mobile device, you can embed Yammer in Teams, and you can use Yammer within [[SharePoint]].
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=131)** If you'd prefer a desktop application, there's a progressive web app that you can install in any of the chromium browsers, Edge, Firefox, or Google Chrome.
+> **[2:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=131)** If you'd prefer a desktop application, there's a progressive web app that you can install in any of the chromium browsers, Edge, Firefox, or [[Google]] Chrome.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/yammer-for-collaboration?u=76281980&t=142)** After you install a progressive web app, it actually works like a standalone desktop app.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), teams (3), web (3), [[Search]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products]] (1), [[SharePoint]] (1)
 > **Prerequisites:** install (2)
 > **URLs:** [yammer.com](https://yammer.com) (1)
 > **Tools:** firefox (1)
@@ -470,14 +463,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a team and a channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980)
+#### [Create a team and a channel](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=0)** - [Instructor] In this movie and the next few, I'm going to show you quickly how we create collaboration spaces in the tools that we're talking about.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=9)** Here in Microsoft Teams our basic organizational unit is the team, the group of people who work together.
+> **[0:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=9)** Here in [[Microsoft Teams]] our basic organizational unit is the team, the group of people who work together.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=17)** This team structure that I have here on the left is simply a reflection of the work that is already going on in our organization.
 >
@@ -489,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=51)** And don't create a team unless there's actually a need for it.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=56)** We need, at this point in our organization, to create a team for our human resources department.
+> **[0:56](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=56)** We need, at this point in our organization, to create a team for our [[Human Resources (HR)|human resources]] department.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=63)** Let me show you how we're going to do this.
 >
@@ -503,9 +495,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=83)** On the left from scratch, which is what we'll be doing.
 >
-> **[1:26](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=86)** But note on the right that if you already have a Microsoft 365 group in your organization, that 365 group can actually be converted tied to Microsoft Teams.
+> **[1:26](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=86)** But note on the right that if you already have a [[Microsoft 365]] group in your organization, that 365 group can actually be converted tied to Microsoft Teams.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=101)** So if you have a group of people who were in Office 365 Group, are a Microsoft 365 group, and they say we'd like to use Teams, this is the way to do it right here.
+> **[1:41](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=101)** So if you have a group of people who were in [[Microsoft Office|Office]] 365 Group, are a Microsoft 365 group, and they say we'd like to use Teams, this is the way to do it right here.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=113)** But our HR department does not have a Microsoft 365 group so we will start from scratch.
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=247)** And I can provide a description which I'm not going to do right now, but I could.
 >
-> **[4:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=253)** And then I have, for this particular channel, three possibilities about its privacy level.
+> **[4:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=253)** And then I have, for this particular channel, three possibilities about its [[Privacy]] level.
 >
 > **[4:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980&t=261)** Standard is everyone who is an HR team member has access to this channel.
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (14), teams (6), [[Microsoft 365]] (3), next (2), [[Microsoft Teams]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Teams]] (2), [[Human Resources (HR)|Human resources]] (1), [[Microsoft Office|Office]] (1), [[Privacy]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
@@ -599,14 +591,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a team from an existing group
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980)
+#### [Create a team from an existing group](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=0)** - [Instructor] In Microsoft Teams we don't have to build each team from scratch.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=0)** - [Instructor] In [[Microsoft Teams]] we don't have to build each team from scratch.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=4)** We can create a team from an existing Microsoft 365 group.
+> **[0:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=4)** We can create a team from an existing [[Microsoft 365]] group.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=9)** The reason this usually happens is that your company's already using Microsoft 365 groups for collaboration, and then you add Microsoft Teams to your collaboration stack.
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=138)** So this is great.
 >
-> **[2:19](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=139)** The same group of people who are in the Microsoft 365 group, which was originally created in SharePoint, are automatically then going to be members of this group.
+> **[2:19](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=139)** The same group of people who are in the Microsoft 365 group, which was originally created in [[SharePoint]], are automatically then going to be members of this group.
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-from-an-existing-group?u=76281980&t=150)** I can build out more channels and continue the work in Teams that this group wants to do here.
 >
@@ -662,18 +653,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (14), teams (7), [[Microsoft Teams]] (4), [[SharePoint]] (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[Microsoft Teams]] (4), [[SharePoint]] (4)
 > **CLI Commands:** make (5)
 > **Warnings:** note that (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a SharePoint team site
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980)
+#### [Create a SharePoint team site](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=0)** - [Instructor] When you decide you need a SharePoint team site, go to SharePoint and wherever you are in SharePoint simply click this link here that says SharePoint, that takes you to SharePoint home, yourdomain.[sharepoint.com](https://sharepoint.com) and you'll see a link here at the top of the sites list that says Create Site.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=0)** - [Instructor] When you decide you need a [[SharePoint]] team site, go to SharePoint and wherever you are in SharePoint simply click this link here that says SharePoint, that takes you to SharePoint home, yourdomain.[sharepoint.com](https://sharepoint.com) and you'll see a link here at the top of the sites list that says Create Site.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=22)** When you click, you'll find there are two types of sites that you can create.
 >
@@ -687,9 +677,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=46)** If you're creating a space though that is similar to what you might create in Teams, a space for collaboration, for document sharing, for task management, then you don't want a communication site, you want a team site.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=58)** When I create a team site in SharePoint Online I am also automatically creating a Microsoft 365 group.
+> **[0:58](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=58)** When I create a team site in SharePoint Online I am also automatically creating a [[Microsoft 365]] group.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=67)** And we know from previous movies that we could then actually connect that Microsoft 365 group to Microsoft Teams if we wish.
+> **[1:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=67)** And we know from previous movies that we could then actually connect that Microsoft 365 group to [[Microsoft Teams]] if we wish.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=77)** When you create a communication site SharePoint does not create a Microsoft 365 group.
 >
@@ -711,7 +701,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=130)** Much shorter, easier to read.
 >
-> **[2:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=133)** And the purpose of this site is to develop the PM office.
+> **[2:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=133)** And the purpose of this site is to develop the PM [[Microsoft Office|office]].
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-sharepoint-team-site?u=76281980&t=140)** Later on we can change this site description, but that's good enough for now.
 >
@@ -741,7 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (10), management (7), [[Microsoft 365]] (5), teams (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft 365]] (5), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (2)
 > **UI Navigation:** go to (1)
@@ -750,16 +740,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Create a Microsoft 365 group
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980)
+#### [Create a Microsoft 365 group](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=0)** - [Instructor] You can create Microsoft 365 groups in Yammer.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=0)** - [Instructor] You can create [[Microsoft 365]] groups in Yammer.
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=3)** You can create Microsoft 365 groups in SharePoint while you're creating a team site.
+> **[0:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=3)** You can create Microsoft 365 groups in [[SharePoint]] while you're creating a team site.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=9)** You can also create Microsoft 365 groups directly in Outlook on the desktop, or even here in Outlook on the web.
+> **[0:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=9)** You can also create Microsoft 365 groups directly in [[Microsoft Outlook|Outlook]] on the desktop, or even here in Outlook on the web.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=17)** In Outlook, simply scroll to the bottom of your folders and here you'll find groups.
 >
@@ -777,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=51)** The email address exists and the purpose of our group is plan and hold, the Speak Up series.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=63)** And then we have some default settings for privacy and language, and subscription information about how members are notified.
+> **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=63)** And then we have some default settings for [[Privacy]] and language, and subscription information about how members are notified.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-microsoft-365-group?u=76281980&t=72)** I'm going to click edits so that you can actually see how we would change these settings.
 >
@@ -819,19 +808,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (1), web (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Yammer community
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980)
+#### [Create a Yammer community](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=0)** - [Instructor] Yammer is a product where it's hard to separate the tech from its culture.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=5)** Yammer was an independent company that was purchased by Microsoft.
+> **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=5)** Yammer was an independent company that was purchased by [[Microsoft]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=9)** And one of the things that was a critical value for Yammer was that they had a culture where they expected people to work out loud.
 >
@@ -853,7 +841,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=72)** But with those caveats in place, let's walk through the process of creating a new community.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=77)** I want to create a community for people who would like to have a book group where we would read and discuss books about diversity and inclusion.
+> **[1:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=77)** I want to create a community for people who would like to have a book group where we would read and discuss books about [[Diversity and Inclusion]].
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-yammer-community?u=76281980&t=87)** So first, I'm going to go look at the communities here on Yammer and see if we have anything that looks like that.
 >
@@ -923,14 +911,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diversity and Inclusion]] (3), product (1), [[Microsoft]] (1), [[Search]] (1), hr (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (3), [[Microsoft]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (1), best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborating with Microsoft tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980)
+#### [Collaborating with Microsoft tools](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,11 +935,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=49)** First, you identify your current collaborative teams, both formal and informal.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=55)** Who's using SharePoint? Who's using Teams?
+> **[0:55](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=55)** Who's using [[SharePoint]]? Who's using Teams?
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=59)** What group of people are using Yammer?
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=61)** Who's using Microsoft 365 Groups?
+> **[1:01](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=61)** Who's using [[Microsoft 365]] Groups?
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=64)** And then which of these are actually active use?
 >
@@ -994,7 +981,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=203)** Another type of work group that will always require SharePoint is groups that work on document production that has specialized requirements.
 >
-> **[3:32](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=212)** An example might be the corporate council's office because they need a particular way to store and manage legal documents.
+> **[3:32](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=212)** An example might be the corporate council's [[Microsoft Office|office]] because they need a particular way to store and manage legal documents.
 >
 > **[3:40](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=220)** Also, any group in an organization that is in charge of a policy manual loves SharePoint and that's because the tools for documents in SharePoint are incredibly rich.
 >
@@ -1016,7 +1003,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=304)** Whenever we are storing documents in the collaboration stack, they will be stored in SharePoint.
 >
-> **[5:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=309)** SharePoint is the file storage for Microsoft 365, but unless you are using SharePoint document libraries directly you will primarily access your files from Microsoft Teams on the team's File tab or the File tab in Yammer or a library in a Microsoft 365 Group.
+> **[5:09](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=309)** SharePoint is the file storage for Microsoft 365, but unless you are using SharePoint document libraries directly you will primarily access your files from [[Microsoft Teams]] on the team's File tab or the File tab in Yammer or a library in a Microsoft 365 Group.
 >
 > **[5:30](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborating-with-microsoft-tools?u=76281980&t=330)** What about documents that aren't yet being shared with any team?
 >
@@ -1030,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (15), teams (11), [[Microsoft 365]] (10), business (3), next (1)
+> **Frameworks & Libraries:** [[SharePoint]] (15), [[Microsoft 365]] (10), [[Microsoft Office|Office]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (2)
 > **Env Vars:** ceo (1)
@@ -1044,8 +1031,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Teams as your collaboration hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980)
+#### [Teams as your collaboration hub](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,23 +1045,23 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=30)** Teams includes communication, Chat and calling.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=33)** Teams includes a calendar that is your Outlook calendar.
+> **[0:33](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=33)** Teams includes a calendar that is your [[Microsoft Outlook|Outlook]] calendar.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=38)** There are some things that Teams doesn't include though because Teams was not meant to totally replace the existing collaboration products.
+> **[0:38](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=38)** There are some things that Teams doesn't include though because Teams was not meant to totally replace the existing collaboration [[Microsoft Products|products]].
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=46)** It was really meant to augment them by pulling them together into a central location for your team, for your colleagues.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=53)** So imagine that your team, like many teams has some files that are stored in the cloud.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=58)** Maybe they're stored in OneDrive for Business or Box, or even Google Drive.
+> **[0:58](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=58)** Maybe they're stored in [[Microsoft OneDrive|OneDrive]] for Business or Box, or even [[Google Drive]].
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=63)** You can pull that cloud storage directly into Teams so that your users no longer have to go someplace else to get to their documents.
+> **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=63)** You can pull that [[Cloud Storage]] directly into Teams so that your users no longer have to go someplace else to get to their documents.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=71)** Your team can access all the documents it's been working on and storing in other cloud storage locations directly in Teams.
 >
-> **[1:19](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=79)** With Teams, we can take existing content from SharePoint and from Microsoft 365 groups, which is also SharePoint content because it's stored in SharePoint and we can present it in Teams.
+> **[1:19](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=79)** With Teams, we can take existing content from [[SharePoint]] and from [[Microsoft 365]] groups, which is also SharePoint content because it's stored in SharePoint and we can present it in Teams.
 >
-> **[1:31](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=91)** Any website you have access to in SharePoint or otherwise, a site in your intranet can be displayed in Microsoft Teams.
+> **[1:31](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=91)** Any website you have access to in SharePoint or otherwise, a site in your intranet can be displayed in [[Microsoft Teams]].
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=100)** And you can take any individual document that you want your team to focus on, perhaps a deliverable that you're asking everyone to put eyes on before you declare victory and ship it to the client.
 >
@@ -1083,23 +1069,22 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=118)** When you're in Teams, the files in front of you.
 >
-> **[2:01](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=121)** We'll spend the rest of this course looking at how we integrate content from other parts of the Microsoft collaboration stack, from cloud storage from SharePoint, from websites, tab documents and so on.
+> **[2:01](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=121)** We'll spend the [[Representational State Transfer (REST)|rest]] of this course looking at how we integrate content from other parts of the [[Microsoft]] collaboration stack, from cloud storage from SharePoint, from websites, tab documents and so on.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980&t=135)** So that Teams becomes an overlay that makes all of our collaboration work even easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (14), [[SharePoint]] (5), cloud (4), [[Microsoft Teams]] (2), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Cloud Storage]] (3), [[Microsoft Teams]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add cloud storage to Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980)
+#### [Add cloud storage to Teams](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=0)** - [Instructor] Our organization has a Residential Sales Microsoft 365 group that has a SharePoint site.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=0)** - [Instructor] Our organization has a Residential Sales [[Microsoft 365]] group that has a [[SharePoint]] site.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=8)** That SharePoint site has a document library.
 >
@@ -1117,9 +1102,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=59)** And I want to show you how to do that.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=62)** On the Files tab, if I click the More button, there's a choice to add cloud storage.
+> **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=62)** On the Files tab, if I click the More button, there's a choice to add [[Cloud Storage]].
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=67)** And I can add cloud storage for SharePoint, Dropbox, Box, Ignite, Sharefile, and Google Drive.
+> **[1:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=67)** And I can add cloud storage for SharePoint, Dropbox, Box, Ignite, Sharefile, and [[Google Drive]].
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/add-cloud-storage-to-teams?u=76281980&t=73)** And if the file store that you use isn't here yet, it might be added because Sharefile hasn't actually been here all that long.
 >
@@ -1167,7 +1152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (11), teams (5), cloud (3), [[Microsoft 365]] (2), next (2)
+> **Frameworks & Libraries:** [[SharePoint]] (11), [[Cloud Storage]] (3), [[Microsoft 365]] (2), [[Google Drive]] (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (1), select the (1)
 > **Analogies:** it's like (1), just like (1)
@@ -1175,8 +1160,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a file its own tab in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980)
+#### [Make a file its own tab in Teams](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=34)** It says one more here, KinetEco Palette.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=38)** And if our users click that, they will actually see this one page PowerPoint presentation, single slide.
+> **[0:38](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=38)** And if our users click that, they will actually see this one page [[Microsoft PowerPoint|PowerPoint]] presentation, single slide.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=47)** If this presentation had multiple slides, I'd have a presentation that they could view here.
 >
@@ -1200,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=57)** But in this case, all I want them to be able to do is view the palette and the values for the colors very quickly.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=63)** It's easy enough to really add any Office file, and if you're not sure if a file can be added, for example, I think I have a PDF in here.
+> **[1:03](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=63)** It's easy enough to really add any [[Microsoft Office|Office]] file, and if you're not sure if a file can be added, for example, I think I have a PDF in here.
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/make-a-file-its-own-tab-in-teams?u=76281980&t=73)** If I right click, can I make a PDF a tab?
 >
@@ -1222,26 +1206,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display a SharePoint page in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980)
+#### [Display a SharePoint page in Teams](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=0)** - [Instructor] There's a lot of great content I can create here in Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=0)** - [Instructor] There's a lot of great content I can create here in [[Microsoft Teams]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=5)** And I have access to a lot of tools.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=7)** But something I can't do here is create a webpage.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=11)** I have another tool in the collaboration stack that does create webpages and that would be SharePoint.
+> **[0:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=11)** I have another tool in the collaboration stack that does create webpages and that would be [[SharePoint]].
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=17)** So if I have a SharePoint team site including a team site for a Microsoft 365 group that I would like to display here in Teams, I can do that.
+> **[0:17](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=17)** So if I have a SharePoint team site including a team site for a [[Microsoft 365]] group that I would like to display here in Teams, I can do that.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-page-in-teams?u=76281980&t=29)** As a matter of fact, I might have a reason to create pages in SharePoint purely to be able to share them here in Microsoft Teams.
 >
@@ -1325,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (13), teams (5), [[Microsoft Teams]] (3), [[Microsoft 365]] (2), power (2)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft Teams]] (3), [[Microsoft 365]] (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** note that (2)
@@ -1333,22 +1316,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display a SharePoint list in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980)
+#### [Display a SharePoint list in Teams](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=0)** - [Instructor] A relatively new feature in Teams is the ability to add lists.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=5)** And you can do that using the Microsoft Lists app, if you wish.
+> **[0:05](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=5)** And you can do that using the [[Microsoft]] Lists app, if you wish.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=11)** So if you choose list and click the List button, then you can add the list application to the channel and then create whatever list you wish.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=23)** But if you have lists that already exist you don't need to recreate them in Teams.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=28)** We can bring them over from where they're stored, For example, in SharePoint.
+> **[0:28](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=28)** We can bring them over from where they're stored, For example, in [[SharePoint]].
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=34)** in the residential sales team, we have a products channel and I want to post our national inventory, which is stored in the Microsoft 365 residential sales groups team site;
+> **[0:34](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=34)** in the residential sales team, we have a [[Microsoft Products|products]] channel and I want to post our national inventory, which is stored in the [[Microsoft 365]] residential sales groups team site;
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=50)** let's do it.
 >
@@ -1378,11 +1360,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=140)** And our tab is being set up to be able to display the national inventory, the same view that was displayed in the SharePoint list when we copied the URL.
 >
-> **[2:33](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=153)** I can very easily take a list stored anywhere in SharePoint and allow my users, the members of my Teams to view and even edit that data right here in Microsoft Teams.
+> **[2:33](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-sharepoint-list-in-teams?u=76281980&t=153)** I can very easily take a list stored anywhere in SharePoint and allow my users, the members of my Teams to view and even edit that data right here in [[Microsoft Teams]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (7), teams (4), feature (1), [[Microsoft]] (1), application (1)
+> **Frameworks & Libraries:** [[SharePoint]] (7), [[Microsoft]] (1), [[Microsoft Products|Products]] (1), [[Microsoft 365]] (1), [[Microsoft Teams]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** checkbox (1)
@@ -1391,8 +1373,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display a Yammer community in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980)
+#### [Display a Yammer community in Teams](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,7 +1383,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=12)** Let me show you how.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=14)** I'm going to go to the general channel in Kinetico and I would like to add the Diversity and Inclusion Book Club that we created a community for earlier.
+> **[0:14](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=14)** I'm going to go to the general channel in Kinetico and I would like to add the [[Diversity and Inclusion]] Book Club that we created a community for earlier.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=24)** So here's how this works.
 >
@@ -1418,7 +1399,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=60)** This is Yammer right here.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=62)** So if I want to be able to see my Yammer inside of Microsoft Teams, that works well.
+> **[1:02](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=62)** So if I want to be able to see my Yammer inside of [[Microsoft Teams]], that works well.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/display-a-yammer-community-in-teams?u=76281980&t=70)** Yammer is like, right here all the time for me then because I've added it.
 >
@@ -1474,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), teams (1), [[Diversity and Inclusion]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Diversity and Inclusion]] (1)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1488,22 +1469,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have reached the end of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=4)** Before you move on, take a moment and share your certificate of completion on your LinkedIn profile.
+> **[0:04](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=4)** Before you move on, take a moment and share your certificate of completion on your [[LinkedIn]] profile.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=11)** As you continue to champion collaboration in your workplace, I want to recommend learning resources that will help you leverage these tools.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=21)** For SharePoint Online, I recommend two courses.
+> **[0:21](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=21)** For [[SharePoint]] Online, I recommend two courses.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=25)** SharePoint Online Essential Training: The Basics is a course for end users.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=29)** Beyond the Basics is for site owners and for admins and for content creators, including those creating content in SharePoint purely for the ability to be able to then reuse that content in Microsoft Teams.
+> **[0:29](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=29)** Beyond the Basics is for site owners and for admins and for content creators, including those creating content in SharePoint purely for the ability to be able to then reuse that content in [[Microsoft Teams]].
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=43)** Speaking of Microsoft Teams, for information particularly for your end users on the power of Microsoft Teams, check out Nick Brazzi's [[Microsoft Teams Essential Training]] course, one of my favorites.
 >
@@ -1513,7 +1493,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=80)** My Yammer Essential Training course provides end users and community administrators with the skills needed to work in and manage Yammer communities.
 >
-> **[1:29](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=89)** And finally, Ed Liberman's course, Microsoft 365: Plan Workloads and Applications, will help you understand and administer the touchpoints between these collaboration apps.
+> **[1:29](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=89)** And finally, Ed Liberman's course, [[Microsoft 365]]: Plan Workloads and Applications, will help you understand and administer the touchpoints between these collaboration apps.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980&t=103)** All of these courses I've mentioned are available for you in the LinkedIn Learning Library.
 >
@@ -1525,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[LinkedIn]] (3), [[SharePoint]] (3), teams (3), power (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[LinkedIn]] (3), [[SharePoint]] (3), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)

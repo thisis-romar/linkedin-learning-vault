@@ -8,7 +8,7 @@ linkedin_topics:
   - Software Development
   - Cybersecurity
   - Artificial Intelligence (AI)
-  - DevOps
+  - Network and System Administration
 tags:
   - glossary
   - type/concept
@@ -16,8 +16,8 @@ tags:
   - topic/software-development
   - topic/security
   - topic/artificial-intelligence
-  - topic/devops
-course_count: 74
+  - topic/network-and-system-administration
+course_count: 75
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Cloud Infrastructure
 
-> **Type:** Concept | **Courses:** 74 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Artificial Intelligence (AI)]], [[DevOps]]
+> **Type:** Concept | **Courses:** 75 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Artificial Intelligence (AI)]], [[Network and System Administration]]
 
 ## Courses
 
@@ -40,18 +40,18 @@ created: 2026-05-02
 9. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 5 mentions
 10. [[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]] — 4 mentions
 
-> [!note]- See all 74 courses
+> [!note]- See all 75 courses
 > 11. [[Framing Cloud Discussions for the C-Suite]] — 4 mentions
 > 12. [[Cybersecurity with Cloud Computing]] — 4 mentions
-> 13. [[IT Service Management Foundations- Capacity and Availability Management]] — 4 mentions
-> 14. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 3 mentions
-> 15. [[Cloud Computing Terms Every Beginner Should Know]] — 3 mentions
-> 16. [[Cloud Security Concepts- Services and Compliance]] — 3 mentions
-> 17. [[Cloud Computing Careers and Certifications]] — 3 mentions
-> 18. [[DevOps Foundations- Infrastructure as Code]] — 3 mentions
-> 19. [[Building a Cloud Architecture Diagram]] — 3 mentions
-> 20. [[Planning a Multicloud Solution (2022)]] — 3 mentions
-> 21. [[Azure Understanding The Big Picture]] — 3 mentions
+> 13. [[Azure Understanding The Big Picture]] — 4 mentions
+> 14. [[IT Service Management Foundations- Capacity and Availability Management]] — 4 mentions
+> 15. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 3 mentions
+> 16. [[Cloud Computing Terms Every Beginner Should Know]] — 3 mentions
+> 17. [[Cloud Security Concepts- Services and Compliance]] — 3 mentions
+> 18. [[Cloud Computing Careers and Certifications]] — 3 mentions
+> 19. [[DevOps Foundations- Infrastructure as Code]] — 3 mentions
+> 20. [[Building a Cloud Architecture Diagram]] — 3 mentions
+> 21. [[Planning a Multicloud Solution (2022)]] — 3 mentions
 > 22. [[Controlling Cost with Azure Management and Billing]] — 3 mentions
 > 23. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 3 mentions
 > 24. [[Google Cloud Security for Beginners- Tools and Services]] — 3 mentions
@@ -104,7 +104,8 @@ created: 2026-05-02
 > 71. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
 > 72. [[AI Product Development- Secure by Design]] — 1 mentions
 > 73. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 1 mentions
-> 74. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 74. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
+> 75. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
 
 ## Learning Paths
 

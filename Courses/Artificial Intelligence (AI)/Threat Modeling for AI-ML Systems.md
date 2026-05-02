@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threat modeling introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980)
+#### [Threat modeling introduction](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980&t=1)** And the security issues, on fire.
 >
-> **[0:04](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980&t=4)** Threat modeling is a collection of techniques to help us anticipate what can go wrong so we can plan for those things and manage them.
+> **[0:04](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980&t=4)** [[Threat Modeling]] is a collection of techniques to help us anticipate what can go wrong so we can plan for those things and manage them.
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980&t=13)** These new machine learning tools are equal parts fascinating, exciting, and scary.
 >
@@ -110,12 +109,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (2), ai (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - llms (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,17 +129,17 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=40)** This course doesn't require specific knowledge.
 >
-> **[0:43](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=43)** We won't be programming, doing statistics or deploying LLMs.
+> **[0:43](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=43)** We won't be programming, doing [[Statistics]] or deploying LLMs.
 >
 > **[0:48](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=48)** Familiarity with a few security concepts will be helpful; those concepts include the idea that there are adversaries who will come after your system.
 >
-> **[0:57](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=57)** Familiarity with threat modeling can help but isn't a requirement.
+> **[0:57](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=57)** Familiarity with [[Threat Modeling]] can help but isn't a requirement.
 >
-> **[1:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=60)** If you do want to dive into threat modeling, I have a LinkedIn learning course: Threat Modeling for Security Professionals.
+> **[1:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/what-you-should-know?u=76281980&t=60)** If you do want to dive into threat modeling, I have a [[LinkedIn]] learning course: Threat Modeling for Security Professionals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), ai (1), llm (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Statistics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threat modeling is important when building AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980)
+#### [Threat modeling is important when building AI systems](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,11 +162,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=37)** More importantly, if that's even like possible, it's designed to empower you to anticipate a wide range of problems so you can address them effectively.
 >
-> **[0:50](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=50)** Let me talk about terminology for a second, specifically, AI versus machine learning versus large language models.
+> **[0:50](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=50)** Let me talk about terminology for a second, specifically, AI versus machine learning versus [[Large Language Models (LLM)|large language models]].
 >
 > **[0:58](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=58)** That list goes from very broad to more specific.
 >
-> **[1:02](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=62)** ChatGPT is a large language model presented in a very specific interface.
+> **[1:02](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=62)** [[ChatGPT]] is a large language model presented in a very specific interface.
 >
 > **[1:08](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=68)** There are other LLMs and they can summarize, generate, translate, and more.
 >
@@ -177,23 +174,22 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=81)** There are machine learning tools that aren't LLMs.
 >
-> **[1:24](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=84)** For example, computer vision tools and speech recognition are built on other foundations.
+> **[1:24](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=84)** For example, [[Computer Vision]] tools and [[Speech Recognition]] are built on other foundations.
 >
 > **[1:31](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980&t=91)** I'll be specific as needed, but my goal in this course is to give you foundations and principles that will serve you for years.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Computer Vision]] (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Computer Vision]] (1), [[Speech Recognition]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The four-question framework structures your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980)
+#### [The four-question framework structures your work](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=0)** - [Instructor] Threat modeling is the measure twice, cut once of technology.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=0)** - [Instructor] [[Threat Modeling]] is the measure twice, cut once of technology.
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=5)** It's things we do to avoid problems, reduce waste, and reduce rework.
 >
@@ -205,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=21)** I created the Four Question Framework for Threat Modeling to structure and simplify the broad set of approaches that people have used.
 >
-> **[0:30](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=30)** The framework has been adopted in lots of places, including OWASP and the Threat Modeling Manifesto.
+> **[0:30](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=30)** The framework has been adopted in lots of places, including [[OWASP]] and the Threat Modeling Manifesto.
 >
 > **[0:37](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-four-question-framework-structures-your-work?u=76281980&t=37)** The four questions are, what are we working on?
 >
@@ -235,14 +231,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[OWASP]] (2), data (2), [[Engineering]] (1), ai (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[OWASP]] (2)
 > **Env Vars:** stride (3), owasp (2), llm (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anyone can threat model and you should, now
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980)
+#### [Anyone can threat model and you should, now](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,13 +249,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=19)** And you know, as my security friends say, "Dance like no one's watching, encrypt your email like everyone is."
 >
-> **[0:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=28)** And as we bring that to threat modeling, you should ask the four questions about every system you work on.
+> **[0:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=28)** And as we bring that to [[Threat Modeling]], you should ask the four questions about every system you work on.
 >
 > **[0:35](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=35)** You can be flexible and creative in how you answer the questions.
 >
 > **[0:39](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=39)** I mean, if you can make stuff float over your keyboard like this, rock it.
 >
-> **[0:44](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=44)** The rest of us might be stuck with Post-its, but regardless, the skills you'll learn in this course will help you answer these four questions faster and better.
+> **[0:44](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=44)** The [[Representational State Transfer (REST)|rest]] of us might be stuck with Post-its, but regardless, the skills you'll learn in this course will help you answer these four questions faster and better.
 >
 > **[0:56](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/anyone-can-threat-model-and-you-should-now?u=76281980&t=56)** Consistency is important, it makes us easier to work with.
 >
@@ -274,12 +269,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Threat Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1), teams (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trustworthy AI: Threat modeling is better than principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980)
+#### [Trustworthy AI: Threat modeling is better than principles](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,9 +287,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=22)** And everyone, from governments to big tech companies to consultancies have their own.
 >
-> **[0:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=28)** Many cover things like fairness, transparency, accountability, explainability.
+> **[0:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=28)** Many cover things like fairness, transparency, [[Accountability]], explainability.
 >
-> **[0:34](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=34)** In fact, Google's automated summary looks pretty good.
+> **[0:34](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=34)** In fact, [[Google]]'s automated summary looks pretty good.
 >
 > **[0:38](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=38)** I took this screenshot in October of 2023.
 >
@@ -307,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=56)** I don't mean to pick on Google, but the things they're summarizing are often fuzzy and use slightly different words for closely-related topics.
 >
-> **[1:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=66)** And that can be hard for an engineer used to working in binary and algorithms.
+> **[1:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=66)** And that can be hard for an engineer used to working in binary and [[Algorithms]].
 >
 > **[1:12](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=72)** Similarly, fairness is great.
 >
@@ -327,11 +321,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=105)** Is it fair to charge a higher price for quick delivery?"
 >
-> **[1:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=109)** And so I think we need to augment principles with something more concrete, and that more concrete practice is threat modeling.
+> **[1:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/trustworthy-ai-threat-modeling-is-better-than-principles?u=76281980&t=109)** And so I think we need to augment principles with something more concrete, and that more concrete practice is [[Threat Modeling]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (3), ai (2), [[Google]] (2), product (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Google]] (2), [[Algorithms]] (1), [[Threat Modeling]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -339,8 +333,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ML for business, offense, defense, and software
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980)
+#### [ML for business, offense, defense, and software](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,11 +345,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=13)** The first bucket is to support a business goal.
 >
-> **[0:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=16)** For example, LinkedIn Learning has an AI coaching module that's AI for business.
+> **[0:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=16)** For example, [[LinkedIn]] Learning has an AI coaching module that's [[AI for Business]].
 >
-> **[0:23](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=23)** The second and third buckets are machine learning, cybersecurity goals of offense and defense.
+> **[0:23](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=23)** The second and third buckets are machine learning, [[Cybersecurity]] goals of offense and defense.
 >
-> **[0:30](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=30)** For example, I read a lot about how LLMs are going to be used to write phishing emails.
+> **[0:30](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=30)** For example, I read a lot about how LLMs are going to be used to write [[Phishing]] emails.
 >
 > **[0:36](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=36)** I've been expecting that DeepFakes will be used for spoofing, and while many of the stories in the news seem a little lacking in critical thinking, we can expect that machine learning will be used to generate attacks both at the human layer and helping write exploits and other technical attacks.
 >
@@ -368,7 +361,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=77)** Now, I said three or four buckets and let me explain.
 >
-> **[1:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=81)** The fourth bucket is LLMs for software development, which is a business task, but at one layer of remove.
+> **[1:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=81)** The fourth bucket is LLMs for [[Software Development]], which is a business task, but at one layer of remove.
 >
 > **[1:29](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980&t=89)** LLMs are really helpful if you want to write code in a language or an API, you don't regularly use.
 >
@@ -390,15 +383,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), ai (2), [[Cybersecurity]] (2), llm (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[LinkedIn]] (1), [[AI for Business]] (1), [[Phishing]] (1), [[Software Development]] (1)
 > **Env Vars:** llm (2), api (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Draw your architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980)
+#### [Draw your architecture](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=18)** We draw pictures.
 >
-> **[0:20](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=20)** One of the most enduring impressions people have of threat modeling are whiteboard diagrams.
+> **[0:20](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=20)** One of the most enduring impressions people have of [[Threat Modeling]] are whiteboard diagrams.
 >
 > **[0:26](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=26)** That's because the diagrams don't have to be fancied-up beautiful diagrams.
 >
@@ -418,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=36)** And so a picture like this versus that quickly clarifies how the system is being built, dispelling wrong mental models at a super low cost.
 >
-> **[0:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=49)** The agile world has taught us to measure return on effort.
+> **[0:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=49)** The [[Agile Development|agile]] world has taught us to measure return on effort.
 >
 > **[0:53](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/draw-your-architecture?u=76281980&t=53)** So why are you spending effort to make a beautiful diagram?
 >
@@ -436,8 +428,7 @@ created: 2026-05-02
 > **Env Vars:** csa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment architectures influence your threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980)
+#### [Deployment architectures influence your threats](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=38)** So are you running one LLM for everyone?
 >
-> **[0:42](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=42)** You might need to filter its outputs differently than if you're fine tuning for each customer.
+> **[0:42](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=42)** You might need to filter its outputs differently than if you're [[Fine Tuning]] for each customer.
 >
 > **[0:48](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=48)** If you are fine tuning per customer, you need to be really sure that the requests go to the right LLM and the responses go to the right customer.
 >
@@ -471,13 +462,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=124)** A serverless function can't change the server it's really running on.
 >
-> **[2:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=129)** There's lots of isolation mechanisms including VPCs, containers, and microservices.
+> **[2:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=129)** There's lots of isolation mechanisms including VPCs, containers, and [[Microservices]].
 >
 > **[2:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deployment-architectures-influence-your-threats?u=76281980&t=136)** All provide different types of isolation and understanding what's desirable helps you pick the one that's right for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (2), llm (2), [[Fine Tuning]] (2), web application (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Microservices]] (1)
 > **Env Vars:** llm (2), vpc (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1)
@@ -485,14 +476,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training data is a crucial variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980)
+#### [Training data is a crucial variable](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=0)** - [Instructor] Another absolutely crucial aspect of machine learning security is the training data.
 >
-> **[0:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=7)** Microsoft famously made the mistake of training their Tay bot on Twitter, and trolls noticed.
+> **[0:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=7)** [[Microsoft]] famously made the mistake of training their Tay bot on Twitter, and trolls noticed.
 >
 > **[0:14](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=14)** It was less than a day before Tay was shut down for spewing awful content.
 >
@@ -534,13 +524,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=127)** You need to remember that LLMs have a property called memorization where they can be convinced to display their training data.
 >
-> **[2:17](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=137)** In one entertaining paper, researchers found that telling an LLM to repeat the word poem forever resulted in the word poem followed by confidential personal data that the LLM would otherwise not reveal.
+> **[2:17](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=137)** In one entertaining paper, researchers found that telling an LLM to repeat the [[Microsoft Word|word]] poem forever resulted in the word poem followed by confidential personal data that the LLM would otherwise not reveal.
 >
 > **[2:33](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/training-data-is-a-crucial-variable?u=76281980&t=153)** So your training data is absolutely crucial, and understanding where it comes from informs the threats that you face.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), llm (2), [[Microsoft Word|Word]] (2), [[Security]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft]] (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -548,20 +538,19 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### The stochastic parrot
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980)
+#### [The stochastic parrot](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=0)** - [Instructor] You may have heard the phrase "stochastic parrot," and frankly, it's a bit unfair to parrots.
 >
-> **[0:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=6)** It refers to the fact that LLMs stochastically repeat their input without understanding it, like many people who just repeat the word "stochastic" without being precisely sure how that relates to random.
+> **[0:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=6)** It refers to the fact that LLMs stochastically repeat their input without understanding it, like many people who just repeat the [[Microsoft Word|word]] "stochastic" without being precisely sure how that relates to random.
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=19)** A stochastic process is random, but its outputs are not evenly distributed.
 >
 > **[0:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=25)** And this matters because LLMs are statistical models of language.
 >
-> **[0:30](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=30)** They take a set of input tokens and use them to produce output that's statistically likely to come next in a stream of tokens.
+> **[0:30](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=30)** They take a set of input [[Tokens]] and use them to produce output that's statistically likely to come next in a stream of tokens.
 >
 > **[0:39](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=39)** A token is something like a natural language word.
 >
@@ -575,7 +564,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=67)** Creating a chatbot includes a long series of steps to create, tune, and fine-tune the model and then get it to be behave the way you want it to behave.
 >
-> **[1:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=78)** Training a model used to be insanely expensive, allegedly on the order of tens of millions of dollars for ChatGPT 3, and is now just expensive on the order of tens of thousands.
+> **[1:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=78)** Training a model used to be insanely expensive, allegedly on the order of tens of millions of dollars for [[ChatGPT]] 3, and is now just expensive on the order of tens of thousands.
 >
 > **[1:31](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-stochastic-parrot?u=76281980&t=91)** It used to require the wizard skills of Merlin, and now there are hundreds, perhaps thousands of people who can do it.
 >
@@ -585,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Tokens]] (2), next (1), prompt (1), chatbot (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Tokens]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
@@ -595,8 +584,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The OWASP Top Ten as a checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980)
+#### [The OWASP Top Ten as a checklist](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,15 +594,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=14)** Even trying to pick the perfect model of threats can be overwhelming.
 >
-> **[0:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=19)** So let me start this chapter with the words that open my threat modeling book: All models are wrong and some models are useful.
+> **[0:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=19)** So let me start this chapter with the words that open my [[Threat Modeling]] book: All models are wrong and some models are useful.
 >
 > **[0:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=28)** In that spirit, this chapter will look at both where the models fall down and where they're useful.
 >
 > **[0:36](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=36)** Each of the models of threats we'll look at here has different values, and I'll tell you where I think each model is strongest.
 >
-> **[0:44](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=44)** If you're a researcher, you probably want to create a model from scratch; the rest of us pick a model that helps us get to the problems we're going to face.
+> **[0:44](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=44)** If you're a researcher, you probably want to create a model from scratch; the [[Representational State Transfer (REST)|rest]] of us pick a model that helps us get to the problems we're going to face.
 >
-> **[0:55](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=55)** An obvious starting place for addressing what can go wrong with LLMs is the OWASP top 10 for LLMs.
+> **[0:55](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=55)** An obvious starting place for addressing what can go wrong with LLMs is the [[OWASP]] top 10 for LLMs.
 >
 > **[1:04](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=64)** Lots of people are familiar with various OWASP work, which gives this list authority.
 >
@@ -642,11 +630,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=148)** One of the exciting things about LLMs is they produce a statistical next token.
 >
-> **[2:35](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=155)** The other exciting thing is they're unpredictable and that means the LLM might be convinced to provide output that's valid HTML or JavaScript that'll get mixed up in a webpage that includes output from the LLM.
+> **[2:35](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=155)** The other exciting thing is they're unpredictable and that means the LLM might be convinced to provide output that's valid [[HTML]] or [[JavaScript]] that'll get mixed up in a webpage that includes output from the LLM.
 >
-> **[2:51](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=171)** It might be valid SQL.
+> **[2:51](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=171)** It might be valid [[SQL]].
 >
-> **[2:54](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=174)** It might be code with a vulnerability that gets integrated in a copilot code writing scenario.
+> **[2:54](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=174)** It might be code with a vulnerability that gets integrated in a [[Microsoft Copilot|copilot]] code writing scenario.
 >
 > **[3:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=181)** LLM03 Training Data Poisoning.
 >
@@ -674,7 +662,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=257)** An LLM works statistically and if you can feed it the right prompts, it can spit out training data.
 >
-> **[4:26](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=266)** The New York Times has demonstrated this fairly spectacularly in their lawsuit against some LLM operators, showing that ChatGPT can produce some long excerpts of articles.
+> **[4:26](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=266)** The New York Times has demonstrated this fairly spectacularly in their lawsuit against some LLM operators, showing that [[ChatGPT]] can produce some long excerpts of articles.
 >
 > **[4:40](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980&t=280)** OpenAI disputes that this is common and claims the results are carefully constructed prompts.
 >
@@ -710,15 +698,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (11), data (5), [[OWASP]] (4), prompt (4), next (2)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Threat Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** llm (11), owasp (4), api (2), llm01 (1), llm02 (1)
 > **CLI Commands:** make (2)
 > **URLs:** [llmtop10.com](https://llmtop10.com) (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Berryville Institute Exhaustive List
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980)
+#### [The Berryville Institute Exhaustive List](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=11)** The first is focused on machine learning and comes with a system model and a set of 87 threats grouped by where they apply and a set of system-wide risks and broad concerns.
 >
-> **[0:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=25)** The second is specifically focused on large language models and is LLM-specific with 81 risks, and it's similarly organized.
+> **[0:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=25)** The second is specifically focused on [[Large Language Models (LLM)|large language models]] and is LLM-specific with 81 risks, and it's similarly organized.
 >
 > **[0:34](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=34)** As an aside, what they call an architectural risk analysis, I call a frat model.
 >
@@ -738,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=56)** This system is organized by raw data in the world, dataset assembly, which are different from the dataset risks, the learning algorithm risks, the evaluation technique risks, but data flows through to a model and there are risks to the model, risks with the inference algorithm, and risks with the output.
 >
-> **[1:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=78)** And so in contrast to the OWASP top 10, they've organized the risks by architecture.
+> **[1:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=78)** And so in contrast to the [[OWASP]] top 10, they've organized the risks by architecture.
 >
 > **[1:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-berryville-institute-exhaustive-list?u=76281980&t=85)** The threats are similar, but they're organized differently, which is better?
 >
@@ -762,18 +749,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), llm (2), [[OWASP]] (2), [[Security]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (2), owasp (2), biml (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft's frameworks for security flaws
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980)
+#### [Microsoft's frameworks for security flaws](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=0)** - [Instructor] Over the years, Microsoft has released several related documents about how to threat model LLMs.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=0)** - [Instructor] Over the years, [[Microsoft]] has released several related documents about how to threat model LLMs.
 >
 > **[0:08](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=8)** They include at least the ones shown on screen.
 >
@@ -789,11 +775,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=38)** You, like the search engines, are going to have a hard time distinguishing authoritative guidance from work in progress or sharing of ideas.
 >
-> **[0:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=49)** Also, Microsoft seems to be willing to push exceptionally hard to use ML to unseat Google and sacrifice safety design to do so.
+> **[0:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=49)** Also, Microsoft seems to be willing to push exceptionally hard to use ML to unseat [[Google]] and sacrifice safety design to do so.
 >
-> **[1:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=61)** Microsoft, CEO, Satya Nadella said, "To align an AI model with the world, "you have to align it in the world and not some simulation."
+> **[1:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=61)** Microsoft, CEO, Satya Nadella said, "To align an AI model with the world, "you have to align it in the world and not some [[Simulation]]."
 >
-> **[1:11](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=71)** What that means for you is, despite the amazing contributions of Microsoft to secure development life cycles, they're not as great a resource for threat modeling AI systems.
+> **[1:11](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=71)** What that means for you is, despite the amazing contributions of Microsoft to secure development life cycles, they're not as great a resource for [[Threat Modeling]] AI systems.
 >
 > **[1:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/microsoft-s-frameworks-for-security-flaws?u=76281980&t=85)** And you know, in a sense, they're right.
 >
@@ -807,19 +793,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[Search]] (2), ai (2), [[Google]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Google]] (1), [[Simulation]] (1), [[Threat Modeling]] (1)
 > **Env Vars:** ceo (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980)
+#### [Prompt injection](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=0)** - [Instructor] Prompt injection is a family of threats, which are inherent in how LLMs work.
 >
-> **[0:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=7)** Prompt injection is the first threat in the OWASP top 10 for LLMs, and I said I'd come back to it.
+> **[0:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=7)** Prompt injection is the first threat in the [[OWASP]] top 10 for LLMs, and I said I'd come back to it.
 >
 > **[0:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=16)** This family of attacks is important and growing.
 >
@@ -843,7 +828,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=104)** That difference is fundamental to security and confusion results in all sorts of attacks.
 >
-> **[1:52](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=112)** Let's take SQL injection as an example.
+> **[1:52](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=112)** Let's take [[SQL]] injection as an example.
 >
 > **[1:55](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=115)** A typical SQL statement might be like this shown on your screen, so if I enter "OR 1=1" then the statement that's run is controlled by the user.
 >
@@ -871,7 +856,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=187)** The system prompt, the user prompt and other data given to the LLM like files or webpage are all data, and that leads to what's called indirect prompt injection.
 >
-> **[3:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=201)** For example, on the main page of [shostack.org](https://shostack.org), there's an HTML comment as shown.
+> **[3:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=201)** For example, on the main page of [shostack.org](https://shostack.org), there's an [[HTML]] comment as shown.
 >
 > **[3:28](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=208)** And remarkably, if you give some LLMs a prompt to summarize that page, they may include that text.
 >
@@ -881,7 +866,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=224)** I don't even know what LLM they're prompting.
 >
-> **[3:47](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=227)** There are deeper forms of this.
+> **[3:47](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=227)** There are deeper [[Forms]] of this.
 >
 > **[3:49](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/prompt-injection?u=76281980&t=229)** Ask an LLM to describe an image that includes text, and the text may be treated as part of your prompt.
 >
@@ -909,15 +894,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), data (7), llm (7), [[SQL]] (3), [[Forms]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Forms]] (2), [[OWASP]] (1), [[HTML]] (1)
 > **Env Vars:** llm (7), sql (3), owasp (1), html (1)
 > **Definitions:** is a  (2)
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embarrassing and hostile results
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/embarrassing-and-hostile-results?u=76281980)
+#### [Embarrassing and hostile results](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/embarrassing-and-hostile-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -935,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/embarrassing-and-hostile-results?u=76281980&t=55)** It's important to create tests that help you understand the limits of your defenses, and also samples from other systems so leaders can understand the creativity people will bring.
 >
-> **[1:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/embarrassing-and-hostile-results?u=76281980&t=69)** Good threat modeling can give organizations a chance to think strategically about features in their interactions, and that leads us to thinking about trustworthiness.
+> **[1:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/embarrassing-and-hostile-results?u=76281980&t=69)** Good [[Threat Modeling]] can give organizations a chance to think strategically about features in their interactions, and that leads us to thinking about trustworthiness.
 >
 > **[1:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/embarrassing-and-hostile-results?u=76281980&t=81)** The risk acceptance or feature elimination trade off around these embarrassing or hostile results isn't one where the security engineer is likely to make the decision, but you're almost certainly in a position to identify potential problems and ensure they're clearly documented for the decision makers.
 >
@@ -945,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), next (1), business (1), llm (1), chatbot (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
@@ -956,12 +940,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### NIST Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980)
+#### [NIST Framework](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=0)** - [Instructor] NIST is the National Institute of Standards and Technology, charged with creating all sorts of standards to improve the quality of life for all Americans, and one of the areas they work in is cybersecurity, including the AI Risk Management Framework.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=0)** - [Instructor] [[NIST]] is the National Institute of Standards and Technology, charged with creating all sorts of standards to improve the quality of life for all Americans, and one of the areas they work in is [[Cybersecurity]], including the AI [[Risk Management Framework (RMF)|Risk Management Framework]].
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=19)** I want to start out by saying that the NIST Framework is more than a bit overwhelming, and when I say a bit, how does a framework relate to a roadmap, and what is a crosswalk in this context?
 >
@@ -975,7 +958,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=61)** So let's talk about what's actually in the Framework, joking aside Part 1 discusses how organizations can frame the risks related to AI and describes its intended audience.
 >
-> **[1:15](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=75)** It lays out AI risks and trustworthiness, outlining the characteristics of trustworthy AI systems, which include that they are valid and reliable, safe, secure, and resilient, accountable and transparent, explainable and interpretable, privacy-enhanced, and fair with their harmful biases managed.
+> **[1:15](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=75)** It lays out AI risks and trustworthiness, outlining the characteristics of trustworthy AI systems, which include that they are valid and reliable, safe, secure, and resilient, accountable and transparent, explainable and interpretable, [[Privacy]]-enhanced, and fair with their harmful biases managed.
 >
 > **[1:38](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980&t=98)** Note these are principles, which means they're general and inform the work you do rather than being specific and measurable.
 >
@@ -993,14 +976,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[NIST]] (3), [[Cybersecurity]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Cybersecurity]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Privacy]] (1)
 > **Env Vars:** nist (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### EU's AI Act
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980)
+#### [EU's AI Act](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,11 +1010,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=125)** They call this a risk-based approach.
 >
-> **[2:08](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=128)** And the word risk here doesn't mean risk to your business, but danger to society.
+> **[2:08](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=128)** And the [[Microsoft Word|word]] risk here doesn't mean risk to your business, but danger to society.
 >
-> **[2:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=136)** If you do any of those high risk things, you'll have to meet a slew of requirements, including risk management, data governance, monitoring, record keeping, documentation.
+> **[2:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=136)** If you do any of those high risk things, you'll have to meet a slew of requirements, including risk management, [[Data Governance]], monitoring, record keeping, documentation.
 >
-> **[2:31](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=151)** You'll have transparency and human oversight obligations, and you'll have standards you need to meet for accuracy, robustness, and cybersecurity.
+> **[2:31](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=151)** You'll have transparency and human oversight obligations, and you'll have standards you need to meet for accuracy, robustness, and [[Cybersecurity]].
 >
 > **[2:43](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=163)** Let me call your attention to biometrics in this list.
 >
@@ -1058,7 +1040,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=230)** I mean, you've got me, but I believe that monitoring here is general monitoring of the AI system, so you know what it does, rather than security monitoring.
 >
-> **[4:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=241)** Oh, and be sure that your monitoring protects people who are in vulnerable groups while ensuring that you protect their privacy.
+> **[4:01](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=241)** Oh, and be sure that your monitoring protects people who are in vulnerable groups while ensuring that you protect their [[Privacy]].
 >
 > **[4:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/eu-s-ai-act?u=76281980&t=249)** The EU AI Act has an unfortunate combination of being both incredibly complex and not finished as of this recording.
 >
@@ -1068,13 +1050,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), management (3), [[Cybersecurity]] (3), application (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Microsoft Word|Word]] (2), [[Data Governance]] (1), [[Privacy]] (1)
 > **Analogies:** picture (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Current harms
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/current-harms?u=76281980)
+#### [Current harms](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/current-harms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/current-harms?u=76281980&t=10)** These problems exist even if the system is perfectly secure and their impact can be magnified if your system isn't secure.
 >
-> **[0:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/current-harms?u=76281980&t=21)** One good list is from law firm, WilmerHale, who list, contract risks, cybersecurity risks, data privacy, deceptive trade practice, discrimination, disinformation, ethical risks, risks in government contracts, intellectual property, and risks of validation, woo!
+> **[0:21](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/current-harms?u=76281980&t=21)** One good list is from law firm, WilmerHale, who list, contract risks, [[Cybersecurity]] risks, [[Data Privacy]], deceptive trade practice, discrimination, disinformation, ethical risks, risks in government contracts, intellectual property, and risks of validation, woo!
 >
 > **[0:41](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/current-harms?u=76281980&t=41)** There are also concerns like bias or discrimination, power or water consumption, harms to the people who have to label the images, some of which are intensely disturbing, putting people out of work and more.
 >
@@ -1092,11 +1073,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Cybersecurity]] (1), data (1), [[Privacy]] (1), power (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Privacy]] (1)
 > **Speakers:** - [presenter] (1)
 
-#### Scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/scenarios?u=76281980)
+#### [Scenarios](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,7 +1108,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), aws (2), power (1), data (1)
 > **CLI Commands:** make (3), aws (2)
 > **Env Vars:** aws (2)
 > **Definitions:** in other words (1)
@@ -1139,18 +1118,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Specific frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980)
+#### [Specific frameworks](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=0)** - [Instructor] Each of the frameworks I've given you helps you find problems and address them.
 >
-> **[0:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=6)** Security frameworks like OWASP Top 10 and the Berryville lists each point to how to solve each problem they identify.
+> **[0:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=6)** Security frameworks like [[OWASP]] Top 10 and the Berryville lists each point to how to solve each problem they identify.
 >
-> **[0:15](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=15)** The AI Act and NIST's framework provide durable guidance around governance for AI programs.
+> **[0:15](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=15)** The AI Act and [[NIST]]'s framework provide durable guidance around governance for AI programs.
 >
-> **[0:24](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=24)** You can think of them as a foundation for the security work you do on products and services that contain machine learning, and especially in the case of the AI Act, act as a backstop that can help you get threats addressed.
+> **[0:24](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=24)** You can think of them as a foundation for the security work you do on [[Microsoft Products|products]] and services that contain machine learning, and especially in the case of the AI Act, act as a backstop that can help you get threats addressed.
 >
 > **[0:39](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980&t=39)** As I said earlier, if your organization isn't at least engaged in mapping, measuring, and managing AI risks, those are important to start on now, so the work you do in the future has consistency.
 >
@@ -1198,14 +1176,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[OWASP]] (3), data (3), [[Security]] (2), prompt (2)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[NIST]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** owasp (3), sbom (2), llm (2), nist (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Mitigations advance faster than threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980)
+#### [Mitigations advance faster than threats](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1200,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=45)** There are not a lot of examples that you can just use on the internet because LLMs are still new, and this is a function of governance, which is still being spun up.
 >
-> **[0:57](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=57)** But Microsoft has one at the URL shown on the screen, and while I commented on their work earlier, I think this bug bar is more tested and honed because it's used in deciding what externally reported issues get a fix.
+> **[0:57](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=57)** But [[Microsoft]] has one at the URL shown on the screen, and while I commented on their work earlier, I think this bug bar is more tested and honed because it's used in deciding what externally reported issues get a fix.
 >
 > **[1:16](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=76)** Back to the general issue of mitigations.
 >
@@ -1241,24 +1218,23 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=129)** I have a monthly roundup of AI and ApSec stories in my blog, [shostack.org/blog](https://shostack.org/blog), and others like Berryville offer RSS feeds.
 >
-> **[2:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=139)** I also use several academic search engines, including Semantic Scholar and Google Scholar, to follow topics and authors respectively.
+> **[2:19](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/mitigations-advance-faster-than-threats?u=76281980&t=139)** I also use several academic search engines, including Semantic Scholar and [[Google]] Scholar, to follow topics and authors respectively.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), llm (2), prompt (1), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** rss (3), llm (2), url (1)
 > **URLs:** [shostack.org](https://shostack.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying new technology isn't a one-and-done
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980)
+#### [Deploying new technology isn't a one-and-done](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=0)** - [Instructor] One of the gifts of the Agile movement in software is how we now focus on an ongoing cycle of delivering value, assessing, and choosing where to invest next.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=0)** - [Instructor] One of the gifts of the [[Agile Development|Agile]] movement in software is how we now focus on an ongoing cycle of delivering value, assessing, and choosing where to invest next.
 >
-> **[0:13](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=13)** With large language models, we have a complex balancing act of cost, value, and risk, and the best organizations are learning about how their choices result in customer value.
+> **[0:13](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=13)** With [[Large Language Models (LLM)|large language models]], we have a complex balancing act of cost, value, and risk, and the best organizations are learning about how their choices result in customer value.
 >
 > **[0:26](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=26)** Security and safety are not just predictable, as in we predict problems in the future.
 >
@@ -1266,11 +1242,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=38)** Organizations differ in how cautious they're being, from very to not at all, and how they're expressing that caution.
 >
-> **[0:47](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=47)** The need to anticipate and engage thoughtfully with these dangers isn't going away, and threat modeling is a collection of the most important ways to productively engage and defend our systems.
+> **[0:47](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/deploying-new-technology-isn-t-a-one-and-done?u=76281980&t=47)** The need to anticipate and engage thoughtfully with these dangers isn't going away, and [[Threat Modeling]] is a collection of the most important ways to productively engage and defend our systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), next (1), [[Large Language Models (LLM)|Large language models]] (1), [[Security]] (1), [[Threat Modeling]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Threat Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
@@ -1280,8 +1256,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,11 +1264,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=6)** Your next step depends on your goals and on your job.
 >
-> **[0:11](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=11)** You may want to use the tools from OWASP or Berryville I outlined in chapter three to find threats.
+> **[0:11](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=11)** You may want to use the tools from [[OWASP]] or Berryville I outlined in chapter three to find threats.
 >
-> **[0:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=18)** You may want to raise awareness about the EU or NIST frameworks and their efforts to push for better governance.
+> **[0:18](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=18)** You may want to raise awareness about the EU or [[NIST]] frameworks and their efforts to push for better governance.
 >
-> **[0:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=25)** If you want to learn more, be sure to complete my other courses here on LinkedIn, including ones on threat modeling and one on applied creativity.
+> **[0:25](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=25)** If you want to learn more, be sure to complete my other courses here on [[LinkedIn]], including ones on [[Threat Modeling]] and one on applied creativity.
 >
 > **[0:35](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980&t=35)** Also, check out my books, "Threat Modeling: Designing for Security" and "Threats: "What Every Engineer Should Learn From Star Wars."
 >
@@ -1301,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Threat Modeling]] (2), next (1), [[OWASP]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Threat Modeling]] (2), [[OWASP]] (1), [[NIST]] (1)
 > **Env Vars:** owasp (1), nist (1)
 > **CLI Commands:** find (1)
 > **URLs:** [shostack.org](https://shostack.org) (1)

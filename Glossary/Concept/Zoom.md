@@ -146,59 +146,59 @@ created: 2026-05-02
 > 113. [[Exploring AI Workflows within Figma Design]] — 2 mentions
 > 114. [[Canva- Designing Engaging, Accessible Presentations]] — 2 mentions
 > 115. [[Outlook on the Web Essential Training]] — 2 mentions
-> 116. [[Programming Foundations Fundamentals]] — 2 mentions
-> 117. [[Amplify Your Communication Skills with Generative AI]] — 2 mentions
-> 118. [[Build with AI- Beyond Pair Programming with AI]] — 2 mentions
-> 119. [[Interaction Design- Dashboards and Visualization]] — 2 mentions
-> 120. [[Power BI Data Dashboards]] — 2 mentions
-> 121. [[Assessing Digital Maturity]] — 2 mentions
-> 122. [[Responsible AI and Application Development]] — 2 mentions
-> 123. [[Ux Foundations Research]] — 2 mentions
-> 124. [[AI Programming for JavaScript Developers]] — 2 mentions
-> 125. [[HTML Essential Training]] — 2 mentions
-> 126. [[OneDrive for Business Essential Training]] — 2 mentions
-> 127. [[The Data Science Of Healthcare Medicine And Public Health]] — 2 mentions
-> 128. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 2 mentions
-> 129. [[React Hooks]] — 2 mentions
-> 130. [[Cybersecurity for Executives]] — 2 mentions
-> 131. [[Aws Essential Training For Developers]] — 2 mentions
-> 132. [[Building Serverless Apps with AI Services on AWS]] — 2 mentions
-> 133. [[Cisco Network Security- Secure Access]] — 2 mentions
-> 134. [[AI Accountability- Build Responsible and Transparent Systems]] — 2 mentions
-> 135. [[Agile Project Management with Jira Cloud- 1 Projects, Boards, and Issues]] — 2 mentions
-> 136. [[Deep Learning with Python- Convolutional Neural Networks]] — 2 mentions
-> 137. [[GraphRAG Essential Training]] — 2 mentions
-> 138. [[Training Neural Networks in Python]] — 2 mentions
-> 139. [[The Data Science Of Economics Banking And Finance]] — 2 mentions
-> 140. [[Build Your Generative AI Plan for Marketing Success]] — 2 mentions
-> 141. [[Google Cloud Data and Storage Foundations]] — 2 mentions
-> 142. [[Kubernetes- Your First Project (2021)]] — 2 mentions
-> 143. [[Applied Machine Learning Ensemble Learning]] — 2 mentions
-> 144. [[Learning PowerPoint Desktop (Microsoft 365)]] — 2 mentions
-> 145. [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]] — 2 mentions
-> 146. [[Excel Vba Managing Files And Data]] — 2 mentions
-> 147. [[Spss Wrangling Visualizing And Modeling Data]] — 2 mentions
-> 148. [[Machine Learning and AI Foundations- Classification Modeling]] — 2 mentions
-> 149. [[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules]] — 2 mentions
-> 150. [[Learning Python]] — 2 mentions
-> 151. [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — 2 mentions
-> 152. [[WordPress- Accessibility]] — 2 mentions
-> 153. [[Building Trust]] — 2 mentions
-> 154. [[CSS Essential Training (2023)]] — 2 mentions
-> 155. [[Learning the OWASP Top 10]] — 1 mentions
-> 156. [[Cyber Resilience- An Overview]] — 1 mentions
-> 157. [[Introduction To Artificial Intelligence]] — 1 mentions
-> 158. [[Learning Design Thinking- Lead Change in Your Organization]] — 1 mentions
-> 159. [[Data Literacy Exploring And Describing Data In An Ai World]] — 1 mentions
-> 160. [[Python Quick Start]] — 1 mentions
-> 161. [[Terraform- Managing Network Infrastructure]] — 1 mentions
-> 162. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 1 mentions
-> 163. [[Learning Graphic Design- Layouts]] — 1 mentions
-> 164. [[Advance Your Cybersecurity Career]] — 1 mentions
-> 165. [[Using Stark for Accessible Design Projects]] — 1 mentions
-> 166. [[Employee Engagement- Making Sustainability Part of Everybody’s Job]] — 1 mentions
-> 167. [[Learning PowerPoint Online (Microsoft 365)]] — 1 mentions
-> 168. [[Microsoft Entra ID Fundamentals]] — 1 mentions
+> 116. [[Microsoft Entra ID Fundamentals]] — 2 mentions
+> 117. [[Programming Foundations Fundamentals]] — 2 mentions
+> 118. [[Amplify Your Communication Skills with Generative AI]] — 2 mentions
+> 119. [[Build with AI- Beyond Pair Programming with AI]] — 2 mentions
+> 120. [[Interaction Design- Dashboards and Visualization]] — 2 mentions
+> 121. [[Power BI Data Dashboards]] — 2 mentions
+> 122. [[Assessing Digital Maturity]] — 2 mentions
+> 123. [[Responsible AI and Application Development]] — 2 mentions
+> 124. [[Ux Foundations Research]] — 2 mentions
+> 125. [[AI Programming for JavaScript Developers]] — 2 mentions
+> 126. [[HTML Essential Training]] — 2 mentions
+> 127. [[OneDrive for Business Essential Training]] — 2 mentions
+> 128. [[The Data Science Of Healthcare Medicine And Public Health]] — 2 mentions
+> 129. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 2 mentions
+> 130. [[React Hooks]] — 2 mentions
+> 131. [[Cybersecurity for Executives]] — 2 mentions
+> 132. [[Aws Essential Training For Developers]] — 2 mentions
+> 133. [[Building Serverless Apps with AI Services on AWS]] — 2 mentions
+> 134. [[Cisco Network Security- Secure Access]] — 2 mentions
+> 135. [[AI Accountability- Build Responsible and Transparent Systems]] — 2 mentions
+> 136. [[Agile Project Management with Jira Cloud- 1 Projects, Boards, and Issues]] — 2 mentions
+> 137. [[Deep Learning with Python- Convolutional Neural Networks]] — 2 mentions
+> 138. [[GraphRAG Essential Training]] — 2 mentions
+> 139. [[Training Neural Networks in Python]] — 2 mentions
+> 140. [[The Data Science Of Economics Banking And Finance]] — 2 mentions
+> 141. [[Build Your Generative AI Plan for Marketing Success]] — 2 mentions
+> 142. [[Google Cloud Data and Storage Foundations]] — 2 mentions
+> 143. [[Kubernetes- Your First Project (2021)]] — 2 mentions
+> 144. [[Applied Machine Learning Ensemble Learning]] — 2 mentions
+> 145. [[Learning PowerPoint Desktop (Microsoft 365)]] — 2 mentions
+> 146. [[The AI-Driven Sales Professional- Streamline Systems and Exceed Targets]] — 2 mentions
+> 147. [[Excel Vba Managing Files And Data]] — 2 mentions
+> 148. [[Spss Wrangling Visualizing And Modeling Data]] — 2 mentions
+> 149. [[Machine Learning and AI Foundations- Classification Modeling]] — 2 mentions
+> 150. [[Drupal 9 Essential Training- 3 Taxonomy, Media, and Modules]] — 2 mentions
+> 151. [[Learning Python]] — 2 mentions
+> 152. [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — 2 mentions
+> 153. [[WordPress- Accessibility]] — 2 mentions
+> 154. [[Building Trust]] — 2 mentions
+> 155. [[CSS Essential Training (2023)]] — 2 mentions
+> 156. [[Learning the OWASP Top 10]] — 1 mentions
+> 157. [[Cyber Resilience- An Overview]] — 1 mentions
+> 158. [[Introduction To Artificial Intelligence]] — 1 mentions
+> 159. [[Learning Design Thinking- Lead Change in Your Organization]] — 1 mentions
+> 160. [[Data Literacy Exploring And Describing Data In An Ai World]] — 1 mentions
+> 161. [[Python Quick Start]] — 1 mentions
+> 162. [[Terraform- Managing Network Infrastructure]] — 1 mentions
+> 163. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 1 mentions
+> 164. [[Learning Graphic Design- Layouts]] — 1 mentions
+> 165. [[Advance Your Cybersecurity Career]] — 1 mentions
+> 166. [[Using Stark for Accessible Design Projects]] — 1 mentions
+> 167. [[Employee Engagement- Making Sustainability Part of Everybody’s Job]] — 1 mentions
+> 168. [[Learning PowerPoint Online (Microsoft 365)]] — 1 mentions
 > 169. [[Office 365 for Administrators- Troubleshooting Issues for Users (Office 365-Microsoft 365)]] — 1 mentions
 > 170. [[AI Product Development- Secure by Design]] — 1 mentions
 > 171. [[Manager's Guide to Building a Strategic Plan with ChatGPT (No Code Required)]] — 1 mentions

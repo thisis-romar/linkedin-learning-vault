@@ -75,18 +75,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible AI dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980)
+#### [Responsible AI dashboard](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=0)** - [Rodrigo] Want to embrace responsible AI principles for your machine learning practice?
+> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=0)** - [Rodrigo] Want to embrace [[Responsible AI]] principles for your machine learning practice?
 >
 > **[0:05](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=5)** The responsible AI dashboard consolidates existing tools for machine learning interpretability, error and counterfactual analysis, among others, enabling comprehensive model assessments and informed decision making.
 >
 > **[0:19](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=19)** I'll show you the essential steps to implement the responsible AI dashboard quickly.
 >
-> **[0:24](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=24)** I'm Rodrigo Diaz Concha, a Microsoft Regional Director in Microsoft and MVP.
+> **[0:24](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=24)** I'm Rodrigo Diaz Concha, a [[Microsoft]] Regional Director in Microsoft and MVP.
 >
 > **[0:30](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980&t=30)** Over the last few years, I've helped companies across diverse industries implement ML and AI strategies.
 >
@@ -96,12 +95,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Microsoft]] (2), ai (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Microsoft]] (2)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [rodrigo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=9)** You should already have at least the basic knowledge about what machine learning is and what are some of its essential concepts.
 >
-> **[0:17](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=17)** In this course, I'm not going to write code from scratch but use some machine learning Jupyter Notebooks from the Responsible AI toolbox repository.
+> **[0:17](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=17)** In this course, I'm not going to write code from scratch but use some machine learning Jupyter Notebooks from the [[Responsible AI]] toolbox repository.
 >
 > **[0:26](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=26)** That said, you should already know how to open and run Jupyter Notebooks.
 >
@@ -119,17 +117,17 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=42)** Again, this is not a programming course.
 >
-> **[0:45](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=45)** However, I'm going to show you different prebuilt examples implemented in the Python programming language, so you should at least be comfortable reading and understanding basic Python code.
+> **[0:45](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=45)** However, I'm going to show you different prebuilt examples implemented in the [[Python (Programming Language)|Python]] programming language, so you should at least be comfortable reading and understanding basic Python code.
 >
 > **[0:57](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=57)** Luckily, Python syntax is quite easy to grasp, and it's an excellent choice as a first programming language for non-tech people.
 >
-> **[1:06](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=66)** The Responsible AI toolbox is being crafted by Microsoft as an open source project in GitHub.
+> **[1:06](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=66)** The Responsible AI toolbox is being crafted by [[Microsoft]] as an open source project in [[GitHub]].
 >
 > **[1:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=73)** Because of this, you should know how to clone a GitHub repo in your local machine or the cloud.
 >
 > **[1:21](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=81)** You can use the Responsible AI dashboard and its tools whenever you like.
 >
-> **[1:25](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=85)** In this course, I'm going to show you how to execute and create the dashboard components in both your local machine and Azure.
+> **[1:25](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=85)** In this course, I'm going to show you how to execute and create the dashboard components in both your local machine and [[Microsoft Azure|Azure]].
 >
 > **[1:34](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-you-should-know?u=76281980&t=94)** If you want to follow the Azure samples, you should have at least basic knowledge of the Azure Portal.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Responsible AI]] (3), [[Programming]] (3), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Responsible AI]] (3), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Microsoft]] (1)
 > **Tools:** jupyter (3), github (2), azure portal (1)
 > **CLI Commands:** python (3)
 > **Exercise Files:** github repo (1)
@@ -149,16 +147,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is responsible AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980)
+#### [What is responsible AI?](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980&t=0)** - [Narrator] Artificial intelligence has revolutionized the way we function in our day-to-day lives.
+> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] has revolutionized the way we function in our day-to-day lives.
 >
 > **[0:06](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980&t=6)** Its progress has attracted global attention, but with the excitement comes a real worry about its ethical usage.
 >
-> **[0:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980&t=13)** To address this concern, businesses are giving precedence to responsible AI tactics, guaranteeing that their approaches are not only innovative, but also ethical.
+> **[0:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980&t=13)** To address this concern, businesses are giving precedence to [[Responsible AI]] tactics, guaranteeing that their approaches are not only innovative, but also ethical.
 >
 > **[0:24](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980&t=24)** Responsible AI is the approach to defining, creating, operating and using artificial intelligence in such a way that is ethical, transparent, and beneficial to humanity.
 >
@@ -178,15 +175,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Speakers:** - [narrator] (1)
 
-#### Microsoft responsible AI principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980)
+#### [Microsoft responsible AI principles](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=0)** - [Instructor] Microsoft has defined six principles to ensure that AI technologies are developed and deployed responsibly.
+> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=0)** - [Instructor] [[Microsoft]] has defined six principles to ensure that AI technologies are developed and deployed responsibly.
 >
 > **[0:08](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=8)** Let's describe each one.
 >
@@ -194,26 +190,25 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=23)** Reliability and safety ensure that AI systems operate consistently and protect users and the environment from potential harm.
 >
-> **[0:32](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=32)** Privacy emphasizes the rights of individuals, and the proper handling of their data, while security focuses on defending AI systems and data from potential threats and breaches.
+> **[0:32](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=32)** [[Privacy]] emphasizes the rights of individuals, and the proper handling of their data, while security focuses on defending AI systems and data from potential threats and breaches.
 >
 > **[0:46](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=46)** Inclusiveness ensures that AI technologies are designed and used to empower everyone, and don't reinforce biases or exclude certain groups.
 >
 > **[0:58](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=58)** Transparency emphasizes the importance of being open and clear about how AI systems work, why they make their decisions, and the principles guiding their development and use.
 >
-> **[1:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=73)** And finally, accountability refers to assigning responsibility for AI systems' outcomes, behaviors, and impacts.
+> **[1:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=73)** And finally, [[Accountability]] refers to assigning responsibility for AI systems' outcomes, behaviors, and impacts.
 >
-> **[1:22](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=82)** If you want to learn more about responsible AI and the responsible AI principles in Microsoft, you can visit [microsoft.com/ai/responsible-ai](https://microsoft.com/ai/responsible-ai).
+> **[1:22](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/microsoft-responsible-ai-principles?u=76281980&t=82)** If you want to learn more about [[Responsible AI]] and the responsible AI principles in Microsoft, you can visit [microsoft.com/ai/responsible-ai](https://microsoft.com/ai/responsible-ai).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Microsoft]] (3), data (2), [[Responsible AI]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Responsible AI]] (2), [[Privacy]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980)
+#### [Tools for responsible AI](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,25 +228,24 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=30)** EconML for using machine learning to figure out different outcomes from data without doing an experiment.
 >
-> **[0:38](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=38)** And finally, DoWhy for causal inference.
+> **[0:38](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=38)** And finally, DoWhy for [[Causal Inference]].
 >
-> **[0:43](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=43)** This is not a complete list of responsible AI tools.
+> **[0:43](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=43)** This is not a complete list of [[Responsible AI]] tools.
 >
 > **[0:47](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=47)** Still, it's clear to see how such a variety could lead to some confusion and overlap.
 >
-> **[0:55](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=55)** That's precisely why Microsoft created the Responsible AI dashboard.
+> **[0:55](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=55)** That's precisely why [[Microsoft]] created the Responsible AI dashboard.
 >
 > **[1:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/tools-for-responsible-ai?u=76281980&t=60)** Join me in the next video to learn more about it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Responsible AI]] (2), ai (1), [[Causal Inference]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Causal Inference]] (1), [[Microsoft]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### What is the responsible AI dashboard?
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980)
+#### [What is the responsible AI dashboard?](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,34 +253,33 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=11)** For example, if a data scientist finds a fairness problem using one tool, they have to switch to another completely different tool to understand and analyze the cause in the data or model before they can fix it.
 >
-> **[0:26](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=26)** The Responsible AI Dashboard helps mitigate the fragmentation of disconnected tools that data scientists have to use.
+> **[0:26](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=26)** The [[Responsible AI]] Dashboard helps mitigate the fragmentation of disconnected tools that data scientists have to use.
 >
-> **[0:35](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=35)** The Responsible AI Dashboard is a single pane of glass, enabling you to easily flow through different stages of model debugging and decision-making.
+> **[0:35](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=35)** The Responsible AI Dashboard is a single pane of glass, enabling you to easily flow through different stages of model debugging and [[Decision-Making]].
 >
 > **[0:46](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=46)** The Responsible AI Dashboard and all the tools are part of the Responsible AI Toolbox.
 >
 > **[0:54](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=54)** This toolbox is a suite of tools.
 >
-> **[0:57](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=57)** providing a collection of model and data exploration and assessment user interfaces and libraries that enable a better understanding of artificial intelligence systems.
+> **[0:57](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=57)** providing a collection of model and data exploration and assessment user interfaces and libraries that enable a better understanding of [[Artificial Intelligence (AI)|artificial intelligence]] systems.
 >
 > **[1:10](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-the-responsible-ai-dashboard?u=76281980&t=70)** If you want to learn more about the Responsible AI Toolbox and all its tools, including the Responsible AI Dashboard, you can visit aka.ms/rai-toolbox.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (6), data (4), [[Debugging]] (1), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (6), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ways to use the responsible AI dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980)
+#### [Ways to use the responsible AI dashboard](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980&t=0)** - [Instructor] Before we advance deeper into the material, it's essential to understand that there are two primary methods to use the Responsible AI dashboard.
+> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980&t=0)** - [Instructor] Before we advance deeper into the material, it's essential to understand that there are two primary methods to use the [[Responsible AI]] dashboard.
 >
-> **[0:09](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980&t=9)** The first one is integrating Python modules into your solutions, and the second one is using Azure Machine Learning Studio.
+> **[0:09](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980&t=9)** The first one is integrating [[Python (Programming Language)|Python]] modules into your solutions, and the second one is using [[Microsoft Azure|Azure]] Machine Learning Studio.
 >
 > **[0:18](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/ways-to-use-the-responsible-ai-dashboard?u=76281980&t=18)** If you're comfortable with coding, the first method allows you to embed the dashboard directly within your own applications by using specific Python modules.
 >
@@ -307,18 +300,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the responsible AI dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980)
+#### [Creating the responsible AI dashboard](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=0)** - [Instructor] You can think of the Responsible AI Dashboard as a buffet, where you take what you truly need in order to support your objectives.
+> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=0)** - [Instructor] You can think of the [[Responsible AI]] Dashboard as a buffet, where you take what you truly need in order to support your objectives.
 >
 > **[0:08](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=8)** In this video, I'll show you how you can use the open source flavor of the Responsible AI Dashboard.
 >
-> **[0:15](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=15)** However, the Azure machine learning flavor is practically the same.
+> **[0:15](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=15)** However, the [[Microsoft Azure|Azure]] machine learning flavor is practically the same.
 >
-> **[0:21](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=21)** In other words, you're going to see some Python code in this video.
+> **[0:21](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=21)** In other words, you're going to see some [[Python (Programming Language)|Python]] code in this video.
 >
 > **[0:26](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=26)** Okay, so the first thing that we need to do is we need to import the Responsible AI Insights and the Responsible AI Dashboard classes.
 >
@@ -336,9 +328,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=75)** Okay, let's open up Visual Studio Code where I already opened a Jupyter Notebook from the Responsible AI Toolbox.
 >
-> **[1:24](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=84)** Here we are in Visual Studio Code, and as you can see, this instance is connected to my Ubuntu 22 distro.
+> **[1:24](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=84)** Here we are in Visual Studio Code, and as you can see, this instance is connected to my [[Ubuntu]] 22 distro.
 >
-> **[1:32](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=92)** And of course, I've already cloned the GitHub repo, and I selected Python 3.10.12 as a kernel.
+> **[1:32](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=92)** And of course, I've already cloned the [[GitHub]] repo, and I selected Python 3.10.12 as a kernel.
 >
 > **[1:41](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=101)** So here you can see that inside the notebooks, responsibleaidashboard, tabular folder, we can find a number of examples that use the Responsible AI Dashboard.
 >
@@ -356,7 +348,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=164)** Here you can pass a model, both the full and test datasets, and the target feature as a string.
 >
-> **[2:53](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=173)** You can also pass the feature metadata for the train test and the class labels in the training set.
+> **[2:53](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=173)** You can also pass the feature [[Metadata]] for the train test and the class labels in the training set.
 >
 > **[3:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980&t=180)** This is the moment that I was talking about, where you can add the components to the dashboard.
 >
@@ -376,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (10), [[Python (Programming Language)|Python]] (2), feature (2), [[Microsoft Azure|Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (10), [[Python (Programming Language)|Python]] (2), [[Microsoft Azure|Azure]] (1), [[Ubuntu]] (1), [[GitHub]] (1)
 > **Tools:** jupyter (3), visual studio (2), github (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -385,12 +377,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Analogies:** for instance (2)
 
-#### Error analysis component
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/error-analysis-component?u=76281980)
+#### [Error analysis component](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/error-analysis-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/error-analysis-component?u=76281980&t=0)** - [Instructor] Think of the different responsible AI dashboard components as a group of building blocks you can use to know better how your AI systems work.
+> **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/error-analysis-component?u=76281980&t=0)** - [Instructor] Think of the different [[Responsible AI]] dashboard components as a group of building blocks you can use to know better how your AI systems work.
 >
 > **[0:11](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/error-analysis-component?u=76281980&t=11)** One of the main tools in this group is the Error Analysis dashboard.
 >
@@ -470,15 +461,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (3), node (3), [[Responsible AI]] (2), game (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2)
 > **CLI Commands:** node (3), find (1)
 > **UI Navigation:** click on (3), navigate to (1)
 > **Analogies:** for example (1), it's like (1), for instance (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model overview and performance analysis component
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/model-overview-and-performance-analysis-component?u=76281980)
+#### [Model overview and performance analysis component](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/model-overview-and-performance-analysis-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +520,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/model-overview-and-performance-analysis-component?u=76281980&t=150)** You can actually go here to the Metrics Visualizations tab, and choose False Negative rate, so we can see this dramatic difference between those two.
 >
-> **[2:42](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/model-overview-and-performance-analysis-component?u=76281980&t=162)** Okay, let's go back to the Probability Distribution tab, because this is telling me that properties that were remodeled before 1980 have a higher probability of selling less than the median.
+> **[2:42](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/model-overview-and-performance-analysis-component?u=76281980&t=162)** Okay, let's go back to the [[Probability]] Distribution tab, because this is telling me that properties that were remodeled before 1980 have a higher probability of selling less than the median.
 >
 > **[2:56](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/model-overview-and-performance-analysis-component?u=76281980&t=176)** It could be because of those false negative rate differences.
 >
@@ -538,20 +528,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Probability]] (2), feature (1), ai (1), node (1)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **UI Navigation:** click on (3), scroll up (1), scroll down (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data analysis component
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/data-analysis-component?u=76281980)
+#### [Data analysis component](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/data-analysis-component?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/data-analysis-component?u=76281980&t=0)** - [Narrator] With the data analysis component, you can dive into your data in an easy way.
 >
-> **[0:05](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/data-analysis-component?u=76281980&t=5)** This tool can help you see if certain groups don't have enough representation or if their data looks a bit off compared to the rest.
+> **[0:05](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/data-analysis-component?u=76281980&t=5)** This tool can help you see if certain groups don't have enough representation or if their data looks a bit off compared to the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/data-analysis-component?u=76281980&t=13)** You can explore the dataset simply by choosing features like age, location, et cetera, and see how they play out in your data.
 >
@@ -577,15 +566,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Feature importances component
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/feature-importances-component?u=76281980)
+#### [Feature importances component](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/feature-importances-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +625,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (2), click on (1), navigate to (1)
 > **Cross-References:** go back to (1)
@@ -645,8 +632,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Counterfactuals component
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/counterfactuals-component?u=76281980)
+#### [Counterfactuals component](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/counterfactuals-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/counterfactuals-component?u=76281980&t=43)** In this component, we can see all the datapoints in this chart.
 >
-> **[0:47](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/counterfactuals-component?u=76281980&t=47)** We can see the probability of houses being sold for less than the median price.
+> **[0:47](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/counterfactuals-component?u=76281980&t=47)** We can see the [[Probability]] of houses being sold for less than the median price.
 >
 > **[0:52](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/counterfactuals-component?u=76281980&t=52)** Of course, some houses have a higher probability than others.
 >
@@ -710,15 +696,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), data (1), feature (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Analogies:** for instance (2), for example (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Causal analysis component
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980)
+#### [Causal analysis component](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,9 +735,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980&t=102)** So I already executed this to expedite this process.
 >
-> **[1:47](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980&t=107)** As you can see, I selected Python 3.10.12 as a kernel and let me scroll down a little bit so I can show you the place where the causal analysis component is being added.
+> **[1:47](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980&t=107)** As you can see, I selected [[Python (Programming Language)|Python]] 3.10.12 as a kernel and let me scroll down a little bit so I can show you the place where the causal analysis component is being added.
 >
-> **[2:01](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980&t=121)** So here is the place where this component is added to the Responsible AI dashboard.
+> **[2:01](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980&t=121)** So here is the place where this component is added to the [[Responsible AI]] dashboard.
 >
 > **[2:07](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/causal-analysis-component?u=76281980&t=127)** And speaking of which, this Responsible AI insights object is being initialized just with the datasets and it's not passing the model to this object.
 >
@@ -776,7 +761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Responsible AI]] (2), [[Python (Programming Language)|Python]] (1), feature (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1), find (1)
 > **UI Navigation:** scroll down (2), navigate to (1), select the (1)
 > **Versions:** python 3 (1), 10.12 (1)
@@ -784,16 +769,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the responsible AI dashboard in Azure ML Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980)
+#### [Using the responsible AI dashboard in Azure ML Studio](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=0)** - [Instructor] I have great news for you.
 >
-> **[0:03](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=3)** All the knowledge you've acquired thus far is relevant when using the responsible AI dashboard within Azure Machine Learning Studio.
+> **[0:03](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=3)** All the knowledge you've acquired thus far is relevant when using the [[Responsible AI]] dashboard within [[Microsoft Azure|Azure]] Machine Learning Studio.
 >
-> **[0:12](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=12)** In fact, the only difference is that you don't directly use the Python modules.
+> **[0:12](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=12)** In fact, the only difference is that you don't directly use the [[Python (Programming Language)|Python]] modules.
 >
 > **[0:17](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=17)** Instead, you use Azure Machine Learning Studio components.
 >
@@ -821,7 +805,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=75)** That repo includes some interesting demos for running the responsible AI dashboard in Azure.
 >
-> **[1:21](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=81)** If you want to do the same, you can open the terminal and clone the GitHub repo by executing the Git clone command.
+> **[1:21](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=81)** If you want to do the same, you can open the terminal and clone the [[GitHub]] repo by executing the [[Git]] clone command.
 >
 > **[1:30](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/using-the-responsible-ai-dashboard-in-azure-ml-studio?u=76281980&t=90)** Here you can see that it has different folders, and each folder has one or many Jupyter Notebooks, in which case I already executed.
 >
@@ -859,24 +843,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=0)** - [Narrator] Congratulations, you've completed this course.
 >
-> **[0:03](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=3)** By now, you should understand what the Responsible AI dashboard is and how you can use it in your own projects.
+> **[0:03](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=3)** By now, you should understand what the [[Responsible AI]] dashboard is and how you can use it in your own projects.
 >
 > **[0:11](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=11)** There are many paths you can take from here.
 >
-> **[0:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=13)** First, I suggest you continue learning about ethics in AI, which is why the Responsible AI dashboard was created in the first place.
+> **[0:13](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=13)** First, I suggest you continue learning about [[Ethics]] in AI, which is why the Responsible AI dashboard was created in the first place.
 >
-> **[0:23](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=23)** Then, if you want to hone your technical skills, Python is one of the most important programming languages you should have in your tool belt.
+> **[0:23](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=23)** Then, if you want to hone your technical skills, [[Python (Programming Language)|Python]] is one of the most important programming languages you should have in your tool belt.
 >
-> **[0:33](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=33)** Finally, you can continue learning about Azure for AI, of course, and as a cloud platform for your projects.
+> **[0:33](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=33)** Finally, you can continue learning about [[Microsoft Azure|Azure]] for AI, of course, and as a cloud platform for your projects.
 >
-> **[0:41](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=41)** Remember that you can find fantastic training courses here in the LinkedIn Learning library.
+> **[0:41](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=41)** Remember that you can find fantastic training courses here in the [[LinkedIn]] Learning library.
 >
 > **[0:48](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980&t=48)** I hope you've enjoyed this course as much as I've enjoyed creating it for you.
 >
@@ -886,7 +869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (2), ai (2), [[Ethics]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Ethics]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Speakers:** - [narrator] (1)
 

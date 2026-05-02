@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How can SQL answer your data questions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980)
+#### [How can SQL answer your data questions?](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980&t=13)** But that's simply isn't the case.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980&t=15)** Hi, my name is Julianne Thouin and I established a career writing database queries without obtaining a degree in computer science by learning to write in an English like programming language called SQL.
+> **[0:15](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980&t=15)** Hi, my name is Julianne Thouin and I established a career writing [[Database Queries]] without obtaining a degree in computer science by learning to write in an English like programming language called [[SQL]].
 >
 > **[0:28](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980&t=28)** In this course, I'll walk you through the basics of writing SQL queries and give you all the tools you'll need to start retrieving information from a relational database.
 >
@@ -108,14 +107,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (3), [[Programming]] (2), career (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Database Queries]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980)
+#### [Introduction to CoderPad](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=16)** These challenges are hosted by CoderPad, and can be found on the course page in the same area where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can also use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can also use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=33)** Each code challenge has three areas, instructions on the top left, a code editor for your answers on the right-hand panel, and a console that will show the query results in the bottom left.
 >
@@ -137,13 +135,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=71)** There are also examples of similar results sets and additional notes on the data and the sample tables and some of the syntax rules you'll need to follow with CoderPad, which uses what is known as the ANSI standard for the code.
 >
-> **[1:25](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=85)** This is also what's used in SQL Server, but Microsoft's version allows some additional code formatting that will not successfully compile in CoderPad.
+> **[1:25](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=85)** This is also what's used in [[Microsoft SQL Server|SQL Server]], but [[Microsoft]]'s version allows some additional code formatting that will not successfully compile in CoderPad.
 >
 > **[1:35](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/introduction-to-coderpad-25266879?u=76281980&t=95)** So make sure you pay attention to the instructions where that may apply.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[LinkedIn]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1)
 > **Env Vars:** ansi (1), sql (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -155,14 +153,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SQL Server?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980)
+#### [What is SQL Server?](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=0)** - [Instructor] Before we can dive in and write a single line of code, it's important that we cover a few definitions and high level concepts that we are going to need for this course.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=10)** SQL pronounced as either SQL or S-Q-L depending on who you're talking to, is an acronym that stands for Structured Query Language.
+> **[0:10](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=10)** [[SQL]] pronounced as either SQL or S-Q-L depending on who you're talking to, is an acronym that stands for Structured Query Language.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=21)** It is a basic English like programming language that is used to interact with a database.
 >
@@ -170,21 +167,21 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=34)** Any information that an organization needs to conduct their affairs is stored in a database of some kind.
 >
-> **[0:41](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=41)** More specifically, SQL is used for managing a relational database, which is a data storage method that organizes information and a series of tables that are connected through data relationships.
+> **[0:41](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=41)** More specifically, SQL is used for managing a relational database, which is a [[Data Storage]] method that organizes information and a series of tables that are connected through data relationships.
 >
 > **[0:54](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=54)** We'll be going more in depth with how that works in another video, so don't worry about that too much right now.
 >
-> **[1:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=61)** There are several different relational database management systems out there that you might've heard of like Oracle PostgreSQL, or MySQL, but in this course, we'll be using Microsoft SQL Server and learn to write a specific style of SQL called Transact SQL or T-SQL for short.
+> **[1:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=61)** There are several different relational [[Database Management]] systems out there that you might've heard of like Oracle [[PostgreSQL]], or [[MySQL]], but in this course, we'll be using [[Microsoft SQL Server]] and learn to write a specific style of SQL called Transact SQL or T-SQL for short.
 >
 > **[1:22](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=82)** There are some syntactical differences among the different versions of SQL, so once you've mastered one version, you could probably look at code from another one and understand what's going on.
 >
 > **[1:33](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=93)** But the skills you learn in this course won't be 100% transferable to other applications.
 >
-> **[1:39](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=99)** The major differences among the different RDBMS options has to do with feature stacks, under the hood performance tuning, support, and costs.
+> **[1:39](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=99)** The major differences among the different RDBMS options has to do with feature stacks, under the hood [[Performance Tuning]], support, and costs.
 >
-> **[1:51](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=111)** The program I'll be using to run my code and interact with the databases in this course is called SQL Server Management Studio or SSMS.
+> **[1:51](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=111)** The program I'll be using to run my code and interact with the [[Databases]] in this course is called [[Microsoft SQL Server|SQL Server]] Management Studio or SSMS.
 >
-> **[2:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=121)** Before you can start writing any code, you'll need to make sure that you have the latest version of SQL Server downloaded and started on your computer, and Microsoft has all that you'll need to do that right on their website.
+> **[2:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=121)** Before you can start writing any code, you'll need to make sure that you have the latest version of SQL Server downloaded and started on your computer, and [[Microsoft]] has all that you'll need to do that right on their website.
 >
 > **[2:14](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=134)** You can go here to download SQL Server.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=171)** Once you have all that ready, you'll be good to go.
 >
-> **[2:55](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=175)** I do all of my development work on a Windows machine, but you can still run SQL Server on a Mac computer.
+> **[2:55](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=175)** I do all of my development work on a [[Windows]] machine, but you can still run SQL Server on a Mac computer.
 >
 > **[3:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=181)** Your installation and setup will just look a little different.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=194)** Then you can follow the instructions found in this blog post to set up and start SQL Server.
 >
-> **[3:22](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=202)** You won't be able to run SSMS on a Mac either, but Azure Data Studio is another free tool that you can use for your SQL development.
+> **[3:22](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=202)** You won't be able to run SSMS on a Mac either, but [[Microsoft Azure|Azure]] Data Studio is another free tool that you can use for your SQL development.
 >
 > **[3:31](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980&t=211)** Download that program here.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft SQL Server|Sql server]] (8), database (5), data (4), management (3)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft SQL Server|Sql server]] (8), [[Databases]] (2), [[Data Storage]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (18), ssms (3), rdbms (1)
 > **Definitions:** is an  (2), is a  (2), is called (2), stands for (1)
 > **Prerequisites:** you'll need (3), install (2), setup (1), set up (1)
@@ -222,12 +219,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding servers, databases, and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980)
+#### [Understanding servers, databases, and tables](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=0)** - [Instructor] When the SQL Server installation is up and running, you'll have set up a local instance of a SQL Server on your computer that you can connect to through SSMS or Azure Data Studio.
+> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=0)** - [Instructor] When the [[Microsoft SQL Server|SQL Server]] installation is up and running, you'll have set up a local instance of a SQL Server on your computer that you can connect to through SSMS or [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=10)** Again, I'll be using SSMS in these demos.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=77)** If you've just installed SQL Server for the first time, you probably won't have anything here, I created this demo database earlier.
 >
-> **[1:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=84)** But in order to create our own database, we just right click on Databases, select New Database, type in whatever name you want.
+> **[1:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=84)** But in order to create our own database, we just right click on [[Databases]], select New Database, type in whatever name you want.
 >
 > **[1:34](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=94)** I'm going to use "sandbox" since this will be the database I'll be using in all of these demos, and just say OK.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=138)** You may also see instances where the server name and the database name are included when referencing a table in code, but usually it's just schema name.table name, or sometimes just the table name by itself since the server will assume you're looking in the default schema set to DBO on install if you don't specify.
 >
-> **[2:37](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=157)** There's a file attached to this video called two.trees.sql.
+> **[2:37](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=157)** There's a file attached to this video called two.trees.[[SQL]].
 >
 > **[2:41](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=161)** If you would like to follow along with the demos in this course, you just have to run the script to create the tables and add the data you'll need to your local database.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=201)** I'm going to right click on one of these, the dbo.customer table, and do select top 1,000 rows to give you an idea of what this data looks like.
 >
-> **[3:32](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=212)** So this is similar to what you might find if you open up an Excel file.
+> **[3:32](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=212)** So this is similar to what you might find if you open up an [[Microsoft Excel|Excel]] file.
 >
 > **[3:35](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/understanding-servers-databases-and-tables-23428000?u=76281980&t=215)** The data is stored in rows and the data points are divided up into columns.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (7), [[Microsoft SQL Server|Sql server]] (5), next (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Azure|Azure]] (1), [[Databases]] (1), [[SQL]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (5), ssms (2), dbo (1)
 > **UI Navigation:** click on (3), dropdown (2), go to (1), open the (1)
 > **Prerequisites:** set up (1), install (1), you'll need (1)
@@ -308,16 +304,15 @@ created: 2026-05-02
 > **File Paths:** two.trees.sql (1)
 > **Analogies:** similar to (1)
 
-#### Relational database concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980)
+#### [Relational database concepts](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=0)** - [Instructor] At first glance, it might look like the tables in a relational database would be structured in pretty much the same way as tables that you might be used to in other contexts, from Excel files or a table in a textbook.
+> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=0)** - [Instructor] At first glance, it might look like the tables in a relational database would be structured in pretty much the same way as tables that you might be used to in other contexts, from [[Microsoft Excel|Excel]] files or a table in a textbook.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=11)** There are some key differences however, which we'll cover in this video.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=17)** We're going to start With a simple sample dataset to demonstrate how relational databases organize information.
+> **[0:17](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=17)** We're going to start With a simple sample dataset to demonstrate how [[Relational Databases]] organize information.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=25)** This order's table looks like something you might see in an Excel file with information about customers, where they live, what they purchased, how much each item costs and the order total.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=106)** Each data point is stored once in the customer table but it can be referenced many times in the order table and in any other tables that store the customer ID in this database.
 >
-> **[1:58](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=118)** To deal with the rest of the duplicate data, let's break out the product information into a new table as well.
+> **[1:58](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=118)** To deal with the [[Representational State Transfer (REST)|rest]] of the duplicate data, let's break out the product information into a new table as well.
 >
 > **[2:04](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=124)** We'll follow the same pattern as with the customer ID by assigning an ID to each product.
 >
@@ -361,18 +356,17 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=232)** As you can see, our dataset has transformed a lot going from this to this.
 >
-> **[3:59](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=239)** And while it's not important for you to be able to draw your own ERD at this point, it is critical that you understand the conventions that it represents as you start to navigate a normalized SQL database.
+> **[3:59](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/relational-database-concepts?u=76281980&t=239)** And while it's not important for you to be able to draw your own ERD at this point, it is critical that you understand the conventions that it represents as you start to navigate a normalized [[SQL]] database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (7), product (5), [[Microsoft Excel|Excel]] (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Relational Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Env Vars:** erd (2), sql (1)
 > **Definitions:** is called (2), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Surrogate, primary, and foreign keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980)
+#### [Surrogate, primary, and foreign keys](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -382,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=16)** These keys are called surrogate keys.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=20)** These values don't have any meaning on their own and are most often generated by SQL Server, as with an Identity, Sequence or NewID order GUID, short for global unique identifier.
+> **[0:20](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=20)** These values don't have any meaning on their own and are most often generated by [[Microsoft SQL Server|SQL Server]], as with an Identity, Sequence or NewID order GUID, short for global unique identifier.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=35)** If I called someone at Two Trees Olive Oil and asked, do you remember the order total for order number 180?
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=72)** This descriptive identifier is called the natural key, as opposed to the surrogate key we talked about earlier, which has no meaning on its own.
 >
-> **[1:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=81)** It is best practice in a relational database design to have some kind of unique identifier for every row in every table of your database called the primary key.
+> **[1:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=81)** It is best practice in a relational [[Database Design]] to have some kind of unique identifier for every row in every table of your database called the primary key.
 >
 > **[1:31](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=91)** This could be a single column or multiple columns put together to make a unique combination.
 >
@@ -412,11 +406,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=139)** That way, you won't add a surrogate key value that doesn't mean anything.
 >
-> **[2:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=144)** Now we've definitely covered a lot of ground in this section, and I'm sure that you're eager to start writing actual SQL code, and I promise, we're almost there.
+> **[2:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/surrogate-primary-and-foreign-keys?u=76281980&t=144)** Now we've definitely covered a lot of ground in this section, and I'm sure that you're eager to start writing actual [[SQL]] code, and I promise, we're almost there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2), short for (1), is called (1)
 > **Env Vars:** sql (2), guid (1)
 > **CLI Commands:** make (1)
@@ -429,8 +423,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL data types and nullability
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980)
+#### [SQL data types and nullability](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +431,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=12)** Data types define what kind of information is stored in a particular column, as well as how much precision is allowed in that data point.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=21)** There are a number of different options available in SQL Server and we will only cover a handful here, but the basic ones are broken down into numbers, strings and characters, dates and times, and true/false values.
+> **[0:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=21)** There are a number of different options available in [[Microsoft SQL Server|SQL Server]] and we will only cover a handful here, but the basic ones are broken down into numbers, strings and characters, dates and times, and true/false values.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=37)** For numbers, we can store whole numbers with the data type INT, and we can store decimals using either DECIMAL or NUMERIC, which are pretty much interchangeable, so you can decide whichever one you prefer.
 >
@@ -464,34 +457,33 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=130)** So those are some of the different ways that we can store data in a table in SQL Server, but there's one more rule that we need to consider, which is whether or not the column is nullable.
 >
-> **[2:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=141)** We deal with the concept of NULL in a couple of different ways in SQL, but in regard to its use at the table level, it answers the question of whether or not this is a required data point.
+> **[2:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=141)** We deal with the concept of NULL in a couple of different ways in [[SQL]], but in regard to its use at the table level, it answers the question of whether or not this is a required data point.
 >
 > **[2:32](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=152)** The term NULL just means that there is nothing stored in that column.
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=156)** So if a column is defined as NULL that means that it is optional to have something saved there and logically NOT NULL means that you must provide input for this data point.
 >
-> **[2:49](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=169)** And with that, we have made it through all of our database design concepts and we can get to actually writing some code.
+> **[2:49](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980&t=169)** And with that, we have made it through all of our [[Database Design]] concepts and we can get to actually writing some code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[Database Design]] (1)
 > **Env Vars:** null (4), sql (3), datetime (3), int (1), decimal (1)
 > **Definitions:** means that (2), is a  (1), defined as (1)
 > **SQL:** varchar (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading from a single table in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980)
+#### [Reading from a single table in SQL](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=0)** - [Instructor] We have finally arrived at the coding portion of our show, and we're going to start with the most basic operation, which is reading from a single table.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=8)** To do that, we're going to build what's known as a select statement, where you're going to select what columns you want to look at, and tell SQL Server what tables those columns should be coming from using a from clause.
+> **[0:08](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=8)** To do that, we're going to build what's known as a select statement, where you're going to select what columns you want to look at, and tell [[Microsoft SQL Server|SQL Server]] what tables those columns should be coming from using a from clause.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=23)** So let's move over to SSMS so we can see this in action.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=28)** As you can see, I've already connected to the server on my machine and I'm going to go ahead and expand my Databases folder by clicking on the plus sign to the left.
+> **[0:28](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=28)** As you can see, I've already connected to the server on my machine and I'm going to go ahead and expand my [[Databases]] folder by clicking on the plus sign to the left.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/reading-from-a-single-table-in-sql?u=76281980&t=38)** And I'm going to be using the sandbox database for this demo, and expand that in the same way.
 >
@@ -601,15 +593,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Code Identifiers:** additional_service (4), minimum_participants (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Env Vars:** sql (1), ssms (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering on a single condition in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980)
+#### [Filtering on a single condition in SQL](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +670,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=204)** Just to note about formatting here, it's perfectly fine that I put this whole list on one line.
 >
-> **[3:29](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=209)** This little symbol means that I just dropped to the next line because white space doesn't mean anything in SQL server.
+> **[3:29](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=209)** This little symbol means that I just dropped to the next line because white space doesn't mean anything in [[Microsoft SQL Server|SQL server]].
 >
 > **[3:37](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=217)** If I decided that I wanted to put everything in one list like this, I can do that.
 >
@@ -713,7 +704,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=318)** In this case, I'm going to use the percent sign.
 >
-> **[5:20](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=320)** There are several different wild card options that you can look up on Microsoft's website but the percent sign is the most used and is the most universal.
+> **[5:20](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=320)** There are several different wild card options that you can look up on [[Microsoft]]'s website but the percent sign is the most used and is the most universal.
 >
 > **[5:31](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=331)** So if I just run this, I get everything that starts with gift basket delivery.
 >
@@ -729,13 +720,13 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=361)** So run it like that.
 >
-> **[6:03](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=363)** And we get everything that contains the word party.
+> **[6:03](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=363)** And we get everything that contains the [[Microsoft Word|word]] party.
 >
 > **[6:07](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=367)** And then just like we have not equal, not in should come as no surprise that we also have not like, so we'll get everything except the things that start with gift basket delivery.
 >
 > **[6:26](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=386)** We can also do range searches in SQL server.
 >
-> **[6:30](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=390)** So if we want to find the rows where the price per person is between 75 and 125, thankfully SQL is an English-based language, so we can basically almost type exactly what's there.
+> **[6:30](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=390)** So if we want to find the rows where the price per person is between 75 and 125, thankfully [[SQL]] is an English-based language, so we can basically almost type exactly what's there.
 >
 > **[6:43](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-a-single-condition-in-sql?u=76281980&t=403)** So where a service name between 75 and 125.
 >
@@ -813,7 +804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (5), next (2), [[Microsoft Word|Word]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Word|Word]] (2), [[Microsoft]] (1), [[SQL]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** sql (6)
 > **Warnings:** be careful (3), warning (1)
@@ -822,12 +813,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering on multiple conditions in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980)
+#### [Filtering on multiple conditions in SQL](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=0)** - [Instructor] In analysis, it's often useful to consider more than one data point at a time, and SQL uses logical operators 'and' and 'or' on the 'where' clause to accomplish that.
+> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=0)** - [Instructor] In analysis, it's often useful to consider more than one data point at a time, and [[SQL]] uses logical operators 'and' and 'or' on the 'where' clause to accomplish that.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=12)** The basic rules of logical operators in other contexts, like mathematics, apply here in SQL as well.
 >
@@ -923,7 +913,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=353)** What I'm actually asking right now is for conditions where the price is less than 30 and it's catering, or give me any rows that are a gift basket.
 >
-> **[6:07](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=367)** So to fix this, I'm going to use parentheses, to make it really clear to SQL Server how I want to group these conditions together.
+> **[6:07](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=367)** So to fix this, I'm going to use parentheses, to make it really clear to [[Microsoft SQL Server|SQL Server]] how I want to group these conditions together.
 >
 > **[6:17](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/filtering-on-multiple-conditions-in-sql?u=76281980&t=377)** So I'm going to say and the service name is like catering or the service name is like gift.
 >
@@ -939,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (4), ssms (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
@@ -948,8 +938,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Filtering dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-filtering-date-25273028?u=76281980)
+#### [Solution: Filtering dates](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-filtering-date-25273028?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,8 +990,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inner joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980)
+#### [Inner joins](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1024,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980&t=154)** So you can technically use whatever you want for your table alias, but I try to make it kind of obvious what table it's referencing, so I'll use like P for the product table, and maybe OF for oil flavor, but you can see here that the text turned blue.
 >
-> **[2:49](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980&t=169)** If you're using SSMS, that's an indicator that this is a reserved word, which means that it means something specific to SQL Server, so I can't use it in this context, so instead I'm just going to use F.
+> **[2:49](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980&t=169)** If you're using SSMS, that's an indicator that this is a reserved [[Microsoft Word|word]], which means that it means something specific to [[Microsoft SQL Server|SQL Server]], so I can't use it in this context, so instead I'm just going to use F.
 >
 > **[3:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980&t=181)** Okay, so I have my two tables listed, now okay, how do I connect those things together?
 >
@@ -1072,7 +1060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), data (9), database (2), [[Microsoft SQL Server|Sql server]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dbo (2), sql (2), ssms (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), just like (1)
@@ -1081,8 +1069,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple inner joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/multiple-inner-joins?u=76281980)
+#### [Multiple inner joins](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/multiple-inner-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1144,14 +1131,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (17), game (1), database (1)
 > **Env Vars:** erd (1), ert (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Inner joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-inner-joins-25268782?u=76281980)
+#### [Solution: Inner joins](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-inner-joins-25268782?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,15 +1166,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** inner (1), join (1), concat (1)
 > **CLI Commands:** make (1)
 > **SQL:** inner join (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/outer-joins?u=76281980)
+#### [Outer joins](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,12 +1272,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3), database (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Working with multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-working-with-multiple-tables-25273053?u=76281980)
+#### [Solution: Working with multiple tables](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-working-with-multiple-tables-25273053?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-working-with-multiple-tables-25273053?u=76281980&t=32)** And our join condition is where the customer ID is the same in both tables.
 >
-> **[0:46](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-working-with-multiple-tables-25273053?u=76281980&t=46)** And if I were writing a regular SQL server query, I would not need this outer keyword.
+> **[0:46](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-working-with-multiple-tables-25273053?u=76281980&t=46)** And if I were writing a regular [[Microsoft SQL Server|SQL server]] query, I would not need this outer keyword.
 >
 > **[0:53](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-working-with-multiple-tables-25273053?u=76281980&t=53)** But because we're following ANSI standard with CoderPad, we do need to include that here.
 >
@@ -1336,13 +1317,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), ansi (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/subqueries?u=76281980)
+#### [Subqueries](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,7 +1398,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/subqueries?u=76281980&t=279)** So now you might be wondering, if an inner join can filter my results and a subquery can filter my results and give me the same answer, how do I know which one to use when?
 >
-> **[4:51](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/subqueries?u=76281980&t=291)** Well, the short answer is that sometimes SQL Server can resolve a complicated query or a query that involves really big tables more quickly if you do your filtering with a subquery.
+> **[4:51](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/subqueries?u=76281980&t=291)** Well, the short answer is that sometimes [[Microsoft SQL Server|SQL Server]] can resolve a complicated query or a query that involves really big tables more quickly if you do your filtering with a subquery.
 >
 > **[5:03](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/subqueries?u=76281980&t=303)** So I would recommend using those when you can.
 >
@@ -1428,7 +1408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **Code Identifiers:** city_state_zip (4), city_name (2), city_state_zip_id (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1440,14 +1420,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Case statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980)
+#### [Case statements](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=0)** - [Instructor] If this course were an album, I would call this last section, the bonus tracks.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=5)** You could do a lot with just what we've gone over already but I want to give you a couple more tools to help you with data manipulation.
+> **[0:05](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=5)** You could do a lot with just what we've gone over already but I want to give you a couple more tools to help you with [[Data Manipulation]].
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=14)** There are times when you might want to present the data a little differently than it's available to you in your table, or you might want to show different texts depending on the data state.
 >
@@ -1457,7 +1436,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=31)** So first we've got this scalar variable, which we declare and then name with the @ symbol at the front.
 >
-> **[0:39](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=39)** And then we told SQL server, what kind of data we're going to hold in this variable.
+> **[0:39](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=39)** And then we told [[Microsoft SQL Server|SQL server]], what kind of data we're going to hold in this variable.
 >
 > **[0:44](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980&t=44)** And then this case we're using an int.
 >
@@ -1641,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (2), [[Data Manipulation]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Data Manipulation]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1649,8 +1628,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Case statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-case-statement-25273054?u=76281980)
+#### [Solution: Case statement](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-case-statement-25273054?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,18 +1658,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980)
+#### [Built-in functions](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=0)** - [Instructor] While SQL server gives you some standard tools for building queries that we've gone over already like select, from, where, joins it also provides some other handy tools for manipulating data, and those are called built-in functions.
+> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=0)** - [Instructor] While [[Microsoft SQL Server|SQL server]] gives you some standard tools for building queries that we've gone over already like select, from, where, joins it also provides some other handy tools for manipulating data, and those are called built-in functions.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=16)** Built-in functions can be used right alongside the rest of your code and requires zero or more inputs.
+> **[0:16](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=16)** Built-in functions can be used right alongside the [[Representational State Transfer (REST)|rest]] of your code and requires zero or more inputs.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=23)** This varies depending on which function you're using, and then it returns a single value.
 >
@@ -1727,7 +1703,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=121)** You can use either of these to transform your data into any compatible data type.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=125)** But cast is the ANSI standard and convert is SQL specific and includes optional style numbers.
+> **[2:05](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=125)** But cast is the ANSI standard and convert is [[SQL]] specific and includes optional style numbers.
 >
 > **[2:14](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=134)** And while either of them works and sometimes the style numbers can be useful, I would lean toward cast because it's considered more of the gold standard for coding.
 >
@@ -1889,23 +1865,22 @@ created: 2026-05-02
 >
 > **[11:01](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=661)** And now these are only a few examples of the built-in functions available for SQL server.
 >
-> **[11:07](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=667)** You can find more information on these, which are noted as scalar functions here from the Microsoft documentation.
+> **[11:07](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/built-in-functions?u=76281980&t=667)** You can find more information on these, which are noted as scalar functions here from the [[Microsoft]] documentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft SQL Server|Sql server]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** sysdatetime (5), sql (4), ansi (3), getdate (3)
 > **CLI Commands:** make (8), find (2)
 > **Definitions:** is a  (1), known as (1), means that (1), is an  (1)
 > **Warnings:** be aware (1), be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980)
+#### [Aggregates](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980&t=0)** - [Instructor] Doing calculations across multiple rows to find a sum or an average can be a common operation in data analysis and SQL Server provides aggregate functions to do these computations.
+> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980&t=0)** - [Instructor] Doing calculations across multiple rows to find a sum or an average can be a common operation in data analysis and [[Microsoft SQL Server|SQL Server]] provides aggregate functions to do these computations.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980&t=12)** To do this, we simply have to write a query that indicates how we want to collapse in group rows to do our analysis.
 >
@@ -1957,19 +1932,18 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980&t=243)** And again, these are just a few examples of what SQL Server has to offer for aggregate functions.
 >
-> **[4:09](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980&t=249)** And you can find more options here, in the Microsoft documentation.
+> **[4:09](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/aggregates?u=76281980&t=249)** And you can find more options here, in the [[Microsoft]] documentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft]] (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** sql (3)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Aggregates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-aggregates-25268783?u=76281980)
+#### [Solution: Aggregates](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/solution-aggregates-25268783?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,13 +1973,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Query processing order
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/query-processing-order?u=76281980)
+#### [Query processing order](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/query-processing-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +2001,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/query-processing-order?u=76281980&t=63)** I could order by multiple columns, the count, and then by the full name, if I wanted to do that, and then the last option is that I could actually order by this column alias instead of the aggregate, or instead of if I gave this an alias of customer_name, I could order it by any column alias.
 >
-> **[1:26](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/query-processing-order?u=76281980&t=86)** And this is something that's unique to the ORDER BY clause in SQL Server.
+> **[1:26](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/query-processing-order?u=76281980&t=86)** And this is something that's unique to the ORDER BY clause in [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:33](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/query-processing-order?u=76281980&t=93)** And the reason that we can refer to a column alias in the ORDER BY clause but not in other places in our query is because of the order in which the server resolves the query that we've provided.
 >
@@ -2071,7 +2043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (1), next (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** where (5), order (4), group (3), sql (1), select (1)
 > **SQL:** where (5), order by (4), group by (3), select (1), having (1)
 > **Code Identifiers:** full_name (1), customer_name (1)
@@ -2083,18 +2055,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=0)** - [Instructor] That wraps things up for this course, but if you're looking for more information about all of the features included in SQL Server, you can always check out the documentation available on Microsoft's website.
+> **[0:00](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=0)** - [Instructor] That wraps things up for this course, but if you're looking for more information about all of the features included in [[Microsoft SQL Server|SQL Server]], you can always check out the documentation available on [[Microsoft]]'s website.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=12)** If you're searching for help from other SQL developers, I also recommend checking out Stack Overflow, which is a forum for discussing coding problems and solutions.
+> **[0:12](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=12)** If you're searching for help from other [[SQL]] developers, I also recommend checking out Stack Overflow, which is a forum for discussing coding problems and solutions.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=21)** Or there's also a hashtag on Twitter, #sqlhelp, if you're stuck and want to ask a specific question.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=29)** If you liked this format and wish to expand your knowledge of SQL Server through a more in-depth course, through LinkedIn Learning, I would suggest you check out the Microsoft SQL Server Essential Training course for the latest version of SQL Server.
+> **[0:29](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=29)** If you liked this format and wish to expand your knowledge of SQL Server through a more in-depth course, through [[LinkedIn]] Learning, I would suggest you check out the [[Microsoft SQL Server]] Essential Training course for the latest version of SQL Server.
 >
 > **[0:44](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980&t=44)** Thank you so much for joining me and happy coding.
 

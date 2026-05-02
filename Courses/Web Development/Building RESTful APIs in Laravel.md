@@ -87,26 +87,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building RESTful APIs in Laravel
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980)
+#### [Building RESTful APIs in Laravel](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=0)** - [Zuzana] In today's global world, we are connected like never before.
 >
-> **[0:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=4)** But have you ever wondered what is the best way to share your data with the rest of the world?
+> **[0:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=4)** But have you ever wondered what is the best way to share your data with the [[Representational State Transfer (REST)|rest]] of the world?
 >
 > **[0:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=9)** The best way is by using an API.
 >
-> **[0:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=12)** Application programming interfaces allow various devices to interact and exchange data using a simple set of commands.
+> **[0:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=12)** [[Application Programming Interfaces (API)|Application programming interfaces]] allow various devices to interact and exchange data using a simple set of commands.
 >
 > **[0:21](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=21)** RESTful API follows the REST architectural style which defines what API looks like.
 >
-> **[0:27](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=27)** I am Zuzana Kunckova, a Laravel developer and the founder of Larabelles, the Laravel community for women.
+> **[0:27](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=27)** I am Zuzana Kunckova, a [[Laravel]] developer and the founder of Larabelles, the Laravel community for women.
 >
 > **[0:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=34)** As a full-stack developer, I work with APIs and their integration in my work every day, and I'm excited to share my knowledge with you.
 >
-> **[0:42](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=42)** By joining me in this LinkedIn learning course, you will discover the essentials of APIs, why we need them, how we use them in our daily life, and how we can build a simple RESTful API using one of the most popular, if not the most popular PHP framework, Laravel.
+> **[0:42](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=42)** By joining me in this [[LinkedIn]] learning course, you will discover the essentials of APIs, why we need them, how we use them in our daily life, and how we can build a simple RESTful API using one of the most popular, if not the most popular [[PHP]] framework, Laravel.
 >
 > **[0:59](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980&t=59)** Given the popularity of PHP and Laravel in particular and the importance of RESTful APIs in today's world, learning how to build RESTful APIs in Laravel will provide you with highly sought-after skills that will help you further your career.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (5), api (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[Laravel]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[PHP]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (4), php (2), rest (1)
 > **CLI Commands:** php (2)
 > **Speakers:** - [zuzana] (1)
@@ -124,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### API overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980)
+#### [API overview](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,11 +147,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=48)** They follow a common set of guidelines to make sure that they are consistent in their design and implementation.
 >
-> **[0:55](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=55)** There are different sets of standards such as SOAP or GraphQL.
+> **[0:55](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=55)** There are different sets of standards such as SOAP or [[GraphQL]].
 >
-> **[0:59](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=59)** But in this course we will look into REST.
+> **[0:59](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=59)** But in this course we will look into [[Representational State Transfer (REST)|REST]].
 >
-> **[1:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=62)** REST stands for Representational State Transfer.
+> **[1:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=62)** REST stands for [[Representational State Transfer (REST)|Representational State Transfer]].
 >
 > **[1:06](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=66)** It is a software architectural style used to create web APIs.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=89)** I'm not going to go into any further detail about what a RESTful API is in this course.
 >
-> **[1:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=94)** But if you wish to learn more, check out additional courses on LinkedIn learning, The most common used case for web APIs is data retriever.
+> **[1:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=94)** But if you wish to learn more, check out additional courses on [[LinkedIn]] learning, The most common used case for web APIs is data retriever.
 >
 > **[1:43](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=103)** Larry Klein which could be a service or an application makes the request to the web server of the API provider.
 >
@@ -173,9 +171,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=118)** This might sound very similar to the request response cycle between a standard webpage and a server.
 >
-> **[2:05](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=125)** The major difference is that a webpage request returns HTML, CSS and JavaScript.
+> **[2:05](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=125)** The major difference is that a webpage request returns [[HTML]], CSS and [[JavaScript]].
 >
-> **[2:11](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=131)** While an API request returns most commonly JSON objects.
+> **[2:11](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=131)** While an API request returns most commonly [[JSON]] objects.
 >
 > **[2:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980&t=135)** JSON, which stands for JavaScript Object Notation is meant to be passed by a computer program rather than a person.
 >
@@ -185,15 +183,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), application (4), web (4), [[Representational State Transfer (REST)|Rest]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[JavaScript]] (2), [[JSON]] (2), [[GraphQL]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** api (6), rest (3), json (2), soap (1), html (1)
 > **Definitions:** is a  (3), stands for (2), is an  (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### APIs in the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980)
+#### [APIs in the real world](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=15)** The data will be received from a third party weather API.
 >
-> **[0:20](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=20)** My Android phone is using the Weather Channel API.
+> **[0:20](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=20)** My [[Android]] phone is using the Weather Channel API.
 >
 > **[0:23](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=23)** Other phones or services might use the AccuWeather API.
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=62)** It's good advertising for the company to have a good quality, secure API.
 >
-> **[1:07](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=67)** Another reason may be that the API can expand the reach of the company by making their data available to users, and to enable developers to build products that are reliant on their service, and to keep them coming back.
+> **[1:07](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=67)** Another reason may be that the API can expand the reach of the company by making their data available to users, and to enable developers to build [[Microsoft Products|products]] that are reliant on their service, and to keep them coming back.
 >
 > **[1:20](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=80)** Companies may build an API to be able to reuse the same functionality, and not have to reinvent the wheel over and over.
 >
@@ -233,17 +230,16 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=99)** All in all, APIs are everywhere.
 >
-> **[1:42](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=102)** In this course, we will learn how to build a service-side API in Laravel.
+> **[1:42](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/apis-in-the-real-world?u=76281980&t=102)** In this course, we will learn how to build a service-side API in [[Laravel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), data (4), [[Android]] (1), [[Microsoft Products|Products]] (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Microsoft Products|Products]] (1), [[Laravel]] (1)
 > **Env Vars:** api (13)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Our application: ePetitions API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980)
+#### [Our application: ePetitions API](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,28 +261,27 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980&t=52)** Our petitions will have a title, a category, a description of a cause, an author, and a number of signatures.
 >
-> **[1:01](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980&t=61)** While building this API, we will learn how to seed databases with fake data, and we will learn how to test our code with Postman, a popular, free app for API development.
+> **[1:01](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980&t=61)** While building this API, we will learn how to seed [[Databases]] with fake data, and we will learn how to test our code with Postman, a popular, free app for [[API Development]].
 >
-> **[1:14](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980&t=74)** Having completed this course, you will be able to build a simple RESTful API in Laravel, and test the API using Postman.
+> **[1:14](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/our-application-epetitions-api?u=76281980&t=74)** Having completed this course, you will be able to build a simple RESTful API in [[Laravel]], and test the API using Postman.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Databases]] (1), data (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[API Development]] (1), [[Laravel]] (1)
 > **Env Vars:** api (7)
 > **Code Identifiers:** epetitions (1), epetition (1)
 > **Tools:** postman (2)
 > **Speakers:** - [instructor] (1)
 
-#### The basics of Laravel 8
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980)
+#### [The basics of Laravel 8](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=0)** - [Narrator] I will assume that you have a fresh Laravel 8 installation ready.
+> **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=0)** - [Narrator] I will assume that you have a fresh [[Laravel]] 8 installation ready.
 >
 > **[0:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=4)** If you don't, go to the Laravel documentation and follow the instructions there.
 >
-> **[0:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=9)** I am using PHP artisan to run my site locally but feel free to use Valet, Homestead MAMP, Laragon or any other local development environment.
+> **[0:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=9)** I am using [[PHP]] artisan to run my site locally but feel free to use Valet, Homestead MAMP, Laragon or any other local development environment.
 >
 > **[0:22](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=22)** Once you have a brand new Laravel 8 project running locally, we are ready to begin.
 >
@@ -302,7 +297,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=54)** And as credentials updated in the Dotenv file.
 >
-> **[0:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=57)** To view the data in the database, I am using the Beekeeper Studio which is a free open source SQL editor and database manager available for all operating systems, Mac, Windows, and Linux but feel free to send that application such as TablePlus or phpMyAdmin.
+> **[0:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=57)** To view the data in the database, I am using the Beekeeper Studio which is a free open source [[SQL]] editor and database manager available for all operating systems, Mac, [[Windows]], and [[Linux]] but feel free to send that application such as TablePlus or phpMyAdmin.
 >
 > **[1:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=76)** I've created a new database called E petition which is empty for now.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=144)** The database directory is where we will create our model factory, our migrations and our Cedar to see the database with some data.
 >
-> **[2:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=152)** Migrations are like a version control for our database.
+> **[2:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=152)** Migrations are like a [[Version Control]] for our database.
 >
 > **[2:35](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-basics-of-laravel-8?u=76281980&t=155)** Every time we want to create a database schema, we use a migration.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Laravel]] (8), api (5), [[PHP]] (4), application (3)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[PHP]] (4), [[SQL]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** api (5), php (4), ide (2), mamp (1), sql (1)
 > **CLI Commands:** php (4), make (2)
 > **Definitions:** is a  (4), stands for (1)
@@ -364,8 +359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The project infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980)
+#### [The project infrastructure](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=17)** Each database table has a corresponding model which is used to query the data or add new data to the table.
 >
-> **[0:25](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=25)** We can use php artisans to create our model by running php artisan: make model Petition in the terminal.
+> **[0:25](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=25)** We can use [[PHP]] artisans to create our model by running php artisan: make model Petition in the terminal.
 >
 > **[0:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=32)** The convention is to use the singular case.
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=112)** We can create a controller that will automatically exclude these two methods by adding the flag --API to the artisan commands.
 >
-> **[2:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=120)** And because we will be using Laravel model route binding, let's also add the --model equal petition flag to specify the resource model.
+> **[2:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=120)** And because we will be using [[Laravel]] model route binding, let's also add the --model equal petition flag to specify the resource model.
 >
 > **[2:10](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=130)** Let's run this command now.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=145)** Finally, let's create an API resource class.
 >
-> **[2:28](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=148)** API resources are templates where you define how you want the JSON data to be returned back to the user when they send an API request.
+> **[2:28](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=148)** API resources are templates where you define how you want the [[JSON]] data to be returned back to the user when they send an API request.
 >
 > **[2:37](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980&t=157)** Let's run php artisan make: resource PetitionResource.
 >
@@ -445,21 +439,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[PHP]] (6), data (3), [[Laravel]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Laravel]] (3), [[JSON]] (2)
 > **Env Vars:** api (12), json (2)
 > **CLI Commands:** php (6), make (4)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the database structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980)
+#### [Creating the database structure](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=0)** - [Instructor] Earlier, we created a brand new database and a migration file that will allow us to define how our petitions table will look like.
 >
-> **[0:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=9)** Migrations are not just a convenient way to create a database structure, they also serve as a version control, they are a great way to keep track of any changes to the database structure over time and across a team of developers.
+> **[0:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=9)** Migrations are not just a convenient way to create a database structure, they also serve as a [[Version Control]], they are a great way to keep track of any changes to the database structure over time and across a team of developers.
 >
 > **[0:21](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=21)** Every time we or anyone on our team creates a new table or makes changes to an existing table, the record of this action will be saved in our database migrations directory.
 >
@@ -503,7 +496,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=147)** So let's get rid of these nullable calls.
 >
-> **[2:31](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=151)** You can check out old available column types and Laravel documentation.
+> **[2:31](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=151)** You can check out old available column types and [[Laravel]] documentation.
 >
 > **[2:35](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=155)** There are many more than just string, text and integer.
 >
@@ -511,7 +504,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=164)** As you can see, it's empty there are no tables there.
 >
-> **[2:48](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=168)** Now let's run the migration by calling php artisan migrate in the terminal.
+> **[2:48](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=168)** Now let's run the migration by calling [[PHP]] artisan migrate in the terminal.
 >
 > **[2:55](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=175)** Here as you can see, Laravel is telling us that migration table was created successfully which is this one, the petitions table, and all the other tables they already came with Laravel by default, such as the create users table, create passports resets table and create failed jobs table have all been migrated successfully as well.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=252)** For this, we must require the doctrine dbal library.
 >
-> **[4:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=255)** Because this library is used to determine the current state of the column and create the required SQL query to modify it as per our instructions.
+> **[4:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=255)** Because this library is used to determine the current state of the column and create the required [[SQL]] query to modify it as per our instructions.
 >
 > **[4:23](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-the-database-structure?u=76281980&t=263)** But it doesn't come at Laravel by default.
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Laravel]] (9), [[PHP]] (2), [[Version Control]] (1), data (1)
+> **Frameworks & Libraries:** [[Laravel]] (9), [[PHP]] (2), [[Version Control]] (1), [[SQL]] (1)
 > **Code Identifiers:** e_petitions (1), failed_jobs (1), password_resets (1), created_at (1), updated_at (1)
 > **Definitions:** stands for (3), is a  (2), means that (1)
 > **CLI Commands:** php (2), make (1), composer (1), find (1)
@@ -610,8 +603,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 
-#### Creating a model factory and seeder
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980)
+#### [Creating a model factory and seeder](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +655,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=128)** And it will be this faker.
 >
-> **[2:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=132)** And now we are asking faker to create a word for us.
+> **[2:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=132)** And now we are asking faker to create a [[Microsoft Word|word]] for us.
 >
 > **[2:17](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=137)** For the category, we will run this faker again.
 >
@@ -693,7 +685,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=227)** Don't forget to import the petition class to the top of the file, there you go.
 >
-> **[3:53](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=233)** And now let's go call the php artisan db command from the terminal.
+> **[3:53](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=233)** And now let's go call the [[PHP]] artisan db command from the terminal.
 >
 > **[4:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/creating-a-model-factory-and-seeder?u=76281980&t=240)** As you can see, database seeding was completed successfully and let's check out database.
 >
@@ -749,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (11), [[Microsoft Word|Word]] (2), [[PHP]] (2), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[PHP]] (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** api (1), phb (1), php (1)
 > **CLI Commands:** php (2)
@@ -758,12 +750,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** don't forget (1)
 
-#### Setting up the RESTful API routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980)
+#### [Setting up the RESTful API routes](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=0)** - [Instructor] As I mentioned earlier in the course, when creating API route, we work in the api.php file.
+> **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=0)** - [Instructor] As I mentioned earlier in the course, when creating API route, we work in the api.[[PHP]] file.
 >
 > **[0:08](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=8)** Within this file, the api URL prefix is automatically applied to the URL.
 >
@@ -791,7 +782,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=121)** There may be a time where the controller only has some actions, such as the index or the show action.
 >
-> **[2:07](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=127)** In this case, we can use the Route::resource method to instruct Laravel that we only need specific routes.
+> **[2:07](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=127)** In this case, we can use the Route::resource method to instruct [[Laravel]] that we only need specific routes.
 >
 > **[2:14](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=134)** We would say Route::resource, then send it to the petitions endpoint associated with the PetitionController, and then we chain the only method that accepts an array of control actions we want to create.
 >
@@ -827,7 +818,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=233)** Spotify's base URL is [https://api](https://api) .[spotify.com/v1](https://spotify.com/v1).
 >
-> **[4:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=244)** If you send a GET request to /albums, you will receive JSON response with all albums.
+> **[4:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=244)** If you send a GET request to /albums, you will receive [[JSON]] response with all albums.
 >
 > **[4:11](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/setting-up-the-restful-api-routes?u=76281980&t=251)** If you send a GET request to /albums/id of an album, you will receive a response with the details of a specific album.
 >
@@ -837,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[PHP]] (3), data (2), [[Laravel]] (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Laravel]] (1), [[JSON]] (1)
 > **Env Vars:** url (8), api (7), http (3), uri (2), post (1)
 > **API Endpoints:** get  (5), post  (1)
 > **CLI Commands:** php (3), find (1)
@@ -846,8 +837,7 @@ created: 2026-05-02
 > **URLs:** [https://api](https://api) (1), [spotify.com](https://spotify.com) (1)
 > **Cross-References:** earlier in (1)
 
-#### Challenge: Creating an author resource infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-creating-an-author-resource-infrastructure?u=76281980)
+#### [Challenge: Creating an author resource infrastructure](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-creating-an-author-resource-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-creating-an-author-resource-infrastructure?u=76281980&t=9)** In this challenge, I'm going to ask you to create a brand new resource for an author, because as a part of our e-petitions API we might want to allow our users to display all petitions created by one author.
 >
-> **[0:21](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-creating-an-author-resource-infrastructure?u=76281980&t=21)** I'd like you to create an author model, a controller, routes, API resource, migration, factory and a seeder using PHP artisan.
+> **[0:21](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-creating-an-author-resource-infrastructure?u=76281980&t=21)** I'd like you to create an author model, a controller, routes, API resource, migration, factory and a seeder using [[PHP]] artisan.
 >
 > **[0:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-creating-an-author-resource-infrastructure?u=76281980&t=32)** Don't worry about making all these classes work yet.
 >
@@ -875,24 +865,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Env Vars:** api (2), php (1)
 > **CLI Commands:** php (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating an author resource infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980)
+#### [Solution: Creating an author resource infrastructure](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=0)** - [Instructor] Hopefully you were able to solve the challenge, but if not, don't worry, let's do it together now.
 >
-> **[0:10](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=10)** We can create the Author model, migration factory, and seeder by using a single php artisan command.
+> **[0:10](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=10)** We can create the Author model, migration factory, and seeder by using a single [[PHP]] artisan command.
 >
 > **[0:17](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=17)** In our terminal, let's type php artisan make:model: Author, -m for migration, f for factory, s for seeder.
 >
-> **[0:28](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=28)** Next, let's create an API controller and set Laravel route model binding on it.
+> **[0:28](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=28)** Next, let's create an API controller and set [[Laravel]] route model binding on it.
 >
 > **[0:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-creating-an-author-resource-infrastructure?u=76281980&t=34)** In the terminal, let's type php artisan make:controller AuthorController, and because we want this to be an API controller, we add the --api flag, and to set Laravel's route model binding on it, we do --model=Author.
 >
@@ -934,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), api (5), [[Laravel]] (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Laravel]] (2)
 > **CLI Commands:** php (6), make (4)
 > **Env Vars:** api (3)
 > **Tools:** terminal (3)
@@ -948,22 +937,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using API resources to display all petitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980)
+#### [Using API resources to display all petitions](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=0)** - [Instructor] Let's work on a petition controller now.
 >
-> **[0:03](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=3)** Open the PetitionController PHP file and let's see the index method.
+> **[0:03](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=3)** Open the PetitionController [[PHP]] file and let's see the index method.
 >
 > **[0:08](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=8)** If we were building a web application, not an API, we would probably do something like this in our index methods.
 >
-> **[0:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=15)** We would fetch all the petitions from the database and save it in the petition variable, and then pass them onto the view.
+> **[0:15](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=15)** We would [[Fetch]] all the petitions from the database and save it in the petition variable, and then pass them onto the view.
 >
-> **[0:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=32)** However, when building an API, we don't pass data to the front end, we return JSON instead.
+> **[0:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=32)** However, when building an API, we don't pass data to the front end, we return [[JSON]] instead.
 >
-> **[0:39](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=39)** And Laravel offers a very convenient way to structure the JSON data called API resources.
+> **[0:39](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=39)** And [[Laravel]] offers a very convenient way to structure the JSON data called API resources.
 >
 > **[0:45](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=45)** API resources are templates that define the structure of JSON data returned in the response.
 >
@@ -1031,7 +1019,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=309)** This data will now be sent with every API response.
 >
-> **[5:13](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=313)** However, if we restart our collection by calling the collection method on the petition of resource it will not return any additional metadata.
+> **[5:13](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=313)** However, if we restart our collection by calling the collection method on the petition of resource it will not return any additional [[Metadata]].
 >
 > **[5:22](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980&t=322)** Let me show you, let's go back to our index method in the petition controller.
 >
@@ -1051,7 +1039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (9), [[PHP]] (6), [[JSON]] (4), database (2)
+> **Frameworks & Libraries:** [[PHP]] (6), [[JSON]] (4), [[Metadata]] (2), [[Fetch]] (1), [[Laravel]] (1)
 > **Env Vars:** api (9), json (4), php (2), http (1), url (1)
 > **CLI Commands:** php (6), make (2)
 > **Cross-References:** go back to (4), previous video (1)
@@ -1060,14 +1048,13 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Code Identifiers:** toarray (1)
 
-#### Saving a new petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980)
+#### [Saving a new petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=0)** - [Instructor] Let's create a new petition.
 >
-> **[0:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=2)** In our PetitionControl.php file, we need to work inside a store method.
+> **[0:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=2)** In our PetitionControl.[[PHP]] file, we need to work inside a store method.
 >
 > **[0:11](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=11)** To create a new petition, we create a new petition variable, use the create method on the petition model, and pass in the fields that we want from the request object.
 >
@@ -1079,7 +1066,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=47)** However, before we can actually save a new petition in the database, there is one more data protection action we have to do.
 >
-> **[0:56](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=56)** All Laravel Eloquent models are protected against the mass assignment vulnerabilities by default.
+> **[0:56](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=56)** All [[Laravel]] Eloquent models are protected against the mass assignment vulnerabilities by default.
 >
 > **[1:03](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/saving-a-new-petition?u=76281980&t=63)** And by using the create methods, we are sending an array of data to our database.
 >
@@ -1113,14 +1100,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), database (2), data (2), next (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (1)
 > **CLI Commands:** php (2)
 > **File Paths:** petitioncontrol.php (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying a specific petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980)
+#### [Displaying a specific petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,9 +1122,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=58)** Again, to stop our ID from complaining let's also change the doc block.
 >
-> **[1:06](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=66)** Let's go to the browser and fetch details of petition ID number five, before we do that.
+> **[1:06](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=66)** Let's go to the browser and [[Fetch]] details of petition ID number five, before we do that.
 >
-> **[1:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=72)** Again, let's remember to make sure that PHP artisan surf is running.
+> **[1:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=72)** Again, let's remember to make sure that [[PHP]] artisan surf is running.
 >
 > **[1:18](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=78)** This is our home page.
 >
@@ -1170,11 +1156,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=163)** API resources are a very powerful way to transform the data.
 >
-> **[2:47](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=167)** And I encourage you to check out the Laravel documentation for more examples.
+> **[2:47](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/displaying-a-specific-petition?u=76281980&t=167)** And I encourage you to check out the [[Laravel]] documentation for more examples.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[PHP]] (2), [[Fetch]] (1), data (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Fetch]] (1), [[Laravel]] (1)
 > **Env Vars:** api (3), php (2)
 > **CLI Commands:** php (2), make (1)
 > **UI Navigation:** go to (2)
@@ -1183,8 +1169,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating an existing petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/updating-an-existing-petition?u=76281980)
+#### [Updating an existing petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/updating-an-existing-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,7 +1189,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/updating-an-existing-petition?u=76281980&t=35)** As for PATCH you only need to send the data that you are updating, not the whole resource.
 >
-> **[0:41](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/updating-an-existing-petition?u=76281980&t=41)** Laravel will accept either a PUT or a PATCH method when our user wants to update a resource.
+> **[0:41](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/updating-an-existing-petition?u=76281980&t=41)** [[Laravel]] will accept either a PUT or a PATCH method when our user wants to update a resource.
 >
 > **[0:47](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/updating-an-existing-petition?u=76281980&t=47)** Let's complete our update method now.
 >
@@ -1238,15 +1223,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (1)
 > **Env Vars:** put (6), patch (5), http (1)
 > **API Endpoints:** put  (6), patch  (4)
 > **Analogies:** similar to (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting a petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980)
+#### [Deleting a petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,7 +1248,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=38)** We will take this petition and call the delete method on it and that's it, very easy.
 >
-> **[0:46](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=46)** Next we have to return a JSON response.
+> **[0:46](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=46)** Next we have to return a [[JSON]] response.
 >
 > **[0:49](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=49)** In the JSON response, the first parameter will be null.
 >
@@ -1300,9 +1284,9 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=236)** And here we have it.
 >
-> **[3:58](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=238)** We have just created very simple, but functioning restful API in Laravel.
+> **[3:58](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=238)** We have just created very simple, but functioning restful API in [[Laravel]].
 >
-> **[4:03](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=243)** You might want to say this API and add pagination, sorting, authentication better data validation, or rate limiting.
+> **[4:03](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=243)** You might want to say this API and add pagination, sorting, authentication better [[Data Validation]], or rate limiting.
 >
 > **[4:11](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/deleting-a-petition?u=76281980&t=251)** These concepts are too advanced for this course but what we have right here is enough to get you started.
 >
@@ -1314,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[JSON]] (4), [[Laravel]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Laravel]] (2), [[Data Validation]] (1)
 > **Env Vars:** http (5), api (4), json (4), http_ok (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -1322,8 +1306,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Building the author resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-building-the-author-resource?u=76281980)
+#### [Challenge: Building the author resource](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-building-the-author-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,14 +1330,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building the author resource
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980)
+#### [Solution: Building the author resource](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1364,7 +1345,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=14)** Now we need to migrate the database.
 >
-> **[0:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=16)** Let's run php artisan migrate in our terminal.
+> **[0:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=16)** Let's run [[PHP]] artisan migrate in our terminal.
 >
 > **[0:21](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=21)** Next, let's add a name field to the fillable array on the author model, otherwise seeding our database will fail.
 >
@@ -1384,7 +1365,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=94)** and again, import AuthorResource at the top of the file.
 >
-> **[1:39](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=99)** You could have also wrote the AuthorCollection and the AuthorResource inside a JSON response, and specified the HTTP status code, but either way is fine, and that's it.
+> **[1:39](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=99)** You could have also wrote the AuthorCollection and the AuthorResource inside a [[JSON]] response, and specified the HTTP status code, but either way is fine, and that's it.
 >
 > **[1:50](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-building-the-author-resource?u=76281980&t=110)** We can check our author's endpoint in the browser to see that we get all 10 authors, and any individual authors we might want.
 >
@@ -1396,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[PHP]] (2), data (2), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[JSON]] (1)
 > **UI Navigation:** go to (2), open the (1), click on (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** json (1), http (1), api (1)
@@ -1409,8 +1390,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980)
+#### [Installing Postman](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=6)** So far, we have been checking the data in the browser but we cannot easily create or delete a resource through the browser which is why we need a different tool.
 >
-> **[0:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=16)** There are many different ways to test an API but in this course, we will be using Postman a free API testing tool.
+> **[0:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=16)** There are many different ways to test an API but in this course, we will be using Postman a free [[API Testing]] tool.
 >
 > **[0:24](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=24)** With postman we can develop test and document APIs it's the all in one tool one may need when working with APIs.
 >
@@ -1436,7 +1416,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=72)** So, I recommend you download the desktop app instead.
 >
-> **[1:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=76)** Postman is available for all Operating Systems Mac, windows, and Linux.
+> **[1:16](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=76)** Postman is available for all Operating Systems Mac, [[Windows]], and [[Linux]].
 >
 > **[1:24](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980&t=84)** Once you download the Postman app, open it up.
 >
@@ -1474,7 +1454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (2), [[Windows]] (1), [[Linux]] (1), prompt (1)
+> **Frameworks & Libraries:** [[API Testing]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** postman (12)
 > **Env Vars:** api (5)
 > **UI Navigation:** open the (1), click on (1), go to (1)
@@ -1483,8 +1463,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** epetitions (1)
 
-#### GET all petitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-all-petitions?u=76281980)
+#### [GET all petitions](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-all-petitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1481,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-all-petitions?u=76281980&t=44)** The request URL will be the full URL of our project as we displayed it in the browser.
 >
-> **[0:49](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-all-petitions?u=76281980&t=49)** But before we send the request, let's make sure we are running PHP artisans server in our terminal.
+> **[0:49](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-all-petitions?u=76281980&t=49)** But before we send the request, let's make sure we are running [[PHP]] artisans server in our terminal.
 >
 > **[0:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-all-petitions?u=76281980&t=57)** I'm going to click on this link which takes me to the project homepage, go to forward slash API, forward slash petitions, to see all petitions in the browser.
 >
@@ -1540,7 +1519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[PHP]] (3), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **Env Vars:** url (5), api (4), php (3)
 > **Tools:** terminal (3), postman (3)
 > **CLI Commands:** php (3), make (1)
@@ -1550,14 +1529,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### POST a new petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980)
+#### [POST a new petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=0)** - [Instructor] Let's test the store method to make sure that we can create a new petition.
 >
-> **[0:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=4)** Looking at the php artisan route:list output, we can see that the method will be POST, the URI will be api/petitions, and the action is the store method on the petition's controller.
+> **[0:04](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=4)** Looking at the [[PHP]] artisan route:list output, we can see that the method will be POST, the URI will be api/petitions, and the action is the store method on the petition's controller.
 >
 > **[0:17](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=17)** If everything works, we will be able to create a brand new petition using Postman increasing the total number of petitions from 50 to 51.
 >
@@ -1569,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=50)** Sending a POST request is slightly more complicated because we have to create the body of the request ourselves.
 >
-> **[0:56](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=56)** Switch to the Body tab, click raw, and select JSON.
+> **[0:56](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=56)** Switch to the Body tab, click raw, and select [[JSON]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/post-a-new-petition?u=76281980&t=62)** To make it easier, we can simply copy one of the petitions from the previous GET request, but make sure you include the curly braces and don't have the trailing comma at the end.
 >
@@ -1601,7 +1579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (1), api (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[JSON]] (1)
 > **Env Vars:** post (5), uri (1), url (1), json (1)
 > **API Endpoints:** post  (4), get  (3)
 > **CLI Commands:** make (3), php (1)
@@ -1610,8 +1588,7 @@ created: 2026-05-02
 > **Code Identifiers:** epetitions (1)
 > **Cross-References:** go back to (1)
 
-#### GET (show) a specific petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980)
+#### [GET (show) a specific petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,7 +1644,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=134)** We can set a data object with a title, category, description, author, and signees.
 >
-> **[2:22](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=142)** Let's go back to PHP storm, and change what the output should look like in the petition resource file.
+> **[2:22](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=142)** Let's go back to [[PHP]] storm, and change what the output should look like in the petition resource file.
 >
 > **[2:29](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=149)** Let's comment out the author and signees quickly.
 >
@@ -1679,7 +1656,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=161)** We no longer see the author and signees there.
 >
-> **[2:44](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=164)** This shows that that our petition JSON resource is working as it should too, well done.
+> **[2:44](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=164)** This shows that that our petition [[JSON]] resource is working as it should too, well done.
 >
 > **[2:50](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/get-show-a-specific-petition?u=76281980&t=170)** Before we go, let's change to petition resource back to what it was before.
 >
@@ -1689,7 +1666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (1), [[PHP]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[JSON]] (1)
 > **Env Vars:** url (7), api (1), uri (1), php (1), json (1)
 > **API Endpoints:** get  (5)
 > **CLI Commands:** make (3), php (1)
@@ -1698,8 +1675,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** don't forget (1)
 
-#### PATCH (update) a petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980)
+#### [PATCH (update) a petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,7 +1693,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=25)** But even if you are not sure which one to use, you can look at the route list.
 >
-> **[0:29](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=29)** You can see that Laravel will accept either of them.
+> **[0:29](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=29)** You can see that [[Laravel]] will accept either of them.
 >
 > **[0:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=34)** I'm going to choose PATCH.
 >
@@ -1731,7 +1707,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=53)** Since we have to create the body of the request ourself.
 >
-> **[0:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=57)** Switch to the body tab, click row, and select JSON.
+> **[0:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=57)** Switch to the body tab, click row, and select [[JSON]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/patch-update-a-petition?u=76281980&t=62)** Let's go to the get a petition request, and request the details of the petition with ID 20.
 >
@@ -1755,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (1), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[JSON]] (1)
 > **Env Vars:** patch (2), put (1), http (1), url (1), json (1)
 > **API Endpoints:** put  (1), patch  (1)
 > **Tools:** postman (2)
@@ -1764,8 +1740,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### DELETE a petition
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980)
+#### [DELETE a petition](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1783,7 +1758,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=34)** This is the status code we define in a destroy method.
 >
-> **[0:37](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=37)** Let's go back to PHP storm, the petition controller, and change it to something else.
+> **[0:37](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=37)** Let's go back to [[PHP]] storm, the petition controller, and change it to something else.
 >
 > **[0:42](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=42)** Just to make sure that the status code will change in our response.
 >
@@ -1805,7 +1780,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=92)** Let's click send and see what happens.
 >
-> **[1:35](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=95)** The response body we receive back is HTML 404 page.
+> **[1:35](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=95)** The response body we receive back is [[HTML]] 404 page.
 >
 > **[1:39](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=99)** And the status code is 404, not found.
 >
@@ -1815,13 +1790,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=112)** You now have a good understanding of how to use Postman to test API.
 >
-> **[1:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=117)** You can take this further and learn even more about what Postman has to offer to your API development workflow by using the official documentation and tutorials.
+> **[1:57](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=117)** You can take this further and learn even more about what Postman has to offer to your [[API Development]] workflow by using the official documentation and tutorials.
 >
 > **[2:06](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/delete-a-petition?u=76281980&t=126)** I'm going to close the tabs now, and save the changes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[PHP]] (1), [[HTML]] (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[HTML]] (1), [[API Development]] (1)
 > **Env Vars:** api (2), http (1), php (1), url (1), html (1)
 > **CLI Commands:** make (2), php (1)
 > **Tools:** postman (2)
@@ -1829,8 +1804,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Testing APIs with Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-testing-apis-with-postman?u=76281980)
+#### [Challenge: Testing APIs with Postman](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/challenge-testing-apis-with-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1856,15 +1830,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Testing APIs with Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980)
+#### [Solution: Testing APIs with Postman](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1884,7 +1856,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=33)** Next, I'm going to send a post request to the petitions API which we saved in the variable petitions.
 >
-> **[0:41](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=41)** I would go to the board at top select row and then JSON.
+> **[0:41](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=41)** I would go to the board at top select row and then [[JSON]].
 >
 > **[0:51](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=51)** Inside curly braces, I'll a JSON object with a title, description, category, author, and signees keys and values.
 >
@@ -1902,7 +1874,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=125)** And yes, I have.
 >
-> **[2:07](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=127)** To make sure the petition has been updated, I'll change the HTTP verb to GET again and fetch the details of the petition with ID 24.
+> **[2:07](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=127)** To make sure the petition has been updated, I'll change the HTTP verb to GET again and [[Fetch]] the details of the petition with ID 24.
 >
 > **[2:18](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/solution-testing-apis-with-postman?u=76281980&t=138)** And yes, the title is the updated title.
 >
@@ -1920,7 +1892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JSON]] (2), api (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Fetch]] (1)
 > **Env Vars:** http (3), json (2), api (1), patch (1), url (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), select the (1)
@@ -1934,18 +1906,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=0)** - [Zuzana] This brings us to the end of the scores.
 >
-> **[0:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=2)** By completing the scores and building the e-petition API, you now have a foundational understanding of what RESTful APIs are and how we can build APIs in Laravel.
+> **[0:02](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=2)** By completing the scores and building the e-petition API, you now have a foundational understanding of what RESTful APIs are and how we can build APIs in [[Laravel]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=13)** This is a great starting point to explore RESTful APIs even further, and to build more complex API solutions.
 >
-> **[0:20](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=20)** If you enjoyed what you learned I recommend the book "Build APIs You Won't Hate" by Phil Sturgeon as well as various API courses in the LinkedIn Learning library.
+> **[0:20](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=20)** If you enjoyed what you learned I recommend the book "Build APIs You Won't Hate" by Phil Sturgeon as well as various API courses in the [[LinkedIn]] Learning library.
 >
 > **[0:32](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980&t=32)** Also make sure you stay up to date with Laravel as the framework is being actively developed and improved.
 >
@@ -1957,7 +1928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (5), api (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Laravel]] (5), [[LinkedIn]] (2)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

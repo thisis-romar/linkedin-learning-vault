@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leadership skills and mindsets for difficult conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/leadership-skills-and-mindsets-for-difficult-conversations-19253142?u=76281980)
+#### [Leadership skills and mindsets for difficult conversations](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/leadership-skills-and-mindsets-for-difficult-conversations-19253142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your conversation style
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/your-conversation-style-19258021?u=76281980)
+#### [Your conversation style](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/your-conversation-style-19258021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,13 +177,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), business (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - on (1)
 
-#### Overcome the main barrier of difficult conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/overcome-the-main-barrier-of-difficult-conversations?u=76281980)
+#### [Overcome the main barrier of difficult conversations](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/overcome-the-main-barrier-of-difficult-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/overcome-the-main-barrier-of-difficult-conversations?u=76281980&t=140)** Maybe you know that your employee is going to get upset and you don't know how to redirect when things get tense.
 >
-> **[2:26](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/overcome-the-main-barrier-of-difficult-conversations?u=76281980&t=146)** Or maybe you don't have a good system to ensure follow up and accountability.
+> **[2:26](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/overcome-the-main-barrier-of-difficult-conversations?u=76281980&t=146)** Or maybe you don't have a good system to ensure follow up and [[Accountability]].
 >
 > **[2:31](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/overcome-the-main-barrier-of-difficult-conversations?u=76281980&t=151)** No one is born knowing how to initiate difficult conversations that stir up emotions, but it's amazing how your confidence and competence increase once you learn and practice these skills.
 >
@@ -274,8 +270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to know it's time for a conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-know-it-s-time-for-a-conversation-19255036?u=76281980)
+#### [How to know it's time for a conversation](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-know-it-s-time-for-a-conversation-19255036?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,13 +332,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### Managing emotions
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980)
+#### [Managing emotions](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=21)** Our emotions can override our good intentions.
 >
-> **[0:24](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=24)** The word emotion actually means disturbance.
+> **[0:24](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=24)** The [[Microsoft Word|word]] emotion actually means disturbance.
 >
 > **[0:28](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=28)** So managing your emotions is the key to successfully initiating and navigating through difficult conversations.
 >
@@ -393,7 +386,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=121)** Another manager friend sees herself as an introvert, a hands-off leader.
 >
-> **[2:05](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=125)** The way she sees herself keeps her from building strong relationships with her team as she hides behind her office door.
+> **[2:05](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=125)** The way she sees herself keeps her from building strong relationships with her team as she hides behind her [[Microsoft Office|office]] door.
 >
 > **[2:13](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/managing-emotions-19258022?u=76281980&t=133)** So how do you see yourself?
 >
@@ -427,14 +420,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it as (1), imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - often (1)
 
-#### How to address avoided issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-address-avoided-issues-19257039?u=76281980)
+#### [How to address avoided issues](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-address-avoided-issues-19257039?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,8 +524,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Online communication mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980)
+#### [Online communication mistakes](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980&t=209)** Remember this, online communications can save you time when the issues are straightforward, simple, and non-emotional.
 >
-> **[3:38](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980&t=218)** But when the stakes are high it calls for other forms of communication.
+> **[3:38](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980&t=218)** But when the stakes are high it calls for other [[Forms]] of communication.
 
 > [!info]- Semantic Content
 >
@@ -628,8 +619,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - trying (1)
 
-#### Playing "power of attorney"
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/playing-power-of-attorney?u=76281980)
+#### [Playing "power of attorney"](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/playing-power-of-attorney?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +673,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/playing-power-of-attorney?u=76281980&t=104)** Suppose Kayla comes to you and says, "Everyone is struggling to get along with Lisa."
 >
-> **[1:51](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/playing-power-of-attorney?u=76281980&t=111)** The key word you need to notice here is everyone.
+> **[1:51](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/playing-power-of-attorney?u=76281980&t=111)** The key [[Microsoft Word|word]] you need to notice here is everyone.
 >
 > **[1:55](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/playing-power-of-attorney?u=76281980&t=115)** Take note that Kayla is now playing power of attorney by representing everyone and not just herself.
 >
@@ -709,15 +699,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - okay (3), - well (2), - in (1), - but (1), - i (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1), you should never (1)
 > **Warnings:** common mistake (1), note that (1)
 > **Definitions:** is a  (1)
 
-#### Fixing and rescuing
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/fixing-and-rescuing?u=76281980)
+#### [Fixing and rescuing](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/fixing-and-rescuing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,14 +792,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - if (1)
 
-#### Getting distracted and losing control
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/getting-distracted-and-losing-control?u=76281980)
+#### [Getting distracted and losing control](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/getting-distracted-and-losing-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +897,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **Speakers:** - okay (2), - mark (2), - have (1), - we (1), - why (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -920,8 +906,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mindsets: Growth versus fixed
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mindsets-growth-versus-fixed-19258020?u=76281980)
+#### [Mindsets: Growth versus fixed](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mindsets-growth-versus-fixed-19258020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,8 +977,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### Replace assumptions with curiosity
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/replace-assumptions-with-curiosity-19248782?u=76281980)
+#### [Replace assumptions with curiosity](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/replace-assumptions-with-curiosity-19248782?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1069,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -1096,8 +1079,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting communication expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/setting-communication-expectations?u=76281980)
+#### [Setting communication expectations](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/setting-communication-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,8 +1159,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - have (1)
 
-#### Mapping out difficult conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mapping-out-difficult-conversations-19256017?u=76281980)
+#### [Mapping out difficult conversations](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mapping-out-difficult-conversations-19256017?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,14 +1235,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - even (1)
 
-#### Discerning the real communication issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/discerning-the-real-communication-issue?u=76281980)
+#### [Discerning the real communication issue](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/discerning-the-real-communication-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/discerning-the-real-communication-issue?u=76281980&t=11)** Follow me on this journey and I'll share a method to discern the presenting problem from the real one.
 >
-> **[0:18](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/discerning-the-real-communication-issue?u=76281980&t=18)** Kenneth, a branch manager, learned that Patty, the office coordinator, kept showing up late.
+> **[0:18](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/discerning-the-real-communication-issue?u=76281980&t=18)** Kenneth, a branch manager, learned that Patty, the [[Microsoft Office|office]] coordinator, kept showing up late.
 >
 > **[0:23](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/discerning-the-real-communication-issue?u=76281980&t=23)** Patty's supervisor told the branch manager Patty doesn't have a good work ethic.
 >
@@ -1339,8 +1318,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
-#### Listen to own the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/listen-to-own-the-conversation-19248783?u=76281980)
+#### [Listen to own the conversation](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/listen-to-own-the-conversation-19248783?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,14 +1410,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - listening (1)
 
-#### Course correct problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/course-correct-problems?u=76281980)
+#### [Course correct problems](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/course-correct-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,7 +1495,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - a (1)
@@ -1529,8 +1504,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a culture of accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980)
+#### [Create a culture of accountability](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1518,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980&t=18)** She said, "I've told them a thousand times but nothing ever changes."
 >
-> **[0:24](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980&t=24)** When nothing changes after a conversation, it's usually an accountability issue.
+> **[0:24](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980&t=24)** When nothing changes after a conversation, it's usually an [[Accountability]] issue.
 >
 > **[0:30](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980&t=30)** Let's talk about how to create a culture of accountability to improve performance and shift behavior.
 >
@@ -1600,13 +1574,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (15), next (2), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (15)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - jada (1)
 
-#### Making good decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980)
+#### [Making good decisions](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,7 +1589,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=10)** When you lead others, your ability to inspire change and course correct unwanted behaviors makes you stand out and positions you for new and exciting opportunities.
 >
-> **[0:21](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=21)** As I'm sure you know, there's a difference in knowing about something and being able to excel at the skills.
+> **[0:21](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=21)** As I'm sure you know, there's a difference in knowing about something and being able to [[Microsoft Excel|excel]] at the skills.
 >
 > **[0:28](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=28)** For any area where you think you need some practice, here's a suggestion on how to make this training work for you.
 >
@@ -1624,7 +1597,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=41)** Then make an effort to practice a particular skill every day for two weeks.
 >
-> **[0:47](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=47)** If possible, get an accountability partner who also wants to work on a skill.
+> **[0:47](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=47)** If possible, get an [[Accountability]] partner who also wants to work on a skill.
 >
 > **[0:52](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=52)** You can even keep a journal to document the distinctions and the ahas or record how much you've learned and executed.
 >
@@ -1638,7 +1611,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=96)** And when you need to map out a conversation, you can return to this program and do a quick review.
 >
-> **[1:42](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=102)** If you're interested in additional resources, you can find my books "Stop Workplace Drama" and "No Drama Leadership" on Amazon, or you can check out my website and connect with me on LinkedIn.
+> **[1:42](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=102)** If you're interested in additional resources, you can find my books "Stop Workplace Drama" and "No Drama Leadership" on Amazon, or you can check out my website and connect with me on [[LinkedIn]].
 >
 > **[1:56](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/making-good-decisions-19259010?u=76281980&t=116)** I'd love to hear about your challenges and your successes.
 >
@@ -1646,7 +1619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Accountability]] (1), leadership (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Accountability]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - thank (1)
 

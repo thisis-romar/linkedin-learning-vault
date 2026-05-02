@@ -94,50 +94,47 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discovering Azure identity and access management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980)
+#### [Discovering Azure identity and access management](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=0)** - Azure IAM is a cloud-based service that helps organizations centrally manage all identities and access across the cloud and on-premises.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=0)** - [[Microsoft Azure|Azure]] IAM is a cloud-based service that helps organizations centrally manage all identities and access across the cloud and on-premises.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=11)** I'm going to show you how to manage identities for users, groups, devices, and applications.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=18)** Reduce risk by implementing multi-factor authentication, passwordless signing, and conditional access.
+> **[0:18](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=18)** Reduce risk by implementing [[Multi-factor Authentication]], passwordless signing, and conditional access.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=25)** And how to protect resources by performing role-based access control, privileged identity management, and access reviews.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=35)** I'm Bryan Li, and I worked in IT and software development for 20 plus years.
+> **[0:35](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=35)** I'm Bryan Li, and I worked in IT and [[Software Development]] for 20 plus years.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=40)** If you want to discover the power of Azure IAM, then join me in my LinkedIn Learning course.
+> **[0:40](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980&t=40)** If you want to discover the power of Azure IAM, then join me in my [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), cloud (2), [[Multi-factor Authentication]] (1), management (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Multi-factor Authentication]] (1), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** iam (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - azure (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=0)** - [Narrator] This course uses Azure to perform identity and access management.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=0)** - [Narrator] This course uses [[Microsoft Azure|Azure]] to perform identity and access management.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=5)** Before studying this course, you should have some fundamental knowledge about Microsoft Azure Cloud.
+> **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=5)** Before studying this course, you should have some fundamental knowledge about [[Microsoft Azure]] Cloud.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=11)** Also, to follow hands-on demonstrations in this course, you need a Microsoft Entra ID P2 license, formerly Azure Active Directory P2 license, and an Azure subscription.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=11)** Also, to follow hands-on demonstrations in this course, you need a [[Microsoft Entra ID]] P2 license, formerly [[Microsoft Entra ID|Azure Active Directory]] P2 license, and an Azure subscription.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/what-you-should-know?u=76281980&t=25)** You can sign up for a free trial if you don't have them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), management (1), [[Microsoft Azure]] (1), cloud (1), [[Microsoft Entra ID]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Identity and access management concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-and-access-management-concepts?u=76281980)
+#### [Identity and access management concepts](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-and-access-management-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,11 +160,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-and-access-management-concepts?u=76281980&t=63)** Now you understand the basic concepts of Identity and Access Management.
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-and-access-management-concepts?u=76281980&t=68)** We are ready to look at how Azure IAM works.
+> **[1:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-and-access-management-concepts?u=76281980&t=68)** We are ready to look at how [[Microsoft Azure|Azure]] IAM works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** iam (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -177,18 +174,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Entra ID overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980)
+#### [Microsoft Entra ID overview](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=0)** - [Instructor] Microsoft Entra ID, formerly Azure Active Directory, is a cloud-based identity and access management service.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID]], formerly [[Microsoft Entra ID|Azure Active Directory]], is a cloud-based identity and access management service.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=9)** Here's a great diagram from Microsoft that shows the role of Microsoft Entra ID.
+> **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=9)** Here's a great diagram from [[Microsoft]] that shows the role of Microsoft Entra ID.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=15)** I like to think of Microsoft Entra ID as a control center.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=19)** It provides identities for users, devices, and applications, and it connects services like Azure, Microsoft 365, and the numerous apps in the cloud or on-premises.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=19)** It provides identities for users, devices, and applications, and it connects services like [[Microsoft Azure|Azure]], [[Microsoft 365]], and the numerous apps in the cloud or on-premises.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=34)** Let's look at the Microsoft Entra ID user interface on Azure Portal.
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=52)** To help you learn Microsoft Entra ID functions, I will group them into four categories: management, security, governance, and monitoring.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=63)** For management, Microsoft Entra ID helps you manage users and groups, register devices and applications, manage external identities, enable hybrid identities through Microsoft Entra Connect, assign roles and administrators, create administrative units, manage product licenses, and configure company branding.
+> **[1:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=63)** For management, Microsoft Entra ID helps you manage users and groups, register devices and applications, manage external identities, enable hybrid identities through Microsoft [[Microsoft Entra ID|Entra]] Connect, assign roles and administrators, create administrative units, manage product licenses, and configure company branding.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980&t=89)** For security, Microsoft Entra ID provides a rich set of features like password reset, authentication methods, multifactor authentication, conditional access, identity protection, identity secure score, risk activities, and a security center.
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (10), management (6), [[Security]] (3), cloud (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (10), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** iam (1)
 > **Tools:** azure portal (1)
@@ -220,16 +216,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID license comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980)
+#### [Microsoft Entra ID license comparison](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=0)** - [Instructor] Microsoft Entra ID is a licensed product, so you'll get different features based on your license level.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID]] is a licensed product, so you'll get different features based on your license level.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=8)** Microsoft Entra ID has four additions, free, premium P1, premium P2, and the Governance.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=16)** The free edition is included when you subscribe to Microsoft online services like Azure and Microsoft 365.
+> **[0:16](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=16)** The free edition is included when you subscribe to [[Microsoft]] online services like [[Microsoft Azure|Azure]] and [[Microsoft 365]].
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=26)** The premium additions P1 and P2 add many enterprise level features for management, security and reports.
 >
@@ -243,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=101)** Microsoft Entra ID Governance includes advanced identity governance functions like lifecycle workflows, identity governance dashboard, and entitlement management with Verified ID.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=115)** To get the detailed information on Microsoft Entra ID licenses, you can visit the Microsoft Entra plans and the pricing page.
+> **[1:55](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=115)** To get the detailed information on Microsoft Entra ID licenses, you can visit the Microsoft [[Microsoft Entra ID|Entra]] plans and the pricing page.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-license-comparison?u=76281980&t=125)** Here, you can compare the features included in different Microsoft Entra ID editions.
 >
@@ -265,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (14), management (7), [[Security]] (3), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (14), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft 365]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Env Vars:** sso (1), mfa (1), rbac (1), pim (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
@@ -273,14 +268,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980)
+#### [Create users](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980&t=0)** - [Instructor] It's simple to create users in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980&t=0)** - [Instructor] It's simple to create users in [[Microsoft Entra ID]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980&t=6)** Here's my Azure portal.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980&t=6)** Here's my [[Microsoft Azure|Azure]] portal.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-users?u=76281980&t=8)** In the Resource menu, I can click Microsoft Entra ID.
 >
@@ -342,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Entra ID]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (2), [[Microsoft Azure|Azure]] (2)
 > **Analogies:** for example (4)
 > **URLs:** [demosoc.com](https://demosoc.com) (2), [onmicrosoft.com](https://onmicrosoft.com) (1)
 > **Tools:** azure portal (1)
@@ -350,14 +344,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980)
+#### [Manage users](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=0)** - [Instructor] Let's look at managing users in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=0)** - [Instructor] Let's look at managing users in [[Microsoft Entra ID]].
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=5)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=5)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=9)** Click Users, we can see a list of current users.
 >
@@ -389,9 +382,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=94)** For example, Jerome, click Select, click Save.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=102)** We can find more user management functions in the left menu.
+> **[1:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=102)** We can find more [[User Management]] functions in the left menu.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=107)** Click assigned roles to manage role assignments for Microsoft Entra.
+> **[1:47](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=107)** Click assigned roles to manage role assignments for [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=114)** Click add assignments.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=186)** Click Applications to view application assignments.
 >
-> **[3:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=190)** Click Licenses to manage licenses, click Assignments, then select Microsoft 365 Business Standard.
+> **[3:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=190)** Click Licenses to manage licenses, click Assignments, then select [[Microsoft 365]] Business Standard.
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-users?u=76281980&t=202)** Review the license options and click Save.
 >
@@ -449,18 +442,17 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage and invite external users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980)
+#### [Manage and invite external users](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=0)** - [Instructor] In a business, you need to collaborate with many external people, like contractors and partners.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=7)** You can use Microsoft Entra ID to manage external identities.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=7)** You can use [[Microsoft Entra ID]] to manage external identities.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=12)** First, let's set up how you want to collaborate with them.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=17)** On my Microsoft Entra ID on Azure Portal, click External Identities, then click Set Up External Collaboration Settings.
+> **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=17)** On my Microsoft Entra ID on [[Microsoft Azure|Azure]] Portal, click External Identities, then click Set Up External Collaboration Settings.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=29)** I can set up a guest user access restrictions.
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=102)** After it's done, I can click Save, then click All Identity Providers, click Email One-Time Passcode, and we select Email One-Time Passcode as Yes.
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=119)** This is useful when your guests don't already have a Microsoft Entra or Microsoft account.
+> **[1:59](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=119)** This is useful when your guests don't already have a [[Microsoft]] [[Microsoft Entra ID|Entra]] or Microsoft account.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-and-invite-external-users?u=76281980&t=125)** You can just email them a one-time passcode for sign in.
 >
@@ -528,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Microsoft]] (2), business (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Entra]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Prerequisites:** set up (4), configure (2)
 > **Analogies:** for example (4)
 > **Cross-References:** go back to (3)
@@ -536,16 +528,15 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform bulk user operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980)
+#### [Perform bulk user operations](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980&t=0)** - [Instructor] In a corporate environment, you may need to add, invite, or delete hundreds of users in a day.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980&t=7)** Let me show you how to use the bulk operations in Microsoft Entra ID to complete this task quickly.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980&t=7)** Let me show you how to use the bulk operations in [[Microsoft Entra ID]] to complete this task quickly.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980&t=15)** Here's my Microsoft Entra ID on Azure Portal.
+> **[0:15](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980&t=15)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] Portal.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/perform-bulk-user-operations?u=76281980&t=18)** Click Users, then click Bulk operations.
 >
@@ -642,14 +633,13 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Analogies:** similar to (1)
 
-#### Create groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980)
+#### [Create groups](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=0)** - [Instructor] Let's look at creating groups in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=0)** - [Instructor] Let's look at creating groups in [[Microsoft Entra ID]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=6)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=6)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=9)** Click Groups, we can see a list of existing groups.
 >
@@ -657,13 +647,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=18)** First we need to select a group type.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=22)** We have two options here: Security or Microsoft 365.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=22)** We have two options here: Security or [[Microsoft 365]].
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=29)** You can click the information icon to learn the difference.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=32)** Basically, security groups gave members access to applications, resources, and the licenses.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=39)** Microsoft 365 groups, originally called Office 365 groups, give members access to shared mailbox, cutting the files and the SharePoint site.
+> **[0:39](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=39)** Microsoft 365 groups, originally called [[Microsoft Office|Office]] 365 groups, give members access to shared mailbox, cutting the files and the [[SharePoint]] site.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=51)** In addition, security groups can have members like users, devices, service principles, and other groups.
 >
@@ -675,7 +665,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=72)** You may also add a group description.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=77)** You can decide if Microsoft Entra roles can be assigned to the group.
+> **[1:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=77)** You can decide if [[Microsoft]] [[Microsoft Entra ID|Entra]] roles can be assigned to the group.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/create-groups?u=76281980&t=82)** You need a Microsoft Entra ID P1 or P2 licenses to see this feature.
 >
@@ -751,21 +741,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (5), [[Security]] (4), [[Microsoft 365]] (3), feature (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (5), [[Microsoft 365]] (3), [[Microsoft Azure|Azure]] (1), [[Microsoft Office|Office]] (1), [[SharePoint]] (1)
 > **Analogies:** for example (2)
 > **Tools:** azure portal (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980)
+#### [Manage groups](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=0)** - [Instructor] Let's look at managing groups in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=0)** - [Instructor] Let's look at managing groups in [[Microsoft Entra ID]].
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=4)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=4)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=8)** Click Groups.
 >
@@ -785,9 +774,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=51)** We can select group write back state.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=54)** This is for thinking with your on-premises active directory.
+> **[0:54](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=54)** This is for thinking with your on-premises [[Active Directory]].
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=58)** Once you enable Microsoft Entra Connect.
+> **[0:58](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=58)** Once you enable [[Microsoft]] [[Microsoft Entra ID|Entra]] Connect.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-groups?u=76281980&t=62)** Under Members, we can add members.
 >
@@ -839,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), [[Security]] (1), [[Active Directory]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), [[Active Directory]] (1), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** csv (2)
 > **Cross-References:** later in (1)
@@ -847,14 +836,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980)
+#### [Manage devices](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=0)** - [Instructor] Let's talk about managing devices in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=0)** - [Instructor] Let's talk about managing devices in [[Microsoft Entra ID]].
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=5)** Microsoft Entra ID can manage identities for not only users and groups but also applications and device To get a device identity in Microsoft Entra ID, we have three options, Microsoft Entra registration, Microsoft Entra join, and a Microsoft Entra hybrid join.
+> **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=5)** Microsoft Entra ID can manage identities for not only users and groups but also applications and device To get a device identity in Microsoft Entra ID, we have three options, [[Microsoft]] [[Microsoft Entra ID|Entra]] registration, Microsoft Entra join, and a Microsoft Entra hybrid join.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=30)** Let's quickly compare the three different methods.
 >
@@ -862,15 +850,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=48)** For operating systems.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=50)** Microsoft Entra Registration supports Windows 10 or newer, iOS, Android, macOS, and Ubuntu.
+> **[0:50](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=50)** Microsoft Entra Registration supports [[Windows 10]] or newer, iOS, [[Android]], macOS, and [[Ubuntu]].
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=58)** Microsoft Entra join and hybrid join only support Windows.
+> **[0:58](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=58)** Microsoft Entra join and hybrid join only support [[Windows]].
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=63)** Hybrid join can support down level Windows versions, like Windows 8.1 and the Windows Server 2008.
+> **[1:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=63)** Hybrid join can support down level Windows versions, like Windows 8.1 and the [[Windows Server]] 2008.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=71)** For directory location, Microsoft Entra Registration and join use the cloud-based Microsoft Entra ID.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=80)** Microsoft Entra hybrid join uses on-premises Active Directory and a Microsoft Entra ID.
+> **[1:20](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=80)** Microsoft Entra hybrid join uses on-premises [[Active Directory]] and a Microsoft Entra ID.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=88)** For sign-in accounts, Microsoft Entra Registration can use local user account.
 >
@@ -894,9 +882,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=146)** you can enter the assigned email address, then click Next.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=151)** Or if you want to do Microsoft Entra join, you can click Join this device to Microsoft Entra ID, formerly Azure Active Directory.
+> **[2:31](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=151)** Or if you want to do Microsoft Entra join, you can click Join this device to Microsoft Entra ID, formerly [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=162)** Now let's go to Microsoft Entra ID on Azure portal.
+> **[2:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=162)** Now let's go to Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-devices?u=76281980&t=167)** Click Devices and click All devices.
 >
@@ -922,7 +910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (23), [[Microsoft Entra ID|Entra]] (20), [[Microsoft Entra ID]] (8), [[Windows]] (5), management (3)
+> **Frameworks & Libraries:** [[Microsoft]] (23), [[Microsoft Entra ID|Entra]] (20), [[Microsoft Entra ID]] (8), [[Windows]] (5), [[Windows 10]] (1)
 > **Code Identifiers:** ios (1), macos (1)
 > **Env Vars:** sso (1), mdm (1)
 > **Versions:** 8.1 (1)
@@ -931,14 +919,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980)
+#### [Manage applications](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=0)** - [Instructor] Let's look at managing applications in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=0)** - [Instructor] Let's look at managing applications in [[Microsoft Entra ID]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=6)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=6)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=9)** Click enterprise applications.
 >
@@ -948,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=22)** I can search applications using Microsoft Entra ID App Gallery.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=27)** For example, let's search Slack.
+> **[0:27](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=27)** For example, let's search [[Slack]].
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-applications?u=76281980&t=33)** We can see some app information, like a publisher, single sign-on mode, and the URL.
 >
@@ -998,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), application (4), [[Search]] (2), [[Slack]] (2), api (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Slack]] (2), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (6)
 > **Env Vars:** url (2), api (2)
 > **Tools:** slack (2), azure portal (1)
@@ -1007,20 +994,19 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage hybrid identities
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980)
+#### [Manage hybrid identities](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=0)** - [Instructor] Let's talk about managing hybrid identities in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=0)** - [Instructor] Let's talk about managing hybrid identities in [[Microsoft Entra ID]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=6)** Hybrid identities refers to users both in the cloud and on-premises.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=11)** In our case, we have users in cloud-based Microsoft Entra ID, and on-premises Active Directory.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=11)** In our case, we have users in cloud-based Microsoft Entra ID, and on-premises [[Active Directory]].
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=19)** The challenge is how to sync your users at different locations so you can provide them with single sign-on capabilities.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=28)** Microsoft uses Microsoft Entra Connect, formally Azure AD Connect.
+> **[0:28](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=28)** [[Microsoft]] uses Microsoft [[Microsoft Entra ID|Entra]] Connect, formally [[Microsoft Entra ID|Azure AD]] Connect.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=34)** It acts as a bridge between your Microsoft Entra ID and on-premises Active Directory, so we can do tasks like identity sync, and a directory query between the cloud and on-premises.
 >
@@ -1058,7 +1044,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=176)** In the end, let me quickly show you Microsoft Entra Connect, formally Azure AD Connect.
 >
-> **[3:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=183)** Here's my Microsoft Entra ID on Azure Portal.
+> **[3:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=183)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] Portal.
 >
 > **[3:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-hybrid-identities?u=76281980&t=188)** Click Microsoft Entra Connect.
 >
@@ -1076,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (13), cloud (6), [[Active Directory]] (5), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (13), [[Active Directory]] (5), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID|Azure ad]] (2)
 > **Env Vars:** adfs (3)
 > **Analogies:** for example (2)
 > **Tools:** azure portal (1)
@@ -1084,12 +1070,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage Azure administrative units
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980)
+#### [Manage Azure administrative units](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=0)** - [Instructor] Let's look at administrative units in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=0)** - [Instructor] Let's look at administrative units in [[Microsoft Entra ID]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=5)** Why do we need administrative units?
 >
@@ -1105,13 +1090,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=53)** Let's do a quick demo for administrative units.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=57)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=57)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=60)** Click Administrative Units.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=64)** Let's add a new one. Click Add.
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=68)** Give it a name, Canada Office.
+> **[1:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=68)** Give it a name, Canada [[Microsoft Office|Office]].
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-azure-administrative-units?u=76281980&t=72)** Then click Next: Assign Roles.
 >
@@ -1185,7 +1170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Office|Office]] (3), [[Microsoft Azure|Azure]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (3), [[Microsoft Office|Office]] (3), [[Microsoft Azure|Azure]] (2)
 > **Analogies:** for example (5)
 > **Env Vars:** win (1), azure (1), join (1)
 > **SQL:** join (1)
@@ -1198,12 +1183,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage authentication methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980)
+#### [Manage authentication methods](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=0)** - [Instructor] Microsoft Entra ID supports many authentication methods.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID]] supports many authentication methods.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=4)** Before we look into them, let's go back to the basic concept of authentication.
 >
@@ -1241,7 +1225,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=116)** In the early implementation, the good methods are SMS, like getting a text message on your mobile phone, voice, like you're receiving a phone call.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=127)** But now you have some better ways like authenticator app to receive a push notification, OATH hardware tokens that refresh codes every 60 or 90 seconds.
+> **[2:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=127)** But now you have some better ways like authenticator app to receive a push notification, OATH [[Hardware]] [[Tokens]] that refresh codes every 60 or 90 seconds.
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=139)** OATH software tokens that can be installed on your mobile phone.
 >
@@ -1257,7 +1241,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=166)** Certificate-based authentication.
 >
-> **[2:50](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=170)** Windows Hello, the building authentication methods on devices using biometrics like a facial detection and a fingerprints.
+> **[2:50](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=170)** [[Windows]] Hello, the building authentication methods on devices using biometrics like a facial detection and a fingerprints.
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=180)** Now you know the evolution of the authentication methods.
 >
@@ -1269,11 +1253,11 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=194)** Let's look at how Microsoft Entra ID supports multiple authentication methods.
 >
-> **[3:20](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=200)** Here's my Microsoft Entra ID on Azure Portal.
+> **[3:20](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=200)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] Portal.
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=203)** Click security, then click authentication methods.
 >
-> **[3:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=210)** We have a list of available authentication methods like a FIDO2 security key, Microsoft Authenticator, SMS, and a certificate-based authentication.
+> **[3:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=210)** We have a list of available authentication methods like a FIDO2 security key, [[Microsoft]] Authenticator, SMS, and a certificate-based authentication.
 >
 > **[3:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980&t=222)** You can configure the policy for an authentication method.
 >
@@ -1287,25 +1271,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Security]] (3), [[Microsoft]] (3), [[Tokens]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Microsoft]] (3), [[Tokens]] (2), [[Hardware]] (1), [[Windows]] (1)
 > **Env Vars:** sms (2), oath (2), fido2 (2), usb (1)
 > **Analogies:** for example (3), it's like (1)
 > **Prerequisites:** configure (2)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure self-service password reset
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980)
+#### [Configure self-service password reset](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=0)** - [Instructor] A help desk may spend lots of time resetting user passwords in a large organization.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=6)** The good news is, Microsoft Enter ID supports a self-service password reset so users can change their passwords without involving the help desk.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=6)** The good news is, [[Microsoft]] Enter ID supports a self-service password reset so users can change their passwords without involving the help desk.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=17)** Let's see how it works.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=20)** Here's my Microsoft Enter ID on Azure portal.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=20)** Here's my Microsoft Enter ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=25)** In the left menu, click Password Reset.
 >
@@ -1333,7 +1316,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=84)** For example, this is the URL for my demo support page.
 >
-> **[1:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=89)** If we have an on-premises integration, we can perform password right back to on-premises active directory.
+> **[1:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=89)** If we have an on-premises integration, we can perform password right back to on-premises [[Active Directory]].
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/configure-self-service-password-reset?u=76281980&t=97)** You need to install a sync agent before using it.
 >
@@ -1375,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Active Directory]] (1)
 > **Analogies:** for example (3), picture (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (1), open the (1), select the (1)
@@ -1384,12 +1367,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement multifactor authentication (MFA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980)
+#### [Implement multifactor authentication (MFA)](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=0)** - [Instructor] Let's look at implementing multifactor authentication, or MFA, in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=0)** - [Instructor] Let's look at implementing multifactor authentication, or MFA, in [[Microsoft Entra ID]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=7)** What is multifactor authentication?
 >
@@ -1397,7 +1379,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=14)** We have three common kinds of factors.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=17)** Something you know, like your password, ping, or security questions; something you have, like your mobile phone, email, hardware tokens; and something you are, like your fingerprints, voice, facial recognition.
+> **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=17)** Something you know, like your password, ping, or security questions; something you have, like your mobile phone, email, [[Hardware]] [[Tokens]]; and something you are, like your fingerprints, voice, facial recognition.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=32)** So multifactor authentication means using two or more different kinds of factors to verify your identity.
 >
@@ -1425,7 +1407,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=102)** Let's do a demo of multifactor authentication.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=105)** Here's my Microsoft Entra ID on Azure Portal.
+> **[1:45](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=105)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] Portal.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-multifactor-authentication-mfa?u=76281980&t=109)** Click Security, then click Multifactor authentication.
 >
@@ -1475,7 +1457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Entra ID]] (8), [[Hardware]] (1), [[Tokens]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (8), [[Hardware]] (1), [[Tokens]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** mfa (15)
 > **Best Practices:** recommended (3)
 > **Cross-References:** go back to (2)
@@ -1484,22 +1466,21 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 
-#### Implement passwordless authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980)
+#### [Implement passwordless authentication](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=0)** - [Instructor] Let's look at implementing passwordless authentication in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=0)** - [Instructor] Let's look at implementing passwordless authentication in [[Microsoft Entra ID]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=7)** We have talked about the evolution of authentication methods.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=11)** In terms of security, usability, and availability, the best solution today is passwordless.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=19)** In this demo, we will use Microsoft Authenticator to sign into Azure without a password.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=19)** In this demo, we will use [[Microsoft]] Authenticator to sign into [[Microsoft Azure|Azure]] without a password.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=26)** Microsoft Authenticator is a free mobile app.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=29)** You can download it from App Store or Google Play.
+> **[0:29](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=29)** You can download it from App Store or [[Google]] Play.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-passwordless-authentication?u=76281980&t=32)** Once configured, we can enable the phone sign-in function in Microsoft Authenticator.
 >
@@ -1625,7 +1606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (8), next (8), [[Microsoft Azure|Azure]] (6), [[Microsoft Entra ID]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (6), [[Microsoft Entra ID]] (3), [[Google]] (1)
 > **Prerequisites:** set up (3), install (1)
 > **URLs:** [azure.com](https://azure.com) (3)
 > **UI Navigation:** open the (2)
@@ -1634,16 +1615,15 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Implement identity protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980)
+#### [Implement identity protection](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=0)** - [Instructor] Let's talk about implementing Identity Protection in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=0)** - [Instructor] Let's talk about implementing Identity Protection in [[Microsoft Entra ID]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=7)** Identity security is critical to today's organizations.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=11)** With the acceleration of cloud computing, traditional network based controls like firewalls are not enough to protect our applications and data.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=11)** With the acceleration of [[Cloud Computing]], traditional network based controls like firewalls are not enough to protect our applications and data.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=21)** The industry is now moving to identity centric security models like zero trust.
 >
@@ -1659,11 +1639,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=54)** For example, someone tried to log in from a different country or from a malware-linked IP address.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=62)** You can use Microsoft Entra Identity Protection, a premium feature provided by Microsoft to manage your identity risk.
+> **[1:02](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=62)** You can use [[Microsoft]] [[Microsoft Entra ID|Entra]] Identity Protection, a premium feature provided by Microsoft to manage your identity risk.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=71)** Here's how it works.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=73)** Microsoft leverages its big data and threat intelligence to detect identity risk, including user risk and sign-in risk.
+> **[1:13](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=73)** Microsoft leverages its [[Big Data]] and threat intelligence to detect identity risk, including user risk and sign-in risk.
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=83)** It also gives the risk level as high, medium, and low.
 >
@@ -1675,7 +1655,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=113)** Now let's do a quick demo of Identity Protection.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=117)** Here's my Microsoft Entra ID on Azure portal.
+> **[1:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=117)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-identity-protection?u=76281980&t=120)** In the left menu, click Security.
 >
@@ -1715,18 +1695,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft]] (4), [[Microsoft Entra ID]] (3), data (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID]] (3), [[Cloud Computing]] (1), [[Microsoft Entra ID|Entra]] (1), [[Big Data]] (1)
 > **Analogies:** for example (4)
 > **Prerequisites:** configure (2), set up (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement conditional access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980)
+#### [Implement conditional access](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=0)** - [Instructor] Let's look at implementing conditional access in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=0)** - [Instructor] Let's look at implementing conditional access in [[Microsoft Entra ID]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=6)** The core of conditional access is organizational policies.
 >
@@ -1742,7 +1721,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=42)** It brings signals together, makes decisions, and enforces organizational policies.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=51)** Here's a diagram from Microsoft, which describes the process of conditional access.
+> **[0:51](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=51)** Here's a diagram from [[Microsoft]], which describes the process of conditional access.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=57)** First, it collects all kinds of signals about users and their locations, applications, devices, and risks.
 >
@@ -1750,7 +1729,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=76)** Finally, it grants or blocks access to apps and data.
 >
-> **[1:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=82)** Because conditional access may impact business operations, you should test your policies before enforcing them.
+> **[1:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=82)** Because conditional access may impact [[Business Operations]], you should test your policies before enforcing them.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=90)** Here are two ways to do it.
 >
@@ -1766,7 +1745,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=147)** Now, let's do a demo of conditional access.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=150)** Here's my Microsoft Entra ID on Azure portal.
+> **[2:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=150)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=154)** In the left menu, click Security.
 >
@@ -1778,7 +1757,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=166)** Give a policy name.
 >
-> **[2:49](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=169)** For example, require MFA for Slack sign-in.
+> **[2:49](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=169)** For example, require MFA for [[Slack]] sign-in.
 >
 > **[2:53](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-conditional-access?u=76281980&t=173)** Under Assignments, I select all users.
 >
@@ -1822,7 +1801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Slack]] (3), [[Microsoft]] (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Slack]] (3), [[Microsoft]] (2), [[Business Operations]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** mfa (5)
 > **Tools:** slack (3), azure portal (1)
 > **Analogies:** for example (3)
@@ -1836,18 +1815,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organize Azure resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980)
+#### [Organize Azure resources](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=0)** - [Instructor] You can get hundreds of services from a cloud platform today.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=4)** For example, here's my Azure portal.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=4)** For example, here's my [[Microsoft Azure|Azure]] portal.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=7)** Click More Services.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=10)** I can see a long list of services in the categories like AI plus machine learning, analytics, compute, containers, databases, DevOps, and many others.
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=10)** I can see a long list of services in the categories like AI plus machine learning, analytics, compute, containers, [[Databases]], [[DevOps]], and many others.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=28)** We can create so many things on Azure, but how can we organize Azure resources effectively?
 >
@@ -1867,7 +1845,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=65)** They are logic containers for deploying and managing Azure resources.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=70)** At the bottom, we have all kinds of resources like containers, virtual machines, and virtual networks.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=70)** At the bottom, we have all kinds of resources like containers, [[Virtual Machines]], and virtual networks.
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980&t=78)** There's a concept called inheritance.
 >
@@ -1957,18 +1935,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (16), [[Microsoft Azure|Azure]] (8), cloud (1), ai (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Databases]] (1), [[DevOps]] (1), [[Virtual Machines]] (1)
 > **Analogies:** for example (4)
 > **Tools:** azure portal (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure role-based access control (RBAC) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/azure-role-based-access-control-rbac-overview?u=76281980)
+#### [Azure role-based access control (RBAC) overview](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/azure-role-based-access-control-rbac-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/azure-role-based-access-control-rbac-overview?u=76281980&t=0)** - [Instructor] Azure role-based access control, Azure RBAC, provides fine-grained access management to Azure resources.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/azure-role-based-access-control-rbac-overview?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] role-based access control, Azure RBAC, provides fine-grained access management to Azure resources.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/azure-role-based-access-control-rbac-overview?u=76281980&t=8)** Before we look at it, let's go back to the basic concept of authorization.
 >
@@ -2024,19 +2001,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (3), management (2), application (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9)
 > **Analogies:** for example (5)
 > **Env Vars:** rbac (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define Azure roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980)
+#### [Define Azure roles](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=0)** - [Instructor] An Azure role is a collection of access permissions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=0)** - [Instructor] An [[Microsoft Azure|Azure]] role is a collection of access permissions.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=4)** Let's look at how to define Azure roles.
 >
@@ -2064,7 +2040,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=67)** Under Permissions, we can see all allowed actions.
 >
-> **[1:14](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=74)** Under JSON, JavaScript Object Notation, we can find the role definition in JSON format.
+> **[1:14](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=74)** Under [[JSON]], [[JavaScript]] Object Notation, we can find the role definition in JSON format.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=82)** It has ID, role name as owner, description, assignable scopes as a root scope, which means this role is available for all scopes.
 >
@@ -2080,7 +2056,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=120)** Under permissions actions, we have the same asterisk sign, which allows all actions.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=127)** But under no actions, we need to exclude some permissions like Microsoft.Authorization/asterisk/Delete, Microsoft.Authorization/asterisk/Write, Microsoft.Authorization/elevateAccess/Action.
+> **[2:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=127)** But under no actions, we need to exclude some permissions like [[Microsoft]].Authorization/asterisk/Delete, Microsoft.Authorization/asterisk/Write, Microsoft.Authorization/elevateAccess/Action.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=151)** So this definition means the contributor role has the full access to manage all resources, but it doesn't allow you to assign roles in Azure RBAC or Azure role-based access control.
 >
@@ -2100,7 +2076,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=184)** I'll click Add Permissions.
 >
-> **[3:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=186)** Search permissions for virtual machines.
+> **[3:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=186)** Search permissions for [[Virtual Machines]].
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/define-azure-roles?u=76281980&t=190)** Then click the resource provider, Microsoft Compute.
 >
@@ -2130,7 +2106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (6), [[Microsoft]] (6), next (3), management (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (6), [[Microsoft]] (6), [[JavaScript]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** json (6), iam (2), rbac (1)
 > **UI Navigation:** select the (3), scroll down (1)
 > **CLI Commands:** find (3)
@@ -2139,14 +2115,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 
-#### Microsoft Entra roles and Azure roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980)
+#### [Microsoft Entra roles and Azure roles](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980&t=0)** - [Instructor] People often get confused about the difference between Microsoft Entra roles, formerly Azure AD roles, and Azure roles.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980&t=0)** - [Instructor] People often get confused about the difference between [[Microsoft]] [[Microsoft Entra ID|Entra]] roles, formerly [[Microsoft Entra ID|Azure AD]] roles, and [[Microsoft Azure|Azure]] roles.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980&t=9)** We use Microsoft Entra roles to manage identities and the buildings in Microsoft Entra ID.
+> **[0:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980&t=9)** We use Microsoft Entra roles to manage identities and the buildings in [[Microsoft Entra ID]].
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-roles-and-azure-roles?u=76281980&t=16)** The common building at Microsoft Entrta roles are global administrator, user administrator, building administrator, and help desk administrator.
 >
@@ -2188,19 +2163,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID]] (3), [[Microsoft Entra ID|Azure ad]] (1)
 > **Env Vars:** iam (1)
 > **Tools:** azure portal (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement Azure role-based access control (RBAC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-azure-role-based-access-control-rbac?u=76281980)
+#### [Implement Azure role-based access control (RBAC)](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-azure-role-based-access-control-rbac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-azure-role-based-access-control-rbac?u=76281980&t=0)** - [Instructor] Let's look at implementing Azure role-based access control, or Azure RBAC.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-azure-role-based-access-control-rbac?u=76281980&t=0)** - [Instructor] Let's look at implementing [[Microsoft Azure|Azure]] role-based access control, or Azure RBAC.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-azure-role-based-access-control-rbac?u=76281980&t=7)** Here's my Azure portal. I can click Subscriptions.
 >
@@ -2262,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), management (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8)
 > **Env Vars:** rbac (2), iam (1)
 > **Analogies:** for example (3)
 > **Tools:** azure portal (1)
@@ -2274,12 +2248,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitor Microsoft Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980)
+#### [Monitor Microsoft Entra ID](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=0)** - [Instructor] Let's talk about monitoring Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=0)** - [Instructor] Let's talk about monitoring [[Microsoft Entra ID]].
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=4)** In general, we have two ways to monitor Microsoft Entra ID.
 >
@@ -2289,7 +2262,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=55)** Now let's do a quick demo for Microsoft Entra ID monitoring.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=60)** Here's my Microsoft Entra ID on Azure portal.
+> **[1:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=60)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=64)** In the left menu under Monitoring, we can see three types of logs: sign-in logs, audit logs, and the provisioning logs.
 >
@@ -2321,13 +2294,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=132)** Click Edit Setting.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=134)** For data collection, I can select categories like sign-in logs, audit logs, provisioning logs, user risk events, risky users.
+> **[2:14](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=134)** For [[Data Collection]], I can select categories like sign-in logs, audit logs, provisioning logs, user risk events, risky users.
 >
 > **[2:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=146)** For destination details, I can send to Log Analytics workspace, archive to a storage account streamed to an event hub, and send to a partner solution.
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=157)** Here I will send data to my demo Log Analytics workspace.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=162)** Please note, you need Microsoft Entra ID, formerly Azure Active Directory, P1 or P2 license to export sign-in data.
+> **[2:42](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=162)** Please note, you need Microsoft Entra ID, formerly [[Microsoft Entra ID|Azure Active Directory]], P1 or P2 license to export sign-in data.
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=171)** Finally, I can save the settings.
 >
@@ -2359,11 +2332,11 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=234)** Finally, I can click Usage and Insights.
 >
-> **[3:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=237)** I can see Microsoft Entra application activity and authentication methods activity.
+> **[3:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980&t=237)** I can see [[Microsoft]] [[Microsoft Entra ID|Entra]] application activity and authentication methods activity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (6), [[Analytics]] (5), data (4), application (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (6), [[Microsoft Azure|Azure]] (1), [[Data Collection]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (6)
 > **Env Vars:** kql (1)
 > **Tools:** azure portal (1)
@@ -2371,8 +2344,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identity secure score
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980)
+#### [Identity secure score](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2380,13 +2352,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=3)** What is identity secure Score?
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=6)** It's a percentage number indicating how aligned you are with Microsoft's security recommendations.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=6)** It's a percentage number indicating how aligned you are with [[Microsoft]]'s security recommendations.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=12)** Identity secure score will help you measure your identity security posture, plan your improvement actions, and review your improvement results.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=23)** Now let's do a quick demo for identity secure score.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=26)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=26)** Here's my [[Microsoft Entra ID]] on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/identity-secure-score?u=76281980&t=30)** In the left menu, click Security, then click Identity Secure Score.
 >
@@ -2430,13 +2402,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Microsoft]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Azure|Azure]] (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** azure portal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [bryan] (1)
 
-#### Entitlement management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980)
+#### [Entitlement management](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2444,15 +2415,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=3)** Entitlement management can help you manage IAM lifecycle at scale, automate access request workflows.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=12)** Entitlement management is a feature of Microsoft Entra Identity Governance.
+> **[0:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=12)** Entitlement management is a feature of [[Microsoft]] [[Microsoft Entra ID|Entra]] Identity Governance.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=17)** You need a Microsoft Entra ID P2 license before use it.
+> **[0:17](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=17)** You need a [[Microsoft Entra ID]] P2 license before use it.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=22)** So, how does entitlement management work?
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=25)** First, admins create catalogs, which are containers of related resources and access packages.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=34)** Resources include groups and teams, applications, and SharePoint sites.
+> **[0:34](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=34)** Resources include groups and teams, applications, and [[SharePoint]] sites.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=41)** Access packages define resource roles and request policy.
 >
@@ -2460,7 +2431,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=53)** Now, let's do a quick demo of entitlement management.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=57)** Here's my Microsoft Entra ID on Azure Portal.
+> **[0:57](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=57)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] Portal.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=61)** In the left menu, I will click Identity Governance.
 >
@@ -2488,7 +2459,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=120)** Next, click Applications.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=124)** Click See All Applications, then click Slack.
+> **[2:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=124)** Click See All Applications, then click [[Slack]].
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/entitlement-management?u=76281980&t=129)** Click Select.
 >
@@ -2576,7 +2547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), management (6), [[Microsoft Entra ID]] (4), teams (4), [[Slack]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Slack]] (3), [[SharePoint]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Tools:** slack (3), azure portal (1)
 > **UI Navigation:** select the (1), open the (1), go to (1)
 > **Cross-References:** go back to (2)
@@ -2585,8 +2556,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Access reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980)
+#### [Access reviews](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2606,11 +2576,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=36)** Access reviews are part of identity governance.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=40)** You need a Microsoft Entra ID P2 license before you use it.
+> **[0:40](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=40)** You need a [[Microsoft Entra ID]] P2 license before you use it.
 >
-> **[0:45](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=45)** Now let's do a demo of access reviews for the application Slack.
+> **[0:45](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=45)** Now let's do a demo of access reviews for the application [[Slack]].
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=50)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:50](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=50)** Here's my Microsoft Entra ID on [[Microsoft Azure|Azure]] portal.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=54)** Click identity governance.
 >
@@ -2662,7 +2632,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=155)** Click select.
 >
-> **[2:37](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=157)** I will keep the default values for the rest.
+> **[2:37](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=157)** I will keep the default values for the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/access-reviews?u=76281980&t=161)** Click next.
 >
@@ -2712,15 +2682,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6), next (4), [[Microsoft Entra ID]] (3), application (3), teams (1)
+> **Frameworks & Libraries:** [[Slack]] (6), [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** slack (6), azure portal (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privileged identity management overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980)
+#### [Privileged identity management overview](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2734,9 +2703,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980&t=28)** That's why we need a privileged identity management.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980&t=32)** We can use privileged identity management to manage two types of roles in Azure.
+> **[0:32](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980&t=32)** We can use privileged identity management to manage two types of roles in [[Microsoft Azure|Azure]].
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980&t=37)** Microsoft Entra roles for managing identities and billings in Microsoft Entra ID.
+> **[0:37](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980&t=37)** [[Microsoft]] [[Microsoft Entra ID|Entra]] roles for managing identities and billings in [[Microsoft Entra ID]].
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/privileged-identity-management-overview?u=76281980&t=43)** The common building Microsoft Entra roles are like global administrator, user administrator, and the billing administrator.
 >
@@ -2780,26 +2749,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2), [[Microsoft Entra ID|Entra]] (2), [[Microsoft Entra ID]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (2), [[Microsoft Entra ID|Entra]] (2), [[Microsoft Entra ID]] (2)
 > **Env Vars:** jit (1), mfa (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement privileged identity management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980)
+#### [Implement privileged identity management](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=0)** - [Instructor] Let's look at implementing privileged identity management.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=4)** First, I will assign the privileged role for Azure Resources.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=4)** First, I will assign the privileged role for [[Microsoft Azure|Azure]] Resources.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=8)** Here's my Microsoft Entra ID on Azure portal.
+> **[0:08](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=8)** Here's my [[Microsoft Entra ID]] on Azure portal.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=12)** In the left menu, click Identity Governance.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=16)** Under Privileged Identity Management, we can assign Microsoft Entra roles, formally Azure AD roles, or Azure resource roles.
+> **[0:16](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=16)** Under Privileged Identity Management, we can assign [[Microsoft]] [[Microsoft Entra ID|Entra]] roles, formally [[Microsoft Entra ID|Azure AD]] roles, or Azure resource roles.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/implement-privileged-identity-management?u=76281980&t=26)** Click Azure resources.
 >
@@ -2909,7 +2877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), management (5), [[Microsoft Entra ID]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Entra ID]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** select the (2), go to (2), open the (1)
 > **Analogies:** for example (3)
 > **Tools:** azure portal (2)
@@ -2921,8 +2889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2930,7 +2897,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=1)** Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=4)** Now you have a comprehensive view of Azure Identity and Access Management.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=4)** Now you have a comprehensive view of [[Microsoft Azure|Azure]] Identity and Access Management.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=10)** As a quick summary, we learned how to manage identities for users, guests, groups, devices, and applications.
 >
@@ -2946,17 +2913,17 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=58)** This course can help you prepare for some Azure certifications.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=62)** You can visit the Microsoft Certifications website to learn more.
+> **[1:02](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=62)** You can visit the [[Microsoft]] Certifications website to learn more.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=67)** Finally, let's stay connected.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=69)** You are welcome to connect with me on LinkedIn.
+> **[1:09](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=69)** You are welcome to connect with me on [[LinkedIn]].
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980&t=72)** I look forward collaborating with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), management (3), next (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** mfa (1), rbac (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [bryan] (1)

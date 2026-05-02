@@ -90,18 +90,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Processes for software projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980)
+#### [Processes for software projects](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=0)** - Have you struggled to build software that meets your stakeholders expectations?
 >
-> **[0:05](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=5)** This course will help you understand both traditional and modern software development techniques, ensuring successful project deliveries.
+> **[0:05](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=5)** This course will help you understand both traditional and modern [[Software Development]] techniques, ensuring successful project deliveries.
 >
-> **[0:15](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=15)** We'll explore essential methods from legacy models like Waterfall and Spiral to Agile frameworks, including Scrum, Kanban, and Lean.
+> **[0:15](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=15)** We'll explore essential methods from legacy models like Waterfall and Spiral to [[Agile Development|Agile]] frameworks, including [[Scrum]], Kanban, and Lean.
 >
-> **[0:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=26)** We'll also touch on DevOps principles, Six Sigma and CMMI.
+> **[0:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=26)** We'll also touch on [[DevOps]] principles, [[Six Sigma]] and CMMI.
 >
 > **[0:31](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980&t=31)** Hi, I'm Shashi Shekhar, a veteran developer with over 25 years of experience.
 >
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Waterfall model: Brief overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980)
+#### [Waterfall model: Brief overview](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=20)** The waterfall model owes its origin to manufacturing.
 >
-> **[0:25](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=25)** When we think of the manufacturing industry, we often think about a production plant that produces identical products in a consistent manner.
+> **[0:25](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=25)** When we think of the manufacturing industry, we often think about a production plant that produces identical [[Microsoft Products|products]] in a consistent manner.
 >
 > **[0:35](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=35)** All planning is done upfront with detailed planning and documentation, and the scope of work is fixed.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=96)** This is how the waterfall lifecycle looks like.
 >
-> **[1:40](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=100)** You start with what is called the requirements analysis phase, where you capture requirements.
+> **[1:40](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=100)** You start with what is called the [[Requirements Analysis]] phase, where you capture requirements.
 >
 > **[1:46](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=106)** This is followed by the analysis and design phase, where you produce high-level design and test specifications.
 >
@@ -175,9 +173,9 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=194)** Or you could realize that the product had a major architectural flaw that prevented it from being deployed.
 >
-> **[3:22](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=202)** In other words, your product development initiative could completely fail after a lot of money and time had been spent on it.
+> **[3:22](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=202)** In other words, your [[Product Development]] initiative could completely fail after a lot of money and time had been spent on it.
 >
-> **[3:32](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=212)** In software development, everything changes: requirements, skills, people, environment, business rules, et cetera.
+> **[3:32](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=212)** In [[Software Development]], everything changes: requirements, skills, people, environment, business rules, et cetera.
 >
 > **[3:42](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980&t=222)** As time progresses, you learn better techniques of doing things.
 >
@@ -193,14 +191,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), next (4), [[Software Development]] (3), [[Microsoft Products|Products]] (2), feature (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Microsoft Products|Products]] (2), [[Requirements Analysis]] (1), [[Product Development]] (1)
 > **Definitions:** in other words (2), is called (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Waterfall model: Application
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-application?u=76281980)
+#### [Waterfall model: Application](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,20 +229,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), business (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Spiral model
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980)
+#### [Spiral model](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=0)** - [Speaker] The spiral development model was presented by Barry Boehm in his research paper in 1986.
 >
-> **[0:08](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=8)** It was one of the oldest software development models that proposed an iterative development approach for building software.
+> **[0:08](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=8)** It was one of the oldest [[Software Development]] models that proposed an iterative development approach for building software.
 >
 > **[0:18](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=18)** The development approach was a mix of waterfall and iterative development models.
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=223)** You start with the first iteration and transition through the four phases iteratively.
 >
-> **[3:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=228)** The top-right quadrant is focused on risk management, and most of the prototyping work is done here.
+> **[3:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=228)** The top-right quadrant is focused on risk management, and most of the [[Prototyping]] work is done here.
 >
 > **[3:56](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=236)** The bottom-right quadrant is where you perform software engineering activities.
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=278)** Barry Boehm's original research paper includes a graph that only showed four iterations, but that does not mean you cannot have more.
 >
-> **[4:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=287)** The spiral software development model was a pioneering approach at that time to identify that software development is inherently an iterative process, something that modern agile processes identified and advocated a few years later.
+> **[4:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=287)** The spiral software development model was a pioneering approach at that time to identify that software development is inherently an iterative process, something that modern [[Agile Development|agile]] processes identified and advocated a few years later.
 >
 > **[5:06](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spiral-model?u=76281980&t=306)** So this model was ahead of its time.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Engineering]] (4), [[Software Development]] (3), [[Prototyping]] (2), product (2)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Prototyping]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is called (3), is an  (1)
 > **Speakers:** - [speaker] (1)
 
@@ -336,8 +331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dynamic systems development method (DSDM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980)
+#### [Dynamic systems development method (DSDM)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,11 +341,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=8)** This was the era where organizations were slowly going away from the waterfall approach and construction industry liked formal processes.
 >
-> **[0:18](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=18)** When DSDM was introduced, a new approach called RAD, or Rapid Application Development, was becoming the norm.
+> **[0:18](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=18)** When DSDM was introduced, a new approach called RAD, or Rapid [[Application Development]], was becoming the norm.
 >
 > **[0:27](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=27)** It was fairly easy to build mock up screens, get quick customer feedback and build system features very quickly.
 >
-> **[0:36](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=36)** While this approach was very agile, there was also a growing concern among organizations that rapid application development needed some structure or formal processes to maintain good software quality.
+> **[0:36](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=36)** While this approach was very [[Agile Development|agile]], there was also a growing concern among organizations that rapid application development needed some structure or formal processes to maintain good software quality.
 >
 > **[0:50](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=50)** So a group of organizations built a framework for project delivery and project management called Dynamic System Development Method, or DSDM.
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=83)** DSDM continued to be the project development standard in most of Europe for the next several years.
 >
-> **[1:32](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=92)** Please note that they viewed software system building initiatives as projects rather than products.
+> **[1:32](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=92)** Please note that they viewed software system building initiatives as projects rather than [[Microsoft Products|products]].
 >
 > **[1:39](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980&t=99)** In 2014, the DSDM handbook was made available online to the public.
 >
@@ -417,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), management (3), business (3), [[Application Development]] (2), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Application Development]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dsdm (14), rad (1), iso (1), prince2 (1)
 > **Definitions:** stands for (1), is called (1)
 > **CLI Commands:** find (1)
@@ -425,12 +419,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature-driven development (FDD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980)
+#### [Feature-driven development (FDD)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=0)** - [Instructor] Feature-driven development, or FDD, is a lightweight and agile process.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=0)** - [Instructor] Feature-driven development, or FDD, is a lightweight and [[Agile Development|agile]] process.
 >
 > **[0:06](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=6)** In the world of FDD, software is viewed as a collection of working features.
 >
@@ -488,7 +481,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=179)** FDD was developed in the era of unified modeling language, a set of notations to represent an object-oriented system, so a lot of UML and object-oriented design is used in FDD.
 >
-> **[3:14](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=194)** Tracking status updates in any software development is challenging, subjective, and prone to human judgment.
+> **[3:14](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=194)** Tracking status updates in any [[Software Development]] is challenging, subjective, and prone to human judgment.
 >
 > **[3:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=201)** We looked at the five steps of FDD.
 >
@@ -508,13 +501,13 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=263)** FDD scales very well because teams can work in parallel on multiple features and can integrate or reuse their work whenever necessary.
 >
-> **[4:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=273)** In fact, the earliest FDD implementations were used to build banking systems successfully.
+> **[4:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=273)** In fact, the earliest FDD implementations were used to build [[Banking]] systems successfully.
 >
 > **[4:40](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/feature-driven-development-fdd?u=76281980&t=280)** The ability to track completion status is another characteristic of FDD that was discussed earlier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (16), business (4), teams (3), parallel (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Software Development]] (1), [[Banking]] (1)
 > **Env Vars:** fdd (15), uml (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Versions:** 2.1 (2), 1.1 (1), 1.2 (1)
@@ -522,8 +515,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Crystal methods overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980)
+#### [Crystal methods overview](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=192)** For example, crystal clear just needs three roles, sponsor, senior designer and programmer, and just one deliverable, working software with minimal documentation.
 >
-> **[3:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=206)** A crystal orange method needs more roles such as architect, sponsor, business analyst, project manager, et cetera, and more deliverables such as requirements document, user interface design, user manual, and test cases.
+> **[3:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=206)** A crystal orange method needs more roles such as architect, sponsor, business analyst, project manager, et cetera, and more deliverables such as requirements document, [[User Interface Design]], user manual, and test cases.
 >
 > **[3:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=224)** The crystal method you choose depends only on the team size, which was shown on X axis of the graph in the previous slide.
 >
@@ -595,9 +587,9 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=260)** In Alistair Cockburn's research, he determined the most important factors for a project success were people's interactions, effective communication, and collaboration.
 >
-> **[4:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=273)** This is very similar to the agile manifestos individuals and interactions over processes and tools approach.
+> **[4:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=273)** This is very similar to the [[Agile Development|agile]] manifestos individuals and interactions over processes and tools approach.
 >
-> **[4:42](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=282)** Crystal methods was perhaps the first approach that prioritized people over formal processes and advocated that there is no one size fits all methodology when it comes to software development.
+> **[4:42](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=282)** Crystal methods was perhaps the first approach that prioritized people over formal processes and advocated that there is no one size fits all methodology when it comes to [[Software Development]].
 >
 > **[4:56](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/crystal-methods-overview?u=76281980&t=296)** Also, crystal methods use frequent delivery of working software and teams improve their efficiency and output by a consistent process of reflective improvement.
 >
@@ -611,7 +603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1), business (1), [[User Interface Design]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[User Interface Design]] (1), [[Agile Development|Agile]] (1), [[Software Development]] (1)
 > **Analogies:** for example (5), such as (3), similar to (1)
 > **Definitions:** is a  (3), known as (1), in other words (1), is called (1)
 > **Warnings:** note that (2)
@@ -623,12 +615,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980)
+#### [Scrum overview](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=0)** - [Instructor] Scrum is the most popular and widely adopted agile framework.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=0)** - [Instructor] [[Scrum]] is the most popular and widely adopted [[Agile Development|agile]] framework.
 >
 > **[0:05](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=5)** It's a lightweight framework with just a handful of events, accountabilities, and deliverables, and a small set of rules and guidelines.
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=122)** The three Scrum accountabilities, previously known as roles, are Product Owner, Scrum Master, and Developers.
 >
-> **[2:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=132)** Let's look at each accountability in a little more detail.
+> **[2:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=132)** Let's look at each [[Accountability]] in a little more detail.
 >
 > **[2:17](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980&t=137)** Product Owner owns the product backlog.
 >
@@ -696,18 +687,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (22), product (18), functional (5), [[Agile Development|Agile]] (4), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Scrum]] (22), [[Agile Development|Agile]] (4), [[Accountability]] (2)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **Analogies:** such as (2)
 > **URLs:** [scrumguides.org](https://scrumguides.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scrum workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980)
+#### [Scrum workflow](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=0)** - [Narrator] Let's see how a Scrum team builds a product incrementally and iteratively.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=0)** - [Narrator] Let's see how a [[Scrum]] team builds a product incrementally and iteratively.
 >
 > **[0:06](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=6)** At the beginning of the sprint, the Scrum team comes together for an event called sprint planning.
 >
@@ -763,18 +753,17 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=208)** If I were to pick two key aspects of Scrum, I would highlight these two.
 >
-> **[3:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=213)** One, it's simple but comprehensive framework to build products incrementally and deliver business value faster and more often.
+> **[3:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=213)** One, it's simple but comprehensive framework to build [[Microsoft Products|products]] incrementally and deliver business value faster and more often.
 >
 > **[3:43](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-workflow?u=76281980&t=223)** And two, one key rule of Scrum is to produce a potentially shippable product increment in every sprint.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (14), product (9), business (2), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Lean overview and key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980)
+#### [Lean overview and key concepts](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,15 +771,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=4)** This was the time where many economies were devastated and people had poor buying power.
 >
-> **[0:11](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=11)** There was a lot of demand to rebuild factories and manufacture products with maximum efficiency.
+> **[0:11](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=11)** There was a lot of demand to rebuild factories and manufacture [[Microsoft Products|products]] with maximum efficiency.
 >
 > **[0:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=19)** The Toyota production system was one such efficient and popular system.
 >
 > **[0:25](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=25)** It was a combination of management style, working culture, and production environment that was aimed at reducing waste and manufacturing at optimal efficiency.
 >
-> **[0:37](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=37)** Toyota's manufacturing process inspired Mary and Tom Poppendieck's 2003 book, "Lean Software Development," where they taught how many of these manufacturing philosophies and techniques could be applied to software development.
+> **[0:37](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=37)** Toyota's manufacturing process inspired Mary and Tom Poppendieck's 2003 book, "Lean [[Software Development]]," where they taught how many of these manufacturing philosophies and techniques could be applied to software development.
 >
-> **[0:53](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=53)** Lean principles can be applied to software and hardware projects.
+> **[0:53](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=53)** Lean principles can be applied to software and [[Hardware]] projects.
 >
 > **[0:59](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=59)** Lean software development is a collection of principles centered on the key tenet to minimize waste.
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=118)** Here is a slightly oversimplified example of a manufacturing value stream map.
 >
-> **[2:04](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=124)** Information flows from right to left in the upper part of the diagram, where a customer submits an order to an office which orders raw materials from a supplier.
+> **[2:04](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=124)** Information flows from right to left in the upper part of the diagram, where a customer submits an order to an [[Microsoft Office|office]] which orders raw materials from a supplier.
 >
 > **[2:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-overview-and-key-concepts?u=76281980&t=136)** This is the information flow part of VSM, and would be produced for an aggregate of customer orders.
 >
@@ -840,14 +829,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Software Development]] (3), [[Microsoft Office|Office]] (2), power (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Env Vars:** vsm (3)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lean value stream mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-value-stream-mapping?u=76281980)
+#### [Lean value stream mapping](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-value-stream-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +885,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (1), data (1)
 > **Env Vars:** vsm (2)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -905,12 +892,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lean principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980)
+#### [Lean principles](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=0)** - [Instructor] Lean software development is a collection of principles centered on maximizing efficiencies and minimizing waste.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=0)** - [Instructor] Lean [[Software Development]] is a collection of principles centered on maximizing efficiencies and minimizing waste.
 >
 > **[0:09](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=9)** Let's dig deeper into the core principles of lean and continue to review principles as applicable to software development.
 >
@@ -932,7 +918,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=68)** Amplify learning.
 >
-> **[1:10](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=70)** Agile practices are iterative, with delivery of business value early and often.
+> **[1:10](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=70)** [[Agile Development|Agile]] practices are iterative, with delivery of business value early and often.
 >
 > **[1:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/lean-principles?u=76281980&t=76)** Software development is complex with the potential for change in requirements and priorities.
 >
@@ -996,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (5), teams (3), database (2), [[Agile Development|Agile]] (1), business (1)
+> **Frameworks & Libraries:** [[Software Development]] (5), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (3), is called (3)
 > **CLI Commands:** apt (1), make (1)
 > **Analogies:** picture (1), for example (1)
@@ -1004,8 +990,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kanban
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban?u=76281980)
+#### [Kanban](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban?u=76281980&t=15)** Even though Kanban looks simple at first sight, it's a very powerful approach based on advanced queuing theory.
 >
-> **[0:23](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban?u=76281980&t=23)** Let's see an example of how a software development team applies Kanban.
+> **[0:23](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban?u=76281980&t=23)** Let's see an example of how a [[Software Development]] team applies Kanban.
 >
 > **[0:30](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban?u=76281980&t=30)** This is an example of a Kanban Board developed with Planview's AgilePlace product.
 >
@@ -1069,14 +1054,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Software Development]] (1), product (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Env Vars:** wip (7)
 > **Definitions:** is a  (2), is an  (1), known as (1), in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kanban board
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban-board?u=76281980)
+#### [Kanban board](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/kanban-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,13 +1104,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1), feature (1), teams (1)
 > **Env Vars:** wip (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Extreme programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980)
+#### [Extreme programming](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,11 +1134,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=79)** XP has nearly a dozen core practices.
 >
-> **[1:23](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=83)** More information about these practices is available at the Agile Alliance website.
+> **[1:23](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=83)** More information about these practices is available at the [[Agile Development|Agile]] Alliance website.
 >
 > **[1:29](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=89)** In this lesson, we will cover two XP practices that are used by many teams even today.
 >
-> **[1:35](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=95)** They are pair programming and test-driven development.
+> **[1:35](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=95)** They are pair programming and [[Test-Driven Development]].
 >
 > **[1:39](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=99)** Let's review these two practices in a little more detail.
 >
@@ -1204,7 +1186,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=224)** That is why they find problems developers don't find.
 >
-> **[3:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=228)** Test-driven development can help reduce that bias and unearth those problems earlier in the software development cycle.
+> **[3:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=228)** Test-driven development can help reduce that bias and unearth those problems earlier in the [[Software Development]] cycle.
 >
 > **[3:57](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/extreme-programming?u=76281980&t=237)** Extreme programming has been criticized for being over simplistic and ineffective for building large systems or for teams of inexperienced developers.
 >
@@ -1212,20 +1194,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Test-Driven Development]] (5), teams (4), [[Engineering]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Agile Development|Agile]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spotify engineering model
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980)
+#### [Spotify engineering model](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=0)** - [Instructor] The Spotify model refers to a great case study and culture rather than a framework.
 >
-> **[0:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=7)** Spotify's Agile approach is unique in the sense that it does not follow any single Agile framework or methodology.
+> **[0:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=7)** Spotify's [[Agile Development|Agile]] approach is unique in the sense that it does not follow any single Agile framework or methodology.
 >
 > **[0:15](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=15)** In fact, Spotify does not claim to have any methodology.
 >
@@ -1235,7 +1216,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=37)** Spotify loosely defines this approach towards agility as the Spotify engineering culture.
 >
-> **[0:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=47)** Spotify was a Scrum company around 2008 when they were a small company.
+> **[0:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=47)** Spotify was a [[Scrum]] company around 2008 when they were a small company.
 >
 > **[0:53](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-model?u=76281980&t=53)** They ran into scaling issues with Scrum and found many Scrum practices counterproductive as they continue to grow.
 >
@@ -1289,23 +1270,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (4), teams (4), [[Agile Development|Agile]] (3), feature (2), next (2)
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Agile Development|Agile]] (3)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spotify engineering culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980)
+#### [Spotify engineering culture](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980&t=0)** - [Person] The Spotify Agile model has led to a unique personnel structure.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980&t=0)** - [Person] The Spotify [[Agile Development|Agile]] model has led to a unique personnel structure.
 >
 > **[0:06](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980&t=6)** Spotify teams are very autonomous and have the freedom of selecting what works for them.
 >
-> **[0:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980&t=12)** Most teams use a combination of Scrum and Kanban, but their core values are based on lean principles of avoiding waste and providing business value to customers quickly and often.
+> **[0:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980&t=12)** Most teams use a combination of [[Scrum]] and Kanban, but their core values are based on lean principles of avoiding waste and providing business value to customers quickly and often.
 >
 > **[0:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/spotify-engineering-culture?u=76281980&t=26)** Teams choose how they execute their work and the tools.
 >
@@ -1377,14 +1357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (15), [[Agile Development|Agile]] (5), database (3), [[Scrum]] (2), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Scrum]] (2)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** such as (3), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [person] (1)
 
-#### DevOps: Background
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980)
+#### [DevOps: Background](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,13 +1371,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=6)** The first team comprises of developers and testers that write and validate software.
 >
-> **[0:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=12)** This is the dev of DevOps, but good software is useful only if it can be deployed and released to your customers.
+> **[0:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=12)** This is the dev of [[DevOps]], but good software is useful only if it can be deployed and released to your customers.
 >
 > **[0:22](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=22)** The release part of the software involves knowledge of servers, middleware, network and storage configurations, and monitoring techniques that most developers are not comfortable with.
 >
 > **[0:35](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=35)** This is done by the operations team and is the ops part of DevOps.
 >
-> **[0:43](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=43)** An agile organization is expected to have a fast and efficient software delivery pipeline where you should be able to release running features to your customers as quickly as possible.
+> **[0:43](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=43)** An [[Agile Development|agile]] organization is expected to have a fast and efficient software delivery pipeline where you should be able to release running features to your customers as quickly as possible.
 >
 > **[0:56](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=56)** You need a culture of close cooperation between dev and ops to make your software delivery pipeline efficient.
 >
@@ -1434,7 +1413,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=183)** In their quest for enhanced agility, agile teams started producing integrated product increments more frequently.
 >
-> **[3:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=192)** The agile teams infused good agile practices, such as test-driven development and refactoring code to produce stable releases.
+> **[3:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=192)** The agile teams infused good agile practices, such as [[Test-Driven Development]] and refactoring code to produce stable releases.
 >
 > **[3:20](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-background?u=76281980&t=200)** The code quality was improved, but this would often break things in deployment.
 >
@@ -1450,14 +1429,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (8), teams (5), product (4), business (2)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (8), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### DevOps: Concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980)
+#### [DevOps: Concepts](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1445,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=19)** It includes learning and implementing integration practices and patterns.
 >
-> **[0:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=26)** DevOps refers to a culture of cooperation between dev and ops.
+> **[0:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=26)** [[DevOps]] refers to a culture of cooperation between dev and ops.
 >
 > **[0:32](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=32)** DevOps also includes the use of tools to automate various processes ranging from build automation to automated acceptance testing to programmatically provisioning and configuring infrastructure and automated monitoring of deployed applications.
 >
@@ -1479,7 +1457,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=73)** Let's review three key practices of DevOps.
 >
-> **[1:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=79)** Continuous integration, or CI, is the practice where developers frequently commit changes to a centralized repository to trigger an automated build.
+> **[1:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=79)** [[Continuous Integration (CI)|Continuous integration]], or CI, is the practice where developers frequently commit changes to a centralized repository to trigger an automated build.
 >
 > **[1:30](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=90)** The build process does multiple things.
 >
@@ -1491,7 +1469,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=118)** This practice keeps the code base in a stable state.
 >
-> **[2:04](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=124)** Continuous delivery, or CD, is an extension of continuous integration, and is the capability to always keep a product in a stable state after every change so that the product is potentially deployable.
+> **[2:04](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=124)** [[Continuous Delivery (CD)|Continuous delivery]], or CD, is an extension of continuous integration, and is the capability to always keep a product in a stable state after every change so that the product is potentially deployable.
 >
 > **[2:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=139)** This could mean deploying the application to a testing environment.
 >
@@ -1519,7 +1497,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=220)** A working software feature should be available to your customers very quickly or come back to the developer very quickly if it's not ready for release.
 >
-> **[3:51](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=231)** DevOps is not a replacement for agile.
+> **[3:51](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=231)** DevOps is not a replacement for [[Agile Development|agile]].
 >
 > **[3:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/devops-concepts?u=76281980&t=234)** In fact, DevOps enables end-to-end agility with faster and stable deployments, and so compliments traditional agile approaches.
 >
@@ -1539,23 +1517,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (18), [[Continuous Integration (CI)|Continuous integration]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), product (3), [[Agile Development|Agile]] (3)
+> **Frameworks & Libraries:** [[DevOps]] (18), [[Continuous Integration (CI)|Continuous integration]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Agile Development|Agile]] (3)
 > **Definitions:** known as (1), refers to (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2), cd (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microservices: Key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980)
+#### [Microservices: Key concepts](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=0)** - [Presenter] Any discussion on software development lifecycle would be incomplete without talking about microservices.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=0)** - [Presenter] Any discussion on [[Software Development]] lifecycle would be incomplete without talking about [[Microservices]].
 >
 > **[0:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=7)** This is because microservices represent an architectural and implementation pattern that facilitates lower time to market and efficient software application lifecycle.
 >
-> **[0:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=21)** Before we get into the details, let's take a moment to review the history of software deployment so we understand why we need microservices.
+> **[0:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=21)** Before we get into the details, let's take a moment to review the history of [[Software Deployment]] so we understand why we need microservices.
 >
 > **[0:31](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=31)** In the era of mainframe computers, software was deployed as a large executable on computers with massive computational power.
 >
@@ -1573,7 +1550,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=94)** This type of code organization and deployment helped create loosely coupled layers, but the isolation was not at deployment level.
 >
-> **[1:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=104)** In other words, code was more modularized with separation of concerns and specialization, but the entire code base was deployed as a single unit to web servers and application servers.
+> **[1:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=104)** In other words, code was more modularized with separation of concerns and specialization, but the entire code base was deployed as a single unit to [[Web Servers]] and application servers.
 >
 > **[1:57](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=117)** Memory leakage in one part of the application could cause the entire application to crash.
 >
@@ -1591,7 +1568,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=157)** The decomposition for microservices is based on business functionality and driven by domain.
 >
-> **[2:45](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=165)** The system could be designed as a collection of services like inventory service, customer management service, order management service, and customer support service, et cetera.
+> **[2:45](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=165)** The system could be designed as a collection of services like inventory service, customer management service, order management service, and [[Customer Support]] service, et cetera.
 >
 > **[2:56](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=176)** Each service could have its own code organization layers and its own backend data store, and each service would be independently deployable.
 >
@@ -1609,33 +1586,32 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=225)** Microservices have disadvantages too.
 >
-> **[3:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=228)** The distributed nature of microservices requires handling complex interprocess communications that could lead to performance issues or challenges with integration testing calls that span multiple services.
+> **[3:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=228)** The distributed nature of microservices requires handling complex interprocess communications that could lead to performance issues or challenges with [[Integration Testing]] calls that span multiple services.
 >
-> **[4:01](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=241)** Having multiple databases could cause issues with duplication of data, and also challenges with database transactions that span multiple databases.
+> **[4:01](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=241)** Having multiple [[Databases]] could cause issues with duplication of data, and also challenges with database transactions that span multiple databases.
 >
 > **[4:11](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-key-concepts?u=76281980&t=251)** There's no unique way of developing microservices, but the key principle is to make each service independently deployable, and I'll explain that a bit more in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (11), application (8), next (3), database (3), data (3)
+> **Frameworks & Libraries:** [[Microservices]] (11), [[Databases]] (2), [[Software Development]] (1), [[Software Deployment]] (1), [[Web Servers]] (1)
 > **Definitions:** known as (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Microservices: Deployment scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980)
+#### [Microservices: Deployment scenarios](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=0)** - [Instructor] Now that we are familiar with the basic concepts of microservices, let's take a moment to review a few architectural and implementation patterns.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=0)** - [Instructor] Now that we are familiar with the basic concepts of [[Microservices]], let's take a moment to review a few architectural and implementation patterns.
 >
-> **[0:09](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=9)** Let's talk about data management first.
+> **[0:09](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=9)** Let's talk about [[Data Management]] first.
 >
 > **[0:12](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=12)** You could have a single database for multiple services.
 >
-> **[0:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=16)** The advantage with this approach is that you do not need to worry about any data replication across multiple databases.
+> **[0:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=16)** The advantage with this approach is that you do not need to worry about any data replication across multiple [[Databases]].
 >
 > **[0:24](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=24)** But the disadvantage is that there are multiple services with dependencies on a single database.
 >
@@ -1645,13 +1621,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=48)** Another disadvantage is that not all services require identical types of databases.
 >
-> **[0:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=54)** For example, a service may need transactional rights and fixed schema, and thereby would need a relational database, whereas another service could only need storing key value pairs, and so a NoSQL database would be more appropriate.
+> **[0:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=54)** For example, a service may need transactional rights and fixed schema, and thereby would need a relational database, whereas another service could only need storing key value pairs, and so a [[NoSQL]] database would be more appropriate.
 >
 > **[1:11](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=71)** Having one database per service is usually the right approach.
 >
 > **[1:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=76)** So the next challenge is, how do we keep different databases in sync?
 >
-> **[1:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=81)** For example, the customer support case database would need information about customers from the customer database.
+> **[1:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=81)** For example, the [[Customer Support]] case database would need information about customers from the customer database.
 >
 > **[1:29](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=89)** You could set up replication from the customer database to the customer support case database.
 >
@@ -1665,11 +1641,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=128)** Such type of interactions would be asynchronous and would reduce dependencies among different services.
 >
-> **[2:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=136)** For business operations that would require a real time response involving interactions among multiple services, you would need a mechanism to track all operations performed across multiple services.
+> **[2:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=136)** For [[Business Operations]] that would require a real time response involving interactions among multiple services, you would need a mechanism to track all operations performed across multiple services.
 >
 > **[2:29](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=149)** If any operation failed, you would have to apply it reversing or compensating operations to back out changes made to all the involved services.
 >
-> **[2:42](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=162)** A good practice is to handle all operations invoked on services via lightweight application programming interfaces, or API gateways.
+> **[2:42](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=162)** A good practice is to handle all operations invoked on services via lightweight [[Application Programming Interfaces (API)|application programming interfaces]], or API gateways.
 >
 > **[2:52](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/microservices-deployment-scenarios?u=76281980&t=172)** Also, different services could be scaled independently by using automation based on server utilization or network or other related metrics.
 >
@@ -1695,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Microservices]] (4), data (3), [[Databases]] (3), [[Customer Support]] (3)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Databases]] (3), [[Customer Support]] (3), [[Data Management]] (1), [[NoSQL]] (1)
 > **CLI Commands:** docker (1), make (1), find (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
@@ -1704,20 +1680,19 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Twelve-factor app, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980)
+#### [Twelve-factor app, part 1](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=0)** - [Instructor] Twelve-Factor App refers to a set of application design, development, and deployment principles that are aligned with best practices and help establish an efficient DevOps pipeline.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=0)** - [Instructor] Twelve-Factor App refers to a set of application design, development, and deployment principles that are aligned with best practices and help establish an efficient [[DevOps]] pipeline.
 >
 > **[0:13](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=13)** The principles, developed in 2011, by engineers at Heroku were written specifically for web applications exposed as services, but the principles are generic in nature and can be applied to almost all applications.
 >
 > **[0:29](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=29)** Let's discuss the principles in more details.
 >
-> **[0:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=33)** The first principle, called codebase, states that there should be one source control system, like Git or Subversion, per application.
+> **[0:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=33)** The first principle, called codebase, states that there should be one source control system, like [[Git]] or Subversion, per application.
 >
-> **[0:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=44)** Each application should have its own dedicated codebase, such as a separate GitHub repository.
+> **[0:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=44)** Each application should have its own dedicated codebase, such as a separate [[GitHub]] repository.
 >
 > **[0:51](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=51)** Functionality that is shared across multiple applications should be extracted into its own separate code library with its own codebase.
 >
@@ -1729,7 +1704,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=92)** This is important because applications may work in one environment, but fail in another due to missing dependencies.
 >
-> **[1:39](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=99)** To comply with this principle, developers need to explicitly declare the specific versions of dependencies that their application requires, such as a particular version of a Python library.
+> **[1:39](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=99)** To comply with this principle, developers need to explicitly declare the specific versions of dependencies that their application requires, such as a particular version of a [[Python (Programming Language)|Python]] library.
 >
 > **[1:51](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=111)** This can be done using package managers and dependency files, for example, requirements.text, in Python.
 >
@@ -1747,7 +1722,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=197)** The backing services principle states that backing services that are services that the application consumes over a network should be treated as attached resources.
 >
-> **[3:29](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=209)** In other words, there should be no change in the application code when it runs locally and connects to a local database, running on the development machine, versus when it connects to a quality assurance database deployed in a different server.
+> **[3:29](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=209)** In other words, there should be no change in the application code when it runs locally and connects to a local database, running on the development machine, versus when it connects to a [[Quality Assurance]] database deployed in a different server.
 >
 > **[3:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-1?u=76281980&t=224)** For the application, the backing service is just a URL that needs to be updated if pointing to a different backing service.
 >
@@ -1767,7 +1742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), web (3), [[Python (Programming Language)|Python]] (2), database (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[DevOps]] (1), [[Git]] (1), [[GitHub]] (1), [[Quality Assurance]] (1)
 > **Definitions:** refers to (2), in other words (1), known as (1), is called (1), is a  (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** python (2), git (1)
@@ -1776,8 +1751,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 
-#### Twelve-factor app, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980)
+#### [Twelve-factor app, part 2](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1793,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=56)** The port binding principle expects 12 factor applications to expose their functionality without depending on a web server, such as Apache or IIS.
 >
-> **[1:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=67)** For example, a Python Flask application is exposed via port 5,000 by default with a web server library being part of the application itself.
+> **[1:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=67)** For example, a [[Python (Programming Language)|Python]] Flask application is exposed via port 5,000 by default with a web server library being part of the application itself.
 >
 > **[1:19](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=79)** You can run multiple instances of the application on the same or different servers by using different port numbers.
 >
@@ -1803,7 +1777,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=105)** Each 12 factor app is a set of independent web or background processes similar to Unix daemon processes.
 >
-> **[1:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=114)** An application would handle a workload via a web process or a background process running as a top level process, not embedded within another process such as a web server, like Apache, or a runtime, like Java Virtual Machine.
+> **[1:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=114)** An application would handle a workload via a web process or a background process running as a top level process, not embedded within another process such as a web server, like Apache, or a runtime, like [[Java]] Virtual Machine.
 >
 > **[2:10](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=130)** Running an application as a set of independent processes facilitates horizontal scaling.
 >
@@ -1837,19 +1811,19 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=251)** A 12 factor app uses standard output such as print statements to output logging information, but is decoupled from the other aspects of logging.
 >
-> **[4:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=261)** Functionality such as log routing is handled by log routers like FluentD, and log analytics is handled by another system such as Splunk.
+> **[4:21](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=261)** Functionality such as log [[Routing]] is handled by log routers like FluentD, and log analytics is handled by another system such as Splunk.
 >
 > **[4:33](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=273)** As an application admin, you often run one-time scripts to perform operations such as data cleanup or synchronizing your application's code with the backend database schema.
 >
-> **[4:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=284)** The last principle states that such type of administrative operations should be version control and part of the application code base.
+> **[4:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=284)** The last principle states that such type of administrative operations should be [[Version Control]] and part of the application code base.
 >
-> **[4:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=294)** In other words, the system administration functionality should ship with the rest of the application.
+> **[4:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=294)** In other words, the [[System Administration]] functionality should ship with the [[Representational State Transfer (REST)|rest]] of the application.
 >
-> **[5:02](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=302)** If you want to establish an efficient DevOps pipeline, I encourage you to take the time to become familiar with these 12 principles.
+> **[5:02](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/twelve-factor-app-part-2?u=76281980&t=302)** If you want to establish an efficient [[DevOps]] pipeline, I encourage you to take the time to become familiar with these 12 principles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), web (5), data (3), database (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Routing]] (1), [[Version Control]] (1), [[System Administration]] (1)
 > **Analogies:** such as (8), for example (2), similar to (1)
 > **CLI Commands:** docker (3), apache (2), python (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1858,8 +1832,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chaos engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980)
+#### [Chaos engineering](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,19 +1842,19 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=15)** Large distributed enterprise systems are even more prone to failures.
 >
-> **[0:20](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=20)** These failures could come in the form of hardware issues, inability to scale to workloads, network issues, application crashes caused by unhandled exceptions in code, et cetera.
+> **[0:20](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=20)** These failures could come in the form of [[Hardware]] issues, inability to scale to workloads, network issues, application crashes caused by unhandled exceptions in code, et cetera.
 >
-> **[0:34](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=34)** Functional testing for business requirements and non-functional testing for aspects such as system performance, maintainability, user experience, et cetera, reduces chances of failures.
+> **[0:34](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=34)** Functional testing for business requirements and non-functional testing for aspects such as system performance, maintainability, [[User Experience (UX)|user experience]], et cetera, reduces chances of failures.
 >
 > **[0:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=47)** But we also need a proactive approach to simulate a number of conditions that could cause failures and test the resilience of our applications against those conditions.
 >
 > **[0:58](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=58)** This discipline of proactively causing issues to test resilience is called chaos engineering.
 >
-> **[1:05](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=65)** Why does chaos engineering need a mention in a course on software development lifecycle?
+> **[1:05](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=65)** Why does chaos engineering need a mention in a course on [[Software Development]] lifecycle?
 >
 > **[1:11](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=71)** Because chaos engineering is not only a discipline of testing the reliability of a system, it also has a lifecycle which needs to be part of the software development lifecycle.
 >
-> **[1:24](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=84)** Let's say you deployed a website that runs on a set of web servers with a load balancer in front and a database as the backend data store.
+> **[1:24](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=84)** Let's say you deployed a website that runs on a set of [[Web Servers]] with a load balancer in front and a database as the backend data store.
 >
 > **[1:34](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/chaos-engineering?u=76281980&t=94)** Now let's think of a few scenarios that could cause your website to go down.
 >
@@ -1929,7 +1902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), database (7), [[Engineering]] (6), application (2), functional (2)
+> **Frameworks & Libraries:** [[Web Servers]] (9), [[Software Development]] (2), [[Hardware]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is called (2), is a  (2), in other words (1), is an  (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
@@ -1942,8 +1915,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CMM overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980)
+#### [CMM overview](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2011,7 +1983,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980&t=221)** At maturity level five or optimizing maturity level, your organization is focused at continuous process improvement.
 >
-> **[3:52](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980&t=232)** How is CMMI applicable to software development and agile approaches?
+> **[3:52](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980&t=232)** How is CMMI applicable to [[Software Development]] and [[Agile Development|agile]] approaches?
 >
 > **[3:57](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980&t=237)** CMMI holds a lot of promise in this area.
 >
@@ -2027,7 +1999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Engineering]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Software Development]] (1)
 > **Env Vars:** cmmi (13)
 > **Definitions:** is a  (4), in other words (1)
 > **Analogies:** for example (1), it's like (1), similar to (1)
@@ -2035,12 +2007,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Six Sigma overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980)
+#### [Six Sigma overview](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=0)** - [Instructor] Lean and six sigma are both focused on minimizing waste and maximizing customer value.
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=0)** - [Instructor] Lean and [[Six Sigma]] are both focused on minimizing waste and maximizing customer value.
 >
 > **[0:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=7)** Lean when combined with six sigma, can improve customer satisfaction and improve the quality of goods and services you produce.
 >
@@ -2050,7 +2021,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=34)** The goal of six sigma is to reduce defects and keep the output of a process within certain limits of a baseline.
 >
-> **[0:43](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=43)** Developed at Motorola in the 1980s and popularized by Jack Welch and General Electric in the 1990s, six sigma was designed to improve the quality of products.
+> **[0:43](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=43)** Developed at Motorola in the 1980s and popularized by Jack Welch and General Electric in the 1990s, six sigma was designed to improve the quality of [[Microsoft Products|products]].
 >
 > **[0:55](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-overview?u=76281980&t=55)** Its effectiveness led to widespread adoption by companies worldwide.
 >
@@ -2067,18 +2038,17 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Six Sigma]] (8), [[Microsoft Products|Products]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Six Sigma and software
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980)
+#### [Six Sigma and software](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=0)** - [Instructor] How is Six Sigma applicable to software development?
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=0)** - [Instructor] How is [[Six Sigma]] applicable to [[Software Development]]?
 >
 > **[0:05](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=5)** Manufacturing is a pure science where you can produce the same type of product repeatedly, and quantifying defects is manageable.
 >
 > **[0:16](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=16)** Software development is partly science and partly art, and the procedure of measuring quality can be somewhat challenging.
 >
-> **[0:24](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=24)** You're not producing tangible products repeatedly, and to make things more complex, customers' expectations, team skill level, organizational culture, politics, technology, et cetera, are different for different projects and products, so it becomes extremely challenging to measure the sigma level of a software development process.
+> **[0:24](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=24)** You're not producing tangible [[Microsoft Products|products]] repeatedly, and to make things more complex, customers' expectations, team skill level, [[Organizational Culture]], politics, technology, et cetera, are different for different projects and products, so it becomes extremely challenging to measure the sigma level of a software development process.
 >
 > **[0:49](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/six-sigma-and-software?u=76281980&t=49)** Six Sigma generally works at a macro level, so when you're talking about Six Sigma, you're talking about high-level processes, not how to use one software product.
 >
@@ -2138,21 +2108,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (9), [[Software Development]] (5), product (5), [[Microsoft Products|Products]] (4), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (9), [[Software Development]] (5), [[Microsoft Products|Products]] (4), [[Organizational Culture]] (1)
 > **Env Vars:** dmaic (6)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980)
+#### [Generative AI assistance](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=0)** - [Narrator] Why should we mention generative artificial intelligence, or GenAI, in a course on software development lifecycle?
+> **[0:00](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=0)** - [Narrator] Why should we mention generative [[Artificial Intelligence (AI)|artificial intelligence]], or GenAI, in a course on [[Software Development]] lifecycle?
 >
-> **[0:09](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=9)** It's because generative AI is now an inseparable part of our personal and professional life.
+> **[0:09](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=9)** It's because [[Generative AI]] is now an inseparable part of our personal and professional life.
 >
 > **[0:17](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=17)** In the world of software development, use of GenAI tools to generate code, perform code analysis, generate architecture diagrams, troubleshoot code, generate documentation, et cetera, can boost productivity to a great extent.
 >
@@ -2160,25 +2129,25 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=45)** Let me share a story with you.
 >
-> **[0:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=47)** I was tasked to build a web application based on the Python Django framework.
+> **[0:47](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=47)** I was tasked to build a web application based on the [[Python (Programming Language)|Python]] [[Django]] framework.
 >
 > **[0:53](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=53)** I had no prior experience with the Django framework, so I used a very popular generative AI tool to build a code skeleton, and then continue to use the tool to build the application's functionality.
 >
 > **[1:07](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=67)** Throughout the process, I used the GenAI tool to resolve issues like database connectivity, compilation and runtime errors, et cetera.
 >
-> **[1:18](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=78)** Then I used the tool to generate infrastructure as code, and deployed the application to a public cloud.
+> **[1:18](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=78)** Then I used the tool to generate [[Infrastructure as code (IaC)|infrastructure as code]], and deployed the application to a public cloud.
 >
-> **[1:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=86)** Throughout the process, the generative AI tool provided assistance for all aspects of application development, but I had to refer to official Django documentation and various other types of reference manuals to validate that I was on the right track.
+> **[1:26](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=86)** Throughout the process, the generative AI tool provided assistance for all aspects of [[Application Development]], but I had to refer to official Django documentation and various other types of reference manuals to validate that I was on the right track.
 >
 > **[1:44](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=104)** So my recommendation is to be aware of the key architectural mechanisms while using any GenAI tool to the fullest extent.
 >
-> **[1:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=114)** As Microsoft co-founder Bill Gates said, "Generative AI has the potential to change the world in ways that we can't even imagine."
+> **[1:54](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=114)** As [[Microsoft]] co-founder Bill Gates said, "Generative AI has the potential to change the world in ways that we can't even imagine."
 >
 > **[2:04](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/generative-ai-assistance?u=76281980&t=124)** So go ahead and use generative AI assistant tools, and deliver value to your customers even faster than before.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Django]] (3), [[Software Development]] (2), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Django]] (3), [[Software Development]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **Analogies:** imagine (1)
@@ -2189,8 +2158,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your path to success
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980)
+#### [Your path to success](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2206,7 +2174,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980&t=35)** Just like Spotify, you can choose what works for you and find your own way.
 >
-> **[0:41](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980&t=41)** More importantly, I encourage you and your team to try out agile practices that make the most sense to you.
+> **[0:41](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980&t=41)** More importantly, I encourage you and your team to try out [[Agile Development|agile]] practices that make the most sense to you.
 >
 > **[0:49](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980&t=49)** Don't be afraid of trial and error.
 >

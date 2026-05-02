@@ -107,18 +107,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The coding interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980)
+#### [The coding interview](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=0)** - Welcome, in this course, you're going to learn the most important set of skills that you need to be ready for coding interviews with technology companies, large and small.
 >
-> **[0:10](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=10)** My name is YK and in the past, I've worked as a software developer and a data scientist at various software companies, including Google and Microsoft.
+> **[0:10](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=10)** My name is YK and in the past, I've worked as a software developer and a data scientist at various software companies, including [[Google]] and [[Microsoft]].
 >
 > **[0:20](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=20)** So why should you care about coding interviews in the first place?
 >
-> **[0:24](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=24)** First of all, coding interviews are becoming more and more common for software development jobs.
+> **[0:24](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=24)** First of all, coding interviews are becoming more and more common for [[Software Development]] jobs.
 >
 > **[0:29](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980&t=29)** And even if you're not looking for a job right now, practicing for coding interviews is also a great way to become a better programmer in general.
 >
@@ -138,21 +137,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Google]] (1), [[Microsoft]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[Software Development]] (1)
 > **Speakers:** - welcome (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980&t=0)** - [Instructor] In this course, we're going to use Python as well as Jupyter.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980&t=0)** - [Instructor] In this course, we're going to use [[Python (Programming Language)|Python]] as well as Jupyter.
 >
 > **[0:04](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980&t=4)** Jupyter is in an interactive notebook for Python, where you can write code, test it and organize it in a really nice way.
 >
 > **[0:12](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980&t=12)** Jupyter and Python are great for writing and testing a solution to a coding interview problem, and you need to use them if you want to use my XLS files.
 >
-> **[0:21](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980&t=21)** However, if you're already familiar with other languages such as Java, JavaScript, or C++, feel free to use any of them as well, because this course is mainly about concepts, problem solving and coding interviews, and not so much about a particular language or environment.
+> **[0:21](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-you-should-know-14352044?u=76281980&t=21)** However, if you're already familiar with other languages such as [[Java]], [[JavaScript]], or C++, feel free to use any of them as well, because this course is mainly about concepts, problem solving and coding interviews, and not so much about a particular language or environment.
 
 > [!info]- Semantic Content
 >
@@ -163,12 +161,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What do coding interviews look like?
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980)
+#### [What do coding interviews look like?](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=0)** - [Instructor] As I mentioned earlier, coding interviews are becoming more and more common for software development jobs.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=0)** - [Instructor] As I mentioned earlier, coding interviews are becoming more and more common for [[Software Development]] jobs.
 >
 > **[0:06](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=6)** So you might be wondering, what do they look like?
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=16)** And you need to solve it quickly and show your solution to the interviewer.
 >
-> **[0:19](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=19)** If it's on the phone, you might show your solution on an online document editor like Google Docs or if it's in person, you might be asked to write your code on a whiteboard.
+> **[0:19](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=19)** If it's on the phone, you might show your solution on an online document editor like [[Google]] Docs or if it's in person, you might be asked to write your code on a whiteboard.
 >
 > **[0:29](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=29)** The kind of problem that gets asked depends highly on the specific job that you're applying for.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=56)** Here are some example coding interview questions.
 >
-> **[0:58](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=58)** Given a word, determine if it's a palindrome.
+> **[0:58](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=58)** Given a [[Microsoft Word|word]], determine if it's a palindrome.
 >
 > **[1:02](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=62)** As you may already know, a palindrome is a word or phrase that reads the same backwards as well as forwards.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=86)** So these are three major categories of questions you might get asked on your coding interview.
 >
-> **[1:31](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=91)** The first category is questions about algorithms and solving small problems.
+> **[1:31](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=91)** The first category is questions about [[Algorithms]] and solving small problems.
 >
 > **[1:36](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/what-do-coding-interviews-look-like-14351068?u=76281980&t=96)** The second one is more specific to the particular job that you're applying to.
 >
@@ -212,19 +209,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Software Development]] (1), [[Google]] (1), game (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Software Development]] (1), [[Google]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** ios (2), iphone (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to prepare for coding interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980)
+#### [How to prepare for coding interviews](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=0)** - So I get that coding interviews are important for getting a good software development job, but how should I prepare for them?
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=0)** - So I get that coding interviews are important for getting a good [[Software Development]] job, but how should I prepare for them?
 >
 > **[0:07](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=7)** This is one of the questions that I get asked a lot.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=15)** You might think it sounds too simplistic, but let me walk you through how to do this in more detail.
 >
-> **[0:21](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=21)** First of all, to show that you're a good programmer to the interviewer, you should be familiar with at least one measure of language, whether it's Java, Python, C++ or Java script.
+> **[0:21](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=21)** First of all, to show that you're a good programmer to the interviewer, you should be familiar with at least one measure of language, whether it's [[Java]], [[Python (Programming Language)|Python]], C++ or Java script.
 >
 > **[0:31](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=31)** This is so that you have at least one common language to share with your interviewer.
 >
@@ -276,11 +272,11 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=144)** The second one is a book called Cracking the Coding Interview.
 >
-> **[2:27](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=147)** It's somewhat more advanced, but it's a really good book for preparing for coding interviews, especially with large companies like Amazon and Microsoft.
+> **[2:27](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-to-prepare-for-coding-interviews-14349195?u=76281980&t=147)** It's somewhat more advanced, but it's a really good book for preparing for coding interviews, especially with large companies like Amazon and [[Microsoft]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** it's like (1), for example (1)
 > **URLs:** [leetcode.com](https://leetcode.com) (1)
@@ -292,12 +288,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980)
+#### [Introduction to Jupyter Notebook](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980&t=0)** - [Instructor] In this course, we're going to use Python and Jupyter notebook, which is an interactive notebook for Python.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980&t=0)** - [Instructor] In this course, we're going to use [[Python (Programming Language)|Python]] and Jupyter notebook, which is an interactive notebook for Python.
 >
 > **[0:07](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980&t=7)** Feel free to skip these videos if you'd like to use any other Python IDE or any other language, but wait, you might ask what is Jupyter notebook exactly anyway?
 >
@@ -336,12 +331,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
 
-#### Installing Python and Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980)
+#### [Installing Python and Jupyter Notebook](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=0)** - [Instructor] Now let's download and install Jupyter notebook and Python through Anaconda.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=0)** - [Instructor] Now let's download and install Jupyter notebook and [[Python (Programming Language)|Python]] through Anaconda.
 >
 > **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=5)** Again, Anaconda includes Python, so you don't have to install Python separately.
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=14)** Anaconda will just install a separate instance of Python.
 >
-> **[0:18](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=18)** Once you're here, select your platform, whether it's Windows, Linux, or Mac.
+> **[0:18](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=18)** Once you're here, select your platform, whether it's [[Windows]], [[Linux]], or Mac.
 >
 > **[0:23](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/installing-python-and-jupyter-notebook-14353015?u=76281980&t=23)** Since I'm a Mac, I'm going to click the Mac icon right here.
 >
@@ -373,8 +367,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Launching Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/launching-jupyter-notebook-14347817?u=76281980)
+#### [Launching Jupyter Notebook](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/launching-jupyter-notebook-14347817?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/launching-jupyter-notebook-14347817?u=76281980&t=45)** The terminal window is just running a server that's the backbone of Jupiter Notebook.
 >
-> **[0:50](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/launching-jupyter-notebook-14347817?u=76281980&t=50)** Your Python interpreter is going to run on this server.
+> **[0:50](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/launching-jupyter-notebook-14347817?u=76281980&t=50)** Your [[Python (Programming Language)|Python]] interpreter is going to run on this server.
 >
 > **[0:54](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/launching-jupyter-notebook-14347817?u=76281980&t=54)** You can ignore it for now, but just remember that if you close this terminal window, Jupiter notebook will stop working for you.
 >
@@ -416,7 +409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Tools:** anaconda (5), terminal (3)
 > **CLI Commands:** python (4), find (2)
 > **Versions:** python 3 (2), python 2 (1)
@@ -425,8 +418,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 
-#### Using Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-jupyter-notebook-14348881?u=76281980)
+#### [Using Jupyter Notebook](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-jupyter-notebook-14348881?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-jupyter-notebook-14348881?u=76281980&t=3)** For the sake of readability, I'm going to scale up my browser view a little bit.
 >
-> **[0:07](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-jupyter-notebook-14348881?u=76281980&t=7)** Just like a regular Python Interpreter, I can type in my code here, and run it right away.
+> **[0:07](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-jupyter-notebook-14348881?u=76281980&t=7)** Just like a regular [[Python (Programming Language)|Python]] Interpreter, I can type in my code here, and run it right away.
 >
 > **[0:13](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-jupyter-notebook-14348881?u=76281980&t=13)** In this cell, I'm looking at at the top let's type in a = 1.
 >
@@ -487,8 +479,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [speaker] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-the-exercise-files-14351069?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/using-the-exercise-files-14351069?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,14 +504,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review of list (array) in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980)
+#### [Review of list (array) in Python](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980&t=0)** - In this video, I'm going to give you a quick review of Python Lists.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980&t=0)** - In this video, I'm going to give you a quick review of [[Python (Programming Language)|Python]] Lists.
 >
-> **[0:04](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980&t=4)** You may be already familiar with the concept of Array, in other languages, such as Java, but in Python, the equivalent type that's most commonly used, is called List.
+> **[0:04](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980&t=4)** You may be already familiar with the concept of Array, in other languages, such as [[Java]], but in Python, the equivalent type that's most commonly used, is called List.
 >
 > **[0:14](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980&t=14)** Just like an Array, a List is basically a collection of elements.
 >
@@ -554,18 +544,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), next (2), [[Java]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Java]] (1)
 > **CLI Commands:** python (7), find (1)
 > **Analogies:** such as (1), just like (1), for example (1)
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
 
-#### Two methods for Python list iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/two-methods-for-python-list-iteration-14353023?u=76281980)
+#### [Two methods for Python list iteration](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/two-methods-for-python-list-iteration-14353023?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/two-methods-for-python-list-iteration-14353023?u=76281980&t=0)** - Now let's quickly go over two different ways to iterate over each element in a list in Python.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/two-methods-for-python-list-iteration-14353023?u=76281980&t=0)** - Now let's quickly go over two different ways to iterate over each element in a list in [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/two-methods-for-python-list-iteration-14353023?u=76281980&t=7)** Let's say we have our list A with the elements, item zero, item one, and item two.
 >
@@ -608,16 +597,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Practice problems for Python list
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980)
+#### [Practice problems for Python list](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980&t=0)** - [Instructor] Here are some exercise problems for Python list.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980&t=0)** - [Instructor] Here are some exercise problems for [[Python (Programming Language)|Python]] list.
 >
 > **[0:03](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980&t=3)** You can open this notebook with Jupiter notebook.
 >
-> **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980&t=5)** I'm just going to maximize this windows just so that we have a little more space here.
+> **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980&t=5)** I'm just going to maximize this [[Windows]] just so that we have a little more space here.
 >
 > **[0:11](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-list-14353013?u=76281980&t=11)** Problem one: Initialize a new list called a_list with the elements "item1" "item2" and "item3".
 >
@@ -692,12 +680,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sample interview question #1: Array
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-1-array-14347819?u=76281980)
+#### [Sample interview question #1: Array](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-1-array-14347819?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-1-array-14347819?u=76281980&t=0)** - [Instructor] Here's sample interview question number one with array or a Python list.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-1-array-14347819?u=76281980&t=0)** - [Instructor] Here's sample interview question number one with array or a [[Python (Programming Language)|Python]] list.
 >
 > **[0:04](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-1-array-14347819?u=76281980&t=4)** Here's the problem.
 >
@@ -746,8 +733,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual solution to sample question #1
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-1-14347827?u=76281980)
+#### [Visual solution to sample question #1](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-1-14347827?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +743,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-1-14347827?u=76281980&t=13)** So I'm going to show you my solution visually right here.
 >
-> **[0:17](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-1-14347827?u=76281980&t=17)** The idea of my solution is going to be, I'm going to take a look at each number in this array or Python list one by one.
+> **[0:17](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-1-14347827?u=76281980&t=17)** The idea of my solution is going to be, I'm going to take a look at each number in this array or [[Python (Programming Language)|Python]] list one by one.
 >
 > **[0:23](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-1-14347827?u=76281980&t=23)** As we go, we're going to keep track of the largest number that we've seen so far, and the second largest number that we've seen so far.
 >
@@ -779,8 +765,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code solution to sample question #1
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-1-14352042?u=76281980)
+#### [Code solution to sample question #1](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-1-14352042?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,11 +829,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-1-14352042?u=76281980&t=219)** Voilá.
 >
-> **[3:41](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-1-14352042?u=76281980&t=221)** Now that we've covered Python lists, let's look into string in the next chapter.
+> **[3:41](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-1-14352042?u=76281980&t=221)** Now that we've covered [[Python (Programming Language)|Python]] lists, let's look into string in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
@@ -860,12 +845,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review of string in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980)
+#### [Review of string in Python](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980&t=0)** [ Narrator] - Here's a quick review of String in Python.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980&t=0)** [ Narrator] - Here's a quick review of String in [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980&t=3)** String is one of the most commonly used topics in coding interviews. So let's get right into it.
 >
@@ -928,12 +912,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Practice problems for string
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-string-14350160?u=76281980)
+#### [Practice problems for string](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-string-14350160?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-string-14350160?u=76281980&t=0)** - [Instructor] Here are some exercise problems for Python string.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-string-14350160?u=76281980&t=0)** - [Instructor] Here are some exercise problems for [[Python (Programming Language)|Python]] string.
 >
 > **[0:03](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-string-14350160?u=76281980&t=3)** Remember that you can open this exercise file with Jupiter Notebook.
 >
@@ -1049,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (3), strengths (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** d_string (5), b_string (3), a_string (2), c_string (2), are_reverses (1)
 > **Env Vars:** abc (5), cba (3), aaa (1)
 > **CLI Commands:** python (3), make (1)
@@ -1058,8 +1041,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** means that (1)
 
-#### Sample interview question #2: String
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-2-string-14348877?u=76281980)
+#### [Sample interview question #2: String](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-2-string-14348877?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-2-string-14348877?u=76281980&t=73)** Converting them to numbers is not the most efficient solution and it wouldn't work with very large numbers either.
 >
-> **[1:20](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-2-string-14348877?u=76281980&t=80)** But in Python you can use a simple comparison operator if you're comparing single digit numbers in strings.
+> **[1:20](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-2-string-14348877?u=76281980&t=80)** But in [[Python (Programming Language)|Python]] you can use a simple comparison operator if you're comparing single digit numbers in strings.
 >
 > **[1:27](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-2-string-14348877?u=76281980&t=87)** The string three larger than the string two returns true because the number three is larger than the number two.
 >
@@ -1121,8 +1103,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual solution to sample question #2
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-2-14347822?u=76281980)
+#### [Visual solution to sample question #2](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-2-14347822?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1121,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-2-14347822?u=76281980&t=26)** We're going to start by comparing the first character.
 >
-> **[0:29](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-2-14347822?u=76281980&t=29)** In Python, you can use a simple comparison operator for this.
+> **[0:29](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-2-14347822?u=76281980&t=29)** In [[Python (Programming Language)|Python]], you can use a simple comparison operator for this.
 >
 > **[0:33](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-2-14347822?u=76281980&t=33)** For instance, two less than two returns false, because they're equal to each other.
 >
@@ -1168,14 +1149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** for example (2), for instance (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code solution to sample question #2
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-2-14346939?u=76281980)
+#### [Code solution to sample question #2](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-2-14346939?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,7 +1233,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
@@ -1265,8 +1244,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of two-dimensional arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980)
+#### [Overview of two-dimensional arrays](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1278,7 +1256,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980&t=17)** For example, this table on the screen has two rows and four columns with the items one, three, nine, four, five, zero, eight, and negative three.
 >
-> **[0:26](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980&t=26)** A two-dimensional array like this one is usually implemented as an array of arrays, or in Python, as a list of lists.
+> **[0:26](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980&t=26)** A two-dimensional array like this one is usually implemented as an array of arrays, or in [[Python (Programming Language)|Python]], as a list of lists.
 >
 > **[0:34](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980&t=34)** So this two-dimensional array would be typically represented as an array of two arrays, the first one containing the first row, one, three, nine, four and the second array containing the second row, five, zero, eight, and negative three.
 >
@@ -1340,19 +1318,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** python (3)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice problems for 2D arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-2d-arrays?u=76281980)
+#### [Practice problems for 2D arrays](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-2d-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-2d-arrays?u=76281980&t=0)** - [Instructor] Here are some exercise problems for using two-dimensional arrays in Python.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-2d-arrays?u=76281980&t=0)** - [Instructor] Here are some exercise problems for using two-dimensional arrays in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-2d-arrays?u=76281980&t=5)** Problem one: Initialize a new 2D array with one, two, three in the first row and five, six, seven in the second row.
 >
@@ -1445,8 +1422,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sample interview question #3: 2D array
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-3-2d-array-14351076?u=76281980)
+#### [Sample interview question #3: 2D array](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-3-2d-array-14351076?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1503,8 +1479,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - here (1)
 
-#### Visual solution to sample question #3
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-3-14353021?u=76281980)
+#### [Visual solution to sample question #3](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-3-14353021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,8 +1505,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Code solution to sample question #3
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-3-14350161?u=76281980)
+#### [Code solution to sample question #3](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-3-14350161?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,8 +1598,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why time complexity and big O notation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980)
+#### [Why time complexity and big O notation?](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1653,7 +1626,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980&t=59)** Now, how long does this function take to complete?
 >
-> **[1:02](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980&t=62)** It's actually a really hard question to answer, because it depends on many, many factors such as the performance of your computer and whether or not you're running other programs at the same time, and also which language you're using, whether it's Python, Java or C++.
+> **[1:02](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980&t=62)** It's actually a really hard question to answer, because it depends on many, many factors such as the performance of your computer and whether or not you're running other programs at the same time, and also which language you're using, whether it's [[Python (Programming Language)|Python]], [[Java]] or C++.
 >
 > **[1:20](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980&t=80)** One way to find the time a given function takes to run is by running experiments.
 >
@@ -1673,8 +1646,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of time complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-time-complexity-14352047?u=76281980)
+#### [Overview of time complexity](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-time-complexity-14352047?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1726,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** just like (1), similar to (1), for example (1), such as (1)
 > **Code Identifiers:** given_list (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1762,8 +1733,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of big O notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-big-o-notation-14352053?u=76281980)
+#### [Overview of big O notation](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-big-o-notation-14352053?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,14 +1851,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating time complexity using big O
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/evaluating-time-complexity-using-big-o-14346937?u=76281980)
+#### [Evaluating time complexity using big O](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/evaluating-time-complexity-using-big-o-14346937?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1974,8 +1942,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Practical example of time complexity and big O
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practical-example-of-time-complexity-and-big-o-14350158?u=76281980)
+#### [Practical example of time complexity and big O](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practical-example-of-time-complexity-and-big-o-14350158?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,8 +1999,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [educator] (1)
 
-#### Sample interview question #4: Big O
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-4-big-o-14353024?u=76281980)
+#### [Sample interview question #4: Big O](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-4-big-o-14353024?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,8 +2041,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual solution to sample question #4
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-4-14351077?u=76281980)
+#### [Visual solution to sample question #4](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-4-14351077?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2134,15 +2099,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dra (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - here (1)
 
-#### Code solution to sample question #4
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-4-14346938?u=76281980)
+#### [Code solution to sample question #4](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-4-14346938?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2222,7 +2185,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (2)
@@ -2234,14 +2196,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of dictionary/hash table
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980)
+#### [Overview of dictionary/hash table](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=0)** - [Instructor] Here's a quick overview of dictionary in Python.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=0)** - [Instructor] Here's a quick overview of dictionary in [[Python (Programming Language)|Python]].
 >
-> **[0:03](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=3)** In other languages like Java, it's often known as hash tables.
+> **[0:03](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=3)** In other languages like [[Java]], it's often known as hash tables.
 >
 > **[0:08](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=8)** This is one of the most commonly used types in Python.
 >
@@ -2253,7 +2214,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=21)** You basically have pairs of words and definitions in the dictionary.
 >
-> **[0:25](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=25)** You might ask, what does the word apple mean?
+> **[0:25](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=25)** You might ask, what does the [[Microsoft Word|word]] apple mean?
 >
 > **[0:28](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980&t=28)** And it has a corresponding definition.
 >
@@ -2331,7 +2292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Java]] (1), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (10), find (2)
 > **Code Identifiers:** age_dict (10)
 > **Analogies:** for example (4), just like (2)
@@ -2340,12 +2301,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
 
-#### Practice problems for Python dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-dictionary-14350165?u=76281980)
+#### [Practice problems for Python dictionary](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-dictionary-14350165?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-dictionary-14350165?u=76281980&t=0)** - Here are some practice problems for Python Dictionary.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-dictionary-14350165?u=76281980&t=0)** - Here are some practice problems for [[Python (Programming Language)|Python]] Dictionary.
 >
 > **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/practice-problems-for-python-dictionary-14350165?u=76281980&t=5)** Problem 1, Initialize a dictionary with the key, 'Amy' and the value 28. Call it a_dict.
 >
@@ -2425,18 +2385,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** c_dict (4), a_dict (3), b_dict (3), name_dict (2)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - here (1)
 
-#### Sample interview question #5: Dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-5-dictionary-14347818?u=76281980)
+#### [Sample interview question #5: Dictionary](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-5-dictionary-14347818?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-5-dictionary-14347818?u=76281980&t=0)** - [Instructor] Here's sample interview question number five, with Python dictionary or hash tables.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-5-dictionary-14347818?u=76281980&t=0)** - [Instructor] Here's sample interview question number five, with [[Python (Programming Language)|Python]] dictionary or hash tables.
 >
 > **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/sample-interview-question-5-dictionary-14347818?u=76281980&t=5)** Suppose you're given a Python list, or an array of numbers.
 >
@@ -2475,12 +2434,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual solution to sample question #5
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-5-14347816?u=76281980)
+#### [Visual solution to sample question #5](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-5-14347816?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-5-14347816?u=76281980&t=0)** - Here's my solution to sample interview question number five for Python dictionary or Hash Tables.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-5-14347816?u=76281980&t=0)** - Here's my solution to sample interview question number five for [[Python (Programming Language)|Python]] dictionary or Hash Tables.
 >
 > **[0:05](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/visual-solution-to-sample-question-5-14347816?u=76281980&t=5)** The problem was finding a pair of numbers that add up to ten in a given Python list or rate.
 >
@@ -2526,17 +2484,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1)
 > **UI Navigation:** go to (4)
 > **Speakers:** - here (1)
 
-#### Code solution to sample question #5
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-5-14352052?u=76281980)
+#### [Code solution to sample question #5](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-5-14352052?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-5-14352052?u=76281980&t=0)** - Here's my solution in code to sample interview question number 5 for Python Dictionary or Hash Tables.
+> **[0:00](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-5-14352052?u=76281980&t=0)** - Here's my solution in code to sample interview question number 5 for [[Python (Programming Language)|Python]] Dictionary or Hash Tables.
 >
 > **[0:07](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/code-solution-to-sample-question-5-14352052?u=76281980&t=7)** We're going to write a function that takes an array or Python list of integers, and finds a pair that adds up to 10.
 >
@@ -2616,7 +2573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - here (1), - 20 (1)
 > **Analogies:** for example (1)
@@ -2626,8 +2583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do I come up with an optimal solution?
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980)
+#### [How do I come up with an optimal solution?](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2641,7 +2597,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980&t=19)** To explain what you need to do before you start coding, let's use the problem we saw in the last chapter as an example.
 >
-> **[0:26](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980&t=26)** The problem was, given a Python list or an array of integers, find a pair of numbers that add up to 10, for example, 1 and 9, in this particular case.
+> **[0:26](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980&t=26)** The problem was, given a [[Python (Programming Language)|Python]] list or an array of integers, find a pair of numbers that add up to 10, for example, 1 and 9, in this particular case.
 >
 > **[0:37](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980&t=37)** Let's say you're given this problem in your coding interview, but you're not sure what the optimal solution is right away.
 >
@@ -2703,8 +2659,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How should I test my code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-should-i-test-my-code-14346942?u=76281980)
+#### [How should I test my code?](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-should-i-test-my-code-14346942?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2712,7 +2667,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-should-i-test-my-code-14346942?u=76281980&t=6)** To explain, let's use this really simple problem of finding the maximum number of a given rate.
 >
-> **[0:12](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-should-i-test-my-code-14346942?u=76281980&t=12)** In this array or Python lists shown on the screen, five is the largest number.
+> **[0:12](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-should-i-test-my-code-14346942?u=76281980&t=12)** In this array or [[Python (Programming Language)|Python]] lists shown on the screen, five is the largest number.
 >
 > **[0:17](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-should-i-test-my-code-14346942?u=76281980&t=17)** So we want to write a function that finds and returns this number.
 >
@@ -2770,15 +2725,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), find (2), make (1)
 > **Env Vars:** ide (1), rea (1)
 > **Cross-References:** in the last (1), coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - another (1)
 
-#### Start applying
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/start-applying?u=76281980)
+#### [Start applying](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/start-applying?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2788,7 +2742,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/start-applying?u=76281980&t=14)** And in case you want to learn more, here are a few resources I would recommend using.
 >
-> **[0:18](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/start-applying?u=76281980&t=18)** The first thing to keep in mind is that if you haven't learned data structures and algorithms yet, you should.
+> **[0:18](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/start-applying?u=76281980&t=18)** The first thing to keep in mind is that if you haven't learned [[Data Structures]] and [[Algorithms]] yet, you should.
 >
 > **[0:25](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/start-applying?u=76281980&t=25)** For a good introduction to this topic, you should watch Foundations of Programming: Data Structures.
 >
@@ -2796,7 +2750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Algorithms]] (1)
 > **URLs:** [leetcode.com](https://leetcode.com) (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)

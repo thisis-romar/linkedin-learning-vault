@@ -107,14 +107,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your essential guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980)
+#### [Your essential guide](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980&t=0)** Using Ajax effectively requires understanding different JavaScript syntaxes, as well as working with data and manipulating the contents of the browser window.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980&t=0)** Using [[AJAX]] effectively requires understanding different [[JavaScript]] syntaxes, as well as working with data and manipulating the contents of the browser window.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980&t=9)** In this course, we'll explore the most popular modern coding practices.
+> **[0:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980&t=9)** In this course, we'll explore the most popular modern [[Coding Practices]].
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980&t=12)** You'll be able to make API requests and incorporate the results into your apps, and secure your API keys in a proxy server.
 >
@@ -124,16 +123,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[AJAX]] (1), [[JavaScript]] (1), data (1), [[Coding Practices]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (1), [[JavaScript]] (1), [[Coding Practices]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-you-should-know?u=76281980&t=0)** This course assumes you have some experience coding in front end JavaScript, as well as basic familiarity with HTTP requests and responses.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-you-should-know?u=76281980&t=0)** This course assumes you have some experience coding in front end [[JavaScript]], as well as basic familiarity with HTTP requests and responses.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-you-should-know?u=76281980&t=8)** This course assumes you have some experience coding and front end JavaScript, as well as a basic familiarity with HTTP requests and responses.
 >
@@ -141,11 +139,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Env Vars:** http (3)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,25 +158,25 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=24)** Any editor that lets you write and save code is fine for this course.
 >
-> **[0:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=28)** I use Visual Studio Code in these videos, which is a version of Microsoft Visual Studio created specifically for web development.
+> **[0:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=28)** I use Visual Studio Code in these videos, which is a version of [[Microsoft]] Visual Studio created specifically for [[Web Development]].
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=36)** Visual Studio Code is free and has windows, Mac, and Linux releases.
+> **[0:36](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=36)** Visual Studio Code is free and has [[Windows]], Mac, and [[Linux]] releases.
 >
-> **[0:41](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=41)** The code is available on GitHub and users can submit issues there as well.
+> **[0:41](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=41)** The code is available on [[GitHub]] and users can submit issues there as well.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=46)** I've turned on word wrap in my editor.
+> **[0:46](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=46)** I've turned on [[Microsoft Word|word]] wrap in my editor.
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=49)** If you want to do the same, just open settings, search for word wrap and from the menu select on this ensures that long lines of code don't run off the screen.
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=63)** I'm also using Extension. Live Server by Ritwik Day.
 >
-> **[1:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=69)** This extension is an HTTP server that you can launch with a single click that automatically opens the current HTML document in your default browser.
+> **[1:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=69)** This extension is an HTTP server that you can launch with a single click that automatically opens the current [[HTML]] document in your default browser.
 >
-> **[1:19](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=79)** Testing Ajax code during development benefits from an HTTP server, and this one is really easy to use.
+> **[1:19](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=79)** Testing [[AJAX]] code during development benefits from an HTTP server, and this one is really easy to use.
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=86)** I recorded all the course content locally using Visual Studio Code.
 >
-> **[1:31](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=91)** You could also follow along using codespaces from the GitHub repository.
+> **[1:31](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=91)** You could also follow along using [[Codespaces]] from the GitHub repository.
 >
 > **[1:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/setting-up-your-environment?u=76281980&t=95)** If you use codespaces in the browser, note that the live server extension will open the Codespace folder contents in the browser instead of the HTML page itself.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[GitHub]] (2), [[Microsoft Word|Word]] (2), [[Codespaces]] (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[GitHub]] (2), [[Microsoft Word|Word]] (2), [[Codespaces]] (2), [[Microsoft]] (1)
 > **Tools:** visual studio (4), github (2), firefox (1), safari (1)
 > **Env Vars:** html (3), http (2), api (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -223,8 +220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is AJAX?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980)
+#### [What is AJAX?](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=8)** In its early days, the web was composed of static pages.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=11)** Each page displayed only the content coded into its HTML document.
+> **[0:11](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=11)** Each page displayed only the content coded into its [[HTML]] document.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=16)** Changing the information displayed meant requesting and loading a different HTML document.
 >
@@ -242,13 +238,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=24)** What if we could instead simply request content and update the display of the current page?
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=30)** In fact, this is exactly what Ajax lets us do.
+> **[0:30](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=30)** In fact, this is exactly what [[AJAX]] lets us do.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=33)** A page that uses Ajax, which is most everything on the modern web, requests data in the background and then integrates it into the document displayed in the browser window.
 >
-> **[0:44](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=44)** Originally, Ajax was an acronym based on the fact that the process was asynchronous, was scripted with JavaScript, and originally used XML as the data format for the new content.
+> **[0:44](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=44)** Originally, Ajax was an acronym based on the fact that the process was asynchronous, was scripted with [[JavaScript]], and originally used XML as the data format for the new content.
 >
-> **[0:55](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=55)** Today, Ajax describes a more generic process, although JavaScript is still a core building block of Ajax, it's much more common to use JavaScript Object Notation or JSON for data exchange.
+> **[0:55](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=55)** Today, Ajax describes a more generic process, although JavaScript is still a core building block of Ajax, it's much more common to use JavaScript Object Notation or [[JSON]] for data exchange.
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980&t=68)** Ajax is at work any time you interact with a web page and the page changes to display data that was not present when it first loaded.
 >
@@ -270,13 +266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AJAX]] (8), web (6), data (6), [[Search]] (4), [[HTML]] (3)
+> **Frameworks & Libraries:** [[AJAX]] (8), [[HTML]] (3), [[JavaScript]] (3), [[JSON]] (1)
 > **Env Vars:** html (3), xml (1), json (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 
-#### Understand asynchronous program flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980)
+#### [Understand asynchronous program flow](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=6)** For this reason, it's important to structure code to minimize the impact of this potential delay on users.
 >
-> **[0:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=13)** We can build program flow in JavaScript in two different ways.
+> **[0:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=13)** We can build program flow in [[JavaScript]] in two different ways.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=17)** Synchronously and asynchronously.
 >
@@ -302,7 +297,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=58)** For instance, a value needs to be calculated first before it can be used, but if an earlier statement may take a while to execute and statements that follow, don't rely on that earlier statement having finished, then synchronous program flow can needlessly slow down our apps.
 >
-> **[1:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=74)** This is often the case with an Ajax request, which is why JavaScript treats an Ajax request as an asynchronous process by default, we want the client to make the Ajax request, but then be able to do other things like respond to user initiated events while waiting for the Ajax response.
+> **[1:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=74)** This is often the case with an [[AJAX]] request, which is why JavaScript treats an Ajax request as an asynchronous process by default, we want the client to make the Ajax request, but then be able to do other things like respond to user initiated events while waiting for the Ajax response.
 >
 > **[1:32](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-asynchronous-program-flow?u=76281980&t=92)** Otherwise, a slow response would essentially lock up our apps, which would create a bad experience that frustrates users.
 >
@@ -328,13 +323,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[AJAX]] (4), parallel (4), next (2), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[AJAX]] (4)
 > **Definitions:** known as (2), is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 
-#### Get an API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/get-an-api-key?u=76281980)
+#### [Get an API key](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/get-an-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/get-an-api-key?u=76281980&t=28)** Some are free, while others require payment.
 >
-> **[0:31](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/get-an-api-key?u=76281980&t=31)** The public API's GitHub account maintains a pretty extensive list of publicly available APIs, so I'm going to check in the geocoding section.
+> **[0:31](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/get-an-api-key?u=76281980&t=31)** The public API's [[GitHub]] account maintains a pretty extensive list of publicly available APIs, so I'm going to check in the geocoding section.
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/get-an-api-key?u=76281980&t=39)** There's an index further on down the page, and I'll click on geocoding.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), web (4), data (2), [[GitHub]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
@@ -444,8 +438,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
 
-#### Research and create an AJAX request URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980)
+#### [Research and create an AJAX request URL](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=3)** The next step is to build a request.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=5)** Modern web services are based on an architecture called Rest, which uses HTTP requests and responses to exchange information.
+> **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=5)** Modern web services are based on an architecture called [[Representational State Transfer (REST)|Rest]], which uses HTTP requests and responses to exchange information.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=13)** So we need to write a URL that requests the information we want.
 >
@@ -523,7 +516,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=190)** You'll really need to create your own.
 >
-> **[3:12](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=192)** So I'll go ahead and press enter here and I get JSON returned, which is the data that the API created and sent in response to my request.
+> **[3:12](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=192)** So I'll go ahead and press enter here and I get [[JSON]] returned, which is the data that the API created and sent in response to my request.
 >
 > **[3:23](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/research-and-create-an-ajax-request-url?u=76281980&t=203)** By default, it's not that easy to read in a browser window.
 >
@@ -545,7 +538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (18), data (10), next (2), [[Search]] (2), feature (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (18), url (8), json (2), http (1), usps (1)
 > **CLI Commands:** curl (3), find (1)
 > **Documentation:** the documentation (3)
@@ -554,8 +547,7 @@ created: 2026-05-02
 > **UI Navigation:** checkbox (1)
 > **Exercise Files:** sample code (1)
 
-#### Challenge: Research an API and create a request URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-research-an-api-and-create-a-request-url?u=76281980)
+#### [Challenge: Research an API and create a request URL](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-research-an-api-and-create-a-request-url?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-research-an-api-and-create-a-request-url?u=76281980&t=10)** Another aspect we want to change on the Explore California Form page is to add information about national parks in California.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-research-an-api-and-create-a-request-url?u=76281980&t=18)** The National Park Service has an API that provides park information, so you can get this data using an Ajax request.
+> **[0:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-research-an-api-and-create-a-request-url?u=76281980&t=18)** The National Park Service has an API that provides park information, so you can get this data using an [[AJAX]] request.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-research-an-api-and-create-a-request-url?u=76281980&t=26)** Check out the developer guide and the API documentation@[nps.gov](https://nps.gov).
 >
@@ -577,14 +569,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), data (1), [[AJAX]] (1), next (1)
+> **Frameworks & Libraries:** [[AJAX]] (1)
 > **Env Vars:** api (3)
 > **URLs:** [nps.gov](https://nps.gov) (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Research an API and create a request URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-research-an-api-and-create-a-request-url?u=76281980)
+#### [Solution: Research an API and create a request URL](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-research-an-api-and-create-a-request-url?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,7 +675,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-research-an-api-and-create-a-request-url?u=76281980&t=234)** So I want just the URL.
 >
-> **[3:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-research-an-api-and-create-a-request-url?u=76281980&t=236)** I'm not going to include this -H accept application JSON.
+> **[3:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-research-an-api-and-create-a-request-url?u=76281980&t=236)** I'm not going to include this -H accept application [[JSON]].
 >
 > **[4:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-research-an-api-and-create-a-request-url?u=76281980&t=240)** I just want everything through my API key.
 >
@@ -706,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), data (5), [[JSON]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** api (13), url (4), json (2)
 > **UI Navigation:** scroll down (4), click on (1), scroll up (1)
 > **CLI Commands:** curl (2), make (1)
@@ -717,12 +708,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Fetch API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980)
+#### [Understand the Fetch API](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=0)** The standard built in method for creating Ajax requests in JavaScript is the fetch API.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=0)** The standard built in method for creating [[AJAX]] requests in [[JavaScript]] is the [[Fetch]] API.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=5)** Legacy code used a different method called XMLHttpRequest or XHR for short, but in all but the most basic use cases, XHR presented a challenge known as Callback Hell.
 >
@@ -770,7 +760,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=176)** This code is identical to the fetch chain shown previously Fetch is supported by all modern browsers we can look on [caniuse.com](https://caniuse.com) to see its current level of support.
 >
-> **[3:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=186)** Now, caniuse is a great resource for understanding the level of browsers support for features in HTML, CSS and JavaScript?
+> **[3:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=186)** Now, caniuse is a great resource for understanding the level of browsers support for features in [[HTML]], CSS and JavaScript?
 >
 > **[3:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=194)** I'm at [caniuse.com](https://caniuse.com) and in the search box I can just type fetch.
 >
@@ -784,13 +774,13 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=221)** The only exception is Internet Explorer, which is still used within some corporate environment to support legacy needs.
 >
-> **[3:48](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=228)** So just like with a few other modern web development tools, we can use a polyfill if we need full backwards compatibility.
+> **[3:48](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=228)** So just like with a few other modern [[Web Development]] tools, we can use a polyfill if we need full backwards compatibility.
 >
-> **[3:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=236)** Fetch makes Ajax code easy to create and maintain using vanilla JavaScript.
+> **[3:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980&t=236)** Fetch makes Ajax code easy to create and maintain using [[Vanilla]] JavaScript.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (18), [[JavaScript]] (5), [[AJAX]] (4), api (3), next (2)
+> **Frameworks & Libraries:** [[Fetch]] (18), [[JavaScript]] (5), [[AJAX]] (4), [[HTML]] (1), [[Web Development]] (1)
 > **Env Vars:** api (3), xhr (3), uri (1), http (1), html (1)
 > **Code Identifiers:** jquery (3)
 > **URLs:** [caniuse.com](https://caniuse.com) (2)
@@ -799,12 +789,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### Create and test a Fetch request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980)
+#### [Create and test a Fetch request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=0)** In the starting code for the Explore California form, I'm going to build a function to create and send a fetch request in the app.js file.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=0)** In the starting code for the Explore California form, I'm going to build a function to create and send a [[Fetch]] request in the app.js file.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=7)** So I'll create a const and I'll call my function create request.
 >
@@ -866,11 +855,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=159)** Now you can test fetch code in a browser just like you would any other front end code.
 >
-> **[2:44](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=164)** However, it's generally best not to simply open your HTML file in a browser to see what happens.
+> **[2:44](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=164)** However, it's generally best not to simply open your [[HTML]] file in a browser to see what happens.
 >
 > **[2:50](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=170)** And that's because by default, a browser opens a local file using the file protocol, which browsers treat differently than pages opened using HTTP requests, which is pretty much everything on the web.
 >
-> **[3:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=181)** Fortunately, it's easy to run a simple HTTP server on your development computer, which lets you more closely match the way your Ajax code will work after you deploy it.
+> **[3:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=181)** Fortunately, it's easy to run a simple HTTP server on your development computer, which lets you more closely match the way your [[AJAX]] code will work after you deploy it.
 >
 > **[3:12](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=192)** In addition, some APIs require requests to be linked to a specific URL, so using an HTTP server is a must in a situation like that.
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=273)** Because of the structure of a response object, I can't directly access that data.
 >
-> **[4:38](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=278)** Instead, I need to use the JSON method on the response object and I need to chain another .then method for total of two before I can access the response data.
+> **[4:38](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=278)** Instead, I need to use the [[JSON]] method on the response object and I need to chain another .then method for total of two before I can access the response data.
 >
 > **[4:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=289)** So back in my code and back in my app.js file, you can close up this live server window and I want to chain another .then statement first of all.
 >
@@ -936,7 +925,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=373)** And now I have recreated that in my code using fetch recall that fetch is a feature that's supported by modern browsers but not older ones, and specifically Internet Explorer.
 >
-> **[6:26](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=386)** You can recreate this feature for older browsers using a polyfill, which is a separate set of JavaScript code that checks for the feature and recreates it as a method of the window object if it's not already present.
+> **[6:26](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=386)** You can recreate this feature for older browsers using a polyfill, which is a separate set of [[JavaScript]] code that checks for the feature and recreates it as a method of the window object if it's not already present.
 >
 > **[6:37](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-and-test-a-fetch-request?u=76281980&t=397)** Jake Champion maintains a popular and concise fetch polyfill.
 >
@@ -946,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (11), data (7), feature (4), next (3), api (3)
+> **Frameworks & Libraries:** [[Fetch]] (11), [[JSON]] (3), [[HTML]] (2), [[AJAX]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (8), http (4), api (3), json (3), html (2)
 > **Definitions:** is a  (3)
 > **File Paths:** app.js (2)
@@ -955,12 +944,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), open the (1)
 > **Cross-References:** go back to (1)
 
-#### Handle basic Fetch errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980)
+#### [Handle basic Fetch errors](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=0)** Each method in a fetch chain finishes by either resolving or rejecting.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=0)** Each method in a [[Fetch]] chain finishes by either resolving or rejecting.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=4)** Resolving means the process executed successfully or rejecting means there was an issue and it throws an error.
 >
@@ -988,7 +976,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=74)** And then I'm going to use an if statement to check if response okay is true.
 >
-> **[1:20](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=80)** And if that's the case, I'm going to return response .JSON.
+> **[1:20](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=80)** And if that's the case, I'm going to return response .[[JSON]].
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=87)** When response dot okay is not true, I'm going to do two things.
 >
@@ -1040,11 +1028,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=245)** I'm also going to put semicolons at the end of my two new functions, so I'll save my changes.
 >
-> **[4:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=253)** I'm going to open the HTML file, and I'm going to go live with this in the browser.
+> **[4:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=253)** I'm going to open the [[HTML]] file, and I'm going to go live with this in the browser.
 >
 > **[4:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=258)** And I can see that the data still loads like normal.
 >
-> **[4:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=262)** And then going back to my code in my JavaScript file, I'm going to go up to my Geocodio URL constant.
+> **[4:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=262)** And then going back to my code in my [[JavaScript]] file, I'm going to go up to my Geocodio URL constant.
 >
 > **[4:32](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-basic-fetch-errors?u=76281980&t=272)** I'm going to copy that and duplicate it.
 >
@@ -1082,20 +1070,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (8), data (5), [[JSON]] (3), api (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (8), [[JSON]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** http (3), json (3), api (3), html (1), url (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
 
-#### Challenge: Build a Fetch request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-a-fetch-request?u=76281980)
+#### [Challenge: Build a Fetch request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-a-fetch-request?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-a-fetch-request?u=76281980&t=5)** It's time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-a-fetch-request?u=76281980&t=7)** Ready to try your hand at building a fetch request? For the Explore California page we want to retrieve information from the National Park Service about parks in California.
+> **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-a-fetch-request?u=76281980&t=7)** Ready to try your hand at building a [[Fetch]] request? For the Explore California page we want to retrieve information from the National Park Service about parks in California.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-a-fetch-request?u=76281980&t=17)** You should be able to reuse most of the code you've already written, so the main challenge will be working with the documentation to identify the endpoint, getting a working URL, and then testing your request.
 >
@@ -1111,17 +1098,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Fetch]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** url (2), api (2), nps (1)
 > **Documentation:** the documentation (2)
 > **Cross-References:** in the next (1)
 
-#### Solution: Build a Fetch request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980)
+#### [Solution: Build a Fetch request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=5)** Our code already contains a structured Fetch request, but the first thing we need for our National Park Service request is a URL to use on the NPS API website.
+> **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=5)** Our code already contains a structured [[Fetch]] request, but the first thing we need for our National Park Service request is a URL to use on the NPS API website.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=15)** I'm going to start by authorizing and I need to enter my API key.
 >
@@ -1137,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=49)** And I'm going to create a new variable const npsUrl and I'll paste that URL I copied as the value and finish it up with a semicolon.
 >
-> **[1:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=64)** Like many JavaScript features, once you've written the code to implement Fetch, you can pretty much reuse the same pattern, so you don't really need to write any new code here.
+> **[1:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=64)** Like many [[JavaScript]] features, once you've written the code to implement Fetch, you can pretty much reuse the same pattern, so you don't really need to write any new code here.
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=73)** You've already created an extensible set of functions, so all you have to do is pass in the URL and you get your data handled.
 >
@@ -1145,7 +1131,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=87)** So we'll call createRequest, and we'll pass in npsUrl, and we'll save that.
 >
-> **[1:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=95)** And I'm going to open my HTML file.
+> **[1:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=95)** And I'm going to open my [[HTML]] file.
 >
 > **[1:38](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-a-fetch-request?u=76281980&t=98)** And I'm going to go live with that in the browser.
 >
@@ -1189,7 +1175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Fetch]] (3), [[JavaScript]] (3), data (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JavaScript]] (3), [[HTML]] (1)
 > **Env Vars:** url (6), api (5), nps (2), html (1)
 > **Code Identifiers:** npsurl (3), createrequest (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1202,14 +1188,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the DOM?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980)
+#### [What is the DOM?](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=0)** The Document Object Model, or DOM, is the way that a browser or other user agent represents the contents of a web document.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=0)** The [[Document Object Model (DOM)|Document Object Model]], or DOM, is the way that a browser or other user agent represents the contents of a web document.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=8)** The DOM serves as the structure by which developers can reference and manipulate elements in the browser window using JavaScript.
+> **[0:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=8)** The DOM serves as the structure by which developers can reference and manipulate elements in the browser window using [[JavaScript]].
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=15)** The elements in the DOM are structured in a hierarchy.
 >
@@ -1223,7 +1208,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=43)** In Chrome, this is labeled the Elements pane.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=46)** The contents of the Elements pane look a lot like a standard HTML document with nested elements, attributes, and even text content.
+> **[0:46](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=46)** The contents of the Elements pane look a lot like a standard [[HTML]] document with nested elements, attributes, and even text content.
 >
 > **[0:54](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=54)** However, it's important to understand that the DOM is not the same as the HTML file that a web page is based on.
 >
@@ -1257,7 +1242,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=136)** This is a super useful tool for understanding the current state of a web document in the browser window.
 >
-> **[2:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=142)** The DOM is specially important when working with Ajax because we don't want to just receive remote data.
+> **[2:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=142)** The DOM is specially important when working with [[AJAX]] because we don't want to just receive remote data.
 >
 > **[2:29](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980&t=149)** We also want to use that data as part of the user's interaction.
 >
@@ -1267,14 +1252,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (10), web (3), [[HTML]] (3), data (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[AJAX]] (2), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** dom (10), html (3), css (2)
 > **Definitions:** is a  (4)
 > **URLs:** [duckduckgo.com](https://duckduckgo.com) (1)
 > **UI Navigation:** go to (1)
 
-#### Select elements with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980)
+#### [Select elements with vanilla JavaScript](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,11 +1276,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=50)** So we'll need to reference those four form fields in the DOM.
 >
-> **[0:54](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=54)** So in the HTML code for the contact form, I'll start by searching for address and it takes me to the code for the address field with the city, state and zip just below that.
+> **[0:54](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=54)** So in the [[HTML]] code for the contact form, I'll start by searching for address and it takes me to the code for the address field with the city, state and zip just below that.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=66)** The easiest way to get references to these input elements will be with their ID values, and helpfully, those are address, city, state, and zip.
 >
-> **[1:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=76)** Back in my JavaScript, I'm going to create new constants just below my URL variables.
+> **[1:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=76)** Back in my [[JavaScript]], I'm going to create new constants just below my URL variables.
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=83)** So const addressField.
 >
@@ -1308,7 +1292,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=121)** Now, sometimes we have legacy code that uses a library like jQuery to select elements.
 >
-> **[2:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=126)** Back in the day, jQuery was a lot easier, but these days, if you're only using it for DOM manipulation, then you may be able to convert everything to Vanilla JavaScript and remove jQuery as a dependency.
+> **[2:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=126)** Back in the day, jQuery was a lot easier, but these days, if you're only using it for DOM manipulation, then you may be able to convert everything to [[Vanilla]] JavaScript and remove jQuery as a dependency.
 >
 > **[2:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/select-elements-with-vanilla-javascript?u=76281980&t=138)** So let's write a jQuery statement to select the zip field, and that's going to be const zip Field with dollar sign equals $('#zip').
 >
@@ -1326,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (5), [[JavaScript]] (3), css (2), [[Vanilla]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Vanilla]] (2), [[HTML]] (1)
 > **Code Identifiers:** queryselector (8), jquery (4), queryselectorall (2), getelementbyid (2), addressfield (1)
 > **Env Vars:** dom (5), css (2), html (1), url (1)
 > **Analogies:** similar to (1), such as (1)
@@ -1334,8 +1318,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Request data in response to an event
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/request-data-in-response-to-an-event?u=76281980)
+#### [Request data in response to an event](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/request-data-in-response-to-an-event?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,12 +1402,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), dom (1), data (1), next (1)
 > **Env Vars:** url (11), api (5), dom (1)
 > **CLI Commands:** make (2)
 
-#### Add an event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980)
+#### [Add an event listener](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1413,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=9)** The next thing I need to do to finish this up is to make sure that the function is called in response to the blur event on each of these three fields.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=18)** To do that with JavaScript, I use the addEventListener ( ) method, which takes two arguments: an event type as a string, and either a function name or an inline anonymous function.
+> **[0:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=18)** To do that with [[JavaScript]], I use the addEventListener ( ) method, which takes two arguments: an event type as a string, and either a function name or an inline anonymous function.
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=30)** First, I want to add an event listener to the element I referenced with the address field variable, and I'm going to do that at the bottom of my file.
 >
@@ -1446,7 +1427,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=79)** I used these for testing, but now I want all of my calls to be triggered by user events and not just happen by default when the page loads.
 >
-> **[1:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=88)** Now I'll save my work and I'll go back to the HTML file and I'll start up my live server.
+> **[1:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=88)** Now I'll save my work and I'll go back to the [[HTML]] file and I'll start up my live server.
 >
 > **[1:34](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=94)** And in my form I'm going to enter an address and we'll say 1600 Pennsylvania Avenue and Washington, D.C.
 >
@@ -1458,11 +1439,11 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=118)** And I actually have five different results from Geocodio as a result of the address that I entered here in the form. So I've written code to access data from the DOM.
 >
-> **[2:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=129)** And then I've used that data to create and send an Ajax request.
+> **[2:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/add-an-event-listener?u=76281980&t=129)** And then I've used that data to create and send an [[AJAX]] request.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[JavaScript]] (1), [[HTML]] (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1), [[AJAX]] (1)
 > **Code Identifiers:** checkcompletion (3), addeventlistener (1), addressfield (1), cityfield (1), statefield (1)
 > **Env Vars:** html (1), dom (1)
 > **File Paths:** d.c (1)
@@ -1470,22 +1451,21 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
 
-#### Work with JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980)
+#### [Work with JSON data](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=0)** After you receive the response from your Ajax request, you have to dig into it and find the specific data you need.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=0)** After you receive the response from your [[AJAX]] request, you have to dig into it and find the specific data you need.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=6)** JavaScript Object Notation, or JSON, is by far the most common format used to exchange data on the modern web.
+> **[0:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=6)** [[JavaScript]] Object Notation, or [[JSON]], is by far the most common format used to exchange data on the modern web.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=13)** JSON data is transmitted as a string, so in general, the first thing you need to do is parse it into the data format it encodes.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=22)** Although the word object is in the name, JSON data could parse out as either an object or an array, which is technically just another type of object in JavaScript.
+> **[0:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=22)** Although the [[Microsoft Word|word]] object is in the name, JSON data could parse out as either an object or an array, which is technically just another type of object in JavaScript.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=32)** To parse a JSON string, you use the parse method of the JSON object, which is built into JavaScript.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=40)** However, the basic structure of a fetch request takes care of the parsing for you, so you don't actually need to use the JSON.parse command.
+> **[0:40](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=40)** However, the basic structure of a [[Fetch]] request takes care of the parsing for you, so you don't actually need to use the JSON.parse command.
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-json-data?u=76281980&t=49)** In my create request function, I pass the API response to my handle errors function, and the first line of that function passes the data from a successful response through the response JSON method, which returns an object or an array.
 >
@@ -1547,14 +1527,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[JSON]] (9), [[JavaScript]] (4), [[AJAX]] (3), api (2)
+> **Frameworks & Libraries:** [[JSON]] (9), [[JavaScript]] (4), [[AJAX]] (3), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
 > **Env Vars:** json (9), api (2)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** open the (1)
 > **Best Practices:** make sure to (1)
 
-#### Modify form values with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980)
+#### [Modify form values with vanilla JavaScript](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1551,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=49)** And then I'll save that.
 >
-> **[0:51](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=51)** Go to my HTML file and go live and I'll enter my testing address.
+> **[0:51](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=51)** Go to my [[HTML]] file and go live and I'll enter my testing address.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=57)** I got a tab out of that last field And then I get that zip code auto completed in the zip field after a moment.
 >
@@ -1586,7 +1565,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=83)** So far, I've been customizing this handleSuccess function for my form data, but my code is currently written to use all the same functions for both my address request and my National parks request.
 >
-> **[1:34](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=94)** Both of these sets of data are going to require very different UI updates, so I need to refactor my code to keep the main Fetch code usable for any request, while ensuring that each response gets a custom handler.
+> **[1:34](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=94)** Both of these sets of data are going to require very different UI updates, so I need to refactor my code to keep the main [[Fetch]] code usable for any request, while ensuring that each response gets a custom handler.
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=107)** And that starts with handleSuccess, which is now just for the Geocodio request.
 >
@@ -1624,7 +1603,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=207)** Adding handleGeocodioErrors and handleGeocodioSuccess as additional arguments.
 >
-> **[3:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=215)** So now the rest of the functions should work correctly, and they should end up with the appropriate success and fail callbacks.
+> **[3:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=215)** So now the [[Representational State Transfer (REST)|rest]] of the functions should work correctly, and they should end up with the appropriate success and fail callbacks.
 >
 > **[3:42](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=222)** And then for the National park request, which is currently just a simple create request function call statement, I'll uncomment that call and I need to add my other two arguments.
 >
@@ -1642,18 +1621,17 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=267)** And I got my zip code completion.
 >
-> **[4:30](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=270)** So now I have custom UI functions for the Ajax requests, while still sharing the main code to create the request and check the response.
+> **[4:30](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-form-values-with-vanilla-javascript?u=76281980&t=270)** So now I have custom UI functions for the [[AJAX]] requests, while still sharing the main code to create the request and check the response.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (2), feature (2), [[HTML]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1)
 > **Code Identifiers:** handlesuccess (2), handleparksuccess (2), handlegeocodioerrors (2), handleparkerrors (2), handleerrors (1)
 > **Env Vars:** api (2), html (1), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 
-#### Modify element content with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980)
+#### [Modify element content with vanilla JavaScript](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,9 +1645,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=29)** The one exception is the class attribute, which requires you to use class name instead.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=36)** To avoid confusion with the JavaScript class keyword, in some design systems, it's common for an element to have multiple class names assigned, so it can be more convenient to use the class list property and its add and remove methods to manipulate which classes are assigned to an element.
+> **[0:36](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=36)** To avoid confusion with the [[JavaScript]] class keyword, in some [[Design Systems]], it's common for an element to have multiple class names assigned, so it can be more convenient to use the class list property and its add and remove methods to manipulate which classes are assigned to an element.
 >
-> **[0:55](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=55)** We can try this out by starting to customize what happens on our National Park Service request in the HTML.
+> **[0:55](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=55)** We can try this out by starting to customize what happens on our National Park Service request in the [[HTML]].
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=63)** All of this park data is going to go in the div element with the ID specials.
 >
@@ -1733,19 +1711,18 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=241)** Once I finish this up, it's going to look fine.
 >
-> **[4:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=244)** So again, there's a lot of similarity in DOM manipulation between forms and other elements, but those are the basic properties and methods that are going to get you the most mileage.
+> **[4:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/modify-element-content-with-vanilla-javascript?u=76281980&t=244)** So again, there's a lot of similarity in DOM manipulation between [[Forms]] and other elements, but those are the basic properties and methods that are going to get you the most mileage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), dom (2), [[JavaScript]] (2), api (2), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[Design Systems]] (1), [[Forms]] (1)
 > **Env Vars:** html (3), dom (2), api (2), css (1), url (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** nps_logo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Challenge: Modify the DOM
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-modify-the-dom?u=76281980)
+#### [Challenge: Modify the DOM](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-modify-the-dom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,12 +1746,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), dom (2), next (1)
 > **Env Vars:** dom (2), url (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: Modify the DOM
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980)
+#### [Solution: Modify the DOM](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1792,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=37)** I'll save those changes.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=40)** Then I'll go to my HTML and I'll go live with that.
+> **[0:40](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=40)** Then I'll go to my [[HTML]] and I'll go live with that.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=43)** And I'll open my console.
 >
@@ -1810,7 +1785,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=74)** I'm going to right click and say Copy Property Path.
 >
-> **[1:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=78)** And then back in my JavaScript code, go down to handleParkSuccess I'm going to use my parkName reference.
+> **[1:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=78)** And then back in my [[JavaScript]] code, go down to handleParkSuccess I'm going to use my parkName reference.
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=87)** And I want to set the textContent, and that's going to be equal to data. and then pasting in that reference.
 >
@@ -1848,7 +1823,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=176)** And that makes sense, but it's best practice to set up an event handler as well.
 >
-> **[3:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=181)** I want this Ajax request to happen only after the DOM finishes loading, so I'll switch back to my code and I'm going to go to the end of my app.js file.
+> **[3:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=181)** I want this [[AJAX]] request to happen only after the DOM finishes loading, so I'll switch back to my code and I'm going to go to the end of my app.js file.
 >
 > **[3:12](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-modify-the-dom?u=76281980&t=192)** And so this is the DOM content loaded event, and this ensures that all DOM elements have loaded before we try to reference any of them in the code.
 >
@@ -1918,7 +1893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), dom (6), [[JavaScript]] (2), [[AJAX]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[AJAX]] (2), [[HTML]] (1)
 > **Code Identifiers:** parkname (3), handleparksuccess (3), queryselector (2), parkdesc (2), textcontent (2)
 > **Env Vars:** dom (6), url (3), html (1)
 > **UI Navigation:** go to (3)
@@ -1932,12 +1907,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Axios
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980)
+#### [Understand Axios](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980&t=0)** It's easy to use Fetch to make Ajax requests in JavaScript because it's built into the language, and all modern browsers support it.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980&t=0)** It's easy to use [[Fetch]] to make [[AJAX]] requests in [[JavaScript]] because it's built into the language, and all modern browsers support it.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980&t=7)** However, you can use other approaches in your code instead by adding external libraries to your app.
 >
@@ -1963,17 +1937,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (6), [[AJAX]] (2), [[JavaScript]] (2), web (2), data (2)
+> **Frameworks & Libraries:** [[Fetch]] (6), [[AJAX]] (2), [[JavaScript]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** http (1), url (1)
 > **Prerequisites:** initialization (1)
 
-#### Create an Axios request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980)
+#### [Create an Axios request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=0)** I'm going to convert the code for my Geocodio API request from Fetch to Axios.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=0)** I'm going to convert the code for my Geocodio API request from [[Fetch]] to Axios.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=5)** The first thing I need to do is to include the Axios library in my project.
 >
@@ -1983,9 +1956,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=22)** I'm not building a project with modules, so I'm going to use the CDN approach.
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=27)** I'll copy the link for jsDelivr and then in my HTML file I'll add that near the bottom just before the link to my app.js file.
+> **[0:27](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=27)** I'll copy the link for jsDelivr and then in my [[HTML]] file I'll add that near the bottom just before the link to my app.js file.
 >
-> **[0:39](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=39)** A library needs to be imported before a JavaScript file that references it.
+> **[0:39](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=39)** A library needs to be imported before a [[JavaScript]] file that references it.
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/create-an-axios-request?u=76281980&t=44)** So I need my Axios script element first, and then my app.js script, which will use the Axios object.
 >
@@ -2047,15 +2020,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Fetch]] (5), api (4), [[HTML]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[HTML]] (2), [[JavaScript]] (2)
 > **Env Vars:** api (4), html (2), nps (2), cdn (1)
 > **CLI Commands:** make (3)
 > **File Paths:** app.js (2)
 > **Code Identifiers:** jsdelivr (1)
 > **UI Navigation:** scroll down (1)
 
-#### Handle errors with Axios
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980)
+#### [Handle errors with Axios](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2063,7 +2035,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=8)** So down at my handleGeocodioEerrors function, I'm going to copy that and I'm going to comment out the original again.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=16)** So we have a reference to my existing error handling code starts by converting the promise object that fetch returns to a JavaScript object.
+> **[0:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=16)** So we have a reference to my existing error handling code starts by converting the promise object that [[Fetch]] returns to a [[JavaScript]] object.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=24)** Axios doesn't require that, so I'll remove that statement.
 >
@@ -2103,7 +2075,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=120)** And it should generate an error when I make a request to Geocodio.
 >
-> **[2:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=125)** So in my HTML file I'll go live and I will run a test with sample information.
+> **[2:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=125)** So in my [[HTML]] file I'll go live and I will run a test with sample information.
 >
 > **[2:12](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/handle-errors-with-axios?u=76281980&t=132)** Tabbing out of that last field and then opening up my console, I can see that I got a status of 403 here, and if I dig into the error that I logged in my code, bad request request failed with status code 403.
 >
@@ -2125,15 +2097,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Fetch]] (2), data (2), [[JavaScript]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** api (3), http (1), html (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** handlegeocodioeerrors (1)
 > **UI Navigation:** scroll up (1)
 > **Best Practices:** recommended (1)
 
-#### Refactor parameters with Axios
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/refactor-parameters-with-axios?u=76281980)
+#### [Refactor parameters with Axios](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/refactor-parameters-with-axios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2211,7 +2182,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/refactor-parameters-with-axios?u=76281980&t=235)** And with all those changes made, I'll save my work.
 >
-> **[3:59](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/refactor-parameters-with-axios?u=76281980&t=239)** Switch to my HTML file and go live, and I'll run some test data, tab out of that last field and I'll open my console.
+> **[3:59](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/refactor-parameters-with-axios?u=76281980&t=239)** Switch to my [[HTML]] file and go live, and I'll run some test data, tab out of that last field and I'll open my console.
 >
 > **[4:11](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/refactor-parameters-with-axios?u=76281980&t=251)** And it looks like I have one issue here.
 >
@@ -2245,21 +2216,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), next (1), [[HTML]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (16), api (5), html (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** means that (1), short for (1)
 > **Cross-References:** go back to (1)
 
-#### Implement interceptors with Axios
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980)
+#### [Implement interceptors with Axios](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=0)** Interceptors are another unique feature of Axios.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=3)** In a standard Ajax request, your code builds a request, makes a call to the API and receives a response, which is then passed to code that handles the response.
+> **[0:03](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=3)** In a standard [[AJAX]] request, your code builds a request, makes a call to the API and receives a response, which is then passed to code that handles the response.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=13)** Interceptors allow you to specify code that runs just before the API request is sent, and just after the response is received.
 >
@@ -2271,7 +2241,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=48)** The Geocodio API does return both of these pieces of data separately, so I'm going to rewrite my code to try out an interceptor to concatenate these two pieces of data after receiving the request.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=61)** Add them to the response data object and pass it along to the rest of the code.
+> **[1:01](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=61)** Add them to the response data object and pass it along to the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=66)** That will make my code to change the UI much briefer.
 >
@@ -2343,7 +2313,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=244)** So I'm just going to say return data.
 >
-> **[4:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=248)** So I'll save that interceptor and I'll go live with my HTML.
+> **[4:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=248)** So I'll save that interceptor and I'll go live with my [[HTML]].
 >
 > **[4:15](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=255)** I will test my code out by entering that address.
 >
@@ -2367,7 +2337,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=287)** So I want to go in and make a couple changes to switch that over.
 >
-> **[4:52](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=292)** So back in my JavaScript code, I want to do one more thing in my interceptor.
+> **[4:52](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=292)** So back in my [[JavaScript]] code, I want to do one more thing in my interceptor.
 >
 > **[4:57](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/implement-interceptors-with-axios?u=76281980&t=297)** Now that I know that I have that data available.
 >
@@ -2421,14 +2391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), api (5), next (2), feature (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (5), nps (1), html (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** imagine (1)
 
-#### Challenge: Build an Axios request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-an-axios-request?u=76281980)
+#### [Challenge: Build an Axios request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-build-an-axios-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2454,13 +2423,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), api (1)
 > **Env Vars:** nps (2), api (1), url (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Build an Axios request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-an-axios-request?u=76281980)
+#### [Solution: Build an Axios request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-an-axios-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2527,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-an-axios-request?u=76281980&t=263)** And we'll try one more thing here.
 >
-> **[4:25](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-an-axios-request?u=76281980&t=265)** Back in the JavaScript, let's test what happens when we get an error with our NPS request.
+> **[4:25](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-an-axios-request?u=76281980&t=265)** Back in the [[JavaScript]], let's test what happens when we get an error with our NPS request.
 >
 > **[4:32](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-build-an-axios-request?u=76281980&t=272)** So I'm going to duplicate that API key.
 >
@@ -2704,7 +2671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), api (6), next (2), generic (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** nps (11), url (7), api (6), dom (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** recommended (1), remember to (1)
@@ -2715,12 +2682,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structure AJAX requests for performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980)
+#### [Structure AJAX requests for performance](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=0)** Whether you're using Fetch or Axios, the way you structure an Ajax request impacts his performance.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=0)** Whether you're using [[Fetch]] or Axios, the way you structure an [[AJAX]] request impacts his performance.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=7)** There are a few important considerations when creating a request that can help you ensure that your app is as responsive as possible.
 >
@@ -2748,7 +2714,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=89)** However, most requests and responses need some sort of structured data.
 >
-> **[1:33](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=93)** Among popular formats and use JSON has the lowest overhead.
+> **[1:33](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=93)** Among popular formats and use [[JSON]] has the lowest overhead.
 >
 > **[1:37](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980&t=97)** XML has a much higher overhead because of the high ratio of structuring characters tags to data.
 >
@@ -2768,25 +2734,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[AJAX]] (7), [[JSON]] (2), [[Fetch]] (1), application (1)
+> **Frameworks & Libraries:** [[AJAX]] (7), [[JSON]] (2), [[Fetch]] (1)
 > **Env Vars:** xml (4), json (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 
-#### View requests and responses in the browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980)
+#### [View requests and responses in the browser](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=0)** When you're working with Ajax requests, it can be useful to examine the actual HTTP request and response headers that are being sent when your code is executed.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=0)** When you're working with [[AJAX]] requests, it can be useful to examine the actual HTTP request and response headers that are being sent when your code is executed.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=9)** Modern browser developer tools let you record and review network activity, including each HTTP request for the current page.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=16)** So let's check that out.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=18)** I'm going to go live with my HTML code, and then I'm going to open up my developer tools.
+> **[0:18](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=18)** I'm going to go live with my [[HTML]] code, and then I'm going to open up my developer tools.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/view-requests-and-responses-in-the-browser?u=76281980&t=24)** Both Chrome and Firefox developer tools include a network tab and I'm using Chrome.
 >
@@ -2858,7 +2823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[AJAX]] (2), web (2), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[AJAX]] (2), [[HTML]] (1)
 > **Env Vars:** http (2), url (2), nps (2), html (1), css (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** open the (1), scroll up (1)
@@ -2867,8 +2832,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Best Practices:** avoid doing (1)
 
-#### Work with authorization errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-authorization-errors?u=76281980)
+#### [Work with authorization errors](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-authorization-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2954,7 +2918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), web (2), data (2)
 > **Env Vars:** api (13)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -2962,8 +2925,7 @@ created: 2026-05-02
 > **Warnings:** common error (1)
 > **Prerequisites:** set up (1)
 
-#### Work with malformed requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-malformed-requests?u=76281980)
+#### [Work with malformed requests](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-malformed-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3005,7 +2967,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-malformed-requests?u=76281980&t=116)** So I'll save that new base URL.
 >
-> **[1:59](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-malformed-requests?u=76281980&t=119)** Then I'll open my HTML file with live server and I can see I don't have any park information.
+> **[1:59](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-malformed-requests?u=76281980&t=119)** Then I'll open my [[HTML]] file with live server and I can see I don't have any park information.
 >
 > **[2:08](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-malformed-requests?u=76281980&t=128)** I open my developer tools and I can see I have some errors logged.
 >
@@ -3071,7 +3033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (4), [[Troubleshooting]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (9), api (4), nps (2), http (1), https (1)
 > **Documentation:** the documentation (2)
 > **Definitions:** is a  (2)
@@ -3080,12 +3042,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** troubleshoot (1)
 
-#### Work with errors in Fetch
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980)
+#### [Work with errors in Fetch](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=0)** The promises pattern that fetch is based on is really efficient to write.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=0)** The promises pattern that [[Fetch]] is based on is really efficient to write.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=4)** However, it has a few gotchas that can result in errors, especially when you're using fetch for the first time.
 >
@@ -3117,13 +3078,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=89)** I'm going to go down to the create request function, and I'm going to start by commenting out the first then.
 >
-> **[1:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=95)** This is the first then that takes the response object, parses out the response JSON and passes that along to the next then.
+> **[1:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=95)** This is the first then that takes the response object, parses out the response [[JSON]] and passes that along to the next then.
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=103)** So let's just remind ourselves what happens if we skip that step and try and parse that response object with the success handler.
 >
 > **[1:51](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=111)** So I'll save those changes.
 >
-> **[1:53](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=113)** I'll go live with my HTML file.
+> **[1:53](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=113)** I'll go live with my [[HTML]] file.
 >
 > **[1:56](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=116)** I'm going to open up the console, and I can see that I have an error logged here.
 >
@@ -3165,7 +3126,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=210)** So here I'm logging data within my success function, which means that that data actually got sent forward into my handle success function.
 >
-> **[3:40](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=220)** So even though the browser's gotten an error message from the remote server without that custom error handling code, the rest of my code is still trying to work with that data.
+> **[3:40](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=220)** So even though the browser's gotten an error message from the remote server without that custom error handling code, the [[Representational State Transfer (REST)|rest]] of my code is still trying to work with that data.
 >
 > **[3:50](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/work-with-errors-in-fetch?u=76281980&t=230)** So leaving that error in my URL, I'm going to go back and uncomment those two lines in my error handler, and I'll save that and go back to my browser.
 >
@@ -3189,7 +3150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Fetch]] (10), next (2), [[JSON]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (10), [[JSON]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (5), json (2), html (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (2), is a  (1)
@@ -3197,12 +3158,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Provide error fallbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980)
+#### [Provide error fallbacks](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=0)** You can make your Ajax error handling code more useful by accounting for specific cases that are significant to your app, and ensuring that your code can deal appropriately with each.
+> **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=0)** You can make your [[AJAX]] error handling code more useful by accounting for specific cases that are significant to your app, and ensuring that your code can deal appropriately with each.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=10)** One of those many types of Ajax errors can result in the requested data not being available to incorporate into the DOM.
 >
@@ -3216,7 +3176,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=38)** The national park section is already hidden by default, and if the data isn't returned for whatever reason, it remains hidden so we don't have an issue.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=49)** However, we could improve the user experience by including some default data that's displayed if we don't get a response.
+> **[0:49](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=49)** However, we could improve the [[User Experience (UX)|user experience]] by including some default data that's displayed if we don't get a response.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=57)** For instance, we could include the data for one of the parks in the code for the page and set up our code to use that data.
 >
@@ -3246,9 +3206,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=143)** And even though it says undefined here that data has been copied to the clipboard.
 >
-> **[2:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=148)** Now I'm going to switch back over to my code, and I'm going to go to my JavaScript code.
+> **[2:28](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=148)** Now I'm going to switch back over to my code, and I'm going to go to my [[JavaScript]] code.
 >
-> **[2:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=155)** And right after my npm request params I'm going to create a new constant.
+> **[2:35](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=155)** And right after my [[npm]] request params I'm going to create a new constant.
 >
 > **[2:41](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/provide-error-fallbacks?u=76281980&t=161)** And I'm going to call that NPS fallback.
 >
@@ -3330,7 +3290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), dom (3), api (3), [[AJAX]] (2), feature (2)
+> **Frameworks & Libraries:** [[AJAX]] (2), [[User Experience (UX)|User experience]] (1), [[JavaScript]] (1), [[npm]] (1)
 > **Env Vars:** nps (6), url (6), dom (3), api (3)
 > **CLI Commands:** make (4), npm (1)
 > **Code Identifiers:** npsfallback (3)
@@ -3339,14 +3299,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 
-#### Challenge: Fix an AJAX request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-fix-an-ajax-request?u=76281980)
+#### [Challenge: Fix an AJAX request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-fix-an-ajax-request?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-fix-an-ajax-request?u=76281980&t=5)** It's time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-fix-an-ajax-request?u=76281980&t=7)** Ready to try your hand at debugging an Ajax request?
+> **[0:07](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-fix-an-ajax-request?u=76281980&t=7)** Ready to try your hand at debugging an [[AJAX]] request?
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/challenge-fix-an-ajax-request?u=76281980&t=10)** For this challenge, you need to use the folder for this video, which contains a broken API request for Geocodio, so you'll need to troubleshoot and fix the errors.
 >
@@ -3360,14 +3319,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Debugging]] (1), [[AJAX]] (1), next (1)
+> **Frameworks & Libraries:** [[AJAX]] (1)
 > **Env Vars:** api (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** you'll need (1)
 
-#### Solution: Fix an AJAX request
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-fix-an-ajax-request?u=76281980)
+#### [Solution: Fix an AJAX request](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/solution-fix-an-ajax-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3483,7 +3441,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (5), web (1)
 > **Env Vars:** api (7), url (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
@@ -3496,22 +3453,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980)
+#### [Keep learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=0)** Thanks so much for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=2)** You now have experience working directly with the fetch API and the Axios library that are used for the vast majority of Ajax requests on the web.
+> **[0:02](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=2)** You now have experience working directly with the [[Fetch]] API and the Axios library that are used for the vast majority of [[AJAX]] requests on the web.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=10)** To dig deeper into some of the JavaScript mechanics that underpin Ajax.
+> **[0:10](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=10)** To dig deeper into some of the [[JavaScript]] mechanics that underpin Ajax.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=14)** Check out my other courses on LinkedIn learning such as JavaScript: Async and Web security.
+> **[0:14](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=14)** Check out my other courses on [[LinkedIn]] learning such as JavaScript: Async and Web security.
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=19)** Same Origin Policies.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=21)** If you want to learn more about JavaScript Object Notation or JSON.
+> **[0:21](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=21)** If you want to learn more about JavaScript Object Notation or [[JSON]].
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980&t=24)** Take a look at my course [[JSON Essential Training]].
 >
@@ -3527,7 +3483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[JavaScript]] (3), [[AJAX]] (2), [[LinkedIn]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[AJAX]] (2), [[LinkedIn]] (2), [[JSON]] (2), [[Fetch]] (1)
 > **Env Vars:** json (2), api (1)
 
 

@@ -99,28 +99,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern database and application design with MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980)
+#### [Modern database and application design with MongoDB](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=1)** - [Justin Jenkins] Hi, I'm Justin Jenkins, and I've been working in MongoDB for over 10 years, both as a full-stack developer and administrator, as well as an occasional conference speaker and advocate.
+> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=1)** - [Justin [[Jenkins]]] Hi, I'm Justin Jenkins, and I've been working in [[MongoDB]] for over 10 years, both as a full-stack developer and administrator, as well as an occasional conference speaker and advocate.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=11)** One of the coolest things about MongoDB, beyond its blazing performance, is the modern and flexible JSON inspired document model.
+> **[0:11](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=11)** One of the coolest things about MongoDB, beyond its blazing performance, is the modern and flexible [[JSON]] inspired document model.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=19)** Imagine just being able to store your data the way your application already understands it.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=23)** In strings, arrays or objects, or even objects inside objects, all backed up by a powerful and easy to use JavaScript inspired query language.
+> **[0:23](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=23)** In strings, arrays or objects, or even objects inside objects, all backed up by a powerful and easy to use [[JavaScript]] inspired query language.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=34)** We're going to go well beyond dusty old tables in SQL here.
+> **[0:34](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=34)** We're going to go well beyond dusty old tables in [[SQL]] here.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=38)** Join me for this course on LinkedIn learning, where I'll tackle the basics of MongoDB.
+> **[0:38](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=38)** Join me for this course on [[LinkedIn]] learning, where I'll tackle the basics of MongoDB.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=43)** From queries, to data modeling, to administration, and even interacting with MongoDB from some of those popular program languages.
+> **[0:43](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980&t=43)** From queries, to [[Data Modeling]], to administration, and even interacting with MongoDB from some of those popular program languages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (4), [[Jenkins]] (2), data (2), full-stack (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Jenkins]] (2), [[JSON]] (1), [[JavaScript]] (1), [[SQL]] (1)
 > **Env Vars:** json (1), sql (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [justin (1)
@@ -130,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why MongoDB?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980)
+#### [Why MongoDB?](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=54)** And organize by dinner and breakfast.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=57)** We're going to need a JSON API.
+> **[0:57](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=57)** We're going to need a [[JSON]] API.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=60)** Don't forget, we're going to hire five more devs.
 >
@@ -197,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=101)** What if instead of designing complicated architecture of tables, we could use rich documents?
 >
-> **[1:49](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=109)** MongoDB helps us do this with this document model.
+> **[1:49](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=109)** [[MongoDB]] helps us do this with this document model.
 >
 > **[1:53](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=113)** We can store things more naturally, in a format that fits nicely into modern applications.
 >
@@ -213,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=158)** For this course, we'll be working with the local installation of MongoDB, but we will touch on how things work in production.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=165)** So before we dive into working on MongoDB proper, in the next two videos I'll walk you through, getting MongoDB set up on a local machine for Windows and Mac.
+> **[2:45](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=165)** So before we dive into working on MongoDB proper, in the next two videos I'll walk you through, getting MongoDB set up on a local machine for [[Windows]] and Mac.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980&t=175)** Get ready, it's going to be a fun ride.
 >
@@ -221,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (6), database (2), [[JSON]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JSON]] (1), [[Windows]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** json (1), api (1)
 > **Best Practices:** don't forget (2)
@@ -230,16 +228,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### MongoDB vs. relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980)
+#### [MongoDB vs. relational databases](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=0)** - [Instructor] Throughout this course, we'll be delving into many aspects of how MongoDB works and how it differs from more traditional or relational databases.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=0)** - [Instructor] Throughout this course, we'll be delving into many aspects of how [[MongoDB]] works and how it differs from more traditional or [[Relational Databases]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=9)** From a high level, a database is essentially an organized collection of data, and more complex databases have their own formal design and data modeling standards.
+> **[0:09](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=9)** From a high level, a database is essentially an organized collection of data, and more complex [[Databases]] have their own formal design and [[Data Modeling]] standards.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=20)** MongoDB falls into a broader category of databases referred to as NoSQL, where more traditional databases use SQL.
+> **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=20)** MongoDB falls into a broader category of databases referred to as [[NoSQL]], where more traditional databases use [[SQL]].
 >
 > **[0:30](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=30)** Both types of databases are true databases and, in fact, share many concepts.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=68)** While the concepts were developed decades earlier, relational databases first became popular in the 1980s.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=75)** Ones commonly used today are Oracle, Microsoft SQL Server, My SQL, and its variants.
+> **[1:15](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=75)** Ones commonly used today are Oracle, [[Microsoft SQL Server]], My SQL, and its variants.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=83)** They stored their data in rows with a varying number of columns all within tables.
 >
@@ -277,9 +274,9 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=166)** MongoDB, on the other hand, is what we referred to earlier as a NoSQL database.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=172)** NoSQL databases started to be developed in the 2000s, and some popular types are MongoDB, Cassandra, CouchDB, Redis, Memcache, and DynamoDB.
+> **[2:52](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=172)** NoSQL databases started to be developed in the 2000s, and some popular types are MongoDB, Cassandra, CouchDB, [[Redis]], Memcache, and DynamoDB.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=184)** They use many different NoSQL methods to query their data, including, in the case of MongoDB, JavaScript, or even HTTP itself for other databases.
+> **[3:04](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=184)** They use many different NoSQL methods to query their data, including, in the case of MongoDB, [[JavaScript]], or even HTTP itself for other databases.
 >
 > **[3:15](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=195)** In their most basic form, like DynamoDB, they are key value stores, but they can also be graph or object databases, or again, in the case of MongoDB, a document store.
 >
@@ -293,23 +290,22 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=252)** Due to these differences, there are many advantages of using MongoDB for your next project, and some disadvantages, but some of the advantages include, a much more flexible, schema-less storage format, high speed and easy scaling, and of course, much more we'll talk about in this course.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=270)** Next, we're going to talk about using the git repo as associated with this course.
+> **[4:30](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-vs-relational-databases?u=76281980&t=270)** Next, we're going to talk about using the [[Git]] repo as associated with this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[MongoDB]] (8), [[Databases]] (8), database (6), [[Relational Databases]] (4)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Databases]] (8), [[Relational Databases]] (4), [[NoSQL]] (4), [[SQL]] (3)
 > **Env Vars:** sql (4), http (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), git (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/using-the-exercise-files-for-this-course?u=76281980)
+#### [Using the exercise files for this course](https://www.linkedin.com/learning/learning-mongodb-17360744/using-the-exercise-files-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Instructor] This course has an accompanying GitHub repo, which will have some useful notes in this lessons folder, for example, as well as some other things I'll describe throughout the course.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Instructor] This course has an accompanying [[GitHub]] repo, which will have some useful notes in this lessons folder, for example, as well as some other things I'll describe throughout the course.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-mongodb-17360744/using-the-exercise-files-for-this-course?u=76281980&t=10)** By default, you can use this embedded inside a code space, and that's what I'd suggest.
 >
@@ -324,16 +320,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980)
+#### [Getting started with GitHub Codespaces](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=0)** - [Instructor] Along with the Git repo, there's also a customized GitHub codespace that you can use to follow along with nearly this entire course.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=0)** - [Instructor] Along with the [[Git]] repo, there's also a customized [[GitHub]] codespace that you can use to follow along with nearly this entire course.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=7)** Within the codespace, MongoDB will be automatically set up for you and you'll have access to query the database, create or import your own data and generally just mess around without installing anything on your local machine and all within the browser.
+> **[0:07](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=7)** Within the codespace, [[MongoDB]] will be automatically set up for you and you'll have access to query the database, create or import your own data and generally just mess around without installing anything on your local machine and all within the browser.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=20)** To use the codespace, start at the course's repo and press the green code button and then codespaces.
+> **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=20)** To use the codespace, start at the course's repo and press the green code button and then [[Codespaces]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=27)** You should see a local option and a codespaces option.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=43)** That should launch up a new window and start setting up your codespace.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=47)** Once the codespace is started up, which may take a few minutes the first time, as we're installing real copies of MongoDB, as well as full support for PHP, Node, Python and Go.
+> **[0:47](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=47)** Once the codespace is started up, which may take a few minutes the first time, as we're installing real copies of MongoDB, as well as full support for [[PHP]], Node, [[Python (Programming Language)|Python]] and Go.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=59)** With the codespace completed and opened, you'll see some of the same folder structure as in the repo itself, because it is a repo itself.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=157)** I've already installed Mongosh, which is the MongoDB shell, so you can simply type Mongosh in here and it will connect to your local copy running inside here.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=169)** So we can say, show DBS to list our databases.
+> **[2:49](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=169)** So we can say, show DBS to list our [[Databases]].
 >
 > **[2:53](https://www.linkedin.com/learning/learning-mongodb-17360744/getting-started-with-github-codespaces?u=76281980&t=173)** You can see there's a list of databases here, that corresponds to the plugins version, over here.
 >
@@ -381,7 +376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), data (4), database (3), [[Codespaces]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Codespaces]] (3), [[Databases]] (2), [[Git]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (1), php (1), node (1), python (1), find (1)
 > **Tools:** terminal (3), visual studio (2), github (1)
 > **Prerequisites:** install (2), set up (1), setup (1)
@@ -390,14 +385,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Install MongoDB on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980)
+#### [Install MongoDB on Windows](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=0)** - [Instructor] Okay, let's get started.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=2)** First thing we're going to want to do is go to the MongoDB website, and look for the MongoDB Community Server download.
+> **[0:02](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=2)** First thing we're going to want to do is go to the [[MongoDB]] website, and look for the MongoDB Community Server download.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=8)** I'm already here in the download page.
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=14)** We're going to look for the MSI package.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=18)** There are some other options here, but this will be the easiest way to install on Windows.
+> **[0:18](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=18)** There are some other options here, but this will be the easiest way to install on [[Windows]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=21)** The current version is 6.0, but this course is generally compatible all the way down to MongoDB 4.2.
 >
@@ -457,7 +451,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=122)** This is a default connection string and that's where everything is installed automatically.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=128)** Press Connect, and we'll see we do have some databases over here.
+> **[2:08](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=128)** Press Connect, and we'll see we do have some [[Databases]] over here.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-windows?u=76281980&t=133)** Throughout the course, you'll see me doing most things on a command line or in a terminal using a mongo shell.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (20), [[Windows]] (4), data (4), database (4), next (3)
+> **Frameworks & Libraries:** [[MongoDB]] (20), [[Windows]] (4), [[Databases]] (3)
 > **Prerequisites:** install (9), set up (2), setup (1)
 > **CLI Commands:** mongo (3), find (2)
 > **Env Vars:** msi (2), mongo (1), dbs (1)
@@ -532,8 +526,7 @@ created: 2026-05-02
 > **Versions:** 6.0 (2), 4.2 (1)
 > **Cross-References:** we talked about (1), in the next (1)
 
-#### Install MongoDB on macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980)
+#### [Install MongoDB on macOS](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=19)** Brew is a package manager for the macOS operating system.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=23)** Once you have Brew installed, you can simply tap the mongodb brew.
+> **[0:23](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=23)** Once you have Brew installed, you can simply tap the [[MongoDB]] brew.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=36)** After that's done tapping, you can type brew update to make sure you get the latest packages.
 >
@@ -567,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=111)** The important part is it connected to your local machine here, and you'll see the version is 6.0.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=119)** We can use the command show dbs to show our locally installed databases.
+> **[1:59](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=119)** We can use the command show dbs to show our locally installed [[Databases]].
 >
 > **[2:06](https://www.linkedin.com/learning/learning-mongodb-17360744/install-mongodb-on-macos?u=76281980&t=126)** Right now I haven't imported anything yet.
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (16), database (2), data (2), [[Databases]] (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (16), [[Databases]] (2)
 > **CLI Commands:** brew (13), make (2), find (1)
 > **Prerequisites:** install (9)
 > **Cross-References:** in the next (2)
@@ -610,12 +603,11 @@ created: 2026-05-02
 > **Versions:** 6.0 (1)
 > **Tools:** terminal (1)
 
-#### Importing example data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980)
+#### [Importing example data](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=0)** - In this video, we'll be talking about how to import data into your local MongoDB install.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=0)** - In this video, we'll be talking about how to import data into your local [[MongoDB]] install.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=5)** As a reminder, if you're using the code spaces this data's already been automatically imported for you and you can access it via the MangoDB extension.
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=54)** Inside the courses repo you'll see a collections folder and we'll go inside that.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=60)** And if we list the contents of that, we'll see there are three different json files in here that have data that we're going to import into MongoDB.
+> **[1:00](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=60)** And if we list the contents of that, we'll see there are three different [[JSON]] files in here that have data that we're going to import into MongoDB.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-mongodb-17360744/importing-example-data?u=76281980&t=70)** So to do that via the MongoDB Compass, we'll go down to the bottom here, which the plus sign and click it.
 >
@@ -689,7 +681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[MongoDB]] (8), database (8), [[JSON]] (7), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[JSON]] (7)
 > **CLI Commands:** mongo (3), make (2)
 > **Tools:** command line (3)
 > **Prerequisites:** install (2)
@@ -703,14 +695,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980)
+#### [Create a document](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=1)** - [Instructor] So what exactly are documents?
 >
-> **[0:04](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=4)** Simply put, MongoDB documents are field-value pairs stored in a JSON-like format called BSON, which stands for Binary JSON.
+> **[0:04](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=4)** Simply put, [[MongoDB]] documents are field-value pairs stored in a [[JSON]]-like format called BSON, which stands for Binary JSON.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=14)** So what are you waiting for?
 >
@@ -718,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=20)** Throughout this course, you'll see me using MongoDB shell on a terminal on a Mac.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=25)** However the same terminal commands can all be run within Codespaces as well.
+> **[0:25](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=25)** However the same terminal commands can all be run within [[Codespaces]] as well.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=30)** To do that, you can start a New Terminal in the Codespace and right here I can list contents.
 >
@@ -758,13 +749,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=141)** Once we're in Mongo, we'll get a MongoDB shell.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=144)** One important thing to know is this is a JavaScript shell.
+> **[2:24](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=144)** One important thing to know is this is a [[JavaScript]] shell.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=148)** We can literally write JavaScript here if we want.
 >
 > **[2:32](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=152)** But first let's connect to the right database.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=155)** Again make sure to check back to the install videos if you haven't imported the example databases yet.
+> **[2:35](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=155)** Again make sure to check back to the install videos if you haven't imported the example [[Databases]] yet.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980&t=160)** So we're going to go ahead and use the cooker database and we'll do much like we did in the code editor but here we'll sign the document to a variable.
 >
@@ -816,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (6), [[JSON]] (5), database (4), [[JavaScript]] (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JSON]] (5), [[JavaScript]] (2), [[Codespaces]] (1), [[Databases]] (1)
 > **CLI Commands:** find (4), mongo (3), make (3)
 > **Tools:** terminal (5), command line (1), vs code (1)
 > **Env Vars:** json (4), bson (1)
@@ -825,12 +816,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (2)
 > **Prerequisites:** install (2)
 
-#### Using .find() to query documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980)
+#### [Using .find() to query documents](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=0)** - [Instructor] The find command is one of the most basic MongoDB commands and acts much like a SELECT statement in SQL.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=0)** - [Instructor] The find command is one of the most basic [[MongoDB]] commands and acts much like a SELECT statement in [[SQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=7)** Let's learn how to use find to query our recipe documents and find specific recipes.
 >
@@ -908,7 +898,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=209)** However, instead of using the percent sign, we use regular expressions.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=213)** Because remember we're using a JavaScript shell in MongoDB.
+> **[3:33](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=213)** Because remember we're using a [[JavaScript]] shell in MongoDB.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-mongodb-17360744/using-find-to-query-documents?u=76281980&t=217)** So we can use regular expressions just like you would in JavaScript.
 >
@@ -948,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (2), [[Search]] (2), [[JavaScript]] (2), next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[JavaScript]] (2), [[SQL]] (1)
 > **CLI Commands:** find (9), make (2)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** select (1), sql (1)
@@ -957,12 +947,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### What can you store in a document?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980)
+#### [What can you store in a document?](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=1)** - [Instructor] MongoDB documents could store a wide variety of data in a number of different formats which often makes development easier.
+> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=1)** - [Instructor] [[MongoDB]] documents could store a wide variety of data in a number of different formats which often makes development easier.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=8)** So far, we've mostly worked with text or number fields in our documents.
 >
@@ -996,7 +985,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=96)** To see how we could store this, I'm going to open up some example files I put it in the lessons slash 2.3 directory.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=105)** In here you could see there's a directions dot JSON, and ingredients.
+> **[1:45](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=105)** In here you could see there's a directions dot [[JSON]], and ingredients.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=110)** I'm going to go ahead and open these in VS codes so they'll format it nicely.
 >
@@ -1006,7 +995,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=127)** (laughs) Of course, real directions would be different than this, but of course this is just an example.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=133)** We can literally represent this with the JavaScript style array and store it in our document.
+> **[2:13](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=133)** We can literally represent this with the [[JavaScript]] style array and store it in our document.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-mongodb-17360744/what-can-you-store-in-a-document?u=76281980&t=140)** Now let's move on to another part of this recipe.
 >
@@ -1054,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (5), data (5), database (2), [[JSON]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[JSON]] (2), [[JavaScript]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** json (2), gui (1)
@@ -1062,12 +1051,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980)
+#### [Collections](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=1)** - [Instructor] While the flexibility of MongoDB's document model has many advantages for developers, keeping those documents organized can become trickier.
+> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=1)** - [Instructor] While the flexibility of [[MongoDB]]'s document model has many advantages for developers, keeping those documents organized can become trickier.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=9)** That is where collections come in.
 >
@@ -1081,7 +1069,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=47)** You can think of collections, somewhat like tables in a relational database, but not all the documents need to have the same schema or structure.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=56)** The collections themselves are then stored inside databases which we'll get to shortly.
+> **[0:56](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=56)** The collections themselves are then stored inside [[Databases]] which we'll get to shortly.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-mongodb-17360744/collections?u=76281980&t=62)** We've actually been using collection all along.
 >
@@ -1135,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (4), data (4), database (4), [[Databases]] (4), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Databases]] (4)
 > **Analogies:** for example (4)
 > **Code Identifiers:** getname (1), newstuff (1), insertone (1)
 > **CLI Commands:** find (1), make (1)
@@ -1143,8 +1131,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a recipe document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/challenge-create-a-recipe-document?u=76281980)
+#### [Challenge: Create a recipe document](https://www.linkedin.com/learning/learning-mongodb-17360744/challenge-create-a-recipe-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,15 +1149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a recipe document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-create-a-recipe-document?u=76281980)
+#### [Solution: Create a recipe document](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-create-a-recipe-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,11 +1185,11 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-create-a-recipe-document?u=76281980&t=101)** So go ahead, keep messing around with this, try to get comfortable with it.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-create-a-recipe-document?u=76281980&t=105)** And in our next section we're going to be talking about querying MongoDB.
+> **[1:45](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-create-a-recipe-document?u=76281980&t=105)** And in our next section we're going to be talking about querying [[MongoDB]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** mongo (1)
@@ -1217,8 +1202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sort, limit, and skip
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980)
+#### [Sort, limit, and skip](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,7 +1222,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=47)** While this might not seem like a huge difference, what it allows you to do is add extra commands after find to do what is called chaining.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=57)** If you've ever used a JavaScript framework like jQuery, you're likely very familiar with this concept.
+> **[0:57](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=57)** If you've ever used a [[JavaScript]] framework like jQuery, you're likely very familiar with this concept.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980&t=64)** The order of the items you chain together doesn't matter but how they change your results matters a great deal.
 >
@@ -1292,18 +1276,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), application (1), [[Programming]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is called (2)
 > **Code Identifiers:** jquery (1)
 > **Speakers:** - when (1)
 
-#### Working with operators and arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980)
+#### [Working with operators and arrays](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=1)** - [Instructor] MongoDB has a number of operators that can be used on your fields, be it a string, number, array, object, or sub document.
+> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=1)** - [Instructor] [[MongoDB]] has a number of operators that can be used on your fields, be it a string, number, array, object, or sub document.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=9)** We can use these to conditionally filter our results.
 >
@@ -1311,7 +1294,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=16)** But how they look may be slightly out at first.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=19)** Since MongoDB uses a JSON-like syntax for its queries, using some traditional operators like greater than and less than won't work.
+> **[0:19](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=19)** Since MongoDB uses a [[JSON]]-like syntax for its queries, using some traditional operators like greater than and less than won't work.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-mongodb-17360744/working-with-operators-and-arrays?u=76281980&t=28)** To avoid this problem, the query language uses strings with a dollar sign in front of them.
 >
@@ -1403,7 +1386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (3), [[JSON]] (1), feature (1), data (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[JSON]] (1)
 > **CLI Commands:** find (4), make (1), mongo (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** json (1)
@@ -1412,8 +1395,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/updating-documents?u=76281980)
+#### [Updating documents](https://www.linkedin.com/learning/learning-mongodb-17360744/updating-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,7 +1539,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), data (2), database (1), next (1)
 > **CLI Commands:** make (3), find (2), mongo (1)
 > **Definitions:** is a  (2), in other words (1), is called (1)
 > **Analogies:** for example (1), similar to (1), imagine (1)
@@ -1565,9 +1546,9 @@ created: 2026-05-02
 > **File Paths:** examples.js (1)
 > **Documentation:** the docs (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [lecturer] (1)
 
-#### Updating arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/updating-arrays?u=76281980)
+#### [Updating arrays](https://www.linkedin.com/learning/learning-mongodb-17360744/updating-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,13 +1586,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** updateone (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/deleting-documents?u=76281980)
+#### [Deleting documents](https://www.linkedin.com/learning/learning-mongodb-17360744/deleting-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,14 +1636,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/challenge-write-a-query?u=76281980)
+#### [Challenge: Write a query](https://www.linkedin.com/learning/learning-mongodb-17360744/challenge-write-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,13 +1671,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Non-Speech:** (upbeat music) (1), (music ends) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Write a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-write-a-query?u=76281980)
+#### [Solution: Write a query](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-write-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1790,11 +1765,11 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-write-a-query?u=76281980&t=293)** And now we get all five recipes that are liked by either of those individuals.
 >
-> **[5:01](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-write-a-query?u=76281980&t=301)** In the next section, we'll dig into data and schema modeling with our databases.
+> **[5:01](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-write-a-query?u=76281980&t=301)** In the next section, we'll dig into data and schema modeling with our [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** rating_average (1), rating_avg (1)
 > **Cross-References:** in the next (1)
@@ -1802,12 +1777,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### The MongoDB Shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980)
+#### [The MongoDB Shell](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=0)** - [Presenter] MongoDB has also released a newer version of the Shell that will eventually replace Mongo called Mongo SH.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=0)** - [Presenter] [[MongoDB]] has also released a newer version of the Shell that will eventually replace Mongo called Mongo SH.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=6)** So let's review that a little too.
 >
@@ -1841,7 +1815,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=109)** Lastly, this is all based on a node js environment.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=112)** So you can go beyond just JavaScript.
+> **[1:52](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=112)** So you can go beyond just [[JavaScript]].
 >
 > **[1:55](https://www.linkedin.com/learning/learning-mongodb-17360744/the-mongodb-shell?u=76281980&t=115)** For example, we could assign the results of a query to a variable.
 >
@@ -1877,7 +1851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (5), data (2), [[JavaScript]] (2), database (1), feature (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[JavaScript]] (2)
 > **CLI Commands:** mongo (6), find (3), make (2), brew (1), node (1)
 > **Analogies:** for example (4), just like (1), imagine (1), it's like (1)
 > **Env Vars:** gte (1)
@@ -1890,18 +1864,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How you need to think differently
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980)
+#### [How you need to think differently](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=1)** - [Instructor] So far, we've talked about how to create a document and how to query documents.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=5)** We haven't really talked about strategies for data modeling.
+> **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=5)** We haven't really talked about strategies for [[Data Modeling]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=8)** Since we're dealing with a different type of database, we need to think differently about how we store and model our data.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=15)** As (inaudible) from MongoDB likes to say, data that is accessed together should be stored together, meaning if you're going to be reading or writing data together, it is usually a good idea to store them together.
+> **[0:15](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=15)** As (inaudible) from [[MongoDB]] likes to say, data that is accessed together should be stored together, meaning if you're going to be reading or writing data together, it is usually a good idea to store them together.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=28)** Instead of storing data in two different places you should be thinking about how you might be able to embed one of those pieces of data inside the other.
 >
@@ -1985,7 +1958,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=259)** Instead, we could just store the comments in a separate collection of documents, but we could still take advantage of MongoDB to optimize the data performance.
 >
-> **[4:29](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=269)** If we change our UX so that the page loads with the recipe with top comments and the user can optionally press a see more button to get the rest of the comments, we could just store the top comments in the recipe and leave the rest in separate documents.
+> **[4:29](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=269)** If we change our UX so that the page loads with the recipe with top comments and the user can optionally press a see more button to get the [[Representational State Transfer (REST)|rest]] of the comments, we could just store the top comments in the recipe and leave the rest in separate documents.
 >
 > **[4:45](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=285)** This can improve performance dramatically since on initial page load and under most use cases, you only ever query your recipe document.
 >
@@ -2009,7 +1982,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=346)** So treat it more like a join.
 >
-> **[5:48](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=348)** But you could also store some basic information about the user, enough to load the comment, and then after page load, make a query to the user's collection and update that via Ajax.
+> **[5:48](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=348)** But you could also store some basic information about the user, enough to load the comment, and then after page load, make a query to the user's collection and update that via [[AJAX]].
 >
 > **[5:59](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980&t=359)** And then you can add in your profile image.
 >
@@ -2021,7 +1994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (2), [[MongoDB]] (2), feature (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Data Modeling]] (1), [[AJAX]] (1)
 > **Analogies:** for example (5), picture (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ram (2)
@@ -2030,8 +2003,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Prerequisites:** you'll need (1)
 
-#### Basic indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/basic-indexes?u=76281980)
+#### [Basic indexes](https://www.linkedin.com/learning/learning-mongodb-17360744/basic-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,7 +2019,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mongodb-17360744/basic-indexes?u=76281980&t=36)** Even computers need a little help sometimes.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-mongodb-17360744/basic-indexes?u=76281980&t=41)** So let's start with a query here to find out how indexes in MongoDB work.
+> **[0:41](https://www.linkedin.com/learning/learning-mongodb-17360744/basic-indexes?u=76281980&t=41)** So let's start with a query here to find out how indexes in [[MongoDB]] work.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-mongodb-17360744/basic-indexes?u=76281980&t=46)** I'm going to do a simple query on our recipes collection to find any recipes that have a cook time of 10 minutes exactly.
 >
@@ -2163,7 +2135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[MongoDB]] (3), application (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** imagine (2), just like (1)
 > **UI Navigation:** scroll up (2)
@@ -2171,8 +2143,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using different collection types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980)
+#### [Using different collection types](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,7 +2151,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=8)** Going deeper, there are certain types of data that are best stored in special types of collections.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=13)** By default, a collection could store basically any type of document but MongoDB supports some special types of collections that are designed to handle certain use cases.
+> **[0:13](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=13)** By default, a collection could store basically any type of document but [[MongoDB]] supports some special types of collections that are designed to handle certain use cases.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=23)** The tool we'll talk about here are capped collections and time series collections.
 >
@@ -2242,7 +2213,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=207)** You might want to track how the stock is doing every 30 seconds during the whole trading day.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=211)** You could do this in time series collection by making the stock symbol, the thing that doesn't change, and some other metadata, the things that you track every 30 seconds.
+> **[3:31](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=211)** You could do this in time series collection by making the stock symbol, the thing that doesn't change, and some other [[Metadata]], the things that you track every 30 seconds.
 >
 > **[3:42](https://www.linkedin.com/learning/learning-mongodb-17360744/using-different-collection-types?u=76281980&t=222)** You could track, for example, the stock price, volume, high, low, and open price, or even some data about some other stocks symbol at that exact 30 second interval.
 >
@@ -2266,7 +2237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[MongoDB]] (6), next (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Metadata]] (1)
 > **Code Identifiers:** createcollection (1), error_log (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -2275,8 +2246,7 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Avoiding joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/challenge-avoiding-joins?u=76281980)
+#### [Challenge: Avoiding joins](https://www.linkedin.com/learning/learning-mongodb-17360744/challenge-avoiding-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2318,7 +2288,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (3), next (1)
 > **Env Vars:** csv (1)
 > **Versions:** 4.4 (1)
 > **Cross-References:** we talked about (1)
@@ -2327,8 +2296,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: Avoiding joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-avoiding-joins?u=76281980)
+#### [Solution: Avoiding joins](https://www.linkedin.com/learning/learning-mongodb-17360744/solution-avoiding-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2366,7 +2334,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
@@ -2376,16 +2343,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980)
+#### [Python](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=0)** - [Narrator] So far, we've been working with MongoDB directly, and that's all well and good, but what about actually making applications with it?
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=0)** - [Narrator] So far, we've been working with [[MongoDB]] directly, and that's all well and good, but what about actually making applications with it?
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=7)** Luckily, there are drivers and libraries for a ton of programming languages and frameworks to allow us to do just that.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=14)** Here we'll be starting with Python, but if you're more comfortable with JavaScript, or PHP, or Go, feel free to skip to those videos instead.
+> **[0:14](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=14)** Here we'll be starting with [[Python (Programming Language)|Python]], but if you're more comfortable with [[JavaScript]], or [[PHP]], or Go, feel free to skip to those videos instead.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=23)** Each one will cover the same examples.
 >
@@ -2461,7 +2427,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=428)** I'm putting my query in a separate variable, just to make it a little bit more clear, and that query will be on the title, and here, if you recall back in earlier lessons we're using a red regex search here, so that I don't have to put capital "T," Tacos, I could put capital "T" here, or lowercase tacos, and we'll find either one, because this makes it case insensitive here with these options, and there's a note about this above, in the code you can look at, then, on line 30, we've run another loop based on the query that we've now sent to find() here, and we'll be able to get a total cook time by combining the prep time, and the item, the recipe's cook time, here to get a total time, and then, we'll output the title, output the description,
 >
-> **[7:59](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=479)** and then, this is the line where we have, the recipe will take about this many minutes, so, if I kind of scroll over here a little bit, you'll see we're taking that total time we just calculated above, and adding it to get a total time, and also pulling out the recipe's calories per serving to say in that sentence that told us it was about such and such calories per serving, and then we print out the rest of that, so, we'll run that one more time, and you'll see here, "What would you like to cook?"
+> **[7:59](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=479)** and then, this is the line where we have, the recipe will take about this many minutes, so, if I kind of scroll over here a little bit, you'll see we're taking that total time we just calculated above, and adding it to get a total time, and also pulling out the recipe's calories per serving to say in that sentence that told us it was about such and such calories per serving, and then we print out the [[Representational State Transfer (REST)|rest]] of that, so, we'll run that one more time, and you'll see here, "What would you like to cook?"
 >
 > **[8:35](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980&t=515)** This time, I'm just going to type "meat," and we'll see we get a result back for Brown Sugar Meatloaf, so, if Python's your thing, why don't you try editing these files and messing around a bit?
 >
@@ -2469,7 +2435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), database (6), [[Search]] (5), [[MongoDB]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[MongoDB]] (3), [[JavaScript]] (1), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (12), find (8), make (4), php (1), pip (1)
 > **Env Vars:** ascending (2), php (1), readme (1), pip (1), descending (1)
 > **Code Identifiers:** find_one (4), database_name (1)
@@ -2478,12 +2444,11 @@ created: 2026-05-02
 > **Versions:** 5.1 (3)
 > **UI Navigation:** go to (3)
 
-#### Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980)
+#### [Node.js](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=0)** - [Instructor] Unless you've already watched the Python or PHP videos, so far we've been working with MongoDB directly.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=0)** - [Instructor] Unless you've already watched the [[Python (Programming Language)|Python]] or [[PHP]] videos, so far we've been working with [[MongoDB]] directly.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=6)** Which is great, but what about making actual applications?
 >
@@ -2497,9 +2462,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=35)** For a local install, the first thing we'll want to do is go to the official node driver maintained by MongoDB.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=41)** You can see the links in the lesson readme, or just Google it.
+> **[0:41](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=41)** You can see the links in the lesson readme, or just [[Google]] it.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=44)** Here, we'll be using NPM to install the driver, specifically at the 4.10 version, but whatever's the latest will probably work fine.
+> **[0:44](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=44)** Here, we'll be using [[npm]] to install the driver, specifically at the 4.10 version, but whatever's the latest will probably work fine.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=53)** If you have any problems, go ahead and set the exact version.
 >
@@ -2549,7 +2514,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=198)** And we'll console log out the recipe.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=201)** So that nice formatting is just node JS nicely formatting JSON for us.
+> **[3:21](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=201)** So that nice formatting is just node JS nicely formatting [[JSON]] for us.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=207)** Next we can try the find command.
 >
@@ -2647,13 +2612,13 @@ created: 2026-05-02
 >
 > **[8:08](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=488)** So go ahead and take some time to look through these example files to better understand them, and feel free to tweak them the code space with some of your own changes.
 >
-> **[8:17](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=497)** And if Java script's your thing, why not see if you can make something cool with node JS and MongoDB?
+> **[8:17](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=497)** And if [[Java]] script's your thing, why not see if you can make something cool with node JS and MongoDB?
 >
 > **[8:22](https://www.linkedin.com/learning/learning-mongodb-17360744/node-js?u=76281980&t=502)** Have fun!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), node (8), [[MongoDB]] (4), next (4), [[Search]] (4)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Python (Programming Language)|Python]] (2), [[PHP]] (2), [[Google]] (1), [[npm]] (1)
 > **CLI Commands:** node (8), find (7), make (5), python (2), php (2)
 > **Prerequisites:** install (3), set up (3), setup (1)
 > **Env Vars:** php (2), npm (1), json (1)
@@ -2662,14 +2627,13 @@ created: 2026-05-02
 > **Documentation:** the readme (1), the docs (1)
 > **UI Navigation:** go to (1)
 
-#### PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980)
+#### [PHP](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=0)** - [Instructor] If you skipped right to this video to see how to use MongoDB with PHP, then you're in the right place.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=0)** - [Instructor] If you skipped right to this video to see how to use [[MongoDB]] with [[PHP]], then you're in the right place.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=5)** Again, if you're more comfortable with Python, JavaScript, or Go, feel free to skip to one of those videos instead.
+> **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=5)** Again, if you're more comfortable with [[Python (Programming Language)|Python]], [[JavaScript]], or Go, feel free to skip to one of those videos instead.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=10)** We'll cover the same sort of things in those examples.
 >
@@ -2677,7 +2641,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=17)** But what about making actual web applications?
 >
-> **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=20)** PHP is one of many languages that have official drivers from MongoDB, and there's plugins for many major frameworks, like Laravel.
+> **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=20)** PHP is one of many languages that have official drivers from MongoDB, and there's plugins for many major frameworks, like [[Laravel]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=27)** Here, we won't be diving too deep or even talking best practices, but there will be code files and some useful resources provided in the course repo.
 >
@@ -2741,7 +2705,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=199)** And that will bring back a recipe, which we save to this variable.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=202)** And we're going to pretty print it and output it here in JSON.
+> **[3:22](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=202)** And we're going to pretty print it and output it here in [[JSON]].
 >
 > **[3:28](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=208)** And that's how we can see that, here.
 >
@@ -2789,7 +2753,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=312)** Last one is more interactive.
 >
-> **[5:15](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=315)** So here we have a HTML form.
+> **[5:15](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=315)** So here we have a [[HTML]] form.
 >
 > **[5:17](https://www.linkedin.com/learning/learning-mongodb-17360744/php?u=76281980&t=317)** And as it might suggest, the computer already knew, I wanted to search for tacos.
 >
@@ -2847,7 +2811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), database (9), [[MongoDB]] (6), [[Search]] (3), next (2)
+> **Frameworks & Libraries:** [[PHP]] (10), [[MongoDB]] (6), [[HTML]] (2), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **CLI Commands:** php (10), find (7), make (2), python (1), composer (1)
 > **Env Vars:** php (10), html (2), readme (1), ini (1), json (1)
 > **Prerequisites:** install (4), setup (3), set up (2)
@@ -2856,16 +2820,15 @@ created: 2026-05-02
 > **Ports:** port 3000 (1)
 > **Versions:** 5.3 (1)
 
-#### Golang
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980)
+#### [Golang](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=0)** - So far, we've been working with MongoDB directly, but what about making some applications with it?
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=0)** - So far, we've been working with [[MongoDB]] directly, but what about making some applications with it?
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=5)** Luckily there're drivers, many different programming languages, and frameworks that do just that.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=10)** Here we'll be using Go, so if you're more comfortable with Python or PHP or JavaScript, ie Node.js, then make sure to watch those videos instead.
+> **[0:10](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=10)** Here we'll be using Go, so if you're more comfortable with [[Python (Programming Language)|Python]] or [[PHP]] or [[JavaScript]], ie [[Node.js]], then make sure to watch those videos instead.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=20)** We won't be diving deep, or even talking about best practices, but there will be code files for you to check out in the courses code space.
 >
@@ -2887,7 +2850,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=67)** And we can just do go run, and our example program.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=72)** And you'll see it says setting up a mongo client, connecting the database, connected successfully, listing our databases here.
+> **[1:12](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=72)** And you'll see it says setting up a mongo client, connecting the database, connected successfully, listing our [[Databases]] here.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=83)** So how did we do that?
 >
@@ -2947,7 +2910,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=254)** Some err fallback here.
 >
-> **[4:16](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=256)** And this output variable, we're just going to use this json MarshallIndent, which will allow us to get that nice formatting we saw with the document earlier, and again a fall back err.
+> **[4:16](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=256)** And this output variable, we're just going to use this [[JSON]] MarshallIndent, which will allow us to get that nice formatting we saw with the document earlier, and again a fall back err.
 >
 > **[4:31](https://www.linkedin.com/learning/learning-mongodb-17360744/golang?u=76281980&t=271)** Next we'll use the find command.
 >
@@ -3035,7 +2998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[MongoDB]] (6), [[Databases]] (3), data (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Databases]] (3), [[Python (Programming Language)|Python]] (1), [[PHP]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (9), make (3), mongo (3), python (1), php (1)
 > **Prerequisites:** set up (3), install (2)
 > **Tools:** terminal (3)
@@ -3044,12 +3007,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (2)
 > **File Paths:** node.js (1)
 
-#### How to use GridFS to store files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980)
+#### [How to use GridFS to store files](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=0)** - [Instructor] You can not only store documents in MongoDB, you can store entire files.
+> **[0:00](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=0)** - [Instructor] You can not only store documents in [[MongoDB]], you can store entire files.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=4)** This opens up a lot of possibilities, not only for better organization but also application features.
 >
@@ -3107,7 +3069,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=155)** If we look here, we can see some information about the file, file name when we uploaded it, it's size, et cetera.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=163)** And if we had some extra metadata, we could have that there as well.
+> **[2:43](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=163)** And if we had some extra [[Metadata]], we could have that there as well.
 >
 > **[2:47](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=167)** You could add things like titles or descriptions, or credit for the photo, or anything else a file might want.
 >
@@ -3169,11 +3131,11 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=333)** Now, how do we get files back out?
 >
-> **[5:36](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=336)** Most of the time, we use a Mongo client library like Python or PHP or Node.
+> **[5:36](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=336)** Most of the time, we use a Mongo client library like [[Python (Programming Language)|Python]] or [[PHP]] or Node.
 >
 > **[5:40](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=340)** Here we'll use mongofiles command itself again.
 >
-> **[5:44](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=344)** So we'll do mongofiles, and we'll use the word get here, and we'll look for that apple pie image we uploaded, and ---db=files.
+> **[5:44](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=344)** So we'll do mongofiles, and we'll use the [[Microsoft Word|word]] get here, and we'll look for that apple pie image we uploaded, and ---db=files.
 >
 > **[6:03](https://www.linkedin.com/learning/learning-mongodb-17360744/how-to-use-gridfs-to-store-files?u=76281980&t=363)** And it will say it connected and finished writing the file.
 >
@@ -3211,7 +3173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[MongoDB]] (5), [[Python (Programming Language)|Python]] (4), [[PHP]] (2), node (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[Python (Programming Language)|Python]] (4), [[PHP]] (2), [[Metadata]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (4), mongo (2), make (2), php (2), node (2)
 > **Env Vars:** php (2), pdf (1), url (1), cdn (1)
 > **File Paths:** test.txt (2)
@@ -3225,12 +3187,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MongoDB config file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980)
+#### [MongoDB config file](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=1)** - You can configure just about anything you need to be at the command line options when you start up MongoDB like the dash dash DB path for the location of the data files. But MongoDB's config file let us do this more easily and safely.
+> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=1)** - You can configure just about anything you need to be at the command line options when you start up [[MongoDB]] like the dash dash DB path for the location of the data files. But MongoDB's config file let us do this more easily and safely.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=14)** The location of the file differs based on your OS and can also be manually configured.
 >
@@ -3270,7 +3231,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=110)** I also set directory per db, true.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=113)** I like to do this personally because you can separate out your databases onto different physical discs, for example.
+> **[1:53](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=113)** I like to do this personally because you can separate out your [[Databases]] onto different physical discs, for example.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=121)** (indistinct) you can do that easily since each database will have its own directory and you can mount different directories at different disks.
 >
@@ -3294,11 +3255,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=162)** In this case, I have authorization enabled which will require role-based authentication.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=169)** JavaScript enabled is another thing you may or may not want to enable.
+> **[2:49](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=169)** [[JavaScript]] enabled is another thing you may or may not want to enable.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=174)** There could be some security issues if you allow JavaScript to run.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=178)** But if you don't, you can't do things like import a JSON file of a collection.
+> **[2:58](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=178)** But if you don't, you can't do things like import a [[JSON]] file of a collection.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=184)** Replication is another important bit.
 >
@@ -3308,7 +3269,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=210)** So actually here we could just run it like that; mongod, mongodconf.
 >
-> **[3:36](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=216)** For Windows users, it may end up looking like that.
+> **[3:36](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=216)** For [[Windows]] users, it may end up looking like that.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980&t=219)** So that's a three letter file extension.
 >
@@ -3318,7 +3279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (4), [[Security]] (3), database (2), [[Databases]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Databases]] (2), [[JavaScript]] (2), [[JSON]] (1), [[Windows]] (1)
 > **CLI Commands:** mongo (2), make (1)
 > **Env Vars:** yaml (1), json (1)
 > **Tools:** command line (2)
@@ -3327,8 +3288,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 
-#### Replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980)
+#### [Replication](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3342,7 +3302,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=19)** You might have a disk problem that corrupts your data, and that'd be really bad.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=24)** Replica sets are MongoDB's way of helping you avoid these problems by running multiple identical copies of your database at once.
+> **[0:24](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=24)** Replica sets are [[MongoDB]]'s way of helping you avoid these problems by running multiple identical copies of your database at once.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=32)** It does this by having a primary node and multiple secondary notes.
 >
@@ -3350,7 +3310,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=46)** This also helps for scaling your database.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=49)** To show this, we're going to want a clean slate, so, I'm actually going to set this up inside a docket container running Linux, but none of that is actually necessary for you to do, and you can follow along in your local machine.
+> **[0:49](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=49)** To show this, we're going to want a clean slate, so, I'm actually going to set this up inside a docket container running [[Linux]], but none of that is actually necessary for you to do, and you can follow along in your local machine.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=64)** Now I'm going to set up three members of this replica set on my one host here.
 >
@@ -3422,13 +3382,13 @@ created: 2026-05-02
 >
 > **[9:22](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=562)** You'll want to use a connection string, so, instead of here, connecting via the port, I'm going to do something like this, which is the whole connection string that lists each of the members, separated of our replica set, and then we're also going to say what our replica set is named, and then when I connect to that, you'll see it's similar, but it automatically connects me to the primary, so, I can go ahead and do whatever I need to do.
 >
-> **[9:49](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=589)** There are a bunch more options for replica sets, so, make sure to check the rest of the notes for links and more info.
+> **[9:49](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=589)** There are a bunch more options for replica sets, so, make sure to check the [[Representational State Transfer (REST)|rest]] of the notes for links and more info.
 >
 > **[9:54](https://www.linkedin.com/learning/learning-mongodb-17360744/replication?u=76281980&t=594)** Next, we'll talk about a related idea, which is sharding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (6), [[MongoDB]] (5), next (4), prompt (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), node (1)
 > **Ports:** port 27017 (2), port 18 (2), port 19 (2), port 17 (1)
 > **Code Identifiers:** replset (1), oplogsize (1), cookingset (1), ismaster (1), slaveok (1)
@@ -3437,8 +3397,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **Cross-References:** in the next (1)
 
-#### Sharding
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980)
+#### [Sharding](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3454,9 +3413,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980&t=36)** For example, if you need more disk space, but not as much RAM, you can max out your disk, and save some money elsewhere.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980&t=43)** Now, partitioning is possible with some other database systems, but almost all the time, it involves a lot of manual intervention, and pretty complicated setups.
+> **[0:43](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980&t=43)** Now, partitioning is possible with some other [[Database Systems]], but almost all the time, it involves a lot of manual intervention, and pretty complicated setups.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980&t=52)** With MongoDB, we can auto shard our data, which is awesome, but before we continue, it's important to understand why the ability to use sharding is really cool.
+> **[0:52](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980&t=52)** With [[MongoDB]], we can auto shard our data, which is awesome, but before we continue, it's important to understand why the ability to use sharding is really cool.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-mongodb-17360744/sharding?u=76281980&t=64)** It is easily one of the most complicated concepts and setups of MongoDB, so, for many basic, and even moderate MongoDB setups, a replica set is probably all you need.
 >
@@ -3522,7 +3481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[MongoDB]] (11), database (3), application (2), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (11), [[Database Systems]] (1)
 > **Prerequisites:** setup (3), you'll need (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), imagine (1)
@@ -3530,20 +3489,19 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### Authentication and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980)
+#### [Authentication and authorization](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=1)** - [Instructor] Securing your databases is very important, and while you might be able to accomplish some of that by keeping your database behind a firewall, or other network-based security measures, you should still strongly consider setting up authentication and authorization with your database.
+> **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=1)** - [Instructor] Securing your [[Databases]] is very important, and while you might be able to accomplish some of that by keeping your database behind a firewall, or other network-based security measures, you should still strongly consider setting up authentication and authorization with your database.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=17)** First, let's talk about the difference between the two.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=21)** Authentication is like logging into account.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=24)** For this, MongoDB has usernames and passwords, or keys you can use.
+> **[0:24](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=24)** For this, [[MongoDB]] has usernames and passwords, or keys you can use.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=29)** You can think about this as like having a badge to get into an office building.
+> **[0:29](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=29)** You can think about this as like having a badge to get into an [[Microsoft Office|office]] building.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-mongodb-17360744/authentication-and-authorization?u=76281980&t=34)** Authorization is a different concept.
 >
@@ -3663,7 +3621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[MongoDB]] (8), [[Security]] (2), [[Microsoft Office|Office]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Microsoft Office|Office]] (2), [[Databases]] (1)
 > **Code Identifiers:** authenticationdatabase (3), passwordprompt (2), useradminanydatabase (2), readwriteanydatabase (2), readanydatabase (2)
 > **CLI Commands:** make (6), mongo (3)
 > **Versions:** 4.2 (2)
@@ -3672,8 +3630,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **UI Navigation:** scroll down (1)
 
-#### Backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980)
+#### [Backups](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3681,9 +3638,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980&t=2)** Seriously.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980&t=3)** Back up your databases and also test your restore plans.
+> **[0:03](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980&t=3)** Back up your [[Databases]] and also test your restore plans.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980&t=7)** Of course, like any good database there are a number of ways to accomplish backups with MongoDB.
+> **[0:07](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980&t=7)** Of course, like any good database there are a number of ways to accomplish backups with [[MongoDB]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-mongodb-17360744/backups?u=76281980&t=12)** We will talk about two of them.
 >
@@ -3765,7 +3722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (9), database (5), data (5), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (9), [[Databases]] (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -3777,8 +3734,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrapping up
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980)
+#### [Wrapping up](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3786,7 +3742,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=1)** We've touched on a lot of topics in this course, and I hope it's been helpful.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=5)** If there were some things you weren't quite sure on, I encourage you to go back and re-watch the video, and make sure you're following along as best as possible in your own MongoDB server.
+> **[0:05](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=5)** If there were some things you weren't quite sure on, I encourage you to go back and re-watch the video, and make sure you're following along as best as possible in your own [[MongoDB]] server.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=15)** If you want some next steps and a bit of a challenge, one area you can start looking into is MongoDB's aggregation framework, which allows you to do some pretty complicated and powerful queries on your data.
 >
@@ -3798,7 +3754,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=44)** So I encourage you to try out a small project with MongoDB.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=48)** Since it's so easy to go from a JSON to a MongoDB document, maybe check out some APIs.
+> **[0:48](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=48)** Since it's so easy to go from a [[JSON]] to a MongoDB document, maybe check out some APIs.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=54)** Grab some data and then see what you can do with it.
 >
@@ -3806,11 +3762,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=63)** Just go, try it out.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=65)** Also, feel free to connect with me on LinkedIn or on Twitter at @LearnMongo and best of luck in the future.
+> **[1:05](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980&t=65)** Also, feel free to connect with me on [[LinkedIn]] or on Twitter at @LearnMongo and best of luck in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (5), data (2), next (1), [[JSON]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[JSON]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1)
 > **Best Practices:** make sure to (1)

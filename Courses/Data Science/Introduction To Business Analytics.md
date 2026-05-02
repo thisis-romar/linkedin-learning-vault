@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Empower your business through analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980)
+#### [Empower your business through analytics](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,13 +100,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=18)** Data analytics is the process of how you mine, model, and extract data to generate powerful insights that can help your business find efficiencies, uncover opportunities, and solve problems that you may not even know you have.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=34)** My name is John David Ariansen, and I'm the co-founder of Silvertone Analytics.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=34)** My name is [[John the Ripper|John]] David Ariansen, and I'm the co-founder of Silvertone Analytics.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=39)** In my job, I help businesses better understand and make use of their data.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=44)** And in this course, I want to share how analytics can supercharge your business.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=50)** I'll share the fundamentals of analytics, from things like data governance and making data-informed decisions.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=50)** I'll share the fundamentals of analytics, from things like [[Data Governance]] and making data-informed decisions.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980&t=55)** Then, I'll show you how to understand the value of data sources, how to track your data, and what data you should really be paying attention to.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (5), business (3), hr (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - do (1)
 
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the value of data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980)
+#### [What is the value of data?](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,13 +135,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=10)** If you've been in your industry for a while, then you probably have developed a strong intuition, and you probably lean on this intuition for making decisions.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=19)** But when you combine this intuition with some solid data analysis, you can supercharge your decision-making process.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=19)** But when you combine this intuition with some solid data analysis, you can supercharge your [[Decision-Making]] process.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=28)** Now, studying data effectively helps you validate your assumptions and identify trends that aren't readily available in your day-to-day grind.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=37)** To make this simple, I want you to see the three steps in this process.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=42)** The first is data governance.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=42)** The first is [[Data Governance]].
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=44)** This involves properly tracking the relevant metrics that have an impact on your organization.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=85)** The key here is to identify underlying trends that have an impact on your organization.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=91)** This can be done through creating dashboards, visualizations, or optimization models.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=91)** This can be done through creating [[Dashboards]], visualizations, or optimization models.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=96)** The last step in the process is making data-informed decisions.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=119)** So I want you to see this process in action.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=122)** Let's say you own a small retail shop selling products Monday through Saturday.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=122)** Let's say you own a small retail shop selling [[Microsoft Products|products]] Monday through Saturday.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=128)** You have a hunch that your sales are higher on the weekend, but you're not sure.
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=139)** They track sales automatically.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=141)** You can simply validate this assumption by downloading your data and building out a bar chart in Excel.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=141)** You can simply validate this assumption by downloading your data and building out a bar chart in [[Microsoft Excel|Excel]].
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980&t=148)** This bar chart shows that roughly 80% of your sales occur on Friday and Saturday.
 >
@@ -199,12 +197,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Decision-Making]] (3), product (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Data Governance]] (2), [[Dashboards]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - data (1)
 
-#### How can data drive my decisions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980)
+#### [How can data drive my decisions?](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,9 +223,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980&t=52)** The most effective way to get this dual view of your organization is to create an effective reporting or dashboarding infrastructure.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980&t=60)** Software like Tableau or Power BI affords you the ability to monitor your organization and also empower you to conduct some deep dives into your data and do some real investigative work.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980&t=60)** Software like [[Tableau]] or [[Microsoft Power BI|Power BI]] affords you the ability to monitor your organization and also empower you to conduct some deep dives into your data and do some real investigative work.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980&t=74)** Now, these dashboards lean on something called data visualization, which is essentially just that, a visual express what's happening in your data.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980&t=74)** Now, these [[Dashboards]] lean on something called data visualization, which is essentially just that, a visual express what's happening in your data.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/how-can-data-drive-my-decisions?u=76281980&t=85)** Often these dashboards are interactive, so you can simply click on a filter or even the data visualization in question to drill down into the juicy details.
 >
@@ -272,13 +269,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Dashboards]] (3), [[Tableau]] (2), power (2), bi (2)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Tableau]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
 > **Speakers:** - data (1)
 
-#### Data driven vs. data informed
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980)
+#### [Data driven vs. data informed](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=2)** It's important to balance your intuition and what the data is telling you.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=7)** In predictive modeling, there is a concept called overfitting where an analysis corresponds too closely to a particular dataset and may therefore fail to fit additional data or predict future observations reliably.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=7)** In [[Predictive Modeling]], there is a concept called overfitting where an analysis corresponds too closely to a particular dataset and may therefore fail to fit additional data or predict future observations reliably.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=23)** This same concept can be applied to making decisions based on data.
 >
@@ -294,11 +290,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=32)** Now, this concept of balancing intuition and data is often referred to as being data-informed.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=39)** This means that you are much less vulnerable to data quality issues.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=39)** This means that you are much less vulnerable to [[Data Quality]] issues.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=43)** These data quality issues can manifest in errors in the dataset, but they can also show up as outside factors that are not included in the analysis.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=52)** So the opposite of data-informed decision-making is called data-driven decision-making and this is when data is really the only factor taken into consideration.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=52)** So the opposite of data-informed [[Decision-Making]] is called data-driven decision-making and this is when data is really the only factor taken into consideration.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-driven-vs-data-informed?u=76281980&t=63)** There are some cases where this is unavoidable, such as a startup going into a completely new market as the first mover.
 >
@@ -326,19 +322,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Decision-Making]] (4), business (2), [[Predictive Modeling]] (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Data Quality]] (2), [[Predictive Modeling]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - data (1)
 
-#### Three types of analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980)
+#### [Three types of analytics](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=0)** - What comes to mind when you hear the term analytics?
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=3)** Big data, predictive modeling, optimization and statistics are common answers that I often hear.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=3)** [[Big Data]], [[Predictive Modeling]], optimization and [[Statistics]] are common answers that I often hear.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=11)** And these terms are all related to analytics but people tend to focus on the flashier aspects that fall under the umbrella of the term analytics.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=49)** It mostly leverages internal data sources that your organization is creating, such as sales or marketing data.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=56)** The second type of analytics is predictive analytics and this phase of analytics is quite a bit more sophisticated than descriptive, as it leans on more advanced forms of calculations to get the job done, such as linear regression and modeling.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=56)** The second type of analytics is [[Predictive Analytics]] and this phase of analytics is quite a bit more sophisticated than descriptive, as it leans on more advanced [[Forms]] of calculations to get the job done, such as [[Linear Regression]] and modeling.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/three-types-of-analytics?u=76281980&t=71)** This phase builds off of descriptive analytics in that you need solid, historical data sources with lots of data to create an effective, predictive model.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (20), data (5), [[Predictive Modeling]] (3), [[Big Data]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (3), [[Big Data]] (2), [[Statistics]] (1), [[Predictive Analytics]] (1), [[Forms]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - what (1)
@@ -390,8 +385,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980)
+#### [Data governance](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,9 +393,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=6)** But how much of that data is high enough quality for you to use to drive a decision?
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=11)** This is where data governance comes into play.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=11)** This is where [[Data Governance]] comes into play.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=14)** Data governance is a collection of practices and processes which help ensure the data quality of assets within your organization.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=14)** Data governance is a collection of practices and processes which help ensure the [[Data Quality]] of assets within your organization.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=23)** The major challenge with data governance is getting enough high quality data in time to make your decision.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=34)** Now I've worked with data from Fortune 500 companies all the way down to small startups with just a few employees.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=42)** In large organizations, there is a specific challenge of achieving data continuity across different departments and different data collection systems.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=42)** In large organizations, there is a specific challenge of achieving data continuity across different departments and different [[Data Collection]] systems.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980&t=51)** Oftentimes, legacy systems, or in other words, old programs, are not collecting data effectively, or do not connect to newly implemented systems.
 >
@@ -453,25 +447,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Quality]] (3), [[Data Collection]] (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - whether (1)
 
-#### Data tracking tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980)
+#### [Data tracking tools](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=0)** - If you use the right tools, tracking your data is easy.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=4)** In order for you to use data to better inform your decision-making process, you need to track your data effectively.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=4)** In order for you to use data to better inform your [[Decision-Making]] process, you need to track your data effectively.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=10)** If you use the right tools, tracking your data is easy.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=14)** Data governance or tracking the right metrics is the first step in using data to better inform your decision-making process.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=14)** [[Data Governance]] or tracking the right metrics is the first step in using data to better inform your decision-making process.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=22)** In this video, I will outline tools that will make tracking easy.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=33)** This can be processed and tracked using tools like Square or Stripe.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=38)** These tools are great because they give you the ability to download purchase history into Excel.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=38)** These tools are great because they give you the ability to download purchase history into [[Microsoft Excel|Excel]].
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=43)** In this format, you can manipulate the data to uncover underlying trends.
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=58)** Then, we have marketing data.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=60)** This can be tracked very effectively through Google Analytics.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=60)** This can be tracked very effectively through [[Google]] Analytics.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=64)** You may want to hire an expert to install Google Analytics for your organization.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=78)** These data points can really help focus your marketing if tracked effectively over time.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=84)** Finally, there's psychographic data, which can be collected using survey tools like Google Forms or Qualtrics.
+> **[1:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=84)** Finally, there's psychographic data, which can be collected using survey tools like Google [[Forms]] or Qualtrics.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=91)** This type of data is much less prone to automation.
 >
@@ -509,21 +502,20 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=112)** With one simple step, they now can take a deep dive into their sales trends.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=117)** So what does your data collection process look like?
+> **[1:57](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=117)** So what does your [[Data Collection]] process look like?
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-tracking-tools?u=76281980&t=121)** These tools will help you get more data than you ever thought possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (4), [[Analytics]] (3), [[Decision-Making]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Decision-Making]] (2), [[Microsoft Excel|Excel]] (2), [[Data Governance]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - if (1)
 
-#### Effective data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/effective-data-analysis?u=76281980)
+#### [Effective data analysis](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/effective-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/effective-data-analysis?u=76281980&t=117)** Now that we have the goals, KPIs, relevant dimensions and the data, we can now dive deep into exploring the data.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/effective-data-analysis?u=76281980&t=125)** Using tools like Tableau, Excel or Power BI, we can en slice through the different dimensions to uncover insights.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/effective-data-analysis?u=76281980&t=125)** Using tools like [[Tableau]], [[Microsoft Excel|Excel]] or [[Microsoft Power BI|Power BI]], we can en slice through the different dimensions to uncover insights.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/effective-data-analysis?u=76281980&t=132)** We can use these tools to quickly identify trends such as the top 10 selling states, the lowest selling months and the highest sales by category.
 >
@@ -609,23 +601,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (5), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** kpi (3)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Finding insights in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980)
+#### [Finding insights in data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=0)** - Data analysis might seem like a daunting skill to learn, but with the tools readily available to you, it's easier than ever before to mine your data for insights.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=11)** There are tools like Excel and Tableau that have made this process super easy.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=11)** There are tools like [[Microsoft Excel|Excel]] and [[Tableau]] that have made this process super easy.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=17)** Now, on the other end of the spectrum, there are coding languages like R and Python that are much more advanced and can create advanced calculations, like predictive modeling.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=17)** Now, on the other end of the spectrum, there are coding languages like R and [[Python (Programming Language)|Python]] that are much more advanced and can create advanced calculations, like [[Predictive Modeling]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=28)** If you are wanting to create an advanced model, I would suggest you hire a data scientist.
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=116)** A PivotTable enables you to explore your data on your own, without an analyst or data scientist.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=122)** Tools like Tableau and Power BI take PivotCharts to a whole new level.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=122)** Tools like Tableau and [[Microsoft Power BI|Power BI]] take PivotCharts to a whole new level.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/finding-insights-in-data?u=76281980&t=128)** These kinds of data visualization tools enable you to dig even deeper into your data, by customizing pivot charts on a whole new level.
 >
@@ -687,27 +678,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), [[Tableau]] (2), power (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Tableau]] (2), [[Python (Programming Language)|Python]] (1), [[Predictive Modeling]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - data (1)
 
-#### Statistics for analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980)
+#### [Statistics for analysts](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=0)** - If you're brand new to analytics, then you may be worried that you don't have enough statistical knowledge to be an effective analyst.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=7)** And if you're looking to jump into predictive modeling, then you may be right.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=7)** And if you're looking to jump into [[Predictive Modeling]], then you may be right.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=12)** But if you're just looking to mine your data for insights, the math needed to get this task done isn't too intimidating.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=19)** In fact, you can get 80 to 90% of the job done with a simple sum or average function.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=26)** As long as you have a tool that can segment your data like Tableau or Power BI or Excel.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=26)** As long as you have a tool that can segment your data like [[Tableau]] or [[Microsoft Power BI|Power BI]] or [[Microsoft Excel|Excel]].
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=32)** The, first kind of data analysis is aggregation or more simply put, a sum function.
 >
@@ -727,7 +717,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=78)** Next, we have the average function.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=81)** I use this off in my consulting practice when I'm working with percentages, for example, my largest client sells through the big box hardware retail stores and is very concerned with having the products on the shelf when a customer comes in to make a purchase, this is called in stock percentage.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=81)** I use this off in my consulting practice when I'm working with percentages, for example, my largest client sells through the big box [[Hardware]] retail stores and is very concerned with having the [[Microsoft Products|products]] on the shelf when a customer comes in to make a purchase, this is called in stock percentage.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=98)** In the dashboard we created for this client, they have the ability to toggle across the assortments to see which assortments have a high in stock percentage.
 >
@@ -743,7 +733,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=135)** There are advanced functions that can uncover some enlightening trends, but at this point, it's best for you to hire an analyst or a data scientist if you need these types of analyses conducted.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=148)** With these more advanced functions, there are often rules and approaches that require a deep knowledge of math and statistics.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=148)** With these more advanced functions, there are often rules and approaches that require a deep knowledge of math and [[Statistics]].
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/statistics-for-analysts?u=76281980&t=155)** Personally, I outsource these tasks to our data scientists at Analytics who got his masters in applied mathematics.
 >
@@ -753,19 +743,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (6), business (2), [[Predictive Modeling]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), picture (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is called (1)
 > **Speakers:** - if (1)
 
-#### Data informed decision making
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980)
+#### [Data informed decision making](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=0)** - Decision-making is as much of an art as it is a science.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=0)** - [[Decision-Making]] is as much of an art as it is a science.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=3)** The truth is you're never going to have all of the variables.
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=49)** Imagine if you call out the data point that your costs have increased before you put out a new product.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=55)** This would give you an opportunity to reevaluate the product's pricing strategy.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=55)** This would give you an opportunity to reevaluate the product's [[Pricing Strategy]].
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-informed-decision-making?u=76281980&t=61)** It's much better to put out a product at a higher price than releasing it at a low price and then having to increase the price after launch.
 >
@@ -805,7 +794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (5), [[Decision-Making]] (4), [[Pricing Strategy]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Pricing Strategy]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -816,8 +805,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data source map
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980)
+#### [Data source map](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980&t=154)** While all of these data sources before were focused on your business, this type of data looks out into the marketplace.
 >
-> **[2:41](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980&t=161)** You need to understand how you stack up against your competitors to create a sustainable business advantage.
+> **[2:41](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980&t=161)** You need to understand how you stack up against your competitors to create a [[Sustainable Business]] advantage.
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980&t=167)** Competitive intelligence can also help you identify underserved niches within the market for you to pursue.
 >
@@ -887,15 +875,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), business (3), [[Analytics]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[Sustainable Business]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), such as (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Internal vs. external data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980)
+#### [Internal vs. external data sources](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=29)** One of the most valuable internal data sources that you can collect is sales data.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=33)** With proper data governance, you can create a rich data set that details your customers' buying behavior.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=33)** With proper [[Data Governance]], you can create a rich data set that details your customers' buying behavior.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=39)** Now the data governance piece here is very important.
 >
@@ -921,7 +908,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=53)** Your organization also needs to ensure that these data sources are in a usable format.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=59)** Next, we have external data sources, which is data that is generated outside of your organization that you can use to better inform your decision-making process.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=59)** Next, we have external data sources, which is data that is generated outside of your organization that you can use to better inform your [[Decision-Making]] process.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=70)** These kinds of data sources can help you get a better understanding of the overall market climate.
 >
@@ -943,7 +930,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=135)** Now let me show you this in action.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=137)** One of my larger consulting clients sells retail hardware online, which is a hyper-competitive marketplace.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=137)** One of my larger consulting clients sells retail [[Hardware]] online, which is a hyper-competitive marketplace.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=144)** They were interested in optimizing their pricing structure in a very interesting way.
 >
@@ -953,7 +940,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=166)** Then I created a database.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=168)** We mined this database to find products that had a higher feedback rating but a lower price than their direct competitor.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=168)** We mined this database to find [[Microsoft Products|products]] that had a higher feedback rating but a lower price than their direct competitor.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/internal-vs-external-data-sources?u=76281980&t=176)** The idea here is that my client would increase their prices up until they hit even with their competitors before they would be losing too many sales.
 >
@@ -969,13 +956,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Decision-Making]] (2), product (2), database (2), next (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Decision-Making]] (2), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (2), is a  (2), defined as (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - data (1)
 
-#### Combining data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980)
+#### [Combining data sources](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=40)** Let me show you how this can work.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=42)** If you're doing a good job at understanding your sales trends, you should have a pretty good idea of how each of your main types or categories of products are doing.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=42)** If you're doing a good job at understanding your sales trends, you should have a pretty good idea of how each of your main types or categories of [[Microsoft Products|products]] are doing.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=52)** Say that along with doing a great job of collecting sales data, you're also collecting demographic data about your customer base.
 >
@@ -1003,7 +989,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=90)** A unique identifier is a field that is in both data sources that you can use to link the data sources together.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=98)** Your unique identifier needs to only have one customer attached to each specific value, or else you will run into data quality issues such as duplication.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=98)** Your unique identifier needs to only have one customer attached to each specific value, or else you will run into [[Data Quality]] issues such as duplication.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/combining-data-sources?u=76281980&t=108)** A common example is the use of email addresses.
 >
@@ -1017,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Products|Products]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Quality]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** crm (1)
@@ -1029,8 +1015,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Database management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980)
+#### [Database management](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=3)** In this video, I'm going to explain some of the common issues with wrangling data.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=8)** The biggest issue with managing data is maintaining high data quality.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=8)** The biggest issue with managing data is maintaining high [[Data Quality]].
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=13)** One of the worst things that can possibly happen with an analyst or a data savvy business owner is for them to make a poor decision based on some bad data.
 >
@@ -1048,7 +1033,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=32)** Here's some common causes of poor data quality.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=36)** First, data collection can be a sticking point.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=36)** First, [[Data Collection]] can be a sticking point.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=39)** For example, if your team is manually entering in company names, they might type ABC Trucking in a few different ways.
 >
@@ -1068,7 +1053,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=99)** Usually this occurs when tracking is not done correctly.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=102)** For example, the tracking pixel that enables Google Analytics to track leads from a webpage may not be installed correctly.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=102)** For example, the tracking pixel that enables [[Google]] Analytics to track leads from a webpage may not be installed correctly.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980&t=110)** Thus giving the wrong impression about your website's performance.
 >
@@ -1078,15 +1063,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (1), next (1), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Data Collection]] (2), [[Google]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (2)
 > **File Paths:** a.b.c (1)
 > **Speakers:** - managing (1)
 
-#### Data silos
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-silos?u=76281980)
+#### [Data silos](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-silos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,14 +1102,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (1), next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Data management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980)
+#### [Data management tools](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1133,13 +1115,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=8)** In this video, I'm going to outline some common tools that can help you get this job done.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=14)** The most commonly known data management tool is Excel.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=14)** The most commonly known [[Data Management]] tool is [[Microsoft Excel|Excel]].
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=17)** Microsoft Excel is a spreadsheet tool that features calculations, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=17)** [[Microsoft Excel]] is a spreadsheet tool that features calculations, graphing tools, [[Pivot Tables]], and a macro programming language called Visual Basic for Applications.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=29)** This tool is extremely versatile.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=32)** You can use a data visualization tool like Tableau to not only visualize the trends in your Excel spreadsheet.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=32)** You can use a data visualization tool like [[Tableau]] to not only visualize the trends in your Excel spreadsheet.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=39)** Tableau can also help you join and merge multiple Excel files together.
 >
@@ -1147,19 +1129,19 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=54)** As your organization continues to grow, adding more departments and thus producing more complex data, you'll need to invest in a relational database.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=63)** SQL Server is a Microsoft product that allows you to create relational databases, or in other words databases that are connected.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=63)** [[Microsoft SQL Server|SQL Server]] is a [[Microsoft]] product that allows you to create [[Relational Databases]], or in other words [[Databases]] that are connected.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=72)** This is when your data starts to get more complicated and you need to bring in specialized help to be able to work with that kind of data.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=80)** Excel and Tableau are relatively easy to learn and mostly point and click.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=85)** But just to be able to access data from a database, you need to know SQL coding.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=85)** But just to be able to access data from a database, you need to know [[SQL]] coding.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=91)** SQL is short for structured query language.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=94)** A query is a type of coding that pulls the data.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=98)** Depending on how complex your data needs are, you may also want to invest in a database administrator to ensure that your databases are connected correctly and there's no major data quality issues.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=98)** Depending on how complex your data needs are, you may also want to invest in a database administrator to ensure that your databases are connected correctly and there's no major [[Data Quality]] issues.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-management-tools?u=76281980&t=110)** Now, there are many tools to manage data, but don't let that intimidate you.
 >
@@ -1169,15 +1151,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (5), [[Tableau]] (4), database (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Tableau]] (4), [[Databases]] (2), [[SQL]] (2), [[Data Management]] (1)
 > **Definitions:** is a  (3), in other words (1), short for (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - whether (1)
 
-#### Visualizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980)
+#### [Visualizing data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,7 +1188,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=65)** The first fundamental is to keep your visualizations simple.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=69)** I know we often see these beautiful data visualizations all across LinkedIn but for you and your business, you should keep it simple.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=69)** I know we often see these beautiful data visualizations all across [[LinkedIn]] but for you and your business, you should keep it simple.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=77)** The next principle is to focus on the important metrics.
 >
@@ -1255,19 +1236,18 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=200)** This video was a short primer on data visualization.
 >
-> **[3:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=204)** If you would like additional information, you should check out the books "Storytelling with Data" for some data viz theory or if you want a more business-focused lens, "The Big Book of Dashboards," which will walk you through effective and ineffective dashboards set in the real-world business setting.
+> **[3:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/visualizing-data?u=76281980&t=204)** If you would like additional information, you should check out the books "[[Storytelling]] with Data" for some data viz theory or if you want a more business-focused lens, "The Big Book of [[Dashboards]]," which will walk you through effective and ineffective dashboards set in the real-world business setting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (3), [[Dashboards]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[LinkedIn]] (1), [[Storytelling]] (1)
 > **Analogies:** picture (2), for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - according (1)
 
-#### Reporting infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980)
+#### [Reporting infrastructure](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,13 +1283,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=74)** To break from your car analogy, you'll want your business dashboard to include some visualizations.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=81)** Visualizations are infographics, charts and graphs that enable you to quickly assess how you're tracking with your goals.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=81)** Visualizations are [[Infographics]], charts and graphs that enable you to quickly assess how you're tracking with your goals.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=89)** For example, a manufacturing business will want to see how their sales and inventory are trending.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=95)** You can simply create a line chart mapping both of these points in one chart.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=100)** I'm a Tableau developer, and have developed quite a few dashboards for my clients over the years.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=100)** I'm a [[Tableau]] developer, and have developed quite a few [[Dashboards]] for my clients over the years.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/reporting-infrastructure?u=76281980&t=105)** Here is a mock-up of a marketing dashboard.
 >
@@ -1339,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), power (1), data (1), [[Infographics]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1), [[Tableau]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1350,8 +1330,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980)
+#### [Sales data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,13 +1378,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (2), hit (1), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sales (1)
 
-#### Marketing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980)
+#### [Marketing data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=24)** First, studying marketing data can greatly inform your marketing message.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=29)** For example, when one email marketing campaign gets significantly more attraction than another, then that's a clear signal that one campaign has solid messaging and the other is not quite speaking to your audience.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=29)** For example, when one [[Email Marketing]] campaign gets significantly more attraction than another, then that's a clear signal that one campaign has solid messaging and the other is not quite speaking to your audience.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=42)** We can start to study these trends on the aggregate to better understand the specific message that will get your customers to buy.
 >
@@ -1431,7 +1408,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=70)** But as time goes on, you'll want to start to focus your marketing budget on the channels that are providing the biggest ROI.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=78)** For my consulting business, Facebook ads don't really move the needle much, but LinkedIn ads have a much better return.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=78)** For my consulting business, Facebook ads don't really move the needle much, but [[LinkedIn]] ads have a much better return.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=85)** Third, you can use data to inform when and where you are targeting your audience.
 >
@@ -1449,7 +1426,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=127)** The most compelling insight that we found was that an email with a discount rate of only 25% in the subject line was opened at a rate three times higher than those with 75% or more.
 >
-> **[2:20](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=140)** After talking with the management team, this helped them validate a long held assumption that consumers buying these products were buying on brand or prestige, not on price.
+> **[2:20](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=140)** After talking with the management team, this helped them validate a long held assumption that consumers buying these [[Microsoft Products|products]] were buying on brand or prestige, not on price.
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/marketing-data?u=76281980&t=150)** In fact, a lower price might have signaled to the customer base that these items were on clearance, which made them not very likely to click on that email campaign.
 >
@@ -1461,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Email Marketing]] (3), business (1), [[LinkedIn]] (1), management (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Ports:** :00 (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)
@@ -1469,8 +1446,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - marketing (1)
 
-#### Cost data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980)
+#### [Cost data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,13 +1454,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=7)** Oftentimes small expenses can fall through the cracks which is why it's very important to study this kind of data.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=14)** There are two basic forms of costs that your organization will face.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=14)** There are two basic [[Forms]] of costs that your organization will face.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=18)** Fixed and variable.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=20)** Fixed costs will stand stable whether you're killing it sales wise or not a single deal has come through.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=27)** An example of this is the overhead you pay to rent your office.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=27)** An example of this is the overhead you pay to rent your [[Microsoft Office|office]].
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=32)** The other kind of cost is variable and this scales up and down, depending on another factor.
 >
@@ -1514,21 +1490,20 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=118)** After aggregating the sales to the daily level and joining the two data sources, we discovered that seven out of the 31 days in March, weren't profitable.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=128)** This helped them revise their pricing strategy and focus their sales on closer customers that didn't carry as such a high transportation cost.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=128)** This helped them revise their [[Pricing Strategy]] and focus their sales on closer customers that didn't carry as such a high transportation cost.
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=137)** Now you understand some of the challenges associated with cost data, it's time for you to get a handle on the of your organization by diving deeper into cost data.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=148)** This is how you can build a stronger and more sustainable business.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/cost-data?u=76281980&t=148)** This is how you can build a stronger and more [[Sustainable Business]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (2), [[Forms]] (1), [[Microsoft Office|Office]] (1), product (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Office|Office]] (1), [[Pricing Strategy]] (1), [[Sustainable Business]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - studying (1)
 
-#### Psychographic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/psychographic-data?u=76281980)
+#### [Psychographic data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/psychographic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/psychographic-data?u=76281980&t=47)** Your customer base is casting their vote with their dollar.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/psychographic-data?u=76281980&t=50)** Sales data can tell you which of your products is resonating out on the marketplace.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/psychographic-data?u=76281980&t=50)** Sales data can tell you which of your [[Microsoft Products|products]] is resonating out on the marketplace.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/psychographic-data?u=76281980&t=55)** This is a good data point to understand, but psychographic data can go much deeper in unpacking their motivation for buying and experience with your product or service.
 >
@@ -1594,13 +1569,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (3), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - do (1)
 
-#### External data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980)
+#### [External data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=41)** This helps keep your plans realistic.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=44)** The second kind of internal data source you can lean on is market research.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=44)** The second kind of internal data source you can lean on is [[Market Research]].
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=50)** There are companies whose sole purpose is to collect and understand data about specific kinds of markets.
 >
@@ -1628,7 +1602,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=75)** With this kind of dataset, you study your direct competitors to find gaps in the market.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=81)** For example, I have web scrape feedback data to find specific products that were not performing well out on the market.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=81)** For example, I have web scrape feedback data to find specific [[Microsoft Products|products]] that were not performing well out on the market.
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/external-data?u=76281980&t=88)** We assess this by subpar feedback rating.
 >
@@ -1646,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Products|Products]] (2), [[Market Research]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Market Research]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
@@ -1657,8 +1631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key sales metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980)
+#### [Key sales metrics](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1653,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=52)** This is especially important if you have very different lines of business.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=56)** For example, one of my clients sold hardware, but of various different types, screws, kitchen hardware, utilities, marine accessories, just to name a few.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=56)** For example, one of my clients sold [[Hardware]], but of various different types, screws, kitchen hardware, utilities, marine accessories, just to name a few.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=67)** In situations like these, it makes sense to segment your sales.
 >
@@ -1688,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=76)** And diving deep and studying these two assortments separately, can unlock a treasure trove of insights.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=83)** Secondly, to discuss when sales are occurring, I would ensure that my data collection process includes a time dimension or when the purchase occurred.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=83)** Secondly, to discuss when sales are occurring, I would ensure that my [[Data Collection]] process includes a time dimension or when the purchase occurred.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980&t=95)** This can really help your organization target your audience in an effective way, both informing the marketing, and the of the best time to reach out to potential customers, in addition to helping the supply chain team estimate the demand and stock the shelves accordingly.
 >
@@ -1732,14 +1705,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), data (3), business (2), [[Analytics]] (1), product (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Data Collection]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - total (1)
 
-#### Tools to track sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980)
+#### [Tools to track sales data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,7 +1727,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=36)** You can take this one step further with a little setup manually to include category, location, price point, and some other detailed data points.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=46)** Using these platforms empowers you to simply download the transaction history into Excel.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=46)** Using these platforms empowers you to simply download the transaction history into [[Microsoft Excel|Excel]].
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=52)** And there you can start to conduct your own analysis.
 >
@@ -1771,7 +1743,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=97)** All these data points can help you evaluate which of your customers are ready to purchase from you again.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=103)** An even more advanced way of tracking the sales is through implementing Google Analytics.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=103)** An even more advanced way of tracking the sales is through implementing [[Google]] Analytics.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-sales-data?u=76281980&t=109)** When implemented correctly, this enables you to see what marketing campaigns, marketing channels, and webpages are truly leading to sales.
 >
@@ -1783,15 +1755,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (2), [[Google]] (2), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (2), for example (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - if (1)
 
-#### Key marketing metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980)
+#### [Key marketing metrics](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1817,13 +1788,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=71)** I actually use social media data to validate which course I should publish.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=76)** Finally, we have lead generation data.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=76)** Finally, we have [[Lead Generation]] data.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=80)** And this kind of data is kind of like your marketing engine.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=84)** You need a certain amount of leads to generate a certain amount of sales.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=88)** Common-lead generation data sources are paid advertisements and email marketing data.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=88)** Common-lead generation data sources are paid advertisements and [[Email Marketing]] data.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=94)** The goal here is that you want to maximize your return on investment of both your time and dollar spent on marketing.
 >
@@ -1833,7 +1804,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=110)** I made a lot of videos about analytics, but there were just a handful that got some major traction.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=116)** One, in particular, was a video on a new Tableau certification.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=116)** One, in particular, was a video on a new [[Tableau]] certification.
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=121)** It turns out that the video I made is now the top search result for Tableau certification.
 >
@@ -1847,18 +1818,17 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=156)** Are you tracking all three kinds of marketing data effectively?
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=160)** I hope this video has given you some ideas on how you can leverage your marketing data to improve your decision-making process.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-marketing-metrics?u=76281980&t=160)** I hope this video has given you some ideas on how you can leverage your marketing data to improve your [[Decision-Making]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), product (3), [[Tableau]] (3), [[Lead Generation]] (2), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Lead Generation]] (2), [[Email Marketing]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - can (1)
 
-#### Tools to track marketing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980)
+#### [Tools to track marketing data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1866,9 +1836,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=6)** And now it's easier than ever to get your hands on high quality marketing data.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=11)** You just need to ensure that you take some time to cultivate your data collection process.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=11)** You just need to ensure that you take some time to cultivate your [[Data Collection]] process.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=16)** This process starts with getting Google analytics set up properly for your website.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=16)** This process starts with getting [[Google]] analytics set up properly for your website.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=21)** Remember, your website is one of your biggest marketing tools.
 >
@@ -1884,9 +1854,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=69)** Once you get this in place, you'll be able to calculate the cost per lead and ultimately the cost per acquisition for your traditional marketing platforms.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=78)** This will shed some light on if you need to modify or completely stop these forms of marketing.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=78)** This will shed some light on if you need to modify or completely stop these [[Forms]] of marketing.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=84)** Last, we have digital marketing platforms like email marketing and paid advertisements.
+> **[1:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=84)** Last, we have digital marketing platforms like [[Email Marketing]] and paid advertisements.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-marketing-data?u=76281980&t=89)** Here you don't necessarily need to set up tracking but instead you need to understand how to pull this data out of the platform so you can study it for insightful trends.
 >
@@ -1910,15 +1880,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Google]] (2), [[Analytics]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Data Collection]] (1), [[Forms]] (1), [[Email Marketing]] (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
 
-#### Key cost metrics to track
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-cost-metrics-to-track?u=76281980)
+#### [Key cost metrics to track](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-cost-metrics-to-track?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1966,13 +1935,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), hit (2), data (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
-#### Tools to track cost data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-cost-data?u=76281980)
+#### [Tools to track cost data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-cost-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1980,7 +1947,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-cost-data?u=76281980&t=9)** How a business tracks their expenses will vary based on the size of the organization.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-cost-data?u=76281980&t=14)** First, a small business might use Excel to track their expenses, and maybe even to build out a financial model to better understand their profit margin.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-cost-data?u=76281980&t=14)** First, a small business might use [[Microsoft Excel|Excel]] to track their expenses, and maybe even to build out a financial model to better understand their profit margin.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-cost-data?u=76281980&t=24)** As long as you don't do too many different moving parts within Excel, this is more than enough to get the job done.
 >
@@ -2000,12 +1967,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Excel|Excel]] (3), data (2), next (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - tracking (1)
 
-#### Key psychographic metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-psychographic-metrics?u=76281980)
+#### [Key psychographic metrics](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-psychographic-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2063,13 +2029,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (3)
 > **Analogies:** for example (2)
 > **Warnings:** warning (1)
 > **Speakers:** - wouldn (1)
 
-#### Tools to track psychographic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-psychographic-data?u=76281980)
+#### [Tools to track psychographic data](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-psychographic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,7 +2041,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-psychographic-data?u=76281980&t=3)** There are a lot of tools out there that can help you get this job done for free or a very low price.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-psychographic-data?u=76281980&t=9)** Google Forms is both free and easy.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-psychographic-data?u=76281980&t=9)** [[Google]] [[Forms]] is both free and easy.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/tools-to-track-psychographic-data?u=76281980&t=12)** With Google Forms you can select from various different types of questions, including multiple choice, short answer, and rating scales.
 >
@@ -2115,7 +2079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Google]] (4), [[Forms]] (3), product (2), power (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Forms]] (3)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -2126,8 +2090,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980&t=14)** If you want additional resources about analytics, first, you should 'scribe to my YouTube channel where I talk all about analytics and how to navigate a career in this space.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980&t=24)** Next, you should check out my other LinkedIn Learning courses.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980&t=24)** Next, you should check out my other [[LinkedIn]] Learning courses.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980&t=28)** I cover topics on both specific analytics tools and analytics in general.
 >
@@ -2151,7 +2114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), [[LinkedIn]] (2), career (1), next (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Speakers:** - if (1)
 
 

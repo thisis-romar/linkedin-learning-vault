@@ -101,24 +101,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data pipeline automation with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980)
+#### [Data pipeline automation with GitHub Actions](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=0)** - Do you spend hours on running scripts manually?
 >
-> **[0:03](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=3)** Do you frequently pull data from APIs or other data sources and update dashboards and reports?
+> **[0:03](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=3)** Do you frequently pull data from APIs or other data sources and update [[Dashboards]] and reports?
 >
 > **[0:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=9)** If so, you are in the right place.
 >
-> **[0:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=11)** In this course, we will learn how to set workflows on GitHub actions to automate processes with both R and Python.
+> **[0:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=11)** In this course, we will learn how to set workflows on [[GitHub]] actions to automate processes with both R and [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=19)** We will demonstrate the automation process with real life examples.
 >
 > **[0:23](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=23)** Specifically, we will set a data pipeline to pull the hourly demand for electricity in California from the EIA API, and deploy a live dashboard with GitHub actions and pages.
 >
-> **[0:35](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=35)** Hi, I'm Rami Krispin, senior manager of Data Science and Engineering.
+> **[0:35](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=35)** Hi, I'm Rami Krispin, senior manager of [[Data Science]] and Engineering.
 >
 > **[0:39](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980&t=39)** I have decades of experience in working with data.
 >
@@ -128,20 +127,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[GitHub]] (2), [[Dashboards]] (1), [[Python (Programming Language)|Python]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Dashboards]] (1), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **Env Vars:** eia (1), api (1)
 > **Tools:** github (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980&t=0)** - [Instructor] To successfully complete the course, you will need to know either R or Python, as I will demo in both languages in this course.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980&t=0)** - [Instructor] To successfully complete the course, you will need to know either R or [[Python (Programming Language)|Python]], as I will demo in both languages in this course.
 >
-> **[0:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980&t=9)** You also need some basic command line knowledge, including Git.
+> **[0:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980&t=9)** You also need some basic command line knowledge, including [[Git]].
 >
 > **[0:14](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/what-you-should-know?u=76281980&t=14)** You can complete the course without knowledge in Docker, but it's highly recommended.
 >
@@ -164,14 +162,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### EIA API
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980)
+#### [EIA API](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=0)** - [Instructor] During the course, we will utilize the EIA API to extract electricity related data with the help of GitHub Actions and other tools.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=0)** - [Instructor] During the course, we will utilize the EIA API to extract electricity related data with the help of [[GitHub]] Actions and other tools.
 >
-> **[0:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=10)** In this chapter, our focus will be on the EIA API, its functionality, the variety of datasets available on the API, their structure, and how to retrieve the data using R and Python.
+> **[0:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=10)** In this chapter, our focus will be on the EIA API, its functionality, the variety of datasets available on the API, their structure, and how to retrieve the data using R and [[Python (Programming Language)|Python]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=24)** Before getting started with the API, let's first explain what EIA is.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=61)** The EAI website, [eia.gov](https://eia.gov), is a great resource for the U.S. energy sector.
 >
-> **[1:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=68)** On the website, you can find recent news and updates related to the energy sector, daily reports, key KPIs, such as natural gas or crude oil, future prices, short and long-term energy outlook and forecast, and, of course, data, a lot of it with a great API access.
+> **[1:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=68)** On the website, you can find recent news and updates related to the energy sector, daily reports, key KPIs, such as natural gas or crude oil, future prices, short and long-term energy [[Microsoft Outlook|outlook]] and forecast, and, of course, data, a lot of it with a great API access.
 >
 > **[1:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980&t=94)** That includes more than 1 million series related to different subfields of the energy sector, such as electricity, natural gas, crude oil, CO2 emissions, and others.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), data (3), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** api (11), eia (5), eai (1), co2 (1), register (1)
 > **URLs:** [eia.gov](https://eia.gov) (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -218,8 +215,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Prerequisites:** getting started (1), you need to have (1)
 
-#### Setting an environment variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980)
+#### [Setting an environment variable](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,13 +273,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980&t=178)** And if you open a new terminal window and try to run again, it should be there.
 >
-> **[3:07](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980&t=187)** Last but not least, the process in Linux-based OS should be similar.
+> **[3:07](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980&t=187)** Last but not least, the process in [[Linux]]-based OS should be similar.
 >
-> **[3:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980&t=193)** Be aware that for Windows OS, the process of saving environment variables might be a little bit different, but the way you're going to load it will be the same.
+> **[3:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-an-environment-variable?u=76281980&t=193)** Be aware that for [[Windows]] OS, the process of saving environment variables might be a little bit different, but the way you're going to load it will be the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), api (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1)
 > **Tools:** terminal (6), vim (2)
 > **Env Vars:** eia_api_key (3), api (1)
 > **Warnings:** note that (1), be aware (1)
@@ -292,14 +288,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The EIA API dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980)
+#### [The EIA API dashboard](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=0)** - [Instructor] In this video, we will review the eia API dashboard and learn how to use its functionality to search data, apply filters, and extract the query settings.
 >
-> **[0:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=13)** This information, as you will see later on this course, will be used for when setting the get request via our Python to pull data from the API programmatically.
+> **[0:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=13)** This information, as you will see later on this course, will be used for when setting the get request via our [[Python (Programming Language)|Python]] to pull data from the API programmatically.
 >
 > **[0:25](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=25)** Let's go now to the browser and log in again to [eia.gov](https://eia.gov).
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=202)** Last but not least, let's submit the request.
 >
-> **[3:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=207)** The dashboard will retain some useful information about the query such as the API endpoint on the left side and the query header on the right side in a JSON format, which we will use later to pull data directly from the API.
+> **[3:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=207)** The dashboard will retain some useful information about the query such as the API endpoint on the left side and the query header on the right side in a [[JSON]] format, which we will use later to pull data directly from the API.
 >
 > **[3:45](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/the-eia-api-dashboard?u=76281980&t=225)** We will talk later on in this chapter about the structure of the get request and how can we use the header and the API URL to set the get request.
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), data (7), [[Search]] (1), [[Python (Programming Language)|Python]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Env Vars:** api (9), ciso (2), json (1), url (1)
 > **UI Navigation:** select the (4), open the (1)
 > **Analogies:** for example (2), such as (1)
@@ -368,8 +363,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GET request structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/get-request-structure?u=76281980)
+#### [GET request structure](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/get-request-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/get-request-structure?u=76281980&t=67)** The API supports only GET request, which enable us to pull data from the EIA data catalog.
 >
-> **[1:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/get-request-structure?u=76281980&t=75)** The API provides two type of data structures, time series and metadata, which we will use in more details in the coming slides.
+> **[1:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/get-request-structure?u=76281980&t=75)** The API provides two type of [[Data Structures]], time series and [[Metadata]], which we will use in more details in the coming slides.
 >
 > **[1:25](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/get-request-structure?u=76281980&t=85)** The EIA API follows the standard structure of GET request, which start with the API endpoint or the internet address of the API.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (29), data (14), application (3), [[Metadata]] (2), next (2)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Data Structures]] (1)
 > **Env Vars:** api (28), eia (2), http (1), rto (1), ciso (1)
 > **API Endpoints:** get  (9)
 > **Versions:** version 2 (3), version 1 (2)
@@ -448,8 +442,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** note that (2)
 
-#### Querying the data via the browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980)
+#### [Querying the data via the browser](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=101)** Now, after we edit the API key and we can click enter and see what's going on.
 >
-> **[1:51](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=111)** You can see that the API returns the data in JSON format.
+> **[1:51](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=111)** You can see that the API returns the data in [[JSON]] format.
 >
 > **[1:57](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=117)** I have a plugin in my browser for reformatting JSON files, so I get a nice output.
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=135)** And now let's review the output.
 >
-> **[2:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=138)** The first few sections of the JSON output provide metadata about the series we pulled, such as the total number of observation.
+> **[2:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=138)** The first few sections of the JSON output provide [[Metadata]] about the series we pulled, such as the total number of observation.
 >
 > **[2:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=147)** In this case, for this series, there are 49,487 observation, and you also get this warning that just tell you that you can only pull 5,000 observation per request.
 >
@@ -515,11 +508,11 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=229)** In this case, this is 9,779 megawatt hours.
 >
-> **[3:57](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=237)** In the following videos, we will start to work with the API using R and Python.
+> **[3:57](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-the-data-via-the-browser?u=76281980&t=237)** In the following videos, we will start to work with the API using R and [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), data (4), [[JSON]] (4), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (8), json (4), pgae (1), api_key_missing (1)
 > **API Endpoints:** get  (3)
 > **CLI Commands:** make (1), python (1)
@@ -528,14 +521,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Querying data with R and Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980)
+#### [Querying data with R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=0)** - [Instructor] So far in the previous videos, we viewed the API functionality and saw how to set and send a get request via the browser.
 >
-> **[0:12](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=12)** We'll dedicate the rest of this chapter to learn and practice how to query data from the API using R and Python.
+> **[0:12](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=12)** We'll dedicate the [[Representational State Transfer (REST)|rest]] of this chapter to learn and practice how to query data from the API using R and [[Python (Programming Language)|Python]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=21)** To pull data with R we will use the EIA API library that provides a set of functions to query data from the current version of the API V2.
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=64)** Throughout this course, we will use the following three functions, which are available both in R and Python to pull data from the API.
 >
-> **[1:14](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=74)** First, the EIA underscore metadata, which as its name implies returns metadata.
+> **[1:14](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=74)** First, the EIA underscore [[Metadata]], which as its name implies returns metadata.
 >
 > **[1:24](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/querying-data-with-r-and-python?u=76281980&t=84)** In the coming example, we will see how to use the function output to set the get request parameters.
 >
@@ -571,19 +563,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), data (7), [[Python (Programming Language)|Python]] (6), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (12), eia (7), cran (1)
 > **CLI Commands:** python (6)
 > **Versions:** version 0 (1), 1.2 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pulling metadata from API with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980)
+#### [Pulling metadata from API with R](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=0)** - [Instructor] Let's now open RStudio and demonstrate how to send a GET request to pull data from the API using the EIAapi library.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=0)** - [Instructor] Let's now open [[RStudio]] and demonstrate how to send a GET request to pull data from the API using the EIAapi library.
 >
 > **[0:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=9)** To be consistent with the previous examples, we'll continue to focus on the hourly electricity demand of the Pacific Gas and Electricity balancing authority subregion or, in short, PGAE.
 >
@@ -591,7 +582,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=32)** The name of the file is R_eia_api.qmd, and you can find it under the course or repository under the chapter-1 folder.
 >
-> **[0:44](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=44)** The screenshot below provides the series metadata from the dashboard that we used in the previous examples.
+> **[0:44](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=44)** The screenshot below provides the series [[Metadata]] from the dashboard that we used in the previous examples.
 >
 > **[0:52](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-r?u=76281980&t=52)** We'll use it later on.
 >
@@ -633,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), data (6), [[Metadata]] (5), next (2), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (5), [[RStudio]] (1)
 > **Env Vars:** api (11), pgae (2)
 > **API Endpoints:** get  (5)
 > **Code Identifiers:** eia_metadata (2), api_key (1), api_meta_path (1)
@@ -642,12 +633,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending a simple GET request with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980)
+#### [Sending a simple GET request with R](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=0)** - [Instructor] In the previous video, we saw how we can use the EIA metadata function to pull metadata from the API.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=0)** - [Instructor] In the previous video, we saw how we can use the EIA [[Metadata]] function to pull metadata from the API.
 >
 > **[0:07](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=7)** In this video, we will use the metadata we pull to set and send to the API, a simple get request to pull data with the EIA get function.
 >
@@ -713,7 +703,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=272)** Be sure to set the time zone as UTC.
 >
-> **[4:37](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=277)** We're going to reformat the structure, having the index first and then the rest of the variables using the select functions from deployer.
+> **[4:37](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=277)** We're going to reformat the structure, having the index first and then the [[Representational State Transfer (REST)|rest]] of the variables using the select functions from deployer.
 >
 > **[4:47](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-r?u=76281980&t=287)** And last but not least, we're going to arrange the data by the index.
 >
@@ -729,15 +719,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Metadata]] (7), data (7), next (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (11), eia (5), utc (3), pgae (3), ciso (2)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Definitions:** is a  (1), defined as (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### API limitations with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980)
+#### [API limitations with R](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,7 +752,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=79)** Do not fit the serious pattern.
 >
-> **[1:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=82)** We can go ahead and Zoom and explore those points.
+> **[1:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=82)** We can go ahead and [[Zoom]] and explore those points.
 >
 > **[1:25](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=85)** So for example, over here you can see those lines.
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=121)** So for example, if we just open it over here and you can see there are some buckets that are missing values.
 >
-> **[2:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=130)** The reason that we got those missing values is related to the API 5,000 observation limit per Git request.
+> **[2:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=130)** The reason that we got those missing values is related to the API 5,000 observation limit per [[Git]] request.
 >
 > **[2:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-r?u=76281980&t=138)** If we were trying to pull five years of hourly time series data, this is more than 40,000 observation and we cannot pull it in a single request.
 >
@@ -823,15 +812,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (3), next (3), [[Zoom]] (2), ai (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Git]] (1)
 > **Cross-References:** in the next (2), previous video (1), go back to (1)
 > **Env Vars:** api (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** git (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling a large data request with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/handling-a-large-data-request-with-r?u=76281980)
+#### [Handling a large data request with R](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/handling-a-large-data-request-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,7 +889,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (6), next (1)
 > **Env Vars:** api (6), eia (5), posix (2), utc (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Best Practices:** make sure to (1), recommended (1)
@@ -909,8 +896,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pulling metadata from API with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980)
+#### [Pulling metadata from API with Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,17 +914,17 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=46)** To be consistent with the previous examples, we will continue to focus on the hourly electricity demand of the Pacific Gas and Electricity Balancing Authority subregion, or, in short, PGAE.
 >
-> **[1:01](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=61)** The screenshot here provide the series metadata from the dashboard that we used in the previous examples.
+> **[1:01](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=61)** The screenshot here provide the series [[Metadata]] from the dashboard that we used in the previous examples.
 >
 > **[1:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=70)** Let's start by importing the required libraries and functions.
 >
-> **[1:17](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=77)** As mentioned earlier, the EIA_API is a local script with a set of Python functions that we will use throughout this course to query data from the EIA_API.
+> **[1:17](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=77)** As mentioned earlier, the EIA_API is a local script with a set of [[Python (Programming Language)|Python]] functions that we will use throughout this course to query data from the EIA_API.
 >
 > **[1:30](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=90)** We will import the EIA_API and set it as API.
 >
 > **[1:36](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=96)** Let's go ahead and execute it.
 >
-> **[1:39](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=99)** Let's continue and load the rest of the Python libraries.
+> **[1:39](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=99)** Let's continue and load the [[Representational State Transfer (REST)|rest]] of the Python libraries.
 >
 > **[1:43](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/pulling-metadata-from-api-with-python?u=76281980&t=103)** We are going to use the following three libraries, OS to import the API key from the environment variable, Datatime to reformat date and time objects, and Plotly to visualize the data that we're going to pull from the API.
 >
@@ -970,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Metadata]] (7), data (4), next (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (11), eia_api (4), pgae (2), eia (1), eia_api_key (1)
 > **CLI Commands:** python (2), make (1)
 > **API Endpoints:** get  (2)
@@ -979,12 +965,11 @@ created: 2026-05-02
 > **Code Identifiers:** api_meta_path (1)
 > **Tools:** jupyter (1)
 
-#### Sending a simple GET request with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980)
+#### [Sending a simple GET request with Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=0)** - [Instructor] In the previous video, we leveraged the AI metadata function to pull metadata from the API for the PG AE series.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=0)** - [Instructor] In the previous video, we leveraged the AI [[Metadata]] function to pull metadata from the API for the PG AE series.
 >
 > **[0:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=9)** In this video, we'll use the metadata we pulled to set and send to the API a simple get request to pull data with the EIA get function.
 >
@@ -1040,7 +1025,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=211)** Let's review the data.
 >
-> **[3:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=212)** Aligned with the API JSON data format that we saw earlier, the return data frame as the following seven variables, period which represent the timestamp of the series or the index, subba and subba name, which represent the Subregion name and code.
+> **[3:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=212)** Aligned with the API [[JSON]] data format that we saw earlier, the return data frame as the following seven variables, period which represent the timestamp of the series or the index, subba and subba name, which represent the Subregion name and code.
 >
 > **[3:55](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=235)** Likewise, parent and parent name which represent the parent code and the parent name.
 >
@@ -1050,13 +1035,13 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=259)** Last but not least, we can check the data frame columns attributes using the dtypes function.
 >
-> **[4:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=267)** And as you can see that the period is set as daytime, the rest are characters and the value is integer.
+> **[4:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=267)** And as you can see that the period is set as daytime, the [[Representational State Transfer (REST)|rest]] are characters and the value is integer.
 >
 > **[4:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/sending-a-simple-get-request-with-python?u=76281980&t=274)** In the next video, we will explore the series and review some of the limitations of the EIA get function for pulling hourly data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), data (13), [[Metadata]] (7), next (2), ai (1)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (16), eia (3), pgae (3), utc (2), ciso (2)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1064,8 +1049,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### API limitations with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-python?u=76281980)
+#### [API limitations with Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-python?u=76281980&t=57)** And as you can notice in this time sales plot, there are some weird lines that do not fit the serious pattern.
 >
-> **[1:04](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-python?u=76281980&t=64)** We can go ahead and zoom in and and explore it.
+> **[1:04](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-python?u=76281980&t=64)** We can go ahead and [[Zoom]] in and and explore it.
 >
 > **[1:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/api-limitations-with-python?u=76281980&t=68)** You can see here that some observations are missings and therefore you get those straight lines in between.
 >
@@ -1135,15 +1119,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (3), next (2), ai (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** api (3), iget (2), df1 (1), tf1 (1)
 > **Cross-References:** previous video (2), in the next (2), go back to (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling a large data request with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/handling-a-large-data-request-with-python?u=76281980)
+#### [Handling a large data request with Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/handling-a-large-data-request-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,7 +1190,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (5), next (1)
 > **Code Identifiers:** eia_get (4), eia_backfill (2)
 > **Env Vars:** api (5)
 > **Cross-References:** previous video (1)
@@ -1215,12 +1197,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Query the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/challenge-query-the-api?u=76281980)
+#### [Challenge: Query the API](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/challenge-query-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/challenge-query-the-api?u=76281980&t=0)** - [Instructor] We will conclude this chapter with practicing what we learned so far, using the EIA dashboard to extract metadata and querying the data from the API using R or Python.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/challenge-query-the-api?u=76281980&t=0)** - [Instructor] We will conclude this chapter with practicing what we learned so far, using the EIA dashboard to extract [[Metadata]] and querying the data from the API using R or [[Python (Programming Language)|Python]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/challenge-query-the-api?u=76281980&t=18)** This time we're going to pull data of the San Diego Gas and Electricity balancing authority subregion.
 >
@@ -1234,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Metadata]] (2), [[Python (Programming Language)|Python]] (2), api (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** eia (2), api (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** eia_backfill (1)
@@ -1242,8 +1223,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Query the API with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-r?u=76281980)
+#### [Solution: Query the API with R](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1255,7 +1235,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-r?u=76281980&t=22)** As before, we're going to load EIAapi to query data from the API, dplyr to process data, lubridate to reformat date and time objects, and we're going to use plotly to visualize the data.
 >
-> **[0:36](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-r?u=76281980&t=36)** The first question, we were asked to extract the metadata of the San Diego Gas and Electric balancing authority from the EIA dashboard.
+> **[0:36](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-r?u=76281980&t=36)** The first question, we were asked to extract the [[Metadata]] of the San Diego Gas and Electric balancing authority from the EIA dashboard.
 >
 > **[0:46](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-r?u=76281980&t=46)** So let's go to the [eia.gov](https://eia.gov) website.
 >
@@ -1391,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), data (9), [[Metadata]] (5), next (4), power (1)
+> **Frameworks & Libraries:** [[Metadata]] (5)
 > **Env Vars:** api (10), sdge (3), ciso (2), utc (2), posix (2)
 > **UI Navigation:** select the (6), go to (1), scroll down (1)
 > **Code Identifiers:** eia_backfill (4), eia_get (3)
@@ -1400,8 +1380,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** don't forget (1)
 
-#### Solution: Query the API with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980)
+#### [Solution: Query the API with Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1388,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=10)** This notebook Py_challenge_solutions can be found under the course repository chapter one folder.
 >
-> **[0:20](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=20)** In addition, we're going to use the AI_API Python script as before.
+> **[0:20](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=20)** In addition, we're going to use the AI_API [[Python (Programming Language)|Python]] script as before.
 >
 > **[0:25](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=25)** This Python script provides a set of functions that will enable us to query data from the API.
 >
@@ -1423,7 +1402,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=58)** Let's go to the first question.
 >
-> **[0:59](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=59)** We were asked to extract from the EIA dashboard, the metadata of the San Diego Gas and Electric Balancing Authority sub region.
+> **[0:59](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=59)** We were asked to extract from the EIA dashboard, the [[Metadata]] of the San Diego Gas and Electric Balancing Authority sub region.
 >
 > **[1:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/solution-query-the-api-with-python?u=76281980&t=69)** Let's go to the [eia.gov](https://eia.gov) website and navigate to the dashboard.
 >
@@ -1565,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), api (11), next (5), [[Metadata]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (11), sdge (4), ciso (3), ai_api (1), eia_api (1)
 > **UI Navigation:** go to (5), select the (3), navigate to (1), scroll down (1), click on (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1579,8 +1558,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data pipeline scope and requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980)
+#### [Data pipeline scope and requirements](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,7 +1568,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=13)** A simple definition of a data pipeline is the process of moving data from one data source to another.
 >
-> **[0:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=21)** In most cases, it includes intermediate steps such as data processing, cleaning, data transformation, aggregation, and creating new fields.
+> **[0:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=21)** In most cases, it includes intermediate steps such as [[Data Processing]], cleaning, [[Data Transformation]], aggregation, and creating new fields.
 >
 > **[0:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=32)** The process also defined as ETL, which stands for extract, transform, and Load.
 >
@@ -1598,7 +1576,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=57)** Moving forward, we'll refer to our raw data, the AI API as the source of raw data and the process data as normalized.
 >
-> **[1:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=69)** In the previous chapter, we saw the process of pulling data from the API to our local machine where the API in this case is our raw data source, which comes in a JSON format.
+> **[1:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=69)** In the previous chapter, we saw the process of pulling data from the API to our local machine where the API in this case is our raw data source, which comes in a [[JSON]] format.
 >
 > **[1:24](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=84)** And our final output or normalized table was the DataFrame object.
 >
@@ -1618,13 +1596,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=162)** We want the data pipeline to have high level of customization, so think about the scenario that you want to add a new subregion, and you don't want to manually go and out code the changes.
 >
-> **[2:55](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=175)** We want to add in place data quality checks and unit test to ensure the quality of the data.
+> **[2:55](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=175)** We want to add in place [[Data Quality]] checks and unit test to ensure the quality of the data.
 >
 > **[3:02](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=182)** And last but not least, we want to monitor the health of the pipeline.
 >
-> **[3:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=188)** Last but not least, we'll create and deploy the pipeline with both R and Python.
+> **[3:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=188)** Last but not least, we'll create and deploy the pipeline with both R and [[Python (Programming Language)|Python]].
 >
-> **[3:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=193)** The supporting files of the R data pipelines are under the R folder in the course repository.
+> **[3:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=193)** The supporting files of the R [[Data Pipelines]] are under the R folder in the course repository.
 >
 > **[3:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980&t=202)** Similarly, the Python data pipeline supporting files are under the Python folder.
 >
@@ -1632,7 +1610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), api (3), [[Python (Programming Language)|Python]] (3), [[Data Transformation]] (1), etl (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Processing]] (1), [[Data Transformation]] (1), [[JSON]] (1), [[Data Quality]] (1)
 > **Env Vars:** api (3), etl (1), json (1)
 > **CLI Commands:** python (3)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -1641,8 +1619,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data pipeline architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980)
+#### [Data pipeline architecture](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1654,7 +1631,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=16)** Let's now break it down into the its different components, starting with the EIA API, our source data or raw data.
 >
-> **[0:26](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=26)** In the previous chapter, we reviewed how we can set and send a gate request to pull metadata and data from the API using the EI metadata and the EI backfill functions.
+> **[0:26](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=26)** In the previous chapter, we reviewed how we can set and send a gate request to pull [[Metadata]] and data from the API using the EI metadata and the EI backfill functions.
 >
 > **[0:40](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=40)** The pipeline supporting functions will leverage those functions to extract data from the API.
 >
@@ -1662,7 +1639,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=59)** In addition, this function also collect metadata on each steps enabling us to monitor the health of the data pipeline.
 >
-> **[1:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=68)** The process is deployed on GitHub actions and we'll dive into more details about the deployment in the next chapter.
+> **[1:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=68)** The process is deployed on [[GitHub]] actions and we'll dive into more details about the deployment in the next chapter.
 >
 > **[1:16](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=76)** In the local environment, we have the backfill function.
 >
@@ -1678,11 +1655,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=129)** We'll focus on this component in chapter four of this course.
 >
-> **[2:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=133)** Throughout the rest of this chapter, we'll focus on the data refresh and backfill functions.
+> **[2:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-architecture?u=76281980&t=133)** Throughout the [[Representational State Transfer (REST)|rest]] of this chapter, we'll focus on the data refresh and backfill functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), api (4), [[GitHub]] (4), [[Metadata]] (3), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), eia (1)
 > **Tools:** github (4)
 > **Cross-References:** previous video (1), previous chapter (1), next chapter (1)
@@ -1690,8 +1667,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [host] (1)
 
-#### Data refresh process
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980)
+#### [Data refresh process](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1713,23 +1689,23 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=76)** In our case, we will set the refresh function to pull only new data points.
 >
-> **[1:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=81)** Let's now focus on the logic of the data refresh process that we will deploy on GitHub Actions.
+> **[1:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=81)** Let's now focus on the logic of the data refresh process that we will deploy on [[GitHub]] Actions.
 >
 > **[1:28](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=88)** The refresh process is set inside the Quarto dock.
 >
 > **[1:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=92)** One of the main reasons that I love to use Quarto docks to run my code on GitHub Actions is that it is a great way to communicate the refresh process when running code on a remote server.
 >
-> **[1:46](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=106)** It generates an HTML report that you can customize according to your needs.
+> **[1:46](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=106)** It generates an [[HTML]] report that you can customize according to your needs.
 >
 > **[1:52](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=112)** We'll dive into more details about the functionality of this process later in this chapter.
 >
-> **[1:58](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=118)** The refresh process leverages a set of helper functions that handle the low capturing data quality test, appending the data back when applicable to the normalized table.
+> **[1:58](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=118)** The refresh process leverages a set of helper functions that handle the low capturing [[Data Quality]] test, appending the data back when applicable to the normalized table.
 >
 > **[2:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=131)** We'll review those functions in the next video.
 >
-> **[2:14](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=134)** Once the process is triggered, it loads the series information from the series.json file.
+> **[2:14](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=134)** Once the process is triggered, it loads the series information from the series.[[JSON]] file.
 >
-> **[2:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=141)** This file defines the metadata of the series we want to pull from the API and their corresponding route.
+> **[2:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=141)** This file defines the [[Metadata]] of the series we want to pull from the API and their corresponding route.
 >
 > **[2:29](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-process?u=76281980&t=149)** This will enable us to seamlessly onboard new subregions or remove existing ones without the need to hard code the changes.
 >
@@ -1755,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[GitHub]] (5), [[Metadata]] (4), api (4), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Metadata]] (4), [[HTML]] (1), [[Data Quality]] (1), [[JSON]] (1)
 > **Env Vars:** api (4), html (1)
 > **Tools:** github (5)
 > **API Endpoints:** get  (3)
@@ -1764,8 +1740,7 @@ created: 2026-05-02
 > **Code Identifiers:** eia_metadata (1), eia_backfill (1)
 > **File Paths:** series.json (1)
 
-#### ETL supporting functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980)
+#### [ETL supporting functions](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,11 +1756,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=26)** We can break down the refresh process into the following three mini processes.
 >
-> **[0:30](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=30)** First is the data processing.
+> **[0:30](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=30)** First is the [[Data Processing]].
 >
-> **[0:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=33)** For example, pulling the data from the API and transforming it from JSON objects into a DataFrame object.
+> **[0:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=33)** For example, pulling the data from the API and transforming it from [[JSON]] objects into a DataFrame object.
 >
-> **[0:43](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=43)** Next is the metadata, creating and updating the metadata tables and logs.
+> **[0:43](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=43)** Next is the [[Metadata]], creating and updating the metadata tables and logs.
 >
 > **[0:49](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/etl-supporting-functions?u=76281980&t=49)** And third and last is handling the append process of new data to the normalized table.
 >
@@ -1811,7 +1786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Metadata]] (7), etl (2), api (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[Data Processing]] (1), [[JSON]] (1)
 > **Code Identifiers:** create_metadata (1), load_metadata (1), get_metadata (1), append_metadata (1), append_data (1)
 > **Env Vars:** etl (2), api (2), json (1)
 > **Cross-References:** previous video (1), previous chapter (1)
@@ -1819,8 +1794,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data backfilling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980)
+#### [Data backfilling](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1844,15 +1818,15 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=76)** The main difference is that it initiates the process and not checking for differences.
 >
-> **[1:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=82)** It start by creating, loading the JSON file with the series information, building the profile, and go to the API and load the data based on the time range that we provide.
+> **[1:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=82)** It start by creating, loading the [[JSON]] file with the series information, building the profile, and go to the API and load the data based on the time range that we provide.
 >
-> **[1:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=94)** It generate metadata and append, or push the data, to the normalized table.
+> **[1:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=94)** It generate [[Metadata]] and append, or push the data, to the normalized table.
 >
 > **[1:41](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=101)** Note that if any data were available before it will override the metadata in the normalized tables.
 >
 > **[1:48](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=108)** Let's now open VSCode and review where you can find those files.
 >
-> **[1:53](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=113)** The backfill functions, the R version and the Python version, run inside a Quarto doc.
+> **[1:53](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=113)** The backfill functions, the R version and the [[Python (Programming Language)|Python]] version, run inside a Quarto doc.
 >
 > **[2:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=120)** Here on the left side you can see the Python version named data_backfile_py, it's a Quarto doc.
 >
@@ -1862,7 +1836,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=141)** You can find those folders under the python and R folders.
 >
-> **[2:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=147)** Once rendered it generate HTML output.
+> **[2:27](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=147)** Once rendered it generate [[HTML]] output.
 >
 > **[2:31](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=151)** So if you go over here under the Python version, you can see that there is a file named data_backfile_py and it's a HTML file with the rendered output of the backfill.
 >
@@ -1878,7 +1852,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=195)** We start like before by loading the libraries.
 >
-> **[3:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=199)** You can see that we are loading here additional libraries such as Pandas and NumPy to process the data.
+> **[3:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=199)** You can see that we are loading here additional libraries such as [[Pandas (Software)|Pandas]] and NumPy to process the data.
 >
 > **[3:26](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-backfilling?u=76281980&t=206)** And we're going to use libraries such as JSON to read the series.json file with the metadata of the series that we want to pool.
 >
@@ -1920,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Metadata]] (9), [[Python (Programming Language)|Python]] (6), api (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Metadata]] (9), [[Python (Programming Language)|Python]] (6), [[JSON]] (3), [[HTML]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (6), find (3), make (1)
 > **Env Vars:** api (4), html (3), json (2)
 > **Code Identifiers:** data_backfile_py (2), eia_api (1), eia_data (1)
@@ -1929,14 +1903,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **File Paths:** series.json (1)
 
-#### Data refresh output
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980)
+#### [Data refresh output](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=0)** - [Instructor] In the previous video, we reviewed the outputs of the backfill functions.
 >
-> **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=6)** We saw that there is a R and Python version rendered in Quarto Documentation.
+> **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=6)** We saw that there is a R and [[Python (Programming Language)|Python]] version rendered in Quarto Documentation.
 >
 > **[0:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=11)** In this video, we will review the data refresh functions and their outputs.
 >
@@ -1950,7 +1923,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=47)** Once the data pipeline is running and executing the process, it will render it and save those files in the docs folder.
 >
-> **[0:55](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=55)** If we open the docs folders, you can see two folders here, data_refresh_python for the Python files, and you can see the HTML file here.
+> **[0:55](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=55)** If we open the docs folders, you can see two folders here, data_refresh_python for the Python files, and you can see the [[HTML]] file here.
 >
 > **[1:05](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=65)** Similarly, for the R version, you will have data_refresh_R and you will have the HTML version.
 >
@@ -1966,7 +1939,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=90)** We are starting with loading the libraries.
 >
-> **[1:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=93)** In this case, we are using almost the exact same libraries as before, but we also using the GT library to plot the outputs in a table format and the jsonlite to load the series.json file.
+> **[1:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=93)** In this case, we are using almost the exact same libraries as before, but we also using the GT library to plot the outputs in a table format and the jsonlite to load the series.[[JSON]] file.
 >
 > **[1:47](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=107)** We start by loading the JSON file and creating the mapping of the series.
 >
@@ -1976,7 +1949,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=120)** We define the offset and load the API key.
 >
-> **[2:04](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=124)** In addition, we define the metadata and data path for the output files.
+> **[2:04](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=124)** In addition, we define the [[Metadata]] and data path for the output files.
 >
 > **[2:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-refresh-output?u=76281980&t=131)** Then we start with the process of identify if there is any incremental data in the API.
 >
@@ -2010,7 +1983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), api (6), [[Metadata]] (6), [[Python (Programming Language)|Python]] (5), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (6), [[Python (Programming Language)|Python]] (5), [[HTML]] (2), [[JSON]] (2)
 > **Env Vars:** api (6), html (2), false (2), json (1), true (1)
 > **CLI Commands:** python (5), find (1)
 > **Code Identifiers:** updates_available (2), data_refresh_python (1), get_metadata (1)
@@ -2019,12 +1992,11 @@ created: 2026-05-02
 > **File Paths:** series.json (1)
 > **Cross-References:** previous video (1)
 
-#### Data quality checks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980)
+#### [Data quality checks](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=0)** - [Instructor] We'll conclude this chapter with reviewing the pipeline data quality checks or unit test.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=0)** - [Instructor] We'll conclude this chapter with reviewing the pipeline [[Data Quality]] checks or unit test.
 >
 > **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=6)** Let's start by defining the term data quality checks.
 >
@@ -2056,9 +2028,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=109)** If the data fails, the quality checks.
 >
-> **[1:52](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=112)** This will prevent a potential series of data integrity issues in our pipeline and with use of monitoring will enable us to address those issues on time.
+> **[1:52](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=112)** This will prevent a potential series of [[Data Integrity]] issues in our pipeline and with use of monitoring will enable us to address those issues on time.
 >
-> **[2:05](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=125)** Here is the metadata that our pipeline collected throughout the refresh process.
+> **[2:05](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=125)** Here is the [[Metadata]] that our pipeline collected throughout the refresh process.
 >
 > **[2:09](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-quality-checks?u=76281980&t=129)** They create meta functions, run a sequence of test, for example, comparing if the timestamp of the data we collected is aligned with the ones we set, with the start and end argument of the get request.
 >
@@ -2076,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), api (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Integrity]] (1), [[Metadata]] (1)
 > **Analogies:** for example (5), such as (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the last (1)
@@ -2088,12 +2060,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980)
+#### [Introduction to GitHub Actions](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=0)** - [Instructor] In this video, we will review GitHub Actions core functionality and features.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=0)** - [Instructor] In this video, we will review [[GitHub]] Actions core functionality and features.
 >
 > **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=6)** Let's start by explaining what GitHub Action is.
 >
@@ -2109,7 +2080,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=40)** First is Triggered Workflow, which is simply define a job that is set to start when some action takes place.
 >
-> **[0:49](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=49)** For example, this workflow is triggered to run a unit test whenever a git-commit or portal request takes place.
+> **[0:49](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=49)** For example, this workflow is triggered to run a unit test whenever a [[Git]]-commit or portal request takes place.
 >
 > **[0:59](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=59)** The second type of automation is Scheduled Workflow, which run a job based on a timing or a cron job.
 >
@@ -2121,7 +2092,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=82)** First and foremost, it's fully integrated with GitHub and its features.
 >
-> **[1:28](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=88)** It supports multiple OS systems such as Windows, macOS, and Ubuntu.
+> **[1:28](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=88)** It supports multiple OS systems such as [[Windows]], macOS, and [[Ubuntu]].
 >
 > **[1:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980&t=93)** It fully supports deployment with Docker, which is the method we will use in this course, provides logs, and it also provide a service for storing sensitive data such as API keys and credentials.
 >
@@ -2163,7 +2134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[Automation]] (3), [[Ubuntu]] (2), data (2), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Ubuntu]] (2), [[Git]] (1), [[Windows]] (1)
 > **Tools:** github (9), bash (1)
 > **CLI Commands:** docker (4), cd (1), git (1), make (1)
 > **Env Vars:** api (2), yaml (2), eia (1)
@@ -2172,16 +2143,15 @@ created: 2026-05-02
 > **Best Practices:** best practice (1), recommended (1)
 > **Code Identifiers:** macos (1)
 
-#### Deployment with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980)
+#### [Deployment with Docker](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=0)** - [Instructor] In the previous video, we reviewed the core functionality of GitHub actions.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=0)** - [Instructor] In the previous video, we reviewed the core functionality of [[GitHub]] actions.
 >
 > **[0:05](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=5)** In this video, we will dive into more details about the motivation for deploying a workflow with Docker image.
 >
-> **[0:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=13)** If I need to define the motivation for using a container for our deployment, in one word, it would be environment and in two words, reproducible environment.
+> **[0:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=13)** If I need to define the motivation for using a container for our deployment, in one [[Microsoft Word|word]], it would be environment and in two words, reproducible environment.
 >
 > **[0:24](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=24)** Docker may have a high learning curve, but it was worth the effort.
 >
@@ -2197,21 +2167,20 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=68)** If you feel comfortable with Docker, I recommend going ahead and creating a new image or customizing the course image according to your needs.
 >
-> **[1:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=78)** If you are new to Docker and may have additional requirements that not available in the current image, I recommend checking the official Python image for Python applications or the Docker project for our applications.
+> **[1:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=78)** If you are new to Docker and may have additional requirements that not available in the current image, I recommend checking the official [[Python (Programming Language)|Python]] image for Python applications or the Docker project for our applications.
 >
 > **[1:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deployment-with-docker?u=76281980&t=94)** In the next video, we'll learn how to create a workflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1), data (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (6), python (2)
 > **Cross-References:** previous video (1), in the next (1)
 > **Tools:** github (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting GitHub Actions workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980)
+#### [Setting GitHub Actions workflow](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2221,17 +2190,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=8)** We want the workflow to simply print a "Hello World."
 >
-> **[0:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=11)** We are going to use Ubuntu as our OS, and we will use our course image to set the environment.
+> **[0:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=11)** We are going to use [[Ubuntu]] as our OS, and we will use our course image to set the environment.
 >
 > **[0:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=19)** There are two methods for adding a new workflow.
 >
-> **[0:23](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=23)** First, via GitHub. Let's open the browser and go to GitHub.
+> **[0:23](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=23)** First, via [[GitHub]]. Let's open the browser and go to GitHub.
 >
 > **[0:28](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=28)** On the main menu, go to Actions, and then click on the left side, New workflow.
 >
 > **[0:38](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=38)** As you can see, GitHub offer many templates.
 >
-> **[0:41](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=41)** Over here, you can see there is a Python version and a R version.
+> **[0:41](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=41)** Over here, you can see there is a [[Python (Programming Language)|Python]] version and a R version.
 >
 > **[0:47](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=47)** We will set our workflow from scratch.
 >
@@ -2265,7 +2234,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=130)** And now, we have the file over here on the editor and we can start to edit.
 >
-> **[2:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=135)** This is a YAML file and it's fairly similar to a JSON file.
+> **[2:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=135)** This is a YAML file and it's fairly similar to a [[JSON]] file.
 >
 > **[2:19](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=139)** We'll start by defining the workflow name.
 >
@@ -2391,7 +2360,7 @@ created: 2026-05-02
 >
 > **[7:57](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=477)** So first we can check that we have a change.
 >
-> **[8:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=480)** So let's do git status.
+> **[8:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=480)** So let's do [[Git]] status.
 >
 > **[8:03](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-github-actions-workflow?u=76281980&t=483)** And you can see there is a new workflow.
 >
@@ -2427,7 +2396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), next (5), [[Git]] (5), [[Python (Programming Language)|Python]] (4), [[Ubuntu]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Git]] (5), [[Python (Programming Language)|Python]] (4), [[Ubuntu]] (3), [[JSON]] (1)
 > **Tools:** github (11), command line (2), bash (2), vs code (1), terminal (1)
 > **CLI Commands:** git (5), python (4), make (1), docker (1), python3 (1)
 > **UI Navigation:** go to (3), open the (2), click on (1), select the (1)
@@ -2436,8 +2405,7 @@ created: 2026-05-02
 > **Env Vars:** yaml (2), json (1)
 > **Cross-References:** in the next (2), go back to (1)
 
-#### Reviewing workflows logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/reviewing-workflows-logs?u=76281980)
+#### [Reviewing workflows logs](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/reviewing-workflows-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2493,12 +2461,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting secrets and environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-secrets-and-environment-variables?u=76281980)
+#### [Setting secrets and environment variables](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-secrets-and-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-secrets-and-environment-variables?u=76281980&t=0)** - [Instructor] In this video, we will see how we can set secrets and environment variables in GitHub actions.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-secrets-and-environment-variables?u=76281980&t=0)** - [Instructor] In this video, we will see how we can set secrets and environment variables in [[GitHub]] actions.
 >
 > **[0:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/setting-secrets-and-environment-variables?u=76281980&t=8)** We'll use secrets to store sensitive variables and credentials such as the EI API Access Key.
 >
@@ -2526,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), api (3), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Env Vars:** api (3)
 > **Tools:** github (3)
 > **UI Navigation:** open the (1), select the (1), go to (1)
@@ -2535,8 +2502,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980)
+#### [Advanced workflow](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2546,9 +2512,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=15)** Reading and writing back to repository is critical when we deploy our electricity data automation pipeline.
 >
-> **[0:23](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=23)** During this process, we will read and execute code from the report and write back to the data and metadata tables.
+> **[0:23](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=23)** During this process, we will read and execute code from the report and write back to the data and [[Metadata]] tables.
 >
-> **[0:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=32)** To write back to the repository, you will have to set your GitHub username and email as secrets as shown in the previous video.
+> **[0:32](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=32)** To write back to the repository, you will have to set your [[GitHub]] username and email as secrets as shown in the previous video.
 >
 > **[0:42](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=42)** In the next example, we want to create a workflow that captures the date and time during the workflow runtime.
 >
@@ -2592,7 +2558,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=204)** Next, we want to give permission to the machine we are running the workflow to write back to the repository.
 >
-> **[3:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=213)** We'll use the Git config command and add the path of the repository in that machine.
+> **[3:33](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=213)** We'll use the [[Git]] config command and add the path of the repository in that machine.
 >
 > **[3:39](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/advanced-workflow?u=76281980&t=219)** Added this If Or statement to validate if there are any changes in the repository before we commit the changes back.
 >
@@ -2608,7 +2574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), [[GitHub]] (3), feature (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Metadata]] (1), [[Git]] (1)
 > **Cross-References:** previous video (2), in the next (2)
 > **Tools:** github (3), command line (1)
 > **Definitions:** is a  (3)
@@ -2616,12 +2582,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data pipeline deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980)
+#### [Data pipeline deployment](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=0)** - [Instructor] In this video, we will connect what we have learned so far in the course and deploy the data pipeline into GitHub actions.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=0)** - [Instructor] In this video, we will connect what we have learned so far in the course and deploy the data pipeline into [[GitHub]] actions.
 >
 > **[0:08](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=8)** We will use a similar deployment method as we saw in the previous video.
 >
@@ -2633,7 +2598,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=30)** In addition, we want to run this workflow every 12 hours.
 >
-> **[0:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=34)** We will set two versions for the deployment, one for R and a second for Python.
+> **[0:34](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=34)** We will set two versions for the deployment, one for R and a second for [[Python (Programming Language)|Python]].
 >
 > **[0:41](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=41)** Other than that, we will use the exact same setting as before.
 >
@@ -2655,7 +2620,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=114)** Both the Bash scripts have the same functionality, with the exception of the Python version.
 >
-> **[2:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=120)** as we cannot deploy two dashboards on GitHub action at the same time, we only make the deployment for the Python version, and this is the difference between the two Bash scripts.
+> **[2:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=120)** as we cannot deploy two [[Dashboards]] on GitHub action at the same time, we only make the deployment for the Python version, and this is the difference between the two Bash scripts.
 >
 > **[2:11](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-deployment?u=76281980&t=131)** In the next chapter, we will dive into more details about the dashboard deployment process.
 >
@@ -2683,7 +2648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (6), [[GitHub]] (3), next (3), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[GitHub]] (3), [[Dashboards]] (1)
 > **Tools:** bash (6), github (3)
 > **CLI Commands:** python (7), make (1)
 > **Cross-References:** as we saw (2), in the next (2), previous video (1)
@@ -2697,20 +2662,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data pipeline maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980)
+#### [Data pipeline maintenance](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=0)** - [Instructor] Congratulations.
 >
-> **[0:02](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=2)** We now have a deployed data pipelines running on GitHub actions.
+> **[0:02](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=2)** We now have a deployed [[Data Pipelines]] running on [[GitHub]] actions.
 >
 > **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=6)** In this chapter, we will focus on the maintenance steps of the data pipeline.
 >
 > **[0:12](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=12)** Let's start by discussing when and why you need to maintain the data pipeline.
 >
-> **[0:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=18)** Typically, software upgrades, new features, and data integrity will force you to make changes in the code or the structure of the data pipeline.
+> **[0:18](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=18)** Typically, software upgrades, new features, and [[Data Integrity]] will force you to make changes in the code or the structure of the data pipeline.
 >
 > **[0:29](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=29)** Software upgrades and new features typically trigger changes in the environment settings.
 >
@@ -2726,13 +2690,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=99)** This includes a variety of methods and tools such as setting unit test, defining logs, and setting alerts.
 >
-> **[1:50](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=110)** In chapter two, we saw different unit test and integrated some data quality checks into the electricity data pipeline.
+> **[1:50](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=110)** In chapter two, we saw different unit test and integrated some [[Data Quality]] checks into the electricity data pipeline.
 >
 > **[1:59](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=119)** Those are just conceptual example that we use to demonstrate this topic.
 >
 > **[2:04](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=124)** Now, after you saw the process of setting a data pipeline and the functionality of actions, the sky is the limit.
 >
-> **[2:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=133)** There are many open source tools for data quality for both R and Python, such as the pointblank R Library or the YData profile Python library, which provides great tools for data monitoring and reporting.
+> **[2:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=133)** There are many open source tools for data quality for both R and [[Python (Programming Language)|Python]], such as the pointblank R Library or the YData profile Python library, which provides great tools for data monitoring and reporting.
 >
 > **[2:30](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980&t=150)** Those tools can be easily integrated into the data pipeline during the runtime.
 >
@@ -2740,7 +2704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[GitHub]] (3), feature (2), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Data Integrity]] (2), [[Data Quality]] (2), [[Python (Programming Language)|Python]] (2), [[Data Pipelines]] (1)
 > **CLI Commands:** python (2), make (1), docker (1)
 > **Tools:** github (3)
 > **Analogies:** such as (2)
@@ -2749,14 +2713,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying dashboard to GitHub Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980)
+#### [Deploying dashboard to GitHub Pages](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=0)** - [Instructor] In this video, we'll learn how to deploy an HTML document, such as a dashboard or report, to GitHub Pages with GitHub actions.
+> **[0:00](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=0)** - [Instructor] In this video, we'll learn how to deploy an [[HTML]] document, such as a dashboard or report, to [[GitHub]] Pages with GitHub actions.
 >
-> **[0:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=10)** Building dashboards or monitoring tools is beyond the scope of this course.
+> **[0:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=10)** Building [[Dashboards]] or monitoring tools is beyond the scope of this course.
 >
 > **[0:14](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=14)** The goal here is to provide you with tools for deployment, HTML best monitoring tools, such as ones generated by the YData Profile or pointblank libraries that we saw in the previous video.
 >
@@ -2768,7 +2731,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=53)** For this demonstration, I created a simple Quarto dashboard that plots the data and presents the pipeline's logs.
 >
-> **[1:01](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=61)** As before, the dashboard has both R and Python versions, but for the purpose of the demonstration, we will deploy the Python version.
+> **[1:01](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=61)** As before, the dashboard has both R and [[Python (Programming Language)|Python]] versions, but for the purpose of the demonstration, we will deploy the Python version.
 >
 > **[1:10](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/deploying-dashboard-to-github-pages?u=76281980&t=70)** The deployment of the R version is identical.
 >
@@ -2804,7 +2767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[HTML]] (7), [[Dashboards]] (3), data (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[HTML]] (7), [[Dashboards]] (3), [[Python (Programming Language)|Python]] (3)
 > **Tools:** github (8), bash (2)
 > **Env Vars:** html (4), qmd (1), url (1)
 > **File Paths:** index.html (3)
@@ -2818,8 +2781,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2827,13 +2789,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980&t=2)** I hope you enjoyed the learning and can apply to real-life applications.
 >
-> **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980&t=6)** If you want to learn more, you are welcome to follow me on LinkedIn, where I'm sharing content related to data science and engineering.
+> **[0:06](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980&t=6)** If you want to learn more, you are welcome to follow me on [[LinkedIn]], where I'm sharing content related to [[Data Science]] and engineering.
 >
 > **[0:13](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980&t=13)** Happy learning!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Data Science]] (1)
 > **Speakers:** - congratulations (1)
 
 

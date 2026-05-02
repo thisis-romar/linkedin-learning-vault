@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Miro for brainstorming and collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/miro-for-brainstorming-and-collaboration?u=76281980)
+#### [Miro for brainstorming and collaboration](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/miro-for-brainstorming-and-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,12 +91,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - hey (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/using-the-exercise-files?u=76281980&t=4)** There really, honestly, there's not a lot in here.
 >
-> **[0:07](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/using-the-exercise-files?u=76281980&t=7)** There's one Excel file.
+> **[0:07](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/using-the-exercise-files?u=76281980&t=7)** There's one [[Microsoft Excel|Excel]] file.
 >
 > **[0:09](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/using-the-exercise-files?u=76281980&t=9)** If you have Excel, if you can use Excel, and if you don't, then the tip that goes with that is not going to be very helpful and that's okay.
 >
@@ -137,8 +134,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Different types of brainstorming ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/different-types-of-brainstorming-ideas?u=76281980)
+#### [Different types of brainstorming ideas](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/different-types-of-brainstorming-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +226,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), product (1), application (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Analogies:** for instance (3), similar to (1)
 > **Exercise Files:** template (2)
@@ -239,8 +234,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your boards for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-your-boards-for-collaboration?u=76281980)
+#### [Setting up your boards for collaboration](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-your-boards-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +310,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-your-boards-for-collaboration?u=76281980&t=148)** So, you can also select what's called a preview area.
 >
-> **[2:32](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-your-boards-for-collaboration?u=76281980&t=152)** So if you've got a lot of things out here on the board, but you want people to focus on one area, you can select that, and it just gives you like a box and you say, oh, let's zoom in over here, and that's what people see when they first come to this board.
+> **[2:32](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-your-boards-for-collaboration?u=76281980&t=152)** So if you've got a lot of things out here on the board, but you want people to focus on one area, you can select that, and it just gives you like a box and you say, oh, let's [[Zoom]] in over here, and that's what people see when they first come to this board.
 >
 > **[2:43](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-your-boards-for-collaboration?u=76281980&t=163)** We don't need to worry about that.
 >
@@ -328,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (4)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (2)
@@ -337,8 +331,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Speakers:** - now (1)
 
-#### Getting started with typical features
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/getting-started-with-typical-features?u=76281980)
+#### [Getting started with typical features](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/getting-started-with-typical-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/getting-started-with-typical-features?u=76281980&t=154)** So that color is associated with them.
 >
-> **[2:37](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/getting-started-with-typical-features?u=76281980&t=157)** A nice easy way to make a copy of a sticky note like this is to option drag or alt drag on Windows.
+> **[2:37](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/getting-started-with-typical-features?u=76281980&t=157)** A nice easy way to make a copy of a sticky note like this is to option drag or alt drag on [[Windows]].
 >
 > **[2:42](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/getting-started-with-typical-features?u=76281980&t=162)** So you just option drag and you got yourself a sticky copy.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** click on (5), double-click (2), go to (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for instance (2), kind of like (1), it's like (1)
@@ -501,8 +494,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [brian] (1)
 
-#### Sharing with others for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980)
+#### [Sharing with others for collaboration](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=46)** That means that they need to log in and they will become part of your team eventually.
 >
-> **[0:50](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=50)** You can also come up here and invite them via email, Slack or Gmail, if you want to do that.
+> **[0:50](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=50)** You can also come up here and invite them via email, [[Slack]] or Gmail, if you want to do that.
 >
 > **[0:55](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/sharing-with-others-for-collaboration?u=76281980&t=55)** Now down here, if you want to invite a guest, you can invite just about anyone here, they don't have to sign in.
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (1), next (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **Definitions:** means that (4), is a  (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
@@ -628,8 +620,7 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborating basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980)
+#### [Collaborating basics](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +636,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=32)** When you start brainstorming, you're going to want to be able to talk to each other, 'cause otherwise, if you're looking at this board, it's going to be really tough to tell what's going on.
 >
-> **[0:40](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=40)** So you can, if you want to use Slack or if you want to use Zoom or whatever you want to use, you can use that outside of Miro as a way to communicate, okay?
+> **[0:40](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=40)** So you can, if you want to use [[Slack]] or if you want to use [[Zoom]] or whatever you want to use, you can use that outside of Miro as a way to communicate, okay?
 >
 > **[0:48](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=48)** There's a lot of ways you can do this.
 >
@@ -883,7 +874,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=378)** I turned off video.
 >
-> **[6:19](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=379)** I don't have video going because my laptop is outside of my recording booth and all you're going to do is see my messy office.
+> **[6:19](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=379)** I don't have video going because my laptop is outside of my recording booth and all you're going to do is see my messy [[Microsoft Office|office]].
 >
 > **[6:25](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/collaborating-basics?u=76281980&t=385)** So I'm not turning on video, okay?
 >
@@ -927,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[Slack]] (3), generic (1), [[Microsoft Office|Office]] (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Slack]] (3), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** click on (6), in the toolbar (1)
 > **Tools:** slack (3)
@@ -936,8 +927,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Taking it further
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980)
+#### [Taking it further](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1021,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=199)** I do this a fair amount.
 >
-> **[3:21](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=201)** I've actually switched over to Excel, and if you don't have Excel, you're not going to be able to do this, and that's okay.
+> **[3:21](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=201)** I've actually switched over to [[Microsoft Excel|Excel]], and if you don't have Excel, you're not going to be able to do this, and that's okay.
 >
 > **[3:28](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/taking-it-further?u=76281980&t=208)** Don't worry, I just wanted to show you this little tip, if you have something like Excel.
 >
@@ -1111,7 +1101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), oop (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (5), go to (1)
 > **Analogies:** for instance (4), similar to (1)
 > **Exercise Files:** template (3)
@@ -1124,8 +1114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the benefits of brainwriting
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-brainwriting?u=76281980)
+#### [Exploring the benefits of brainwriting](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-brainwriting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1284,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), game (1), product (1), teams (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for instance (3)
 > **Cross-References:** coming up (2)
@@ -1303,9 +1291,9 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### Setting up a brainwriting board
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-a-brainwriting-board?u=76281980)
+#### [Setting up a brainwriting board](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/setting-up-a-brainwriting-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1465,7 +1453,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Search]] (2), next (2), teams (1)
 > **Exercise Files:** template (7)
 > **UI Navigation:** scroll down (2), click on (2), go to (2)
 > **CLI Commands:** make (5)
@@ -1477,8 +1464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the benefits of mind mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-mind-mapping?u=76281980)
+#### [Exploring the benefits of mind mapping](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/exploring-the-benefits-of-mind-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1514,7 +1500,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -1522,8 +1507,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - another (1)
 
-#### Creating a mind-mapping board
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980)
+#### [Creating a mind-mapping board](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1615,13 +1599,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=218)** You can then also make it so it's up and down.
 >
-> **[3:41](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=221)** You can make them instead of curved, which I kind of like, you can make them more angular.
+> **[3:41](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=221)** You can make them instead of curved, which I kind of like, you can make them more [[Angular]].
 >
 > **[3:46](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=226)** So it does something like that.
 >
 > **[3:47](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=227)** So however you want this to look, you're always going back to the parent to decide that.
 >
-> **[3:52](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=232)** Now, if you're doing this in a brainstorming session, you got to be careful because people are going to be grabbing things for each other, from each other, et cetera so you may have people focus on specific subsets or things like promotions, things like goals, things like products, and start to work their way down, and then eventually start to switch and see if they can add things to it.
+> **[3:52](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=232)** Now, if you're doing this in a brainstorming session, you got to be careful because people are going to be grabbing things for each other, from each other, et cetera so you may have people focus on specific subsets or things like promotions, things like goals, things like [[Microsoft Products|products]], and start to work their way down, and then eventually start to switch and see if they can add things to it.
 >
 > **[4:10](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/creating-a-mind-mapping-board?u=76281980&t=250)** A few tips here, as you're working in this, you can if you want to, come to each one of these and change colors.
 >
@@ -1689,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), hit (1), [[Angular]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Angular]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (15)
 > **CLI Commands:** make (12)
 > **Analogies:** for instance (8), kind of like (1)
@@ -1703,8 +1687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/miro-for-ux-brainstorming-and-collaboration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1703,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), next (1)
 > **Speakers:** - so (1)
 
 

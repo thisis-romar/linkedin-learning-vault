@@ -79,14 +79,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gain insights from unstructured text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980)
+#### [Gain insights from unstructured text data](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980&t=0)** - [Instructor] It is estimated that between 80 to 90% of business data is unstructured and the organizations that can effectively glean insight from unstructured data, such as text, have a competitive advantage over those who don't.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980&t=0)** - [Instructor] It is estimated that between 80 to 90% of business data is unstructured and the organizations that can effectively glean insight from [[Unstructured Data]], such as text, have a competitive advantage over those who don't.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980&t=15)** In this course, I'll teach you how to use different natural language processing technique to analyze text data.
+> **[0:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980&t=15)** In this course, I'll teach you how to use different [[Natural Language Processing (NLP)|natural language processing]] technique to analyze text data.
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980&t=23)** My name Wuraola Oyewusi.
 >
@@ -98,27 +97,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Natural Language Processing (NLP)|Natural language processing]] (3), business (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Unstructured Data]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the best out of this course, I'm assuming that you have a fundamental understanding of Python programming, machine learning, and natural language processing.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the best out of this course, I'm assuming that you have a fundamental understanding of [[Python (Programming Language)|Python]] programming, machine learning, and [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-you-should-know?u=76281980&t=12)** Feel free to follow along, but also just to explore courses on those topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/hands-on-natural-language-processing/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-natural-language-processing/exercise-files?u=76281980&t=3)** So, it is encouraged that you walk along with the provided exercise files.
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-natural-language-processing/exercise-files?u=76281980&t=9)** We will be using Google Colab to run our code.
+> **[0:09](https://www.linkedin.com/learning/hands-on-natural-language-processing/exercise-files?u=76281980&t=9)** We will be using [[Google]] Colab to run our code.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-natural-language-processing/exercise-files?u=76281980&t=13)** Let's take a brief tour of how it works by going to the file I shared on colab.research.google.
 >
@@ -157,12 +154,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is named entity recognition (NER)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980)
+#### [What is named entity recognition (NER)?](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=0)** - Named entity recognition is a natural language processing technique that locates named entities in a structured text data and classifies entities into predefined categories.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=0)** - Named entity recognition is a [[Natural Language Processing (NLP)|natural language processing]] technique that locates named entities in a structured text data and classifies entities into predefined categories.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=13)** It is also called entity extraction, entity identification or entity chunking.
 >
@@ -172,13 +168,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=48)** In practice, the supervised machine learning is the most popular approach.
 >
-> **[0:54](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=54)** The central principle of named entity recognition is to understand what's in the text, retrieving collect important information for storage into databases.
+> **[0:54](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=54)** The central principle of named entity recognition is to understand what's in the text, retrieving collect important information for storage into [[Databases]].
 >
-> **[1:05](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=65)** Some of the most popular frameworks are spaCy, scispaCy, which is like spaCy, but it focuses on scientific and clinical documents.
+> **[1:05](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=65)** Some of the most popular frameworks are [[spaCy]], scispaCy, which is like spaCy, but it focuses on scientific and clinical documents.
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=78)** Then there is flairNLP, AllenNLP, Stanza and Stafford NER.
 >
-> **[1:25](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=85)** All those frameworks are based on Python, except for Stafford NER, which is based on Java.
+> **[1:25](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=85)** All those frameworks are based on [[Python (Programming Language)|Python]], except for Stafford NER, which is based on [[Java]].
 >
 > **[1:33](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=93)** Now, there are many practical use cases of named entity recognition.
 >
@@ -186,9 +182,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=103)** You can apply named entity recognition to review customer feedback and detect recurring problems in a certain location.
 >
-> **[1:50](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=110)** For example, you can automatically categorize customer support tickets by product name or type to route the ticket to the appropriate agent.
+> **[1:50](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=110)** For example, you can automatically categorize [[Customer Support]] tickets by product name or type to route the ticket to the appropriate agent.
 >
-> **[2:02](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=122)** Now, if you watch movies, listen to music or browse products online, named entity recognition systems are probably improving the efficiency of the recommendation.
+> **[2:02](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=122)** Now, if you watch movies, listen to music or browse [[Microsoft Products|products]] online, named entity recognition systems are probably improving the efficiency of the recommendation.
 >
 > **[2:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980&t=135)** They can also help recruiters save a lot of time when reviewing hundreds of resumes.
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[spaCy]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Code Identifiers:** spacy (2), scispacy (1), flairnlp (1)
 > **Env Vars:** ner (2)
 > **Analogies:** for example (1), such as (1)
@@ -208,14 +204,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - named (1)
 
-#### NER with spaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980)
+#### [NER with spaCy](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980&t=0)** - In this notebook we will demonstrate how to leave it Spacey a Python natural longer processing framework for name daily recognition or any harmful shot.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980&t=0)** - In this notebook we will demonstrate how to leave it Spacey a [[Python (Programming Language)|Python]] natural longer processing framework for name daily recognition or any harmful shot.
 >
-> **[0:13](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980&t=13)** The sample text we are going to use is a snippet from LinkedIn Wikipedia page.
+> **[0:13](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980&t=13)** The sample text we are going to use is a snippet from [[LinkedIn]] Wikipedia page.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-natural-language-processing/ner-with-spacy?u=76281980&t=20)** First we input Spacey for NER and Placey for visualization of the extracted entities.
 >
@@ -258,16 +253,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Data preprocessing for custom NER
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980)
+#### [Data preprocessing for custom NER](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=0)** - The general idea behind data annotation for named entity recognition is that the entities of interest get tagged with the desired labels in an appropriate format, depending on the training data.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=0)** - The general idea behind [[Data Annotation]] for named entity recognition is that the entities of interest get tagged with the desired labels in an appropriate format, depending on the training data.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=15)** In this notebook, we will learn how to notate data in a format that is compatible with Spacy a natural longer processing library that uses an open source notebook compatible library called Spacy annotator.
+> **[0:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=15)** In this notebook, we will learn how to notate data in a format that is compatible with [[spaCy]] a natural longer processing library that uses an open source notebook compatible library called Spacy annotator.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=31)** The sample text used in this video is a snippet from LinkedIn's Wikipedia page.
+> **[0:31](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=31)** The sample text used in this video is a snippet from [[LinkedIn]]'s Wikipedia page.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-custom-ner?u=76281980&t=39)** First we install the library using pip.
 >
@@ -313,19 +307,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[spaCy]] (2), [[LinkedIn]] (1), next (1), nlp (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (2), [[spaCy]] (2), [[LinkedIn]] (1)
 > **Env Vars:** nlp (1), csv (1)
 > **CLI Commands:** pip (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - the (1)
 
-#### Custom model training with spaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980)
+#### [Custom model training with spaCy](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=0)** - [Instructor] Now, let's learn how to train a custom Named Entity Recognition model, NER, with spaCy.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=0)** - [Instructor] Now, let's learn how to train a custom Named Entity Recognition model, NER, with [[spaCy]].
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=7)** To successfully walk along, some configuration files are provided in the exercise folder.
 >
@@ -333,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=21)** First, we install the spaCy library using pip.
 >
-> **[0:26](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=26)** Then we go ahead to input the necessary modules like spaCy, and pandas.
+> **[0:26](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=26)** Then we go ahead to input the necessary modules like spaCy, and [[Pandas (Software)|pandas]].
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=31)** And we verify the version of spaCy is 3.2.3.
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=186)** We then test that train.NER model on test data, and visualize with displacy.
 >
-> **[3:13](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=193)** Our custom NER model correctly predicted September, 2022 as a date, Lagos as a place, LinkedIn as a company.
+> **[3:13](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=193)** Our custom NER model correctly predicted September, 2022 as a date, Lagos as a place, [[LinkedIn]] as a company.
 >
 > **[3:25](https://www.linkedin.com/learning/hands-on-natural-language-processing/custom-model-training-with-spacy?u=76281980&t=205)** Due to the limitation in the training data, it's predicted Nigeria which fits as a place, as a company.
 >
@@ -393,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[spaCy]] (13), [[Pandas (Software)|Pandas]] (1), nlp (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (13), [[Pandas (Software)|Pandas]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** spacy (13), literal_eval (1), train_data (1), test_data (1), test_nlp (1)
 > **Env Vars:** ner (4)
 > **CLI Commands:** pip (1)
@@ -407,8 +400,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to topic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980)
+#### [Introduction to topic modeling](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,21 +418,21 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=52)** The assumption of topic modeling is that every document comprises a statistical distribution of topics that can be obtained by combining all the distributions for all the topics covered.
 >
-> **[1:05](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=65)** In other words, the algorithms try to figure out which topics are present in the data set and how strong that presence is.
+> **[1:05](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=65)** In other words, the [[Algorithms]] try to figure out which topics are present in the data set and how strong that presence is.
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=75)** In this course, we are going to focus on two main topic modeling algorithms: LSA for latent semantic analysis and LDA for latent dirichlet allocation.
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=88)** LSA is one of the foundational techniques used for component analysis applied to text data.
 >
-> **[1:34](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=94)** It is a well-known linear algebra method called singular value decomposition, or SVD.
+> **[1:34](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=94)** It is a well-known [[Linear Algebra]] method called singular value decomposition, or SVD.
 >
 > **[1:42](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=102)** On the other hand, LDA uses a probabilistic method using dirichlet powers, making it less prone to over-fitting.
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=112)** In general, the best practice is to try several different algorithms and see which one works best with your data set.
 >
-> **[2:01](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=121)** Topic modeling is used in several application, such as gathering insights to improve your product from customer reviews and customer support emails, who cluster millions and millions of news articles and published papers to find common patterns.
+> **[2:01](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=121)** Topic modeling is used in several application, such as gathering insights to improve your product from customer reviews and [[Customer Support]] emails, who cluster millions and millions of news articles and published papers to find common patterns.
 >
-> **[2:19](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=139)** Topic modeling is used in recommendation engine or information retriever systems to find similar products, topics, or articles related to what you're looking for, making for a better user experience.
+> **[2:19](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=139)** Topic modeling is used in recommendation engine or information retriever systems to find similar [[Microsoft Products|products]], topics, or articles related to what you're looking for, making for a better [[User Experience (UX)|user experience]].
 >
 > **[2:35](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980&t=155)** Another application of topic modeling is for text annotation.
 >
@@ -450,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), application (2), [[Linear Algebra]] (1), product (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Linear Algebra]] (1), [[Customer Support]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** lsa (2), lda (2), svd (1)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
 > **CLI Commands:** find (2)
@@ -458,8 +450,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - topic (1)
 
-#### Data preprocessing for topic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980)
+#### [Data preprocessing for topic modeling](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,9 +460,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=14)** And to get a clean version of this data, we are going to use Psyche plan to input.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=20)** As you can see here in the first cell we start by importing the required Python libraries escalan dot data sets, pay, print, and pandas.
+> **[0:20](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=20)** As you can see here in the first cell we start by importing the required [[Python (Programming Language)|Python]] libraries escalan dot data sets, pay, print, and [[Pandas (Software)|pandas]].
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=33)** We then save the data from Fetch 20 news group into a variable called "Data Sets" on the function call.
+> **[0:33](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=33)** We then save the data from [[Fetch]] 20 news group into a variable called "Data Sets" on the function call.
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=42)** We specified that the subset of the data retrieved should be whole.
 >
@@ -521,7 +512,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=268)** We then vectorized the data sets dictionary using the bag-of-words or ductible method.
 >
-> **[4:37](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=277)** Remember: the topic modeling algorithms accept vector representation, not text!
+> **[4:37](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=277)** Remember: the topic modeling [[Algorithms]] accept vector representation, not text!
 >
 > **[4:44](https://www.linkedin.com/learning/hands-on-natural-language-processing/data-preprocessing-for-topic-modeling?u=76281980&t=284)** We check the results using the length method and print the results to see an instance of the vectorized text.
 >
@@ -539,25 +530,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Fetch]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Fetch]] (1), [[Algorithms]] (1)
 > **Env Vars:** idf (4), uci (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - now (1)
 
-#### Topic modeling with Gensim
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980)
+#### [Topic modeling with Gensim](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=0)** - [Instructor] Now, let's see how to apply topic modeling algorithms to a pre-processed data set.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=0)** - [Instructor] Now, let's see how to apply topic modeling [[Algorithms]] to a pre-processed data set.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=6)** We'll apply the Latent Dirichlet Allocation, LDA, and the Latent Semantic Analysis, LSA, algorithms from the Gensim Python library to the train and use script data set that has been pre-processed, using two methods of vectorization.
+> **[0:06](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=6)** We'll apply the Latent Dirichlet Allocation, LDA, and the Latent Semantic Analysis, LSA, algorithms from the Gensim [[Python (Programming Language)|Python]] library to the train and use script data set that has been pre-processed, using two methods of vectorization.
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=25)** To start, we import the LDA model from the gensim models module, and then create the variable called "LDA bow" to hold the LDA model (indistinct) with hyper-parameters.
 >
-> **[0:41](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=41)** For the bag of words corpus, the number of topic and identity to word mapping and the random states of zero to ensure consistency.
+> **[0:41](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=41)** For the bag of words corpus, the number of topic and identity to [[Microsoft Word|word]] mapping and the random states of zero to ensure consistency.
 >
 > **[0:53](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-with-gensim?u=76281980&t=53)** Now, we'll print the possible topic classes that were inferred by the Lda algorithm.
 >
@@ -601,20 +591,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Algorithms]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), application (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** lda (4), lsa (1), nasa (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
-#### Topic modeling visualization with pyLDAvis
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980)
+#### [Topic modeling visualization with pyLDAvis](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=0)** - Visualization is an important tool that enables you to gain insight from your data.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=6)** For topic modeling, the AVI Python library enables us to do that easily.
+> **[0:06](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=6)** For topic modeling, the AVI [[Python (Programming Language)|Python]] library enables us to do that easily.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=12)** We did.
 >
@@ -628,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=45)** We also have to enable the notebook, in order for the visualization to show within a code notebook.
 >
-> **[0:53](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=53)** Okay, now let's create the variable called "vis_bov", that contains the LDA model, the dataset coppers, and the dictionary that has been preprocessed using the bag-of-word vectorization on the 20 new script dataset.
+> **[0:53](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=53)** Okay, now let's create the variable called "vis_bov", that contains the LDA model, the dataset coppers, and the dictionary that has been preprocessed using the bag-of-[[Microsoft Word|word]] vectorization on the 20 new script dataset.
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/topic-modeling-visualization-with-pyldavis?u=76281980&t=75)** Now, when we run the visible variable, we can see an interactive visualization within our code notebook.
 >
@@ -660,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2), prompt (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** lda (3), avi (1), pip (1), idf (1), tfidf (1)
 > **Code Identifiers:** pyldavis (3), vis_bov (1), vistfidf (1)
 > **CLI Commands:** python (2), make (1), pip (1)
@@ -669,8 +658,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Versions:** 0.6 (1)
 
-#### Model evaluation for topic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/model-evaluation-for-topic-modeling?u=76281980)
+#### [Model evaluation for topic modeling](https://www.linkedin.com/learning/hands-on-natural-language-processing/model-evaluation-for-topic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +674,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-natural-language-processing/model-evaluation-for-topic-modeling?u=76281980&t=30)** To start, we import the Coherence model from gensin.models.
 >
-> **[0:35](https://www.linkedin.com/learning/hands-on-natural-language-processing/model-evaluation-for-topic-modeling?u=76281980&t=35)** Then we run the Coherence and see the human Coherence score using the Latent Dirichlet model on the bag of word vectors of the 20 used data sets.
+> **[0:35](https://www.linkedin.com/learning/hands-on-natural-language-processing/model-evaluation-for-topic-modeling?u=76281980&t=35)** Then we run the Coherence and see the human Coherence score using the Latent Dirichlet model on the bag of [[Microsoft Word|word]] vectors of the 20 used data sets.
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-natural-language-processing/model-evaluation-for-topic-modeling?u=76281980&t=48)** The output is -2.61.
 >
@@ -704,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (3), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** lda (2), lsi (1), idf (1)
 > **Versions:** 2.61 (1), 4.87 (1), 0.50 (1), 0.45 (1)
 > **Code Identifiers:** u_mass (2)
@@ -715,8 +703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is text summarization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980)
+#### [What is text summarization?](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +733,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980&t=94)** Some of the most important libraries and frameworks for summarization are pysummarization, sumy, Pyteaser, Gensim TextRank.
 >
-> **[1:47](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980&t=107)** All these frameworks are based on Python.
+> **[1:47](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980&t=107)** All these frameworks are based on [[Python (Programming Language)|Python]].
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980&t=110)** Now there are many practical uses of summarization and many more are emerging every day.
 >
@@ -758,24 +745,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rouge (1)
 > **Speakers:** - [narrator] (1)
 
-#### Text extraction for summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980)
+#### [Text extraction for summarization](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=0)** - [Instructor] Let's demonstrate how the extractive text summarization method works, using the Python library Sumy.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=0)** - [Instructor] Let's demonstrate how the extractive text summarization method works, using the [[Python (Programming Language)|Python]] library Sumy.
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=9)** We'll be using a snippet of the blog article by LinkedIn Learning as our data set.
+> **[0:09](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=9)** We'll be using a snippet of the blog article by [[LinkedIn]] Learning as our data set.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=15)** First, we install Sumy using pip.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=20)** Then we input all the necessary modules including LexRank summarizer and LSA summarizer, which provide us with the paths in summarization algorithms.
+> **[0:20](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=20)** Then we input all the necessary modules including LexRank summarizer and LSA summarizer, which provide us with the paths in summarization [[Algorithms]].
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-extraction-for-summarization?u=76281980&t=35)** We then create a variable called sample_text to save the text.
 >
@@ -823,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), [[Algorithms]] (1)
 > **Env Vars:** lsa (3), url (2)
 > **Code Identifiers:** sample_text (2), html_parser (1)
 > **CLI Commands:** python (1), pip (1)
@@ -831,16 +817,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text summarization with sumy
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980)
+#### [Text summarization with sumy](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=0)** - Now let's demonstrate the abstractive text summarization method, using pre-trained transformers from Huggingface.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=0)** - Now let's demonstrate the abstractive text summarization method, using pre-trained transformers from [[Hugging Face|Huggingface]].
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=8)** Transformers are a type of deep planning models that leverages attention mechanism when learning sequences like text.
 >
-> **[0:16](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=16)** Will be using the same data set from the previous video, the snippet from the blog article by LinkedIn learning.
+> **[0:16](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=16)** Will be using the same data set from the previous video, the snippet from the blog article by [[LinkedIn]] learning.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=24)** First, we install transformers using PIP and we input pipeline from transformers that's what we will actually use as a pipeline for all that we want to do.
 >
@@ -860,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=107)** Great. So now let's repeat the above steps four bats transformer, but this time using the tense of flu framework, printed the output the bat model summarized the sample text into about four lines.
 >
-> **[2:03](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=123)** In this video, we explored using transformers for abstractive text summarization and we saw that out of the three transformer models used for login phase. Pegasus seemed to be the most promising.
+> **[2:03](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=123)** In this video, we explored using transformers for abstractive text summarization and we saw that out of the three [[Transformer Models]] used for login phase. Pegasus seemed to be the most promising.
 >
 > **[2:18](https://www.linkedin.com/learning/hands-on-natural-language-processing/text-summarization-with-sumy?u=76281980&t=138)** Notes that we used to pre-train models to optimize their performances.
 >
@@ -868,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Hugging Face|Huggingface]] (1), [[LinkedIn]] (1), [[Transformer Models]] (1)
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (1), [[LinkedIn]] (1), [[Transformer Models]] (1)
 > **CLI Commands:** pip (1)
 > **Env Vars:** pip (1)
 > **Cross-References:** previous video (1)
@@ -881,12 +866,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is sentiment analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980)
+#### [What is sentiment analysis?](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=0)** - [Narrator] Sentiment analysis is a text analysis technique that infers opinions, sentiments, emotions, and attitude from entities, such as products, services, organization and event from data and classifies them according to polarity, which I'll talk about shortly.
+> **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=0)** - [Narrator] Sentiment analysis is a text analysis technique that infers opinions, sentiments, emotions, and attitude from entities, such as [[Microsoft Products|products]], services, organization and event from data and classifies them according to polarity, which I'll talk about shortly.
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=23)** Now, the sentiment can be explicit where the text directly expresses an opinion.
 >
@@ -908,13 +892,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=99)** The central principles of sentiment analysis is that opinions are essential to most human activities and shape and they shape action.
 >
-> **[1:49](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=109)** The sentiment can be at the word, sentence, or document level.
+> **[1:49](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=109)** The sentiment can be at the [[Microsoft Word|word]], sentence, or document level.
 >
 > **[1:54](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=114)** Typically, you first run the sentiment detection and then you run polarity classification to identify patterns and make data-driven decisions.
 >
-> **[2:05](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=125)** Some of the most popular libraries and framework for sentiment analysis are N L T K Natural Language Toolkit Vader, Valence Aware Dictionary for Sentiment Reasoning, TextBlob, Hugging Face, spaCy.
+> **[2:05](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=125)** Some of the most popular libraries and framework for sentiment analysis are N L T K Natural Language Toolkit Vader, Valence Aware Dictionary for Sentiment Reasoning, TextBlob, [[Hugging Face]], [[spaCy]].
 >
-> **[2:24](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=144)** All those frameworks are based on Python except for Stanford CoreNLP, which is based on Java.
+> **[2:24](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=144)** All those frameworks are based on [[Python (Programming Language)|Python]] except for Stanford CoreNLP, which is based on [[Java]].
 >
 > **[2:32](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=152)** Now, there are many practical uses of sentiment analysis and more uses are emerging everyday.
 >
@@ -922,7 +906,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=163)** So you can apply sentiment analysis to review how customers feel about a product.
 >
-> **[2:48](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=168)** For example, you can try to predict how the stock and commodities markets will trend by measuring sentiment of news articles in market research.
+> **[2:48](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=168)** For example, you can try to predict how the stock and commodities markets will trend by measuring sentiment of news articles in [[Market Research]].
 >
 > **[2:59](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980&t=179)** You can also use it to forecast the outcome of elections.
 >
@@ -936,15 +920,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Hugging Face]] (1), [[spaCy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Hugging Face]] (1), [[spaCy]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** spacy (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sentiment analysis with VADER
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980)
+#### [Sentiment analysis with VADER](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,11 +935,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=8)** At the end of the exercise, you will be able to calculate your own sentiment score and label them according to polarity.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=17)** We'll be using the sentiment labeled sentences dataset from the open source UCI Machine Learning Repository and the Python library, VADER.
+> **[0:17](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=17)** We'll be using the sentiment labeled sentences dataset from the open source UCI Machine Learning Repository and the [[Python (Programming Language)|Python]] library, VADER.
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=28)** First, download and unzip the dataset using the wget and unzip commands.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=37)** Then combine the subsets of the dataset into a single data frame called df using pandas.
+> **[0:37](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=37)** Then combine the subsets of the dataset into a single data frame called df using [[Pandas (Software)|pandas]].
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-vader?u=76281980&t=45)** Now, let's view information about the combined data frame using df.info and df itself.
 >
@@ -978,15 +961,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** vader (6), uci (1)
 > **CLI Commands:** unzip (2), python (1), wget (1)
 > **Versions:** 0.05 (4)
 > **Code Identifiers:** sentiment (1), vader_sentiment_score (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sentiment analysis with transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980)
+#### [Sentiment analysis with transformers](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=25)** You can find how to download and pre-process the data here.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=31)** First, we install transformers from the organ first Python library using PP-install.
+> **[0:31](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=31)** First, we install transformers from the organ first [[Python (Programming Language)|Python]] library using PP-install.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=39)** Then, then we import pipeline from transformers.
 >
@@ -1022,7 +1004,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=112)** So now, you can see the data frame has a new column called "distill bed sentiment".
 >
-> **[2:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=120)** To compare performance, we repeat the above for Roberta and Beth transformer models.
+> **[2:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=120)** To compare performance, we repeat the above for Roberta and Beth [[Transformer Models]].
 >
 > **[2:08](https://www.linkedin.com/learning/hands-on-natural-language-processing/sentiment-analysis-with-transformers?u=76281980&t=128)** Just looking over the data, we see that both the distill Beth and the Roberta results were efficient as they aligned with the original sentiment label.
 >
@@ -1034,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (1), [[Transformer Models]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Transformer Models]] (1)
 > **CLI Commands:** find (1), python (1), make (1)
 > **Prerequisites:** install (2)
 > **Versions:** 0.99 (1)
@@ -1047,24 +1029,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=0)** - [Instructor] We've been on the learning journey.
 >
-> **[0:02](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=2)** We've explored natural language processing tasks such as sentiment analysis, named entity recognition, topic modeling and summarization together.
+> **[0:02](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=2)** We've explored [[Natural Language Processing (NLP)|natural language processing]] tasks such as sentiment analysis, named entity recognition, topic modeling and summarization together.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=15)** Now, I will encourage you to study the principles and frameworks further, attempt to replicate what you've learned, and apply to your own data, and practice until you've achieved mastery.
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=29)** I hope this learning experience has been interesting.
 >
-> **[0:32](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=32)** Feel free to connect with me via LinkedIn or ask you questions about the course below in the Q and A section.
+> **[0:32](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980&t=32)** Feel free to connect with me via [[LinkedIn]] or ask you questions about the course below in the Q and A section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 

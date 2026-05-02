@@ -80,16 +80,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tips and tricks in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980)
+#### [Tips and tricks in Python](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=0)** - [Narrator] Over the past two decades, Python has emerged as an indispensable tool for scientific computing tasks.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=0)** - [Narrator] Over the past two decades, [[Python (Programming Language)|Python]] has emerged as an indispensable tool for scientific computing tasks.
 >
 > **[0:06](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=6)** It is one of the easiest and most versatile programming languages in use today.
 >
-> **[0:10](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=10)** The usefulness and credibility of Python for data science, stems primarily from the large inactive ecosystem of third party packages.
+> **[0:10](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=10)** The usefulness and credibility of Python for [[Data Science]], stems primarily from the large inactive ecosystem of third party packages.
 >
 > **[0:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=19)** Hi, I'm Harshit Tyagi, and in this course, we are going to learn tips and techniques for using Python in our Data Science workflow.
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=36)** Then we'll learn to use scientific computing package, NumPy, to create and manipulate arrays.
 >
-> **[0:41](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=41)** Then we'll dig into working with the data using the data manipulation package, Pandas.
+> **[0:41](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=41)** Then we'll dig into working with the data using the [[Data Manipulation]] package, [[Pandas (Software)|Pandas]].
 >
 > **[0:47](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980&t=47)** Will subsequently look at how to make insightful data visualizations using Matplotlib.
 >
@@ -111,14 +110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Programming]] (1), [[Debugging]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (2), [[Data Manipulation]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Code Identifiers:** ipads (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to use the CoderPad environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/how-to-use-the-coderpad-environment?u=76281980)
+#### [How to use the CoderPad environment](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/how-to-use-the-coderpad-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/how-to-use-the-coderpad-environment?u=76281980&t=18)** These challenges are hosted by Codeapart and they appear in the same area of the course page where you've watched the course's videos.
 >
-> **[0:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/how-to-use-the-coderpad-environment?u=76281980&t=28)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/how-to-use-the-coderpad-environment?u=76281980&t=28)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:38](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/how-to-use-the-coderpad-environment?u=76281980&t=38)** The code challenge has four areas, instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **UI Navigation:** click on (1), toggle (1)
 > **Analogies:** for example (1)
@@ -175,8 +173,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessing methods and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980)
+#### [Accessing methods and documentation](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=18)** So first off, we have the Help Function.
 >
-> **[0:21](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=21)** Now, Python has this built in function that can access the doc strings of the functions and objects defined in Python or any of the imported packages.
+> **[0:21](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=21)** Now, [[Python (Programming Language)|Python]] has this built in function that can access the doc strings of the functions and objects defined in Python or any of the imported packages.
 >
 > **[0:32](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=32)** So for example, let's say, I want to learn about the sum function in Python.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=45)** And it will display the doc string, the documentation that is defined in the SAM function in Python.
 >
-> **[0:52](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=52)** Now, similarly, if I want to learn about the read CSV function from the pandas package, so all I need to do is first of all, import the read CSV function.
+> **[0:52](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=52)** Now, similarly, if I want to learn about the read CSV function from the [[Pandas (Software)|pandas]] package, so all I need to do is first of all, import the read CSV function.
 >
 > **[1:03](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980&t=63)** So let's say I import from pandas, import read underscore CSV, and then I can pass on this function, read underscore CSV, to my Help function, run the cell, and it will display the doc strings that are defined inside the read CSV function in pandas package.
 >
@@ -306,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (5), hit (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (5)
 > **Env Vars:** tab (7), csv (5), sam (3)
 > **CLI Commands:** python (8), make (1)
 > **Exercise Files:** source code (6)
@@ -315,12 +312,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Errors and debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/errors-and-debugging?u=76281980)
+#### [Errors and debugging](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/errors-and-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/errors-and-debugging?u=76281980&t=0)** - [Instructor] In this video, we'll begin discussing some of the enhancements that IPython adds on top of the normal Python syntax.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/errors-and-debugging?u=76281980&t=0)** - [Instructor] In this video, we'll begin discussing some of the enhancements that IPython adds on top of the normal [[Python (Programming Language)|Python]] syntax.
 >
 > **[0:07](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/errors-and-debugging?u=76281980&t=7)** These are known as magic commands, and these are prefixed with the % character.
 >
@@ -444,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), hit (2), data (1), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6)
 > **Tools:** jupyter (3)
 > **File Paths:** example.py (2)
@@ -452,8 +448,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code profiling and timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/code-profiling-and-timing?u=76281980)
+#### [Code profiling and timing](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/code-profiling-and-timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/code-profiling-and-timing?u=76281980&t=29)** So first off we have the percentage time magic command which is used to time the execution of single statement of code.
 >
-> **[0:37](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/code-profiling-and-timing?u=76281980&t=37)** So, let's say I want to time the file reading operation by pandas, all I need to do is first import pandas as PD.
+> **[0:37](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/code-profiling-and-timing?u=76281980&t=37)** So, let's say I want to time the file reading operation by [[Pandas (Software)|pandas]], all I need to do is first import pandas as PD.
 >
 > **[0:46](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/code-profiling-and-timing?u=76281980&t=46)** And then I want to time the reading operation.
 >
@@ -543,7 +538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Pandas (Software)|Pandas]] (2), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** a_list (3), read_csv (1), create_sq_matrices (1)
 > **Versions:** 1.96 (2), 3.89 (1), 65.8 (1), 4.82 (1)
 > **Env Vars:** cpu (2)
@@ -556,14 +551,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Essentials of NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980)
+#### [Essentials of NumPy arrays](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about some very important and basic operations of NumPy.
 >
-> **[0:05](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980&t=5)** Now, NumPy is short for Numerical Python, which provides an efficient interface to store and operate on dense data buffers.
+> **[0:05](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980&t=5)** Now, NumPy is short for Numerical [[Python (Programming Language)|Python]], which provides an efficient interface to store and operate on dense data buffers.
 >
 > **[0:13](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980&t=13)** Now, starting from the basics, we'll see how to create NumPy arrays, use their attributes to learn about ndarray object, then we'll look at indexing and slicing to access sub-arrays.
 >
@@ -705,15 +699,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1)
 > **Versions:** 2.5 (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Broadcasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/broadcasting?u=76281980)
+#### [Broadcasting](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/broadcasting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,17 +820,16 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/broadcasting?u=76281980&t=405)** If you get more hands on practice.
 >
-> **[6:48](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/broadcasting?u=76281980&t=408)** Again, a very important topic for machine learning and data science.
+> **[6:48](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/broadcasting?u=76281980&t=408)** Again, a very important topic for machine learning and [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), data (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Definitions:** is a  (6)
 > **Code Identifiers:** numpy (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison, masks, and Boolean logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/comparison-masks-and-boolean-logic?u=76281980)
+#### [Comparison, masks, and Boolean logic](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/comparison-masks-and-boolean-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,27 +911,26 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/comparison-masks-and-boolean-logic?u=76281980&t=379)** That was all about Boolean operations using composite conditions and numPy arrays, and then masking.
 >
-> **[6:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/comparison-masks-and-boolean-logic?u=76281980&t=388)** There's a lot to it, you should definitely practice it out because you'd be using a lot well manipulating and cleansing your dataset in your data science predict.
+> **[6:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/comparison-masks-and-boolean-logic?u=76281980&t=388)** There's a lot to it, you should definitely practice it out because you'd be using a lot well manipulating and cleansing your dataset in your [[Data Science]] predict.
 >
 > **[6:38](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/comparison-masks-and-boolean-logic?u=76281980&t=398)** Go on and get some hands on practice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Code Identifiers:** test_scores (1), numpy (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pandas indexing and subsetting
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980)
+#### [Pandas indexing and subsetting](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980&t=0)** - Now that we have covered NumPy, we should talk about the next very important package and batons data science stack that is pandas.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980&t=0)** - Now that we have covered NumPy, we should talk about the next very important package and batons [[Data Science]] stack that is [[Pandas (Software)|pandas]].
 >
 > **[0:09](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980&t=9)** In this video will focus on indexing and subsetting in a pandas data frame.
 >
-> **[0:13](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980&t=13)** Pandas is the most widely used data manipulation Python package that is built on top of NumPy, and it provides an efficient implementation of a special data structure called data frame.
+> **[0:13](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980&t=13)** Pandas is the most widely used [[Data Manipulation]] [[Python (Programming Language)|Python]] package that is built on top of NumPy, and it provides an efficient implementation of a special data structure called data frame.
 >
 > **[0:25](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/pandas-indexing-and-subsetting?u=76281980&t=25)** Now here, I've imported a few libraries that will lead.
 >
@@ -1027,13 +1018,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (2), next (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** vmz (3)
 > **CLI Commands:** python (2)
 > **Speakers:** - now (1)
 
-#### Handling missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980)
+#### [Handling missing data](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1059,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=107)** Now, if I try to perform any operation with NAN, if we try to add something to NAN or if you multiply zero with NAN the value still remains the same, we get NAN.
 >
-> **[2:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=120)** Now, if we talk about missing data in pandas, so let's say I have created a sample dictionary over here, which is containing one key, which is called scores, and, I have an eddy overhere, which is containing all the integers and it contains one non-value and one NP dot NAN.
+> **[2:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=120)** Now, if we talk about missing data in [[Pandas (Software)|pandas]], so let's say I have created a sample dictionary over here, which is containing one key, which is called scores, and, I have an eddy overhere, which is containing all the integers and it contains one non-value and one NP dot NAN.
 >
 > **[2:21](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=141)** Now, if I create a data frame of this deck, so let's say we call the data frame method and boss the deck.
 >
@@ -1139,7 +1129,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=409)** As you can see in the third row as well, 41.3 is propagated forward to the fourth index row, which contains a null value.
 >
-> **[6:59](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=419)** Similarly, we have different strategies to fail or impute the missing values with mean or any other statistics that you want to fill it up with.
+> **[6:59](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=419)** Similarly, we have different strategies to fail or impute the missing values with mean or any other [[Statistics]] that you want to fill it up with.
 >
 > **[7:07](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/handling-missing-data?u=76281980&t=427)** So let's say if I want to impute my null values with the mean of the column, so I can simply do DF dot mean, and this will fill up all my values with the mean of that particular column.
 >
@@ -1153,15 +1143,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
 > **Env Vars:** nan (13), csv (2)
 > **Definitions:** stands for (2), is called (1), is a  (1)
 > **Versions:** 37.8 (1), 41.3 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregation and grouping
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980)
+#### [Aggregation and grouping](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=7)** So concepts like computing aggregations using sum, mean, median, minimum, maximum, in which a single number gives insight into the nature of a potentially large dataset.
 >
-> **[0:21](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=21)** So in this video, we'll explore aggregations in pandas from simple operations, to more sophisticated operations based on the concept of a GroupBy.
+> **[0:21](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=21)** So in this video, we'll explore aggregations in [[Pandas (Software)|pandas]] from simple operations, to more sophisticated operations based on the concept of a GroupBy.
 >
 > **[0:33](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=33)** So here, we are going to use Seaborn Library.
 >
@@ -1201,7 +1190,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=108)** Now one of the most convenient method to compute common aggregates is the describe method, very important.
 >
-> **[1:56](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=116)** So what you need to do is simply all the dataframe and then invoke the method, describe over it, run it, and it gives you the summary statistics for all the numerical variables.
+> **[1:56](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=116)** So what you need to do is simply all the dataframe and then invoke the method, describe over it, run it, and it gives you the summary [[Statistics]] for all the numerical variables.
 >
 > **[2:11](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/aggregation-and-grouping?u=76281980&t=131)** And of course, you can use it for categorical variables as well.
 >
@@ -1295,17 +1284,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), data (3), [[Pandas (Software)|Pandas]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** body_mass (9), body_mass_g (1), flipper_length_millimeter (1), flipper_length (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [tutor] (1)
 
-#### Querying and filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/querying-and-filtering-data?u=76281980)
+#### [Querying and filtering data](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/querying-and-filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/querying-and-filtering-data?u=76281980&t=0)** - [Instructor] The power of Python data science tech is built upon the ability of NumPy and pandas to push basic operations into C via an intuitive syntax.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/querying-and-filtering-data?u=76281980&t=0)** - [Instructor] The power of [[Python (Programming Language)|Python]] [[Data Science]] tech is built upon the ability of NumPy and [[Pandas (Software)|pandas]] to push basic operations into C via an intuitive syntax.
 >
 > **[0:10](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/querying-and-filtering-data?u=76281980&t=10)** Now, pandas include tools that allow you to directly access C speed operations without costly allocation of intermediate arrays.
 >
@@ -1453,7 +1441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (4), power (1), [[Python (Programming Language)|Python]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Data Science]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** avg_tv_rev (2), equal_nan (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **File Paths:** advertising.csv (1)
@@ -1465,12 +1453,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General plotting tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980)
+#### [General plotting tips](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=0)** - [Instructor] A crucial part of data science is data visualization, which makes it all worthwhile by plotting useful insights on different charts and in different formats.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=0)** - [Instructor] A crucial part of [[Data Science]] is data visualization, which makes it all worthwhile by plotting useful insights on different charts and in different formats.
 >
 > **[0:09](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=9)** We're going to look at the Matplotlib library, which is a multi-platform data visualization tool built on NumPy.
 >
@@ -1560,7 +1547,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=259)** As I move my cursor along the chart, you see the X and Y values changing, and then I have different methods.
 >
-> **[4:25](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=265)** So this is for downloading the figure, this is for zooming, this is for panning axes on left mouse, even on zoom with right.
+> **[4:25](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=265)** So this is for downloading the figure, this is for zooming, this is for panning axes on left mouse, even on [[Zoom]] with right.
 >
 > **[4:33](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980&t=273)** So all of those things are available for us.
 >
@@ -1604,14 +1591,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), cross-platform (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Zoom]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** mpl (1), png (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding text and annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/adding-text-and-annotations?u=76281980)
+#### [Adding text and annotations](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/adding-text-and-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/adding-text-and-annotations?u=76281980&t=19)** So in this video, I'll walk you through methods of adding text highlights, annotating plots, and adding arrows to point to a specific location in a plot.
 >
-> **[0:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/adding-text-and-annotations?u=76281980&t=28)** So, first off we are importing the required libraries matplotlib, pandas, NumPy.
+> **[0:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/adding-text-and-annotations?u=76281980&t=28)** So, first off we are importing the required libraries matplotlib, [[Pandas (Software)|pandas]], NumPy.
 >
 > **[0:34](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/adding-text-and-annotations?u=76281980&t=34)** And for this video, we are going to be using the advertising.csv file that we have, which contains the revenue for all the media sources, TV, radio, newspaper.
 >
@@ -1781,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 0.05 (2), 49.79 (1), 23.09 (1), 29.64 (1), 1.71 (1)
 > **CLI Commands:** make (2)
 > **File Paths:** advertising.csv (1)
@@ -1789,8 +1775,7 @@ created: 2026-05-02
 > **Env Vars:** svg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple subplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/multiple-subplots?u=76281980)
+#### [Multiple subplots](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/multiple-subplots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1958,7 +1943,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 0.65 (3), 0.2 (3), 0.1 (2), 0.5 (1), 0.8 (1)
 > **Code Identifiers:** add_axes (3), subplot_kw (1)
 > **CLI Commands:** make (1)
@@ -1970,12 +1954,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### sklearn Estimator API
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980)
+#### [sklearn Estimator API](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=0)** - The primary means for the manifestation of data science is machine learning.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=0)** - The primary means for the manifestation of [[Data Science]] is machine learning.
 >
 > **[0:05](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=5)** In this video, I'll give you a brief refresher on machine learning vocabulary, what are the basic steps to solve a particular machine learning problem, and how we can use the scikit learn estimator API to perform all those tasks.
 >
@@ -1987,7 +1970,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=37)** Whereas the second type is unsupervised, where we develop models that identify the structure in unlabeled data set.
 >
-> **[0:46](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=46)** So we have two types of supervised learning problems.
+> **[0:46](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=46)** So we have two types of [[Supervised Learning]] problems.
 >
 > **[0:49](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=49)** First one is classification where we are solving problems that require predicting labels as two or more discrete categories.
 >
@@ -1999,7 +1982,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=90)** So the scikit-learn library is basically developed on certain design principles and these include consistency inspection nonproliferation of classes, composition and sensible defaults for each of the estimator API and methods.
 >
-> **[1:49](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=109)** Now the general flow for solving a typical machine learning problem is basically you have to first collect data for data collection.
+> **[1:49](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=109)** Now the general flow for solving a typical machine learning problem is basically you have to first collect data for [[Data Collection]].
 >
 > **[1:58](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=118)** Then you have to prepare that data for model training.
 >
@@ -2033,7 +2016,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=216)** So as we can see, we have flipper length, culmen length, culmen depth, body mass, and accordingly we can see that the body mass and flipper length have a positive correlation, or we can see that the culmen length and flipper length also have kind of a positive relationship, positive correlation, great.
 >
-> **[3:58](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=238)** Now next step is basically data preparation, where we try to segregate features and target variables from the data set.
+> **[3:58](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=238)** Now next step is basically [[Data Preparation]], where we try to segregate features and target variables from the data set.
 >
 > **[4:05](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980&t=245)** So what we are doing is we are simply dropping all the categorical variables, which is sex and Island and species is our target variable.
 >
@@ -2107,15 +2090,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), feature (4), next (4), api (2), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Data Science]] (1), [[Supervised Learning]] (1), [[Data Collection]] (1)
 > **Code Identifiers:** y_peng (3), train_test_split (3), x_train (3), x_test (3), x_peng (2)
 > **Versions:** 2.5 (1), 0.2 (1), 95.52 (1)
 > **Env Vars:** api (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
 
-#### Model validation and hyperparameter tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/model-validation-and-hyperparameter-tuning?u=76281980)
+#### [Model validation and hyperparameter tuning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/model-validation-and-hyperparameter-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2277,7 +2259,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), feature (1), next (1), [[Search]] (1)
 > **Versions:** 1.0 (1), 19.66 (1), 0.96 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2285,8 +2266,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980)
+#### [Feature engineering](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2294,7 +2274,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=4)** But in the real world, data is rarely clean and correctly formatted.
 >
-> **[0:08](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=8)** So with this in mind, one of the more important steps in practicing machine learning is feature engineering, and here in this video we'll cover a few commonly occurring data types, and we'll talk about what are the methods to transform each of those types.
+> **[0:08](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=8)** So with this in mind, one of the more important steps in practicing machine learning is [[Feature Engineering]], and here in this video we'll cover a few commonly occurring data types, and we'll talk about what are the methods to transform each of those types.
 >
 > **[0:24](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=24)** So first of all, we have numerical features.
 >
@@ -2318,11 +2298,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=68)** Our next step, we have textual data, so, one of the common requirements of feature engineering here, is to convert text to a set of representative values, which further relies on some form of encoding the text to numbers.
 >
-> **[1:23](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=83)** Now, one of the simplest methods of encoding is word count.
+> **[1:23](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=83)** Now, one of the simplest methods of encoding is [[Microsoft Word|word]] count.
 >
 > **[1:28](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=88)** We take a snippet of text and we count the occurrences of each word within it and we record it in a table, and we're going to use the CountVectorizer class here.
 >
-> **[1:38](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=98)** For this, we have defined some random text, three sentences, and a Python list called text.
+> **[1:38](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=98)** For this, we have defined some random text, three sentences, and a [[Python (Programming Language)|Python]] list called text.
 >
 > **[1:46](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/feature-engineering?u=76281980&t=106)** So, first off we instantiate the class... (keys clicking) CountVectorizer, from the feature extraction module, in the psychic learn package.
 >
@@ -2388,7 +2368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), feature (10), [[Feature Engineering]] (3), next (3), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
@@ -2396,18 +2376,17 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keys clicking) (1)
 
-#### Creating machine learning pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980)
+#### [Creating machine learning pipelines](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=0)** - [Instructor] Handling multiple feature engineering or transformational steps can quickly become very tedious.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=0)** - [Instructor] Handling multiple [[Feature Engineering]] or transformational steps can quickly become very tedious.
 >
 > **[0:06](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=6)** Especially if we want to string these steps together.
 >
 > **[0:09](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=9)** For example, in a machine learning project, we often want to impute missing values, scale numerical attributes, handle outliers and then train the model in that particular order.
 >
-> **[0:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=19)** So, to automate such tasks, we can actually create processing pipelines and Python offers this using the circuit learn package and we have a pipeline class from the pipeline module to create such pipelines.
+> **[0:19](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=19)** So, to automate such tasks, we can actually create processing pipelines and [[Python (Programming Language)|Python]] offers this using the circuit learn package and we have a pipeline class from the pipeline module to create such pipelines.
 >
 > **[0:35](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=35)** So, to demonstrate this, I have created some sample data X which is a containing some missing values.
 >
@@ -2419,7 +2398,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=54)** So first of all, we have pipeline and we have simple imputed class for imputing missing values.
 >
-> **[1:01](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=61)** We have standard scaler class for scaling the numerical attributes and we have linear regression which would be our model for training.
+> **[1:01](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=61)** We have standard scaler class for scaling the numerical attributes and we have [[Linear Regression]] which would be our model for training.
 >
 > **[1:11](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/creating-machine-learning-pipelines?u=76281980&t=71)** So to create a pipeline which would serve as our model.
 >
@@ -2473,7 +2452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Linear Regression]] (2), next (2), [[Feature Engineering]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Feature Engineering]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2484,12 +2463,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980&t=0)** - [Harshit] You've just learned a wide range of Python techniques; from using iPad and notebooks, to manipulating data frames, to plotting informative charts, and even creating useful machine learning pipelines.
+> **[0:00](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980&t=0)** - [Harshit] You've just learned a wide range of [[Python (Programming Language)|Python]] techniques; from using iPad and notebooks, to manipulating data frames, to plotting informative charts, and even creating useful machine learning pipelines.
 >
 > **[0:12](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980&t=12)** The journey isn't over however; there are many more concepts and tools to master.
 >
@@ -2501,7 +2479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** ipad (1)
 > **Speakers:** - [harshit] (1)

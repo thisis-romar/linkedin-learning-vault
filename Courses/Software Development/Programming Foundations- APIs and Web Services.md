@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to APIs and web services
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980)
+#### [Introduction to APIs and web services](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980&t=27)** In this course, you'll learn to design, build, and secure APIs.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980&t=34)** We'll cover restful and GraphQL APIs, dive into AI-powered APIs, and explore the future of API development with serverless and AI-driven API management.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980&t=34)** We'll cover restful and [[GraphQL]] APIs, dive into AI-powered APIs, and explore the future of [[API Development]] with serverless and AI-driven [[API Management]].
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980&t=48)** By the end of this course, you won't just understand APIs.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), api (2), power (1), business (1), teams (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[API Development]] (1), [[API Management]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - apis (1)
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980)
+#### [Defining APIs](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,13 +139,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=57)** APIs define what you can do without requiring you to know how it's done behind the scenes.
 >
-> **[1:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=65)** For example, when you open a weather app, the app uses an API to fetch weather data from a remote server.
+> **[1:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=65)** For example, when you open a weather app, the app uses an API to [[Fetch]] weather data from a remote server.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=73)** You get the forecast without worrying about how that data was gathered or processed.
 >
 > **[1:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=79)** Now, why are APIs important?
 >
-> **[1:23](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=83)** APIs are the backbone of modern software development.
+> **[1:23](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=83)** APIs are the backbone of modern [[Software Development]].
 >
 > **[1:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980&t=87)** They enable apps to connect, promote efficiency, and support innovation.
 >
@@ -211,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (4), [[Fetch]] (2), next (2), web (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Software Development]] (1)
 > **Analogies:** imagine (3), for example (2), think of it as (1), it's like (1)
 > **Env Vars:** api (5), vip (1)
 > **Definitions:** is an  (1), known as (1)
@@ -220,8 +218,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - imagine (1)
 
-#### Understanding web services
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980)
+#### [Understanding web services](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,13 +270,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=142)** SOAP is highly structured, which makes it reliable, but also a bit heavy for modern applications.
 >
-> **[2:31](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=151)** REST, Representational State Transfer, is more like a food delivery service.
+> **[2:31](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=151)** [[Representational State Transfer (REST)|REST]], [[Representational State Transfer (REST)|Representational State Transfer]], is more like a food delivery service.
 >
 > **[2:37](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=157)** It's faster, more flexible and designed to get information where it needs to go, quickly and efficiently.
 >
 > **[2:46](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=166)** In fact, many modern APIs are restful web services, meaning they follow REST principles while operating over the web.
 >
-> **[2:56](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=176)** GraphQL, while not technically a web service in the traditional sense, is like ordering exactly what you want from a custom menu without any extras.
+> **[2:56](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=176)** [[GraphQL]], while not technically a web service in the traditional sense, is like ordering exactly what you want from a custom menu without any extras.
 >
 > **[3:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/understanding-web-services?u=76281980&t=189)** It allows clients to request only the data they need, making it super efficient.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (17), api (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[GraphQL]] (1)
 > **Env Vars:** api (4), soap (2), rest (2)
 > **Analogies:** think of it as (1), imagine (1), just like (1)
 > **Definitions:** is a  (2)
@@ -301,8 +298,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
-#### Challenge: Calling a public API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980)
+#### [Challenge: Calling a public API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -310,13 +306,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=9)** We've talked about APIs and web services, and now it's time to roll up your sleeves and put that knowledge into practice.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=18)** In this challenge, you will create a simple Python script that calls a public API and displays the data in your console.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=18)** In this challenge, you will create a simple [[Python (Programming Language)|Python]] script that calls a public API and displays the data in your console.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=27)** Don't worry if this sounds complex.
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=30)** I'll guide you step by step.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=33)** Throughout this course, we'll use GitHub Codespaces, a cloud-hosted development environment.
+> **[0:33](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=33)** Throughout this course, we'll use [[GitHub]] [[Codespaces]], a cloud-hosted development environment.
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=39)** To access Codespaces, simply navigate to our Courses GitHub repository.
 >
@@ -338,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=95)** It provides information on near-Earth objects, also known as asteroids.
 >
-> **[1:42](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=102)** This API gives you access to real-time data on the asteroids traveling through space.
+> **[1:42](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=102)** This API gives you access to [[Real-Time]] data on the asteroids traveling through space.
 >
 > **[1:48](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-calling-a-public-api?u=76281980&t=108)** I like this API because it is free to use.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), data (5), [[Python (Programming Language)|Python]] (4), [[Codespaces]] (4), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Codespaces]] (4), [[GitHub]] (3), [[Real-Time]] (1)
 > **Env Vars:** api (11), readme (1), nasa (1), http (1)
 > **CLI Commands:** python (4), make (2)
 > **Tools:** github (3)
@@ -383,8 +379,7 @@ created: 2026-05-02
 > **URLs:** [https://api.nasa.gov](https://api.nasa.gov) (1)
 > **Definitions:** known as (1)
 
-#### Solution: Calling a public API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980)
+#### [Solution: Calling a public API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,13 +395,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=25)** For simple testing, you can use the default key provided by NASA called Demo_Key.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=33)** Now let's write some Python code.
+> **[0:33](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=33)** Now let's write some [[Python (Programming Language)|Python]] code.
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=36)** Open your favorite editor, I'm using Visual Studio Code, and create a new file called asteroids_api.py.
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=46)** Let me walk you through the basic structure of my script.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=50)** Here on lines 1 through 3, I'm importing the necessary libraries, requests, datetime, and json.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=50)** Here on lines 1 through 3, I'm importing the necessary libraries, requests, datetime, and [[JSON]].
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=60)** Let's scroll down.
 >
@@ -486,11 +481,11 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=357)** There you have it. That's how I solve this challenge.
 >
-> **[6:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=361)** Up next, let's explore the principles of the REST architecture and its benefits of statelessness, scalability, and performance.
+> **[6:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-calling-a-public-api?u=76281980&t=361)** Up next, let's explore the principles of the [[Representational State Transfer (REST)|REST]] architecture and its benefits of statelessness, [[Scalability]], and performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (18), [[JSON]] (4), next (2), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Scalability]] (1)
 > **Env Vars:** api (17), nasa (5), json (3), url (2), demo_key (1)
 > **Code Identifiers:** get_asteroid_count (2), api_data (2), asteroids_api (1), stringtojson (1), start_date (1)
 > **UI Navigation:** scroll down (4)
@@ -504,16 +499,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying REST principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980)
+#### [Applying REST principles](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=0)** - If you've ever wondered how your favorite apps seamlessly fetched data, like pulling the latest Instagram photos or streaming a playlist, there's a good chance REST is behind the scenes making it all happen.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=0)** - If you've ever wondered how your favorite apps seamlessly fetched data, like pulling the latest Instagram photos or streaming a playlist, there's a good chance [[Representational State Transfer (REST)|REST]] is behind the scenes making it all happen.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=15)** So what exactly is REST?
 >
-> **[0:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=17)** REST stands for representational state transfer.
+> **[0:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=17)** REST stands for [[Representational State Transfer (REST)|representational state transfer]].
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=20)** Sounds fancy, right?
 >
@@ -581,9 +575,9 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=174)** This makes it easy to scale applications.
 >
-> **[2:58](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=178)** Scalability, REST's stateless nature and layered architecture allows services to handle large volumes of requests even as user demand grows.
+> **[2:58](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=178)** [[Scalability]], REST's stateless nature and layered architecture allows services to handle large volumes of requests even as user demand grows.
 >
-> **[3:10](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=190)** Performance, thanks to caching, REST APIs can deliver faster responses, reducing server load and improving user experience.
+> **[3:10](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=190)** Performance, thanks to caching, REST APIs can deliver faster responses, reducing server load and improving [[User Experience (UX)|user experience]].
 >
 > **[3:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=201)** I was around when REST was invented.
 >
@@ -591,13 +585,13 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=212)** REST simplifies how systems communicate.
 >
-> **[3:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=216)** In the next video, we'll put these principles into practice as we build our first REST full API using Python.
+> **[3:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=216)** In the next video, we'll put these principles into practice as we build our first REST full API using [[Python (Programming Language)|Python]].
 >
 > **[3:44](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980&t=224)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), data (2), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Security]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Scalability]] (1), [[User Experience (UX)|User experience]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rest (13), soap (1), api (1)
 > **Definitions:** stands for (1), is called (1), known as (1), is an  (1)
 > **Analogies:** imagine (2), it's like (1)
@@ -605,8 +599,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
 
-#### Building RESTful APIs with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980)
+#### [Building RESTful APIs with Python](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,11 +613,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=12)** You send a request, and it delivers data without revealing the complex processes happening behind the scenes.
 >
-> **[0:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=19)** In this video, we build our own vending machine for data, an API that serves up information on demand using Flask, a lightweight web framework for Python.
+> **[0:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=19)** In this video, we build our own vending machine for data, an API that serves up information on demand using Flask, a lightweight web framework for [[Python (Programming Language)|Python]].
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=32)** Flask makes it easy to build web applications and APIs.
 >
-> **[0:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=38)** You learned about the REST principles that ensure APIs remain scalable, maintainable, and easy to integrate with other systems.
+> **[0:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=38)** You learned about the [[Representational State Transfer (REST)|REST]] principles that ensure APIs remain scalable, maintainable, and easy to integrate with other systems.
 >
 > **[0:47](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=47)** By structuring APIs around resources, you can create predictable endpoints that allow clients to interact with data using standard HTTP methods, like get, post, put, and delete.
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=79)** For example, an API for managing books might have a books endpoint that returns a list of books, while books ID retrieves details about a specific book.
 >
-> **[1:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=92)** Flask makes it easy to define these routes and return JSON responses, the standard format for APIs.
+> **[1:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=92)** Flask makes it easy to define these routes and return [[JSON]] responses, the standard format for APIs.
 >
 > **[1:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=100)** Once we define our endpoints, the next step is handling requests and responses.
 >
@@ -652,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=150)** After defining our API endpoints, the next step is testing them to ensure they work correctly.
 >
-> **[2:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=156)** One of the best tools for API testing is Postman.
+> **[2:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=156)** One of the best tools for [[API Testing]] is Postman.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=161)** It's an application for sending requests to APIs and inspecting responses.
 >
@@ -664,7 +657,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=177)** Here is our URL.
 >
-> **[3:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=180)** This is the URL to the GitHub repo.
+> **[3:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=180)** This is the URL to the [[GitHub]] repo.
 >
 > **[3:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=183)** Yours will be different.
 >
@@ -698,7 +691,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=269)** Using Postman helps developers quickly verify API responses and debug any issues before integrating the API into an application.
 >
-> **[4:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=280)** It also allows us to simulate how different clients, like web apps, mobile apps, or IoT devices, would interact with the API.
+> **[4:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=280)** It also allows us to simulate how different clients, like web apps, mobile apps, or [[IoT]] devices, would interact with the API.
 >
 > **[4:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=290)** After developing the API, it's essential to test it further for robustness and usability.
 >
@@ -708,11 +701,11 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=319)** These will enhance the functionality and security of your API.
 >
-> **[5:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=325)** Get ready to take your API development skills to the next level.
+> **[5:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/building-restful-apis-with-python?u=76281980&t=325)** Get ready to take your [[API Development]] skills to the next level.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (21), data (5), next (5), web (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (1), [[API Testing]] (1), [[GitHub]] (1)
 > **Env Vars:** api (21), url (4), rest (2), json (2), http (1)
 > **Tools:** postman (6), github (1)
 > **Analogies:** for example (2), such as (2)
@@ -721,8 +714,7 @@ created: 2026-05-02
 > **Code Identifiers:** curl (1)
 > **Cross-References:** in the next (1)
 
-#### Exploring advanced API concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980)
+#### [Exploring advanced API concepts](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=15)** Let's start with the challenge of handling large datasets.
 >
-> **[0:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=19)** Imagine you're scrolling through an online store with thousands of products.
+> **[0:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=19)** Imagine you're scrolling through an online store with thousands of [[Microsoft Products|products]].
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=24)** You don't load all of them at once.
 >
@@ -758,11 +750,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=84)** Let's say you're searching for books at an online bookstore.
 >
-> **[1:28](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=88)** Maybe you want to find only Python-related books or books published after 2020.
+> **[1:28](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=88)** Maybe you want to find only [[Python (Programming Language)|Python]]-related books or books published after 2020.
 >
 > **[1:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=94)** Filtering allows you to request only specific data instead of retrieving everything.
 >
-> **[1:41](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=101)** In rest APIs, filtering is often done using query parameters.
+> **[1:41](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=101)** In [[Representational State Transfer (REST)|rest]] APIs, filtering is often done using query parameters.
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=106)** For example, this request returns only books written by Robert C. Martin.
 >
@@ -796,9 +788,9 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=195)** Token-based authentication.
 >
-> **[3:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=197)** While API keys are static and can be leaked, tokens provide a more secure way to authenticate users dynamically.
+> **[3:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=197)** While API keys are static and can be leaked, [[Tokens]] provide a more secure way to authenticate users dynamically.
 >
-> **[3:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=205)** The most commonly used token format today is JSON Web Token, JWT.
+> **[3:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=205)** The most commonly used token format today is [[JSON]] Web Token, JWT.
 >
 > **[3:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=212)** This token is included in the API request.
 >
@@ -806,7 +798,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=217)** OAuth is an industry-standard protocol used when a user needs to grant permission for an application to access their data without sharing passwords.
 >
-> **[3:47](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=227)** If you've ever used login with Google, you've used OAuth.
+> **[3:47](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=227)** If you've ever used login with [[Google]], you've used OAuth.
 >
 > **[3:52](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-advanced-api-concepts?u=76281980&t=232)** For example, an API that requires authentication might need an API key like this.
 >
@@ -818,15 +810,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), data (6), [[Security]] (2), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** api (14), json (1), jwt (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - did (1)
 
-#### Challenge: Develop a simple RESTful API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-develop-a-simple-restful-api?u=76281980)
+#### [Challenge: Develop a simple RESTful API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-develop-a-simple-restful-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +847,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (3), data (1)
 > **Env Vars:** api (4), crud (1)
 > **Prerequisites:** set up (1), install (1)
 > **CLI Commands:** curl (1)
@@ -864,9 +854,9 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - all (1)
+> **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Develop a simple RESTful API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980)
+#### [Solution: Develop a simple RESTful API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +888,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=80)** This function here on line 32, create to-dos.
 >
-> **[1:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=85)** It takes in a new to-do that you send in and I'll show you how to do that in JSON format and it creates that new to-do and adds it to our dictionary.
+> **[1:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=85)** It takes in a new to-do that you send in and I'll show you how to do that in [[JSON]] format and it creates that new to-do and adds it to our dictionary.
 >
 > **[1:37](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=97)** The next function here on line 47 is update a to-do, you send in the update, the to-do ID, and this will update an existing to-do item.
 >
@@ -914,7 +904,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=147)** Now let's actually test this API in Postman, I've already executed my development server and you see this message at the very bottom that says it's running.
 >
-> **[2:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=160)** For this API because it's running in GitHub code spaces, you'll want to make sure that you make the API public when you execute it, and to retrieve that public URL, simply go to the ports tab and you'll see this column called forwarded address.
+> **[2:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=160)** For this API because it's running in [[GitHub]] code spaces, you'll want to make sure that you make the API public when you execute it, and to retrieve that public URL, simply go to the ports tab and you'll see this column called forwarded address.
 >
 > **[2:58](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=178)** You can copy it using this icon here.
 >
@@ -940,7 +930,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=228)** That's very important to-do.
 >
-> **[3:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=230)** The second is build a rest API.
+> **[3:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=230)** The second is build a [[Representational State Transfer (REST)|rest]] API.
 >
 > **[3:53](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=233)** That's what this course is all about.
 >
@@ -980,11 +970,11 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=363)** That's how you can solve this challenge.
 >
-> **[6:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=365)** Next up, we'll explore GraphQL and you'll be impressed by its flexibility.
+> **[6:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-develop-a-simple-restful-api?u=76281980&t=365)** Next up, we'll explore [[GraphQL]] and you'll be impressed by its flexibility.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), next (4), [[GitHub]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2), [[GraphQL]] (1)
 > **Env Vars:** api (8), url (6), json (2)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** postman (3), github (3)
@@ -998,8 +988,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring GraphQL benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980)
+#### [Exploring GraphQL benefits](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,13 +996,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=6)** Maybe you just want a burger with extra pickles, no onions, and a side of sweet potato fries, but instead, you're forced to take a combo meal with items you don't need.
 >
-> **[0:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=17)** Traditional REST APIs work the same way.
+> **[0:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=17)** Traditional [[Representational State Transfer (REST)|REST]] APIs work the same way.
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=20)** Clients request data from fixed endpoints and often receive more or less than what you actually need.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=28)** GraphQL changes the game by allowing clients to request exactly the data they want, no more, no less.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=28)** [[GraphQL]] changes the game by allowing clients to request exactly the data they want, no more, no less.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=36)** REST has been the standard for API communication for years, offering structured endpoints like users or products to retrieve data.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=36)** REST has been the standard for API communication for years, offering structured endpoints like users or [[Microsoft Products|products]] to retrieve data.
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=46)** However, its limitations start to show as applications become more complex.
 >
@@ -1033,7 +1022,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=108)** This approach makes applications faster, more efficient, and more flexible in data retrieval.
 >
-> **[1:55](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=115)** Another major advantage of GraphQL is its ability to fetch related data in a single request.
+> **[1:55](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=115)** Another major advantage of GraphQL is its ability to [[Fetch]] related data in a single request.
 >
 > **[2:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=123)** With REST, getting a user's details and their order history might require separate API calls.
 >
@@ -1063,7 +1052,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=225)** GraphQL queries are dynamic, requiring query-level caching or persisted queries to optimize performance.
 >
-> **[3:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=234)** In the next video, we'll dive into how to set up a GraphQL API in Python.
+> **[3:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=234)** In the next video, we'll dive into how to set up a GraphQL API in [[Python (Programming Language)|Python]].
 >
 > **[4:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980&t=241)** You'll see firsthand how to write queries and define schemas to unlock GraphQL's full potential.
 >
@@ -1071,7 +1060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (14), [[Representational State Transfer (REST)|Rest]] (8), data (8), api (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[GraphQL]] (14), [[Representational State Transfer (REST)|Rest]] (8), [[Microsoft Products|Products]] (1), [[Fetch]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rest (8), api (4)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for instance (1), think of it like (1)
@@ -1079,16 +1068,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - ordering (1)
 
-#### Creating with GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980)
+#### [Creating with GraphQL](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=0)** - APIs have traditionally followed a rigid structure with REST.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=0)** - APIs have traditionally followed a rigid structure with [[Representational State Transfer (REST)|REST]].
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=5)** GraphQL flips the script by giving clients the power to define exactly what data they need.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=5)** [[GraphQL]] flips the script by giving clients the power to define exactly what data they need.
 >
-> **[0:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=12)** Let's move beyond theory, and set up a GraphQL server using Python and Graphene, the most popular GraphQL framework for Python.
+> **[0:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=12)** Let's move beyond theory, and set up a GraphQL server using [[Python (Programming Language)|Python]] and Graphene, the most popular GraphQL framework for Python.
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/creating-with-graphql?u=76281980&t=22)** Graphene simplifies GraphQL implementation in Python by providing tools to define schemas, queries, and mutations.
 >
@@ -1196,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (12), data (5), [[Python (Programming Language)|Python]] (5), api (2), next (2)
+> **Frameworks & Libraries:** [[GraphQL]] (12), [[Python (Programming Language)|Python]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (5)
 > **Code Identifiers:** resolve_book (1), resolve_books (1), result_all (1)
 > **Env Vars:** api (2), rest (1)
@@ -1205,8 +1193,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - apis (1)
 
-#### Challenge: Build a GraphQL server
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980)
+#### [Challenge: Build a GraphQL server](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,13 +1201,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=6)** - Okay, are you ready for your next hands-on challenge?
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=9)** You'll see the flexibility of GraphQL firsthand.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=9)** You'll see the flexibility of [[GraphQL]] firsthand.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=14)** In this challenge, you'll build a GraphQL server that supports queries and mutations for managing a to-do list.
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=22)** This is similar to chapter 2's challenge to develop a simple RESTful API.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=28)** First, you'll install Graphene, then you'll implement queries to fetch all to-do items, and a specific to-do item.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=28)** First, you'll install Graphene, then you'll implement queries to [[Fetch]] all to-do items, and a specific to-do item.
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-build-a-graphql-server?u=76281980&t=38)** After this, you'll define the mutations to add, update, and delete to-do items.
 >
@@ -1238,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), next (2), api (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Fetch]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** app.py (1)
 > **Analogies:** similar to (1)
@@ -1246,8 +1233,7 @@ created: 2026-05-02
 > **Speakers:** - okay (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Build a GraphQL server
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980)
+#### [Solution: Build a GraphQL server](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,11 +1255,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=40)** The first is to learn Graphene.
 >
-> **[0:42](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=42)** The second is to build a GraphQL API.
+> **[0:42](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=42)** The second is to build a [[GraphQL]] API.
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=46)** The third is to test that API.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=48)** And the fourth and final, is to watch another course from me in the LinkedIn Learning Library.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=48)** And the fourth and final, is to watch another course from me in the [[LinkedIn]] Learning Library.
 >
 > **[0:55](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=55)** You notice that each task has a title, and it also has a completed boolean flag, which is either true or false.
 >
@@ -1285,7 +1271,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=77)** It has two fields, a title, and completed.
 >
-> **[1:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=81)** And Graphene maps each field to a Python attribute.
+> **[1:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=81)** And Graphene maps each field to a [[Python (Programming Language)|Python]] attribute.
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=86)** Let's scroll down.
 >
@@ -1311,7 +1297,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=147)** Think of resolvers as the function body behind each GraphQL field.
 >
-> **[2:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=154)** They determine how we fetch or filter data.
+> **[2:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=154)** They determine how we [[Fetch]] or filter data.
 >
 > **[2:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-build-a-graphql-server?u=76281980&t=158)** Next step, we have mutations, these let us change our data.
 >
@@ -1447,7 +1433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), api (10), data (7), [[GraphQL]] (6), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1)
 > **Env Vars:** api (10), pip (1)
 > **Code Identifiers:** resolve_task (2), deleted_task (1), add_task (1), update_task (1), delete_task (1)
 > **CLI Commands:** find (3), pip (2), python (1)
@@ -1461,8 +1447,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the OpenAI APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980)
+#### [Exploring the OpenAI APIs](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1457,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=11)** Whether you want to generate human-like text, create images from descriptions, or even convert speech into text, OpenAI's APIs make it possible with just a few lines of code.
 >
-> **[0:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=25)** OpenAI is a leading AI research organization known for developing ChatGPT.
+> **[0:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=25)** OpenAI is a leading AI research organization known for developing [[ChatGPT]].
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=32)** Instead of requiring developers to build and train AI models from scratch, OpenAI offers API access to advanced AI models, simplifying the integration of AI capabilities into applications.
 >
@@ -1484,9 +1469,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=82)** This API can answer questions, generate content, summarize text, and even assist with code writing and debugging.
 >
-> **[1:31](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=91)** Businesses utilize it to enhance customer support, automate documentation, and assist with creative writing tasks.
+> **[1:31](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=91)** Businesses utilize it to enhance [[Customer Support]], automate documentation, and assist with creative writing tasks.
 >
-> **[1:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=100)** OpenAI provides the images API for AI powered image generation, which utilizes models like DALL-E to create images from text descriptions.
+> **[1:40](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=100)** OpenAI provides the images API for AI powered image generation, which utilizes models like [[DALL-E]] to create images from text descriptions.
 >
 > **[1:53](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=113)** Users can generate high quality images tailored to their needs by providing a textural description.
 >
@@ -1494,7 +1479,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=132)** To create vector representations of texts for tasks like similarity search, OpenAI offers embeddings API.
 >
-> **[2:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=141)** This API transforms texts into numerical vectors that capture semantic meaning enabling applications such as recommendation systems, semantic search, and clustering.
+> **[2:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=141)** This API transforms texts into numerical vectors that capture semantic meaning enabling applications such as recommendation systems, [[Semantic Search]], and clustering.
 >
 > **[2:35](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=155)** For converting text into human-like speech, the audio API converts text to speech.
 >
@@ -1510,25 +1495,25 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=219)** The Moderations API helps analyze and filter content by detecting harmful or sensitive material, assisting platforms in maintaining community guidelines, and creating a safer environment for users.
 >
-> **[3:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=234)** For developers looking to tailor models to specific task or domains, OpenAI offers fine tuning capabilities.
+> **[3:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=234)** For developers looking to tailor models to specific task or domains, OpenAI offers [[Fine Tuning]] capabilities.
 >
 > **[4:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=243)** This allows customization of their models with your own data, enhancing performance on specialized applications such as customer-specific chatbots or industry specific content generation.
 >
 > **[4:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=257)** To handle multiple requests efficiently, the Batch API enables the processing of asynchronous jobs, allowing developers to submit a batch of tasks and retrieve results once processing is complete.
 >
-> **[4:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=272)** This is particularly useful for applications requiring large scale data processing.
+> **[4:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=272)** This is particularly useful for applications requiring large scale [[Data Processing]].
 >
-> **[4:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=278)** These APIs transform software development by reducing the time required to implement complex AI-powered features.
+> **[4:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=278)** These APIs transform [[Software Development]] by reducing the time required to implement complex AI-powered features.
 >
 > **[4:47](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=287)** With an API key and a few requests, you can integrate AI without extensive expertise in machine learning or significant computing resources.
 >
 > **[4:58](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=298)** Now that you understand the capabilities of OpenAI's APIs, let's move from theory to practice.
 >
-> **[5:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=305)** In the next video, we'll explore integrating OpenAI's Chat Completions, images, and audio APIs into a Python application.
+> **[5:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980&t=305)** In the next video, we'll explore integrating OpenAI's Chat Completions, images, and audio APIs into a [[Python (Programming Language)|Python]] application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), ai (11), data (2), [[ChatGPT]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Customer Support]] (1), [[DALL-E]] (1), [[Semantic Search]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** api (14), gpt (2), dall (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** such as (2)
@@ -1536,8 +1521,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - did (1)
 
-#### Utilizing the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980)
+#### [Utilizing the OpenAI API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,7 +1531,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=19)** Well, you can.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=21)** In this video, we're going to integrate OpenAI's Chat Completions API, Images API, and Audio API into a Python application.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=21)** In this video, we're going to integrate OpenAI's Chat Completions API, Images API, and Audio API into a [[Python (Programming Language)|Python]] application.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=32)** I'll show you how to generate text responses, create AI-powered images, and turn text into lifelike spoken audio.
 >
@@ -1557,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=53)** It acts like a password, granting access to the APIs while helping track usage and enforce rate limits.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=62)** Make sure to keep your API keys private to prevent unauthorized use, as exposed keys can lead to unintended charges or security risk.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=62)** Make sure to keep your API keys private to prevent unauthorized use, as exposed keys can lead to unintended charges or [[Security Risk]].
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=73)** The api_key client option must be set either by passing api_key to the client, or by setting the OPENAI_API_KEY environment variable.
 >
@@ -1595,7 +1579,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=170)** I'm passing in this content here.
 >
-> **[2:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=174)** The prompt: I'm asking it to describe LinkedIn Learning in three sentences.
+> **[2:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=174)** The prompt: I'm asking it to describe [[LinkedIn]] Learning in three sentences.
 >
 > **[3:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=181)** Let's execute this code.
 >
@@ -1615,7 +1599,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=229)** Lines 8 through 14, we are using the Images API.
 >
-> **[3:55](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=235)** This allows developers to generate images from text descriptions using OpenAI's Dall-E models.
+> **[3:55](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=235)** This allows developers to generate images from text descriptions using OpenAI's [[DALL-E]] models.
 >
 > **[4:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=243)** There are several parameters.
 >
@@ -1695,13 +1679,13 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=425)** Let's click on that and listen to it.
 >
-> **[7:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=429)** Now it's your turn to develop a Python application that utilizes the OpenAI API.
+> **[7:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=429)** Now it's your turn to develop a Python application that utilizes the [[OpenAI API]].
 >
 > **[7:16](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/utilizing-the-openai-api?u=76281980&t=436)** Let's go to your challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (17), prompt (4), ai (3), [[LinkedIn]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Python (Programming Language)|Python]] (2), [[DALL-E]] (2), [[Security Risk]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (18), openai_api_key (2), llm (2), url (2), sdk (1)
 > **CLI Commands:** make (3), python (2), find (1)
 > **UI Navigation:** navigate to (2), scroll down (1), click on (1), go to (1)
@@ -1710,8 +1694,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2), install (1)
 > **Code Identifiers:** api_key (2)
 
-#### Challenge: Integrate the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980)
+#### [Challenge: Integrate the OpenAI API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,9 +1704,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980&t=11)** Imagine you're developing a creative writing assistant that helps people generate unique short stories with AI-generated visuals and audio narration.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980&t=22)** First, set up your environment and generate an OpenAI API key.
+> **[0:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980&t=22)** First, set up your environment and generate an [[OpenAI API]] key.
 >
-> **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980&t=27)** Before making API calls, you must install the OpenAI Python library and set up authentication.
+> **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980&t=27)** Before making API calls, you must install the OpenAI [[Python (Programming Language)|Python]] library and set up authentication.
 >
 > **[0:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-integrate-the-openai-api?u=76281980&t=34)** Then your code should accept a story prompt from the user.
 >
@@ -1739,7 +1722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (2), ai (1), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5)
 > **Prerequisites:** set up (2), install (1)
 > **CLI Commands:** python (1)
@@ -1748,8 +1731,7 @@ created: 2026-05-02
 > **Speakers:** - are (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Integrate the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980)
+#### [Solution: Integrate the OpenAI API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=18)** Writing the storyline, generating an image that matches that story, and bringing the story to life through audio narration.
 >
-> **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=27)** Here on line five, I've added my OpenAI API key.
+> **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=27)** Here on line five, I've added my [[OpenAI API]] key.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=32)** You'll need to do the same.
 >
@@ -1795,7 +1777,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=117)** Here on line 32, I'm calling the images API and I'm passing in several parameters.
 >
-> **[2:04](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=124)** On line 33, I'm passing in the DALL-E three model that I want to use to generate the image.
+> **[2:04](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=124)** On line 33, I'm passing in the [[DALL-E]] three model that I want to use to generate the image.
 >
 > **[2:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=133)** I also pass in the storyline as the prompt.
 >
@@ -1823,7 +1805,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=210)** This main section here brings it all together by orchestrating the function calls.
 >
-> **[3:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=218)** On line 56, I'm setting a user prompt so the user can enter a story prompt and we will continue to collect the prompts until the user types the word exit.
+> **[3:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=218)** On line 56, I'm setting a user prompt so the user can enter a story prompt and we will continue to collect the prompts until the user types the [[Microsoft Word|word]] exit.
 >
 > **[3:55](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-integrate-the-openai-api?u=76281980&t=235)** If the user does not type the word exit, the first step is to call the generate story function using the user prompt that's passed in.
 >
@@ -1861,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), api (6), [[Microsoft Word|Word]] (2), next (2), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[OpenAI API]] (1), [[DALL-E]] (1)
 > **Env Vars:** api (7), url (3), gpt (1), llm (1), dall (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
@@ -1873,8 +1855,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980)
+#### [Securing APIs](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1920,9 +1901,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=132)** Next up is token-based authentication.
 >
-> **[2:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=135)** Unlike API keys, token-based authentication involves time-limited access tokens that expire after a certain period.
+> **[2:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=135)** Unlike API keys, token-based authentication involves time-limited access [[Tokens]] that expire after a certain period.
 >
-> **[2:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=145)** JSON Web Tokens are a common approach that ensures secure and stateless authentication.
+> **[2:25](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=145)** [[JSON]] Web Tokens are a common approach that ensures secure and stateless authentication.
 >
 > **[2:31](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=151)** The API generates a signed JWT containing user information and an expiration time.
 >
@@ -1934,7 +1915,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=181)** OAuth is an industry standard framework that allows users to grant API access to third-party applications without sharing their credentials.
 >
-> **[3:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=192)** Google Login and GitHub Authentication, for instance, use OAuth to authorize users.
+> **[3:12](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=192)** [[Google]] Login and [[GitHub]] Authentication, for instance, use OAuth to authorize users.
 >
 > **[3:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=199)** With OAuth; one, users log in via a third-party provider, like Google or Facebook, two, the provider issues an OAuth token, three, the client app uses this token to access protected APIs on behalf of the user.
 >
@@ -1952,7 +1933,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=250)** Input validation and sanitization.
 >
-> **[4:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=253)** Protect against SQL injection and cross-site scripting.
+> **[4:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=253)** Protect against [[SQL]] injection and cross-site scripting.
 >
 > **[4:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980&t=257)** Logging and monitoring.
 >
@@ -1964,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (19), data (6), [[Security]] (5), [[Tokens]] (4), next (2)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Google]] (2), [[JSON]] (1), [[GitHub]] (1), [[SQL]] (1)
 > **Env Vars:** api (19), json (1), jwt (1), https (1), tls (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -1973,8 +1954,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - apis (1)
 
-#### Challenge: Secure an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-secure-an-api?u=76281980)
+#### [Challenge: Secure an API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-secure-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2000,14 +1980,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), next (2), [[Security]] (1), data (1)
 > **Env Vars:** api (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Secure an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-secure-an-api?u=76281980)
+#### [Solution: Secure an API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-secure-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2097,7 +2075,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), data (3), next (3)
 > **Env Vars:** api (16), api_key (3), url (3)
 > **Tools:** postman (4)
 > **UI Navigation:** click on (2), scroll down (1), navigate to (1)
@@ -2105,9 +2082,9 @@ created: 2026-05-02
 > **Code Identifiers:** check_api_key (1)
 > **API Endpoints:** get  (1)
 > **Documentation:** specification (1)
+> **Speakers:** - let (1)
 
-#### Documenting and testing APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980)
+#### [Documenting and testing APIs](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2119,7 +2096,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=14)** In this video, we'll explore how to document APIs effectively using the OpenAPI Specification, historically known as Swagger, and test them for reliability with Postman.
 >
-> **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=27)** An API without proper documentation is difficult to use, leading to developer frustration, integration delays, and potential security risk.
+> **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=27)** An API without proper documentation is difficult to use, leading to developer frustration, integration delays, and potential [[Security Risk]].
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=38)** Well-documented APIs provide clear instructions on what endpoints are available, what data the API expects and returns, how authentication works, and common error responses and handling.
 >
@@ -2127,9 +2104,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=60)** It allows developers to describe an API's structure in a machine-readable format, which tools like Swagger UI can use to generate interactive documentation.
 >
-> **[1:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=71)** I've documented a simple customer API with the OpenAPI Specification in openapi.json.
+> **[1:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=71)** I've documented a simple customer API with the OpenAPI Specification in openapi.[[JSON]].
 >
-> **[1:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=81)** This file defines the API metadata, title, description, version, the customer's endpoint, and its response in OpenAPI format.
+> **[1:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=81)** This file defines the API [[Metadata]], title, description, version, the customer's endpoint, and its response in OpenAPI format.
 >
 > **[1:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=92)** The Swagger UI provides an interactive interface for testing APIs.
 >
@@ -2143,7 +2120,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=121)** Before deploying an API, you must ensure it works correctly, responds as expected, and handles edge cases properly.
 >
-> **[2:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=131)** Postman is a powerful API testing tool that lets you send API requests and check responses, automate testing and scripts, simulate authentication methods, like API keys and JWT.
+> **[2:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=131)** Postman is a powerful [[API Testing]] tool that lets you send API requests and check responses, automate testing and scripts, simulate authentication methods, like API keys and JWT.
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/documenting-and-testing-apis?u=76281980&t=147)** You can also automate testing using Postman.
 >
@@ -2175,7 +2152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (17), data (2), [[Security]] (1), [[JSON]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1), [[JSON]] (1), [[Metadata]] (1), [[API Testing]] (1)
 > **Env Vars:** api (17), jwt (1)
 > **Documentation:** specification (4)
 > **Tools:** postman (4)
@@ -2184,14 +2161,13 @@ created: 2026-05-02
 > **File Paths:** openapi.json (1)
 > **URLs:** [http://localhost:5000/docs](http://localhost:5000/docs) (1)
 
-#### Challenge: Document an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-document-an-api?u=76281980)
+#### [Challenge: Document an API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-document-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-document-an-api?u=76281980&t=0)** - Welcome to your second hands-on challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-document-an-api?u=76281980&t=9)** In this challenge, you'll document a Python API using the OpenAPI specification and validate it by testing the endpoints in Postman.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-document-an-api?u=76281980&t=9)** In this challenge, you'll document a [[Python (Programming Language)|Python]] API using the OpenAPI specification and validate it by testing the endpoints in Postman.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/challenge-document-an-api?u=76281980&t=19)** By the end of this challenge, you'll have clear, structured API documentation and a reliable way to test your endpoints.
 >
@@ -2207,7 +2183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5)
 > **Documentation:** specification (2), the documentation (1)
 > **CLI Commands:** python (1), make (1)
@@ -2216,8 +2192,7 @@ created: 2026-05-02
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Document an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980)
+#### [Solution: Document an API](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2225,7 +2200,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=8)** Let me show you how I solved it.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=11)** First, I define the API documentation in the OpenAPI Specification by creating the static openapi.json file.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=11)** First, I define the API documentation in the OpenAPI Specification by creating the static openapi.[[JSON]] file.
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=22)** This documentation describes the title for the API, it's called To-Do List API.
 >
@@ -2267,7 +2242,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=152)** Another step in the configuration here is on line 11, setting the app and calling this register_blueprint function, passing in the swagger_ui_blueprint that has our configuration values and the url_prefix for the SWAGGER_URL.
 >
-> **[2:52](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=172)** The rest of this code you are familiar with.
+> **[2:52](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=172)** The [[Representational State Transfer (REST)|rest]] of this code you are familiar with.
 >
 > **[2:56](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=176)** To proceed running the API and accessing the Swagger UI, simply click on this Run button.
 >
@@ -2307,7 +2282,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=294)** Here we are in Postman.
 >
-> **[4:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=297)** Notice here we're using the base URL for our GitHub Codespaces.
+> **[4:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=297)** Notice here we're using the base URL for our [[GitHub]] [[Codespaces]].
 >
 > **[5:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/solution-document-an-api?u=76281980&t=303)** We're adding the path of todos on the end.
 >
@@ -2335,7 +2310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), [[JSON]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** api (16), url (4), swagger_url (2), json (1), api_url (1)
 > **UI Navigation:** scroll down (5), click on (4), navigate to (1)
 > **Code Identifiers:** flask_swagger_ui (2), swagger_ui_blueprint (2), todo_api (1), get_swagger_ui_blueprint (1), register_blueprint (1)
@@ -2349,8 +2324,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embracing emerging technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980)
+#### [Embracing emerging technologies](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2360,7 +2334,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=14)** But it's happening right now.
 >
-> **[0:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=17)** In this video, we'll explore how innovations are shaping the future of API development, and why you will want to start using them today.
+> **[0:17](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=17)** In this video, we'll explore how innovations are shaping the future of [[API Development]], and why you will want to start using them today.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=27)** The way we build and manage APIs is constantly changing.
 >
@@ -2368,7 +2342,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=42)** But today, cloud-based innovations and AI-driven automation are transforming how we think about APIs.
 >
-> **[0:51](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=51)** Two of the most impactful advancements are: serverless architectures that support APIs that scale dynamically without dedicated infrastructure, and AI-driven API management that supports smart, automated solutions that enhance security, performance, and efficiency.
+> **[0:51](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=51)** Two of the most impactful advancements are: serverless architectures that support APIs that scale dynamically without dedicated infrastructure, and AI-driven [[API Management]] that supports smart, automated solutions that enhance security, performance, and efficiency.
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=74)** Let's start with serverless architectures.
 >
@@ -2382,7 +2356,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=110)** When there's no traffic, the service scales down to zero reducing costs.
 >
-> **[1:56](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=116)** An example is a serverless API on Amazon Web Services, AWS, that eliminates the need for a dedicated server by deploying API functions using AWS Lambda, which automatically scales based on demand.
+> **[1:56](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=116)** An example is a serverless API on [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, that eliminates the need for a dedicated server by deploying API functions using AWS Lambda, which automatically scales based on demand.
 >
 > **[2:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=133)** Instead of hosting a Flask app on a traditional server, you can configure API gateway to expose your Lambda function as a fully-managed, scalable API.
 >
@@ -2396,19 +2370,19 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=181)** Smart load balancing.
 >
-> **[3:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=183)** AI can predict traffic patterns, and dynamically adjust routing to balance API loads efficiently.
+> **[3:03](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=183)** AI can predict traffic patterns, and dynamically adjust [[Routing]] to balance API loads efficiently.
 >
 > **[3:10](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=190)** And automated documentation.
 >
 > **[3:13](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=193)** AI tools can generate API documentation by analyzing API usage, making it easier for developers to integrate services.
 >
-> **[3:23](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=203)** An example of this is Google Apigee using AI to help API management, security, and more.
+> **[3:23](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=203)** An example of this is [[Google]] Apigee using AI to help API management, security, and more.
 >
 > **[3:33](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=213)** Looking ahead, the API landscape will continue to evolve, bringing new advancements that enhance performance, security, and user interaction.
 >
 > **[3:45](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=225)** One key trend is edge computing for APIs which enables APIs to run closer to users, reducing latency, and improving response times.
 >
-> **[3:58](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=238)** This shift is particularly valuable for real-time applications like IOT and AI-driven services.
+> **[3:58](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=238)** This shift is particularly valuable for [[Real-Time]] applications like [[IoT]] and AI-driven services.
 >
 > **[4:06](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980&t=246)** Another important development is zero-trust security which strengthens authentication and access controls to ensure that APIs remain secure against evolving threats.
 >
@@ -2426,7 +2400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (20), ai (10), [[Security]] (8), management (6), traffic (4)
+> **Frameworks & Libraries:** [[API Management]] (5), [[API Development]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Routing]] (1), [[Google]] (1)
 > **Env Vars:** api (20), aws (2), iot (1)
 > **CLI Commands:** aws (2)
 > **Cross-References:** in the next (1)
@@ -2434,8 +2408,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - what (1)
 
-#### Navigating the evolving API ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980)
+#### [Navigating the evolving API ecosystem](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2453,11 +2426,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=38)** Developers would create a product and then add APIs as an integration layer.
 >
-> **[0:43](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=43)** However, this approach often led to inconsistencies, tight coupling, and a lack of scalability.
+> **[0:43](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=43)** However, this approach often led to inconsistencies, tight coupling, and a lack of [[Scalability]].
 >
 > **[0:51](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=51)** With API-first development, APIs are treated as the foundation of an application, not an afterthought.
 >
-> **[0:59](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=59)** This approach prioritizes designing APIs before building the rest of the system, ensuring they are well structured, reusable, and easy to integrate.
+> **[0:59](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=59)** This approach prioritizes designing APIs before building the [[Representational State Transfer (REST)|rest]] of the system, ensuring they are well structured, reusable, and easy to integrate.
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=71)** API-first development offers several key benefits that enhance both the development process and the overall usability of APIs.
 >
@@ -2471,7 +2444,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=117)** Another critical benefit is scalability and reusability.
 >
-> **[2:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=121)** API-first design encourages modular architecture, where APIs can be reused across multiple applications, making building and maintaining a scalable microservices ecosystem easier.
+> **[2:01](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=121)** API-first design encourages modular architecture, where APIs can be reused across multiple applications, making building and maintaining a scalable [[Microservices]] ecosystem easier.
 >
 > **[2:15](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=135)** For example, rather than manually writing API documentation after development, an API-first approach leverages open API specification to design the API before writing any code.
 >
@@ -2483,11 +2456,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=173)** These tools enable businesses and developers to design, build, and deploy APIs with minimal coding, accelerating development timelines, and lowering the barrier to entry.
 >
-> **[3:07](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=187)** Many tools also now offer automated API generation where APIs are automatically created based on existing databases or data models, further streamlining the process.
+> **[3:07](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=187)** Many tools also now offer automated API generation where APIs are automatically created based on existing [[Databases]] or data models, further streamlining the process.
 >
 > **[3:21](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=201)** So what does this mean for you?
 >
-> **[3:24](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=204)** It means adapting your skills and workflows as API development evolves to stay competitive in this rapidly changing landscape.
+> **[3:24](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=204)** It means adapting your skills and workflows as [[API Development]] evolves to stay competitive in this rapidly changing landscape.
 >
 > **[3:34](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/navigating-the-evolving-api-ecosystem?u=76281980&t=214)** API-first design, low-code automation, enhanced security measures, and AI-assisted development are reshaping the traditional methods of designing and deploying APIs.
 >
@@ -2499,7 +2472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), application (2), [[Scalability]] (2), teams (2), next (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microservices]] (1), [[Databases]] (1), [[API Development]] (1)
 > **Env Vars:** api (14)
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
@@ -2511,8 +2484,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your programming foundations: APIs and web services journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980)
+#### [Your programming foundations: APIs and web services journey](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2526,7 +2498,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=24)** Try building your own API, experiment with authentication and security, or explore API first design tools like OpenAPI and Postman.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=35)** To continue your learning journey, check out my other courses on LinkedIn Learning, such as artificial intelligence: machine learning, [[Building a Project with the ChatGPT API]], or creating GPTs with Actions.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=35)** To continue your learning journey, check out my other courses on [[LinkedIn]] Learning, such as [[Artificial Intelligence (AI)|artificial intelligence]]: machine learning, [[Building a Project with the [[ChatGPT]] API]], or creating GPTs with Actions.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980&t=50)** And let's stay connected.
 >
@@ -2542,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (2), [[LinkedIn]] (2), power (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1)
 > **Env Vars:** api (4)
 > **Analogies:** just like (1), such as (1)
 > **Tools:** postman (1)

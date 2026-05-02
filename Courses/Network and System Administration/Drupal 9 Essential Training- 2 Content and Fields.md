@@ -70,12 +70,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to Drupal 9 Essential Training.
+> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to [[Drupal]] 9 Essential Training.
 >
 > **[0:05](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980&t=5)** My name's Rod Martin.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (3), data (1)
+> **Frameworks & Libraries:** [[Drupal]] (3)
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -104,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Content explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980)
+#### [Content explained](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=3)** - Well as you may have realized Drupal is a content management system.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=3)** - Well as you may have realized [[Drupal]] is a [[Content Management]] system.
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=8)** (laughs) I've said that a few times now.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=37)** So what do I mean by that?
 >
-> **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=38)** Well, other content management systems just give you a title and a body like you see on the screen.
+> **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=38)** Well, other [[Content Management Systems (CMS)|content management systems]] just give you a title and a body like you see on the screen.
 >
 > **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=44)** And what they force you to do is put a title in and then push everything into the body, which is great, if you never need it to do anything else with it.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=121)** If that had been Drupal, it would have taken almost no time at all.
 >
-> **[2:05](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=125)** And unstructured data approach is fine right up until you need, well, you need to display the data differently or you need to organize it differently or you need to filter pages and blocks differently.
+> **[2:05](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=125)** And [[Unstructured Data]] approach is fine right up until you need, well, you need to display the data differently or you need to organize it differently or you need to filter pages and blocks differently.
 >
 > **[2:18](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=138)** Well, as soon as that happens you realize you can't.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=225)** Well, here's the problem.
 >
-> **[3:46](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=226)** Let's say we jam all of this into the body and make it pretty with some really advanced HTML and CSS.
+> **[3:46](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=226)** Let's say we jam all of this into the body and make it pretty with some really advanced [[HTML]] and CSS.
 >
 > **[3:54](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=234)** And your boss comes along and says now I need a landing page on the new website that has all of the movies from 1987 that were rated PG in the adventure category.
 >
@@ -213,7 +211,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=390)** You need new content types when, the information that you're trying to send out is different, when unique fields are needed and when display needs are different.
 >
-> **[6:41](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=401)** And you're going to see that all through the rest of this course and how that works out.
+> **[6:41](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=401)** And you're going to see that all through the [[Representational State Transfer (REST)|rest]] of this course and how that works out.
 >
 > **[6:46](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980&t=406)** When you're planning your content types you want to plan them so that your content editors or creators feel comfortable entering all of the data.
 >
@@ -225,15 +223,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (12), data (6), [[Content Management]] (2), [[Content Management Systems (CMS)|Content management systems]] (2), cms (2)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[Content Management]] (2), [[Content Management Systems (CMS)|Content management systems]] (2), [[HTML]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** cms (2), html (2), css (2), mp3 (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **Definitions:** is a  (3), is an  (1)
 > **URLs:** [imdb.com](https://imdb.com) (2)
 > **Speakers:** - well (1)
 
-#### Adding an article
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980)
+#### [Adding an article](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=39)** (chuckles) Whatever one you want to use go ahead and grab some lorem ipsum text.
 >
-> **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=44)** You might as well leave that tab open so you can come back and get some more, or copy and paste some text into a text file that you can just copy and paste back into Drupal.
+> **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=44)** You might as well leave that tab open so you can come back and get some more, or copy and paste some text into a text file that you can just copy and paste back into [[Drupal]].
 >
 > **[0:56](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=56)** I'm going to paste that in.
 >
@@ -333,7 +330,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=206)** Clicking on either of these tags is going to take me to a taxonomy term page.
 >
-> **[3:31](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=211)** I.e. a group of nodes that have been tagged with that particular word.
+> **[3:31](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=211)** I.e. a group of nodes that have been tagged with that particular [[Microsoft Word|word]].
 >
 > **[3:35](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-an-article?u=76281980&t=215)** In this case, welcome.
 >
@@ -345,7 +342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (3), node (2), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (2), make (1)
 > **URLs:** [lipsom.com](https://lipsom.com) (1), [baconipsum.com](https://baconipsum.com) (1), [vegetarianipsum.com](https://vegetarianipsum.com) (1)
 > **UI Navigation:** click on (2)
@@ -354,12 +351,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Adding a basic page
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-a-basic-page?u=76281980)
+#### [Adding a basic page](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-a-basic-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-a-basic-page?u=76281980&t=3)** - [Instructor] As I mentioned, there are two content types that come with Drupal out of the box.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-a-basic-page?u=76281980&t=3)** - [Instructor] As I mentioned, there are two content types that come with [[Drupal]] out of the box.
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-a-basic-page?u=76281980&t=8)** If you hover over Content and Add Content, you'll see that the article content type is one and we just completed an article called, "Welcome to Drupalville."
 >
@@ -407,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Drupal]] (1), data (1)
+> **Frameworks & Libraries:** [[Drupal]] (1)
 > **CLI Commands:** node (3)
 > **Analogies:** kind of like (1), such as (1)
 > **Env Vars:** pga (1)
@@ -415,8 +411,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Editing a node
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980)
+#### [Editing a node](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,9 +421,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980&t=13)** We have two nodes of the article content type and a node of the basic page content type.
 >
-> **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980&t=21)** And you'll know that I'm using the word node and content type and identifying the different content types.
+> **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980&t=21)** And you'll know that I'm using the [[Microsoft Word|word]] node and content type and identifying the different content types.
 >
-> **[0:26](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980&t=26)** This is the correct way to refer to these pages on a Drupal website.
+> **[0:26](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980&t=26)** This is the correct way to refer to these pages on a [[Drupal]] website.
 >
 > **[0:32](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/editing-a-node?u=76281980&t=32)** They're nodes of a particular content type.
 >
@@ -472,15 +467,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), [[Drupal]] (5), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (11), make (4)
 > **UI Navigation:** click on (3)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the WYSIWYG editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980)
+#### [Using the WYSIWYG editor](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,11 +482,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=6)** Now, WYSIWYG stands for, what you see is what you get.
 >
-> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=10)** And that's pretty true in Drupal 9.
+> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=10)** And that's pretty true in [[Drupal]] 9.
 >
 > **[0:13](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=13)** So I'm in my first Drupal Node, feel free to open that up and follow along.
 >
-> **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=18)** If you've used any kind of HTML editor before you're probably pretty familiar with the WYSIWYG Editor.
+> **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=18)** If you've used any kind of [[HTML]] editor before you're probably pretty familiar with the WYSIWYG Editor.
 >
 > **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=24)** Drupal uses CKEditor and has several different toolbars depending on the text format that you are using.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=77)** You get the idea, you select the text and you click the button.
 >
-> **[1:22](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=82)** To create a link I can highlight a word or a paragraph and click the create link button and I'll need to know the URL.
+> **[1:22](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=82)** To create a link I can highlight a [[Microsoft Word|word]] or a paragraph and click the create link button and I'll need to know the URL.
 >
 > **[1:30](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=90)** You should never put the full domain link of another node in here, simply because if you are working on say a test server and then push it to production, the links will break.
 >
@@ -570,7 +564,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=243)** I can click and observe the various HTML elements and of course again I can view the source.
 >
-> **[4:10](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=250)** With full HTML turned on I can embed some advanced HTML, like JavaScript, tables and classes to my tags and all kinds of things.
+> **[4:10](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=250)** With full HTML turned on I can embed some advanced HTML, like [[JavaScript]], tables and classes to my tags and all kinds of things.
 >
 > **[4:21](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=261)** So if you need to do any of that then you'll definitely want to make sure you are working in full HTML.
 >
@@ -606,11 +600,11 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=351)** So the WYSIWYG Editor is really helpful and enables me to quickly add formatting and other elements to my nodes.
 >
-> **[5:59](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=359)** Remember if you mess something up you always have version control to go back to a previous version of a node.
+> **[5:59](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/using-the-wysiwyg-editor?u=76281980&t=359)** Remember if you mess something up you always have [[Version Control]] to go back to a previous version of a node.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (18), [[Drupal]] (7), node (6), [[Microsoft Word|Word]] (3), hit (3)
+> **Frameworks & Libraries:** [[HTML]] (18), [[Drupal]] (7), [[Microsoft Word|Word]] (3), [[JavaScript]] (1), [[Version Control]] (1)
 > **Env Vars:** html (18), wysiwyg (5), url (1)
 > **CLI Commands:** make (7), node (6)
 > **UI Navigation:** select the (1), in the toolbar (1)
@@ -619,12 +613,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Best Practices:** you should never (1)
 
-#### Configuring text formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/configuring-text-formats?u=76281980)
+#### [Configuring text formats](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/configuring-text-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/configuring-text-formats?u=76281980&t=3)** - [Instructor] As I mentioned in the video on the WYSIWYG editor, Drupal offers three text formats out of the box, Basic HTML, Restricted HTML, and Full HTML.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/configuring-text-formats?u=76281980&t=3)** - [Instructor] As I mentioned in the video on the WYSIWYG editor, [[Drupal]] offers three text formats out of the box, Basic [[HTML]], Restricted HTML, and Full HTML.
 >
 > **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/configuring-text-formats?u=76281980&t=14)** Basic HTML gives you what it sounds like, basic HTML elements, like bold, italic, a link, unordered list, ordered list, et cetera.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (18), [[Drupal]] (2), node (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (18), [[Drupal]] (2)
 > **Env Vars:** html (18), wysiwyg (1)
 > **UI Navigation:** in the toolbar (1), click on (1), switch to (1), select the (1), scroll down (1)
 > **CLI Commands:** make (3), node (1)
@@ -709,8 +702,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
 
-#### Planning your content types
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/planning-your-content-types?u=76281980)
+#### [Planning your content types](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/planning-your-content-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/planning-your-content-types?u=76281980&t=8)** The news content type, which is just an update to the article content type to show that you can actually change and edit a pre-existing content type, adding fields, removing fields and creating new ways to use it.
 >
-> **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/planning-your-content-types?u=76281980&t=24)** A business directory with a name, description, a category for the business, an address that converts into a Google Map, a phone number, web address, featured video and file downloads.
+> **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/planning-your-content-types?u=76281980&t=24)** A business directory with a name, description, a category for the business, an address that converts into a [[Google]] Map, a phone number, web address, featured video and file downloads.
 >
 > **[0:35](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/planning-your-content-types?u=76281980&t=35)** The location content type which is going to be connected to our events content type, a name, description, category.
 >
@@ -732,11 +724,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Google]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating content types
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980)
+#### [Creating content types](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=27)** Now you'll notice as I typed, a machine name was added.
 >
-> **[0:31](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=31)** You cannot have a duplicate of any machine name across your entire Drupal site.
+> **[0:31](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=31)** You cannot have a duplicate of any machine name across your entire [[Drupal]] site.
 >
 > **[0:37](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=37)** If you did, Drupal would let you know that you can't use that name and request that you change the machine name to one that doesn't exist in the database already.
 >
@@ -776,7 +767,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=107)** Don't worry, we're going to talk about workflows and how to have sophisticated workflows and leave create new revision checked.
 >
-> **[1:55](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=115)** It's always good to have version control turned on on any given content type.
+> **[1:55](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=115)** It's always good to have [[Version Control]] turned on on any given content type.
 >
 > **[2:01](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/creating-content-types?u=76281980&t=121)** Click on display settings and uncheck display author and date information, really doesn't matter who the author was for a business listing.
 >
@@ -834,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Drupal]] (2), database (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), [[Version Control]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -844,8 +835,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fields explained: Introduction and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980)
+#### [Fields explained: Introduction and definitions](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980&t=74)** Well, again, other CMS's just can't do that.
 >
-> **[1:18](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980&t=78)** But Drupal does it incredibly well.
+> **[1:18](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980&t=78)** But [[Drupal]] does it incredibly well.
 >
 > **[1:20](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980&t=80)** When we use fields correctly.
 >
@@ -893,13 +883,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (2), cms (1), [[Drupal]] (1), database (1)
+> **Frameworks & Libraries:** [[Drupal]] (1)
 > **Cross-References:** we talked about (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cms (1)
 
-#### Adding fields to the business content type
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980)
+#### [Adding fields to the business content type](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=19)** We're going to add a logo some categorization using taxonomy will do that last.
 >
-> **[0:25](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=25)** An address field that will actually turn into a Google map, a phone number, a website address and then a featured video and file downloads fields.
+> **[0:25](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=25)** An address field that will actually turn into a [[Google]] map, a phone number, a website address and then a featured video and file downloads fields.
 >
 > **[0:34](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=34)** And we're going to add those to all four of our content types to give our visitors some consistency in what they can do on any given content type.
 >
@@ -919,7 +908,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=50)** And you'll notice we have a body field built in, let's go ahead and edit that label.
 >
-> **[0:56](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=56)** Click Edit on the operations button over here and change the label for the word body to business description.
+> **[0:56](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=56)** Click Edit on the operations button over here and change the label for the [[Microsoft Word|word]] body to business description.
 >
 > **[1:06](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=66)** You'll notice I'm using pretty descriptive labels here and that becomes important later on when we actually try and find some of these fields again.
 >
@@ -995,7 +984,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=352)** Go ahead and put a check mark in there, scroll down and click install.
 >
-> **[5:58](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=358)** Whenever you want to add a new feature to your Drupal site, well, there's probably a module for that.
+> **[5:58](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=358)** Whenever you want to add a new feature to your [[Drupal]] site, well, there's probably a module for that.
 >
 > **[6:04](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-business-content-type?u=76281980&t=364)** Let's head back over to Structure, Content Types, Business Directory, and Manage fields.
 >
@@ -1011,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (14), [[Google]] (3), [[Microsoft Word|Word]] (1), management (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Word|Word]] (1), [[Drupal]] (1)
 > **UI Navigation:** click on (5), select the (2), scroll down (2)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** png (1), gif (1), jpg (1), url (1)
@@ -1020,8 +1009,7 @@ created: 2026-05-02
 > **Code Identifiers:** field_business_phone (1)
 > **Warnings:** note that (1)
 
-#### Adding fields to the locations content type
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-locations-content-type?u=76281980)
+#### [Adding fields to the locations content type](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-locations-content-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1031,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-locations-content-type?u=76281980&t=45)** Let's add the address field in, click add field, select a field type.
 >
-> **[0:51](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-locations-content-type?u=76281980&t=51)** And once again, we're going to use text plane because we're going to convert this into a Google Map.
+> **[0:51](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-locations-content-type?u=76281980&t=51)** And once again, we're going to use text plane because we're going to convert this into a [[Google]] Map.
 >
 > **[0:57](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-locations-content-type?u=76281980&t=57)** Location address, click save and continue.
 >
@@ -1056,8 +1044,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding fields to the events content type
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-events-content-type?u=76281980)
+#### [Adding fields to the events content type](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-events-content-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1094,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-events-content-type?u=76281980&t=124)** So click add field, and this is going to be another reference field.
 >
-> **[2:08](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-events-content-type?u=76281980&t=128)** Now we've been entering media and in Drupal 7 they were called entity reference fields and they still are.
+> **[2:08](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-events-content-type?u=76281980&t=128)** Now we've been entering media and in [[Drupal]] 7 they were called entity reference fields and they still are.
 >
 > **[2:14](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/adding-fields-to-the-events-content-type?u=76281980&t=134)** These are the other entities on our sites and now I'm referencing those entities.
 >
@@ -1181,13 +1168,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Drupal]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the article content type
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/modifying-the-article-content-type?u=76281980)
+#### [Modifying the article content type](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/modifying-the-article-content-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/modifying-the-article-content-type?u=76281980&t=50)** As you remember, we added tags to our first two article nodes.
 >
-> **[0:55](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/modifying-the-article-content-type?u=76281980&t=55)** If I click on one of the tags, it takes me to a page that's actually a taxonomy landing page with the 10 most recent nodes tagged with that word.
+> **[0:55](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/modifying-the-article-content-type?u=76281980&t=55)** If I click on one of the tags, it takes me to a page that's actually a taxonomy landing page with the 10 most recent nodes tagged with that [[Microsoft Word|word]].
 >
 > **[1:06](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/modifying-the-article-content-type?u=76281980&t=66)** The problem with tags and taxonomy is this, the way it's set up in the article content type, we can add a new tag anytime we want simply just by adding a comma and then another tag.
 >
@@ -1267,8 +1253,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing your content types
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980)
+#### [Testing your content types](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,11 +1281,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=54)** Since this is an OSTraining video series, well, we're going to add, OSTraining as our first business.
 >
-> **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=62)** The business description, we teach people how to build great websites with Drupal.
+> **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=62)** The business description, we teach people how to build great websites with [[Drupal]].
 >
 > **[1:07](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=67)** Let's add a logo.
 >
-> **[1:10](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=70)** You can download the genuine OSTraining logo from the link on the screen, or you can grab something off of Google.
+> **[1:10](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=70)** You can download the genuine OSTraining logo from the link on the screen, or you can grab something off of [[Google]].
 >
 > **[1:17](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/testing-your-content-types?u=76281980&t=77)** This is the OSTraining Mascot.
 >
@@ -1412,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (16), [[Drupal]] (7), node (5), web (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[Google]] (1)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** safari (3)
 > **URLs:** [ostraining.com](https://ostraining.com) (1), [https://ostraining.com/drupal](https://ostraining.com/drupal) (1)

@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From React to React Native
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980)
+#### [From React to React Native](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980&t=0)** - [Instructor] If you've spent any time with React, you've probably heard about its little brother React Native.
+> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980&t=0)** - [Instructor] If you've spent any time with [[React.js|React]], you've probably heard about its little brother [[React Native]].
 >
-> **[0:06](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980&t=6)** This amazing framework is a great way to start building Native iOS and Android apps with your React knowledge.
+> **[0:06](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980&t=6)** This amazing framework is a great way to start building Native iOS and [[Android]] apps with your React knowledge.
 >
 > **[0:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980&t=12)** Hi, I'm Manny.
 >
@@ -102,29 +101,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), [[React Native]] (6), application (3), [[Android]] (1), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[React Native]] (6), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is the creation of a React Native application from a React project, experience developing with React is a must.
+> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is the creation of a [[React Native]] application from a [[React.js|React]] project, experience developing with React is a must.
 >
 > **[0:09](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=9)** If creating React components using props and importing modules are concepts that aren't familiar to you, I'd suggest you take a basic React course.
 >
-> **[0:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=19)** Also, experience with JavaScript is a must for this course, as this is the basis of a React programmer.
+> **[0:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=19)** Also, experience with [[JavaScript]] is a must for this course, as this is the basis of a React programmer.
 >
 > **[0:27](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=27)** And in this course, I use the Essex Syntax and above.
 >
-> **[0:31](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=31)** Finally, but not least, being familiar with terminal commands and npm isn't a must, but definitely will help you when we use these tools.
+> **[0:31](https://www.linkedin.com/learning/from-react-to-react-native-14332800/course-prerequisites?u=76281980&t=31)** Finally, but not least, being familiar with terminal commands and [[npm]] isn't a must, but definitely will help you when we use these tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (1), application (1), [[JavaScript]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (1), [[JavaScript]] (1), [[npm]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
 > **Tools:** terminal (1)
@@ -135,16 +133,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the React project
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980)
+#### [Introduction to the React project](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=0)** - [Instructor] In this video, we'll introduce you to the React base project that will convert into a React native application.
+> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=0)** - [Instructor] In this video, we'll introduce you to the [[React.js|React]] base project that will convert into a [[React Native]] application.
 >
 > **[0:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=7)** If you haven't done so already download the exercise files and extract them, then let's get to it.
 >
-> **[0:13](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=13)** The first thing that I would assume that you have installed in your system is node.js and therefore npm as well.
+> **[0:13](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=13)** The first thing that I would assume that you have installed in your system is [[Node.js]] and therefore [[npm]] as well.
 >
 > **[0:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=19)** If you don't, please go to [nodejs.org/English](https://nodejs.org/English) or whatever is the language you speak and then download the LTS version.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=168)** And now what I'm going to do is use the command that I just explained npx create-react-app, and then call this one news.
 >
-> **[3:01](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=181)** So first it's going to fetch the actual framework and then leverage the command that I just used from create-react-app.
+> **[3:01](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=181)** So first it's going to [[Fetch]] the actual framework and then leverage the command that I just used from create-react-app.
 >
 > **[3:10](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=190)** And if we minimize that window, we're going to see that the application is now being installed inside of our system.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=335)** And then you have a grid which has a component, which is the single item here.
 >
-> **[5:41](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=341)** And it repeats that single item, which is basically this HTML.
+> **[5:41](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=341)** And it repeats that single item, which is basically this [[HTML]].
 >
 > **[5:46](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=346)** And if we look back, this is what this application is.
 >
@@ -228,13 +225,13 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=362)** So we're loading the data on side of the app.js, building our state with it and then feeding it directly inside of our components that needs it.
 >
-> **[6:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=372)** So we're passing it to the grid and then our grid actually returns how many grid items that we have, or the single component here, how many times we have that data inside of the json file here.
+> **[6:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=372)** So we're passing it to the grid and then our grid actually returns how many grid items that we have, or the single component here, how many times we have that data inside of the [[JSON]] file here.
 >
 > **[6:26](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=386)** So I believe we have nine elements that are repeated from the data.
 >
 > **[6:33](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=393)** So the data is basically picked up from here, building our state with it and then feeding it inside of our components.
 >
-> **[6:41](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=401)** So the project is basically a list of courses from LinkedIn learning, built using React and materialize, which is a CSS framework.
+> **[6:41](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=401)** So the project is basically a list of courses from [[LinkedIn]] learning, built using React and materialize, which is a CSS framework.
 >
 > **[6:50](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980&t=410)** A basic application that will turn into a React native application.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), [[React.js|React]] (13), data (6), [[npm]] (5), [[React Native]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[npm]] (5), [[React Native]] (2), [[Node.js]] (1), [[Fetch]] (1)
 > **CLI Commands:** npm (5), npx (5), node (2), make (2), cd (1)
 > **Tools:** terminal (8), visual studio (3)
 > **Env Vars:** npx (4), lts (2), mpx (2), html (1), css (1)
@@ -251,12 +248,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (2), exercise files (1)
 > **UI Navigation:** go to (2)
 
-#### Initiate a React Native project
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980)
+#### [Initiate a React Native project](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=0)** - [Instructor] In this video, we'll get a React Native project started and get a mobile application running on iOS.
+> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=0)** - [Instructor] In this video, we'll get a [[React Native]] project started and get a mobile application running on iOS.
 >
 > **[0:06](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=6)** We'll also probably set up hot reloads so the app automatically updates as we make changes.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=34)** So basically this is the setup part.
 >
-> **[0:37](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=37)** And then what you need to do is scroll down and select React Native CLI Quickstart.
+> **[0:37](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=37)** And then what you need to do is scroll down and select React Native [[CLI]] Quickstart.
 >
 > **[0:43](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=43)** The reason why we're using this one is because this allows for the most customizable experience.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=72)** And basically what you want to do at this point, and I'm not going to go through every single stages because I'm not an expert on every single systems here.
 >
-> **[1:22](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=82)** So I'm a heavy user of Mac OS and I've done a little bit of Windows with Android, but basically, in this course, we're going to do Mac OS with iOS.
+> **[1:22](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=82)** So I'm a heavy user of Mac OS and I've done a little bit of [[Windows]] with [[Android]], but basically, in this course, we're going to do Mac OS with iOS.
 >
 > **[1:32](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=92)** So once you selected the operating system that you're on, then select the target OS, then go through all the installations here.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=108)** So follow the instructions based on your operating system and what is the target OS for the mobile application.
 >
-> **[1:55](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=115)** Once you've went through this, there are a few things that I want to mention for Xcode and iOS.
+> **[1:55](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=115)** Once you've went through this, there are a few things that I want to mention for [[Xcode]] and iOS.
 >
 > **[2:03](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=123)** So what you need to do once you've installed everything above here, what you need to do is open Xcode and go into the preferences.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=159)** You may also have to install a few things when you first open Xcode, if you've never opened it before.
 >
-> **[2:47](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=167)** So once you're done with all this, you've installed all this, you've installed CocoaPods, now it's time to start our first React application.
+> **[2:47](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=167)** So once you're done with all this, you've installed all this, you've installed CocoaPods, now it's time to start our first [[React.js|React]] application.
 >
 > **[2:56](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initiate-a-react-native-project?u=76281980&t=176)** So let's go ahead and minimize that.
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (22), [[React Native]] (8), [[Xcode]] (4), [[Android]] (3), mobile application (2)
+> **Frameworks & Libraries:** [[React Native]] (8), [[Xcode]] (4), [[Android]] (3), [[CLI]] (1), [[Windows]] (1)
 > **CLI Commands:** make (8), npx (5), node (1)
 > **UI Navigation:** go to (5), select the (2), click on (2), scroll down (1)
 > **Code Identifiers:** ios (6), newsnative (1)
@@ -415,26 +411,25 @@ created: 2026-05-02
 > **Tools:** terminal (3), command line (1)
 > **Documentation:** the documentation (2), the docs (1)
 
-#### Overview of the React web code
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980)
+#### [Overview of the React web code](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=0)** - [Instructor] In this video, we'll explore or current web project.
 >
-> **[0:03](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=3)** Its structure and its code to understand what we have to convert to React Native.
+> **[0:03](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=3)** Its structure and its code to understand what we have to convert to [[React Native]].
 >
 > **[0:08](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=8)** This way we'll be better suited to understand how to structure our React Native project.
 >
 > **[0:13](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=13)** Also keep in mind, if you don't have access to our exercise files and use your own project, understanding where we come from we'll give you a better understanding of how this applies to your own project.
 >
-> **[0:25](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=25)** So the React web project was built from a create-react-app.
+> **[0:25](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=25)** So the [[React.js|React]] web project was built from a create-react-app.
 >
 > **[0:29](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=29)** Therefore, the folder structure is minimal and we don't see most of the webpack settings and dependencies involved.
 >
 > **[0:36](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=36)** However, ejecting the React project, in this case, won't add any information we would need for the conversion.
 >
-> **[0:44](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=44)** So if we take a look at the file structure, we have the public folder where we have our index.html.
+> **[0:44](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=44)** So if we take a look at the file structure, we have the public folder where we have our index.[[HTML]].
 >
 > **[0:51](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=51)** We have our components.
 >
@@ -454,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=86)** So let's go ahead and go into the terminal and make sure that that project is running.
 >
-> **[1:31](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=91)** So do an npm start.
+> **[1:31](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=91)** So do an [[npm]] start.
 >
 > **[1:37](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=97)** And then make sure the application is running.
 >
@@ -556,7 +551,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=339)** And what I'm going to do is simply copy that one and paste it a couple of times.
 >
-> **[5:50](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=350)** 'Cause it's all strings for the rest of the prop types.
+> **[5:50](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=350)** 'Cause it's all strings for the [[Representational State Transfer (REST)|rest]] of the prop types.
 >
 > **[5:55](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-web-code?u=76281980&t=355)** So views.
 >
@@ -582,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), web (5), [[React Native]] (4), [[React.js|React]] (4), data (3)
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (4), [[HTML]] (1), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (17), npm (1)
 > **File Paths:** app.css (4), index.css (2), app.js (2), index.html (1), index.js (1)
 > **Code Identifiers:** release_date (1), released_date (1)
@@ -591,12 +586,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 
-#### Overview of the React Native structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-native-structure?u=76281980)
+#### [Overview of the React Native structure](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-native-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-native-structure?u=76281980&t=0)** - [Instructor] In this video, we'll explore our React Native folder structure and add our source folder and the first component.
+> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-native-structure?u=76281980&t=0)** - [Instructor] In this video, we'll explore our [[React Native]] folder structure and add our source folder and the first component.
 >
 > **[0:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/overview-of-the-react-native-structure?u=76281980&t=7)** So let's get to it.
 >
@@ -714,7 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), web (3), [[React Native]] (2), css (2)
+> **Frameworks & Libraries:** [[React Native]] (2)
 > **File Paths:** app.js (2), app.css (1), index.css (1)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
@@ -727,8 +721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initial setup of extra libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980)
+#### [Initial setup of extra libraries](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +731,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=9)** So if you don't have the application running right now, make sure that you go into the terminal and I'm going to bring it by doing control gravity, or you can bring it by clicking on terminal, new terminal.
 >
-> **[0:22](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=22)** And once you have it, as you can see our already have my application running, but if you don't, what you could do is do MPX React Native, run iOS or run Android.
+> **[0:22](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=22)** And once you have it, as you can see our already have my application running, but if you don't, what you could do is do MPX [[React Native]], run iOS or run [[Android]].
 >
 > **[0:36](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=36)** Once this is running, this is what you should see and welcome to your application is the last thing that we've done with the application.
 >
@@ -784,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=185)** So if you wonder if you have them inside of the package.Jason, you just take a look and these are in there.
 >
-> **[3:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=192)** The next thing I want to explore and make sure that you understand is the app.json file here.
+> **[3:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=192)** The next thing I want to explore and make sure that you understand is the app.[[JSON]] file here.
 >
 > **[3:18](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=198)** So this file is basically what is the name of your application?
 >
@@ -792,7 +785,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=216)** And this is where you change that name.
 >
-> **[3:39](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=219)** So this is the metadata, where you can actually change the internal name of the application, but the display name is the display name here.
+> **[3:39](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=219)** So this is the [[Metadata]], where you can actually change the internal name of the application, but the display name is the display name here.
 >
 > **[3:49](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=229)** So if you change this to something else, you're going to see something else in here.
 >
@@ -830,7 +823,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=330)** And I'm going to leverage paper provider and then inside of it, I'm going to insert the app component like so.
 >
-> **[5:46](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=346)** And right now, if you're seeing errors like this, this is basically ESLint telling me that I don't have enough space or I'm not using the proper space.
+> **[5:46](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=346)** And right now, if you're seeing errors like this, this is basically [[ESLint]] telling me that I don't have enough space or I'm not using the proper space.
 >
 > **[5:55](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980&t=355)** I'm not going to pay attention to my space that I'm using tabs or spaces inside of the application.
 >
@@ -860,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (23), [[React Native]] (11), next (3), [[Android]] (1), web application (1)
+> **Frameworks & Libraries:** [[React Native]] (11), [[Android]] (1), [[JSON]] (1), [[Metadata]] (1), [[ESLint]] (1)
 > **Prerequisites:** install (7), set up (5)
 > **CLI Commands:** make (4), npx (1)
 > **Tools:** terminal (5)
@@ -869,8 +862,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), open the (1)
 > **File Paths:** app.json (1)
 
-#### Create a FlatList component
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980)
+#### [Create a FlatList component](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=53)** And what I'm going to do is even remove the styles because we're going to add our own styles later on, after we've done the actual application or added all the components inside of our view.
 >
-> **[1:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=67)** So I'm going to go ahead and literally remove everything all the way up to the imports right here and just leave React.
+> **[1:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=67)** So I'm going to go ahead and literally remove everything all the way up to the imports right here and just leave [[React.js|React]].
 >
 > **[1:16](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=76)** And what I'm going to do is start creating our main application here.
 >
@@ -906,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=102)** So I'm going to start with a view.
 >
-> **[1:45](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=105)** So the first thing you need inside of a React application, a React Native application actually, is a view.
+> **[1:45](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=105)** So the first thing you need inside of a React application, a [[React Native]] application actually, is a view.
 >
 > **[1:51](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=111)** So if you're going to have multiple elements inside of the application, you need a top level component.
 >
@@ -920,7 +912,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=142)** And it's better. It has a better performance.
 >
-> **[2:25](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=145)** And now it has a better structure, how you actually compose it.
+> **[2:25](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=145)** And now it has a better structure, how you actually [[Jetpack Compose|compose]] it.
 >
 > **[2:29](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=149)** So let's go ahead and do that.
 >
@@ -944,7 +936,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=204)** So basically this is what we need because we need a list of all the courses that we have inside of our data.
 >
-> **[3:30](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=210)** So if we look back at our data here and courses.JSON, we have multiple elements that we need to repeat inside of a list, and this is what the FlatList is for.
+> **[3:30](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=210)** So if we look back at our data here and courses.[[JSON]], we have multiple elements that we need to repeat inside of a list, and this is what the FlatList is for.
 >
 > **[3:41](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-a-flatlist-component?u=76281980&t=221)** So let's go ahead and start creating our FlatList and we need a few things, or it takes a few props.
 >
@@ -1000,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), application (11), [[React Native]] (3), [[React.js|React]] (2), functional (2)
+> **Frameworks & Libraries:** [[React Native]] (3), [[React.js|React]] (2), [[JSON]] (2), [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** json (2)
 > **Cross-References:** in the next (1), next chapter (1)
@@ -1009,8 +1001,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the action and button link
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980)
+#### [Create the action and button link](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,13 +1021,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=31)** So I'm going to create that first and I'm going to call that application handleClick.
 >
-> **[0:39](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=39)** So that needs a link and then we need something from React Native in order to actually use a linking function inside of React Native, we need to import the actual Linking from React Native, this guy.
+> **[0:39](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=39)** So that needs a link and then we need something from [[React Native]] in order to actually use a linking function inside of React Native, we need to import the actual Linking from React Native, this guy.
 >
 > **[0:59](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=59)** So let's go ahead and do that.
 >
 > **[1:01](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=61)** So once we have that, we can actually create a linking function.
 >
-> **[1:05](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=65)** So this method allow us to create a link inside of iOS and Android with a simple function.
+> **[1:05](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=65)** So this method allow us to create a link inside of iOS and [[Android]] with a simple function.
 >
 > **[1:14](https://www.linkedin.com/learning/from-react-to-react-native-14332800/create-the-action-and-button-link?u=76281980&t=74)** So let's go ahead and do this.
 >
@@ -1096,7 +1087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (6), application (5), web application (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[React Native]] (6), [[Android]] (1)
 > **UI Navigation:** open the (3), click on (2)
 > **Code Identifiers:** handleclick (2), ios (1)
 > **Env Vars:** url (3)
@@ -1104,14 +1095,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add new element in the listing
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/challenge-add-new-element-in-the-listing?u=76281980)
+#### [Challenge: Add new element in the listing](https://www.linkedin.com/learning/from-react-to-react-native-14332800/challenge-add-new-element-in-the-listing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/challenge-add-new-element-in-the-listing?u=76281980&t=0)** - [Instructor] Okay, so I have a challenge for you.
 >
-> **[0:09](https://www.linkedin.com/learning/from-react-to-react-native-14332800/challenge-add-new-element-in-the-listing?u=76281980&t=9)** Now that we have one element rendering, how would you go about rendering a second element from the list of items from our data in React Native?
+> **[0:09](https://www.linkedin.com/learning/from-react-to-react-native-14332800/challenge-add-new-element-in-the-listing?u=76281980&t=9)** Now that we have one element rendering, how would you go about rendering a second element from the list of items from our data in [[React Native]]?
 >
 > **[0:18](https://www.linkedin.com/learning/from-react-to-react-native-14332800/challenge-add-new-element-in-the-listing?u=76281980&t=18)** So if we go into Explore and then go into our data, we have multiple elements here.
 >
@@ -1125,13 +1115,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[React Native]] (1), next (1)
+> **Frameworks & Libraries:** [[React Native]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add new element in the listing
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/solution-add-new-element-in-the-listing?u=76281980)
+#### [Solution: Add new element in the listing](https://www.linkedin.com/learning/from-react-to-react-native-14332800/solution-add-new-element-in-the-listing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,14 +1156,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Options for styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980)
+#### [Options for styling](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=0)** - [Instructor] In this chapter, we're going to start working on styling our application to look more like the original web app, leveraging paper, and also changing some steps.
 >
-> **[0:09](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=9)** But what are the options available for styling in React Native?
+> **[0:09](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=9)** But what are the options available for styling in [[React Native]]?
 >
 > **[0:13](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=13)** Let's explore that a little bit.
 >
@@ -1182,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=20)** So we had the actual styles here inside of our application, and the way to do this, it's basically to create a variable.
 >
-> **[0:28](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=28)** So you would create a variable called styles and then leveraging the style sheet from React Native, you would create a new style sheet inside of React directly, here.
+> **[0:28](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=28)** So you would create a variable called styles and then leveraging the style sheet from React Native, you would create a new style sheet inside of [[React.js|React]] directly, here.
 >
 > **[0:43](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980&t=43)** And then insert your style in here.
 >
@@ -1242,7 +1230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (4), css (3), application (2), web (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (1)
 > **File Paths:** index.css (2), app.css (1), appstyles.js (1), app.js (1)
 > **Env Vars:** css (3), jss (1)
 > **CLI Commands:** make (2)
@@ -1251,8 +1239,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a bar and update card listing
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980)
+#### [Add a bar and update card listing](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1247,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=5)** And if you're wondering, what is this library, this is where you can actually reach it.
 >
-> **[0:10](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=10)** Callstack.[github.IO/react-native-paper](https://github.IO/react-native-paper).
+> **[0:10](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=10)** Callstack.[[[GitHub]].IO/[[React.js|react]]-native-paper](https://github.IO/react-native-paper).
 >
 > **[0:16](https://www.linkedin.com/learning/from-react-to-react-native-14332800/add-a-bar-and-update-card-listing?u=76281980&t=16)** And on that page, you're going to see some examples and code snippets.
 >
@@ -1418,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[GitHub]] (1), [[React.js|React]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[React.js|React]] (1)
 > **Env Vars:** url (2), uri (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1)
@@ -1427,8 +1414,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finalize the styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980)
+#### [Finalize the styles](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,7 +1424,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=17)** And that's exactly what we're going to do.
 >
-> **[0:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=19)** Now, how does tiles work inside of React Native?
+> **[0:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=19)** Now, how does tiles work inside of [[React Native]]?
 >
 > **[0:24](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=24)** Basically by leveraging the stylesheet.create function inside of React Native, you basically have access to CSS styles that you're familiar with as a web developer.
 >
@@ -1502,7 +1488,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=182)** And now you can see the styles applied to your application.
 >
-> **[3:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=187)** If something doesn't show after that, my recommendation to you is to go back into the terminal and do NPX React Native run iOS or run Android to rebuild the application and basically make it anew.
+> **[3:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=187)** If something doesn't show after that, my recommendation to you is to go back into the terminal and do NPX React Native run iOS or run [[Android]] to rebuild the application and basically make it anew.
 >
 > **[3:27](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=207)** That command fixes a lot of issues.
 >
@@ -1522,7 +1508,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=252)** So let's go ahead and fix that.
 >
-> **[4:14](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=254)** We need to basically import React inside of index to be able to create a component.
+> **[4:14](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=254)** We need to basically import [[React.js|React]] inside of index to be able to create a component.
 >
 > **[4:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/finalize-the-styles?u=76281980&t=259)** So let's go ahead and do that.
 >
@@ -1536,7 +1522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), css (6), [[React Native]] (5), [[React.js|React]] (3), web (1)
+> **Frameworks & Libraries:** [[React Native]] (5), [[React.js|React]] (3), [[Android]] (1)
 > **Env Vars:** css (6), ncss (1), npx (1)
 > **Code Identifiers:** margintop (2), ios (1)
 > **File Paths:** app.css (2)
@@ -1549,8 +1535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debug options
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980)
+#### [Debug options](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1543,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=7)** Let's get to it.
 >
-> **[0:08](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=8)** So like we've done before, if you want to see the Debug tool, you can do that by doing Command + D in the iOS app, and for the Android app, it's Control + M.
+> **[0:08](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=8)** So like we've done before, if you want to see the Debug tool, you can do that by doing Command + D in the iOS app, and for the [[Android]] app, it's Control + M.
 >
 > **[0:19](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=19)** Once you're here, you have several items that you can use.
 >
@@ -1570,9 +1555,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=36)** Let's bring it again.
 >
-> **[0:38](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=38)** Now, debug with Chrome, what it does for you, it allows to debug in JavaScript inside of the browser, pretty much like when you're debugging a web application.
+> **[0:38](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=38)** Now, debug with Chrome, what it does for you, it allows to debug in [[JavaScript]] inside of the browser, pretty much like when you're debugging a web application.
 >
-> **[0:50](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=50)** So it gives you access to react native tools, such as the state, or tools that will allow you to see components from the web browser perspective.
+> **[0:50](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=50)** So it gives you access to [[React Native]] tools, such as the state, or tools that will allow you to see components from the web browser perspective.
 >
 > **[1:02](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980&t=62)** Show Inspector basically shows you the actual inspectors.
 >
@@ -1606,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Debugging]] (2), web (2), [[Android]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[JavaScript]] (1), [[React Native]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** ios (1)
@@ -1619,12 +1604,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=0)** - [Instructor] This course was a quick demonstration of how you could convert a React by project, into our React Native project.
+> **[0:00](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=0)** - [Instructor] This course was a quick demonstration of how you could convert a [[React.js|React]] by project, into our [[React Native]] project.
 >
 > **[0:08](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=8)** However, we've just scratched the surface with React Native.
 >
@@ -1642,15 +1626,15 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=50)** Also, we've used iOS as our simulator.
 >
-> **[0:53](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=53)** You could also do more testing in Android and take a look at the nuances in between the two.
+> **[0:53](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=53)** You could also do more testing in [[Android]] and take a look at the nuances in between the two.
 >
 > **[0:59](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=59)** React Native has great resources when you need some help, you can find answers to your problems on Stack Overflow.
 >
 > **[1:05](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=65)** You can also reach out and chat with the community on the Reactiflux channel on Discord.
 >
-> **[1:11](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=71)** Finally, if you find bugs on the library, always report it to the GitHub repo.
+> **[1:11](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=71)** Finally, if you find bugs on the library, always report it to the [[GitHub]] repo.
 >
-> **[1:18](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=78)** If you felt lost at any point during this course, there are a few LinkedIn learning courses on React Native and React that can help you push your skills further.
+> **[1:18](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=78)** If you felt lost at any point during this course, there are a few [[LinkedIn]] learning courses on React Native and React that can help you push your skills further.
 >
 > **[1:28](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980&t=88)** And of course, the Facebook docs on these two amazing libraries.
 >
@@ -1660,7 +1644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (5), [[React.js|React]] (4), next (1), management (1), data (1)
+> **Frameworks & Libraries:** [[React Native]] (5), [[React.js|React]] (4), [[Android]] (1), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** discord (1), github (1)
 > **Code Identifiers:** ios (1)

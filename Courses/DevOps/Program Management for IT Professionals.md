@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Program management at a high level
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/program-management-at-a-high-level?u=76281980)
+#### [Program management at a high level](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/program-management-at-a-high-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,12 +114,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), hit (1), business (1)
 > **Analogies:** picture (2)
 > **Speakers:** - have (1)
 
-#### What you should already know
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-you-should-already-know?u=76281980)
+#### [What you should already know](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-you-should-already-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +141,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3)
 > **Env Vars:** pmi (1)
 > **Speakers:** - the (1)
 
@@ -153,8 +149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is program management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980)
+#### [What is program management?](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980&t=58)** To best understand programs and program management, you need to first understand projects and project management.
 >
-> **[1:05](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980&t=65)** Projects are temporary efforts to create unique products, services, or results.
+> **[1:05](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980&t=65)** Projects are temporary efforts to create unique [[Microsoft Products|products]], services, or results.
 >
 > **[1:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980&t=70)** They have defined timelines, budgets, and deliverables.
 >
@@ -214,14 +209,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), data (3), [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** erp (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### What is the role of a program manager?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980)
+#### [What is the role of a program manager?](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,9 +237,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980&t=63)** Aligning the two groups from inception to delivery.
 >
-> **[1:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980&t=66)** This is where organizational change management skills come in handy.
+> **[1:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980&t=66)** This is where [[Organizational Change Management]] skills come in handy.
 >
-> **[1:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980&t=70)** If you're interested in learning more about OCM, I have another course on LinkedIn Learning you should check out.
+> **[1:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980&t=70)** If you're interested in learning more about OCM, I have another course on [[LinkedIn]] Learning you should check out.
 >
 > **[1:16](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-the-role-of-a-program-manager?u=76281980&t=76)** Program managers are also responsible for resource optimization, including efficient use of resources, including budgets, technical expertise, tools, and so on.
 >
@@ -275,15 +269,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), business (2), next (2), leadership (1), [[Organizational Change Management]] (1)
+> **Frameworks & Libraries:** [[Organizational Change Management]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ocm (1), erp (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (1)
 > **Speakers:** - program (1)
 
-#### What skills and traits should program managers possess?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980)
+#### [What skills and traits should program managers possess?](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=116)** This helps 'em ask the right questions, think about what's possible, and make informed decisions.
 >
-> **[2:02](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=122)** Being familiar with concepts like Agile, Scrum, DevOps, environments and release management, and various testing scenarios such as usability, performance, regression, and user acceptance will only help.
+> **[2:02](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=122)** Being familiar with concepts like [[Agile Development|Agile]], [[Scrum]], [[DevOps]], environments and release management, and various testing scenarios such as usability, performance, regression, and user acceptance will only help.
 >
 > **[2:17](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=137)** When IT project teams know someone with an IT background is leading the program, it builds trust and fosters collaboration across teams.
 >
@@ -345,7 +338,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=186)** Programs are often lengthy and subject to changing priorities, technologies, or market conditions.
 >
-> **[3:12](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=192)** Program managers need to excel at identifying potential risks and adapting plans when needed to ensure program objectives remain achievable.
+> **[3:12](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=192)** Program managers need to [[Microsoft Excel|excel]] at identifying potential risks and adapting plans when needed to ensure program objectives remain achievable.
 >
 > **[3:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-skills-and-traits-should-program-managers-possess?u=76281980&t=201)** To do that, program managers need strong analytical abilities to uncover interdependencies, assess impacts, and devise creative solutions.
 >
@@ -365,15 +358,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), management (2), leadership (2), [[Agile Development|Agile]] (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Scrum]] (1), [[DevOps]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** picture (2), such as (1), for example (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### Careers in program management
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980)
+#### [Careers in program management](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,11 +377,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=15)** You're not playing the instruments, but you're ensuring everyone is in sync and delivering something incredible together.
 >
-> **[0:22](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=22)** This could mean managing a program in software development, infrastructure upgrades, or a digital transformation.
+> **[0:22](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=22)** This could mean managing a program in [[Software Development]], infrastructure upgrades, or a [[Digital Transformation]].
 >
 > **[0:28](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=28)** The beauty of program management is its versatility.
 >
-> **[0:32](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=32)** It's a role where you can flex your technical background but also leverage skills like strategic planning, communication, and team leadership.
+> **[0:32](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=32)** It's a role where you can flex your technical background but also leverage skills like strategic planning, communication, and [[Team Leadership]].
 >
 > **[0:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=40)** Variety is what makes this career exciting.
 >
@@ -403,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=69)** Be on the lookout for some specific words that are often used in titles for IT program manager jobs, such as transformation, portfolio, coordinator, delivery, strategic, integration, enterprise, lead, and director, which reminds me, career growth is another major perk.
 >
-> **[1:30](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=90)** Many program managers move into executive roles such as director or vice president because the skills you develop from strategic thinking and risk management to stakeholder engagement are highly transferable and valued at the leadership level.
+> **[1:30](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=90)** Many program managers move into executive roles such as director or vice president because the skills you develop from [[Strategic Thinking]] and risk management to [[Stakeholder Engagement]] are highly transferable and valued at the leadership level.
 >
 > **[1:44](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/careers-in-program-management?u=76281980&t=104)** And I can assure you, there aren't many CIOs out there without some program management experience.
 >
@@ -447,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), career (4), leadership (2), next (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Digital Transformation]] (1), [[Team Leadership]] (1), [[Strategic Thinking]] (1), [[Stakeholder Engagement]] (1)
 > **Env Vars:** pmp (2), ccmp (2)
 > **Analogies:** such as (2), picture (1), think of it as (1)
 > **CLI Commands:** make (1)
@@ -458,8 +450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing your program concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980)
+#### [Developing your program concept](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +488,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=128)** Collaboration at this stage builds trust and helps secure the resources and support you need for the program to succeed.
 >
-> **[2:15](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=135)** So be sure to involve your organizational change management team.
+> **[2:15](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=135)** So be sure to involve your [[Organizational Change Management]] team.
 >
 > **[2:19](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=139)** Defining the program's scope is all about setting clear boundaries, what's included, what's not, and why.
 >
@@ -517,7 +508,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=187)** A strong governance structure keeps everything on track.
 >
-> **[3:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=190)** Whether it's a steering committee or regular progress reports, you need ways to hold people accountable, and choosing the right management framework like Agile, SAFe, or PMI standards ensures the program is executed in a way that suits its unique needs and goals.
+> **[3:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=190)** Whether it's a steering committee or regular progress reports, you need ways to hold people accountable, and choosing the right management framework like [[Agile Development|Agile]], SAFe, or PMI standards ensures the program is executed in a way that suits its unique needs and goals.
 >
 > **[3:27](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980&t=207)** Finally, capture all of this in a clear, well-organized document, the program charter.
 >
@@ -529,14 +520,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), leadership (1), business (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Organizational Change Management]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** picture (1), such as (1), for instance (1)
 > **Env Vars:** pmi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - programs (1)
 
-#### Building a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980)
+#### [Building a business case](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=50)** Next, link the program to the organization's broader objectives.
 >
-> **[0:55](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=55)** Is it driving digital transformation, improving customer experience, increasing revenue?
+> **[0:55](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=55)** Is it driving [[Digital Transformation]], improving customer experience, increasing revenue?
 >
 > **[1:01](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=61)** Show how the program supports these goals.
 >
@@ -566,9 +556,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=73)** Use clear language and avoid technical jargon that might confuse non-technical stakeholders.
 >
-> **[1:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=78)** For example, describe how moving to cloud-based systems improve scalability and reduces downtime.
+> **[1:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=78)** For example, describe how moving to cloud-based systems improve [[Scalability]] and reduces downtime.
 >
-> **[1:25](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=85)** Then provide a detailed financial analysis, including upfront costs, ongoing expenses, and potential savings.
+> **[1:25](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=85)** Then provide a detailed [[Financial Analysis]], including upfront costs, ongoing expenses, and potential savings.
 >
 > **[1:33](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=93)** Highlight benefits like increased efficiency, reduced risk, or new business opportunities.
 >
@@ -590,7 +580,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=142)** Emphasize the measurable value it will deliver to the organization, from cost savings to improved performance and strategic growth.
 >
-> **[2:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=149)** Then, add it to the beginning of the business case as well to draw readers in to read the rest.
+> **[2:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=149)** Then, add it to the beginning of the business case as well to draw readers in to read the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-a-business-case?u=76281980&t=155)** Finally, include any relevant reference materials in an appendix.
 >
@@ -600,7 +590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (3), data (1), [[Digital Transformation]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Scalability]] (1), [[Financial Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -608,8 +598,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - to (1)
 
-#### Creating a program charter
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/creating-a-program-charter?u=76281980)
+#### [Creating a program charter](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/creating-a-program-charter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,14 +676,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2), data (1), teams (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - once (1)
 
-#### What about a program slide deck?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-about-a-program-slide-deck?u=76281980)
+#### [What about a program slide deck?](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-about-a-program-slide-deck?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,14 +733,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), data (1)
 > **Analogies:** for example (1), kind of like (1)
 > **CLI Commands:** make (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - a (1)
 
-#### Putting it all together: Program concept development
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980)
+#### [Putting it all together: Program concept development](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=30)** For example, Globe Bank International and the bank they acquired each had a customers database.
 >
-> **[0:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=35)** When Globe wanted to send out a mailing, it pulled names and addresses from both databases.
+> **[0:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=35)** When Globe wanted to send out a mailing, it pulled names and addresses from both [[Databases]].
 >
 > **[0:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=40)** This was fine for individuals who were customers of one bank or the other, but what about those who were customers of both banks?
 >
@@ -795,11 +780,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=113)** But also the bank branch managers were brought in to train their staffs on using one database instead of two.
 >
-> **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=119)** Even human resources were looped in to update job descriptions to reflect the changes.
+> **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=119)** Even [[Human Resources (HR)|human resources]] were looped in to update job descriptions to reflect the changes.
 >
 > **[2:04](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=124)** This ensured that the program reflected the needs of those who would be most affected and built trust across teams.
 >
-> **[2:11](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=131)** The organizational change management team played a critical role in addressing concerns early, helping to secure buy-in and smooth potential resistance to the upcoming changes.
+> **[2:11](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=131)** The [[Organizational Change Management]] team played a critical role in addressing concerns early, helping to secure buy-in and smooth potential resistance to the upcoming changes.
 >
 > **[2:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=141)** To win executive approval and funding, the team developed a compelling business case that painted a clear picture of the problem.
 >
@@ -809,7 +794,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=161)** The proposed solution, migrating to a unified cloud-based system, promised significant benefits.
 >
-> **[2:48](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=168)** Scalability and reduced downtime would improve operations, and the company was projected to save half a million dollars annually.
+> **[2:48](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=168)** [[Scalability]] and reduced downtime would improve operations, and the company was projected to save half a million dollars annually.
 >
 > **[2:56](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-concept-development?u=76281980&t=176)** Callie Smith, the program manager, highlighted the potential risks, like vendor reliability and resistance to change.
 >
@@ -833,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), teams (3), [[Analytics]] (2), cloud (2), business (2)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Human Resources (HR)|Human resources]] (1), [[Organizational Change Management]] (1), [[Scalability]] (1)
 > **Env Vars:** erp (2), crm (2), cio (1)
 > **Analogies:** for example (1), for instance (1), such as (1), picture (1)
 > **Speakers:** - in (1)
@@ -843,8 +828,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making your program the top priority
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980)
+#### [Making your program the top priority](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=81)** When people feel like they're part of the process, they're much more invested in its success.
 >
-> **[1:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=86)** As I said before, organizational change management will help.
+> **[1:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=86)** As I said before, [[Organizational Change Management]] will help.
 >
 > **[1:30](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=90)** Tailor your messages to various audiences.
 >
@@ -898,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=114)** Share updates regularly and don't underestimate the power of visuals.
 >
-> **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=119)** Dashboards and graphs can make your case more compelling.
+> **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=119)** [[Dashboards]] and graphs can make your case more compelling.
 >
 > **[2:02](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=122)** Next, start with a phased approach that delivers those quick wins We talked about.
 >
@@ -910,7 +894,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=144)** Speaking of, recruit a few advocates across different parts of the organization.
 >
-> **[2:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=149)** These are the people who can spread word, address resistance and keep the energy high.
+> **[2:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=149)** These are the people who can spread [[Microsoft Word|word]], address resistance and keep the energy high.
 >
 > **[2:34](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980&t=154)** If you've turned a resistor into a supporter, they will get other resistors to convert, so definitely recruit them.
 >
@@ -932,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), leadership (1), [[Organizational Change Management]] (1), teams (1), power (1)
+> **Frameworks & Libraries:** [[Organizational Change Management]] (1), [[Dashboards]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** roi (2)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
@@ -941,8 +925,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - getting (1)
 
-#### Monitoring progress using key performance metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980)
+#### [Monitoring progress using key performance metrics](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,13 +953,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=53)** For example, tracking server response time is great, but it's most valuable when it shows whether performance optimizations are working.
 >
-> **[1:01](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=61)** A steady decrease in response time following hardware upgrades could confirm you're already on the right path.
+> **[1:01](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=61)** A steady decrease in response time following [[Hardware]] upgrades could confirm you're already on the right path.
 >
 > **[1:07](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=67)** While a spike might signal the need for further analysis or a new strategy completely.
 >
 > **[1:12](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=72)** This sounds obvious, but it's important enough to bear repeating.
 >
-> **[1:16](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=76)** Use dashboards and automation to collect and present data in real time whenever possible.
+> **[1:16](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=76)** Use [[Dashboards]] and automation to collect and present data in real time whenever possible.
 >
 > **[1:22](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/monitoring-progress-using-key-performance-metrics?u=76281980&t=82)** This not only helps you stay on top of trends, but also makes it easier to catch and address problems before they escalate.
 >
@@ -1004,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Hardware]] (1), [[Dashboards]] (1), [[Automation]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Dashboards]] (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
@@ -1012,8 +995,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - in (1)
 
-#### Selecting methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980)
+#### [Selecting methodologies](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=8)** There are a lot of IT methodologies to choose from.
 >
-> **[0:11](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=11)** Some of the more popular ones include Agile, Scrum, Waterfall, ITIL, DevOps, and there are a few more here on screen.
+> **[0:11](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=11)** Some of the more popular ones include [[Agile Development|Agile]], [[Scrum]], Waterfall, [[ITIL]], [[DevOps]], and there are a few more here on screen.
 >
 > **[0:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=21)** Every organization has unique challenges and people with varying skillsets.
 >
@@ -1031,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=31)** Having standard methodologies in place is important because it brings order to chaos, especially when juggling complex projects, tight deadlines, and cross-functional teams.
 >
-> **[0:42](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=42)** Choosing the right methodology not only streamlines workflows, but also ensures quality, predictability, and scalability, helping organizations deliver value with confidence.
+> **[0:42](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=42)** Choosing the right methodology not only streamlines workflows, but also ensures quality, predictability, and [[Scalability]], helping organizations deliver value with confidence.
 >
 > **[0:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/selecting-methodologies?u=76281980&t=53)** But just as important as choosing the right methodology from the beginning is ensuring it's the only methodology used for its intended purpose.
 >
@@ -1065,15 +1047,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Scrum]] (2), [[Agile Development|Agile]] (1), [[ITIL]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Agile Development|Agile]] (1), [[ITIL]] (1), [[DevOps]] (1), [[Scalability]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** itil (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Setting program standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/setting-program-standards?u=76281980)
+#### [Setting program standards](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/setting-program-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,14 +1106,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), teams (1)
 > **Analogies:** such as (2), for example (2), it's like (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
 > **Speakers:** - one (1)
 
-#### Identifying and managing stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980)
+#### [Identifying and managing stakeholders](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,13 +1141,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=92)** While project managers and teams require more operational details to coordinate interdependencies and mitigate risks.
 >
-> **[1:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=100)** That word, interdependencies, we'll be coming back to that in a future video because it's the heart and soul of program management.
+> **[1:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=100)** That [[Microsoft Word|word]], interdependencies, we'll be coming back to that in a future video because it's the heart and soul of program management.
 >
 > **[1:48](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=108)** Governance is another critical aspect.
 >
 > **[1:51](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=111)** With a project, there's usually only one sponsor to keep happy, but with a program, you need a structured framework, like a steering committee to ensure alignment and have a platform to address concerns and conflicts.
 >
-> **[2:04](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=124)** Regular check-ins and milestone reviews are necessary, not just for transparency, but also for reinforcing accountability.
+> **[2:04](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=124)** Regular check-ins and milestone reviews are necessary, not just for transparency, but also for reinforcing [[Accountability]].
 >
 > **[2:12](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/identifying-and-managing-stakeholders?u=76281980&t=132)** One of the most challenging aspects at the program level is addressing conflicting interests.
 >
@@ -1190,14 +1169,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), teams (1), [[Microsoft Word|Word]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Accountability]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - unlike (1)
 
-#### Building and managing a team of teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980)
+#### [Building and managing a team of teams](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,17 +1201,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=75)** Conflicts often arise when teams juggle competing priorities or duplicate efforts.
 >
-> **[1:20](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=80)** If you don't already have one, establish a central program management office, or PMO, or a steering committee to resolve discrepancies.
+> **[1:20](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=80)** If you don't already have one, establish a central program management [[Microsoft Office|office]], or PMO, or a steering committee to resolve discrepancies.
 >
 > **[1:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=89)** A higher authority making decisions will keep the team from infighting and undermining each other.
 >
 > **[1:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=95)** Ensure everyone is up to speed on the methodologies selected and the program standards previously defined.
 >
-> **[1:41](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=101)** For example, if the development teams will be using Agile, the other teams who may not be familiar with Agile principles may need some training.
+> **[1:41](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=101)** For example, if the development teams will be using [[Agile Development|Agile]], the other teams who may not be familiar with Agile principles may need some training.
 >
 > **[1:49](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=109)** That can be done with some internal workshops to get them familiar, or with an actual course.
 >
-> **[1:55](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=115)** And there are dozens of courses on Agile right here on LinkedIn Learning.
+> **[1:55](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=115)** And there are dozens of courses on Agile right here on [[LinkedIn]] Learning.
 >
 > **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=119)** Teams may have different reporting structures or levels of authority, so ensure that all teams understand their role within the larger program and how decisions will be made.
 >
@@ -1253,21 +1231,20 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=163)** That kind of approach eventually leads to the rumor mill, which is destructive in cross-team environments because teams are loyal to their leaders and keep their secrets.
 >
-> **[2:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=173)** Obviously, everything can't be shared, but having a share-everything mindset instead of a need-to-know mindset will yield much better results when it comes to team collaboration.
+> **[2:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=173)** Obviously, everything can't be shared, but having a share-everything mindset instead of a need-to-know mindset will yield much better results when it comes to [[Team Collaboration]].
 >
-> **[3:04](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=184)** Once you have your program team members, you need to clearly define roles and responsibilities to minimize confusion about expectations and accountability.
+> **[3:04](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=184)** Once you have your program team members, you need to clearly define roles and responsibilities to minimize confusion about expectations and [[Accountability]].
 >
 > **[3:13](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/building-and-managing-a-team-of-teams?u=76281980&t=193)** Let's look at how to do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (13), [[Agile Development|Agile]] (3), management (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1), [[Team Collaboration]] (1), [[Accountability]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** pmo (1)
 > **Speakers:** - programs (1)
 
-#### Managing the RACI matrix and reporting structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-the-raci-matrix-and-reporting-structures?u=76281980)
+#### [Managing the RACI matrix and reporting structures](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-the-raci-matrix-and-reporting-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-the-raci-matrix-and-reporting-structures?u=76281980&t=81)** Which brings us to onboarding.
 >
-> **[1:24](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-the-raci-matrix-and-reporting-structures?u=76281980&t=84)** If the new person is a replacement, you will already have thought about their RACI assignments before hiring them, and hopefully before interviewing them, so you're sure they have the right skills.
+> **[1:24](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-the-raci-matrix-and-reporting-structures?u=76281980&t=84)** If the new person is a replacement, you will already have thought about their RACI assignments before hiring them, and hopefully before [[Interviewing]] them, so you're sure they have the right skills.
 >
 > **[1:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-the-raci-matrix-and-reporting-structures?u=76281980&t=95)** If the new person is due to the team growing, you definitely want to think about their RACI assignments early, probably even before getting the approval for the additional headcount.
 >
@@ -1331,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Interviewing]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Env Vars:** raci (8)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
@@ -1340,8 +1317,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - as (1)
 
-#### Managing scope, schedule, and budget changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980)
+#### [Managing scope, schedule, and budget changes](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1401,24 +1377,23 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=196)** So let's review.
 >
-> **[3:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=198)** One, integrate project level data into a program-level view by using dashboards and reporting tools to monitor progress.
+> **[3:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=198)** One, integrate project level data into a program-level view by using [[Dashboards]] and reporting tools to monitor progress.
 >
 > **[3:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=206)** Two, communicate updates across all project teams promptly.
 >
-> **[3:31](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=211)** Three, maintain a change log for accountability.
+> **[3:31](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=211)** Three, maintain a change log for [[Accountability]].
 >
 > **[3:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-scope-schedule-and-budget-changes?u=76281980&t=215)** This integrated approach helps you meet program goals while managing the complexities of individual projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (1), [[Dashboards]] (1), teams (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - just (1)
 
-#### Managing risks and issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-risks-and-issues?u=76281980)
+#### [Managing risks and issues](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-risks-and-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1433,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-risks-and-issues?u=76281980&t=105)** But you may have program-specific items which need to be tracked as well.
 >
-> **[1:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-risks-and-issues?u=76281980&t=110)** The other risk management framework is ROAM, which stands for resolve, own, accept, and mitigate.
+> **[1:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-risks-and-issues?u=76281980&t=110)** The other [[Risk Management Framework (RMF)|risk management framework]] is ROAM, which stands for resolve, own, accept, and mitigate.
 >
 > **[1:57](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-risks-and-issues?u=76281980&t=117)** This is a systematic approach used to manage items in the RAID log.
 >
@@ -1500,15 +1475,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), management (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), next (1)
+> **Frameworks & Libraries:** [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Env Vars:** raid (8), roam (2), raci (1)
 > **Definitions:** stands for (2), is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - just (1)
 
-#### Putting it all together: Program planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980)
+#### [Putting it all together: Program planning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,13 +1490,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=7)** To recap, GlobeBank International, fresh from acquiring its largest competitor, faced a costly mess.
 >
-> **[0:13](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=13)** Duplicate IT systems, redundant customer databases, and inefficiencies.
+> **[0:13](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=13)** Duplicate IT systems, redundant customer [[Databases]], and inefficiencies.
 >
 > **[0:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=18)** They were bleeding over a million dollars annually.
 >
 > **[0:22](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=22)** Sam Garza, the CIO, launched a program to consolidate systems into a scalable, cloud-based solution.
 >
-> **[0:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=29)** Callie Smith, the program manager, ensured every affected stakeholder, whether they worked in headquarters, or at a local branch office, was engaged early.
+> **[0:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=29)** Callie Smith, the program manager, ensured every affected stakeholder, whether they worked in headquarters, or at a local branch [[Microsoft Office|office]], was engaged early.
 >
 > **[0:38](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=38)** With multiple competing initiatives, Callie needed leadership's full support.
 >
@@ -1532,11 +1506,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=61)** Callie's team quickly established KPIs for system uptime, data accuracy, and IT productivity.
 >
-> **[1:08](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=68)** A real-time dashboard provided visibility, helping leadership stay informed and allowing for quick pivots when necessary.
+> **[1:08](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=68)** A [[Real-Time]] dashboard provided visibility, helping leadership stay informed and allowing for quick pivots when necessary.
 >
 > **[1:16](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=76)** With both IT and business teams involved, methodology alignment was important.
 >
-> **[1:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=81)** Agile was chosen for software development, which would provide iterative improvements, but this meant some Agile training was needed for non-technical teams, so Callie worked with the change management team to account for the cost and timing into her program plan.
+> **[1:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=81)** [[Agile Development|Agile]] was chosen for [[Software Development]], which would provide iterative improvements, but this meant some Agile training was needed for non-technical teams, so Callie worked with the change management team to account for the cost and timing into her program plan.
 >
 > **[1:36](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=96)** To reduce miscommunication, Callie created a program glossary, a shared calendar, and standardized reporting templates, even though they were very small to start.
 >
@@ -1546,7 +1520,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=134)** Sam created a program steering committee to resolve inevitable conflicts between competing priorities and groups and scheduled cross-team synchronization meetings to ensure awareness and alignment.
 >
-> **[2:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=146)** To keep friction to a minimum, her new mantra became share everything, which was a stark contrast to her typical we're-on-a-need-to-know basis.
+> **[2:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=146)** To keep friction to a minimum, her new mantra became share everything, which was a [[Stark (Accessibility Software)|stark]] contrast to her typical we're-on-a-need-to-know basis.
 >
 > **[2:36](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-planning?u=76281980&t=156)** Roles and responsibilities were documented in a RACI matrix.
 >
@@ -1568,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Databases]] (2), leadership (2), [[Agile Development|Agile]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Agile Development|Agile]] (2), [[Microsoft Office|Office]] (1), [[Real-Time]] (1), [[Software Development]] (1)
 > **Env Vars:** raci (2), cio (1), roi (1), raid (1), roam (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - now (1)
@@ -1578,8 +1552,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kicking off your program
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980)
+#### [Kicking off your program](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1621,11 +1594,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980&t=119)** And of course, don't forget to update your documentation and communicate your changes when the timing is appropriate.
 >
-> **[2:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980&t=126)** With the program kickoff out of the way, it's time to start setting up your reports and dashboards, which you'll learn how to do in the next video.
+> **[2:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980&t=126)** With the program kickoff out of the way, it's time to start setting up your reports and [[Dashboards]], which you'll learn how to do in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1633,14 +1606,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - with (1)
 
-#### Dashboards and reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/dashboards-and-reports?u=76281980)
+#### [Dashboards and reports](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/dashboards-and-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/dashboards-and-reports?u=76281980&t=0)** - With your program now underway following the kickoff, you need to make sense of all the available program data to keep things on track.
 >
-> **[0:08](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/dashboards-and-reports?u=76281980&t=8)** Dashboards and reports are two powerful tools that help organize and present data so different audiences can easily understand it.
+> **[0:08](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/dashboards-and-reports?u=76281980&t=8)** [[Dashboards]] and reports are two powerful tools that help organize and present data so different audiences can easily understand it.
 >
 > **[0:17](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/dashboards-and-reports?u=76281980&t=17)** Dashboards offer a quick visual snapshot of important metrics, while reports provide a detailed breakdown of progress and challenges.
 >
@@ -1690,14 +1662,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Dashboards]] (6), teams (2), next (2), management (2)
+> **Frameworks & Libraries:** [[Dashboards]] (6)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - with (1)
 
-#### Managing interdependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980)
+#### [Managing interdependencies](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1709,7 +1680,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=10)** An interdependency is a relationship between projects where the work in one directly affects the progress or outcome of another.
 >
-> **[0:19](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=19)** These connections can take many forms, from one project delivering a component or data that another needs to multiple projects relying on the same shared resources.
+> **[0:19](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=19)** These connections can take many [[Forms]], from one project delivering a component or data that another needs to multiple projects relying on the same shared resources.
 >
 > **[0:29](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=29)** Mismanaged interdependencies can lead to additional risk, scope creep, and unexpected delays.
 >
@@ -1731,7 +1702,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=79)** Another effective approach is cross-project working groups where you bring together leads from different projects to discuss shared risks, timeline conflicts, and integration points.
 >
-> **[1:30](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=90)** Visual tools like Jira or even a good old-fashioned Excel spreadsheet can help highlight where projects intersect.
+> **[1:30](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=90)** Visual tools like [[Jira]] or even a good old-fashioned [[Microsoft Excel|Excel]] spreadsheet can help highlight where projects intersect.
 >
 > **[1:37](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=97)** Think of your program as loggers working on a river.
 >
@@ -1741,13 +1712,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=119)** To mitigate these issues, build in buffer time and ensure that downstream teams validate what they receive from upstream.
 >
-> **[2:07](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=127)** A best practice is early integration testing, where downstream teams work with preliminary versions of upstream components so they can identify any misunderstandings before they become a larger problem later on.
+> **[2:07](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=127)** A best practice is early [[Integration Testing]], where downstream teams work with preliminary versions of upstream components so they can identify any misunderstandings before they become a larger problem later on.
 >
 > **[2:20](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=140)** Likewise, downstream teams should provide clear requirements to upstream teams.
 >
 > **[2:25](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=145)** Poor communication about changes in scope or functionality will lead to costly rework later.
 >
-> **[2:31](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=151)** Keep dependencies flexible by adopting iterative delivery models and encouraging cross-team collaboration from the start.
+> **[2:31](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=151)** Keep dependencies flexible by adopting iterative delivery models and encouraging [[Cross-team Collaboration]] from the start.
 >
 > **[2:39](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=159)** Every interdependency is a risk.
 >
@@ -1769,7 +1740,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=208)** Regular cross-project meetings ensure project leads discuss dependencies, risks, and shifting priorities frequently.
 >
-> **[3:36](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=216)** Automated tracking and dashboards provide a common view of dependencies, which keeps everyone aligned.
+> **[3:36](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=216)** Automated tracking and [[Dashboards]] provide a common view of dependencies, which keeps everyone aligned.
 >
 > **[3:42](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/managing-interdependencies?u=76281980&t=222)** But you also need proactive change communication to keep teams and executives informed when timelines, deliverables, or scope changes affect the dependency.
 >
@@ -1781,7 +1752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), data (2), [[Forms]] (1), [[Jira]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Jira]] (1), [[Microsoft Excel|Excel]] (1), [[Integration Testing]] (1), [[Cross-team Collaboration]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1), best practice (1)
 > **Warnings:** warning (2)
@@ -1790,8 +1761,7 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Prerequisites:** set up (1)
 
-#### Providing leadership to your teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/providing-leadership-to-your-teams?u=76281980)
+#### [Providing leadership to your teams](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/providing-leadership-to-your-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1799,7 +1769,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/providing-leadership-to-your-teams?u=76281980&t=4)** They're the glue that holds multiple project teams together and the force that keeps everything moving forward.
 >
-> **[0:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/providing-leadership-to-your-teams?u=76281980&t=10)** To do that effectively, they need to provide strong leadership by balancing motivation, accountability, and strategic oversight.
+> **[0:10](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/providing-leadership-to-your-teams?u=76281980&t=10)** To do that effectively, they need to provide strong leadership by balancing motivation, [[Accountability]], and strategic oversight.
 >
 > **[0:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/providing-leadership-to-your-teams?u=76281980&t=18)** First, let's talk about top performers.
 >
@@ -1839,12 +1809,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), leadership (3), [[Accountability]] (1), data (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Putting it all together: Program execution and control
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980)
+#### [Putting it all together: Program execution and control](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1864,7 +1833,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=41)** Callie structured the kickoff into three segments, starting with CIO Sam Garza reaffirming the vision.
 >
-> **[0:48](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=48)** Sam emphasized that this wasn't just an IT upgrade, it was a business transformation.
+> **[0:48](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=48)** Sam emphasized that this wasn't just an IT upgrade, it was a [[Business Transformation]].
 >
 > **[0:54](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=54)** Next, Callie broke down the objectives.
 >
@@ -1914,7 +1883,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=193)** Callie also eliminated inefficiencies by identifying redundant approval processes and unnecessary meetings, streamlining workflows and freeing up teams to focus on execution to Callie, leadership was never about checking boxes.
 >
-> **[3:28](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=208)** It was about motivating teams, driving accountability, and keeping the program on track.
+> **[3:28](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=208)** It was about motivating teams, driving [[Accountability]], and keeping the program on track.
 >
 > **[3:33](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-execution-and-control?u=76281980&t=213)** With execution in full swing, Callie knew the toughest part wasn't starting.
 >
@@ -1922,7 +1891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), leadership (4), next (4), data (2), management (1)
+> **Frameworks & Libraries:** [[Business Transformation]] (1), [[Accountability]] (1)
 > **Env Vars:** cio (1), raid (1), api (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - let (1)
@@ -1932,8 +1901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Closing your program
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/closing-your-program?u=76281980)
+#### [Closing your program](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/closing-your-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1963,12 +1931,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - closing (1)
 
-#### Capturing lessons learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980)
+#### [Capturing lessons learned](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,7 +1950,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=45)** Throughout the program, make note of the positive activities and approaches that contributed to success specifically around program activities.
 >
-> **[0:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=53)** Did a particular stakeholder engagement strategy lead to better collaboration between teams?
+> **[0:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=53)** Did a particular [[Stakeholder Engagement]] strategy lead to better collaboration between teams?
 >
 > **[0:59](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=59)** Did a new risk management approach help you dodge potential setbacks?
 >
@@ -1998,7 +1964,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=91)** By acknowledging them early and at the close of each project, you can make gradual improvements to the program over time, and hopefully the next program will avoid some of those pain points altogether.
 >
-> **[1:43](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=103)** If decision-making bottlenecks slowed down progress, document where they happened and why they happened.
+> **[1:43](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=103)** If [[Decision-Making]] bottlenecks slowed down progress, document where they happened and why they happened.
 >
 > **[1:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/capturing-lessons-learned?u=76281980&t=110)** If a specific integration caused repeated issues, outline what went wrong and how to mitigate it in the future.
 >
@@ -2014,15 +1980,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), management (3), [[Stakeholder Engagement]] (1), teams (1), game (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (2)
 > **Definitions:** in other words (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - just (1)
 
-#### Project closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/project-closures?u=76281980)
+#### [Project closures](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/project-closures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,7 +2007,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/project-closures?u=76281980&t=79)** So to help with this, new metrics need to be created and tracked by the program manager with the help from the project managers.
 >
-> **[1:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/project-closures?u=76281980&t=86)** Depending on the project deliverable, statistics on logins or total system usage time might be enough to ensure the new module or system is being used.
+> **[1:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/project-closures?u=76281980&t=86)** Depending on the project deliverable, [[Statistics]] on logins or total system usage time might be enough to ensure the new module or system is being used.
 >
 > **[1:35](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/project-closures?u=76281980&t=95)** Other times, a decrease in legacy system usage or an improved end-to-end time for a process might be the metric needed.
 >
@@ -2058,13 +2023,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)
 
-#### Implementing continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980)
+#### [Implementing continuous improvement](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,11 +2052,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=71)** But sometimes feedback uncovers issues that are so significant that a simple process update won't cut it.
 >
-> **[1:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=78)** That's where an internal project to improve the program management office itself comes into play.
+> **[1:18](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=78)** That's where an internal project to improve the program management [[Microsoft Office|office]] itself comes into play.
 >
 > **[1:23](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=83)** If patterns of inefficiency, misalignment, or adoption roadblocks emerge, the program manager should work with leadership to launch dedicated initiatives focused on improving governance and oversight, optimizing tooling and automation, and enhancing change management.
 >
-> **[1:41](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=101)** Improving governance and oversight includes strengthening decision-making frameworks, risk management approaches, and compliance tracking.
+> **[1:41](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=101)** Improving governance and oversight includes strengthening [[Decision-Making]] frameworks, risk management approaches, and compliance tracking.
 >
 > **[1:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/implementing-continuous-improvement?u=76281980&t=110)** Optimizing tooling and automation includes evaluating and implementing better solutions to enhance or replace outdated or cumbersome tools, which slow down project execution.
 >
@@ -2110,20 +2074,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Automation]] (2), teams (1), [[Microsoft Office|Office]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### Finalizing your program
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980)
+#### [Finalizing your program](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=0)** - Once the program reaches the end of its schedule, the focus shifts from execution to closure.
 >
-> **[0:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=6)** Finalizing a program isn't just about shutting things down, it's about ensuring long-term sustainability and success.
+> **[0:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=6)** Finalizing a program isn't just about shutting things down, it's about ensuring long-term [[Sustainability]] and success.
 >
 > **[0:14](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=14)** There are four main steps.
 >
@@ -2143,19 +2106,19 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=53)** This stores all relevant program reports and lessons learned in a centralized repository for future reference.
 >
-> **[1:00](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=60)** While those are the program closure steps, we should talk about another discipline here as well, organizational change management, because even after the program ends, OCM activities must continue to ensure adoption by those impacted by the change and lasting benefits.
+> **[1:00](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=60)** While those are the program closure steps, we should talk about another discipline here as well, [[Organizational Change Management]], because even after the program ends, OCM activities must continue to ensure adoption by those impacted by the change and lasting benefits.
 >
 > **[1:16](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=76)** The program manager will want to be part of that process to make sure their years of hard work is not undone.
 >
 > **[1:21](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=81)** And similar to program closure steps, there are four main steps to OCM as well.
 >
-> **[1:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=86)** First, OCM needs to monitor adoption metrics, which involves tracking usage statistics, stakeholder feedback and performance KPIs to confirm deliverables integrate effectively into daily operations.
+> **[1:26](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=86)** First, OCM needs to monitor adoption metrics, which involves tracking usage [[Statistics]], stakeholder feedback and performance KPIs to confirm deliverables integrate effectively into daily operations.
 >
 > **[1:39](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=99)** Second, ongoing training and support ensures training materials remain accessible, and support teams are equipped to handle questions and issues related to new systems or processes.
 >
-> **[1:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=110)** Third, ongoing stakeholder engagement keeps communication channels open with impacted teams, reinforcing change adoption and addressing concerns after the program has officially closed.
+> **[1:50](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=110)** Third, ongoing [[Stakeholder Engagement]] keeps communication channels open with impacted teams, reinforcing change adoption and addressing concerns after the program has officially closed.
 >
-> **[2:01](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=121)** And finally, governance and ownership transfer defines clear accountability for program deliverables, ensuring ongoing maintenance enhancements and continuous improvement.
+> **[2:01](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=121)** And finally, governance and ownership transfer defines clear [[Accountability]] for program deliverables, ensuring ongoing maintenance enhancements and continuous improvement.
 >
 > **[2:11](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/finalizing-your-program?u=76281980&t=131)** A successful program closure isn't just about tying up loose ends.
 >
@@ -2165,14 +2128,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Sustainability]] (1), [[Organizational Change Management]] (1), [[Statistics]] (1), [[Stakeholder Engagement]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Organizational Change Management]] (1), [[Statistics]] (1), [[Stakeholder Engagement]] (1), [[Accountability]] (1)
 > **Env Vars:** ocm (4)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - once (1)
 
-#### Putting it all together: Program closure
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980)
+#### [Putting it all together: Program closure](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2188,7 +2150,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=32)** By capturing these lessons throughout the program, rather than waiting until the very end, Callie insured continuous improvement.
 >
-> **[0:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=40)** Some of the things that worked well in this program were the introduction of Agile collaboration, which improved IT business alignment and early stakeholder engagement, which reduced resistance.
+> **[0:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=40)** Some of the things that worked well in this program were the introduction of [[Agile Development|Agile]] collaboration, which improved IT business alignment and early [[Stakeholder Engagement]], which reduced resistance.
 >
 > **[0:51](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=51)** Areas of improvement were dependency tracking, which wasn't proactive enough according to most of the teams, and certain communication gaps which caused delays.
 >
@@ -2202,7 +2164,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=92)** Knowing that if a program doesn't evolve, its stagnates, Callie worked with Sam to launch internal initiatives to improve the PMO itself.
 >
-> **[1:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=100)** They optimized tools by streamlining dashboards, automating reporting, and improved data visualization.
+> **[1:40](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=100)** They optimized tools by streamlining [[Dashboards]], automating reporting, and improved data visualization.
 >
 > **[1:47](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/putting-it-all-together-program-closure?u=76281980&t=107)** They enhanced communication by adjusting stakeholder updates to reduce confusion and improve transparency, and they strengthened governance by refining decision making structures based on lessons learned.
 >
@@ -2222,7 +2184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), management (4), [[Stakeholder Engagement]] (2), next (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (2), [[Agile Development|Agile]] (1), [[Dashboards]] (1)
 > **Env Vars:** cio (1), ocm (1), pmo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -2232,8 +2194,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open to change
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980)
+#### [Open to change](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2204,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980&t=6)** You've now added program management to your toolbox.
 >
-> **[0:09](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980&t=9)** Once you get some experience with it, LinkedIn Learning has a great course on portfolio management by Andy Jordan called Project Portfolio Management Foundations.
+> **[0:09](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980&t=9)** Once you get some experience with it, [[LinkedIn]] Learning has a great course on portfolio management by Andy Jordan called Project Portfolio Management Foundations.
 >
 > **[0:19](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980&t=19)** In the meantime, check out my other LinkedIn Learning course, Change Management for IT Professionals.
 >
@@ -2267,7 +2228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[LinkedIn]] (3), next (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **URLs:** [deltatechnology.net](https://deltatechnology.net) (1)
 > **Speakers:** - congratulations (1)
 

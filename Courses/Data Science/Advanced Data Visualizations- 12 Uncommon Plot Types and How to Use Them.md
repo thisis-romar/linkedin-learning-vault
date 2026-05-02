@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take your data viz game to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/take-your-data-viz-game-to-the-next-level?u=76281980)
+#### [Take your data viz game to the next level](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/take-your-data-viz-game-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,12 +95,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [franz] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=19)** You should have some understanding what these kind of plots are used for.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=24)** You'll also need to have some understanding of univariate, bivariate, and multivariate statistics.
+> **[0:24](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=24)** You'll also need to have some understanding of univariate, bivariate, and multivariate [[Statistics]].
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=29)** These are important statistical concepts that define different types of graphs.
 >
@@ -125,9 +122,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=43)** Whilst multi-varied analysis examines how many variables are related.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=47)** Finally, many of these advanced graphs cannot be created in Excel.
+> **[0:47](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=47)** Finally, many of these advanced graphs cannot be created in [[Microsoft Excel|Excel]].
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=52)** They require general purpose statistical software, such as R, Stata, or Python.
+> **[0:52](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=52)** They require general purpose statistical software, such as R, [[Stata]], or [[Python (Programming Language)|Python]].
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/what-you-should-know?u=76281980&t=58)** Even when using these advanced programs, you will often need to download user written functions or commands.
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
@@ -153,12 +150,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ridgeline plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980)
+#### [Ridgeline plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=0)** - [Narrator] Imagine you're a city planner concerned about changing patterns and temperature in your city perhaps due to climate change.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=0)** - [Narrator] Imagine you're a city planner concerned about changing patterns and temperature in your city perhaps due to [[Climate Change]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=7)** Before taking policy action you need to better understand how weather patterns vary over the year in your city, and for that, you'll need to examine weather data.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=194)** In Stats, you can use the user written command joyplot.
 >
-> **[3:17](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=197)** And in Python, you can use the joypi function.
+> **[3:17](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=197)** And in [[Python (Programming Language)|Python]], you can use the joypi function.
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980&t=201)** Ridgeline plots are a great way to visualize several densities in one single graph.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Climate Change]] (1), generic (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** you'll need (2)
@@ -242,8 +238,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### Violin plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980)
+#### [Violin plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,11 +300,11 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=182)** If you want to create violin plots yourself you'll need specialized software.
 >
-> **[3:06](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=186)** Excel or SPSS cannot create these graphs easily.
+> **[3:06](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=186)** [[Microsoft Excel|Excel]] or SPSS cannot create these graphs easily.
 >
 > **[3:10](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=190)** If you're using R, you can use the ggplot2 library which contains a violin plot function.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=196)** In Stata, you can use the user written command, vioplot and in Python you can use the seaboard library which contains a violin plot function.
+> **[3:16](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=196)** In [[Stata]], you can use the user written command, vioplot and in [[Python (Programming Language)|Python]] you can use the seaboard library which contains a violin plot function.
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/violin-plots?u=76281980&t=205)** Violin plots are not without disadvantages.
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** python (1)
 > **Env Vars:** spss (1)
@@ -329,12 +324,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [teacher] (1)
 
-#### Heat plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980)
+#### [Heat plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=0)** - [Instructor] Big data is everywhere.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=0)** - [Instructor] [[Big Data]] is everywhere.
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=2)** And data sample sizes are creeping up.
 >
@@ -362,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=60)** Solutions include transparent markers, like this, or smaller markers, but these continue to fail when observation counts are very large.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=69)** This is where heat plots excel.
+> **[1:09](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=69)** This is where heat plots [[Microsoft Excel|excel]].
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=71)** Heat plots bin portions of data into certain shape bins and then assign a color value to that bin depending on how much data is inside that bin.
 >
@@ -426,9 +420,9 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=241)** If you use an R, you can use the heatmap function.
 >
-> **[4:04](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=244)** In Stata, you can use the user written heatplot command.
+> **[4:04](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=244)** In [[Stata]], you can use the user written heatplot command.
 >
-> **[4:08](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=248)** Whilst in Python, the Seaborn library has access to heat plots.
+> **[4:08](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=248)** Whilst in [[Python (Programming Language)|Python]], the Seaborn library has access to heat plots.
 >
 > **[4:13](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/heat-plots?u=76281980&t=253)** Heat maps are more complex than standards scatterplots.
 >
@@ -438,15 +432,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Big Data]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** similar to (1), picture (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** spss (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sparkline plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980)
+#### [Sparkline plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,11 +487,11 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=147)** However, the focus of a sparkline plot is on trends over time and not on finding the maximum and minimum values.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=154)** These are just visual guides and don't offer detailed statistics.
+> **[2:34](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=154)** These are just visual guides and don't offer detailed [[Statistics]].
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=158)** Another advantage of sparklines is that they can be easily integrated into tables and reports to be used to back up qualitative statements.
 >
-> **[2:47](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=167)** Here's the same data in Excel showing a data table, which in turn is summarized by a sparkline column and that in turn is summarized by a qualitative statement.
+> **[2:47](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=167)** Here's the same data in [[Microsoft Excel|Excel]] showing a data table, which in turn is summarized by a sparkline column and that in turn is summarized by a qualitative statement.
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=178)** That data reduction process from raw data, trend, and interpretation, is very clear, and easy to follow.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=191)** In R, the library devtools has a sparkline function.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=196)** In Stata, you can use the user written command sparkline, and in Python you can install the sparklines function.
+> **[3:16](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=196)** In [[Stata]], you can use the user written command sparkline, and in [[Python (Programming Language)|Python]] you can install the sparklines function.
 >
 > **[3:23](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sparkline-plots?u=76281980&t=203)** Sparkline plots should be used when you have line plots overlapping or with vastly different magnitudes, and you do not require exact numerical detail.
 >
@@ -518,14 +511,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rainbow plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/rainbow-plots?u=76281980)
+#### [Rainbow plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/rainbow-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +615,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), generic (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -631,8 +622,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/table-plots?u=76281980)
+#### [Table plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/table-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/table-plots?u=76281980&t=256)** In R, you can install the tabplot package.
 >
-> **[4:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/table-plots?u=76281980&t=259)** And in Stata you can use the tabplot user written command.
+> **[4:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/table-plots?u=76281980&t=259)** And in [[Stata]] you can use the tabplot user written command.
 >
 > **[4:24](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/table-plots?u=76281980&t=264)** Table plots are a great visualization technique for large two-way tables.
 >
@@ -728,15 +718,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Stata]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mosaic plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980)
+#### [Mosaic plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +773,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=137)** A mosaic plot is identical to a stacked bar graph with the addition of a second x-axis which highlights the relative size of each category on the first X-axis.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=149)** The idea is to provide two sets of statistics, frequency, and percentage to a reader in a visual fashion.
+> **[2:29](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=149)** The idea is to provide two sets of [[Statistics]], frequency, and percentage to a reader in a visual fashion.
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=157)** Here is an example.
 >
@@ -808,11 +797,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=217)** Mosaic plots can be created in a variety of ways.
 >
-> **[3:40](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=220)** They're not easy to create in Excel or SPSS.
+> **[3:40](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=220)** They're not easy to create in [[Microsoft Excel|Excel]] or SPSS.
 >
 > **[3:43](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=223)** In R, you can install the ggplot2 package which has a mosaic function.
 >
-> **[3:49](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=229)** In Stata, you can use the user written spine plot command and in Python, you can use the mosaic function from the stats models package.
+> **[3:49](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=229)** In [[Stata]], you can use the user written spine plot command and in [[Python (Programming Language)|Python]], you can use the mosaic function from the stats models package.
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/mosaic-plots?u=76281980&t=238)** Key to a mosaic plot is to understand that each stack has a different width representing how much data is in that stack.
 >
@@ -822,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **CLI Commands:** python (1)
@@ -831,8 +820,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - two (1)
 
-#### Matrix plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980)
+#### [Matrix plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,9 +916,9 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980&t=273)** In R, you can use the default pairs function.
 >
-> **[4:36](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980&t=276)** In Stata, you can use the default graph matrix command.
+> **[4:36](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980&t=276)** In [[Stata]], you can use the default graph matrix command.
 >
-> **[4:40](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980&t=280)** And in Python, you can use this scatter matrix function that comes with the plotty.express library.
+> **[4:40](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980&t=280)** And in [[Python (Programming Language)|Python]], you can use this scatter matrix function that comes with the plotty.express library.
 >
 > **[4:46](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/matrix-plots?u=76281980&t=286)** Key to using matrix and trellis plots is to carefully and considerately label the axis.
 >
@@ -940,15 +928,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Stata]] (1), [[Python (Programming Language)|Python]] (1), express (1)
+> **Frameworks & Libraries:** [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** python (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ternary plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980)
+#### [Ternary plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=106)** Even with better labeling, 3D plots require multiple viewing angles and rotation to understand.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=112)** And this makes them difficult to transfer to a report or to use in a PowerPoint presentation.
+> **[1:52](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=112)** And this makes them difficult to transfer to a report or to use in a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=118)** To solve this, we can use a ternary plot.
 >
@@ -1048,9 +1035,9 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=253)** If you're using R, you can use the TernaryPlot() function that comes with the ternary package.
 >
-> **[4:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=259)** In Stata, you can use the user written triplot command.
+> **[4:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=259)** In [[Stata]], you can use the user written triplot command.
 >
-> **[4:23](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=263)** And in Python, you can use the Plotly Express library which has the px.scatter_ternary() function.
+> **[4:23](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=263)** And in [[Python (Programming Language)|Python]], you can use the Plotly Express library which has the px.scatter_ternary() function.
 >
 > **[4:30](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ternary-plots?u=76281980&t=270)** Ternary plots are a unique way to visualize three-dimensional relationships.
 >
@@ -1060,7 +1047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft PowerPoint|Powerpoint]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** gdp (2)
 > **Analogies:** such as (1), for example (1)
@@ -1069,8 +1056,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chernoff faces
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980)
+#### [Chernoff faces](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1064,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=5)** Rather than summarizing many hundreds or thousands of observations into a particular statistic, the focus of analysis might be on the observation themselves, and this often happens when you have small data sets.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=17)** For example, this could be the characteristics of a small group of people on a medical trial, or it could be a product data set where various products and their characteristics are captured.
+> **[0:17](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=17)** For example, this could be the characteristics of a small group of people on a medical trial, or it could be a product data set where various [[Microsoft Products|products]] and their characteristics are captured.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=27)** A question that occurs in such data sets is often, which observations are similar and which are not?
 >
@@ -1102,7 +1088,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=107)** Now, that seems quite cumbersome.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=110)** Certainly, just glancing at this table doesn't really reveal any particular or important data structures, and this is where Chernoff faces can help.
+> **[1:50](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=110)** Certainly, just glancing at this table doesn't really reveal any particular or important [[Data Structures]], and this is where Chernoff faces can help.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=119)** Here are 12 Chernoff faces, each represents one observation in the data.
 >
@@ -1114,7 +1100,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=143)** Without going into detail about what each facial characteristic represents here and what quantities are being measured, one can still make some basic qualitative comparisons across these 12 observations.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=155)** For example, the Dodge Challenger and AMC Javelin cars appear to be very similar type of cars, and a quick Google search confirms that they even look the same.
+> **[2:35](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=155)** For example, the Dodge Challenger and AMC Javelin cars appear to be very similar type of cars, and a quick [[Google]] search confirms that they even look the same.
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=165)** That is the ultimate aim of Chernoff faces, to allow you to quickly and intuitively determine which observations are very different or which observations are very similar across a wide range of different variables.
 >
@@ -1134,21 +1120,21 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=209)** In R, you can use the aplpack library and use the Faces function.
 >
-> **[3:34](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=214)** In Stata, you can use the user-written Chernoff command.
+> **[3:34](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=214)** In [[Stata]], you can use the user-written Chernoff command.
 >
-> **[3:37](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=217)** And in Python, you can use the ChernoffFace package to help you create Chernoff faces.
+> **[3:37](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=217)** And in [[Python (Programming Language)|Python]], you can use the ChernoffFace package to help you create Chernoff faces.
 >
 > **[3:43](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=223)** Chernoff faces are a relatively qualitative graphical method and can only be used on small sample sizes.
 >
 > **[3:49](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=229)** They attempt to greatly reduce the complexity of multivariate analysis by presenting a simple set of visuals.
 >
-> **[3:55](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=235)** They're not good for detailed statistical analysis and can only work with circa 10 to 15 variables, anymore and the faces will become too overplotted with features.
+> **[3:55](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=235)** They're not good for detailed [[Statistical Analysis]] and can only work with circa 10 to 15 variables, anymore and the faces will become too overplotted with features.
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/chernoff-faces?u=76281980&t=246)** Consider using Chernoff faces when you have a small data set and you're comparing many raw data points instead of building models of statistical aggregations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), product (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Structures]] (1), [[Google]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (4), such as (1), similar to (1)
 > **CLI Commands:** find (1), make (1), python (1)
 > **Env Vars:** amc (1)
@@ -1156,8 +1142,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sankey plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sankey-plots?u=76281980)
+#### [Sankey plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sankey-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1242,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sankey-plots?u=76281980&t=337)** To generate Sankey Plots, you can use the networkD3 or ggsankey packages in R.
 >
-> **[5:44](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sankey-plots?u=76281980&t=344)** You can use the sankey user-written command in Stata, or you can use the Sankey function in the Plotly package in Python.
+> **[5:44](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sankey-plots?u=76281980&t=344)** You can use the sankey user-written command in [[Stata]], or you can use the Sankey function in the Plotly package in [[Python (Programming Language)|Python]].
 >
 > **[5:52](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/sankey-plots?u=76281980&t=352)** Alternatively, you can create Sankey plot with RAWGraphs for free using an internet browser.
 >
@@ -1271,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), traffic (2), power (1), express (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (1), python (1)
@@ -1279,8 +1264,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dumbbell plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980)
+#### [Dumbbell plots](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1300,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=86)** This table provides a lot of statistical detail, but it's going to take readers a minute to figure out whether individual changes are positive or negative and what the overall effect might be.
 >
-> **[1:36](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=96)** If you're short on time or presenting to others in a PowerPoint presentation, a visualization is a better option.
+> **[1:36](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=96)** If you're short on time or presenting to others in a [[Microsoft PowerPoint|PowerPoint]] presentation, a visualization is a better option.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=104)** A bar chart would be a common way to visualize this table.
 >
@@ -1352,7 +1336,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=197)** In this case, David has improved his test scores.
 >
-> **[3:22](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=202)** Together the data points resemble tiny dumbbells and dumbbell plots excel at showing you immediately who improved and by how much.
+> **[3:22](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=202)** Together the data points resemble tiny dumbbells and dumbbell plots [[Microsoft Excel|excel]] at showing you immediately who improved and by how much.
 >
 > **[3:32](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=212)** For example, Carol and David saw big improvements in their test scores.
 >
@@ -1414,9 +1398,9 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=364)** In R you can use the geom_segment and geom_point functions in the ggplot2 package to create dumbbell plots.
 >
-> **[6:12](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=372)** In Stata, you need a similar approach and you need to combine the ask by command with a scatter command to create lines with points.
+> **[6:12](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=372)** In [[Stata]], you need a similar approach and you need to combine the ask by command with a scatter command to create lines with points.
 >
-> **[6:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=379)** And in python, you need to use to go.scatter function with the modes of lines and markers respectively to create lines with two points.
+> **[6:19](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=379)** And in [[Python (Programming Language)|python]], you need to use to go.scatter function with the modes of lines and markers respectively to create lines with two points.
 >
 > **[6:28](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/dumbbel-plots?u=76281980&t=388)** Dumbbell plots are great at highlighting changes and differences.
 >
@@ -1428,7 +1412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), management (1), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (3), picture (1), such as (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** is a  (3)
@@ -1441,8 +1425,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,15 +1441,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=22)** A natural step forwards in doing this is to start using general purpose statistical packages to create these graphs yourself.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=31)** Excel and SPSS usually don't have the capability to create these kind of graphs.
+> **[0:31](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=31)** [[Microsoft Excel|Excel]] and SPSS usually don't have the capability to create these kind of graphs.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=36)** Many of the advanced data visualizations presented here require custom functions, specialized commands, careful coding, and bespoke data setups.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=46)** And for that, you'll need to use programs, such as R, Stata, or Python.
+> **[0:46](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=46)** And for that, you'll need to use programs, such as R, [[Stata]], or [[Python (Programming Language)|Python]].
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=51)** I created all my graphs in Stata, but R or Python are just as capable.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=56)** My recommendation is that you learn one of these programs and follow a course here on LinkedIn Learning.
+> **[0:56](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=56)** My recommendation is that you learn one of these programs and follow a course here on [[LinkedIn]] Learning.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=62)** There are some fantastic courses for all levels.
 >
@@ -1474,7 +1457,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=70)** I hope this course has been beneficial to you.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=73)** Websites like [medium.com](https://medium.com) have great blog posts of data science, machine learning, and data visualization that is bound to give you new and interesting ideas.
+> **[1:13](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=73)** Websites like [medium.com](https://medium.com) have great blog posts of [[Data Science]], machine learning, and data visualization that is bound to give you new and interesting ideas.
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980&t=84)** Follow people on LinkedIn who love data science and browse other websites for interesting video channels or blogs.
 >
@@ -1482,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[LinkedIn]] (3), [[Stata]] (2), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Stata]] (2), [[Python (Programming Language)|Python]] (2), [[Data Science]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (2), find (1)
 > **URLs:** [medium.com](https://medium.com) (1)
 > **Env Vars:** spss (1)

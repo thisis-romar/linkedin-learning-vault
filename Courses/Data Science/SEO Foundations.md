@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging search to accomplish your business goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980)
+#### [Leveraging search to accomplish your business goals](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,13 +100,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=33)** That's what this course is all about.
 >
-> **[0:36](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=36)** And here I'll be sharing with you the fundamentals of search engine optimization or SEO so that you can leverage this crucial skill to accomplish your online goals in this digital age.
+> **[0:36](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=36)** And here I'll be sharing with you the fundamentals of [[Search Engine Optimization (SEO)|search engine optimization]] or SEO so that you can leverage this crucial skill to accomplish your online goals in this digital age.
 >
 > **[0:49](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=49)** We'll leverage industry best practices, examples and the experiences of working across thousands of client engagements to show you how to get the most exposure and results from your organic search strategy.
 >
 > **[1:03](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=63)** I'm David Booth and I've been helping organizations all over the world take advantage of the digital landscape since the late 1990s.
 >
-> **[1:11](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=71)** Through this course, I'll give you a broad overview of the topic and position you to understand how search works and the various concepts and components that go into a successful SEO strategy, and rest assured that you'll be able to dive deeper into many of these concepts through additional courses right here in the library.
+> **[1:11](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=71)** Through this course, I'll give you a broad overview of the topic and position you to understand how search works and the various concepts and components that go into a successful SEO strategy, and [[Representational State Transfer (REST)|rest]] assured that you'll be able to dive deeper into many of these concepts through additional courses right here in the library.
 >
 > **[1:32](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980&t=92)** Search is now simply a part of our everyday lives and it's no longer good enough to just be online.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), seo (2), product (1), web (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** seo (2)
 > **Speakers:** - search (1)
@@ -127,12 +126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is search engine optimization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980)
+#### [What is search engine optimization?](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=1)** - Search engine optimization is the process of making improvements on and off your website in order to gain more exposure in search engine results.
+> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=1)** - [[Search Engine Optimization (SEO)|Search engine optimization]] is the process of making improvements on and off your website in order to gain more exposure in search engine results.
 >
 > **[0:10](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=10)** And that means more visitors finding you for the right reasons.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=64)** All this information is then stuffed into a very big, very complex, and very proprietary index.
 >
-> **[1:11](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=71)** Then, in just a fraction of a second, the search engine is able to use its complex algorithms to rank and return all of those webpages right back to the user.
+> **[1:11](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=71)** Then, in just a fraction of a second, the search engine is able to use its complex [[Algorithms]] to rank and return all of those webpages right back to the user.
 >
 > **[1:22](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980&t=82)** And search engines make a very clear distinction between content that's about California travel versus content relevant to other phrases like California resorts or something like beach getaway.
 >
@@ -194,14 +192,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), web (4), next (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - search (1)
 
-#### Reading search engine result pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980)
+#### [Reading search engine result pages](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,9 +210,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=20)** Paid listings are very different than the traditional organic or natural listings that we'll be focusing on with our SEO efforts.
 >
-> **[0:28](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=28)** These paid listings are actually advertisements, and programs like Google Ads or Microsoft Advertising allow advertisers to bid on keyword searches and place their ads in the search results page.
+> **[0:28](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=28)** These paid listings are actually advertisements, and programs like [[Google]] Ads or [[Microsoft]] Advertising allow advertisers to bid on keyword searches and place their ads in the search results page.
 >
-> **[0:41](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=41)** The way ads appear in the SERPs does change over time as search engines try to better their business and please their advertisers, but they'll typically be labeled as an ad and can appear above, beside, or intermingled with the rest of the results.
+> **[0:41](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=41)** The way ads appear in the SERPs does change over time as search engines try to better their business and please their advertisers, but they'll typically be labeled as an ad and can appear above, beside, or intermingled with the [[Representational State Transfer (REST)|rest]] of the results.
 >
 > **[0:55](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=55)** A typical search engine results page will also have a number of organic or natural results that are not impacted by advertising dollars.
 >
@@ -223,13 +220,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=71)** Remember, search engines are trying to return everything they can that's relevant to a user's search.
 >
-> **[1:17](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=77)** So in addition to ads and webpage results, they can also return things like videos, images, news, products, maps, and more.
+> **[1:17](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=77)** So in addition to ads and webpage results, they can also return things like videos, images, news, [[Microsoft Products|products]], maps, and more.
 >
 > **[1:26](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=86)** Shopping-related searches might result in a group of images and prices for different products.
 >
 > **[1:31](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=91)** Other searches might feature a group of relevant video clips, or maybe a list of local businesses matching the search query might show up accompanied by a map.
 >
-> **[1:41](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=101)** Basically, search results can show up in a variety of different forms based on what the search engines think is relevant and appropriate to whatever was just typed in.
+> **[1:41](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=101)** Basically, search results can show up in a variety of different [[Forms]] based on what the search engines think is relevant and appropriate to whatever was just typed in.
 >
 > **[1:51](https://www.linkedin.com/learning/seo-foundations-14828080/reading-search-engine-result-pages?u=76281980&t=111)** In some search results, you might see a visual carousel of results or maybe an enhanced set of results like Google's knowledge graph.
 >
@@ -241,18 +238,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (17), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2), seo (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Forms]] (1)
 > **Env Vars:** seo (1), url (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### How SEO affects your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/how-seo-affects-your-business?u=76281980)
+#### [How SEO affects your business](https://www.linkedin.com/learning/seo-foundations-14828080/how-seo-affects-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/how-seo-affects-your-business?u=76281980&t=1)** - If you are a business, there are some very real and specific benefits to having a consistent, ongoing search engine optimization strategy.
+> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/how-seo-affects-your-business?u=76281980&t=1)** - If you are a business, there are some very real and specific benefits to having a consistent, ongoing [[Search Engine Optimization (SEO)|search engine optimization]] strategy.
 >
 > **[0:10](https://www.linkedin.com/learning/seo-foundations-14828080/how-seo-affects-your-business?u=76281980&t=10)** For the first time in the history of marketing, users are offering up their actual intent through the words that they type and speak into search engines.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), seo (7), business (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (2)
 > **Env Vars:** seo (7)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -308,8 +304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning and researching your SEO keywords
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980)
+#### [Planning and researching your SEO keywords](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=38)** Start by answering some basic questions.
 >
-> **[0:41](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=41)** What products and services do you offer?
+> **[0:41](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=41)** What [[Microsoft Products|products]] and services do you offer?
 >
 > **[0:43](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=43)** What problems do you solve?
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=116)** While brainstorming can get you started, there are some great tools that can help you find and suggest more and similar keywords to expand your list of possibilities.
 >
-> **[2:06](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=126)** Google Search Console offers insights into exactly how people are already finding your site and that's a great place to start.
+> **[2:06](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=126)** [[Google]] Search Console offers insights into exactly how people are already finding your site and that's a great place to start.
 >
 > **[2:14](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980&t=134)** Some additional favorite expansion tools in the SEO industry include Google Trends, AnswerThePublic, Moz's Keyword Explorer and more.
 >
@@ -395,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), seo (3), [[Microsoft Products|Products]] (2), [[Google]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (2)
 > **Code Identifiers:** iphone (6)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** seo (3)
@@ -403,8 +398,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Analyzing SEO keywords and leveraging keyword attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980)
+#### [Analyzing SEO keywords and leveraging keyword attributes](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=124)** As you're gathering keyword ideas and metrics around relevance, volume, and competition, most tools will allow you to download the raw data, where you can insert it into a spreadsheet as you work with the keywords and add more data from different tools.
 >
-> **[2:19](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=139)** Another great tool to help understand keywords is Google Trends.
+> **[2:19](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=139)** Another great tool to help understand keywords is [[Google]] Trends.
 >
 > **[2:23](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=143)** Here, you can type in different keywords and see all kinds of information.
 >
@@ -456,11 +450,11 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=190)** Using keyword research tools allows us to discover new keywords, see data around relevance, volume, and competitiveness, and to understand some context around how people are searching.
 >
-> **[3:21](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=201)** This exploration and data collection is the backbone of our keyword research process and will provide us with everything we need to decide which keywords we'll ultimately focus on with our SEO strategy.
+> **[3:21](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-seo-keywords-and-leveraging-keyword-attributes?u=76281980&t=201)** This exploration and [[Data Collection]] is the backbone of our keyword research process and will provide us with everything we need to decide which keywords we'll ultimately focus on with our SEO strategy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (6), [[Google]] (1), seo (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Data Collection]] (1)
 > **Code Identifiers:** iphone (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** seo (1)
@@ -469,14 +463,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Mapping SEO keyword distribution and continually evaluating
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980)
+#### [Mapping SEO keyword distribution and continually evaluating](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=1)** - Keyword distribution is the process of assigning keywords to specific pages on your website.
 >
-> **[0:07](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=7)** It's an important step in the content creation process and results in the content on the page being aligned and relevant to the keywords you're targeting.
+> **[0:07](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=7)** It's an important step in the [[Content Creation]] process and results in the content on the page being aligned and relevant to the keywords you're targeting.
 >
 > **[0:16](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=16)** Remember, you can't have an optimized page unless you know what keyword you're optimizing it for.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=165)** You can define the SEO-friendly URL, the title, description, and header right here in the spreadsheet.
 >
-> **[2:51](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=171)** Creating content when you know the keyword you're optimizing for upfront allows you to really dial in on all the best practices that we'll be covering in this course, and of course, this is a great time to go back through your existing pages to make sure that the rest of the content is really optimized for the keyword that you've defined as a target, and with a target keyword for each page, you can use tools like Moz's On-Page Grader to get some feedback and suggestions for improvements that you can make.
+> **[2:51](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=171)** Creating content when you know the keyword you're optimizing for upfront allows you to really dial in on all the best practices that we'll be covering in this course, and of course, this is a great time to go back through your existing pages to make sure that the [[Representational State Transfer (REST)|rest]] of the content is really optimized for the keyword that you've defined as a target, and with a target keyword for each page, you can use tools like Moz's On-Page Grader to get some feedback and suggestions for improvements that you can make.
 >
 > **[3:21](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=201)** Using a keyword distribution spreadsheet not only helps organize and document the content of your site against your target keywords.
 >
@@ -534,13 +527,13 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=229)** You need to measure results and adapt.
 >
-> **[3:51](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=231)** Maybe you'll find out in a few months that your SEO strategy has paid off and gotten you tons of traffic for a keyword that you thought would drive business, but instead, it's just driving lookers that never end up buying, and if you have more money than time, buying keywords in paid advertising programs, like Google Ads or Microsoft Advertising, can be a great way to help you quickly find out how that traffic performs before you invest in a long-term organic plan to target those terms.
+> **[3:51](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=231)** Maybe you'll find out in a few months that your SEO strategy has paid off and gotten you tons of traffic for a keyword that you thought would drive business, but instead, it's just driving lookers that never end up buying, and if you have more money than time, buying keywords in paid advertising programs, like [[Google]] Ads or [[Microsoft]] Advertising, can be a great way to help you quickly find out how that traffic performs before you invest in a long-term organic plan to target those terms.
 >
 > **[4:20](https://www.linkedin.com/learning/seo-foundations-14828080/mapping-seo-keyword-distribution-and-continually-evaluating?u=76281980&t=260)** Knowing which keywords to target, mapping them to the content of your site, and treating this process as a continual ongoing cycle of opportunity will give you a great base to continually improve your keyword and content strategy month after month and year after year.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), seo (2), traffic (2), [[Content Creation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Content Creation]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Definitions:** is an  (2), is a  (2), defined as (1)
 > **Env Vars:** url (2), seo (2)
@@ -553,8 +546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outlining content optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-content-optimization?u=76281980)
+#### [Outlining content optimization](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-content-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,13 +614,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), next (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - content (1)
 
-#### Optimizing site structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-site-structure?u=76281980)
+#### [Optimizing site structure](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-site-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +666,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-site-structure?u=76281980&t=124)** The way you link to pages within your site is important, and it's known as internal linking.
 >
-> **[2:10](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-site-structure?u=76281980&t=130)** If you're an online store, for example, you might have a system of product categories that link to subcategories that then hold links to individual products.
+> **[2:10](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-site-structure?u=76281980&t=130)** If you're an online store, for example, you might have a system of product categories that link to subcategories that then hold links to individual [[Microsoft Products|products]].
 >
 > **[2:19](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-site-structure?u=76281980&t=139)** If you're an informational site, you may be organized by authors or topics and then dates of publication.
 >
@@ -704,19 +694,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), web (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (7)
 > **Analogies:** imagine (3), for example (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - as (1)
 
-#### Optimizing on-page elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980)
+#### [Optimizing on-page elements](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=1)** - On-page optimization is the process of fine tuning the relevance of a page for a certain keyword or search term.
+> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=1)** - On-page optimization is the process of [[Fine Tuning]] the relevance of a page for a certain keyword or search term.
 >
 > **[0:08](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=8)** Let's keep going with our sample website and imagine that we've decided to optimize this page for the phrase Backpacking Tours in California.
 >
@@ -762,7 +751,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=167)** And here a call to action might help do the trick.
 >
-> **[2:51](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=171)** Just keep in mind that search engines like Google may rewrite this title tag if it's not relevant to the search query or the content on the page.
+> **[2:51](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=171)** Just keep in mind that search engines like [[Google]] may rewrite this title tag if it's not relevant to the search query or the content on the page.
 >
 > **[2:59](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=179)** A good reason to stick to these general guidelines.
 >
@@ -808,7 +797,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=348)** As human beings, we can look at something like this and quickly figure out that those are some footprints next to the words Backpack Cal, but to a machine it's just a bunch of dots and different colors.
 >
-> **[6:00](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=360)** And while machine learning and artificial intelligence are making some big advances in this area, search engines aren't yet relying very heavily on a machine's ability to understand pictures or read words that appear in an image.
+> **[6:00](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=360)** And while machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] are making some big advances in this area, search engines aren't yet relying very heavily on a machine's ability to understand pictures or read words that appear in an image.
 >
 > **[6:13](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=373)** They can rely on a few other signals that we can include in the code behind images.
 >
@@ -834,9 +823,9 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=465)** There's also some code we can use to help the search engines out.
 >
-> **[7:49](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=469)** What's known as structured data allows us to provide some very relevant, very specific metadata specific to certain types of content.
+> **[7:49](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=469)** What's known as structured data allows us to provide some very relevant, very specific [[Metadata]] specific to certain types of content.
 >
-> **[7:58](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=478)** We'll dive into the details around structured data later on in the course, but for now let's optimize the video on the homepage of our Explore California website using the [schema.org](https://schema.org) markup in JSON-LD, which search engines tend to favor.
+> **[7:58](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=478)** We'll dive into the details around structured data later on in the course, but for now let's optimize the video on the homepage of our Explore California website using the [schema.org](https://schema.org) markup in [[JSON]]-LD, which search engines tend to favor.
 >
 > **[8:13](https://www.linkedin.com/learning/seo-foundations-14828080/optimizing-on-page-elements?u=76281980&t=493)** Currently, there's some code that just embeds the video, but by adding in some special markup, we can provide search engines with all kinds of rich metadata.
 >
@@ -852,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (26), next (5), data (3), [[Google]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Metadata]] (2), [[Fine Tuning]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[JSON]] (1)
 > **Env Vars:** url (8), seo (1), json (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2)
@@ -866,8 +855,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interpreting the code behind webpages for SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980)
+#### [Interpreting the code behind webpages for SEO](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,11 +879,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=69)** There are instructions around how things are laid out, which fonts, colors, and sizes to use, what menus will look like, where links will point to, what happens when you hover over or click on things, where content elements are going to be placed, and much, much more.
 >
-> **[1:25](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=85)** You'll also notice that there's lots of stuff in the code that doesn't end up on the screen, things like all the metadata and tag components that we've discussed earlier in this course.
+> **[1:25](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=85)** You'll also notice that there's lots of stuff in the code that doesn't end up on the screen, things like all the [[Metadata]] and tag components that we've discussed earlier in this course.
 >
 > **[1:35](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=95)** And these items provide us with extra opportunities to help search engines understand our content even better.
 >
-> **[1:43](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=103)** And aside from your standard HTML, or HyperText Markup Language, an array of advanced frameworks and languages make possible things like animation, slideshows, dynamic menus, and plenty more.
+> **[1:43](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=103)** And aside from your standard [[HTML]], or HyperText Markup Language, an array of advanced frameworks and languages make possible things like animation, slideshows, dynamic menus, and plenty more.
 >
 > **[1:56](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980&t=116)** Let's take a look at this block of code that's responsible for rendering the video that we see on the homepage.
 >
@@ -913,7 +901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), web (1), [[Metadata]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** html (1)
 > **Cross-References:** earlier in (1)
@@ -922,8 +910,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
-#### Outlining how search engines index content
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980)
+#### [Outlining how search engines index content](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +926,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=45)** A sitemap is basically an organized list of links to your pages that mirrors your site structure.
 >
-> **[0:51](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=51)** Many sites will have an HTML version of this linked to from the footer of every page.
+> **[0:51](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=51)** Many sites will have an [[HTML]] version of this linked to from the footer of every page.
 >
 > **[0:56](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=56)** But there's also a format you can feed directly to the search engine's XML.
 >
@@ -987,7 +974,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=208)** Ensuring that your web server is fast and reliable is one thing but you'll also want to make sure it's secure.
 >
-> **[3:35](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=215)** Search engines like Google have long expressed a preference for sites using the HTTPS Protocol and have even indicated it can be a ranking signal.
+> **[3:35](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=215)** Search engines like [[Google]] have long expressed a preference for sites using the HTTPS Protocol and have even indicated it can be a ranking signal.
 >
 > **[3:44](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-how-search-engines-index-content?u=76281980&t=224)** So at this point, it's just plain best practice to work with your host or web master to make sure that you've made that switch if you haven't already.
 >
@@ -995,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), web (7), [[HTML]] (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Google]] (1)
 > **Env Vars:** xml (4), html (1), https (1)
 > **File Paths:** robots.txt (5)
 > **CLI Commands:** make (4), find (1)
@@ -1004,8 +991,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - search (1)
 
-#### Working with canonical URLs and redirects: Technical SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980)
+#### [Working with canonical URLs and redirects: Technical SEO](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,7 +1019,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=79)** This tag acts as an instruction for search engines telling them that no matter what URL might be showing up in the address bar, this content should be indexed by the main URL that the tag defines.
 >
-> **[1:31](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=91)** Another way to clear up any confusion about how your site uses URL parameters is to tell the search engines directly through Google's Search Console and Bing's Webmaster Tools.
+> **[1:31](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=91)** Another way to clear up any confusion about how your site uses URL parameters is to tell the search engines directly through [[Google]]'s Search Console and Bing's Webmaster Tools.
 >
 > **[1:42](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=102)** Here's an example in Search Console where we've gone to the URL parameters area to define certain URL parameters that should be ignored.
 >
@@ -1057,22 +1043,21 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=180)** Otherwise, you might be starting from scratch.
 >
-> **[3:03](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=183)** Last, you should also know that some technologies that can be used to redirect URLs, like JavaScript or Meta Refresh Tags are not properly picked up or processed by some search engines.
+> **[3:03](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=183)** Last, you should also know that some technologies that can be used to redirect URLs, like [[JavaScript]] or Meta Refresh Tags are not properly picked up or processed by some search engines.
 >
 > **[3:15](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=195)** Using these can mean indexing issues, so unless you have some really good reasons, you'll generally want to avoid them.
 >
-> **[3:21](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=201)** Ensuring that the search engines know which URLs your content lives on and that you have unique URLs for each of your pages will help to get your pages indexed properly and improve the chances that they'll show up above the rest.
+> **[3:21](https://www.linkedin.com/learning/seo-foundations-14828080/working-with-canonical-urls-and-redirects-technical-seo?u=76281980&t=201)** Ensuring that the search engines know which URLs your content lives on and that you have unique URLs for each of your pages will help to get your pages indexed properly and improve the chances that they'll show up above the [[Representational State Transfer (REST)|rest]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), seo (3), web (2), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (11), seo (3)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - search (1)
 
-#### Leveraging structured data: Technical SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980)
+#### [Leveraging structured data: Technical SEO](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=113)** From a search engine's perspective, this is great.
 >
-> **[1:56](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=116)** It not only confirms that this content is definitely a food recipe, but it also includes all of this metadata around the recipe that will help to return this content to users that are looking for it.
+> **[1:56](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=116)** It not only confirms that this content is definitely a food recipe, but it also includes all of this [[Metadata]] around the recipe that will help to return this content to users that are looking for it.
 >
 > **[2:09](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=129)** If someone is searching for a particular chef's recipes or maybe has an abundance of extra bananas that need to be used fast, the search engines will have a much deeper semantic understanding of recipe-related content, and they'll be able to return the right search results for an array of relevant search queries.
 >
@@ -1128,13 +1113,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=187)** There are around 800 types currently mapped out, and they're all just waiting for you to use them.
 >
-> **[3:13](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=193)** From a technical perspective, there are a number of ways that you can implement this, but JSON-LD, or JavaScript Object Notation for Linked Data, is the recommended method.
+> **[3:13](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=193)** From a technical perspective, there are a number of ways that you can implement this, but [[JSON]]-LD, or [[JavaScript]] Object Notation for Linked Data, is the recommended method.
 >
 > **[3:24](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-structured-data-technical-seo?u=76281980&t=204)** So explore the different types of structured data available to you on [Schema.org](https://Schema.org) to see what may be relevant for the different types of content on your site, and then get started sharing all that great information with the search engines and your visitors alike.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), data (8), product (2), business (2), web (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[JSON]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [schema.org](https://schema.org) (3)
 > **Best Practices:** general rule (1), recommended (1)
@@ -1143,14 +1128,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Using Google Search Console for SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980)
+#### [Using Google Search Console for SEO](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=0)** - Most major search engines offer a set of webmaster tools that can help you learn what information search engines have about your website, see how your pages are performing in search results, and allow you to provide them with instructions around how to best crawl and index your pages.
 >
-> **[0:17](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=17)** Let's take a look at how to use the very basics of Google's Search Console, as an example.
+> **[0:17](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=17)** Let's take a look at how to use the very basics of [[Google]]'s Search Console, as an example.
 >
 > **[0:23](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=23)** We won't hit all the features and reports that are available, but we will hit the highlights, and you should definitely spend some time exploring more on your own.
 >
@@ -1164,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=57)** So there are a few different verification methods that you can choose from.
 >
-> **[1:02](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=62)** You or your webmaster can upload a specific HTML file to your site.
+> **[1:02](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=62)** You or your webmaster can upload a specific [[HTML]] file to your site.
 >
 > **[1:07](https://www.linkedin.com/learning/seo-foundations-14828080/using-google-search-console-for-seo?u=76281980&t=67)** You could add a specific metatag to your source code, or make a small change to your site's DNS record to prove that the site is yours.
 >
@@ -1258,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), [[Google]] (9), data (4), hit (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[HTML]] (1)
 > **Env Vars:** url (2), html (1), dns (1), xml (1), amp (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** earlier in (2)
@@ -1267,8 +1251,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is an  (1)
 
-#### Using the Google Page Experience signal and Core Web Vitals
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980)
+#### [Using the Google Page Experience signal and Core Web Vitals](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=25)** Speed and performance are important.
 >
-> **[0:28](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=28)** Search engines recognize this, and Google specifically has created a collection of metrics called Core Web Vitals to help site owners measure and improve overall performance and usability.
+> **[0:28](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=28)** Search engines recognize this, and [[Google]] specifically has created a collection of metrics called Core Web Vitals to help site owners measure and improve overall performance and usability.
 >
 > **[0:40](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=40)** There are three components that Google is really focused on currently, but keep in mind that these can and do change over time.
 >
@@ -1308,7 +1291,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=121)** Within each device report, there are two distinctly different reports.
 >
-> **[2:05](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=125)** The first is based on field data and reports on actual users interacting with the page based on Google's Chrome user experience initiative.
+> **[2:05](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=125)** The first is based on field data and reports on actual users interacting with the page based on Google's Chrome [[User Experience (UX)|user experience]] initiative.
 >
 > **[2:15](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=135)** The report below it is based on what's known as lab data, which comes from a simulated environment.
 >
@@ -1342,7 +1325,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=221)** Core Web Vitals are important as ranking signals, but remember that they're just part of a larger set of signals called page experience.
 >
-> **[3:49](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=229)** You can see the rest of these in search console, where in addition to the Core Web Vitals, you'll also get insights around any issues your pages may be having related to mobile friendliness, security through that HTTPS protocol and interstitials, or intrusive popups that hinder the user experience.
+> **[3:49](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=229)** You can see the [[Representational State Transfer (REST)|rest]] of these in search console, where in addition to the Core Web Vitals, you'll also get insights around any issues your pages may be having related to mobile friendliness, security through that HTTPS protocol and interstitials, or intrusive popups that hinder the user experience.
 >
 > **[4:07](https://www.linkedin.com/learning/seo-foundations-14828080/using-the-google-page-experience-signal-and-core-web-vitals?u=76281980&t=247)** Page experience, and specifically the Core Web Vitals are important signals that Google uses to rank and return your pages to searchers.
 >
@@ -1350,15 +1333,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), web (8), [[Search]] (7), [[Google]] (6), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Google]] (6), [[User Experience (UX)|User experience]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** seo (1), lcp (1), fid (1), cls (1), https (1)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **Speakers:** - when (1)
 
-#### Planning content over the long term
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980)
+#### [Planning content over the long term](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=93)** Here's a simple example for that fictional ice cream shop that we've been looking at.
 >
-> **[1:37](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=97)** Of course, larger organizations with more complex strategies will have different formats, but having a plan in place will ensure that you are seeing the big picture, and putting in place a system of accountability for pumping out relevant high-quality content that your audience will love, and search engines will reward.
+> **[1:37](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=97)** Of course, larger organizations with more complex strategies will have different formats, but having a plan in place will ensure that you are seeing the big picture, and putting in place a system of [[Accountability]] for pumping out relevant high-quality content that your audience will love, and search engines will reward.
 >
 > **[1:56](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=116)** So what kind of content should you be creating?
 >
@@ -1410,11 +1392,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=125)** First, let's talk about content types.
 >
-> **[2:07](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=127)** Of course, there are web pages and blog posts but don't forget about slideshow presentations, images, infographics, videos, podcasts, augmented and virtual reality and many more.
+> **[2:07](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=127)** Of course, there are web pages and blog posts but don't forget about slideshow presentations, images, [[Infographics]], videos, podcasts, augmented and virtual reality and many more.
 >
 > **[2:19](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=139)** Remember, a lot of these formats can live all over the web.
 >
-> **[2:22](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=142)** Videos for example can be syndicated through the big video platforms used in social media posts, highlighted on webpages, and even promoted through newsletters.
+> **[2:22](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=142)** Videos for example can be syndicated through the big video platforms used in social media posts, highlighted on webpages, and even promoted through [[Newsletters]].
 >
 > **[2:32](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=152)** Good content attracts links and shares.
 >
@@ -1462,7 +1444,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=278)** Make sure you have those share buttons available for the networks that matter to you.
 >
-> **[4:43](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=283)** And with just about any web analytics tool, you'll be able to look at how your content is performing over time.
+> **[4:43](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=283)** And with just about any [[Web Analytics]] tool, you'll be able to look at how your content is performing over time.
 >
 > **[4:49](https://www.linkedin.com/learning/seo-foundations-14828080/planning-content-over-the-long-term?u=76281980&t=289)** You can easily see which pieces of content are getting visitors to your site.
 >
@@ -1476,7 +1458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (3), web (3), business (2), [[Newsletters]] (2)
+> **Frameworks & Libraries:** [[Newsletters]] (2), [[Accountability]] (1), [[Infographics]] (1), [[Web Analytics]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** seo (1), kpi (1)
@@ -1490,8 +1472,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outlining the importance of links for SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980)
+#### [Outlining the importance of links for SEO](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,7 +1532,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980&t=216)** Penalties can be anything from dropping your rankings for minor infractions, to dropping you from the entire index for egregious violations.
 >
-> **[3:45](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980&t=225)** Remember, search engine optimization is not something you do for short term gain.
+> **[3:45](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980&t=225)** Remember, [[Search Engine Optimization (SEO)|search engine optimization]] is not something you do for short term gain.
 >
 > **[3:50](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980&t=230)** It's something that you build upon day after day to create long term value.
 >
@@ -1565,7 +1546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), seo (4), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** seo (4)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (2)
@@ -1573,8 +1554,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - one (1)
 
-#### Building links for SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/building-links-for-seo?u=76281980)
+#### [Building links for SEO](https://www.linkedin.com/learning/seo-foundations-14828080/building-links-for-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1602,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/seo-foundations-14828080/building-links-for-seo?u=76281980&t=153)** Sometimes, great content attracts links naturally, but often a little outreach can help.
 >
-> **[2:39](https://www.linkedin.com/learning/seo-foundations-14828080/building-links-for-seo?u=76281980&t=159)** Leveraging your newsletter, your blog, your networks, and social connections to share new content can help get the word out, but don't stop there.
+> **[2:39](https://www.linkedin.com/learning/seo-foundations-14828080/building-links-for-seo?u=76281980&t=159)** Leveraging your newsletter, your blog, your networks, and social connections to share new content can help get the [[Microsoft Word|word]] out, but don't stop there.
 >
 > **[2:47](https://www.linkedin.com/learning/seo-foundations-14828080/building-links-for-seo?u=76281980&t=167)** Try to find other websites that target the same audience as you.
 >
@@ -1678,7 +1658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), web (2), business (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** seo (1)
@@ -1686,8 +1666,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Measuring SEO performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980)
+#### [Measuring SEO performance](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,7 +1676,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=21)** If you've never paid attention to measuring SEO before there are some things that you'll need to have checked off your list.
 >
-> **[0:28](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=28)** First, you need to make sure that you have a web analytics solution installed and properly configured, something like Google analytics, Adobe analytics, or a handful of others will do the job.
+> **[0:28](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=28)** First, you need to make sure that you have a [[Web Analytics]] solution installed and properly configured, something like [[Google]] analytics, Adobe analytics, or a handful of others will do the job.
 >
 > **[0:40](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=40)** And, you'll want to make sure that your tool is configured properly.
 >
@@ -1713,7 +1692,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=82)** In that case, you would make sure that your analytics tool is configured to track that as one of your conversion outcomes.
 >
-> **[1:29](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=89)** And, you can have lots of conversion actions, everything from newsletter signups to e-commerce purchases, to webinar signups, content downloads, video views, podcast plays, shares, follows, likes, or anything in between.
+> **[1:29](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=89)** And, you can have lots of conversion actions, everything from newsletter signups to [[E-Commerce]] purchases, to webinar signups, content downloads, video views, podcast plays, shares, follows, likes, or anything in between.
 >
 > **[1:44](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=104)** You'll also want to establish some SEO specific KPIs that can help you understand how your SEO efforts are paying off.
 >
@@ -1727,7 +1706,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=152)** For e-commerce, that means things like revenue, average order values, and other transactional data.
 >
-> **[2:39](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=159)** If you don't sell directly online, you can look at the leads you're generating through forms, contacts, and more.
+> **[2:39](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=159)** If you don't sell directly online, you can look at the leads you're generating through [[Forms]], contacts, and more.
 >
 > **[2:45](https://www.linkedin.com/learning/seo-foundations-14828080/measuring-seo-performance?u=76281980&t=165)** And, don't forget that there are lots of solutions out there that can help you track phone calls as well.
 >
@@ -1749,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (10), data (7), [[Analytics]] (6), business (4), traffic (4)
+> **Frameworks & Libraries:** [[Web Analytics]] (2), [[E-Commerce]] (2), [[Google]] (1), [[Forms]] (1)
 > **Env Vars:** seo (10)
 > **CLI Commands:** make (7), find (1)
 > **Prerequisites:** you'll need (3), set up (1)
@@ -1758,14 +1737,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Analyzing keywords and links
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980)
+#### [Analyzing keywords and links](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=0)** - When we're measuring our SEO efforts, analyzing the different links and keywords that are helping us rank and bringing us visitors is an excellent place to start.
 >
-> **[0:10](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=10)** Although there are lots of tools out there that can help, for this video, we're going to use Google Analytics and we're going to make sure that we've linked our Google Analytics and Google Search Console accounts together.
+> **[0:10](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=10)** Although there are lots of tools out there that can help, for this video, we're going to use [[Google]] Analytics and we're going to make sure that we've linked our Google Analytics and Google Search Console accounts together.
 >
 > **[0:23](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=23)** Once linked, if you go to the Search Console queries report from the acquisition menu you'll see the different keywords that have driven traffic to your site from Google over the adjustable time period with information around clicks, impressions, click-through rates and average positions.
 >
@@ -1783,7 +1761,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=69)** And you'll notice that you've got data around what the traffic that these search engines brought to our site is actually doing.
 >
-> **[1:17](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=77)** Unfortunately, outside of the search console reports search engines don't provide much in the way of organic keyword data to web analytics tools but we can still sift through acquisition, behavior and conversion metrics to get a sense of how much of what type of traffic each search engine is bringing, how engaged those visits are and whether or not they're converting on your goals all in one place.
+> **[1:17](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=77)** Unfortunately, outside of the search console reports search engines don't provide much in the way of organic keyword data to [[Web Analytics]] tools but we can still sift through acquisition, behavior and conversion metrics to get a sense of how much of what type of traffic each search engine is bringing, how engaged those visits are and whether or not they're converting on your goals all in one place.
 >
 > **[1:41](https://www.linkedin.com/learning/seo-foundations-14828080/analyzing-keywords-and-links?u=76281980&t=101)** Of course, slicing and dicing this, leveraging all the tools features allows you to filter, drill down and otherwise explore this data as deeply as you'd care to dive.
 >
@@ -1841,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), data (7), [[Google]] (5), traffic (4), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Google]] (5), [[Web Analytics]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** is an  (1), means that (1)
 > **Analogies:** for example (2)
@@ -1850,16 +1828,15 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** note that (1)
 
-#### AI for discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980)
+#### [AI for discovery](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980&t=0)** - [Instructor] The recent explosion of artificial intelligence or AI has brought with it a lot for humankind to think about and work through.
+> **[0:00](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980&t=0)** - [Instructor] The recent explosion of [[Artificial Intelligence (AI)|artificial intelligence]] or AI has brought with it a lot for humankind to think about and work through.
 >
 > **[0:07](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980&t=7)** But one thing is for certain, it's provided some exciting new capabilities in many industries and applications.
 >
-> **[0:14](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980&t=14)** In the realm of SEO, search engines are incorporating AI into their search algorithms and search results.
+> **[0:14](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980&t=14)** In the realm of SEO, search engines are incorporating AI into their search [[Algorithms]] and search results.
 >
 > **[0:21](https://www.linkedin.com/learning/seo-foundations-14828080/ai-for-discovery?u=76281980&t=21)** And as SEO practitioners, there are some very practical ways that we can leverage AI in our work and processes.
 >
@@ -1921,17 +1898,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), seo (7), [[Search]] (7), chatbot (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1)
 > **Env Vars:** seo (7)
 > **CLI Commands:** find (3), make (2)
 > **Speakers:** - [instructor] (1)
 
-#### SEO measurement and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980)
+#### [SEO measurement and AI](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=0)** - [Instructor] Leveraging artificial intelligence, or AI, for measuring the outcomes of our SEO efforts is a great example of working smarter, not harder.
+> **[0:00](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=0)** - [Instructor] Leveraging [[Artificial Intelligence (AI)|artificial intelligence]], or AI, for measuring the outcomes of our SEO efforts is a great example of working smarter, not harder.
 >
 > **[0:09](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=9)** And while analysis is an area that can certainly get complex, AI can give you a jumpstart in unlocking the actionable insights that are hiding in your data.
 >
@@ -1965,7 +1941,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=129)** Just remember that the quality of the insights you'll find really depends on the questions you ask.
 >
-> **[2:16](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=136)** Let's take a simple example where we've uploaded some keyword data from Google Search Console.
+> **[2:16](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=136)** Let's take a simple example where we've uploaded some keyword data from [[Google]] Search Console.
 >
 > **[2:22](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=142)** We'd like to get a sense of which keywords have lots of impressions but aren't resulting in many clicks.
 >
@@ -1983,7 +1959,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=186)** Now, this is just one data source and just one example.
 >
-> **[3:10](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=190)** Experiment with providing chatbots data from web analytics tools and asking to better understand how users are interacting with specific content, or upload data from your dedicated SEO tools around competition or your rankings over time, asking questions around what to focus on that will get you the maximum return on your optimization efforts.
+> **[3:10](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=190)** Experiment with providing chatbots data from [[Web Analytics]] tools and asking to better understand how users are interacting with specific content, or upload data from your dedicated SEO tools around competition or your rankings over time, asking questions around what to focus on that will get you the maximum return on your optimization efforts.
 >
 > **[3:30](https://www.linkedin.com/learning/seo-foundations-14828080/seo-measurement-and-ai?u=76281980&t=210)** The possibilities are endless, and with a chatbot, you have your own virtual analyst at your disposal.
 >
@@ -1993,7 +1969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (5), seo (3), business (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Web Analytics]] (1)
 > **Env Vars:** seo (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
@@ -2005,18 +1981,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using your SEO foundational knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980)
+#### [Using your SEO foundational knowledge](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=1)** - Hopefully by now, you're feeling comfortable with the basics of search engine optimization.
+> **[0:01](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=1)** - Hopefully by now, you're feeling comfortable with the basics of [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[0:06](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=6)** You've probably also seen the rabbit hole that is SEO and you may have been left wanting for more.
 >
 > **[0:13](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=13)** If that's the case, you can certainly dive deeper into any of the topics we've covered or learn more about topics we haven't.
 >
-> **[0:20](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=20)** First, there are quite a few courses right here in the library that provide more information about things like local SEO, SEO for e-commerce, international SEO, link building, and more.
+> **[0:20](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=20)** First, there are quite a few courses right here in the library that provide more information about things like local SEO, SEO for [[E-Commerce]], international SEO, link building, and more.
 >
 > **[0:32](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=32)** And don't forget the courses around analytics that can help you take your SEO measurement to the next level.
 >
@@ -2024,13 +1999,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=46)** Subscribing to sites like Search Engine Journal and Search Engine Land or checking out the blogs from the SEO tools that we've seen throughout the course are all great places to start.
 >
-> **[0:57](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=57)** And it's worth mentioning that Google has some really good documentation available ranging from beginner to advanced SEO topics.
+> **[0:57](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=57)** And it's worth mentioning that [[Google]] has some really good documentation available ranging from beginner to advanced SEO topics.
 >
 > **[1:05](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980&t=65)** Wherever you go from here, I hope you've gained a solid foundational knowledge of how search engines do what they do and how you can find success by planning and executing your own SEO strategy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (9), [[Search]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[E-Commerce]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[E-Commerce]] (1), [[Google]] (1)
 > **Env Vars:** seo (9)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)

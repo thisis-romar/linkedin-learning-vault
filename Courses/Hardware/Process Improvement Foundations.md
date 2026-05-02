@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is process improvement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/what-is-process-improvement?u=76281980)
+#### [What is process improvement?](https://www.linkedin.com/learning/process-improvement-foundations/what-is-process-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - process (1)
 
@@ -95,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring and managing
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/measuring-and-managing-2?u=76281980)
+#### [Measuring and managing](https://www.linkedin.com/learning/process-improvement-foundations/measuring-and-managing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,11 +149,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Speakers:** - before (1)
 
-#### Measuring the right thing
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/measuring-the-right-thing-2?u=76281980)
+#### [Measuring the right thing](https://www.linkedin.com/learning/process-improvement-foundations/measuring-the-right-thing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +223,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/process-improvement-foundations/measuring-the-right-thing-2?u=76281980&t=170)** And then compare that ratio either with similar people or departments or companies or with yourself at the same time last year.
 >
-> **[3:00](https://www.linkedin.com/learning/process-improvement-foundations/measuring-the-right-thing-2?u=76281980&t=180)** Comparing ratios is the only valid way to interpret statistics like this.
+> **[3:00](https://www.linkedin.com/learning/process-improvement-foundations/measuring-the-right-thing-2?u=76281980&t=180)** Comparing ratios is the only valid way to interpret [[Statistics]] like this.
 >
 > **[3:06](https://www.linkedin.com/learning/process-improvement-foundations/measuring-the-right-thing-2?u=76281980&t=186)** 20 infections means nothing.
 >
@@ -240,14 +235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), game (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### How to measure process improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/how-to-measure-process-improvement?u=76281980)
+#### [How to measure process improvement](https://www.linkedin.com/learning/process-improvement-foundations/how-to-measure-process-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,14 +311,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - all (1)
 
-#### Using statistical process control (SPC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/using-statistical-process-control-spc?u=76281980)
+#### [Using statistical process control (SPC)](https://www.linkedin.com/learning/process-improvement-foundations/using-statistical-process-control-spc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +364,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/process-improvement-foundations/using-statistical-process-control-spc?u=76281980&t=182)** You'd know if things were getting worse, hopefully before there was a complaint.
 >
-> **[3:08](https://www.linkedin.com/learning/process-improvement-foundations/using-statistical-process-control-spc?u=76281980&t=188)** The key is that it has to be measurable in order to apply the statistics and draw the graphs.
+> **[3:08](https://www.linkedin.com/learning/process-improvement-foundations/using-statistical-process-control-spc?u=76281980&t=188)** The key is that it has to be measurable in order to apply the [[Statistics]] and draw the graphs.
 >
 > **[3:14](https://www.linkedin.com/learning/process-improvement-foundations/using-statistical-process-control-spc?u=76281980&t=194)** I think you can see that pass fail doesn't come close, because it's too late and it gives you no real understanding of what's actually happening in your process.
 >
@@ -388,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Statistics]] (1), business (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** spc (4)
 > **Definitions:** means that (1), is a  (1)
@@ -397,8 +389,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - statistical (1)
 
-#### Setting action limits: Performance figures
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-performance-figures?u=76281980)
+#### [Setting action limits: Performance figures](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-performance-figures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,13 +453,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-performance-figures?u=76281980&t=179)** But we're talking about figures being slightly above the average, which is only 50% unlikely and that's where you use this figure of eight.
 >
-> **[3:08](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-performance-figures?u=76281980&t=188)** If times, or complaints, or costs are over the average eight times in a row, then the probability of that happening by chance is a half to the power of eight or one in 256, which is about half a percent.
+> **[3:08](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-performance-figures?u=76281980&t=188)** If times, or complaints, or costs are over the average eight times in a row, then the [[Probability]] of that happening by chance is a half to the power of eight or one in 256, which is about half a percent.
 >
 > **[3:24](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-performance-figures?u=76281980&t=204)** So, we can be slightly over 99% sure that something really has changed and there's less than a 1% chance that it's pure bad luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Probability]] (1), power (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** spc (1)
@@ -476,8 +467,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting action limits: Median moving range
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-median-moving-range?u=76281980)
+#### [Setting action limits: Median moving range](https://www.linkedin.com/learning/process-improvement-foundations/setting-action-limits-median-moving-range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +569,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (1), data (1)
 > **Env Vars:** mmr (8)
 > **Versions:** 3.14 (5), 7.9 (2)
 > **Analogies:** for example (1), imagine (1)
@@ -593,8 +582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing your quality, costs, and time tradeoff
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/optimizing-your-quality-costs-and-time-tradeoff?u=76281980)
+#### [Optimizing your quality, costs, and time tradeoff](https://www.linkedin.com/learning/process-improvement-foundations/optimizing-your-quality-costs-and-time-tradeoff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,14 +662,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the real cost of quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/understanding-the-real-cost-of-quality-2?u=76281980)
+#### [Understanding the real cost of quality](https://www.linkedin.com/learning/process-improvement-foundations/understanding-the-real-cost-of-quality-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,13 +775,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), management (1)
 > **CLI Commands:** make (4)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - does (1)
 
-#### Reducing cost by reducing waste
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980)
+#### [Reducing cost by reducing waste](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=22)** And what's that costing you per year?
 >
-> **[0:25](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=25)** Expensive resources like machinery, laboratories and even office space.
+> **[0:25](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=25)** Expensive resources like machinery, laboratories and even [[Microsoft Office|office]] space.
 >
 > **[0:29](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=29)** What is their utilization?
 >
@@ -819,7 +803,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=38)** There's a Japanese theory about waste, which says that there are seven types.
 >
-> **[0:43](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=43)** Although I personally like a way to remember them that spells out the word downtime and adds an eighth one.
+> **[0:43](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=43)** Although I personally like a way to remember them that spells out the [[Microsoft Word|word]] downtime and adds an eighth one.
 >
 > **[0:49](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=49)** And here it is.
 >
@@ -869,7 +853,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=235)** You design things so that it's impossible to get them wrong, like the way the diesel filling nozzle for your car is too big to go into a petrol filler hole, so you can't put diesel in by mistake.
 >
-> **[4:07](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=247)** And Poka-Yoke is not just product design but systems too.
+> **[4:07](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=247)** And Poka-Yoke is not just [[Product Design]] but systems too.
 >
 > **[4:12](https://www.linkedin.com/learning/process-improvement-foundations/reducing-cost-by-reducing-waste-2?u=76281980&t=252)** Ideally, you set up all systems so that it's actually impossible for people to do them wrongly.
 >
@@ -881,15 +865,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Product Design]] (1)
 > **Definitions:** stands for (7), is a  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), just like (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - in (1)
 
-#### Understanding lead time
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980)
+#### [Understanding lead time](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,7 +894,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=63)** Keeping stock reduces your ability to be flexible and to make exactly what each customer wants.
 >
-> **[1:09](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=69)** It necessitates accurate forecasting of future demand, which might be impossible.
+> **[1:09](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=69)** It necessitates accurate [[Forecasting]] of future demand, which might be impossible.
 >
 > **[1:15](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=75)** And when you don't have the item in stock, you're really stuck.
 >
@@ -931,7 +914,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=124)** I used to work in a helicopter factory, and it took three years to make a gear wheel for a helicopter gear box, and yet there was only two weeks of actual metal cutting.
 >
-> **[2:15](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=135)** The rest of the time was all transporting stuff around the factory, and waiting to start the batch, often there were 10 other batches also waiting for that machine.
+> **[2:15](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=135)** The [[Representational State Transfer (REST)|rest]] of the time was all transporting stuff around the factory, and waiting to start the batch, often there were 10 other batches also waiting for that machine.
 >
 > **[2:24](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=144)** And then waiting for the rest of your big batch, some batches were 500 parts, before finally your part gets made.
 >
@@ -945,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=172)** And then finally, the only value added activity in all this, being operated on themselves.
 >
-> **[2:59](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=179)** By the way, the same principles apply to an office environment, so this could be the time from getting a planning application in to finally being able to say yes or no to the new building.
+> **[2:59](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=179)** By the way, the same principles apply to an [[Microsoft Office|office]] environment, so this could be the time from getting a planning application in to finally being able to say yes or no to the new building.
 >
 > **[3:10](https://www.linkedin.com/learning/process-improvement-foundations/understanding-lead-time-2?u=76281980&t=190)** It could be the time it takes to get from arriving at the airport to getting onto your plane, or the time it takes to get your car serviced, or the time it takes to get your pizza in a restaurant, or the time it takes to produce a training course like this one, these are all lead times.
 >
@@ -965,12 +948,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (3), product (1), [[Forecasting]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Forecasting]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Speakers:** - of (1)
 
-#### Improving time business process reengineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980)
+#### [Improving time business process reengineering](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +964,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=23)** Number one, can any steps be just deleted?
 >
-> **[0:27](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=27)** You might be surprised at how many steps there are in your process, forms filled in, data put into computers, work allocated to people, quality checked by supervisors, etc, etc.
+> **[0:27](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=27)** You might be surprised at how many steps there are in your process, [[Forms]] filled in, data put into computers, work allocated to people, quality checked by supervisors, etc, etc.
 >
 > **[0:39](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=39)** Does the supervisor really have to check it?
 >
@@ -1034,7 +1016,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=187)** So you might want to think about setting up some cells, particularly if you have families of similar items that have to be assembled by groups of people.
 >
-> **[3:17](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=197)** A final thought is that the office example of a cell is a meeting.
+> **[3:17](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=197)** A final thought is that the [[Microsoft Office|office]] example of a cell is a meeting.
 >
 > **[3:22](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-business-process-reengineering?u=76281980&t=202)** Whilst it's not always brilliantly efficient for each individual person, we sometimes have to sit through an agenda item which doesn't affect us, or our input is only very brief.
 >
@@ -1050,17 +1032,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), data (2), business (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** bpr (4)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Balancing lines and flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/challenge-balancing-lines-and-flow?u=76281980)
+#### [Challenge: Balancing lines and flow](https://www.linkedin.com/learning/process-improvement-foundations/challenge-balancing-lines-and-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-improvement-foundations/challenge-balancing-lines-and-flow?u=76281980&t=1)** - Imagine this is how you get your lunch in the office dining room.
+> **[0:01](https://www.linkedin.com/learning/process-improvement-foundations/challenge-balancing-lines-and-flow?u=76281980&t=1)** - Imagine this is how you get your lunch in the [[Microsoft Office|office]] dining room.
 >
 > **[0:04](https://www.linkedin.com/learning/process-improvement-foundations/challenge-balancing-lines-and-flow?u=76281980&t=4)** Someone serves you your soup, which takes 20 seconds, then you move along to the meat counter, where it takes them 3 seconds to cut you off a nice piece, and then it takes 20 seconds to get your vegetables, and then 15 and 10 seconds for one server to give you both your dessert and your drink, and then it takes a minute to pay for it all.
 >
@@ -1132,8 +1113,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Solution: Balancing lines and flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/solution-balancing-lines-and-flow?u=76281980)
+#### [Solution: Balancing lines and flow](https://www.linkedin.com/learning/process-improvement-foundations/solution-balancing-lines-and-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,14 +1205,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), management (1), product (1)
 > **CLI Commands:** rails (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - okay (1)
 
-#### Improving time performance: Bottlenecks
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980)
+#### [Improving time performance: Bottlenecks](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,7 +1222,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=22)** His first point is that you can't make more than the bottleneck can handle.
 >
-> **[0:26](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=26)** So if you know the bottleneck, you know how much you can produce, whatever else is going on in your factory or office.
+> **[0:26](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=26)** So if you know the bottleneck, you know how much you can produce, whatever else is going on in your factory or [[Microsoft Office|office]].
 >
 > **[0:33](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=33)** And therefore, if you can increase the capacity of the bottleneck, you can increase the capacity of the whole system.
 >
@@ -1302,7 +1280,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=207)** And of course it's criminal if one of your cheapest resources is, in fact, strangling the output of the whole operation.
 >
-> **[3:34](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=214)** The third way to find the bottleneck is that, when you've got multiple products and multiple paths through the system, look at what tends to be late and then find out where those items are getting held up, and this is probably going to be your bottleneck.
+> **[3:34](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=214)** The third way to find the bottleneck is that, when you've got multiple [[Microsoft Products|products]] and multiple paths through the system, look at what tends to be late and then find out where those items are getting held up, and this is probably going to be your bottleneck.
 >
 > **[3:49](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-bottlenecks-2?u=76281980&t=229)** Then you can do the calculation I mentioned above to check whether you have the required capacity.
 >
@@ -1318,14 +1296,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), management (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), find (4)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Improving time performance: Queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-queues-2?u=76281980)
+#### [Improving time performance: Queues](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-queues-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1356,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-queues-2?u=76281980&t=144)** You'll see that this formula is very easy to use and it's completely brilliant and it's an amazing thing because it applies to everything in the world or least every situation where work is arriving at a random rate and you still need to serve the customer reasonably quickly, which is pretty much every situation.
 >
-> **[2:43](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-queues-2?u=76281980&t=163)** Let's take the example of an IT help desk customer service line, where it takes seven and a half minutes to deal with the call.
+> **[2:43](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-queues-2?u=76281980&t=163)** Let's take the example of an [[IT Help Desk]] customer service line, where it takes seven and a half minutes to deal with the call.
 >
 > **[2:52](https://www.linkedin.com/learning/process-improvement-foundations/improving-time-performance-queues-2?u=76281980&t=172)** So on average, you should be able to serve eight people an hour.
 >
@@ -1462,8 +1439,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Reducing lead time using a pull approach to reduce buffers
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/reducing-lead-time-using-a-pull-approach-to-reduce-buffers-2?u=76281980)
+#### [Reducing lead time using a pull approach to reduce buffers](https://www.linkedin.com/learning/process-improvement-foundations/reducing-lead-time-using-a-pull-approach-to-reduce-buffers-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,14 +1513,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Definitions:** is a  (1), known as (1), means that (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - what (1)
 
-#### Thinking about your batch sizes
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/thinking-about-your-batch-sizes-2?u=76281980)
+#### [Thinking about your batch sizes](https://www.linkedin.com/learning/process-improvement-foundations/thinking-about-your-batch-sizes-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1562,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/process-improvement-foundations/thinking-about-your-batch-sizes-2?u=76281980&t=119)** So, why does it take a whole hour to change jobs on a milling machine or to change the tools on an injection molder?
 >
-> **[2:06](https://www.linkedin.com/learning/process-improvement-foundations/thinking-about-your-batch-sizes-2?u=76281980&t=126)** If you film people doing it, you'll see that they can't find the spanner, they have to go and fetch equipment, something breaks, they can't lift something, they have to find a pallet truck, it takes five go's to get the adjustment right, etc., etc., and all of these things could be streamlined.
+> **[2:06](https://www.linkedin.com/learning/process-improvement-foundations/thinking-about-your-batch-sizes-2?u=76281980&t=126)** If you film people doing it, you'll see that they can't find the spanner, they have to go and [[Fetch]] equipment, something breaks, they can't lift something, they have to find a pallet truck, it takes five go's to get the adjustment right, etc., etc., and all of these things could be streamlined.
 >
 > **[2:24](https://www.linkedin.com/learning/process-improvement-foundations/thinking-about-your-batch-sizes-2?u=76281980&t=144)** If you can save time changing over between batches, you save much more than just that time.
 >
@@ -1635,8 +1609,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Improving quality and cost through team projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/improving-quality-and-cost-through-team-projects-2?u=76281980)
+#### [Improving quality and cost through team projects](https://www.linkedin.com/learning/process-improvement-foundations/improving-quality-and-cost-through-team-projects-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,18 +1673,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - quality (1)
 
-#### Looking briefly at Lean and Six Sigma
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/looking-briefly-at-lean-and-six-sigma-2?u=76281980)
+#### [Looking briefly at Lean and Six Sigma](https://www.linkedin.com/learning/process-improvement-foundations/looking-briefly-at-lean-and-six-sigma-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-improvement-foundations/looking-briefly-at-lean-and-six-sigma-2?u=76281980&t=1)** - A lot of the things I've been discussing in this course are parts of what are known as Lean Thinking and Six Sigma.
+> **[0:01](https://www.linkedin.com/learning/process-improvement-foundations/looking-briefly-at-lean-and-six-sigma-2?u=76281980&t=1)** - A lot of the things I've been discussing in this course are parts of what are known as Lean Thinking and [[Six Sigma]].
 >
 > **[0:08](https://www.linkedin.com/learning/process-improvement-foundations/looking-briefly-at-lean-and-six-sigma-2?u=76281980&t=8)** I feel a bit of love and hate for these, because they contain lots of good ideas, but as programs I think they have some difficulties.
 >
@@ -1750,8 +1721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final thoughts
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980)
+#### [Final thoughts](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,7 +1739,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=37)** My second point is don't run before you can walk.
 >
-> **[0:40](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=40)** The latest ideas line Lean and Six Sigma sound great when you first come across them, but it'll be hard to make anything stick unless you get the foundations right.
+> **[0:40](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=40)** The latest ideas line Lean and [[Six Sigma]] sound great when you first come across them, but it'll be hard to make anything stick unless you get the foundations right.
 >
 > **[0:50](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=50)** Get the data right, get the people right, and then get the quality right before you bring in poor systems, reduce work in progress, start to focus on bottlenecks, and then implement Lean et cetera.
 >
@@ -1777,13 +1747,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=72)** Please do keep in touch with me and let me know how you get on.
 >
-> **[1:15](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=75)** I'd be delighted to hear from you via LinkedIn, or follow my blog as [chriscroft.co](https://chriscroft.co).uk.
+> **[1:15](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=75)** I'd be delighted to hear from you via [[LinkedIn]], or follow my blog as [chriscroft.co](https://chriscroft.co).uk.
 >
 > **[1:22](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980&t=82)** Bye for now.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (1), data (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [chriscroft.co](https://chriscroft.co) (1)
 > **Speakers:** - two (1)

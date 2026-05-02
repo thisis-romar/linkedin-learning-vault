@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your first Scala app
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980)
+#### [Build your first Scala app](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980&t=0)** - [Amina] Scala engineers are in high demand and command some of the most compelling salaries across the industry, however, it does have a reputation for being a challenging language to learn.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980&t=0)** - [Amina] [[Scala]] engineers are in high demand and command some of the most compelling salaries across the industry, however, it does have a reputation for being a challenging language to learn.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980&t=15)** In this course, I will completely dispel that myth as we build a small app together using the latest version of Scala, Scala 3.
 >
@@ -96,27 +95,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (5), application (1), career (1)
+> **Frameworks & Libraries:** [[Scala]] (5)
 > **Speakers:** - [amina] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=0)** - [Instructor] This course has been designed for existing developers, people who already know one programming language and are writing applications.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=10)** I assume basic GitHub and Git knowledge.
+> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=10)** I assume basic [[GitHub]] and [[Git]] knowledge.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=14)** I also assume that you've worked in a code editor or integrated development environment of some sort as this course uses Visual Studio Code.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=24)** A strong prerequisite of this course is basic programming knowledge.
 >
-> **[0:29](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=29)** This would include, for example, things like variables, methods, loops, and data structures.
+> **[0:29](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=29)** This would include, for example, things like variables, methods, loops, and [[Data Structures]].
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=37)** If you are learning how to code and you've already made good progress in one programming language, I would highly recommend doing my "Introduction to Scala" course first before trying this one.
+> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=37)** If you are learning how to code and you've already made good progress in one programming language, I would highly recommend doing my "Introduction to [[Scala]]" course first before trying this one.
 >
-> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=50)** It's on the LinkedIn Learning platform.
+> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=50)** It's on the [[LinkedIn]] Learning platform.
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=52)** That course focuses entirely on syntax, so it should prepare you for this course.
 >
@@ -138,17 +136,17 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=121)** This course is for those who are new to Scala as we do cover the basics as well as more intermediate topics.
 >
-> **[2:08](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=128)** You don't need functional programming experience, and if you don't know what that is, even better because we will go over that.
+> **[2:08](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=128)** You don't need [[Functional Programming]] experience, and if you don't know what that is, even better because we will go over that.
 >
-> **[2:16](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=136)** You don't need any Java experience and you definitely don't need any maths knowledge.
+> **[2:16](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=136)** You don't need any [[Java]] experience and you definitely don't need any maths knowledge.
 >
-> **[2:22](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=142)** Finally, you don't need lots and lots of professional software development experience, the application we're writing is super simple, so this course should be relevant for most developers with knowledge of one programming language.
+> **[2:22](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=142)** Finally, you don't need lots and lots of professional [[Software Development]] experience, the application we're writing is super simple, so this course should be relevant for most developers with knowledge of one programming language.
 >
 > **[2:38](https://www.linkedin.com/learning/hands-on-introduction-scala/what-you-should-know?u=76281980&t=158)** So what are you waiting for? Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (6), [[Scala]] (4), [[Git]] (2), [[GitHub]] (1), data (1)
+> **Frameworks & Libraries:** [[Scala]] (4), [[Git]] (2), [[GitHub]] (1), [[Data Structures]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Tools:** github (1), visual studio (1)
 > **Prerequisites:** prerequisite (1), required to (1)
@@ -156,20 +154,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980)
+#### [Using GitHub Codespaces](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=0)** - [Instructor] This course uses GitHub Codespaces, which is a development environment hosted in the cloud.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=0)** - [Instructor] This course uses [[GitHub]] [[Codespaces]], which is a development environment hosted in the cloud.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=7)** This is really good because it means we don't have to do any installations on your local machine, which can sometimes be a barrier to people taking the course.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=17)** We connect to Codespaces through our course GitHub repository.
 >
-> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=21)** You'll find a link to this on the course's LinkedIn Learning website.
+> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=21)** You'll find a link to this on the course's [[LinkedIn]] Learning website.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=25)** This course does assume basic GitHub and Git knowledge.
+> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=25)** This course does assume basic GitHub and [[Git]] knowledge.
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=29)** If you don't have these, do check out GitHub's documentation, which is really good for getting started.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=83)** Fantastic, so now we've got our fork, which is great.
 >
-> **[1:27](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=87)** Let's check out the starting branch of this course by clicking on the word, main.
+> **[1:27](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=87)** Let's check out the starting branch of this course by clicking on the [[Microsoft Word|word]], main.
 >
 > **[1:35](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=95)** The first branch we'll want to check out is 01_01_begin.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=149)** I just have a couple of other things I want to note.
 >
-> **[2:33](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=153)** So in case you do want to run the course repo locally, do check out my Introduction to Scala course on LinkedIn Learning, which covers that.
+> **[2:33](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=153)** So in case you do want to run the course repo locally, do check out my Introduction to [[Scala]] course on LinkedIn Learning, which covers that.
 >
 > **[2:42](https://www.linkedin.com/learning/hands-on-introduction-scala/using-github-codespaces?u=76281980&t=162)** Or take a look at this course's repo's Read Me on the main branch, which includes some helpful websites that can guide you.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (5), [[LinkedIn]] (2), cloud (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (5), [[LinkedIn]] (2), [[Git]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5), visual studio (1)
 > **Prerequisites:** getting started (3), set up (2)
 > **UI Navigation:** click on (3)
@@ -232,12 +229,11 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scala introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980)
+#### [Scala introduction](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=0)** - [Instructor] So what is Scala?
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=0)** - [Instructor] So what is [[Scala]]?
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=3)** Of course, Scala is a programming language.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=16)** Scala is a combination of the words scalable and language because it was designed to grow with the demands of users.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=25)** Scala compiles down to Java bytecode and runs on the Java virtual machine.
+> **[0:25](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=25)** Scala compiles down to [[Java]] bytecode and runs on the Java virtual machine.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=31)** This means that we can run Java alongside Scala in the same project.
 >
@@ -255,9 +251,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=54)** So what differentiates Scala from other languages?
 >
-> **[0:57](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=57)** First, Scala combines both object-oriented and functional programming styles in one language.
+> **[0:57](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=57)** First, Scala combines both object-oriented and [[Functional Programming]] styles in one language.
 >
-> **[1:05](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=65)** You might have come across the object-oriented paradigm where everything is an object in languages like Python and JavaScript.
+> **[1:05](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=65)** You might have come across the object-oriented paradigm where everything is an object in languages like [[Python (Programming Language)|Python]] and [[JavaScript]].
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-introduction?u=76281980&t=75)** Functional programming aims to eliminate mutability.
 >
@@ -289,13 +285,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (17), [[Java]] (6), [[Functional Programming]] (3), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Scala]] (17), [[Java]] (6), [[Functional Programming]] (3), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (4), is an  (2), means that (2)
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What we are going to build
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/what-we-are-going-to-build?u=76281980)
+#### [What we are going to build](https://www.linkedin.com/learning/hands-on-introduction-scala/what-we-are-going-to-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-introduction-scala/what-we-are-going-to-build?u=76281980&t=17)** This process is so common that it has a name.
 >
-> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-scala/what-we-are-going-to-build?u=76281980&t=21)** It's called an ETL, extract, transform, load.
+> **[0:21](https://www.linkedin.com/learning/hands-on-introduction-scala/what-we-are-going-to-build?u=76281980&t=21)** It's called an ETL, [[Extract, Transform, Load (ETL)|extract, transform, load]].
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-introduction-scala/what-we-are-going-to-build?u=76281980&t=25)** We extract data, perform a transformation, and then load it up somewhere else.
 >
@@ -317,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1), etl (1), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), business (1)
+> **Frameworks & Libraries:** [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
@@ -326,12 +321,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scala project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980)
+#### [Scala project structure](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=0)** - [Instructor] Let's set up our Scala project.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=0)** - [Instructor] Let's set up our [[Scala]] project.
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=3)** Right now we are on branch 01_01_begin, and we just have the files necessary for our Codespace.
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=42)** It's going to include the version of Scala we want to use, and multiple modules or sub-projects would live here as well.
 >
-> **[0:53](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=53)** Let's add the name of our project and we'll also add the scalaVersion Because we're using Codespaces, our Scala version is actually in our image definition, but I want to add that here just to show you how you would do it in your own projects.
+> **[0:53](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=53)** Let's add the name of our project and we'll also add the scalaVersion Because we're using [[Codespaces]], our Scala version is actually in our image definition, but I want to add that here just to show you how you would do it in your own projects.
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=75)** So it's worth noting that build.sbt is actually its own language, we call this a domain specific language, or DSL for short.
 >
@@ -387,7 +381,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=229)** The final thing I want to do is amend the gitignore file, which is quite short at the moment.
 >
-> **[3:56](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=236)** So in case you're not familiar with this, this is where we place all of the paths of the directories or files we don't want to check into GitHub.
+> **[3:56](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=236)** So in case you're not familiar with this, this is where we place all of the paths of the directories or files we don't want to check into [[GitHub]].
 >
 > **[4:04](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=244)** I'm going to use a standard .gitignore file from the web, and I'll place the link to this here in the code so that you can find it as well.
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=396)** So all of our source code goes into src/main/scala.
 >
-> **[6:41](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=401)** You might be wondering why we have a directory called Scala, and it's because it's also possible to have a src/main/java directory where Java code lives, so it's to differentiate between the two.
+> **[6:41](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=401)** You might be wondering why we have a directory called Scala, and it's because it's also possible to have a src/main/[[Java]] directory where Java code lives, so it's to differentiate between the two.
 >
 > **[6:53](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980&t=413)** I guess this is useful for legacy applications that we're migrating from Java to Scala, as well as other use cases, I'm sure.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (22), [[Java]] (3), next (2), [[Codespaces]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Scala]] (22), [[Java]] (3), [[Codespaces]] (1), [[GitHub]] (1)
 > **Documentation:** the docs (2), the documentation (2)
 > **Tools:** terminal (3), github (1)
 > **Definitions:** is a  (2), we call this (1), means that (1)
@@ -458,12 +452,11 @@ created: 2026-05-02
 > **Env Vars:** dsl (1), ide (1)
 > **Exercise Files:** template (1), source code (1)
 
-#### Our first method
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980)
+#### [Our first method](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=0)** - [Instructor] Before we start to put in place some of the foundational code for our application, let's jump into the Scala repos so that I can introduce some basic Scala syntax to you.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=0)** - [Instructor] Before we start to put in place some of the foundational code for our application, let's jump into the [[Scala]] repos so that I can introduce some basic Scala syntax to you.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=12)** So to do that we're going to go into sbt and we'll just wait for that to load.
 >
@@ -535,7 +528,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=274)** I also want to mention Scala's collections library.
 >
-> **[4:37](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=277)** We've got three main categories: sequences, which are collections of elements like a linked list; we have maps that are key value pairs, like a Java map or Python dictionary; and we also have sets which are unordered collections of unique elements.
+> **[4:37](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=277)** We've got three main categories: sequences, which are collections of elements like a linked list; we have maps that are key value pairs, like a [[Java]] map or [[Python (Programming Language)|Python]] dictionary; and we also have sets which are unordered collections of unique elements.
 >
 > **[4:55](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=295)** So we are going to be using lists in our code and I can just demonstrate how we would do that.
 >
@@ -557,7 +550,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=375)** So I'm just going to exit the terminal and I'm going to delete this code that we've been playing with.
 >
-> **[6:24](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=384)** So we're going to stub out some of the very basics of our ETL program first, which stands for Extract, Transform, Load.
+> **[6:24](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=384)** So we're going to stub out some of the very basics of our ETL program first, which stands for [[Extract, Transform, Load (ETL)|Extract, Transform, Load]].
 >
 > **[6:33](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-method?u=76281980&t=393)** And guess which three methods we're going to begin with?
 >
@@ -619,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (21), etl (5), functional (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Scala]] (21), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
 > **Definitions:** is called (3), is an  (2), means that (2), is a  (2), stands for (1)
 > **Code Identifiers:** sayhi (2), sayhello (1), othername (1), listn (1)
 > **Env Vars:** etl (5)
@@ -628,18 +621,17 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 
-#### Our first test
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980)
+#### [Our first test](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=0)** - [Instructor] Let's write our first test.
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=3)** We are going to use ScalaTest, which is a very popular testing library in the Scala community.
+> **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=3)** We are going to use ScalaTest, which is a very popular testing library in the [[Scala]] community.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=9)** We can hit the install button to check how we can install the dependency in our project.
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=15)** So we're just going to take the ScalaTest dependency, we'll go into Codespaces, and in our build.sbt, we can pop the library dependency there.
+> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=15)** So we're just going to take the ScalaTest dependency, we'll go into [[Codespaces]], and in our build.sbt, we can pop the library dependency there.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=26)** Now that we've changed our build definition, we're going to go to Metals, which is the Scala plugin for Visual Studio Code, and we're going to click import the build.
 >
@@ -685,7 +677,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=201)** The Try type represents a computation that may either result in an exception or return a successfully computed value.
 >
-> **[3:30](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=210)** From personal experience, I don't often use tries, but they are very common when interacting with files, databases, and internet services, as those functions can easily throw exceptions.
+> **[3:30](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=210)** From personal experience, I don't often use tries, but they are very common when interacting with files, [[Databases]], and internet services, as those functions can easily throw exceptions.
 >
 > **[3:43](https://www.linkedin.com/learning/hands-on-introduction-scala/our-first-test?u=76281980&t=223)** So this is a way for us to model the exception in our type instead of throwing an exception.
 >
@@ -755,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (5), hit (2), next (2), management (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Scala]] (5), [[Codespaces]] (1), [[Databases]] (1)
 > **Code Identifiers:** readfile (2), fromfile (2), getlines (2), filepath (1), tolist (1)
 > **Definitions:** is a  (5), is an  (1), basically means (1)
 > **CLI Commands:** make (3)
@@ -764,8 +756,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **File Paths:** input.txt (1)
 
-#### Implement our test
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980)
+#### [Implement our test](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,7 +782,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=70)** So make sure you keep watching as we'll be introducing the E the type in order to do this.
 >
-> **[1:17](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=77)** So we can use using and we'll import that which is scala.util.using.
+> **[1:17](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=77)** So we can use using and we'll import that which is [[Scala]].util.using.
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=87)** We'll call it's resource method.
 >
@@ -857,7 +848,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=257)** So now let's move on to our load method, which is going to write a file.
 >
-> **[4:24](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=264)** So Scala doesn't have any native writing capability, so writing to a file exclusively involves using Java classes, which is fine because Scala is interoperable with Java.
+> **[4:24](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=264)** So Scala doesn't have any native writing capability, so writing to a file exclusively involves using [[Java]] classes, which is fine because Scala is interoperable with Java.
 >
 > **[4:38](https://www.linkedin.com/learning/hands-on-introduction-scala/implement-our-test?u=76281980&t=278)** So the first thing we're going to do is create an instance of a file.
 >
@@ -883,7 +874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (8), [[Java]] (4), data (1), etl (1)
+> **Frameworks & Libraries:** [[Scala]] (8), [[Java]] (4)
 > **CLI Commands:** make (2), find (2)
 > **Documentation:** the documentation (3), spec (1)
 > **Code Identifiers:** getlines (1), tolist (1), tolowercase (1)
@@ -892,8 +883,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Challenge: Testing and higher order functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-testing-and-higher-order-functions?u=76281980)
+#### [Challenge: Testing and higher order functions](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-testing-and-higher-order-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-testing-and-higher-order-functions?u=76281980&t=5)** - [Instructor] Great, it's time for a little challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-testing-and-higher-order-functions?u=76281980&t=8)** So on Branch 01_05_challenge, I've got this Challenges.scala file that has two little challenges.
+> **[0:08](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-testing-and-higher-order-functions?u=76281980&t=8)** So on Branch 01_05_challenge, I've got this Challenges.[[Scala]] file that has two little challenges.
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-testing-and-higher-order-functions?u=76281980&t=16)** The first is to write the unit tests using ScalaTest for this method, calculateSum.
 >
@@ -940,8 +930,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Testing and higher order functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/solution-testing-and-higher-order-functions?u=76281980)
+#### [Solution: Testing and higher order functions](https://www.linkedin.com/learning/hands-on-introduction-scala/solution-testing-and-higher-order-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,14 +984,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Traits, generics, givens, and using
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980)
+#### [Traits, generics, givens, and using](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=0)** - [Instructor] Our tests are passing, so well done.
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=3)** Now we're going to do some refactoring to learn about traits, generics, and new to Scala 3, given instances and using clauses.
+> **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=3)** Now we're going to do some refactoring to learn about traits, generics, and new to [[Scala]] 3, given instances and using clauses.
 >
 > **[0:14](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=14)** So let's begin with traits. Traits are templates.
 >
@@ -1316,13 +1304,13 @@ created: 2026-05-02
 >
 > **[18:20](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=1100)** Finally, I also want to point out that Scala 3 introduced intersection and union types, which allow us to combine multiple traits to create new types.
 >
-> **[18:31](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=1111)** This is really helpful when we want to combine and compose types.
+> **[18:31](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=1111)** This is really helpful when we want to combine and [[Jetpack Compose|compose]] types.
 >
 > **[18:35](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980&t=1115)** I would recommend checking out the official documentation on this to learn more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (24), etl (22), data (3), generic (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (24), [[Jetpack Compose|Compose]] (1)
 > **Definitions:** means that (7), is a  (3), known as (1), is called (1)
 > **Code Identifiers:** testinput2 (2), intord (1), inputfilepath (1), outputfilepath (1), testoutput (1)
 > **CLI Commands:** make (3), find (1)
@@ -1331,14 +1319,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1)
 > **Env Vars:** problems (1)
 
-#### Eithers, enums, for comps, and pattern matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980)
+#### [Eithers, enums, for comps, and pattern matching](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=0)** - [Instructor] Let's look at how to add error handling to our application.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=5)** In Scala three, a new feature called enumerations was introduced, or enum for short.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=5)** In [[Scala]] three, a new feature called enumerations was introduced, or enum for short.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=12)** You might have come across enums in your programming language.
 >
@@ -1360,7 +1347,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=72)** So left represents a failure or an error condition and holds the error value, right represents a success result and holds the success value.
 >
-> **[1:24](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=84)** The either data type is commonly used when you need to return a result that can be either a success value or an error message, without using exceptions or throwing runtime errors, which are unsuitable for functional programming.
+> **[1:24](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=84)** The either data type is commonly used when you need to return a result that can be either a success value or an error message, without using exceptions or throwing runtime errors, which are unsuitable for [[Functional Programming]].
 >
 > **[1:39](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=99)** Let's begin by refactoring our sealed trait, ETL, to return eithers.
 >
@@ -1386,7 +1373,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=176)** We tend not to use try-catch blocks when doing functional programming.
 >
-> **[3:00](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=180)** In this particular case, in file utils.Scala, however, we're working with Java APIs, so we're using them for that reason.
+> **[3:00](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=180)** In this particular case, in file utils.Scala, however, we're working with [[Java]] APIs, so we're using them for that reason.
 >
 > **[3:08](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=188)** Let's begin by implementing, try-catch statements into our extract method.
 >
@@ -1522,7 +1509,7 @@ created: 2026-05-02
 >
 > **[10:20](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=620)** So pattern matching allows us to match a value against a set of patterns and execute different code, depending on the pattern that we are looking for.
 >
-> **[10:30](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=630)** Pattern matching is widely used in functional programming for tasks like data transformation, error handling, and control flow.
+> **[10:30](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=630)** Pattern matching is widely used in functional programming for tasks like [[Data Transformation]], error handling, and [[Control Flow]].
 >
 > **[10:39](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=639)** In our case, we're going to make a simple pattern match on an either.
 >
@@ -1538,7 +1525,7 @@ created: 2026-05-02
 >
 > **[11:16](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=676)** That means in the case that the ETL outputs are left, which is an error, or in the case that the ETL outputs are right, which is a success.
 >
-> **[11:26](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=686)** So I'm going to change the word value to error, and then in the case that we have an error, we can print line the string implementation failure and then print out the error.
+> **[11:26](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=686)** So I'm going to change the [[Microsoft Word|word]] value to error, and then in the case that we have an error, we can print line the string implementation failure and then print out the error.
 >
 > **[11:38](https://www.linkedin.com/learning/hands-on-introduction-scala/eithers-enums-for-comps-and-pattern-matching?u=76281980&t=698)** In the case that it's a right, we can just print line success.
 >
@@ -1608,7 +1595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (30), [[Scala]] (10), data (3), [[Functional Programming]] (3), next (3)
+> **Frameworks & Libraries:** [[Scala]] (10), [[Functional Programming]] (3), [[Java]] (1), [[Data Transformation]] (1), [[Control Flow]] (1)
 > **Env Vars:** etl (29), sbt (2), int (1)
 > **Documentation:** the documentation (5), spec (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -1617,8 +1604,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2)
 > **Analogies:** for example (1), similar to (1)
 
-#### Challenge: Traits, generics, eithers, enums, and pattern matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-traits-generics-eithers-enums-and-pattern-matching?u=76281980)
+#### [Challenge: Traits, generics, eithers, enums, and pattern matching](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-traits-generics-eithers-enums-and-pattern-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1668,7 +1654,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-traits-generics-eithers-enums-and-pattern-matching?u=76281980&t=130)** We haven't covered those yet in the course, but they're very, very straightforward.
 >
-> **[2:16](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-traits-generics-eithers-enums-and-pattern-matching?u=76281980&t=136)** So do Google it or check out the Scala documentation for how to write an if or else statement.
+> **[2:16](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-traits-generics-eithers-enums-and-pattern-matching?u=76281980&t=136)** So do [[Google]] it or check out the [[Scala]] documentation for how to write an if or else statement.
 >
 > **[2:22](https://www.linkedin.com/learning/hands-on-introduction-scala/challenge-traits-generics-eithers-enums-and-pattern-matching?u=76281980&t=142)** You'll also need to remember as a tip, how to create a right and how to create a left, which we did cover in our program.
 >
@@ -1688,7 +1674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), generic (2), [[Google]] (1), [[Scala]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Scala]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** applyfunction (1), processpayment (1)
 > **Cross-References:** in the next (2)
@@ -1697,8 +1683,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Traits, generics, eithers, enums, and pattern matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/solution-traits-generics-eithers-enums-and-pattern-matching?u=76281980)
+#### [Solution: Traits, generics, eithers, enums, and pattern matching](https://www.linkedin.com/learning/hands-on-introduction-scala/solution-traits-generics-eithers-enums-and-pattern-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1739,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), next (1)
 > **Env Vars:** ide (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
@@ -1765,8 +1749,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980)
+#### [Adding configuration](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1757,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=3)** Instead of hard coding the file paths for the input and output files, let's extract them through config.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=10)** As part of this refactoring, we'll remove some of the code that we've already written so that we can play with the popular Scala config library, called PureConfig.
+> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=10)** As part of this refactoring, we'll remove some of the code that we've already written so that we can play with the popular [[Scala]] config library, called PureConfig.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=19)** PureConfig is an open source library for reading and writing configuration files in Scala.
 >
@@ -1910,7 +1893,7 @@ created: 2026-05-02
 >
 > **[8:45](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=525)** And the reason why this is interesting is because it shows that the lines of the for comprehension are just syntactic sugar for flatMaps.
 >
-> **[8:55](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=535)** And you'll hear that word syntactic sugar used quite a lot in Scala world and maybe in other programming languages too.
+> **[8:55](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=535)** And you'll hear that [[Microsoft Word|word]] syntactic sugar used quite a lot in Scala world and maybe in other programming languages too.
 >
 > **[9:02](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980&t=542)** It just means that it's fundamentally the same thing, but it's just a different way, it's an easier way, it's a nicer way of writing it.
 >
@@ -2114,7 +2097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (20), [[Scala]] (16), application (9), next (5), hit (2)
+> **Frameworks & Libraries:** [[Scala]] (16), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** inputfilepath (6), flatmap (5), outputfilepath (4), printresult (3), etlimpl (2)
 > **Definitions:** is a  (6), is an  (5), means that (4)
 > **URLs:** [application.com](https://application.com) (9)
@@ -2123,14 +2106,13 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1), in the next (1)
 > **Tools:** terminal (1), visual studio (1)
 
-#### Refactoring the tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980)
+#### [Refactoring the tests](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=0)** - [Instructor] Right now with our tests, you would've probably noticed that we need to manually delete the output files before running the tests and also so that we don't check them into Git.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=0)** - [Instructor] Right now with our tests, you would've probably noticed that we need to manually delete the output files before running the tests and also so that we don't check them into [[Git]].
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=11)** We can solve this problem by using a Scala Test method that will write our input test files and also delete both the input and output files once the tests are finished.
+> **[0:11](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=11)** We can solve this problem by using a [[Scala]] Test method that will write our input test files and also delete both the input and output files once the tests are finished.
 >
 > **[0:22](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=22)** This is great 'cause it means that we don't have to manually delete the files or check any test files into get accidentally.
 >
@@ -2140,7 +2122,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=45)** So the first thing we're going to do is add the trait to EtlSpec.
 >
-> **[0:51](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=51)** So you'll have noticed that when we want a class to extend the trait, the first word we use is extends for the first trait.
+> **[0:51](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=51)** So you'll have noticed that when we want a class to extend the trait, the first [[Microsoft Word|word]] we use is extends for the first trait.
 >
 > **[1:00](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=60)** And then any subsequent traits, we'll prepend them with the word with.
 >
@@ -2168,7 +2150,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=143)** And then we'll take the contents of the file.
 >
-> **[2:28](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=148)** So we're going to of course create a Java FileWriter, which will take a new file at the path we want to create.
+> **[2:28](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=148)** So we're going to of course create a [[Java]] FileWriter, which will take a new file at the path we want to create.
 >
 > **[2:40](https://www.linkedin.com/learning/hands-on-introduction-scala/refactoring-the-tests?u=76281980&t=160)** We can actually use a try-finally statement here, which again, we don't typically use, but because we're using these Java APIs, it's appropriate.
 >
@@ -2258,7 +2240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Scala]] (2), [[Microsoft Word|Word]] (2), next (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Scala]] (2), [[Microsoft Word|Word]] (2), [[Git]] (1)
 > **Code Identifiers:** beforeall (6), afterall (4), stringinput (3), filewriter (2), writetestinputfile (1)
 > **CLI Commands:** make (3), git (1)
 > **URLs:** [testapplication.com](https://testapplication.com) (1), [java.io](https://java.io) (1)
@@ -2267,14 +2249,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** means that (1)
 
-#### JSON implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980)
+#### [JSON implementation](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=0)** - [Instructor] Let's create a final implementation of our ETL that parses a JSON file.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=0)** - [Instructor] Let's create a final implementation of our ETL that parses a [[JSON]] file.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=5)** We're going to use the Circe library, a popular JSON parsing library in the Scala world.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=5)** We're going to use the Circe library, a popular JSON parsing library in the [[Scala]] world.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=12)** Let's import the Circe dependency into our project.
 >
@@ -2596,7 +2577,7 @@ created: 2026-05-02
 >
 > **[16:36](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=996)** So we could make a List of all of the file paths, and then we can call foreach on that list, which will take a function that outputs unit.
 >
-> **[16:49](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=1009)** Again, strictly speaking, this is not something we see in functional programming, but because we're doing side effecting work, it's something that we could use here.
+> **[16:49](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=1009)** Again, strictly speaking, this is not something we see in [[Functional Programming]], but because we're doing side effecting work, it's something that we could use here.
 >
 > **[16:59](https://www.linkedin.com/learning/hands-on-introduction-scala/json-implementation?u=76281980&t=1019)** So for each path, we would call Files.delete, pop the path in there.
 >
@@ -2614,7 +2595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (33), [[Scala]] (8), etl (5), next (5), data (4)
+> **Frameworks & Libraries:** [[JSON]] (33), [[Scala]] (8), [[Functional Programming]] (1)
 > **Env Vars:** json (31), etl (3), ide (1)
 > **CLI Commands:** make (13), find (1)
 > **Code Identifiers:** afterall (4), usersover18 (2), intoutput (2), jsonoutput (2), inputjson (1)
@@ -2628,8 +2609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2647,7 +2627,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=30)** I would really encourage you to also think of some creative transformations that you could make to your files.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=37)** The ones that we did were basic, but I'm sure you can think of something meaningful to you so that you can practice writing more complex Scala code.
+> **[0:37](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=37)** The ones that we did were basic, but I'm sure you can think of something meaningful to you so that you can practice writing more complex [[Scala]] code.
 >
 > **[0:47](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=47)** You could even try pausing a CSV file and Googling how to do that in Scala.
 >
@@ -2693,11 +2673,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=160)** So those are the three main Scala ecosystems that you might come across.
 >
-> **[2:44](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=164)** There's also, of course, Apache Spark, which is a world its own.
+> **[2:44](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=164)** There's also, of course, [[Apache Spark]], which is a world its own.
 >
-> **[2:49](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=169)** It's the popular data processing framework, which is written in Scala, and you can uses Scala with it.
+> **[2:49](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=169)** It's the popular [[Data Processing]] framework, which is written in Scala, and you can uses Scala with it.
 >
-> **[2:55](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=175)** And there are other super fun things, like Scala.js, which generates JavaScript from your Scala code.
+> **[2:55](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=175)** And there are other super fun things, like Scala.js, which generates [[JavaScript]] from your Scala code.
 >
 > **[3:02](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=182)** How cool is that?
 >
@@ -2707,7 +2687,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=194)** I would advise continuing to build applications, and, of course, using all of the amazing documentation we've looked at over the course, including the official Scala 3 Documentation, of course.
 >
-> **[3:28](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=208)** If you're interested in functional programming, I would recommend the Typelevel stack.
+> **[3:28](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=208)** If you're interested in [[Functional Programming]], I would recommend the Typelevel stack.
 >
 > **[3:33](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=213)** Also, check out Scala Conferences near you and Meetups.
 >
@@ -2721,11 +2701,11 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=237)** Feel free to sign up to my mailing list.
 >
-> **[4:00](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=240)** And also, you can find me on LinkedIn too, of course.
+> **[4:00](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980&t=240)** And also, you can find me on [[LinkedIn]] too, of course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (16), functional (3), next (1), concurrent (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Scala]] (16), [[Apache Spark]] (1), [[Data Processing]] (1), [[JavaScript]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** find (2), make (1), ruby (1), rails (1), apache (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)

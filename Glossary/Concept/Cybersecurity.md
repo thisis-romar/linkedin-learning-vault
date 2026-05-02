@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/software-development
   - topic/artificial-intelligence
-course_count: 197
+course_count: 198
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Cybersecurity
 
-> **Type:** Concept | **Courses:** 197 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[Software Development]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 198 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[Software Development]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[The Cybersecurity Threat Landscape]] — 46 mentions
 10. [[RAG for Cybersecurity- Use Cases and Implementation]] — 38 mentions
 
-> [!note]- See all 197 courses
+> [!note]- See all 198 courses
 > 11. [[Cybersecurity Careers- Become a Security Engineer]] — 35 mentions
 > 12. [[Cybersecurity for Executives]] — 34 mentions
 > 13. [[The AI-Driven Cybersecurity Analyst]] — 33 mentions
@@ -188,46 +188,47 @@ created: 2026-05-02
 > 155. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
 > 156. [[Ethical Hacking- Social Engineering]] — 1 mentions
 > 157. [[Introduction to ESG- Environmental, Social, and Governance]] — 1 mentions
-> 158. [[Responsible AI Framework for Your Enterprise AI Product]] — 1 mentions
-> 159. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
-> 160. [[Leveraging Generative AI in Finance and Accounting]] — 1 mentions
-> 161. [[Integrating Generative AI into Business Strategy]] — 1 mentions
-> 162. [[Vulnerability Management- Assessing the Risks with CVSS v3.1]] — 1 mentions
-> 163. [[Data Science Foundations- Fundamentals]] — 1 mentions
-> 164. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
-> 165. [[Blockchain Basics]] — 1 mentions
-> 166. [[Software Testing Tips Weekly]] — 1 mentions
-> 167. [[AI Data Governance, Compliance, and Auditing for Developers]] — 1 mentions
-> 168. [[A Practical Guide to Upskilling Your Organization on AI]] — 1 mentions
-> 169. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 1 mentions
-> 170. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
-> 171. [[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]] — 1 mentions
-> 172. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
-> 173. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
-> 174. [[Python For Data Science And Machine Learning Essential Training Part]] — 1 mentions
-> 175. [[Introduction To Career Skills In Software Development]] — 1 mentions
-> 176. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 1 mentions
-> 177. [[Privacy, Governance, and Compliance- Data Sharing]] — 1 mentions
-> 178. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
-> 179. [[Threat Modeling- Spoofing In Depth]] — 1 mentions
-> 180. [[Cisco Network Security- Cisco Firewall Technologies]] — 1 mentions
-> 181. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
-> 182. [[Cisco Network Security- Content and Endpoint Security]] — 1 mentions
-> 183. [[Strategic Financial Management in Corporations]] — 1 mentions
-> 184. [[Leading with Generative AI- Master Change Management for Success]] — 1 mentions
-> 185. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 1 mentions
-> 186. [[Learning The Javascript Language]] — 1 mentions
-> 187. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
-> 188. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
-> 189. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
-> 190. [[The Data Science Of Economics Banking And Finance]] — 1 mentions
-> 191. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
-> 192. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
-> 193. [[Top Five Things To Know In Advanced Sql]] — 1 mentions
-> 194. [[Data Analysis- Investigate with SQL]] — 1 mentions
-> 195. [[Cryptocurrency Foundations 17185357]] — 1 mentions
-> 196. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
-> 197. [[Learning Autopsy for Digital Forensics]] — 1 mentions
+> 158. [[Securing Cloud Resources with Microsoft Defender for Cloud]] — 1 mentions
+> 159. [[Responsible AI Framework for Your Enterprise AI Product]] — 1 mentions
+> 160. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
+> 161. [[Leveraging Generative AI in Finance and Accounting]] — 1 mentions
+> 162. [[Integrating Generative AI into Business Strategy]] — 1 mentions
+> 163. [[Vulnerability Management- Assessing the Risks with CVSS v3.1]] — 1 mentions
+> 164. [[Data Science Foundations- Fundamentals]] — 1 mentions
+> 165. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
+> 166. [[Blockchain Basics]] — 1 mentions
+> 167. [[Software Testing Tips Weekly]] — 1 mentions
+> 168. [[AI Data Governance, Compliance, and Auditing for Developers]] — 1 mentions
+> 169. [[A Practical Guide to Upskilling Your Organization on AI]] — 1 mentions
+> 170. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 1 mentions
+> 171. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
+> 172. [[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]] — 1 mentions
+> 173. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
+> 174. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
+> 175. [[Python For Data Science And Machine Learning Essential Training Part]] — 1 mentions
+> 176. [[Introduction To Career Skills In Software Development]] — 1 mentions
+> 177. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 1 mentions
+> 178. [[Privacy, Governance, and Compliance- Data Sharing]] — 1 mentions
+> 179. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
+> 180. [[Threat Modeling- Spoofing In Depth]] — 1 mentions
+> 181. [[Cisco Network Security- Cisco Firewall Technologies]] — 1 mentions
+> 182. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
+> 183. [[Cisco Network Security- Content and Endpoint Security]] — 1 mentions
+> 184. [[Strategic Financial Management in Corporations]] — 1 mentions
+> 185. [[Leading with Generative AI- Master Change Management for Success]] — 1 mentions
+> 186. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 1 mentions
+> 187. [[Learning The Javascript Language]] — 1 mentions
+> 188. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
+> 189. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
+> 190. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
+> 191. [[The Data Science Of Economics Banking And Finance]] — 1 mentions
+> 192. [[DevOps Foundations- Monitoring and Observability]] — 1 mentions
+> 193. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
+> 194. [[Top Five Things To Know In Advanced Sql]] — 1 mentions
+> 195. [[Data Analysis- Investigate with SQL]] — 1 mentions
+> 196. [[Cryptocurrency Foundations 17185357]] — 1 mentions
+> 197. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
+> 198. [[Learning Autopsy for Digital Forensics]] — 1 mentions
 
 ## Learning Paths
 

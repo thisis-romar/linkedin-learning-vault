@@ -95,14 +95,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to R
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980)
+#### [Introduction to R](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980&t=0)** Are you ready to stand out to employers who are actively seeking professionals skilled with the R Tidyverse?
 >
-> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980&t=6)** Then join me in my LinkedIn learning course and take your knowledge of the R Tidyverse to the next level.
+> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980&t=6)** Then join me in my [[LinkedIn]] learning course and take your knowledge of the R Tidyverse to the next level.
 >
 > **[0:14](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980&t=14)** Hi, I'm Megan Silvey, a data scientist who enjoys using data to solve real world problems.
 >
@@ -116,20 +115,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 
-#### What is RStudio?
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980)
+#### [What is RStudio?](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=0)** In this video, I will show you the tools and applications you need in order to be successful in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=6)** In this course you'll be using GitHub, R, and RStudio.
+> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=6)** In this course you'll be using [[GitHub]], R, and [[RStudio]].
 >
 > **[0:11](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=11)** Let's begin by exploring the GitHub repository.
 >
-> **[0:14](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=14)** The GitHub repository you can find on the LinkedIn learning course or via this link, where it is the R Tidyverse applications.
+> **[0:14](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=14)** The GitHub repository you can find on the [[LinkedIn]] learning course or via this link, where it is the R Tidyverse applications.
 >
 > **[0:21](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=21)** And this should contain all the coding files and the data sets you need for this course.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=200)** Once you get here, you can scroll down and go to the Install R section and click on the Download and Install R button.
 >
-> **[3:27](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=207)** Once you go here, you should have the main options here to download R for Linux, macOS or Windows.
+> **[3:27](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=207)** Once you go here, you should have the main options here to download R for [[Linux]], macOS or [[Windows]].
 >
 > **[3:34](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-rstudio?u=76281980&t=214)** You should be able to click on the one for your appropriate device.
 >
@@ -331,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (10), [[GitHub]] (5), data (5), [[Windows]] (4), next (2)
+> **Frameworks & Libraries:** [[RStudio]] (10), [[GitHub]] (5), [[Windows]] (4), [[LinkedIn]] (1), [[Linux]] (1)
 > **UI Navigation:** go to (8), click on (7), scroll down (1), select the (1), drag and drop (1)
 > **Prerequisites:** install (6), you'll need (2), before you begin (1)
 > **Tools:** github (5), terminal (2)
@@ -345,8 +343,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the R tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980)
+#### [Introducing the R tidyverse](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,11 +351,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=2)** You may have heard of some of the R Tidyverse packages and use them in your previous coding work.
 >
-> **[0:09](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=9)** The R Tidyverse is a collection of R packages designed to primarily use for data science purposes.
+> **[0:09](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=9)** The R Tidyverse is a collection of R packages designed to primarily use for [[Data Science]] purposes.
 >
 > **[0:17](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=17)** This ecosystem of packages is built to optimize functionality for common data science tasks.
 >
-> **[0:24](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=24)** The main data science tasks these Tidyverse packages work with are data importing, data cleaning and wrangling, data analysis and data visualization.
+> **[0:24](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=24)** The main data science tasks these Tidyverse packages work with are data importing, [[Data Cleaning]] and wrangling, data analysis and data visualization.
 >
 > **[0:36](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=36)** Why would you want to use Tidyverse packages to complete these tasks instead of the base R language?
 >
@@ -374,11 +371,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=84)** Anyone can make a package for R, but this leaves a lot up in the air regarding the usability and maintainability of using a package on a long term basis.
 >
-> **[1:33](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=93)** Thankfully, the development and maintenance of the core Tidyverse packages are done so by the RStudio team.
+> **[1:33](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=93)** Thankfully, the development and maintenance of the core Tidyverse packages are done so by the [[RStudio]] team.
 >
 > **[1:40](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=100)** This also ensures the packages work well with this software, since it tends to be a top choice for many R programmers to use.
 >
-> **[1:47](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=107)** The Tidyverse is also openly developed on GitHub, making it easy to find documentation and code.
+> **[1:47](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=107)** The Tidyverse is also openly developed on [[GitHub]], making it easy to find documentation and code.
 >
 > **[1:54](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=114)** The R Tidyverse has a website they maintain that contains a lot of great information and documentation about these different packages.
 >
@@ -414,7 +411,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=221)** Let's scroll back up to the tidyr package.
 >
-> **[3:45](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=225)** If you click on the word tidyr, or the go to docs link, it will take you to the tidyr information page.
+> **[3:45](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=225)** If you click on the [[Microsoft Word|word]] tidyr, or the go to docs link, it will take you to the tidyr information page.
 >
 > **[3:54](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=234)** Each of the main Tidyverse package pages will be formatted similar to this one.
 >
@@ -446,13 +443,13 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=338)** I suggest taking a few minutes to familiarize yourself with this website, especially the packages section, since I will often reference it throughout this course.
 >
-> **[5:48](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=348)** You can also learn more about the R Tidyverse via LinkedIn learning courses such as Charlotte Hadley's course [[Learning the R Tidyverse]].
+> **[5:48](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=348)** You can also learn more about the R Tidyverse via [[LinkedIn]] learning courses such as Charlotte Hadley's course [[Learning the R Tidyverse]].
 >
 > **[5:56](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980&t=356)** Up next, I will walk you through the main packages that will be discussed in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[RStudio]] (2), next (2), [[GitHub]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[RStudio]] (2), [[Data Cleaning]] (1), [[GitHub]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), scroll down (2), navigate to (1), go to (1)
 > **CLI Commands:** make (4), find (3)
 > **Analogies:** for example (3), such as (2), similar to (1)
@@ -461,8 +458,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), in the last (1)
 > **Tools:** github (1)
 
-#### The R tidyverse packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980)
+#### [The R tidyverse packages](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=25)** The readr package allows you to import data that is in a tabular format from delimited files, such as comma separated values and tab separated values.
 >
-> **[0:36](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=36)** The readxl package also allows you to import data that is in a tabular format, but this package focuses on Microsoft Excel files such as XLS and XLSX.
+> **[0:36](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=36)** The readxl package also allows you to import data that is in a tabular format, but this package focuses on [[Microsoft Excel]] files such as XLS and XLSX.
 >
 > **[0:47](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=47)** Something to keep in mind is that both of these packages will import your data into your code as a tibble.
 >
@@ -520,7 +516,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=167)** This is great to use with functions and vectors.
 >
-> **[2:51](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=171)** Then there's the dplyr package, which helps you with data transformation and some basic data analysis.
+> **[2:51](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=171)** Then there's the dplyr package, which helps you with [[Data Transformation]] and some basic data analysis.
 >
 > **[2:57](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=177)** The dplyr package is powerful and key to many data analyses, so you'll most likely heavily use it after this course.
 >
@@ -532,7 +528,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=198)** There are dozens of different visualizations you can create with one or more variables using this package, along with a wide range of customizations you can make to these visualizations.
 >
-> **[3:29](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=209)** You will only scratch the surface at visualizing data with ggplot2 in this course. I suggest checking out my Chappell's LinkedIn learning course Data Visualization in R with ggplot2 to learn more about how to visualize data with this package.
+> **[3:29](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=209)** You will only scratch the surface at visualizing data with ggplot2 in this course. I suggest checking out my Chappell's [[LinkedIn]] learning course Data Visualization in R with ggplot2 to learn more about how to visualize data with this package.
 >
 > **[3:44](https://www.linkedin.com/learning/r-tidyverse-applications/the-r-tidyverse-packages?u=76281980&t=224)** I know this may seem overwhelming with so many packages to keep track of, but don't worry, I will walk you through each package, show you some of their common functions, and provide you with tools and resources you need to continue expanding your knowledge.
 >
@@ -540,21 +536,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), next (2), [[Microsoft Excel]] (1), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** xls (1), xlsx (1)
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **CLI Commands:** make (1)
 
-#### Introducing KinetEco
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980)
+#### [Introducing KinetEco](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=0)** In this course, you'll be working with data from the company KinetEco.
 >
-> **[0:04](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=4)** KinetEco is a fictitious company that provides eco-friendly products that are focused on renewable energy to individuals and businesses.
+> **[0:04](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=4)** KinetEco is a fictitious company that provides eco-friendly [[Microsoft Products|products]] that are focused on renewable energy to individuals and businesses.
 >
 > **[0:13](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=13)** They have solar, wind, and consumer products available for purchase.
 >
@@ -598,7 +593,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=129)** This page explains how wind turbines work to provide energy to your business.
 >
-> **[2:16](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=136)** It also mentions their product, the K-Eco Wind Tunnel, which is a wind turbine system that can be used to power an office building of 40 people for 20% of each workday.
+> **[2:16](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=136)** It also mentions their product, the K-Eco Wind Tunnel, which is a wind turbine system that can be used to power an [[Microsoft Office|office]] building of 40 people for 20% of each workday.
 >
 > **[2:26](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-kineteco?u=76281980&t=146)** Next, let's navigate to the blog page.
 >
@@ -612,21 +607,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), power (3), data (2), product (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** navigate to (6), go to (3), scroll down (2), click on (1)
 > **Env Vars:** url (1), psa (1)
 > **Definitions:** is a  (2)
 > **URLs:** [kinetecoinc.com](https://kinetecoinc.com) (1)
 > **Prerequisites:** install (1)
 
-#### Understanding KinetEco Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980)
+#### [Understanding KinetEco Data](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=0)** Let's begin by familiarizing yourself with the KinetEco data you will be analyzing in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=6)** You'll be using RStudio in this course to use the Tidyverse packages, but I will show you the data sets using Microsoft Excel.
+> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=6)** You'll be using [[RStudio]] in this course to use the Tidyverse packages, but I will show you the data sets using [[Microsoft Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=13)** You will use three data sets in this course that include sales, product, and customer data.
 >
@@ -652,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=70)** This includes product category, product number, and product name.
 >
-> **[1:15](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=75)** Finally, you have the quantity, price, any discount and the order total for the order that was made for the products purchased.
+> **[1:15](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=75)** Finally, you have the quantity, price, any discount and the order total for the order that was made for the [[Microsoft Products|products]] purchased.
 >
 > **[1:24](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-kineteco-data?u=76281980&t=84)** Let's go to the Sales Reps tab.
 >
@@ -714,14 +708,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), product (12), [[Microsoft Products|Products]] (5), business (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[RStudio]] (1), [[Microsoft Excel]] (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
 
-#### What is a tibble?
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980)
+#### [What is a tibble?](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +748,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=78)** Throughout this course, I will share different resources with you for the different packages you will use.
 >
-> **[1:24](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=84)** This will include where you can find information on the Tidyverse website, GitHub repositories, and cheat sheets. For tibbles, let's head over to the tibble Tidyverse webpage, which you can find via this URL.
+> **[1:24](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=84)** This will include where you can find information on the Tidyverse website, [[GitHub]] repositories, and cheat sheets. For tibbles, let's head over to the tibble Tidyverse webpage, which you can find via this URL.
 >
 > **[1:37](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=97)** On the Tibble package page, you'll see there is an overview of what a tibble is and what the package does.
 >
@@ -765,7 +758,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=115)** You can use this web page for reference, and I will share with you how to access the tibble portion of the Tidy R cheat sheet in a later video.
 >
-> **[2:04](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=124)** Let's head over to RStudio to begin exploring tibbles.
+> **[2:04](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=124)** Let's head over to [[RStudio]] to begin exploring tibbles.
 >
 > **[2:07](https://www.linkedin.com/learning/r-tidyverse-applications/what-is-a-tibble?u=76281980&t=127)** Let's begin by learning how to import these different Tidyverse packages.
 >
@@ -869,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[GitHub]] (1), web (1), [[RStudio]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[RStudio]] (1)
 > **Code Identifiers:** new_tibble (5), is_tibble (3), as_tibble (2)
 > **Prerequisites:** install (10)
 > **Definitions:** is a  (5), is an  (2), is called (1)
@@ -878,8 +871,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Tools:** github (1)
 
-#### Loading data with the tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980)
+#### [Loading data with the tidyverse](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=37)** The other main package you will use to read in data is the readxl package.
 >
-> **[0:42](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=42)** This package also loads in tabular data with a variety of data types, but this one focuses on loading data from Excel files.
+> **[0:42](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=42)** This package also loads in tabular data with a variety of data types, but this one focuses on loading data from [[Microsoft Excel|Excel]] files.
 >
 > **[0:49](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=49)** This package supports both the .XLS legacy format and the newer .XLSX format.
 >
@@ -941,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=168)** You can either click on the cheat sheet here to download it to your computer.
 >
-> **[2:52](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=172)** Sometimes it'll download it directly, other times it'll take you directly to the GitHub page where the cheat sheet lives, and you can click download here to download the file.
+> **[2:52](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=172)** Sometimes it'll download it directly, other times it'll take you directly to the [[GitHub]] page where the cheat sheet lives, and you can click download here to download the file.
 >
 > **[3:01](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=181)** Sometimes the cheat sheet will not be in the Tidyverse website, so you can navigate to the GitHub directly, which should usually have the cheat sheet for each of these packages.
 >
@@ -991,7 +983,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=345)** So that star will be for example CSV, TSV or any of the other functions you just saw.
 >
-> **[5:50](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=350)** When it comes to using the parameters, the file parameter at the top, you need to make sure you specify each time you use this function, but the rest of the parameters you don't have to specify if you just want to use them in their default format.
+> **[5:50](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=350)** When it comes to using the parameters, the file parameter at the top, you need to make sure you specify each time you use this function, but the [[Representational State Transfer (REST)|rest]] of the parameters you don't have to specify if you just want to use them in their default format.
 >
 > **[6:04](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=364)** If you do want to change them, that is when you will need to specify them in your code and specify how you want to change it.
 >
@@ -1011,7 +1003,7 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=450)** Note that you can use read_excel, read_xls, or read_xlsx depending on the file type you're reading in.
 >
-> **[7:37](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=457)** Often we will use read_excel because this works for both Microsoft Excel file types.
+> **[7:37](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=457)** Often we will use read_excel because this works for both [[Microsoft Excel]] file types.
 >
 > **[7:43](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=463)** Here are the default parameters.
 >
@@ -1049,11 +1041,11 @@ created: 2026-05-02
 >
 > **[9:24](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=564)** And in col types it'll also show as list.
 >
-> **[9:26](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=566)** Let's head over to RStudio to start loading in some data with that readr package.
+> **[9:26](https://www.linkedin.com/learning/r-tidyverse-applications/loading-data-with-the-tidyverse?u=76281980&t=566)** Let's head over to [[RStudio]] to start loading in some data with that readr package.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), web (9), next (4), [[GitHub]] (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[RStudio]] (1)
 > **Code Identifiers:** read_excel (4), read_csv (3), read_tsv (2), read_xls (2), read_xlsx (2)
 > **UI Navigation:** navigate to (5), click on (4), scroll down (1)
 > **Env Vars:** csv (3), tsv (3), xls (1), xlsx (1), url (1)
@@ -1062,8 +1054,7 @@ created: 2026-05-02
 > **Tools:** github (4)
 > **Warnings:** note that (3)
 
-#### Load and write data with readr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980)
+#### [Load and write data with readr](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,13 +1070,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=32)** You click here to run and remember you only need to install this package once.
 >
-> **[0:39](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=39)** In case you need to reinstall this package, RStudio should let you know to do that.
+> **[0:39](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=39)** In case you need to reinstall this package, [[RStudio]] should let you know to do that.
 >
 > **[0:44](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=44)** Now that it's all installed, you can load it in using library(readr), and now you're good to go to use readr and its functions.
 >
 > **[0:55](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=55)** Now let's take some time to learn about the functions used to read in data using the readr package.
 >
-> **[1:01](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=61)** Let's create a new tibble called products where you will use the read_csv function, since it is a CSV file, to load in your KinetEco products.csv file, and then you can call products to make sure it gets all printed out.
+> **[1:01](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=61)** Let's create a new tibble called [[Microsoft Products|products]] where you will use the read_csv function, since it is a CSV file, to load in your KinetEco products.csv file, and then you can call products to make sure it gets all printed out.
 >
 > **[1:21](https://www.linkedin.com/learning/r-tidyverse-applications/load-and-write-data-with-readr?u=76281980&t=81)** And when you run this you should have two outputs of data.
 >
@@ -1229,7 +1220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Products|Products]] (9), product (6), [[RStudio]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[RStudio]] (1)
 > **Code Identifiers:** read_csv (3), col_types (3), col_names (2), col_factor (1), show_col_types (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** csv (5)
@@ -1238,8 +1229,7 @@ created: 2026-05-02
 > **Warnings:** note that (4)
 > **Prerequisites:** install (4)
 
-#### Load data with readxl and write with writexl
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/load-data-with-readxl-and-write-with-writexl?u=76281980)
+#### [Load data with readxl and write with writexl](https://www.linkedin.com/learning/r-tidyverse-applications/load-data-with-readxl-and-write-with-writexl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1255,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/r-tidyverse-applications/load-data-with-readxl-and-write-with-writexl?u=76281980&t=53)** And now you're ready to go to use the readxl package.
 >
-> **[0:57](https://www.linkedin.com/learning/r-tidyverse-applications/load-data-with-readxl-and-write-with-writexl?u=76281980&t=57)** Let's begin by viewing the different Excel sheet names in the KinetEco Sales xlsx data set.
+> **[0:57](https://www.linkedin.com/learning/r-tidyverse-applications/load-data-with-readxl-and-write-with-writexl?u=76281980&t=57)** Let's begin by viewing the different [[Microsoft Excel|Excel]] sheet names in the KinetEco Sales xlsx data set.
 >
 > **[1:04](https://www.linkedin.com/learning/r-tidyverse-applications/load-data-with-readxl-and-write-with-writexl?u=76281980&t=64)** You could do so by using excel_sheets, and inside this function you will call on your KinetEco sales data set with the xlsx file name.
 >
@@ -1465,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Microsoft Excel|Excel]] (14), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14)
 > **Code Identifiers:** read_excel (3), cell_cols (3), excel_sheets (1), read_xlsx (1), col_types (1)
 > **Prerequisites:** install (9), make sure you have (1)
 > **CLI Commands:** make (3), find (1)
@@ -1474,8 +1464,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **URLs:** [ropensci.org](https://ropensci.org) (1)
 
-#### Solution: Load data
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980)
+#### [Solution: Load data](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,13 +1476,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=13)** I will explain step by step what should have been filled in and what each line of code is doing.
 >
-> **[0:18](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=18)** Let's head over to RStudio.
+> **[0:18](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=18)** Let's head over to [[RStudio]].
 >
 > **[0:20](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=20)** You will begin by loading in the readxl package, which you can use the library function for with 'readxl'.
 >
 > **[0:28](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=28)** This will load in the package for your R code.
 >
-> **[0:33](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=33)** Now that the package is loaded in, you can view the sheet names for the customer data in your Excel file.
+> **[0:33](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=33)** Now that the package is loaded in, you can view the sheet names for the customer data in your [[Microsoft Excel|Excel]] file.
 >
 > **[0:39](https://www.linkedin.com/learning/r-tidyverse-applications/solution-load-data?u=76281980&t=39)** So you'll call in the excel_sheets function and look at your KinetEco customer.xlsx data set.
 >
@@ -1565,7 +1554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), business (11), [[Microsoft Excel|Excel]] (5), next (2), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[RStudio]] (1)
 > **Code Identifiers:** excel_sheets (2), n_max (1), cell_cols (1)
 > **Definitions:** means that (2)
 > **Warnings:** note that (2)
@@ -1578,8 +1567,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dealing with missing values with tidyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980)
+#### [Dealing with missing values with tidyr](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,7 +1605,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=92)** Below that, you'll view some installation instructions for installing the entire Tidyverse along with just the tidyr package.
 >
-> **[1:40](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=100)** And below that is the cheat sheet, which you can either save here or on the GitHub page.
+> **[1:40](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=100)** And below that is the cheat sheet, which you can either save here or on the [[GitHub]] page.
 >
 > **[1:45](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=105)** Below that is some information on how to get started using the tidyr package, along with some common functions.
 >
@@ -1645,7 +1633,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=178)** Nested data will not be covered in this course, but I highly recommend using this cheat sheet and other resources to explore this on your own.
 >
-> **[3:07](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=187)** Let's head over to RStudio to begin using the tidyr package.
+> **[3:07](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=187)** Let's head over to [[RStudio]] to begin using the tidyr package.
 >
 > **[3:12](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=192)** Once you're in RStudio, go ahead and run the top portion of your code that is, run first to load in your readxl package along with your customer data set.
 >
@@ -1687,7 +1675,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=316)** When you run this you will see there are nine null values in customer type, six null values and customer name, and 19 null values in SalesRegion.
 >
-> **[5:26](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=326)** All the rest of the columns have zero null values, so that means that they are good to go.
+> **[5:26](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=326)** All the [[Representational State Transfer (REST)|rest]] of the columns have zero null values, so that means that they are good to go.
 >
 > **[5:30](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980&t=330)** Let's begin by dealing with the null values in the SalesRegion column.
 >
@@ -1771,7 +1759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (5), [[GitHub]] (4), [[RStudio]] (2), web (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[RStudio]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (3), is a  (2), is an  (1)
 > **Code Identifiers:** is_na (2), replace_na (1), drop_na (1)
 > **Tools:** github (4)
@@ -1780,8 +1768,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2), for example (1)
 > **CLI Commands:** make (2)
 
-#### Reshaping data with tidyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/reshaping-data-with-tidyr?u=76281980)
+#### [Reshaping data with tidyr](https://www.linkedin.com/learning/r-tidyverse-applications/reshaping-data-with-tidyr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1935,15 +1922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), product (15), next (6), business (1)
 > **Code Identifiers:** sales_product (2), pivot_wider (2), separate_longer_delim (1), order_type_quantity (1), pivot_longer (1)
 > **Warnings:** note that (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Mutate strings with stringr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980)
+#### [Mutate strings with stringr](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,9 +1954,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=60)** Then you can view the installation instructions down here of how to install the whole Tidyverse or just stringr, along with the cheat sheet.
 >
-> **[1:08](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=68)** Again, note you can download the cheat sheet directly here or on the GitHub page.
+> **[1:08](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=68)** Again, note you can download the cheat sheet directly here or on the [[GitHub]] page.
 >
-> **[1:12](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=72)** Below that are some instructions on how to use the package with some of its common functions, and then finally some other information dealing with RStudio Addin compared how it is to using base R, and learning more about some of the other functions.
+> **[1:12](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=72)** Below that are some instructions on how to use the package with some of its common functions, and then finally some other information dealing with [[RStudio]] Addin compared how it is to using base R, and learning more about some of the other functions.
 >
 > **[1:28](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=88)** Let's head over to the stringr GitHub page, which is [github.com/tidyverse/stringr](https://github.com/tidyverse/stringr).
 >
@@ -2105,13 +2090,13 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=464)** And so what this will do is it will title case your values instead of fully upper casing or lower casing them.
 >
-> **[7:52](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=472)** When you run this and scroll over to the ProdName column, you'll see that everything should be title case, which means the first letter in each word inside this column should be uppercase now.
+> **[7:52](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=472)** When you run this and scroll over to the ProdName column, you'll see that everything should be title case, which means the first letter in each [[Microsoft Word|word]] inside this column should be uppercase now.
 >
 > **[8:03](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-strings-with-stringr?u=76281980&t=483)** In the next video, you will continue exploring the stringr package by learning how to manipulate strings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[GitHub]] (4), next (4), [[RStudio]] (2), business (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[RStudio]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** replace_all (4), str_replace (2), str_to_upper (2), str_sub (1), str_to_lower (1)
 > **CLI Commands:** make (4), find (1)
 > **Prerequisites:** install (5)
@@ -2120,8 +2105,7 @@ created: 2026-05-02
 > **Analogies:** such as (2), similar to (2)
 > **Env Vars:** b2b (3)
 
-#### Manipulate strings with stringr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980)
+#### [Manipulate strings with stringr](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2175,7 +2159,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=162)** And then you'll just notice where just exactly that string Price occurs.
 >
-> **[2:45](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=165)** So it won't include the rest of the name.
+> **[2:45](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=165)** So it won't include the [[Representational State Transfer (REST)|rest]] of the name.
 >
 > **[2:47](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=167)** It's just that particular string that you are looking for.
 >
@@ -2267,7 +2251,7 @@ created: 2026-05-02
 >
 > **[7:36](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=456)** Let's call on your sales prod name column to view the results for this. When you run it, you'll notice that your strings now have that minimum padding of 20 characters.
 >
-> **[7:48](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=468)** So some of these shorter strings now have these extra spaces between them, between where the word ends for the last string and the end of the full string inside the data.
+> **[7:48](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=468)** So some of these shorter strings now have these extra spaces between them, between where the [[Microsoft Word|word]] ends for the last string and the end of the full string inside the data.
 >
 > **[7:59](https://www.linkedin.com/learning/r-tidyverse-applications/manipulate-strings-with-stringr?u=76281980&t=479)** For the longer ones, you'll notice they are the same as before because they are longer than those 20 characters.
 >
@@ -2289,7 +2273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (4), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** str_detect (4), str_pad (3), str_subset (1), str_extract (1), str_match (1)
 > **Analogies:** such as (4), similar to (1), for example (1)
 > **CLI Commands:** find (3), make (2)
@@ -2298,8 +2282,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Join and split strings with stringr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/join-and-split-strings-with-stringr?u=76281980)
+#### [Join and split strings with stringr](https://www.linkedin.com/learning/r-tidyverse-applications/join-and-split-strings-with-stringr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2391,13 +2374,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (4), data (2)
 > **Code Identifiers:** str_split (3), str_flatten (2), str_dup (1), str_glue_data (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Understanding dates with lubridate
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980)
+#### [Understanding dates with lubridate](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,7 +2398,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=39)** On the lubridate package page, you'll see there is an overview of what the package does.
 >
-> **[0:45](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=45)** Below that you can scroll to view some installation instructions for the Tidyverse and specifically the lubridate package, the cheat sheet, which you can download here or on the GitHub page.
+> **[0:45](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=45)** Below that you can scroll to view some installation instructions for the Tidyverse and specifically the lubridate package, the cheat sheet, which you can download here or on the [[GitHub]] page.
 >
 > **[0:55](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=55)** Some common features and some examples with some of the common functions.
 >
@@ -2465,7 +2446,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=185)** As 000000 UTC.
 >
-> **[3:08](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=188)** Let's head over to RStudio to begin using the lubridate package.
+> **[3:08](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=188)** Let's head over to [[RStudio]] to begin using the lubridate package.
 >
 > **[3:14](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=194)** In this video, I will focus on showing you how to work with some general lubridate functions.
 >
@@ -2547,7 +2528,7 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=462)** So again you'll see that this should be converted for this along with it being the correct data type as far as a date.
 >
-> **[7:50](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=470)** Some databases store their dates as decimal values.
+> **[7:50](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=470)** Some [[Databases]] store their dates as decimal values.
 >
 > **[7:55](https://www.linkedin.com/learning/r-tidyverse-applications/understanding-dates-with-lubridate?u=76281980&t=475)** If this is the case, you can convert a decimal into a date using the function date_decimal().
 >
@@ -2601,7 +2582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[GitHub]] (5), next (3), web (1), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[RStudio]] (1), [[Databases]] (1)
 > **Code Identifiers:** as_datetime (2), ymd_hms (2), parse_date_time (2), as_date (1), as_hms (1)
 > **Ports:** :33 (1), :04 (1), :05 (1), :00 (1), :30 (1)
 > **Prerequisites:** install (5), make sure you have (1)
@@ -2610,8 +2591,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** utc (3), url (1)
 
-#### Edit dates with lubridate
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/edit-dates-with-lubridate?u=76281980)
+#### [Edit dates with lubridate](https://www.linkedin.com/learning/r-tidyverse-applications/edit-dates-with-lubridate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2727,7 +2707,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (1)
 > **Code Identifiers:** floor_date (3), ceiling_date (1), round_date (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -2735,8 +2714,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Solution: Manipulate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980)
+#### [Solution: Manipulate data](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2748,7 +2726,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=15)** I will explain step by step what should have been filled in and what each line of code is doing.
 >
-> **[0:19](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=19)** Let's head over to RStudio.
+> **[0:19](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=19)** Let's head over to [[RStudio]].
 >
 > **[0:22](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=22)** You'll start off by running the code at the top of your coding file to load in all the packages from the Tidyverse, along with the sales representative data.
 >
@@ -2760,7 +2738,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=62)** In these results, you can see there are nine different possible regions that occur in the data set.
 >
-> **[1:08](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=68)** You'll notice the word Central frequently occurs in these options.
+> **[1:08](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=68)** You'll notice the [[Microsoft Word|word]] Central frequently occurs in these options.
 >
 > **[1:12](https://www.linkedin.com/learning/r-tidyverse-applications/solution-manipulate-data?u=76281980&t=72)** Let's move on to the next test for the region column to remove this Central value.
 >
@@ -2854,7 +2832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[RStudio]] (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sales_reps (1), str_replace_all (1), str_sub (1)
 > **Definitions:** is a  (1)
 
@@ -2863,8 +2841,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Factor categorical data with forcats
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980)
+#### [Factor categorical data with forcats](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2900,7 +2877,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=89)** On the forcats package page you'll see there is an overview of what the package does.
 >
-> **[1:35](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=95)** Below that you can view some installation instructions to install the whole Tidyverse or just the forcats package, the cheat sheet, which you can download here or on the GitHub page, and some information for getting started.
+> **[1:35](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=95)** Below that you can view some installation instructions to install the whole Tidyverse or just the forcats package, the cheat sheet, which you can download here or on the [[GitHub]] page, and some information for getting started.
 >
 > **[1:46](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=106)** This includes some different examples, along with some visualizations that are often used with the forcats package.
 >
@@ -2920,7 +2897,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=151)** This cheat sheet focuses on creating, inspecting, combining, and adjusting factors for the different levels, including changing the order of levels, changing the value of levels, and adding or dropping levels.
 >
-> **[2:44](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=164)** Let's head over to RStudio to begin using the forcats package.
+> **[2:44](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=164)** Let's head over to [[RStudio]] to begin using the forcats package.
 >
 > **[2:48](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980&t=168)** You'll begin by running the top portion of your code to load in your data using the readxl package, so you'll be looking at the sales data for this one.
 >
@@ -3012,7 +2989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[GitHub]] (4), next (3), [[RStudio]] (1), business (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[RStudio]] (1)
 > **Env Vars:** url (2), b2b (2), b2c (2), fctr (1)
 > **Prerequisites:** install (6), getting started (1)
 > **Tools:** github (4)
@@ -3021,8 +2998,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2), for example (1)
 > **Warnings:** note that (2), be aware (1)
 
-#### Inspect and mutate factors with forcats
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/inspect-and-mutate-factors-with-forcats?u=76281980)
+#### [Inspect and mutate factors with forcats](https://www.linkedin.com/learning/r-tidyverse-applications/inspect-and-mutate-factors-with-forcats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3058,7 +3034,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/r-tidyverse-applications/inspect-and-mutate-factors-with-forcats?u=76281980&t=95)** Go ahead and use the function fct_count on the sales EmpTitle column.
 >
-> **[1:43](https://www.linkedin.com/learning/r-tidyverse-applications/inspect-and-mutate-factors-with-forcats?u=76281980&t=103)** When you run this, you'll see one decimal value at the top that you can ignore for now, but the rest of the values, such as Sales Associate and Sales Representative, should have the number of times they occur in your EmpTitle factor column.
+> **[1:43](https://www.linkedin.com/learning/r-tidyverse-applications/inspect-and-mutate-factors-with-forcats?u=76281980&t=103)** When you run this, you'll see one decimal value at the top that you can ignore for now, but the [[Representational State Transfer (REST)|rest]] of the values, such as Sales Associate and Sales Representative, should have the number of times they occur in your EmpTitle factor column.
 >
 > **[1:57](https://www.linkedin.com/learning/r-tidyverse-applications/inspect-and-mutate-factors-with-forcats?u=76281980&t=117)** According to this, it looks like Sales Representative at 1,172 occurs the most frequently out of all these different values.
 >
@@ -3118,7 +3094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), business (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** fct_expand (2), fct_unique (1), fct_count (1), fct_match (1), fct_drop (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (2)
@@ -3127,8 +3103,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Adjust factor levels with forcats
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/adjust-factor-levels-with-forcats?u=76281980)
+#### [Adjust factor levels with forcats](https://www.linkedin.com/learning/r-tidyverse-applications/adjust-factor-levels-with-forcats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3280,7 +3255,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), business (2)
 > **Code Identifiers:** fct_relevel (1), fct_infreq (1), fct_inorder (1), fct_rev (1), fct_shift (1)
 > **Env Vars:** b2b (2), b2c (2), fct (1)
 > **Warnings:** note that (3)
@@ -3288,9 +3262,9 @@ created: 2026-05-02
 > **Versions:** 4.0 (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
+> **Definitions:** is a  (1)
 
-#### Map functions with purrr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980)
+#### [Map functions with purrr](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3320,7 +3294,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=65)** Below that is some information on how to use the package, along with a quick example.
 >
-> **[1:11](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=71)** Let's head over to the GitHub using the link [github.com/tidyverse/purrr](https://github.com/tidyverse/purrr).
+> **[1:11](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=71)** Let's head over to the [[GitHub]] using the link [github.com/tidyverse/purrr](https://github.com/tidyverse/purrr).
 >
 > **[1:16](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=76)** On this GitHub page you can view the code behind the purrr package.
 >
@@ -3344,7 +3318,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=121)** It also includes some vector and predicate functions.
 >
-> **[2:05](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=125)** Let's head over to RStudio to begin using the purrr package.
+> **[2:05](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=125)** Let's head over to [[RStudio]] to begin using the purrr package.
 >
 > **[2:09](https://www.linkedin.com/learning/r-tidyverse-applications/map-functions-with-purrr?u=76281980&t=129)** Begin by running the top portion of your code to load in your sales data using the readxl package.
 >
@@ -3488,7 +3462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (5), [[GitHub]] (3), web (1), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[RStudio]] (1)
 > **Analogies:** for example (4), similar to (2), such as (2)
 > **Prerequisites:** install (4), make sure you have (2)
 > **CLI Commands:** make (2), find (1)
@@ -3497,14 +3471,13 @@ created: 2026-05-02
 > **Tools:** github (3)
 > **UI Navigation:** scroll down (2), navigate to (1)
 
-#### Other functions with purrr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/other-functions-with-purrr?u=76281980)
+#### [Other functions with purrr](https://www.linkedin.com/learning/r-tidyverse-applications/other-functions-with-purrr?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/r-tidyverse-applications/other-functions-with-purrr?u=76281980&t=0)** In this video, I will show you some other popular functions for the purrr package.
 >
-> **[0:05](https://www.linkedin.com/learning/r-tidyverse-applications/other-functions-with-purrr?u=76281980&t=5)** To begin, run the top block of code to load in your packages and products data.
+> **[0:05](https://www.linkedin.com/learning/r-tidyverse-applications/other-functions-with-purrr?u=76281980&t=5)** To begin, run the top block of code to load in your packages and [[Microsoft Products|products]] data.
 >
 > **[0:11](https://www.linkedin.com/learning/r-tidyverse-applications/other-functions-with-purrr?u=76281980&t=11)** Let's start off by learning how to use a few predicate functions to check if inputs pass a logical test or not, with true and false as the potential outcomes.
 >
@@ -3618,15 +3591,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), data (4), next (4), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Code Identifiers:** head_while (1), modify_if (1), list_flatten (1)
 > **CLI Commands:** make (1)
 > **Versions:** 598.60 (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: Factor data
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/solution-factor-data?u=76281980)
+#### [Solution: Factor data](https://www.linkedin.com/learning/r-tidyverse-applications/solution-factor-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3638,7 +3610,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/r-tidyverse-applications/solution-factor-data?u=76281980&t=14)** I will explain step by step what should have been filled in and what each line of code is doing.
 >
-> **[0:19](https://www.linkedin.com/learning/r-tidyverse-applications/solution-factor-data?u=76281980&t=19)** Let's head over to RStudio.
+> **[0:19](https://www.linkedin.com/learning/r-tidyverse-applications/solution-factor-data?u=76281980&t=19)** Let's head over to [[RStudio]].
 >
 > **[0:22](https://www.linkedin.com/learning/r-tidyverse-applications/solution-factor-data?u=76281980&t=22)** You'll start off by running the code at the top of your coding file that says, run first to load in your tidyverse packages and your customer's data set.
 >
@@ -3710,7 +3682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[RStudio]] (1), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1)
 > **Code Identifiers:** as_factor (1), fct_expand (1), fct_infreq (1), fct_count (1)
 > **Warnings:** note that (1)
 
@@ -3719,8 +3691,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize data with dplyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980)
+#### [Summarize data with dplyr](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3732,7 +3703,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=12)** Let's begin with the dplyr package.
 >
-> **[0:15](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=15)** The dplyr package helps you with data transformation and some basic data analysis.
+> **[0:15](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=15)** The dplyr package helps you with [[Data Transformation]] and some basic data analysis.
 >
 > **[0:20](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=20)** The dplyr package is powerful and key to many analyses.
 >
@@ -3748,7 +3719,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=59)** On the dplyr package page, you'll first see there's an overview of what the package does with some of its common functions, along with some information on the back ends.
 >
-> **[1:11](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=71)** Below that, you'll view some instructions on how to install the tidyverse and the dplyr package the cheat sheet, which you can download here or on the GitHub page, and some usage instructions, along with a few examples of how to use some of the common functions of this package.
+> **[1:11](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=71)** Below that, you'll view some instructions on how to install the tidyverse and the dplyr package the cheat sheet, which you can download here or on the [[GitHub]] page, and some usage instructions, along with a few examples of how to use some of the common functions of this package.
 >
 > **[1:27](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=87)** Let's head over to the dplyr GitHub using the link [github.com/tidyverse/dplyr](https://github.com/tidyverse/dplyr).
 >
@@ -3770,11 +3741,11 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=145)** Let's take a moment to look a bit closer at the summarizing functions.
 >
-> **[2:30](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=150)** The summarize function allows you to get summary statistics from your data.
+> **[2:30](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=150)** The summarize function allows you to get summary [[Statistics]] from your data.
 >
 > **[2:34](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=154)** The types of summary statistics you can get are accounts, averages, sums, order, rank, and spreads such as variance and interquartile range.
 >
-> **[2:43](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=163)** Let's head over to RStudio to begin using the dplyr package.
+> **[2:43](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=163)** Let's head over to [[RStudio]] to begin using the dplyr package.
 >
 > **[2:48](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=168)** Begin by running the top portion of your code to load in your data using the readxl package.
 >
@@ -3862,7 +3833,7 @@ created: 2026-05-02
 >
 > **[7:23](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=443)** So you call this column rows and use the function n to get that the second one.
 >
-> **[7:28](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=448)** Let's look at the unique categories for the products.
+> **[7:28](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=448)** Let's look at the unique categories for the [[Microsoft Products|products]].
 >
 > **[7:32](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=452)** So call that unique categories and equal it to the n_distinct function of the ProdCategory column.
 >
@@ -3886,7 +3857,7 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=523)** And you can click to the right.
 >
-> **[8:44](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=524)** And that should show you the rest of those values.
+> **[8:44](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=524)** And that should show you the [[Representational State Transfer (REST)|rest]] of those values.
 >
 > **[8:48](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980&t=528)** Finally, let's use the count function, which will count the number of rows in each group of a variable.
 >
@@ -3900,7 +3871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[GitHub]] (4), [[Statistics]] (4), next (4), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Statistics]] (4), [[Data Transformation]] (1), [[RStudio]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** similar to (2), such as (2), for example (1)
 > **Prerequisites:** install (5)
 > **Tools:** github (4)
@@ -3909,14 +3880,13 @@ created: 2026-05-02
 > **Versions:** 13.99 (1), 7.53 (1), 1.45 (1)
 > **UI Navigation:** navigate to (1), scroll down (1), go to (1)
 
-#### Group data with dplyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980)
+#### [Group data with dplyr](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=0)** In this video, I will show you how to group data with the dplyr package.
 >
-> **[0:04](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=4)** This is similar to using pivot tables in Microsoft Excel, where you aggregate data together based on one or more distinct column values.
+> **[0:04](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=4)** This is similar to using [[Pivot Tables]] in [[Microsoft Excel]], where you aggregate data together based on one or more distinct column values.
 >
 > **[0:12](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=12)** Begin by running the top portion of your code to load in your packages and sales dataset.
 >
@@ -3942,7 +3912,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=96)** So for example, with batteries there are 1,874 of them sold.
 >
-> **[1:43](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=103)** Copy and paste the code from above, but this time you will adjust the inside of the summarize function to get two different summary statistics.
+> **[1:43](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=103)** Copy and paste the code from above, but this time you will adjust the inside of the summarize function to get two different summary [[Statistics]].
 >
 > **[1:53](https://www.linkedin.com/learning/r-tidyverse-applications/group-data-with-dplyr?u=76281980&t=113)** So this time have your first column be average, total and equal it to the mean of the OrderTotal.
 >
@@ -4006,7 +3976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (5), next (4), [[Statistics]] (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Pivot Tables]] (1), [[Microsoft Excel]] (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** group_by (2)
@@ -4015,8 +3985,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 
-#### Mutate data with dplyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-data-with-dplyr?u=76281980)
+#### [Mutate data with dplyr](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-data-with-dplyr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4076,7 +4045,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-data-with-dplyr?u=76281980&t=154)** This includes offsetting elements, calculating cumulative aggregates, ranking elements, performing mathematical operations, and a variety of other functions such as case statements.
 >
-> **[2:46](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-data-with-dplyr?u=76281980&t=166)** Let's head back over to RStudio to begin using this mutate function.
+> **[2:46](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-data-with-dplyr?u=76281980&t=166)** Let's head back over to [[RStudio]] to begin using this mutate function.
 >
 > **[2:51](https://www.linkedin.com/learning/r-tidyverse-applications/mutate-data-with-dplyr?u=76281980&t=171)** The first mutate function you will run is with a simple division operation.
 >
@@ -4150,7 +4119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (4), [[RStudio]] (1), product (1)
+> **Frameworks & Libraries:** [[RStudio]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1), make sure you have (1)
@@ -4159,8 +4128,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Filter data with dplyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/filter-data-with-dplyr?u=76281980)
+#### [Filter data with dplyr](https://www.linkedin.com/learning/r-tidyverse-applications/filter-data-with-dplyr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4178,7 +4146,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/r-tidyverse-applications/filter-data-with-dplyr?u=76281980&t=35)** Where if you scroll over to the Quantity column, they should be at 5 or more.
 >
-> **[0:41](https://www.linkedin.com/learning/r-tidyverse-applications/filter-data-with-dplyr?u=76281980&t=41)** Next, let's filter using a stringr function. Call on your sales variable, a pipe operator in your filter function again, and this time add in the function str_starts to determine for the sales SalesRegion column, where it starts with the word Central.
+> **[0:41](https://www.linkedin.com/learning/r-tidyverse-applications/filter-data-with-dplyr?u=76281980&t=41)** Next, let's filter using a stringr function. Call on your sales variable, a pipe operator in your filter function again, and this time add in the function str_starts to determine for the sales SalesRegion column, where it starts with the [[Microsoft Word|word]] Central.
 >
 > **[1:02](https://www.linkedin.com/learning/r-tidyverse-applications/filter-data-with-dplyr?u=76281980&t=62)** When you run this, you should get 763 rows of data, and it should be only where the sales region starts with Central.
 >
@@ -4302,7 +4270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (5), [[Microsoft Word|Word]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (3), rm (1)
 > **Code Identifiers:** str_starts (1), group_by (1)
 > **Warnings:** note that (2)
@@ -4311,8 +4279,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Join data with dplyr
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980)
+#### [Join data with dplyr](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4352,11 +4319,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=98)** The semi join only returns values that match while the anti join only returns values that don't match.
 >
-> **[1:45](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=105)** Let's jump over to RStudio to begin joining data.
+> **[1:45](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=105)** Let's jump over to [[RStudio]] to begin joining data.
 >
 > **[1:48](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=108)** Let's begin by running the code at the top of your coding file to bring in five sets of data.
 >
-> **[1:55](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=115)** This will include sales, products, individual_customer, business_customer, and sales_reps.
+> **[1:55](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=115)** This will include sales, [[Microsoft Products|products]], individual_customer, business_customer, and sales_reps.
 >
 > **[2:03](https://www.linkedin.com/learning/r-tidyverse-applications/join-data-with-dplyr?u=76281980&t=123)** Before you begin joining, you will want to bind together your individual customer and business customer data sets together to make one long customer data set.
 >
@@ -4442,7 +4409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (52), next (4), product (4), [[Microsoft Products|Products]] (3), business (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[RStudio]] (1)
 > **Definitions:** known as (3), is a  (1), is an  (1), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** individual_customer (1), business_customer (1), sales_reps (1)
@@ -4450,8 +4417,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** before you begin (1)
 
-#### Plot one variable visualizations with ggplot2
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980)
+#### [Plot one variable visualizations with ggplot2](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4471,7 +4437,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=44)** On the ggplot2 package page you'll see there's an overview of what the package does.
 >
-> **[0:51](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=51)** Below that are some instructions on how to install the tidyverse and specifically the ggplot2 package and the cheat sheet, which you can download here or on the GitHub page.
+> **[0:51](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=51)** Below that are some instructions on how to install the tidyverse and specifically the ggplot2 package and the cheat sheet, which you can download here or on the [[GitHub]] page.
 >
 > **[1:02](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=62)** Below that is some information on how you can use the package, including a visualization example, some information about the life cycle and how to learn ggplot2.
 >
@@ -4531,7 +4497,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=212)** There are also some ways you can customize your visualizations with managing coordinate systems, adjusting positions, changing themes, making subplots, dealing with labels and legends, and zooming in and out.
 >
-> **[3:48](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=228)** Let's head over to RStudio to begin using the ggplot2 package.
+> **[3:48](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=228)** Let's head over to [[RStudio]] to begin using the ggplot2 package.
 >
 > **[3:53](https://www.linkedin.com/learning/r-tidyverse-applications/plot-one-variable-visualizations-with-ggplot2?u=76281980&t=233)** Let's begin by running the top portion of your code to load in your data using the readxl package.
 >
@@ -4637,7 +4603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[GitHub]] (4), next (4), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[RStudio]] (1)
 > **Analogies:** such as (4), for example (2), similar to (1)
 > **Prerequisites:** install (4), you'll need (2), make sure you have (1)
 > **CLI Commands:** make (4), find (2)
@@ -4646,8 +4612,7 @@ created: 2026-05-02
 > **Env Vars:** url (1), rgb (1)
 > **Code Identifiers:** geom_density (1)
 
-#### Plot two variable visualizations with ggplot2
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/plot-two-variable-visualizations-with-ggplot2?u=76281980)
+#### [Plot two variable visualizations with ggplot2](https://www.linkedin.com/learning/r-tidyverse-applications/plot-two-variable-visualizations-with-ggplot2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4795,7 +4760,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (4), product (3)
 > **Code Identifiers:** geom_count (2), geom_point (1), geom_area (1), geom_call (1)
 > **Versions:** 0.5 (2), 0.7 (1)
 > **CLI Commands:** make (1)
@@ -4803,21 +4767,21 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
+> **Analogies:** such as (1)
 
-#### Solution: Perform data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980)
+#### [Solution: Perform data analysis](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=5)** Welcome back.
 >
-> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=6)** Excellent job analyzing data for KinetEco products.
+> **[0:06](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=6)** Excellent job analyzing data for KinetEco [[Microsoft Products|products]].
 >
 > **[0:10](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=10)** If you feel overwhelmed with this challenge, that is completely okay.
 >
 > **[0:13](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=13)** I will explain step by step what should have been filled in and what each line of code is doing.
 >
-> **[0:18](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=18)** Let's head over to RStudio.
+> **[0:18](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=18)** Let's head over to [[RStudio]].
 >
 > **[0:21](https://www.linkedin.com/learning/r-tidyverse-applications/solution-perform-data-analysis?u=76281980&t=21)** Begin by running the top portion of your code to load in your Tidyverse libraries and your products data set.
 >
@@ -4917,7 +4881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), data (6), next (6), product (2), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[RStudio]] (1)
 > **Code Identifiers:** group_by (1), str_detect (1), geom_call (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** var (1)
@@ -4929,8 +4893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4948,11 +4911,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=17)** Use community resources to guide your R Tidyverse journey.
 >
-> **[0:21](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=21)** This includes the Tidyverse website, cheat sheets, and GitHub.
+> **[0:21](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=21)** This includes the Tidyverse website, cheat sheets, and [[GitHub]].
 >
 > **[0:26](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=26)** A clickable list of these resources will be included after this video.
 >
-> **[0:31](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=31)** Be sure to connect with me on LinkedIn to share your experience with this course.
+> **[0:31](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=31)** Be sure to connect with me on [[LinkedIn]] to share your experience with this course.
 >
 > **[0:35](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980&t=35)** And lastly, check out my other LinkedIn learning courses found on my LinkedIn profile.
 >
@@ -4962,7 +4925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), power (1), next (1), [[GitHub]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[GitHub]] (1)
 > **Tools:** github (1)
 
 

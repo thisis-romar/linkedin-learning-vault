@@ -88,18 +88,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-powered video transcription
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980)
+#### [AI-powered video transcription](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=0)** - [Fikayo] Artificial intelligence-powered features are fast becoming a must-have in today's applications.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=0)** - [Fikayo] [[Artificial Intelligence (AI)|Artificial intelligence]]-powered features are fast becoming a must-have in today's applications.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=5)** That is why, in this course, we are going to be demonstrating how developers can implement AI features in their applications by building a video transcribing tool from scratch.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=15)** This tool will make use of Google AI's Speech-To-Text API to extract transcription text from videos using an AI model.
+> **[0:15](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=15)** This tool will make use of [[Google]] AI's Speech-To-Text API to extract transcription text from videos using an AI model.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=24)** I am inviting you to join me on this course as we build an AI-powered video transcribing tool using Node.js and Google Cloud's Speech-to-Text API.
+> **[0:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=24)** I am inviting you to join me on this course as we build an AI-powered video transcribing tool using [[Node.js]] and [[Google Cloud Platform (GCP)|Google Cloud]]'s Speech-to-Text API.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980&t=35)** Hi, I am Fikayo Adepoju and I have been building applications for over 10 years now.
 >
@@ -107,14 +106,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), api (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[Node.js]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (1), node (1)
 > **Env Vars:** api (2)
 > **File Paths:** node.js (1)
 > **Speakers:** - [fikayo] (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,9 +124,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980&t=12)** Are you a developer, development team, project manager, or engineering manager trying to learn how to add AI features to your application?
 >
-> **[0:21](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980&t=21)** Are you interested in Google's AI tools and the capabilities of its API and want to learn how it can be integrated into applications?
+> **[0:21](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980&t=21)** Are you interested in [[Google]]'s AI tools and the capabilities of its API and want to learn how it can be integrated into applications?
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980&t=29)** Or are you just looking for a project-based course that teaches the implementation of artificial intelligence in software applications?
+> **[0:29](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980&t=29)** Or are you just looking for a project-based course that teaches the implementation of [[Artificial Intelligence (AI)|artificial intelligence]] in software applications?
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/who-is-this-course-for?u=76281980&t=37)** If your answer to any of these questions is yes, then you are in the right place.
 >
@@ -140,12 +138,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), application (2), [[Google]] (2), api (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=9)** First is knowing the three front-end technologies.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=13)** You are required to have at least a basic understanding of how to code with HTML, CSS, and JavaScript.
+> **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=13)** You are required to have at least a basic understanding of how to code with [[HTML]], CSS, and [[JavaScript]].
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=21)** You also need to have spent some time working in an IDE.
 >
@@ -163,19 +160,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=28)** You can use any IDE you want, but for this course, we'll be making use of the popular Visual Studio Code.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=35)** Next, you need to have some familiarity with version control systems, like Git, and using a remote repository, like GitHub.
+> **[0:35](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=35)** Next, you need to have some familiarity with [[Version Control]] systems, like [[Git]], and using a remote repository, like [[GitHub]].
 >
-> **[0:44](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=44)** To build a backend application, we'll be making use of Node.js.
+> **[0:44](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=44)** To build a backend application, we'll be making use of [[Node.js]].
 >
 > **[0:48](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=48)** However, you can still follow along and replicate the program in any backend language of your choice.
 >
-> **[0:54](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=54)** If you need help learning any of these technologies mentioned, you can check out the LinkedIn Learning Library to get a ton of resources on these topics.
+> **[0:54](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=54)** If you need help learning any of these technologies mentioned, you can check out the [[LinkedIn]] Learning Library to get a ton of resources on these topics.
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/what-you-should-know?u=76281980&t=62)** Now that you know the requirements for taking this course, let's get started building our video transcribing application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), front-end (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[Version Control]] (1), [[Git]] (1), [[GitHub]] (1)
 > **Env Vars:** ide (2), html (1), css (1)
 > **Prerequisites:** you need to have (2), required to (1)
 > **CLI Commands:** git (1), node (1)
@@ -188,14 +185,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Signing up for a Google Cloud account
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980)
+#### [Signing up for a Google Cloud account](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=0)** - [Instructor] In this video, we'll begin our project by first creating a Google Cloud account.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=0)** - [Instructor] In this video, we'll begin our project by first creating a [[Google Cloud Platform (GCP)|Google Cloud]] account.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=6)** This will be required to make use of Google's speech to text AI models as the service is one of the numerous services offered by the Google Cloud platform.
+> **[0:06](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=6)** This will be required to make use of [[Google]]'s speech to text AI models as the service is one of the numerous services offered by the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=16)** I have already set up an account, so this video will be more of a walkthrough for those who haven't set up an account or people that don't know how to set one up.
 >
@@ -203,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=31)** To set up a new Google Cloud account, head over to the official site at cloud.[google.com](https://google.com).
 >
-> **[0:39](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=39)** Here you can set up a free account and get started using Google's cloud services.
+> **[0:39](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=39)** Here you can set up a free account and get started using Google's [[Cloud Services]].
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=45)** To create an account, click the get started for free button on the homepage.
 >
@@ -219,25 +215,24 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=75)** Here you can access all of Google Cloud services by creating a project and enabling necessary Google Cloud APIs.
 >
-> **[1:23](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=83)** You can also set up your billing, configure Google Cloud's identity management system, and use other Google Cloud services like Storage, SQL, Kubernetes, and many more.
+> **[1:23](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=83)** You can also set up your billing, configure Google Cloud's identity management system, and use other Google Cloud services like Storage, [[SQL]], [[Kubernetes]], and many more.
 >
 > **[1:35](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980&t=95)** In the following videos in this chapter, we'll be setting up our Google Cloud account to use Google's speech to text API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Google]] (5), cloud (2), ai (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Google]] (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Cloud Services]] (1), [[SQL]] (1)
 > **Prerequisites:** set up (6), required to (1), configure (1)
 > **Env Vars:** sql (1), api (1)
 > **CLI Commands:** make (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up billing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980)
+#### [Setting up billing](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980&t=0)** - [Instructor] In this video, we'll be diving into the essential step of setting up a billing account on the Google Cloud platform.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980&t=0)** - [Instructor] In this video, we'll be diving into the essential step of setting up a billing account on the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980&t=7)** Establishing this correctly ensures that you efficiently utilize GCPs services without interruption.
 >
@@ -271,22 +266,21 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980&t=86)** Once you're satisfied with the details, you can activate your billing account as I have done here.
 >
-> **[1:31](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980&t=91)** You can now connect this billing account to your Google Cloud projects.
+> **[1:31](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-billing?u=76281980&t=91)** You can now connect this billing account to your [[Google Cloud Platform (GCP)|Google Cloud]] projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (1), next (1), gcp (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (1)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your GCP project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980)
+#### [Creating your GCP project](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=0)** - [Instructor] In this video, we'll be creating our GCP project, which is going to contain our setup for access to the Google AI speech to text API.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=0)** - [Instructor] In this video, we'll be creating our GCP project, which is going to contain our setup for access to the [[Google]] AI speech to text API.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=9)** Projects are the foundational building blocks in GCP.
 >
@@ -310,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=64)** But for this project, we're just going to be skipping this step.
 >
-> **[1:07](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=67)** So click create, and Google Cloud will automatically create your project.
+> **[1:07](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=67)** So click create, and [[Google Cloud Platform (GCP)|Google Cloud]] will automatically create your project.
 >
 > **[1:15](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/creating-your-gcp-project?u=76281980&t=75)** As you can see, our project is currently being created, the task is currently in progress.
 >
@@ -344,19 +338,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (3), [[Google]] (2), api (2), ai (1), cloud (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **UI Navigation:** click on (3), dropdown (2), navigate to (1)
 > **Env Vars:** gcp (3), api (2)
 > **Prerequisites:** set up (3), setup (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling the Speech-to-Text
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980)
+#### [Enabling the Speech-to-Text](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=0)** - [Instructor] In this video, we'll be enabling Google's Speech-to-Text API for our GCP project.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=0)** - [Instructor] In this video, we'll be enabling [[Google]]'s Speech-to-Text API for our GCP project.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=6)** We'll be configuring access to the API and fetching the credentials to use in our code to make authenticated requests to the API.
 >
@@ -368,7 +361,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=26)** Under this menu, click on Library.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=31)** On the Library page, you'll see a list of services and APIs and products offered by Google Cloud.
+> **[0:31](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=31)** On the Library page, you'll see a list of services and APIs and [[Microsoft Products|products]] offered by [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/enabling-the-speech-to-text?u=76281980&t=38)** To access the Speech-to-Text API, let's use the search box and type in speech to text, and hit Enter.
 >
@@ -384,15 +377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Search]] (2), [[Google]] (1), gcp (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (11), gcp (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting your access credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980)
+#### [Getting your access credentials](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,11 +416,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=73)** In production environment, you want to be more specific about the permissions you're granting on the usage of this API by your application.
 >
-> **[1:20](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=80)** This can be configured in your Google Cloud Identity Management section.
+> **[1:20](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=80)** This can be configured in your [[Google Cloud Platform (GCP)|Google Cloud]] Identity Management section.
 >
 > **[1:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=84)** Configuring that is beyond the scope of this course.
 >
-> **[1:26](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=86)** However, you can check out GCP courses on the LinkedIn Learning library to learn how you can create safe and secure configurations for your GCP account.
+> **[1:26](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=86)** However, you can check out GCP courses on the [[LinkedIn]] Learning library to learn how you can create safe and secure configurations for your GCP account.
 >
 > **[1:36](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=96)** But for now, let's proceed by clicking the continue button.
 >
@@ -444,9 +436,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=134)** Let's click on it and select create new key.
 >
-> **[2:19](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=139)** On the key creation dialogue, select JSON as the key type and click create.
+> **[2:19](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=139)** On the key creation dialogue, select [[JSON]] as the key type and click create.
 >
-> **[2:26](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=146)** This is the key we'll be using to get authenticated access to the Google Speech to Text API.
+> **[2:26](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=146)** This is the key we'll be using to get authenticated access to the [[Google]] Speech to Text API.
 >
 > **[2:34](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/getting-your-access-credentials?u=76281980&t=154)** Let's select a location on our system.
 >
@@ -460,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), gcp (2), [[Google]] (2), application (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[LinkedIn]] (1), [[JSON]] (1)
 > **Env Vars:** api (5), gcp (2), json (1)
 > **UI Navigation:** click on (3), dropdown (2), navigate to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -473,8 +465,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloning the seed project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980)
+#### [Cloning the seed project](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,13 +473,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=6)** This project helps us get a lot of the front-end boilerplates out of the way, and defines a simple structure for our project.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=12)** We can grab a link to our seed project by coming to the GitHub repo, going to Code and click in SSH, then we can click the icon here to get the link.
+> **[0:12](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=12)** We can grab a link to our seed project by coming to the [[GitHub]] repo, going to Code and click in SSH, then we can click the icon here to get the link.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=25)** In order for you to follow along with this course, you can grab the link to this repo in the course notes, and it's also displayed on the screen.
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=32)** Once you've grabbed the link, let's go to our terminal and clone the project.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=37)** To download the seed project onto our machine, you first ensure that Git is installed on your system.
+> **[0:37](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=37)** To download the seed project onto our machine, you first ensure that [[Git]] is installed on your system.
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980&t=43)** Git is a simple versioning tool for managing different versions of your project, and also collaborating through remote repositories.
 >
@@ -514,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (2), front-end (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (2)
 > **CLI Commands:** git (7), ssh (1), make (1)
 > **Tools:** terminal (3), github (2)
 > **Exercise Files:** github repo (1), download the (1)
@@ -523,8 +514,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Project code walk-through
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980)
+#### [Project code walk-through](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=49)** Now back to the frontend folder.
 >
-> **[0:51](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=51)** If you open this up, you'll see it contains just one file, a route index.html file.
+> **[0:51](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=51)** If you open this up, you'll see it contains just one file, a route index.[[HTML]] file.
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=58)** This will contain the entire frontend of our application as I have made sure to keep things simple.
 >
@@ -628,7 +618,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=274)** This is the button that will be clicked to trigger the transcription operation.
 >
-> **[4:38](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=278)** They have all been assigned IDs, which we'll be making use of later on to add logic with JavaScript.
+> **[4:38](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=278)** They have all been assigned IDs, which we'll be making use of later on to add logic with [[JavaScript]].
 >
 > **[4:46](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/project-code-walkthrough?u=76281980&t=286)** On the right-hand side container div, we also have a child div.
 >
@@ -646,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[HTML]] (5), next (4), css (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (2)
 > **Env Vars:** css (2), jss (1), api (1)
 > **Tools:** visual studio (3), terminal (1)
 > **File Paths:** index.html (3)
@@ -655,8 +645,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [http://localhost](http://localhost) (1)
 
-#### Adding the video upload functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-video-upload-functionality?u=76281980)
+#### [Adding the video upload functionality](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-video-upload-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-video-upload-functionality?u=76281980&t=13)** Let's begin by targeting all the elements in our page, using their IDs, and saving the undos to this element into variables.
 >
-> **[0:21](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-video-upload-functionality?u=76281980&t=21)** Scroll down to the custom JavaScript section and begin.
+> **[0:21](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-video-upload-functionality?u=76281980&t=21)** Scroll down to the custom [[JavaScript]] section and begin.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-video-upload-functionality?u=76281980&t=25)** We start with our upload widget by saying const video upload equals document dot get element by ID and set it
 >
@@ -718,15 +707,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Scripting]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding the transcribe video function
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-transcribe-video-function?u=76281980)
+#### [Adding the transcribe video function](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-transcribe-video-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,15 +776,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2)
 > **Non-Speech:** (keyboard typing) (8), (mouse clicking) (2)
 > **Env Vars:** api (2), url (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Adding the transcription display function
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-transcription-display-function?u=76281980)
+#### [Adding the transcription display function](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-the-transcription-display-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,7 +810,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1), next (1)
 > **Code Identifiers:** displaytranscription (2), innerhtml (1), transcribedtext (1)
 > **UI Navigation:** scroll down (2)
 > **Non-Speech:** (keyboard keys clicking) (2)
@@ -836,8 +821,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building out the Express.js API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980)
+#### [Building out the Express.js API](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,17 +829,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=5)** This API will simply serve as a middleman between our client and the API exposed by the AI model that will be doing the transcription operation.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=13)** In this video, we'll begin development by kickstarting the Node.js application.
+> **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=13)** In this video, we'll begin development by kickstarting the [[Node.js]] application.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=18)** In the project folder, just beside our frontend folder, create a new folder for the API with the name backend.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=27)** Now let's move into the folder, and let's set up the project.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=32)** First, run the command npm init to initialize the folder as a Node.js project.
+> **[0:32](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=32)** First, run the command [[npm]] init to initialize the folder as a Node.js project.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=38)** We'll be adding the -y flag in order to skip the interactive project initialization prompts and accept the defaults.
 >
-> **[0:45](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=45)** Now that we have our package.json file scaffolded, we can start installing our packages.
+> **[0:45](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=45)** Now that we have our package.[[JSON]] file scaffolded, we can start installing our packages.
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980&t=51)** To begin, we'll be installing just two packages.
 >
@@ -913,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (5), api (4), [[Node.js]] (4), application (4), [[npm]] (3)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (3), [[JSON]] (1)
 > **CLI Commands:** node (5), npm (3), make (2)
 > **File Paths:** node.js (4), server.js (3), package.json (1)
 > **Prerequisites:** install (4), set up (1), initialization (1), configure (1)
@@ -922,14 +906,13 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (2)
 > **UI Navigation:** go to (1)
 
-#### Configuring Google’s Speech library
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980)
+#### [Configuring Google’s Speech library](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=0)** - [Instructor] In this video, we'll be setting up the Google Speech-to-Text client library in our Node.js application.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=0)** - [Instructor] In this video, we'll be setting up the [[Google]] Speech-to-Text client library in our [[Node.js]] application.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=6)** This will allow us, use up our libraries provided by Google for Node.js to call the Google Cloud API.
+> **[0:06](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=6)** This will allow us, use up our libraries provided by Google for Node.js to call the [[Google Cloud Platform (GCP)|Google Cloud]] API.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=13)** We'll be setting up this library using our service account credentials.
 >
@@ -937,9 +920,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=20)** The first step is to install the client library for Node.js.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=24)** This library is also available for popular languages like Python, Java, and Go.
+> **[0:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=24)** This library is also available for popular languages like [[Python (Programming Language)|Python]], [[Java]], and Go.
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=29)** To install the package, we type the command npm install.
+> **[0:29](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=29)** To install the package, we type the command [[npm]] install.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=35)** First, let's make sure that we are in our backend folder, okay?
 >
@@ -957,7 +940,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=84)** That's my video transcribing project service account credentials.
 >
-> **[1:29](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=89)** That's a JSON file.
+> **[1:29](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=89)** That's a [[JSON]] file.
 >
 > **[1:31](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/configuring-google-s-speech-library?u=76281980&t=91)** If you prefer not to move files around or you want to access a service account credential file from a secure location, you can go to your terminal and set a Google environment variable.
 >
@@ -1007,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Node.js]] (3), [[JSON]] (3), api (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Node.js]] (3), [[JSON]] (3), [[npm]] (2)
 > **CLI Commands:** node (3), npm (2), make (2), python (1)
 > **Env Vars:** api (2), json (2), google_application (1)
 > **File Paths:** node.js (3), server.js (1)
@@ -1016,8 +999,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** go to (1), open the (1)
 
-#### Adding routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-routes?u=76281980)
+#### [Adding routes](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,12 +1033,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), web (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up file upload functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980)
+#### [Setting up file upload functionality](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,11 +1044,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=5)** That is what we'll be setting up in this video.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=7)** To begin, first, we need to install a node.js package that will help us achieve this.
+> **[0:07](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=7)** To begin, first, we need to install a [[Node.js]] package that will help us achieve this.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=13)** In the terminal, we're going to be installing the multer package.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=16)** And to do that, simply run the command, npm install multer.
+> **[0:16](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=16)** And to do that, simply run the command, [[npm]] install multer.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/setting-up-file-upload-functionality?u=76281980&t=24)** And let's hit Enter to run the command.
 >
@@ -1128,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), hit (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1)
 > **Prerequisites:** install (2), configure (1), set up (1), setup (1)
 > **CLI Commands:** node (2), npm (1)
 > **Tools:** visual studio (2), terminal (1)
@@ -1136,12 +1116,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transcribing with the Google AI Speech-to-Text
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980)
+#### [Transcribing with the Google AI Speech-to-Text](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=0)** - [Instructor] Now that we have set up our Google speech library and our file uploads feature, we will now write the code to transcribe our videos to text.
+> **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=0)** - [Instructor] Now that we have set up our [[Google]] speech library and our file uploads feature, we will now write the code to transcribe our videos to text.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=8)** One important thing you need to know about the Google speech to text API is that at the moment, it does not have the ability to process video files.
 >
@@ -1153,15 +1132,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=32)** This might sound like a lot of work, but don't worry, we will have it sorted out in no time.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=38)** And there are packages on NPM to make this all happen.
+> **[0:38](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=38)** And there are packages on [[npm]] to make this all happen.
 >
 > **[0:42](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=42)** But first we need a way to extract audio files from videos, and to do that we will be using the FFmpeg library.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=50)** FFmpeg is a free and open source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files and streams.
 >
-> **[1:03](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=63)** To add this feature to our Node.js project, we're going to be needing two packages.
+> **[1:03](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=63)** To add this feature to our [[Node.js]] project, we're going to be needing two packages.
 >
-> **[1:08](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=68)** First is the ffmpeg-static library, which is a static FFmpeg binary that works for Windows, macOS, and Linux.
+> **[1:08](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=68)** First is the ffmpeg-static library, which is a static FFmpeg binary that works for [[Windows]], macOS, and [[Linux]].
 >
 > **[1:18](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/transcribing-with-the-google-ai-speech-to-text?u=76281980&t=78)** This library gives us all the necessary FFmpeg binaries required and returns the part of a statically linked FFmpeg binary on the local file system.
 >
@@ -1379,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), next (7), [[Google]] (4), [[Node.js]] (4), feature (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Node.js]] (4), [[npm]] (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** node (5), make (4), npm (2), find (1)
 > **Code Identifiers:** audiobytes (2), macos (1), ffmpegstatic (1), ffmpegpath (1), setffmpegpath (1)
 > **Env Vars:** api (8), npm (1), linear16 (1)
@@ -1393,8 +1372,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting the front end to the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980)
+#### [Connecting the front end to the API](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1492,7 +1470,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980&t=213)** And as you can see, the results are pretty impressive, especially for a video I recorded several years ago, and didn't use a very great recording equipment.
 >
-> **[3:42](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980&t=222)** Though some words were still spelt in a funny way, like PHP being spelled as GHB here and this com com that I can't remember (chuckles), I can't remember what it is.
+> **[3:42](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980&t=222)** Though some words were still spelt in a funny way, like [[PHP]] being spelled as GHB here and this com com that I can't remember (chuckles), I can't remember what it is.
 >
 > **[3:51](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980&t=231)** But yeah, I'm still going to give the transcription API like a 92% pass mark.
 >
@@ -1504,7 +1482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), api (2), next (2), node (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Env Vars:** http (4), url (2), api (2), mpx (1), php (1)
 > **UI Navigation:** scroll down (4), go to (4)
 > **CLI Commands:** make (5), node (1), php (1)
@@ -1512,8 +1490,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a progress indicator
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-a-progress-indicator?u=76281980)
+#### [Adding a progress indicator](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-a-progress-indicator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1597,7 +1574,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-a-progress-indicator?u=76281980&t=200)** Now let's add the logic to show and add our progress bar based on the state of the transcription operation.
 >
-> **[3:27](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-a-progress-indicator?u=76281980&t=207)** Back in VS Code, let's scroll down to the JavaScript section.
+> **[3:27](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-a-progress-indicator?u=76281980&t=207)** Back in VS Code, let's scroll down to the [[JavaScript]] section.
 >
 > **[3:32](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/adding-a-progress-indicator?u=76281980&t=212)** And first we get an angle on our progress bar using the ID.
 >
@@ -1653,7 +1630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (1), application (1), css (1), [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** scroll down (4), scroll up (1)
 > **Tools:** vs code (4)
@@ -1661,8 +1638,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Editing transcriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980)
+#### [Editing transcriptions](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,19 +1690,19 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=120)** For example, I know that this is ed and not edge, so I can change this.
 >
-> **[2:05](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=125)** This VLC is actually PHP, so I'm going to change it to PHP.
+> **[2:05](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=125)** This VLC is actually [[PHP]], so I'm going to change it to PHP.
 >
 > **[2:09](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=129)** I also know that this is not HP, so I'm also going to be changing it to PHP, and you can continue to edit this transcription as much as you want.
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=139)** And once you're done, you can then copy it and use it for any use case you have intended.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=144)** Now we have a fully functional video transcribing tool making use of Google's speech-to-text API that also allows us to edit the results, to refine it to its best shape.
+> **[2:24](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=144)** Now we have a fully functional video transcribing tool making use of [[Google]]'s speech-to-text API that also allows us to edit the results, to refine it to its best shape.
 >
 > **[2:35](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/editing-transcriptions?u=76281980&t=155)** How awesome is that?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), functional (1), [[Google]] (1), api (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Google]] (1)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Env Vars:** php (3), vlc (1), api (1)
 > **Code Identifiers:** displaytranscription (1), innerhtml (1)
@@ -1740,14 +1716,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980&t=0)** - [Fikayo] I hope you enjoyed building our AI video transcribing tool, and I hope that this project has given you a better understanding into implementing AI features in your software applications.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980&t=12)** I'd like to mention that there is an exact mirror of this course in the LinkedIn Learning Library, where you get to use OpenAI's API instead of the Google's Speech-to-Text API.
+> **[0:12](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980&t=12)** I'd like to mention that there is an exact mirror of this course in the [[LinkedIn]] Learning Library, where you get to use OpenAI's API instead of the [[Google]]'s Speech-to-Text API.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980&t=23)** So if you're interested in that, I advise that you check it out.
 >
@@ -1761,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (2), api (2), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Google]] (1)
 > **Env Vars:** api (2), pod (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [fikayo] (1)

@@ -33,7 +33,7 @@ created: 2026-05-02
 2. [[Introduction To Nosql]] — 22 mentions
 3. [[Databases for Node.js Developers]] — 22 mentions
 4. [[Intermediate Sql For Data Scientists]] — 19 mentions
-5. [[Relational Databases Essential Training]] — 13 mentions
+5. [[Relational Databases Essential Training]] — 14 mentions
 6. [[Advanced Python- Working with Databases]] — 13 mentions
 7. [[Database Design Fundamentals]] — 10 mentions
 8. [[Programming Foundations Databases]] — 9 mentions
@@ -49,13 +49,13 @@ created: 2026-05-02
 > 16. [[Learning MySQL Development]] — 6 mentions
 > 17. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 6 mentions
 > 18. [[AWS- Storage and Data Management]] — 6 mentions
-> 19. [[Advanced SQL for Query Tuning and Performance Optimization]] — 6 mentions
-> 20. [[SQL Essential Training]] — 5 mentions
-> 21. [[Finding New Career Paths with SQL]] — 5 mentions
-> 22. [[Database Foundations Database Management]] — 5 mentions
-> 23. [[Data Management Essential Training]] — 5 mentions
-> 24. [[Scalable Data Storage and Processing for AI Workloads]] — 5 mentions
-> 25. [[Database Foundations Intro To Databases]] — 5 mentions
+> 19. [[Database Foundations Intro To Databases]] — 6 mentions
+> 20. [[Advanced SQL for Query Tuning and Performance Optimization]] — 6 mentions
+> 21. [[SQL Essential Training]] — 5 mentions
+> 22. [[Finding New Career Paths with SQL]] — 5 mentions
+> 23. [[Database Foundations Database Management]] — 5 mentions
+> 24. [[Data Management Essential Training]] — 5 mentions
+> 25. [[Scalable Data Storage and Processing for AI Workloads]] — 5 mentions
 > 26. [[Power BI Data Methods]] — 4 mentions
 > 27. [[Database Foundations- Administration]] — 4 mentions
 > 28. [[ETL in Python and SQL]] — 4 mentions
@@ -154,10 +154,10 @@ created: 2026-05-02
 ## Learning Paths
 
 1. [[Develop Your NoSQL Skills]] — 73 total mentions
-2. [[Advance Your Database Administration Skills]] — 62 total mentions
-3. [[Introduction to Fundamental Skills for Data Work- Data Storage]] — 53 total mentions
+2. [[Advance Your Database Administration Skills]] — 63 total mentions
+3. [[Introduction to Fundamental Skills for Data Work- Data Storage]] — 54 total mentions
 4. [[Become a Full-Stack Web Developer]] — 32 total mentions
-5. [[Database Foundations- From Concepts to Applications]] — 27 total mentions
+5. [[Database Foundations- From Concepts to Applications]] — 28 total mentions
 6. [[Explore Web Development with Node.js]] — 22 total mentions
 7. [[Explore a Career in Database Development]] — 22 total mentions
 8. [[Moving from Data Analyst to Data Scientist]] — 20 total mentions

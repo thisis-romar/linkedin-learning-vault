@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,35 +103,34 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=13)** Pulse width Modulation is a tool used by leading technologists in every avenue of industry.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=20)** The Arduino is a small but powerful microcontroller that lets anyone apply this amazing technology to their own projects.
+> **[0:20](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=20)** The [[Arduino]] is a small but powerful microcontroller that lets anyone apply this amazing technology to their own projects.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=28)** That's what this course is all about, creating interactive programs and circuits.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=33)** Hi, I'm Rae and I've been making, hacking and programming since grade school.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=38)** In this course, I'm going to show you a few ways to harness the power of Pulse width Modulation with the Arduino to make LEDs, Servos and motors react to input from the environment.
+> **[0:38](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=38)** In this course, I'm going to show you a few ways to harness the power of Pulse width Modulation with the Arduino to make LEDs, Servos and motors [[React.js|react]] to input from the environment.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=50)** Along the way, I will introduce you to your new best friend, the multimeter, and help you to minimize the time you spend to bug in your code.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=59)** So, if you're ready, get out your breadboards.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=62)** It's time to start prototyping.
+> **[1:02](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980&t=62)** It's time to start [[Prototyping]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), [[Programming]] (1), power (1), [[React.js|React]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), [[React.js|React]] (1), [[Prototyping]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/what-you-should-know?u=76281980&t=0)** - Before you watch this course, there are a few things you need to know.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/what-you-should-know?u=76281980&t=5)** You need to have a working knowledge of Arduino.
+> **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/what-you-should-know?u=76281980&t=5)** You need to have a working knowledge of [[Arduino]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/what-you-should-know?u=76281980&t=8)** If you know how to declare variables, call functions, and set up basic circuits, you should be good to go.
 >
@@ -152,14 +150,13 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1), set up (1), you'll need (1)
 > **Speakers:** - before (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-exercise-files?u=76281980&t=0)** - The exercise files I use in this course are organized by chapter.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-exercise-files?u=76281980&t=5)** However, most of the code I will demo is baked into the Arduino IDE, so there are only a few files for you to download.
+> **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-exercise-files?u=76281980&t=5)** However, most of the code I will demo is baked into the [[Arduino]] IDE, so there are only a few files for you to download.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-exercise-files?u=76281980&t=14)** You can also find wiring schematics and other reference material in the Exercise Files folder.
 
@@ -171,8 +168,7 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Speakers:** - the (1)
 
-#### Challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenges?u=76281980)
+#### [Challenges](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,12 +202,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the fundamentals of PWM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980)
+#### [Exploring the fundamentals of PWM](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=0)** - Pulse-Width Modulation or PWM is a very simple but important principle of electronics.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=0)** - Pulse-Width Modulation or PWM is a very simple but important principle of [[Electronics]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=6)** PWM is used in many industries, but regardless of application, the theory remains the same.
 >
@@ -233,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=46)** The Amplitude is the height of the wave.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=48)** In our case, 5 volts on the Arduino.
+> **[0:48](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=48)** In our case, 5 volts on the [[Arduino]].
 >
 > **[0:51](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980&t=51)** An important part of a Pulse Wave is the Duty Cycle.
 >
@@ -269,18 +264,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (2), [[Electronics]] (1), application (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Electronics]] (1)
 > **Env Vars:** led (6), pwm (5)
 > **Analogies:** similar to (3)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - pulse (1)
 
-#### Using basic PWM output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-basic-pwm-output?u=76281980)
+#### [Using basic PWM output](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-basic-pwm-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-basic-pwm-output?u=76281980&t=0)** The first step in using PWM on the Arduino is to select a PWM pin.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-basic-pwm-output?u=76281980&t=0)** The first step in using PWM on the [[Arduino]] is to select a PWM pin.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-basic-pwm-output?u=76281980&t=6)** On my board, there's a tilde next to the PWM pins.
 >
@@ -338,15 +332,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (6), next (4), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (6)
 > **Env Vars:** led (8), pwm (6), ide (1)
 > **Code Identifiers:** analogwrite (5), pinmode (1), digitalwrite (1)
 > **Definitions:** is a  (2)
 > **Versions:** 2.5 (1)
 > **Documentation:** the documentation (1)
 
-#### Faking PWM on a non-PWM pin
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/faking-pwm-on-a-non-pwm-pin?u=76281980)
+#### [Faking PWM on a non-PWM pin](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/faking-pwm-on-a-non-pwm-pin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/faking-pwm-on-a-non-pwm-pin?u=76281980&t=33)** I also have an LED plugged into pin 7.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/faking-pwm-on-a-non-pwm-pin?u=76281980&t=37)** In the Arduino IDE, I am going to select file, examples, basics, BareMinimum.
+> **[0:37](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/faking-pwm-on-a-non-pwm-pin?u=76281980&t=37)** In the [[Arduino]] IDE, I am going to select file, examples, basics, BareMinimum.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/faking-pwm-on-a-non-pwm-pin?u=76281980&t=45)** First, I'll instantiate constant integer variables to call the pins.
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Arduino]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** pwm (6), led (5), ide (1)
 > **Code Identifiers:** digitalwrite (2), analogwrite (1)
 > **CLI Commands:** make (1)
@@ -414,8 +407,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - although (1)
 
-#### Challenge: Matching PWM and non-PWM LED brightness
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-matching-pwm-and-non-pwm-led-brightness?u=76281980)
+#### [Challenge: Matching PWM and non-PWM LED brightness](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-matching-pwm-and-non-pwm-led-brightness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,8 +454,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - okay (1)
 
-#### Solution: Matching PWM and non-PWM LED brightness
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-matching-pwm-and-non-pwm-led-brightness?u=76281980)
+#### [Solution: Matching PWM and non-PWM LED brightness](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-matching-pwm-and-non-pwm-led-brightness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ide (3), led (1), pwm (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is an  (1)
@@ -553,8 +543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing various analog inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980)
+#### [Introducing various analog inputs](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=11)** But when you boil it down, each of these electrical components is simply a variable resistor.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=17)** The Arduino will listen for a five volt signal on the Arduino analog pin.
+> **[0:17](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=17)** The [[Arduino]] will listen for a five volt signal on the Arduino analog pin.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=22)** By adjusting resistance, more or less of the five volt signal passes through.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=151)** The more electrons disrupted, the lower the resistance.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=155)** As the light gets dimmer, the electrons come back to rest and the resistance goes up.
+> **[2:35](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=155)** As the light gets dimmer, the electrons come back to [[Representational State Transfer (REST)|rest]] and the resistance goes up.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=160)** To hook this up to your Aduino, you also need a resistor in parallel to the photosensor in the circuit.
 >
@@ -654,17 +643,16 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=220)** If you send a signal through a piezo buzzer, you can create sound.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=225)** With analog inputs, projects can now read and react to the environment dramatically.
+> **[3:45](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980&t=225)** With analog inputs, projects can now read and [[React.js|react]] to the environment dramatically.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), parallel (2), data (1), power (1), hit (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
-#### Understanding the basics of analog input
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/understanding-the-basics-of-analog-input?u=76281980)
+#### [Understanding the basics of analog input](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/understanding-the-basics-of-analog-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -672,7 +660,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/understanding-the-basics-of-analog-input?u=76281980&t=6)** I have one lead of the potentiometer connected to five volts, the other side to ground, and the center lead connected to analog input pin zero.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/understanding-the-basics-of-analog-input?u=76281980&t=15)** In the Arduino IDE, I will select File, Examples, Basics, AnalogReadSerial.
+> **[0:15](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/understanding-the-basics-of-analog-input?u=76281980&t=15)** In the [[Arduino]] IDE, I will select File, Examples, Basics, AnalogReadSerial.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/understanding-the-basics-of-analog-input?u=76281980&t=22)** There are three lines of code in this sketch that may be new to you.
 >
@@ -740,15 +728,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (7), next (1), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (7)
 > **Env Vars:** ide (2), pwm (1), usb (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - for (1)
 
-#### Finding logic bugs in your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/finding-logic-bugs-in-your-code?u=76281980)
+#### [Finding logic bugs in your code](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/finding-logic-bugs-in-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/finding-logic-bugs-in-your-code?u=76281980&t=41)** To squash those bugs, I use the Serial Monitor.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/finding-logic-bugs-in-your-code?u=76281980&t=44)** While the Serial Monitor can simply be used to print information from the pins on the Arduino, it can also be useful in finding problems in your programming logic or physical components.
+> **[0:44](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/finding-logic-bugs-in-your-code?u=76281980&t=44)** While the Serial Monitor can simply be used to print information from the pins on the [[Arduino]], it can also be useful in finding problems in your programming logic or physical components.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/finding-logic-bugs-in-your-code?u=76281980&t=56)** By printing additional information to the Serial Monitor, you can see how variables are being manipulated throughout your code.
 >
@@ -822,15 +809,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Env Vars:** led (2), ide (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.0 (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - consider (1)
 
-#### Testing components with a multimeter
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980)
+#### [Testing components with a multimeter](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=43)** Digital simply means the information is presented digitally rather than through an analog gauge.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=49)** Next to your soldering iron, this is the most important tool in your repertoire.
+> **[0:49](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=49)** Next to your [[Soldering]] iron, this is the most important tool in your repertoire.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=54)** Multimeters can cost thousands of dollars and are often giveaway or free with coupon tools on the low end.
 >
@@ -894,7 +880,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=157)** Many AC currents are dangerously high, at 110 or 220 volts in a household circuit.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=166)** A DC voltage would be more dangerous at those levels, however at the low DC voltage use with the Arduino, there's little to worry about.
+> **[2:46](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=166)** A DC voltage would be more dangerous at those levels, however at the low DC voltage use with the [[Arduino]], there's little to worry about.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/testing-components-with-a-multimeter?u=76281980&t=175)** The 10 amp function is just like the DC amp function but for higher amperage.
 >
@@ -914,18 +900,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), next (1), [[Soldering]] (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (2), [[Soldering]] (1)
 > **Env Vars:** led (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
 > **Speakers:** - few (1)
 
-#### Using the map function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-map-function?u=76281980)
+#### [Using the map function](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-map-function?u=76281980&t=0)** - The Map Function is a powerful tool in your Arduino arsenal.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-map-function?u=76281980&t=0)** - The Map Function is a powerful tool in your [[Arduino]] arsenal.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-the-map-function?u=76281980&t=4)** Map scales one range of linear values to another range.
 >
@@ -1003,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), next (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Code Identifiers:** sensorvalue (6), outputvalue (4), analogwrite (3), analogread (1)
 > **Env Vars:** led (6), ide (1)
 > **Versions:** 4.2 (2), 2.1 (1)
@@ -1012,8 +997,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Prerequisites:** setup (1)
 
-#### Challenge: Understanding the math behind the map function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-understanding-the-math-behind-the-map-function?u=76281980)
+#### [Challenge: Understanding the math behind the map function](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-understanding-the-math-behind-the-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-understanding-the-math-behind-the-map-function?u=76281980&t=23)** Remember, the map function is simply finding the percentage from low to high in the original range, and mapping that to a value that is the same percentage from low to high in the new range.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-understanding-the-math-behind-the-map-function?u=76281980&t=34)** All of these values are using the ranges from analogInput and analogWrite so that you can better understand what the Arduino is doing.
+> **[0:34](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-understanding-the-math-behind-the-map-function?u=76281980&t=34)** All of these values are using the ranges from analogInput and analogWrite so that you can better understand what the [[Arduino]] is doing.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-understanding-the-math-behind-the-map-function?u=76281980&t=42)** This challenge should take more than 10 minutes.
 >
@@ -1042,8 +1026,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - get (1)
 
-#### Solution: Understanding the math behind the map function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-understanding-the-math-behind-the-map-function?u=76281980)
+#### [Solution: Understanding the math behind the map function](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-understanding-the-math-behind-the-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-understanding-the-math-behind-the-map-function?u=76281980&t=22)** To keep the math simple, I'll round that up to two percent.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-understanding-the-math-behind-the-map-function?u=76281980&t=26)** Two percent of 255 is 5.1, so the arduino will map that value to roughly five percent.
+> **[0:26](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-understanding-the-math-behind-the-map-function?u=76281980&t=26)** Two percent of 255 is 5.1, so the [[Arduino]] will map that value to roughly five percent.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-understanding-the-math-behind-the-map-function?u=76281980&t=33)** The next value is 58.
 >
@@ -1079,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), next (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Versions:** 1.66 (1), 5.1 (1), 5.66 (1), 15.3 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - how (1)
@@ -1089,12 +1072,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fading an LED with PWM with code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980)
+#### [Fading an LED with PWM with code](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980&t=0)** - [Voiceover] In this next example, I'm going to use the Arduino to slowly fade an LED in and out.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980&t=0)** - [Voiceover] In this next example, I'm going to use the [[Arduino]] to slowly fade an LED in and out.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980&t=6)** In the Arduino I-D-E, I will select file, examples, basics, fade.
 >
@@ -1168,17 +1150,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (7), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (7)
 > **Env Vars:** led (10)
 > **CLI Commands:** make (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Calibrating an analog input to fade an LED precisely
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980)
+#### [Calibrating an analog input to fade an LED precisely](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=0)** - Let's take a look at another great function in Arduino, constrain.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=0)** - Let's take a look at another great function in [[Arduino]], constrain.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=5)** In the Arduino IDE, I will select File, Examples, Analog, Calibration.
 >
@@ -1208,7 +1189,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=75)** If the steering wheel is more sensitive, the vehicle responds more aggressively.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=80)** If you calibrate your potentiometer to only use 10 degrees of rotation, it can help you to tune your hardware to your needs.
+> **[1:20](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=80)** If you calibrate your potentiometer to only use 10 degrees of rotation, it can help you to tune your [[Hardware]] to your needs.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/calibrating-an-analog-input-to-fade-an-led-precisely?u=76281980&t=88)** Say you are using a photocell on a project to control the brightness of an LED.
 >
@@ -1250,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (6), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (6), [[Hardware]] (1)
 > **Env Vars:** led (12), ide (1), pwm (1)
 > **Code Identifiers:** sensorvalue (2), outputvalue (2), sensormax (1), sensormin (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -1259,8 +1240,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Challenge: Programming an LED that reacts to brightness
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-programming-an-led-that-reacts-to-brightness?u=76281980)
+#### [Challenge: Programming an LED that reacts to brightness](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-programming-an-led-that-reacts-to-brightness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,7 +1248,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-programming-an-led-that-reacts-to-brightness?u=76281980&t=6)** In this challenge, I want you to make an LED adjust in brightness with a photoelectric sensor.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-programming-an-led-that-reacts-to-brightness?u=76281980&t=13)** Use the calibration, or analogInput example in the Arduino IDE as a starting point.
+> **[0:13](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-programming-an-led-that-reacts-to-brightness?u=76281980&t=13)** Use the calibration, or analogInput example in the [[Arduino]] IDE as a starting point.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-programming-an-led-that-reacts-to-brightness?u=76281980&t=19)** Or, if you're really feeling like a challenge, write it from scratch.
 >
@@ -1296,8 +1276,7 @@ created: 2026-05-02
 > **Code Identifiers:** analoginput (1)
 > **Speakers:** - okay (1)
 
-#### Solution: Programming an LED that reacts to brightness
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-programming-an-led-that-reacts-to-brightness?u=76281980)
+#### [Solution: Programming an LED that reacts to brightness](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-programming-an-led-that-reacts-to-brightness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1320,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-programming-an-led-that-reacts-to-brightness?u=76281980&t=121)** This is called a pulldown resistor.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-programming-an-led-that-reacts-to-brightness?u=76281980&t=124)** I'll unplug the Arduino and change the 10k resistor for a 1k resistor.
+> **[2:04](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-programming-an-led-that-reacts-to-brightness?u=76281980&t=124)** I'll unplug the [[Arduino]] and change the 10k resistor for a 1k resistor.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-programming-an-led-that-reacts-to-brightness?u=76281980&t=130)** By changing to a smaller resistor, the circuit will respond sooner.
 >
@@ -1357,14 +1336,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Arduino]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (3)
 > **Definitions:** is called (3)
 > **UI Navigation:** open the (1)
 > **Speakers:** - all (1)
 
-#### Using an RGB LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-an-rgb-led?u=76281980)
+#### [Using an RGB LED](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-an-rgb-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,7 +1370,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-an-rgb-led?u=76281980&t=65)** The three colors share a single cathode, or ground.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-an-rgb-led?u=76281980&t=69)** This is the easiest configuration to work with on the Arduino.
+> **[1:09](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-an-rgb-led?u=76281980&t=69)** This is the easiest configuration to work with on the [[Arduino]].
 >
 > **[1:13](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/using-an-rgb-led?u=76281980&t=73)** Simply hook each anode up to a PWM pin, and connect the common cathode to ground.
 >
@@ -1442,20 +1420,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), next (2), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** led (14), rgb (8), pwm (2), ide (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - color (1)
 
-#### Mixing colors on an RGB LED using three analog inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/mixing-colors-on-an-rgb-led-using-three-analog-inputs?u=76281980)
+#### [Mixing colors on an RGB LED using three analog inputs](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/mixing-colors-on-an-rgb-led-using-three-analog-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/mixing-colors-on-an-rgb-led-using-three-analog-inputs?u=76281980&t=0)** - Let's take our color mixing to the next level, and add some analog inputs.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/mixing-colors-on-an-rgb-led-using-three-analog-inputs?u=76281980&t=5)** In the Arduino IDE, I will select File, examples, starter kit, color mixing lamp.
+> **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/mixing-colors-on-an-rgb-led-using-three-analog-inputs?u=76281980&t=5)** In the [[Arduino]] IDE, I will select File, examples, starter kit, color mixing lamp.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/mixing-colors-on-an-rgb-led-using-three-analog-inputs?u=76281980&t=13)** This program calls for three photosensors to be connected to analog 0, 1 and 2.
 >
@@ -1491,19 +1468,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (6), ide (1)
 > **UI Navigation:** scroll down (1), open the (1)
 > **Speakers:** - let (1)
 
-#### Challenge: Fading through the rainbow with PWM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-fading-through-the-rainbow-with-pwm?u=76281980)
+#### [Challenge: Fading through the rainbow with PWM](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-fading-through-the-rainbow-with-pwm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-fading-through-the-rainbow-with-pwm?u=76281980&t=3)** Are you ready for another challenge?
 >
-> **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-fading-through-the-rainbow-with-pwm?u=76281980&t=6)** In this challenge, I want you to build on the activity in the last lesson, and automate the arduino to fade through the rainbow with pulse width modulation.
+> **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-fading-through-the-rainbow-with-pwm?u=76281980&t=6)** In this challenge, I want you to build on the activity in the last lesson, and automate the [[Arduino]] to fade through the rainbow with pulse width modulation.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-fading-through-the-rainbow-with-pwm?u=76281980&t=15)** Start by turning on the red anode, then slowly fade from red to green, green to blue, and then back around to red.
 >
@@ -1519,16 +1495,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** led (1)
 > **Cross-References:** in the last (1)
 
-#### Solution: Fading through the rainbow with PWM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-fading-through-the-rainbow-with-pwm?u=76281980)
+#### [Solution: Fading through the rainbow with PWM](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-fading-through-the-rainbow-with-pwm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-fading-through-the-rainbow-with-pwm?u=76281980&t=3)** - Did you get your Arduino to output each color?
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-fading-through-the-rainbow-with-pwm?u=76281980&t=3)** - Did you get your [[Arduino]] to output each color?
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-fading-through-the-rainbow-with-pwm?u=76281980&t=6)** Lets take a quick look at my solution.
 >
@@ -1582,7 +1557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Arduino]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (3)
 > **Code Identifiers:** rgbcolor (1)
 > **UI Navigation:** open the (1)
@@ -1594,8 +1569,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing DC motors, servos, and stepper motors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980)
+#### [Comparing DC motors, servos, and stepper motors](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,7 +1585,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980&t=24)** When the leads are connected in reverse, the motor runs in reverse.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980&t=28)** Some motors require more power to operate than the Arduino can provide.
+> **[0:28](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980&t=28)** Some motors require more power to operate than the [[Arduino]] can provide.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980&t=33)** To run a more powerful DC motor, you may need to use a transistor.
 >
@@ -1659,18 +1633,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), [[Arduino]] (3), generic (2)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Definitions:** is a  (3)
 > **Env Vars:** pwn (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - when (1)
 
-#### Implementing basic servo control
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/implementing-basic-servo-control?u=76281980)
+#### [Implementing basic servo control](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/implementing-basic-servo-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/implementing-basic-servo-control?u=76281980&t=0)** - Controlling a servo with the Arduino requires just a few steps.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/implementing-basic-servo-control?u=76281980&t=0)** - Controlling a servo with the [[Arduino]] requires just a few steps.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/implementing-basic-servo-control?u=76281980&t=5)** The servo I'm using in this example is a basic hobby servo.
 >
@@ -1714,14 +1687,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - controlling (1)
 
-#### Controlling a servo with an analog input
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-servo-with-an-analog-input?u=76281980)
+#### [Controlling a servo with an analog input](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-servo-with-an-analog-input?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-servo-with-an-analog-input?u=76281980&t=0)** - With just a few additions, I can control the angle of the servo with the potentiometer.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-servo-with-an-analog-input?u=76281980&t=6)** In the Arduino IDE, I will select File, Examples, Servo, Knob.
+> **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-servo-with-an-analog-input?u=76281980&t=6)** In the [[Arduino]] IDE, I will select File, Examples, Servo, Knob.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-servo-with-an-analog-input?u=76281980&t=13)** With the potentiometer attached to pin A zero, I will upload the code.
 >
@@ -1751,8 +1723,7 @@ created: 2026-05-02
 > **Speakers:** - with (1)
 > **Non-Speech:** (servo makes buzzing sound) (1)
 
-#### Controlling a continuous rotation servo with an analog input
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-continuous-rotation-servo-with-an-analog-input?u=76281980)
+#### [Controlling a continuous rotation servo with an analog input](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-continuous-rotation-servo-with-an-analog-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,7 +1747,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-continuous-rotation-servo-with-an-analog-input?u=76281980&t=46)** Any number higher than 90 makes the servo spin clockwise, while any number lower than 90 makes it spin anti-clockwise.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-continuous-rotation-servo-with-an-analog-input?u=76281980&t=54)** In the Arduino IDE, I will select File, Examples, Servo, Knob.
+> **[0:54](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-continuous-rotation-servo-with-an-analog-input?u=76281980&t=54)** In the [[Arduino]] IDE, I will select File, Examples, Servo, Knob.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-continuous-rotation-servo-with-an-analog-input?u=76281980&t=62)** Now, this is the exact same code that we used to control the basic hobby servo.
 >
@@ -1804,8 +1775,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - controlling (1)
 
-#### Controlling DC motor speed with an analog input and transistor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-dc-motor-speed-with-an-analog-input-and-transistor?u=76281980)
+#### [Controlling DC motor speed with an analog input and transistor](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-dc-motor-speed-with-an-analog-input-and-transistor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,7 +1783,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-dc-motor-speed-with-an-analog-input-and-transistor?u=76281980&t=5)** When you're powering a DC motor and then cut that power, the motor creates a voltage spike in the opposite direction.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-dc-motor-speed-with-an-analog-input-and-transistor?u=76281980&t=12)** This power burst can go back into your Arduino and cause damage.
+> **[0:12](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-dc-motor-speed-with-an-analog-input-and-transistor?u=76281980&t=12)** This power burst can go back into your [[Arduino]] and cause damage.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-dc-motor-speed-with-an-analog-input-and-transistor?u=76281980&t=17)** Also, most DC motors require more than the five-volt signal Arduino can provide.
 >
@@ -1875,15 +1845,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), [[Arduino]] (7), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (7)
 > **CLI Commands:** make (2), rails (1)
 > **Env Vars:** ide (1), led (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - powering (1)
 
-#### Diving deeper into H bridge control
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/diving-deeper-into-h-bridge-control?u=76281980)
+#### [Diving deeper into H bridge control](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/diving-deeper-into-h-bridge-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1935,7 +1904,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/diving-deeper-into-h-bridge-control?u=76281980&t=106)** Pin 16, labeled VSS, is the INPUT pin to power the IC.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/diving-deeper-into-h-bridge-control?u=76281980&t=111)** The chip needs just under five volts to operate, so I'll connect it to the main Arduino power supply.
+> **[1:51](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/diving-deeper-into-h-bridge-control?u=76281980&t=111)** The chip needs just under five volts to operate, so I'll connect it to the main [[Arduino]] power supply.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/diving-deeper-into-h-bridge-control?u=76281980&t=118)** Pins 4, 5, 12 and 13, at the center of the chip, should all be connected to ground.
 >
@@ -1963,18 +1932,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), application (1), next (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Env Vars:** input (6), enable (4), pwm (3), output (3), l293d (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Controlling a DC motor with an H bridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-dc-motor-with-an-h-bridge?u=76281980)
+#### [Controlling a DC motor with an H bridge](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-dc-motor-with-an-h-bridge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-dc-motor-with-an-h-bridge?u=76281980&t=0)** - Adding an H bridge to an Arduino project mainly requires a lot of extra wires.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-dc-motor-with-an-h-bridge?u=76281980&t=0)** - Adding an H bridge to an [[Arduino]] project mainly requires a lot of extra wires.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/controlling-a-dc-motor-with-an-h-bridge?u=76281980&t=6)** The H bridge is placed across the valley of the breadboard.
 >
@@ -2026,13 +1994,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), power (3)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Tools:** terminal (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - adding (1)
 
-#### Challenge: Controlling a DC motor with an H bridge and potentiometer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980)
+#### [Challenge: Controlling a DC motor with an H bridge and potentiometer](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/challenge-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2058,8 +2025,7 @@ created: 2026-05-02
 >
 > **Speakers:** - alright (1)
 
-#### Solution: Controlling a DC motor with an H bridge and potentiometer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980)
+#### [Solution: Controlling a DC motor with an H bridge and potentiometer](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2105,13 +2071,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980&t=122)** Finally, just to slow the program down a little bit, I've added a short delay of 15.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980&t=129)** Now, when I turn on the Arduino and start messing with the analog input, I can see the motor spin in both directions.
+> **[2:09](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980&t=129)** Now, when I turn on the [[Arduino]] and start messing with the analog input, I can see the motor spin in both directions.
 >
 > **[2:16](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/solution-controlling-a-dc-motor-with-an-h-bridge-and-potentiometer?u=76281980&t=136)** Of course there are many ways that you could have completed this problem, so if your code's not exactly like mine, but your motor is still spinning as expected, congratulations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** pinread (10), analogwrite (1)
 > **Prerequisites:** setup (2)
 > **UI Navigation:** toggle (1)
@@ -2122,12 +2088,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980&t=0)** - There are limitless applications for the Arduino.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980&t=0)** - There are limitless applications for the [[Arduino]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980&t=3)** With just a few adjustments to the examples you have explored, we could build anything from a robot to a musical instrument.
 >
@@ -2149,7 +2114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** ide (1)
 > **Speakers:** - there (1)
 

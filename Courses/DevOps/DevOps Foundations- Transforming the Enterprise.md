@@ -85,117 +85,93 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transforming your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transforming-your-organization?u=76281980)
+#### [Transforming your organization](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transforming-your-organization?u=76281980)
 
 
 ### 1. Why DevOps at the Enterprise level?
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why is the enterprise level different?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/why-is-the-enterprise-level-different?u=76281980)
+#### [Why is the enterprise level different?](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/why-is-the-enterprise-level-different?u=76281980)
 
-#### The role of corporate culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/the-role-of-corporate-culture?u=76281980)
+#### [The role of corporate culture](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/the-role-of-corporate-culture?u=76281980)
 
-#### The three dimensions of enterprise DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/the-three-dimensions-of-enterprise-devops?u=76281980)
+#### [The three dimensions of enterprise DevOps](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/the-three-dimensions-of-enterprise-devops?u=76281980)
 
-#### Transformation is a continual process
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transformation-is-a-continual-process?u=76281980)
+#### [Transformation is a continual process](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transformation-is-a-continual-process?u=76281980)
 
 
 ### 2. Where to Start
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze your application portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/analyze-your-application-portfolio?u=76281980)
+#### [Analyze your application portfolio](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/analyze-your-application-portfolio?u=76281980)
 
-#### Find a minimum viable cluster (MVC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/find-a-minimum-viable-cluster-mvc?u=76281980)
+#### [Find a minimum viable cluster (MVC)](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/find-a-minimum-viable-cluster-mvc?u=76281980)
 
-#### Use the MVC to uplift capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/use-the-mvc-to-uplift-capabilities?u=76281980)
+#### [Use the MVC to uplift capabilities](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/use-the-mvc-to-uplift-capabilities?u=76281980)
 
 
 ### 3. Value Stream Mapping
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a value stream map (VSM)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/what-is-a-value-stream-map-vsm?u=76281980)
+#### [What is a value stream map (VSM)?](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/what-is-a-value-stream-map-vsm?u=76281980)
 
-#### Creating value stream maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/creating-value-stream-maps?u=76281980)
+#### [Creating value stream maps](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/creating-value-stream-maps?u=76281980)
 
-#### Using value stream maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/using-value-stream-maps?u=76281980)
+#### [Using value stream maps](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/using-value-stream-maps?u=76281980)
 
 
 ### 4. Tooling at the Enterprise Level
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of DevOps tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/types-of-devops-tools?u=76281980)
+#### [Types of DevOps tools](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/types-of-devops-tools?u=76281980)
 
-#### Making the right choices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/making-the-right-choices?u=76281980)
+#### [Making the right choices](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/making-the-right-choices?u=76281980)
 
-#### Central vs. federated approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/central-vs-federated-approaches?u=76281980)
+#### [Central vs. federated approaches](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/central-vs-federated-approaches?u=76281980)
 
 
 ### 5. Vendor Management
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Include vendors in the journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/include-vendors-in-the-journey?u=76281980)
+#### [Include vendors in the journey](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/include-vendors-in-the-journey?u=76281980)
 
-#### Contracts and incentives
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/contracts-and-incentives?u=76281980)
+#### [Contracts and incentives](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/contracts-and-incentives?u=76281980)
 
-#### Implement engineering standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/implement-engineering-standards?u=76281980)
+#### [Implement engineering standards](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/implement-engineering-standards?u=76281980)
 
 
 ### 6. Steering the Transformation
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the Deming cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/use-the-deming-cycle?u=76281980)
+#### [Use the Deming cycle](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/use-the-deming-cycle?u=76281980)
 
-#### Transaction costs and batch sizes
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transaction-costs-and-batch-sizes?u=76281980)
+#### [Transaction costs and batch sizes](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transaction-costs-and-batch-sizes?u=76281980)
 
-#### A transformation scorecard
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/a-transformation-scorecard?u=76281980)
+#### [A transformation scorecard](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/a-transformation-scorecard?u=76281980)
 
 
 ### 7. Organizational Structure
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps organizational patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/devops-organizational-patterns?u=76281980)
+#### [DevOps organizational patterns](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/devops-organizational-patterns?u=76281980)
 
-#### Using a central team
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/using-a-central-team?u=76281980)
+#### [Using a central team](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/using-a-central-team?u=76281980)
 
-#### How to make a DevOps team work for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/how-to-make-a-devops-team-work-for-you?u=76281980)
+#### [How to make a DevOps team work for you](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/how-to-make-a-devops-team-work-for-you?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +185,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - thank (1)
 
 

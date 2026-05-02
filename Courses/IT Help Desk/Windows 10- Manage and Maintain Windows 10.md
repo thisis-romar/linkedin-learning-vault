@@ -91,18 +91,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The benefits of managing and maintaining Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980)
+#### [The benefits of managing and maintaining Windows 10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=0)** - Welcome to Windows 10, Manage and Maintain.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=0)** - Welcome to [[Windows 10]], Manage and Maintain.
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=3)** In this course, I'll show you how to keep Windows 10 up to date and running smoothly in a small business or enterprise environment.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=11)** Hi, my name is Joli Ballew, a best-selling author, a professor, and a Yogi.
 >
-> **[0:18](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=18)** Managing and Maintaining Windows is more than just enabling Windows Update, Windows Defender, and system restore.
+> **[0:18](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=18)** Managing and Maintaining [[Windows]] is more than just enabling Windows Update, Windows [[Microsoft Defender|Defender]], and system restore.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980&t=26)** There are many other tools at your disposal.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), business (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft Defender|Defender]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - welcome (1)
@@ -130,18 +129,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure basic Windows Update options
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980)
+#### [Configure basic Windows Update options](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=0)** - Let's begin by talking about Windows Update.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=0)** - Let's begin by talking about [[Windows]] Update.
 >
-> **[0:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=3)** Windows Update is a service that provides important updates to Microsoft operating systems, protects against malware and security exploits, enhances Windows components and improves functionality.
+> **[0:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=3)** Windows Update is a service that provides important updates to [[Microsoft]] operating systems, protects against malware and security exploits, enhances Windows components and improves functionality.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=15)** Windows Update has been available to users in control panel since Windows Vista.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=20)** With Windows 10, it's available from settings.
+> **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=20)** With [[Windows 10]], it's available from settings.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=25)** I'll click Start and I'll click Settings, and then Update and Security to show you.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=51)** You can review and change how updates are installed among other things.
 >
-> **[0:55](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=55)** Here, is giving me updates for other Microsoft products when I update Windows.
+> **[0:55](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=55)** Here, is giving me updates for other [[Microsoft Products]] when I update Windows.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980&t=60)** Here's to automatically download updates, even over metered connections.
 >
@@ -215,15 +213,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (17), [[Security]] (3), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Products]] (1)
+> **Frameworks & Libraries:** [[Windows]] (17), [[Microsoft]] (2), [[Windows 10]] (2), [[Microsoft Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - let (1)
 
-#### Plan for Windows Update in an enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980)
+#### [Plan for Windows Update in an enterprise](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,11 +234,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=33)** And when downtime isn't an option.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=36)** To make sure things go well during updates, especially big ones like updating from Windows 10 to Windows 11 enterprises create and follow a deployment plan.
+> **[0:36](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=36)** To make sure things go well during updates, especially big ones like updating from [[Windows 10]] to [[Windows]] 11 enterprises create and follow a deployment plan.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=46)** This plan has many parts.
 >
-> **[0:49](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=49)** It will categorize the computers that are already hardware ready for the update.
+> **[0:49](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=49)** It will categorize the computers that are already [[Hardware]] ready for the update.
 >
 > **[0:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=54)** It will also define what to do with those that aren't.
 >
@@ -271,7 +268,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=158)** Here are only a few of the available options.
 >
-> **[2:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=162)** It's also important to follow the advice from Microsoft to join Windows insider for business, which I'll discuss later in this course, there are options to preview builds and download and deploy builds from Microsoft's ISO pages when you do.
+> **[2:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=162)** It's also important to follow the advice from [[Microsoft]] to join Windows insider for business, which I'll discuss later in this course, there are options to preview builds and download and deploy builds from Microsoft's ISO pages when you do.
 >
 > **[2:58](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/plan-for-windows-update-in-an-enterprise?u=76281980&t=178)** Finally, there are additional tools for helping an enterprise determine readiness prior to deploying a pilot update, such as those available in Microsoft endpoint manager.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows]] (2), [[Windows 10]] (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows]] (2), [[Windows 10]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -298,14 +295,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Select the appropriate servicing channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980)
+#### [Select the appropriate servicing channel](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=0)** - If you'd like to have access to the next generation of the Windows operating system before those additions are released to the public, as well as explore the available servicing options, you'll want to opt in to Insider Preview.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=0)** - If you'd like to have access to the next generation of the [[Windows]] operating system before those additions are released to the public, as well as explore the available servicing options, you'll want to opt in to Insider Preview.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=14)** When you do, you'll get access to updated builds of Windows, and can test the product and provide feedback to Microsoft.
+> **[0:14](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=14)** When you do, you'll get access to updated builds of Windows, and can test the product and provide feedback to [[Microsoft]].
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=21)** If this sounds good to you, let's have a look.
 >
@@ -363,7 +359,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=164)** This is best for organizations that want to get updates early and then roll them out when they're ready.
 >
-> **[2:50](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=170)** The long-term servicing channel is designed to be used only for specialized devices, which typically don't run things like Microsoft Office.
+> **[2:50](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=170)** The long-term servicing channel is designed to be used only for specialized devices, which typically don't run things like [[Microsoft Office]].
 >
 > **[2:59](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/select-the-appropriate-servicing-channel?u=76281980&t=179)** These are usually devices that control medical equipment or are used on bank teller machines or ATM machines for example.
 >
@@ -379,19 +375,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft]] (2), feature (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft]] (2), [[Microsoft Office]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** atm (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - if (1)
 
-#### Troubleshoot updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980)
+#### [Troubleshoot updates](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=0)** - [Instructor] Have you ever had Windows install updates only to find out later that they caused the computer to become unstable?
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=0)** - [Instructor] Have you ever had [[Windows]] install updates only to find out later that they caused the computer to become unstable?
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=7)** There are a few ways to recover from this.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=103)** I'll click it to show you, and I'll click run the troubleshooter.
 >
-> **[1:49](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=109)** In a perfect world, by the time you got here, Microsoft would have already figured out which update is problematic and updated this troubleshooter to help you fix the problem.
+> **[1:49](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=109)** In a perfect world, by the time you got here, [[Microsoft]] would have already figured out which update is problematic and updated this troubleshooter to help you fix the problem.
 >
 > **[2:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-updates?u=76281980&t=123)** I'll click the Back button and go here to the Recovery tab to show you a few more options.
 >
@@ -451,19 +446,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft]] (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft]] (4)
 > **Warnings:** note that (1), troubleshoot (1), be aware (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update Microsoft Store apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980)
+#### [Update Microsoft Store apps](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=0)** - [Instructor] The Microsoft Store is where you acquire new apps.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=0)** - [Instructor] The [[Microsoft]] Store is where you acquire new apps.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=4)** The store is also where app updates originate.
 >
@@ -471,9 +465,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=16)** App updates might also include security features to fix issues uncovered after the app's release.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=23)** By default, apps are updated automatically in Windows 10.
+> **[0:23](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=23)** By default, apps are updated automatically in [[Windows 10]].
 >
-> **[0:29](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=29)** You can manually check for updates in the Store by clicking the three ellipses and then Downloads and updates in the Windows Store window.
+> **[0:29](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=29)** You can manually check for updates in the Store by clicking the three ellipses and then Downloads and updates in the [[Windows]] Store window.
 >
 > **[0:38](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/update-microsoft-store-apps?u=76281980&t=38)** From this window, click Get updates to see if any are available.
 >
@@ -547,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), [[Search]] (2), [[Microsoft]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), [[Microsoft]] (1)
 > **Prerequisites:** install (3)
 > **UI Navigation:** right-click (2)
 > **Analogies:** for instance (1)
@@ -559,12 +553,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980)
+#### [Configure services](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=0)** - [Instructor] A Windows service is a program, a routine, or a process that runs in the background.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=0)** - [Instructor] A [[Windows]] service is a program, a routine, or a process that runs in the background.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=6)** Windows update, Windows firewall, and network location awareness are examples of services.
 >
@@ -660,7 +653,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=241)** I'll click Startup Type to sort them.
 >
-> **[4:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=246)** You might find that Auto Timezone Updater is disabled, perhaps by choice, or routing and remote access.
+> **[4:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=246)** You might find that Auto Timezone Updater is disabled, perhaps by choice, or [[Routing]] and remote access.
 >
 > **[4:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980&t=255)** You might even see some smart card services.
 >
@@ -670,21 +663,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Troubleshooting]] (2), [[Search]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Routing]] (1)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure event subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980)
+#### [Configure event subscriptions](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=0)** - [Instructor] Event viewer logs display events that occur on your computer.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=5)** Events are created automatically by Windows in response to incidents that occur on your machine, such as an application freezing up, a user trying to log in, or a device driver failing to load, among other things.
+> **[0:05](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=5)** Events are created automatically by [[Windows]] in response to incidents that occur on your machine, such as an application freezing up, a user trying to log in, or a device driver failing to load, among other things.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=19)** I'll expand Windows Logs and choose Application to show you some examples.
 >
@@ -732,7 +724,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=148)** We need to enable this computer to view subscriptions.
 >
-> **[2:32](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=152)** I'll do this on my Windows 10 Enterprise computer.
+> **[2:32](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=152)** I'll do this on my [[Windows 10]] Enterprise computer.
 >
 > **[2:37](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-event-subscriptions?u=76281980&t=157)** First we'll open an elevated command prompt.
 >
@@ -854,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), prompt (3), [[Security]] (3), application (2), management (2)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Windows 10]] (2)
 > **CLI Commands:** make (5), node (1)
 > **Prerequisites:** configure (3), set up (2), you'll need (1)
 > **Tools:** command prompt (3)
@@ -863,8 +855,7 @@ created: 2026-05-02
 > **Env Vars:** https (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage performance with Task Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980)
+#### [Manage performance with Task Manager](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +889,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=104)** I'll do that.
 >
-> **[1:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=106)** You can see that Google Chrome is using the most memory of all of the other apps.
+> **[1:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=106)** You can see that [[Google]] Chrome is using the most memory of all of the other apps.
 >
 > **[1:52](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=112)** Let's repeat the process for CPU and Disk.
 >
@@ -914,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=155)** It makes it easy to see if my CPU is overworked, if I'm using all of my memory, or if my network is taking a hit.
 >
-> **[2:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=165)** You can also watch a specific graph react if you close a resource intensive program.
+> **[2:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=165)** You can also watch a specific graph [[React.js|react]] if you close a resource intensive program.
 >
 > **[2:50](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=170)** Keep an eye on the Ethernet graph.
 >
@@ -928,7 +919,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=195)** You could click Network to see which of your favorite apps use the most bandwidth.
 >
-> **[3:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=200)** You can see Microsoft Edge, Cortana, and Spotify listed at the top.
+> **[3:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=200)** You can see [[Microsoft]] Edge, Cortana, and Spotify listed at the top.
 >
 > **[3:26](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=206)** Now, click CPU time.
 >
@@ -940,7 +931,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=226)** Now, click the Startup tab.
 >
-> **[3:48](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=228)** This tab shows all the applications that start each time you boot Windows.
+> **[3:48](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=228)** This tab shows all the applications that start each time you boot [[Windows]].
 >
 > **[3:52](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-task-manager?u=76281980&t=232)** And shows what runs in the background theoretically all the time.
 >
@@ -1014,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), hit (1), [[React.js|React]] (1), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[React.js|React]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **Env Vars:** cpu (5), dhcp (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** right-click (1), open the (1)
@@ -1023,8 +1014,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage performance with Resource Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-resource-monitor?u=76281980)
+#### [Manage performance with Resource Monitor](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-resource-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,7 +1042,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-resource-monitor?u=76281980&t=63)** If you want to see exactly which process is hanging up or causing bursts of activity, you can likely MP that there are hard faults for instance.
 >
-> **[1:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-resource-monitor?u=76281980&t=71)** A hard fault occurs when Windows has to temporarily store data in the swap file on a hard disk, instead of Ram.
+> **[1:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-resource-monitor?u=76281980&t=71)** A hard fault occurs when [[Windows]] has to temporarily store data in the swap file on a hard disk, instead of Ram.
 >
 > **[1:18](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-resource-monitor?u=76281980&t=78)** This happens when Ram is full, when data is stored in the swap file, it takes longer to load and retrieve and can cause noticeable performance problems.
 >
@@ -1088,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Troubleshooting]] (2), application (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** right-click (1), scroll up (1)
 > **Analogies:** just like (1), for instance (1)
@@ -1096,12 +1086,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage performance with Performance Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-performance-monitor?u=76281980)
+#### [Manage performance with Performance Monitor](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-performance-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-performance-monitor?u=76281980&t=0)** - [Illustrator] A computer's performance levels, are in a constant state of flux.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-performance-monitor?u=76281980&t=0)** - [Illustrator] A computer's performance levels, are in a constant state of [[Flux]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-performance-monitor?u=76281980&t=5)** When several applications are running at once, and multiple processes and tasks are competing for resources at the same time, system resources can become strained causing performance to suffer.
 >
@@ -1235,21 +1224,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), [[Flux]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Flux]] (1)
 > **UI Navigation:** select the (3), right-click (3), double-click (1)
 > **Env Vars:** cpu (4), ram (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Manage performance with Reliability Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980)
+#### [Manage performance with Reliability Monitor](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=0)** - [Instructor] Reliability Monitor,, lets you review the status and stability of your computer system for the longterm.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=7)** As you can see here, Reliability Monitor runs in the background and keeps track of events, software, hardware failures, Windows failures, and more.
+> **[0:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=7)** As you can see here, Reliability Monitor runs in the background and keeps track of events, software, [[Hardware]] failures, [[Windows]] failures, and more.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=17)** It does all of this automatically.
 >
@@ -1279,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=77)** When you discover something like this, you might try reinstalling the program, running it in compatibility mode or perhaps even replacing it with something more stable.
 >
-> **[1:26](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=86)** It's also possible that you'll uncover problems with an Office program that won't update, the Windows lock screen stopping or not responding, or a program like Google Chrome or Microsoft Edge closing unexpectedly.
+> **[1:26](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=86)** It's also possible that you'll uncover problems with an [[Microsoft Office|Office]] program that won't update, the Windows lock screen stopping or not responding, or a program like [[Google]] Chrome or [[Microsoft]] Edge closing unexpectedly.
 >
 > **[1:39](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-performance-with-reliability-monitor?u=76281980&t=99)** To see a longer range of details, click weeks instead of days.
 >
@@ -1301,13 +1289,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (1), application (1), [[Microsoft Office|Office]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (1), [[Microsoft Office|Office]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitor and manage printers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/monitor-and-manage-printers?u=76281980)
+#### [Monitor and manage printers](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/monitor-and-manage-printers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1308,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/monitor-and-manage-printers?u=76281980&t=31)** If for whatever reason you connect a compatible device and the installation doesn't happen, you can go ahead and connect the printer and turn it on and click add a printer or scanner here.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/monitor-and-manage-printers?u=76281980&t=42)** Windows will take a minute to search for printers and scanners and then it'll give you a dialogue box where you can make choices and install it manually.
+> **[0:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/monitor-and-manage-printers?u=76281980&t=42)** [[Windows]] will take a minute to search for printers and scanners and then it'll give you a dialogue box where you can make choices and install it manually.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/monitor-and-manage-printers?u=76281980&t=51)** I'll choose the printer that I want isn't listed, to speed up the process.
 >
@@ -1425,7 +1412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), power (1), [[Search]] (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (3), install (1)
 > **Env Vars:** tcp (1)
@@ -1433,8 +1420,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Schedule tasks with Task Scheduler
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980)
+#### [Schedule tasks with Task Scheduler](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,7 +1464,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=111)** While a trigger might set off a test to run on a specific day and time, a condition could require that the computer be idle before it will start.
 >
-> **[2:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=120)** An action is what happens when that trigger plus conditions are met and action might mean running a log on or log off script or starting an application like Microsoft Outlook or disc defragmenter.
+> **[2:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=120)** An action is what happens when that trigger plus conditions are met and action might mean running a log on or log off script or starting an application like [[Microsoft Outlook]] or disc defragmenter.
 >
 > **[2:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=133)** A setting affects how a task performs and what happens if it can't run. A setting can be configured to retry the task at a later time, for instance, or to be canceled altogether. To create a task, click create task in the right pane.
 >
@@ -1488,7 +1474,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=157)** So I'm going to type this clean up here.
 >
-> **[2:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=162)** I'm going to configure this tasks for Windows 10, and I'm going to run it under my user account, and only when I'm logged on.
+> **[2:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=162)** I'm going to configure this tasks for [[Windows 10]], and I'm going to run it under my user account, and only when I'm logged on.
 >
 > **[2:51](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=171)** Notice the user doesn't have to be logged on.
 >
@@ -1512,7 +1498,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=206)** So I'm going to click browse.
 >
-> **[3:30](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=210)** I need to browse to windows (C:), the windows folder.
+> **[3:30](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=210)** I need to browse to [[Windows]] (C:), the windows folder.
 >
 > **[3:36](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/schedule-tasks-with-task-scheduler?u=76281980&t=216)** I need to browse to system 32 because this is where the program is stored that I want to run.
 >
@@ -1564,7 +1550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Windows]] (2), management (1), prompt (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Outlook]] (1), [[Windows 10]] (1)
 > **Analogies:** such as (3), for instance (2), for example (2), imagine (1)
 > **Tools:** command prompt (1), command line (1)
 > **UI Navigation:** scroll down (1), switch to (1)
@@ -1573,8 +1559,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980)
+#### [Implement encryption](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1569,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=9)** Encryption uses keys to lock and unlock the data and both keys must be available for access.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=16)** You can enable basic encryption on all Windows operating systems.
+> **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=16)** You can enable basic encryption on all [[Windows]] operating systems.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=20)** And you can use BitLocker on Windows Pro, Enterprise and Education.
 >
@@ -1658,7 +1643,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=172)** I have to backup my recovery key.
 >
-> **[2:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=174)** I can save that to my Microsoft account, to a USB flash drive, to a file, or I can print it.
+> **[2:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=174)** I can save that to my [[Microsoft]] account, to a USB flash drive, to a file, or I can print it.
 >
 > **[3:02](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/implement-encryption?u=76281980&t=182)** I'm going to choose USB flash drive.
 >
@@ -1720,18 +1705,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Windows]] (3), next (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (1)
 > **Env Vars:** usb (3), tpm (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure Windows Defender Firewall and antivirus
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980)
+#### [Configure Windows Defender Firewall and antivirus](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=0)** - [Instructor] Windows Defender has been a part of Windows operating systems since Windows XP, and has evolved from its introduction there as a simple antispyware program to the full-fledged antivirus solution it is today.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=0)** - [Instructor] [[Windows]] [[Microsoft Defender|Defender]] has been a part of Windows operating systems since Windows XP, and has evolved from its introduction there as a simple antispyware program to the full-fledged antivirus solution it is today.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=13)** You can open Windows Security settings from the taskbar.
 >
@@ -1767,13 +1751,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=97)** You can also access troubleshooters, view notification settings, and more.
 >
-> **[1:43](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=103)** App & browser control lets you configure how you want the firewall to manage apps and Microsoft Edge.
+> **[1:43](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=103)** App & browser control lets you configure how you want the firewall to manage apps and [[Microsoft]] Edge.
 >
 > **[1:50](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=110)** These are all set to warn, but there are other options, including Block and Off.
 >
 > **[1:56](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=116)** Device security offers access to various virtualization-based security features, as well as secure boot.
 >
-> **[2:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=123)** That's beyond our scope here, but these features are covered in other courses here at LinkedIn Learning.
+> **[2:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=123)** That's beyond our scope here, but these features are covered in other courses here at [[LinkedIn]] Learning.
 >
 > **[2:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=130)** Device performance & health offers a health report, as well as any issues found with, say, a laptop's battery life, or device drivers, among other things.
 >
@@ -1807,7 +1791,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=215)** Finally, there are a few group policy settings that apply to Windows Security, specifically, Windows Defender.
 >
-> **[3:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=222)** This is provided you're running Windows 10 Pro or Enterprise.
+> **[3:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=222)** This is provided you're running [[Windows 10]] Pro or Enterprise.
 >
 > **[3:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-windows-defender-firewall-and-antivirus?u=76281980&t=226)** Let's have a look.
 >
@@ -1835,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (15), [[Microsoft Defender|Defender]] (9), [[Security]] (7), [[Microsoft]] (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Windows]] (15), [[Microsoft Defender|Defender]] (9), [[Microsoft]] (1), [[LinkedIn]] (1), [[Windows 10]] (1)
 > **Prerequisites:** configure (2), install (1)
 > **UI Navigation:** scroll down (1), navigate to (1)
 > **Analogies:** for instance (2)
@@ -1849,8 +1833,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a workgroup or join a domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980)
+#### [Create a workgroup or join a domain](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1861,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=61)** Oftentimes, networking solutions come about organically and without much thought, especially when there are only a few computers involved.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=70)** For instance, a small business might configure a local area network to have several computers that share an internet connection.
+> **[1:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=70)** For instance, a small business might configure a [[Local Area Network (LAN)|local area network]] to have several computers that share an internet connection.
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=77)** As time passes, users may start to manually share their own files and folders and even printers.
 >
@@ -1896,11 +1879,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=113)** This happens when managing the workgroup becomes difficult, time-consuming, and generally impossible to scale efficiently.
 >
-> **[2:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=120)** Configuring a domain involves adding at least one server, such as Windows Server 2016.
+> **[2:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=120)** Configuring a domain involves adding at least one server, such as [[Windows Server]] 2016.
 >
 > **[2:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=126)** Workgroups do not require a server, and user accounts are managed on a machine-to-machine basis.
 >
-> **[2:12](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=132)** Whether you want to join a workgroup or a domain, you can make the change in Control Panel in Windows 10.
+> **[2:12](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=132)** Whether you want to join a workgroup or a domain, you can make the change in Control Panel in [[Windows 10]].
 >
 > **[2:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980&t=139)** It's in System.
 >
@@ -1946,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (4), data (3), cloud (2), feature (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Windows Server]] (1), [[Windows 10]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** double-click (1), switch to (1), go to (1)
 > **Definitions:** is a  (2)
@@ -1955,18 +1938,17 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create user accounts in Accounts and Computer Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980)
+#### [Create user accounts in Accounts and Computer Management](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=0)** - [Narrator] There are several types of accounts you can create and use with Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=0)** - [Narrator] There are several types of accounts you can create and use with [[Windows 10]].
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=4)** The first is a local account, which is an account that is only valid on the local machine.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=10)** Any personalizations you make with this account don't follow you when you log on to another computer.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=16)** You can also create a Microsoft account for either a child or an adult.
+> **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=16)** You can also create a [[Microsoft]] account for either a child or an adult.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=21)** Personalizations you make here are stored in the cloud and are applied to any computer you log into using that account.
 >
@@ -1974,13 +1956,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=31)** Another type of account is work or school.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=34)** You might have one of these accounts if you sign in with Office 365 or other Microsoft services to access school or company resources.
+> **[0:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=34)** You might have one of these accounts if you sign in with [[Microsoft Office|Office]] 365 or other Microsoft services to access school or company resources.
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=43)** To access options to create these kinds of accounts, click Start, Settings, and then Accounts.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=51)** What you see here depends on what kind of account you're logged in with.
 >
-> **[0:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=54)** I'm going to assume you're connected to a local area network and that you're an Administrator.
+> **[0:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=54)** I'm going to assume you're connected to a [[Local Area Network (LAN)|local area network]] and that you're an Administrator.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=60)** It doesn't matter right now if you're logged on with a local account or a Microsoft account though.
 >
@@ -2046,7 +2028,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=214)** The default account is managed by the system.
 >
-> **[3:37](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=217)** This Utility account is used for Windows Defender.
+> **[3:37](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=217)** This Utility account is used for [[Windows]] [[Microsoft Defender|Defender]].
 >
 > **[3:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=222)** The Guest account is not enabled by default.
 >
@@ -2066,7 +2048,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=253)** Fill out the information.
 >
-> **[4:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=255)** I'll create a username John and I won't set a password.
+> **[4:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=255)** I'll create a username [[John the Ripper|John]] and I won't set a password.
 >
 > **[4:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-user-accounts-in-accounts-and-computer-management?u=76281980&t=260)** Now, I'll make sure John creates a password at his login.
 >
@@ -2140,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), next (4), management (3), [[Windows 10]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[John the Ripper|John]] (3), [[Windows 10]] (1), [[Microsoft Office|Office]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Non-Speech:** (keyboard typing) (2), (mouse clicking) (1)
@@ -2149,24 +2131,23 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage local groups: NTFS permissions in Computer Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980)
+#### [Manage local groups: NTFS permissions in Computer Management](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=0)** - [Woman] If you have a home or small office and only have a few users to manage, one option is to manage them each independently.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=0)** - [Woman] If you have a home or small [[Microsoft Office|office]] and only have a few users to manage, one option is to manage them each independently.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=7)** You can create users from Settings and Accounts.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=11)** You can see some accounts here.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=14)** Jane, Jennifer, John, and Leah.
+> **[0:14](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=14)** Jane, Jennifer, [[John the Ripper|John]], and Leah.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=18)** Once you have users, you can also create folders and share them manually and apply your own permissions.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=26)** This is usually sufficient when there aren't too many people, or too many computers involved.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=31)** However, when you have a lot of users to manage, say groups of accountants, groups of salespeople, inventory specialists, and maybe even a human resources department, you need a more robust management solution.
+> **[0:31](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=31)** However, when you have a lot of users to manage, say groups of accountants, groups of salespeople, inventory specialists, and maybe even a [[Human Resources (HR)|human resources]] department, you need a more robust management solution.
 >
 > **[0:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=44)** You also need to be able to better manage the folders you share rather than trying to navigate and manage those in File Explorer.
 >
@@ -2296,13 +2277,13 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=340)** For now, and before you continue on, if you're in charge of creating the share and permission structure for an organization, you're going to need to know a lot more about this, beyond how to create a group and add users, or how to create a share net groups.
 >
-> **[5:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=354)** There's a lot of information on LinkedIn alluring around these topics.
+> **[5:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=354)** There's a lot of information on [[LinkedIn]] alluring around these topics.
 >
 > **[5:57](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-local-groups-ntfs-permissions-in-computer-management?u=76281980&t=357)** So make a note now about that, and review related movies when time allows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), next (3), [[Security]] (3), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** right-click (3), open the (1), scroll down (1)
 > **Env Vars:** ntfs (3)
 > **Prerequisites:** configure (2)
@@ -2310,14 +2291,13 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [woman] (1)
 
-#### Manage users with Computer Management and Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980)
+#### [Manage users with Computer Management and Group Policy](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=0)** - Windows 10 comes with several built in users, including, but not limited to, administrator, a default account used by the system and guest.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=0)** - [[Windows 10]] comes with several built in users, including, but not limited to, administrator, a default account used by the system and guest.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=10)** The first time anyone logs into a computer using their own credentials, such as a Microsoft account, that name gets added to the list as well.
+> **[0:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=10)** The first time anyone logs into a computer using their own credentials, such as a [[Microsoft]] account, that name gets added to the list as well.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=19)** You'll also see any users you created.
 >
@@ -2333,7 +2313,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=52)** You can manage individual users here.
 >
-> **[0:55](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=55)** I'm going to double click John, a user I created an earlier movie and have a look at what's set for him.
+> **[0:55](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=55)** I'm going to double click [[John the Ripper|John]], a user I created an earlier movie and have a look at what's set for him.
 >
 > **[1:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=63)** Notice I've deselected user must change password at next log on and in doing so made a couple of other options available.
 >
@@ -2393,7 +2373,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=251)** From programs, you also have some options.
 >
-> **[4:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=255)** You could hide windows marketplace, windows features, and even programs in control panel.
+> **[4:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=255)** You could hide [[Windows]] marketplace, windows features, and even programs in control panel.
 >
 > **[4:24](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/manage-users-with-computer-management-and-group-policy?u=76281980&t=264)** As you can see here, there are a lot of options and you can really fine tune how you want to manage your users.
 >
@@ -2407,7 +2387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows]] (3), [[Windows 10]] (2), management (2), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (10), [[Microsoft]] (3), [[Windows]] (3), [[Windows 10]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mmc (1)
 > **Definitions:** is a  (1)
@@ -2415,8 +2395,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - windows (1)
 
-#### Configure application settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980)
+#### [Configure application settings](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2448,17 +2427,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=75)** There's simply too much to do and not enough options for the devices they use.
 >
-> **[1:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=79)** That's because they have to manage devices that smaller businesses don't usually have, and Windows on its own can't manage, like iOS and Android mobile devices, various other phones and tablets, and company owned and provisioned laptops.
+> **[1:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=79)** That's because they have to manage devices that smaller businesses don't usually have, and [[Windows]] on its own can't manage, like iOS and [[Android]] mobile devices, various other phones and tablets, and company owned and provisioned laptops.
 >
 > **[1:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=94)** Administrators must be able to keep track of these devices and keep them updated and retain the ability to wipe data off of them should they get lost or the related employee terminated.
 >
-> **[1:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=104)** To control and oversee these types of devices, enterprises incorporate group policies and use Configuration Manager perhaps along with other technologies like Microsoft Intune and Azure Active Directory.
+> **[1:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=104)** To control and oversee these types of devices, enterprises incorporate group policies and use Configuration Manager perhaps along with other technologies like [[Microsoft]] Intune and [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[1:58](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=118)** Modern management involves unifying the management of iOS and Android devices without having to use multiple applications.
 >
 > **[2:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=126)** An administrator must be able to manage all devices from anywhere and from a single console if possible, as well.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=133)** Intune and Azure also use the cloud to manage devices and keep them updated as users log in no matter where they are or how they connect to the internet.
+> **[2:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=133)** Intune and [[Microsoft Azure|Azure]] also use the cloud to manage devices and keep them updated as users log in no matter where they are or how they connect to the internet.
 >
 > **[2:23](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=143)** Also, when a user is given a new device, like a laptop, the first time the user logs on, a wizard appears that helps them connect to Azure Active Directory without having a direct connection to the corporate network.
 >
@@ -2466,9 +2445,9 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=160)** Settings transfer, as well as permissions and business line of applications.
 >
-> **[2:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=165)** Administrators can also use the GUI of Azure AD and Microsoft Intune to add devices, configure them, manage them, and update them Admins can opt to push changes out to devices they manage too.
+> **[2:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=165)** Administrators can also use the GUI of [[Microsoft Entra ID|Azure AD]] and Microsoft Intune to add devices, configure them, manage them, and update them Admins can opt to push changes out to devices they manage too.
 >
-> **[2:58](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=178)** And to apply security policies and configure real-time monitoring with Windows Defender.
+> **[2:58](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=178)** And to apply security policies and configure [[Real-Time]] monitoring with Windows [[Microsoft Defender|Defender]].
 >
 > **[3:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-application-settings?u=76281980&t=183)** No matter what size the network, Microsoft offers multiple ways to manage the devices on it.
 >
@@ -2476,18 +2455,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), business (3), [[Microsoft Entra ID|Azure active directory]] (3), [[Windows]] (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID|Azure active directory]] (3), [[Windows]] (2), [[Android]] (2), [[Microsoft Azure|Azure]] (1)
 > **Code Identifiers:** ios (2)
 > **Env Vars:** ntfs (1), gui (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Credential Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980)
+#### [Configure Credential Manager](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=0)** - [Presenter] Have you ever wondered where Windows stores your usernames and passwords?
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=0)** - [Presenter] Have you ever wondered where [[Windows]] stores your usernames and passwords?
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=4)** Well, it saves them using a feature called Credential Manager.
 >
@@ -2515,7 +2493,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=65)** And if you return to the website, you'll be prompted to type in the information again.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=70)** Windows Credentials are associated with computers you connect to on your local network and applications like Microsoft Office and One Drive.
+> **[1:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=70)** Windows Credentials are associated with computers you connect to on your local network and applications like [[Microsoft Office]] and One Drive.
 >
 > **[1:19](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-credential-manager-14301614?u=76281980&t=79)** This is also where you can find certificate based credentials too, although you might not have any of those.
 >
@@ -2575,19 +2553,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Windows]] (5), feature (1), [[Microsoft Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft Office]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** navigate to (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Use Group Policy to secure users and computers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/use-group-policy-to-secure-users-and-computers?u=76281980)
+#### [Use Group Policy to secure users and computers](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/use-group-policy-to-secure-users-and-computers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/use-group-policy-to-secure-users-and-computers?u=76281980&t=0)** - [Instructor] Did you know that you can log in to your Windows PC with something other than a traditional password?
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/use-group-policy-to-secure-users-and-computers?u=76281980&t=0)** - [Instructor] Did you know that you can log in to your [[Windows]] PC with something other than a traditional password?
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/use-group-policy-to-secure-users-and-computers?u=76281980&t=6)** You can choose a PIN or use a picture password, if you'd rather.
 >
@@ -2703,7 +2680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Security]] (2), power (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Prerequisites:** configure (6), required to (2)
 > **Analogies:** picture (5)
 > **Env Vars:** pin (4)
@@ -2717,12 +2694,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recover Windows 10 with a recovery drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980)
+#### [Recover Windows 10 with a recovery drive](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980&t=0)** - [Instructor] When Windows encounters a catastrophic failure, one that is so bad you can't boot the machine to access the recovery options from inside the operating system, you can use your recovery drive to get the computer back up and running.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980&t=0)** - [Instructor] When [[Windows]] encounters a catastrophic failure, one that is so bad you can't boot the machine to access the recovery options from inside the operating system, you can use your recovery drive to get the computer back up and running.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980&t=13)** You have to create this drive yourself, though, before a problem occurs.
 >
@@ -2776,7 +2752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (2), [[Search]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Warnings:** note that (2), troubleshoot (1)
 > **Env Vars:** usb (2)
@@ -2784,12 +2760,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and manage System Restore points
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980)
+#### [Create and manage System Restore points](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=0)** - [Instructor] System Restore has been a part of Windows since Windows ME, and automatically takes snapshots of the operating system and its various components, including the registry without input from you.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=0)** - [Instructor] System Restore has been a part of [[Windows]] since Windows ME, and automatically takes snapshots of the operating system and its various components, including the registry without input from you.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=11)** That is, as long as System Restore's enabled.
 >
@@ -2807,7 +2782,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=54)** C is usually the drive we're concerned with, although other drives can certainly exist and contain data.
 >
-> **[1:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=60)** V holds my virtual machines and protection is turned off.
+> **[1:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=60)** V holds my [[Virtual Machines]] and protection is turned off.
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-and-manage-system-restore-points?u=76281980&t=64)** If you ever feel like you're about to do something risky, perhaps installing a new device or device driver, you can create a restore point yourself.
 >
@@ -2871,15 +2846,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (2), [[Search]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Virtual Machines]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** scroll down (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore recovery options
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-recovery-options?u=76281980)
+#### [Explore recovery options](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-recovery-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2889,7 +2863,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-recovery-options?u=76281980&t=12)** Click Start, Settings, Update & Security, and Recovery.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-recovery-options?u=76281980&t=20)** You can reset the PC, perhaps go back to a previous version of Windows, or access Advanced startup options.
+> **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-recovery-options?u=76281980&t=20)** You can reset the PC, perhaps go back to a previous version of [[Windows]], or access Advanced startup options.
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-recovery-options?u=76281980&t=28)** Resetting the PC re-installs the Windows operating system, which fixes problems that have to do with Windows.
 >
@@ -2931,7 +2905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** usb (1), dvd (1)
 > **Cross-References:** go back to (1)
@@ -2939,12 +2913,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot the startup and boot process
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-the-startup-and-boot-process?u=76281980)
+#### [Troubleshoot the startup and boot process](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-the-startup-and-boot-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-the-startup-and-boot-process?u=76281980&t=0)** - [Narrator] When Windows won't boot, doesn't work properly, or when it boots slowly, you have several troubleshooting options.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-the-startup-and-boot-process?u=76281980&t=0)** - [Narrator] When [[Windows]] won't boot, doesn't work properly, or when it boots slowly, you have several troubleshooting options.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/troubleshoot-the-startup-and-boot-process?u=76281980&t=7)** One is System Restore, which I covered in an earlier movie.
 >
@@ -3042,7 +3015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (3), power (2), prompt (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** command prompt (2)
 > **Warnings:** troubleshoot (2)
@@ -3051,12 +3024,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
-#### Restore with file history
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980)
+#### [Restore with file history](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=0)** - [Narrator] Windows 10 comes with a back up program called File History.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=0)** - [Narrator] [[Windows 10]] comes with a back up program called File History.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=4)** File History scans your personal folders every hour, and copies changes to a back up drive.
 >
@@ -3132,7 +3104,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=197)** Let's locate that one option.
 >
-> **[3:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=200)** It's in Computer Configuration, Administrative Templates, Windows Components, and File History.
+> **[3:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=200)** It's in Computer Configuration, Administrative Templates, [[Windows]] Components, and File History.
 >
 > **[3:29](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/restore-with-file-history?u=76281980&t=209)** Here it is.
 >
@@ -3152,7 +3124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** be careful (1), watch out (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -3161,8 +3133,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980)
+#### [Configure OneDrive](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3170,23 +3141,23 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=11)** On this PC, we have a hard drive, a recovery drive, and a virtual drive and we have a few items available from Network.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=20)** Large companies that need to manage corporate data might have onsite data storage rooms, or they might keep their data offsite in a server farm or server cluster hosted by a third-party for a monthly or yearly fee.
+> **[0:20](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=20)** Large companies that need to manage corporate data might have onsite [[Data Storage]] rooms, or they might keep their data offsite in a server farm or server cluster hosted by a third-party for a monthly or yearly fee.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=34)** Single users and small businesses might opt to store their data online as well.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=39)** There are lots of options, including Dropbox, OneDrive, Google Drive and so on.
+> **[0:39](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=39)** There are lots of options, including Dropbox, [[Microsoft OneDrive|OneDrive]], [[Google Drive]] and so on.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=46)** We'll talk about OneDrive here.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=48)** Open File Explorer on your own computer to see your OneDrive folder.
 >
-> **[0:53](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=53)** If you don't see a OneDrive folder, it's because you haven't logged into this computer with a Microsoft account.
+> **[0:53](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=53)** If you don't see a OneDrive folder, it's because you haven't logged into this computer with a [[Microsoft]] account.
 >
 > **[0:58](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=58)** You'll have to switch accounts if you want to follow along.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=62)** Saving data to the OneDrive folder is a much different from saving to a personal library.
 >
-> **[1:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=67)** Here for instance, in Microsoft Word, I simply have to click File, Save As and choose OneDrive.
+> **[1:07](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=67)** Here for instance, in [[Microsoft Word]], I simply have to click File, Save As and choose OneDrive.
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=77)** Here's my OneDrive folder, and here's where I can save my test document.
 >
@@ -3196,7 +3167,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=102)** I saved the test.docx file.
 >
-> **[1:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=106)** If I were to place the two windows side by side, you could see that they hold the same data even the test document.
+> **[1:46](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=106)** If I were to place the two [[Windows]] side by side, you could see that they hold the same data even the test document.
 >
 > **[1:53](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=113)** This is OneDrive as it appears in the Edge web browser.
 >
@@ -3236,7 +3207,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=234)** You can select something to share it, to download, to delete, move, copy, even rename.
 >
-> **[4:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=243)** You can create new folders to organize your work, documents, workbooks, and PowerPoint presentations.
+> **[4:03](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=243)** You can create new folders to organize your work, documents, workbooks, and [[Microsoft PowerPoint|PowerPoint]] presentations.
 >
 > **[4:13](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive?u=76281980&t=253)** You can also upload files and folders.
 >
@@ -3248,7 +3219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (21), data (16), web (2), [[Google Drive]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (21), [[Data Storage]] (1), [[Google Drive]] (1), [[Microsoft]] (1), [[Microsoft Word]] (1)
 > **UI Navigation:** go to (3), drag and drop (1), right-click (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [live.com](https://live.com) (1)
@@ -3257,14 +3228,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure OneDrive for Business
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980)
+#### [Configure OneDrive for Business](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=0)** - [Instructor] Many people use OneDrive to store their personal data in the cloud.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=0)** - [Instructor] Many people use [[Microsoft OneDrive|OneDrive]] to store their personal data in the cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=6)** OneDrive is free if you have a Microsoft account.
+> **[0:06](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=6)** OneDrive is free if you have a [[Microsoft]] account.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=10)** Businesses use OneDrive too.
 >
@@ -3276,11 +3246,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=29)** My employer uses OneDrive for business.
 >
-> **[0:33](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=33)** OneDrive for Business is part of Office 365.
+> **[0:33](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=33)** OneDrive for Business is part of [[Microsoft Office|Office]] 365.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=37)** Like OneDrive, it gives you a place in the cloud where you can store, share, and sync work files.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=45)** It also offers many other features, including, but not limited to, remote work solutions for employees, Microsoft Office Online, collaboration tools, business email, and device management.
+> **[0:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=45)** It also offers many other features, including, but not limited to, remote work solutions for employees, [[Microsoft Office]] Online, collaboration tools, business email, and device management.
 >
 > **[1:01](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=61)** If you'd like to try OneDrive for Business, you'll have to subscribe to the service.
 >
@@ -3302,7 +3272,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=117)** Click OneDrive.
 >
-> **[2:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=124)** The options here are similar to the options you'll find in any cloud storage, including the ability to upload and download files, as well as sync files you work with.
+> **[2:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=124)** The options here are similar to the options you'll find in any [[Cloud Storage]], including the ability to upload and download files, as well as sync files you work with.
 >
 > **[2:15](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-onedrive-for-business?u=76281980&t=135)** Click the nine dots once more and take one last look at what's available.
 >
@@ -3312,21 +3282,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), business (6), data (3), cloud (3), [[Microsoft Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft Office]] (2), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access and configure Backup and Restore
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980)
+#### [Access and configure Backup and Restore](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=0)** - Windows 10 comes with a few ways to backup your data.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=0)** - [[Windows 10]] comes with a few ways to backup your data.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=4)** You can use OneDrive for instance, shown here on the right, and you can also use file history shown on the left.
+> **[0:04](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=4)** You can use [[Microsoft OneDrive|OneDrive]] for instance, shown here on the right, and you can also use file history shown on the left.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=10)** Both have their drawbacks though.
 >
@@ -3338,9 +3307,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=28)** File History can't create a system image automatically, or backup data stored elsewhere, unless you manually add it to the list of backup entries.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=38)** Neither option works if you need to restore from an older backup, such as one created in Windows 7.
+> **[0:38](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=38)** Neither option works if you need to restore from an older backup, such as one created in [[Windows]] 7.
 >
-> **[0:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=44)** To resolve this issue, Microsoft re-instated backup and restore.
+> **[0:44](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=44)** To resolve this issue, [[Microsoft]] re-instated backup and restore.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/access-and-configure-backup-and-restore?u=76281980&t=48)** Let's take a look at it.
 >
@@ -3420,7 +3389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Windows]] (5), [[Microsoft OneDrive|Onedrive]] (3), next (3), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft OneDrive|Onedrive]] (3), [[Windows 10]] (1), [[Microsoft]] (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3428,8 +3397,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - windows (1)
 
-#### Explore wbadmin
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980)
+#### [Explore wbadmin](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3437,7 +3405,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=8)** It's disk-based based, so you can back up one machine and restore to that same machine or another one.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=16)** If you opt to install to another machine, it's even okay if the hardware is dissimilar.
+> **[0:16](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=16)** If you opt to install to another machine, it's even okay if the [[Hardware]] is dissimilar.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=21)** Wbadmin creates VHD files, which can be mounted for viewing.
 >
@@ -3445,9 +3413,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=31)** Using wbadmin, there are two restore options.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=36)** The bare metal restore option lets you use the Windows Recovery Environment to complete a full restoration.
+> **[0:36](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=36)** The bare metal restore option lets you use the [[Windows]] Recovery Environment to complete a full restoration.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=42)** The individual file and folder and system state restore option lets you restore files, folders, or the machine's system state directly from a command line or PowerShell prompt.
+> **[0:42](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=42)** The individual file and folder and system state restore option lets you restore files, folders, or the machine's system state directly from a command line or [[Powershell]] prompt.
 >
 > **[0:55](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/explore-wbadmin-14303588?u=76281980&t=55)** The command to start a backup job is wbadmin space start space and backup.
 >
@@ -3491,18 +3459,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (3), prompt (3), [[Hardware]] (1), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Hardware]] (1), [[Windows]] (1)
 > **Tools:** powershell (3), command line (2), command prompt (2)
 > **Env Vars:** vhd (1), dvd (1), usb (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Recover the OS with Windows Recovery Environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-the-os-with-windows-recovery-environment?u=76281980)
+#### [Recover the OS with Windows Recovery Environment](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-the-os-with-windows-recovery-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-the-os-with-windows-recovery-environment?u=76281980&t=0)** - [Technician] The Windows Recovery Environment also called Windows RE contains automatic repair tools that may be able to help you recover the system after a computer failure.
+> **[0:00](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-the-os-with-windows-recovery-environment?u=76281980&t=0)** - [Technician] The [[Windows]] Recovery Environment also called Windows RE contains automatic repair tools that may be able to help you recover the system after a computer failure.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-the-os-with-windows-recovery-environment?u=76281980&t=11)** Windows RE, also contains options for administrators and tech specialists, such as access to the command prompt, the ability to recover using a system image disc and options to access the firmware for UEFI settings among other things.
 >
@@ -3570,7 +3537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), prompt (2)
+> **Frameworks & Libraries:** [[Windows]] (9)
 > **Env Vars:** uefi (2), usb (1), dvd (1), vcd (1), bcd (1)
 > **Analogies:** such as (2), for example (1), for instance (1), picture (1)
 > **Tools:** command prompt (2), command line (1)
@@ -3584,20 +3551,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=1)** I hope you enjoyed this course on managing and maintaining Windows 10.
+> **[0:01](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=1)** I hope you enjoyed this course on managing and maintaining [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=5)** I encourage you to use the tools offered here to keep your machines healthy, secure, and running optimally.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=12)** By making the most of what Windows has to offer, you can monitor and respond to system events effectively, so, you can rest easy knowing your devices are secure and up-to-date.
+> **[0:12](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=12)** By making the most of what [[Windows]] has to offer, you can monitor and respond to system events effectively, so, you can [[Representational State Transfer (REST)|rest]] easy knowing your devices are secure and up-to-date.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=24)** If you're in an enterprise, you can make use of features such as Device Guard, Device Health Attestation, Device Registration, and others to keep your network healthy, too.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=34)** Beyond that, I hope you create a custom Microsoft Management Console for your favorite tools, and explore Task Scheduler and PowerShell for automating tasks you do often.
+> **[0:34](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=34)** Beyond that, I hope you create a custom [[Microsoft]] Management Console for your favorite tools, and explore Task Scheduler and [[Powershell]] for automating tasks you do often.
 >
 > **[0:45](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980&t=45)** If you're interested in learning more, or if you're studying for your Windows 10 MCSA, I suggest looking at the online library for more courses like this one, including courses that discuss configuring support and core services, implementing Windows, and configuring Windows devices.
 >
@@ -3609,7 +3575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), [[Powershell]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** mcsa (1)
 > **Tools:** powershell (1)

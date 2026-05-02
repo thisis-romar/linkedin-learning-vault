@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A challenging and critical role
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/a-challenging-and-critical-role?u=76281980)
+#### [A challenging and critical role](https://www.linkedin.com/learning/leading-a-marketing-team/a-challenging-and-critical-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), leadership (1), teams (1)
 > **Definitions:** is a  (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - congratulations (1)
@@ -116,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand your boss's expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980)
+#### [Understand your boss's expectations](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=53)** Next, get a clear understanding from your boss about the constraints that you must work within.
 >
-> **[0:59](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=59)** Constraints come in many forms, like budget, head count, geographical focus, and scope of responsibilities.
+> **[0:59](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=59)** Constraints come in many [[Forms]], like budget, head count, geographical focus, and scope of responsibilities.
 >
 > **[1:06](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=66)** Believe it or not, constraints are not a barrier to your success.
 >
@@ -199,17 +196,16 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=174)** Hey, in a very real sense, your customers are counting on you.
 >
-> **[2:58](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=178)** So march right into your boss' office, and get things off to a great start.
+> **[2:58](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-boss-s-expectations-2?u=76281980&t=178)** So march right into your boss' [[Microsoft Office|office]], and get things off to a great start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Build relationships with your peers
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/build-relationships-with-your-peers-2?u=76281980)
+#### [Build relationships with your peers](https://www.linkedin.com/learning/leading-a-marketing-team/build-relationships-with-your-peers-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/leading-a-marketing-team/build-relationships-with-your-peers-2?u=76281980&t=17)** And by peers, I mean those who hold the same position within marketing, as well as peers at the same level in other departments.
 >
-> **[0:25](https://www.linkedin.com/learning/leading-a-marketing-team/build-relationships-with-your-peers-2?u=76281980&t=25)** Finance, sales, human resources, R and D and operations.
+> **[0:25](https://www.linkedin.com/learning/leading-a-marketing-team/build-relationships-with-your-peers-2?u=76281980&t=25)** Finance, sales, [[Human Resources (HR)|human resources]], R and D and operations.
 >
 > **[0:31](https://www.linkedin.com/learning/leading-a-marketing-team/build-relationships-with-your-peers-2?u=76281980&t=31)** After all, marketing is the hub of all commercial activity.
 >
@@ -289,15 +285,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Human Resources (HR)|Human resources]] (1), teams (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - there (1)
 
-#### Meet your new team
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/meet-your-new-team?u=76281980)
+#### [Meet your new team](https://www.linkedin.com/learning/leading-a-marketing-team/meet-your-new-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,20 +348,19 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/leading-a-marketing-team/meet-your-new-team?u=76281980&t=175)** Hey, you were put into this role for a good reason, you're a competent leader with drive and determination.
 >
-> **[3:01](https://www.linkedin.com/learning/leading-a-marketing-team/meet-your-new-team?u=76281980&t=181)** That same drive and determination can be infectious for the rest of your team.
+> **[3:01](https://www.linkedin.com/learning/leading-a-marketing-team/meet-your-new-team?u=76281980&t=181)** That same drive and determination can be infectious for the [[Representational State Transfer (REST)|rest]] of your team.
 >
 > **[3:06](https://www.linkedin.com/learning/leading-a-marketing-team/meet-your-new-team?u=76281980&t=186)** So lead by example right from the start, and you'll find your team becoming excited about the opportunities ahead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - marketing (1)
 
-#### Understand your market conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-market-conditions-2?u=76281980)
+#### [Understand your market conditions](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-market-conditions-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-market-conditions-2?u=76281980&t=133)** Next, look at your competitor set.
 >
-> **[2:15](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-market-conditions-2?u=76281980&t=135)** Who are the direct competitors, meaning the ones who offer products and services most similar to yours?
+> **[2:15](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-market-conditions-2?u=76281980&t=135)** Who are the direct competitors, meaning the ones who offer [[Microsoft Products|products]] and services most similar to yours?
 >
 > **[2:21](https://www.linkedin.com/learning/leading-a-marketing-team/understand-your-market-conditions-2?u=76281980&t=141)** And who are the indirect competitors that offer an alternative that's different from yours, but delivers the same essential benefit?
 >
@@ -462,23 +456,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (1), [[Microsoft Products|Products]] (1), [[Security]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), similar to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - you (1)
 
-#### Examine your resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980)
+#### [Examine your resources](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=0)** - As a marketing leader, you are now responsible for a bundle of resources that you'll need to get the job done.
 >
-> **[0:07](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=7)** Those resources include human resources, your team, and also include financial resources in the form of a budget.
+> **[0:07](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=7)** Those resources include [[Human Resources (HR)|human resources]], your team, and also include financial resources in the form of a budget.
 >
 > **[0:16](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=16)** But a good leader thinks about resources beyond just human and financial.
 >
-> **[0:20](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=20)** You may have tangible resources like physical products and distribution outlets.
+> **[0:20](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=20)** You may have tangible resources like physical [[Microsoft Products|products]] and distribution outlets.
 >
 > **[0:26](https://www.linkedin.com/learning/leading-a-marketing-team/examine-your-resources-2?u=76281980&t=26)** You may have intangible resources like brand reputations.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Human Resources (HR)|Human resources]] (2), feature (2), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Human Resources (HR)|Human resources]] (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
@@ -571,12 +564,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define marketing objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980)
+#### [Define marketing objectives](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=0)** - Now that you're in charge of a marketing team, people are going to look for direction about your marketing strategy.
+> **[0:00](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=0)** - Now that you're in charge of a marketing team, people are going to look for direction about your [[Marketing Strategy]].
 >
 > **[0:07](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=7)** That includes your boss, your peers and of course your team.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=127)** It's how you remind everyone why they need to support you.
 >
-> **[2:11](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=131)** Setting goals seem scary because it engenders a feeling of accountability but just the opposite is true.
+> **[2:11](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=131)** Setting goals seem scary because it engenders a feeling of [[Accountability]] but just the opposite is true.
 >
 > **[2:17](https://www.linkedin.com/learning/leading-a-marketing-team/define-marketing-objectives-2?u=76281980&t=137)** You have to make it so that it creates accountability and responsibility from your support teams.
 >
@@ -642,14 +634,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), [[Marketing Strategy]] (1), business (1), data (1), teams (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** smart (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
 
-#### Lead the planning process
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980)
+#### [Lead the planning process](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=51)** Marketing research can be applied at every step of the process, so be sure to get their advice on the best way to use this important resource.
 >
-> **[1:00](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=60)** Next is your technical team, who develops your products and services.
+> **[1:00](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=60)** Next is your technical team, who develops your [[Microsoft Products|products]] and services.
 >
 > **[1:04](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=64)** They might be engineers, or scientists in an R and D department, or perhaps software developers.
 >
@@ -695,7 +686,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=101)** They make the products or deliver a service.
 >
-> **[1:44](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=104)** A customer support team for example, will have great insights about customer complaints, and service issues.
+> **[1:44](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=104)** A [[Customer Support]] team for example, will have great insights about customer complaints, and service issues.
 >
 > **[1:52](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=112)** External partners might include your advertising agency, branding company, a public relations firm, and perhaps a marketing consultant.
 >
@@ -711,11 +702,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=142)** Interpersonal relationships, how each member will work with others, and processes and procedures.
 >
-> **[2:30](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=150)** Make sure the team is aware of your planning schedule, and they know your expectations in developing a great marketing strategy.
+> **[2:30](https://www.linkedin.com/learning/leading-a-marketing-team/lead-the-planning-process?u=76281980&t=150)** Make sure the team is aware of your planning schedule, and they know your expectations in developing a great [[Marketing Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (3), next (2), functional (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Customer Support]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** romi (1)
@@ -728,8 +719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assess your team's capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980)
+#### [Assess your team's capabilities](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +761,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980&t=76)** These go into your marketing competency model.
 >
-> **[1:19](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980&t=79)** For example, let's imagine a marketer who is launching new products.
+> **[1:19](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980&t=79)** For example, let's imagine a marketer who is launching new [[Microsoft Products|products]].
 >
 > **[1:25](https://www.linkedin.com/learning/leading-a-marketing-team/assess-your-team-s-capabilities-2?u=76281980&t=85)** Skill-wise, she must know how to manage projects, write marketing copy, manage external agencies, and deliver training to sales representatives.
 >
@@ -817,19 +807,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), business (1), product (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - marketing (1)
 
-#### Build the right structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980)
+#### [Build the right structure](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=0)** - Given your marketing strategy and your team's capabilities, you need to think about the right way to organize your team in terms of roles and reporting relationships.
+> **[0:00](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=0)** - Given your [[Marketing Strategy]] and your team's capabilities, you need to think about the right way to organize your team in terms of roles and reporting relationships.
 >
 > **[0:10](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=10)** Chances are you've stepped into this new role with an existing team and organizational structure, but that doesn't mean you have to be stuck with it.
 >
@@ -845,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=36)** Once you have a firm footing, make the changes swiftly and confidently.
 >
-> **[0:42](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=42)** That shows your team, and the rest of the organization, that you're in charge.
+> **[0:42](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=42)** That shows your team, and the [[Representational State Transfer (REST)|rest]] of the organization, that you're in charge.
 >
 > **[0:47](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=47)** When choosing an organizational structure, be sure to enlist the help of your HR partner.
 >
@@ -867,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=100)** For example, you might have a marketing team focused on North America.
 >
-> **[1:44](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=104)** That's the best option if marketing your products varies in different parts of the world.
+> **[1:44](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=104)** That's the best option if marketing your [[Microsoft Products|products]] varies in different parts of the world.
 >
 > **[1:50](https://www.linkedin.com/learning/leading-a-marketing-team/build-the-right-structure-2?u=76281980&t=110)** Each regional team becomes experts in the business and cultural differences that impact sales.
 >
@@ -887,13 +876,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), hr (2), [[Marketing Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 > **Speakers:** - given (1)
 
-#### Recruit the best talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/recruit-the-best-talent-2?u=76281980)
+#### [Recruit the best talent](https://www.linkedin.com/learning/leading-a-marketing-team/recruit-the-best-talent-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/leading-a-marketing-team/recruit-the-best-talent-2?u=76281980&t=9)** It's a constant fight for talent.
 >
-> **[0:12](https://www.linkedin.com/learning/leading-a-marketing-team/recruit-the-best-talent-2?u=76281980&t=12)** You may have the best products and services in the market, but without a strong, talented marketing team behind them you'll start losing ground to the competition.
+> **[0:12](https://www.linkedin.com/learning/leading-a-marketing-team/recruit-the-best-talent-2?u=76281980&t=12)** You may have the best [[Microsoft Products|products]] and services in the market, but without a strong, talented marketing team behind them you'll start losing ground to the competition.
 >
 > **[0:20](https://www.linkedin.com/learning/leading-a-marketing-team/recruit-the-best-talent-2?u=76281980&t=20)** Building a competent team begins with recruiting and hiring the right people.
 >
@@ -979,13 +967,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), hr (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - perhaps (1)
 
-#### Training and development for your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980)
+#### [Training and development for your team](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,7 +988,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=41)** You want people walking out of your training program ready to perform their job.
 >
-> **[0:46](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=46)** For example, let's imagine a marketer who has the job of launching new products.
+> **[0:46](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=46)** For example, let's imagine a marketer who has the job of launching new [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=51)** Skill-wise they must know how to manage projects, write marketing copy, manage external agencies and deliver training to sales represents.
 >
@@ -1037,7 +1024,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=138)** How you deliver it depends on what's being trained.
 >
-> **[2:21](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=141)** Most marketing training programs involve some type of interactive simulation so they can perform the exact skills expected of them in the job.
+> **[2:21](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=141)** Most marketing training programs involve some type of interactive [[Simulation]] so they can perform the exact skills expected of them in the job.
 >
 > **[2:30](https://www.linkedin.com/learning/leading-a-marketing-team/training-and-development-for-your-team-2?u=76281980&t=150)** The key is to make training and experience that translates directly to what they'll have to do in their role.
 >
@@ -1057,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), teams (1), [[Simulation]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
 > **Best Practices:** the key is (1)
@@ -1068,8 +1055,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create key performance indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/create-key-performance-indicators-2?u=76281980)
+#### [Create key performance indicators](https://www.linkedin.com/learning/leading-a-marketing-team/create-key-performance-indicators-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,13 +1123,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (1), product (1)
 > **Env Vars:** kpi (6)
 > **Analogies:** such as (3), for example (2)
 > **Speakers:** - you (1)
 
-#### Manage unexpected events
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980)
+#### [Manage unexpected events](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,13 +1147,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=44)** For example, what are you going to do if your new product is behind schedule causing you to miss the launch date?
 >
-> **[0:51](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=51)** What if there are delays in manufacturing or shipping your products and you can't get enough products on the shelves?
+> **[0:51](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=51)** What if there are delays in manufacturing or shipping your [[Microsoft Products|products]] and you can't get enough products on the shelves?
 >
 > **[0:56](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=56)** That's a huge problem.
 >
 > **[0:58](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=58)** What if there's a quality problem and your customers start complaining?
 >
-> **[1:02](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=62)** You must react to that.
+> **[1:02](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=62)** You must [[React.js|react]] to that.
 >
 > **[1:04](https://www.linkedin.com/learning/leading-a-marketing-team/manage-unexpected-events-2?u=76281980&t=64)** Problems can occur externally as well.
 >
@@ -1233,19 +1217,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (2), [[Microsoft Products|Products]] (2), [[React.js|React]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[React.js|React]] (2)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - marketing (1)
 
-#### Lead marketing initiatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/lead-marketing-initiatives?u=76281980)
+#### [Lead marketing initiatives](https://www.linkedin.com/learning/leading-a-marketing-team/lead-marketing-initiatives?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leading-a-marketing-team/lead-marketing-initiatives?u=76281980&t=0)** - At some point in your tenure as a marketing leader, you and your team are going to launch new initiatives into the marketplace.
 >
-> **[0:07](https://www.linkedin.com/learning/leading-a-marketing-team/lead-marketing-initiatives?u=76281980&t=7)** Those could be new products and services, it could be a new advertising campaign, or simply displaying your products at a trade show.
+> **[0:07](https://www.linkedin.com/learning/leading-a-marketing-team/lead-marketing-initiatives?u=76281980&t=7)** Those could be new [[Microsoft Products|products]] and services, it could be a new advertising campaign, or simply displaying your products at a trade show.
 >
 > **[0:15](https://www.linkedin.com/learning/leading-a-marketing-team/lead-marketing-initiatives?u=76281980&t=15)** These initiatives are an important test of your leadership.
 >
@@ -1321,7 +1304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (2), leadership (2), game (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - at (1)
@@ -1331,8 +1314,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue developing your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980)
+#### [Continue developing your career](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1324,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=13)** First, look for opportunities to broaden your skills and experience.
 >
-> **[0:17](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=17)** These could include positions in other functional areas, such as strategic planning, innovation, or maybe product development.
+> **[0:17](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=17)** These could include positions in other functional areas, such as strategic planning, innovation, or maybe [[Product Development]].
 >
 > **[0:25](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=25)** Or perhaps you want to consider an assignment overseas to build your global and cultural acumen.
 >
@@ -1358,7 +1340,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=58)** If you consider yourself a marketing professional, then I advise you to join a community of practice and start networking.
 >
-> **[1:06](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=66)** Engage in organizations like the American Marketing Association, attend one of the many marketing management conferences held each year, and of course, join marketing related groups on LinkedIn.
+> **[1:06](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=66)** Engage in organizations like the American Marketing Association, attend one of the many marketing management conferences held each year, and of course, join marketing related groups on [[LinkedIn]].
 >
 > **[1:17](https://www.linkedin.com/learning/leading-a-marketing-team/continue-developing-your-career?u=76281980&t=77)** Contact local universities about the potential to be a guest speaker.
 >
@@ -1384,7 +1366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), career (2), teams (2), functional (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)

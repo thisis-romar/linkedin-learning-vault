@@ -90,14 +90,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a foundation of test automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980)
+#### [Build a foundation of test automation](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980&t=0)** - Automated testing provides confidence that the application under test is working as expected.
 >
-> **[0:06](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980&t=6)** I'll cover the steps involved to gain a strong test automation foundation.
+> **[0:06](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980&t=6)** I'll cover the steps involved to gain a strong [[Test Automation]] foundation.
 >
 > **[0:10](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation-26042946?u=76281980&t=10)** I'll explain models to help determine the types of automated tests to use on a project.
 >
@@ -111,22 +110,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test Automation]] (4), application (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (4)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - automated (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=0)** - Throughout this course, I will describe different types of automated tests and how to implement them.
 >
-> **[0:06](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=6)** No prior knowledge is required, but it would be helpful to have a basic understanding of test automation.
+> **[0:06](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=6)** No prior knowledge is required, but it would be helpful to have a basic understanding of [[Test Automation]].
 >
 > **[0:12](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=12)** I will write some test code and demonstrate how to use popular testing tools.
 >
-> **[0:17](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=17)** For code examples throughout this course, I'll be using Node.js, although no prior knowledge of Node.js is required.
+> **[0:17](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=17)** For code examples throughout this course, I'll be using [[Node.js]], although no prior knowledge of Node.js is required.
 >
 > **[0:25](https://www.linkedin.com/learning/test-automation-foundations/what-you-should-know-14475739?u=76281980&t=25)** I'll also include a test application that I will reference throughout the course.
 >
@@ -136,14 +134,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), application (2), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Test Automation]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - throughout (1)
 
-#### Value of automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980)
+#### [Value of automation](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=5)** Despite this effort, software will inevitably have defects.
 >
-> **[0:10](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=10)** Manual testing can provide great value by helping to expose defects.
+> **[0:10](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=10)** [[Manual Testing]] can provide great value by helping to expose defects.
 >
 > **[0:14](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=14)** However, it's very time-consuming to manually test the same scenarios over and over again.
 >
@@ -173,13 +170,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=64)** Bugs and regressions can be found quickly, giving developers confidence that updates to the code base didn't break anything.
 >
-> **[1:12](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=72)** At the end of the day, teams with automated tests will create better quality software products.
+> **[1:12](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=72)** At the end of the day, teams with automated tests will create better quality software [[Microsoft Products|products]].
 >
 > **[1:18](https://www.linkedin.com/learning/test-automation-foundations/value-of-automation-14475740?u=76281980&t=78)** These products can then be released smoothly and quickly, having used less resources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Microsoft Products|Products]] (2), product (1), [[Automation]] (1), teams (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - every (1)
 
@@ -188,8 +185,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile Testing Quadrants
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980)
+#### [Agile Testing Quadrants](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=16)** Luckily, there are some models that are extremely valuable when determining which type of test to automate.
 >
-> **[0:23](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=23)** One model that I recommend using is the agile testing quadrants.
+> **[0:23](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=23)** One model that I recommend using is the [[Agile Development|agile]] testing quadrants.
 >
 > **[0:28](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=28)** The agile testing quadrants are used to classify tests.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=218)** Quadrant three involves critical thinking and an in-depth observation of the application's workflows.
 >
-> **[3:47](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=227)** Examples of tests in this quadrant include: exploratory testing, usability testing, and A/B testing.
+> **[3:47](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=227)** Examples of tests in this quadrant include: exploratory testing, [[Usability Testing]], and A/B testing.
 >
 > **[3:55](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=235)** Tests in quadrant three can be performed either before or after development is complete.
 >
@@ -293,35 +289,34 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=337)** The goal is to understand that there are many different types of test that are either automated and manual and to identify what are the most important types of tests to implement.
 >
-> **[5:48](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=348)** Use the test quadrants to guide your team when discussing which tests should be implemented for a particular software development project.
+> **[5:48](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=348)** Use the test quadrants to guide your team when discussing which tests should be implemented for a particular [[Software Development]] project.
 >
 > **[5:57](https://www.linkedin.com/learning/test-automation-foundations/agile-testing-quadrants?u=76281980&t=357)** Continue to think through the quadrants as your team does planning, development, and releases, so that your whole team understands the importance of testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Agile Development|Agile]] (3), business (3), product (3), functional (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Usability Testing]] (1), [[Software Development]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The test pyramid
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980)
+#### [The test pyramid](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=0)** - [Instructor] Another model I always refer back to when planning test automation is the test pyramid.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=0)** - [Instructor] Another model I always refer back to when planning [[Test Automation]] is the test pyramid.
 >
 > **[0:07](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=7)** The test pyramid explains an ideal way to structure tests.
 >
 > **[0:11](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=11)** It is a visual representation of the recommended amount of test coverage that should exist across each type of test.
 >
-> **[0:20](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=20)** This concept was introduced by Mike Cohn and 2009 in the book "Succeeding with Agile."
+> **[0:20](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=20)** This concept was introduced by Mike Cohn and 2009 in the book "Succeeding with [[Agile Development|Agile]]."
 >
 > **[0:26](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=26)** The original test pyramid consists of three levels.
 >
 > **[0:30](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=30)** There are unit tests at the base of the pyramid, integration test in the middle and UI test at the top.
 >
-> **[0:38](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=38)** These are the test types that are the usual suspects on software projects.
+> **[0:38](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=38)** These are the test types that are the usual suspects on [[Software Projects]].
 >
 > **[0:44](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=44)** At a minimum, I recommend that projects have at least these three types of automated tests, but can have additional types of tests as well.
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=115)** They typically involve testing integrations between the database, file systems and other applications.
 >
-> **[2:03](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=123)** API testing is also very popular here.
+> **[2:03](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=123)** [[API Testing]] is also very popular here.
 >
 > **[2:07](https://www.linkedin.com/learning/test-automation-foundations/the-test-pyramid-14470759?u=76281980&t=127)** Integration tests take a bit longer than unit tests, typically taking anywhere between 10 or 100 milliseconds to run, and they create their own data.
 >
@@ -401,15 +396,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Test Automation]] (1), [[Agile Development|Agile]] (1), [[Software Projects]] (1), database (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Agile Development|Agile]] (1), [[Software Projects]] (1), [[API Testing]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980)
+#### [Unit tests](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=9)** The application is called AI animal art.
 >
-> **[0:13](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=13)** This is a fictional online store that sells AI-generated images using Microsoft Copilot.
+> **[0:13](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=13)** This is a fictional online store that sells AI-generated images using [[Microsoft Copilot]].
 >
 > **[0:20](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=20)** I see art for sale, and I can choose to add items to the cart by selecting the Add to Cart button.
 >
@@ -441,11 +435,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=77)** I've talked about the value of unit tests enough from now, so let's focus on practical examples of what unit tests actually look like.
 >
-> **[1:26](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=86)** Back in my browser, I navigate to the GitHub repository for this course.
+> **[1:26](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=86)** Back in my browser, I navigate to the [[GitHub]] repository for this course.
 >
-> **[1:32](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=92)** And for this course. I'll be working out of Codespaces.
+> **[1:32](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=92)** And for this course. I'll be working out of [[Codespaces]].
 >
-> **[1:36](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=96)** Codespaces is a cloud development environment that is linked to a GitHub repository.
+> **[1:36](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=96)** Codespaces is a [[Cloud Development]] environment that is linked to a GitHub repository.
 >
 > **[1:43](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=103)** From the repository, I select Code, and in the Codespaces tab, I want to select a Codespaces instance to open.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=143)** Now, let me explain a little bit about this test application.
 >
-> **[2:27](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=147)** This is a Node.js application, and the app uses Express, a minimal and flexible web framework for Node.js.
+> **[2:27](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=147)** This is a [[Node.js]] application, and the app uses Express, a minimal and flexible web framework for Node.js.
 >
 > **[2:36](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=156)** I'll focus on the routes.js file first.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=212)** You'll see there are also other middleware for error handlers, getting cart quantities, request logger, and validating input.
 >
-> **[3:42](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=222)** This app uses a SQL database.
+> **[3:42](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=222)** This app uses a [[SQL]] database.
 >
 > **[3:45](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=225)** I'll scroll down and locate the database.js file.
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=275)** I'll scroll to the top and close the explorer.
 >
-> **[4:38](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=278)** This test, and all the others that I'll show throughout this course are written in Mocha, which is a popular JavaScript testing framework.
+> **[4:38](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=278)** This test, and all the others that I'll show throughout this course are written in Mocha, which is a popular [[JavaScript]] testing framework.
 >
 > **[4:46](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=286)** Mocha tests are written in a behavior-driven development, or BDD way.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=327)** On line seven, the first test is defined.
 >
-> **[5:31](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=331)** The test starts with the word it and then describes what the test is doing.
+> **[5:31](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=331)** The test starts with the [[Microsoft Word|word]] it and then describes what the test is doing.
 >
 > **[5:36](https://www.linkedin.com/learning/test-automation-foundations/unit-tests-26047870?u=76281980&t=336)** In this case, it should calculate the total price.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), next (6), database (5), [[Codespaces]] (4), ai (2)
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (2), [[Node.js]] (2), [[Microsoft Copilot]] (1), [[Cloud Development]] (1)
 > **File Paths:** node.js (2), routes.js (2), database.js (2), calculatetotalprice.test.js (1), test/unit/calculatetotalprice.test.js (1)
 > **Definitions:** is a  (4), is called (3), means that (1)
 > **CLI Commands:** node (2), make (1), find (1), npx (1)
@@ -562,14 +556,13 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2), scroll down (1)
 > **Env Vars:** sql (1), bdd (1)
 
-#### Integration tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980)
+#### [Integration tests](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=0)** - [Instructor] Integration tests help to provide confidence that all parts of an application work seamlessly together.
 >
-> **[0:07](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=7)** While unit testing focuses on individual small parts, integration tests focus on the whole.
+> **[0:07](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=7)** While [[Unit Testing]] focuses on individual small parts, integration tests focus on the whole.
 >
 > **[0:14](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=14)** They can detect unexpected failures that happen where one part of the application is fixed and another is broken.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=35)** I'm going to show you an example of an integration test for the AI animal art application.
 >
-> **[0:42](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=42)** I have the repository for this course open in Codespaces.
+> **[0:42](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=42)** I have the repository for this course open in [[Codespaces]].
 >
 > **[0:48](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=48)** Next, I'll open the Explorer and navigate to the integration test class called routes.test.js under test, integration.
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=96)** The most important routes are tested and that includes add to cart, cart and checkout.
 >
-> **[1:45](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=105)** The test starts with the helper function on line 9 to execute SQL queries within the test.
+> **[1:45](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=105)** The test starts with the helper function on line 9 to execute [[SQL]] queries within the test.
 >
 > **[1:53](https://www.linkedin.com/learning/test-automation-foundations/integration-tests-26050848?u=76281980&t=113)** Line 18 describes the test suite name, integration test for routes.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), database (3), [[Unit Testing]] (1), ai (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1), [[Codespaces]] (1), [[SQL]] (1)
 > **Env Vars:** http (1), sql (1), url (1)
 > **File Paths:** routes.test.js (1), test/integration/routes.test.js (1)
 > **UI Navigation:** open the (1), navigate to (1)
@@ -643,8 +636,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### UI tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980)
+#### [UI tests](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,9 +646,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=11)** UI tests are always running inside a browser and simulate user behavior by completing workflows within an application.
 >
-> **[0:19](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=19)** UI tests are sometimes called end-to-end or functional tests because they test the entire application, from the frontend UI to the backend database systems.
+> **[0:19](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=19)** UI tests are sometimes called end-to-end or functional tests because they test the entire application, from the frontend UI to the backend [[Database Systems]].
 >
-> **[0:31](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=31)** In that sense, UI tests are also a form of integration testing, ensuring that machines and component collaborations are all working together as expected.
+> **[0:31](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=31)** In that sense, UI tests are also a form of [[Integration Testing]], ensuring that machines and component collaborations are all working together as expected.
 >
 > **[0:42](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=42)** It's important to remember that these UI tests are the hardest to set up.
 >
@@ -664,7 +656,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=53)** I want to show you an example of a UI test for the AI animal art application.
 >
-> **[1:00](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=60)** In my browser window, I have the code spaces open for the test automation foundation's repository.
+> **[1:00](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=60)** In my browser window, I have the code spaces open for the [[Test Automation]] foundation's repository.
 >
 > **[1:06](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=66)** I'll open up the explorer and focus my attention on the UI test under test/UI and select end-to-end test.
 >
@@ -672,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=86)** It confirms the application works as expected in the browser.
 >
-> **[1:30](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=90)** This test class uses Mocha along with the help of Selenium WebDriver, which is a popular option for browser automation.
+> **[1:30](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=90)** This test class uses Mocha along with the help of [[Selenium]] WebDriver, which is a popular option for browser automation.
 >
 > **[1:39](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=99)** ChromeDriver is used to run the test in the browser,, and Chai is used for assertions, which confirm the behavior.
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=148)** The test case on lines 27 to 52 adds an item to the cart and completes the checkout workflow.
 >
-> **[2:36](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=156)** In this UI test, I use the driver to find various web elements using their HTML selectors with attributes such as ID and class name.
+> **[2:36](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=156)** In this UI test, I use the driver to find various web elements using their [[HTML]] selectors with attributes such as ID and class name.
 >
 > **[2:47](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=167)** Then I can perform an action, like clicking a button.
 >
@@ -716,7 +708,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=275)** Now, I want to go to the terminal and run the test, so I'll open up the terminal, and what I first need to do is make sure the server is running.
 >
-> **[4:43](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=283)** If it's not, I can do that by using the script npm start.
+> **[4:43](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=283)** If it's not, I can do that by using the script [[npm]] start.
 >
 > **[4:48](https://www.linkedin.com/learning/test-automation-foundations/ui-tests-26050847?u=76281980&t=288)** Then, I'll open up a new terminal window, and in this window is where I want to run the UI test.
 >
@@ -742,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Selenium]] (3), [[HTML]] (2), functional (1), database (1)
+> **Frameworks & Libraries:** [[Selenium]] (3), [[HTML]] (2), [[Database Systems]] (1), [[Integration Testing]] (1), [[Test Automation]] (1)
 > **CLI Commands:** find (3), make (1), npm (1), npx (1)
 > **UI Navigation:** go to (2), navigate to (2)
 > **Tools:** terminal (3)
@@ -756,12 +748,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get the whole team involved
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980)
+#### [Get the whole team involved](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=0)** - When starting a new software delivery project, it's important to get the whole team involved in the planning, execution and maintenance of test automation.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=0)** - When starting a new software delivery project, it's important to get the whole team involved in the planning, execution and maintenance of [[Test Automation]].
 >
 > **[0:09](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=9)** And by the whole team, I really mean the whole team, including developers, testers, and business stakeholders like product managers or business analyst.
 >
@@ -813,7 +804,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=161)** When the whole team is invested in the test automation process, it will lead to the best outcome with a test suite that is robust and well-maintained.
 >
-> **[2:50](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=170)** There are many ways the whole software development team can get involved in test automation.
+> **[2:50](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=170)** There are many ways the whole [[Software Development]] team can get involved in test automation.
 >
 > **[2:55](https://www.linkedin.com/learning/test-automation-foundations/get-the-whole-team-involved-14474705?u=76281980&t=175)** For example, business stakeholders help developers and testers determine test scenarios for high priority features.
 >
@@ -831,14 +822,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (8), [[Test Automation]] (6), business (5), product (1), functional (1)
+> **Frameworks & Libraries:** [[Test Automation]] (6), [[Software Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
-#### Make a strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/make-a-strategy-14474707?u=76281980)
+#### [Make a strategy](https://www.linkedin.com/learning/test-automation-foundations/make-a-strategy-14474707?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/test-automation-foundations/make-a-strategy-14474707?u=76281980&t=81)** It's best to have this scope defined early on in the project, although needs might change later on.
 >
-> **[1:26](https://www.linkedin.com/learning/test-automation-foundations/make-a-strategy-14474707?u=76281980&t=86)** After thinking about what to automate, there are some additional resources that will be needed, such as determining how test data will be used, created, and managed, what different tooling options are out there to build and run tests, or which test environments need to be available for automated and manual testing.
+> **[1:26](https://www.linkedin.com/learning/test-automation-foundations/make-a-strategy-14474707?u=76281980&t=86)** After thinking about what to automate, there are some additional resources that will be needed, such as determining how test data will be used, created, and managed, what different tooling options are out there to build and run tests, or which test environments need to be available for automated and [[Manual Testing]].
 >
 > **[1:45](https://www.linkedin.com/learning/test-automation-foundations/make-a-strategy-14474707?u=76281980&t=105)** I recommend making a list of these resources and any others that might be needed.
 >
@@ -880,13 +870,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), business (1), feature (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **Best Practices:** general rule (1), it's best to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
 
-#### Test tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980)
+#### [Test tools](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=30)** It can be tough for a team to come to consensus about selecting an automation framework, but it's best to discuss this problem together and try to find a good solution.
 >
-> **[0:39](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=39)** One thing to understand is that there is no one right test automation solution that will solve all your team's needs.
+> **[0:39](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=39)** One thing to understand is that there is no one right [[Test Automation]] solution that will solve all your team's needs.
 >
 > **[0:47](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=47)** The goal is to find the tools that seem best suited for the job.
 >
@@ -912,7 +901,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=58)** The first is the type of test to be implemented and the second is the language that the test will be written in.
 >
-> **[1:05](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=65)** An example of this could be a JavaScript unit testing framework.
+> **[1:05](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=65)** An example of this could be a [[JavaScript]] [[Unit Testing]] framework.
 >
 > **[1:09](https://www.linkedin.com/learning/test-automation-foundations/test-tools?u=76281980&t=69)** I also recommend trying to find tools that promote cross-functional collaboration among testers, developers and business team members.
 >
@@ -934,14 +923,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), express (1), [[Automation]] (1), [[Test Automation]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[JavaScript]] (1), [[Unit Testing]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** select the (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - once (1)
 
-#### Development processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/development-processes?u=76281980)
+#### [Development processes](https://www.linkedin.com/learning/test-automation-foundations/development-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,7 +951,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/test-automation-foundations/development-processes?u=76281980&t=49)** It also makes sense to think about when to run automation.
 >
-> **[0:53](https://www.linkedin.com/learning/test-automation-foundations/development-processes?u=76281980&t=53)** Determine how tests will be executed both locally and with continuous integration.
+> **[0:53](https://www.linkedin.com/learning/test-automation-foundations/development-processes?u=76281980&t=53)** Determine how tests will be executed both locally and with [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:58](https://www.linkedin.com/learning/test-automation-foundations/development-processes?u=76281980&t=58)** Ideally before making code changes, engineers on the team should run tests locally and ensure that everything is passing.
 >
@@ -979,18 +967,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), feature (1), application (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2)
 > **Best Practices:** it's best to (1), best practice (1)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - various (1)
 
-#### Follow test design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980)
+#### [Follow test design patterns](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=0)** - The software development community has continued to evolve design principles and patterns.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=0)** - The [[Software Development]] community has continued to evolve design principles and patterns.
 >
 > **[0:06](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=6)** These principles and patterns help to reduce the cost of writing and maintaining automated test scripts.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=104)** By abstracting out the lower-level technical steps this way, the test will be more human readable.
 >
-> **[1:50](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=110)** This list of design patterns and practices is not exhaustive, but these are the top patterns I like to follow.
+> **[1:50](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=110)** This list of [[Design Patterns]] and practices is not exhaustive, but these are the top patterns I like to follow.
 >
 > **[1:57](https://www.linkedin.com/learning/test-automation-foundations/follow-test-design-patterns-14471760?u=76281980&t=117)** This list can provide a good start to see what works best for your team and the product.
 >
@@ -1038,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Automation]] (2), [[Design Patterns]] (2), [[Software Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Software Development]] (1)
 > **Env Vars:** dry (3), dsl (2), readme (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1050,14 +1037,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980)
+#### [Framework](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=0)** - [Instructor] In this chapter, I'll discuss test tools that work together to make a complete test automation project.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=0)** - [Instructor] In this chapter, I'll discuss test tools that work together to make a complete [[Test Automation]] project.
 >
-> **[0:06](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=6)** I'll use an example of a JavaScript application that I want to select test tools for.
+> **[0:06](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=6)** I'll use an example of a [[JavaScript]] application that I want to select test tools for.
 >
 > **[0:12](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=12)** There are a variety of tools to use for automation testing.
 >
@@ -1073,7 +1059,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=43)** Mocha is great for writing and structuring tests.
 >
-> **[0:46](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=46)** This framework helps to write tests for Node.js applications.
+> **[0:46](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=46)** This framework helps to write tests for [[Node.js]] applications.
 >
 > **[0:51](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=51)** It offers browser support, asynchronous testing, a built-in test runner and the use of any assertion library.
 >
@@ -1087,7 +1073,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=76)** And it has its own customizable test runner.
 >
-> **[1:20](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=80)** Jest is a popular framework used and created by Facebook to test all React code.
+> **[1:20](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=80)** Jest is a popular framework used and created by Facebook to test all [[React.js|React]] code.
 >
 > **[1:27](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=87)** Jest is already included when creating a new React project, which allows for a zero configuration experience and makes it quick and easy to get started writing tests.
 >
@@ -1095,7 +1081,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=106)** There are also some popular frameworks that provide a browser or browser-like environment for testing to be done through the UI.
 >
-> **[1:54](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=114)** Selenium is the classic option for UI testing, and it can be used with any flavor of JavaScript and most popular frameworks including Mocha, Jasmine and Jest.
+> **[1:54](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=114)** [[Selenium]] is the classic option for UI testing, and it can be used with any flavor of JavaScript and most popular frameworks including Mocha, Jasmine and Jest.
 >
 > **[2:06](https://www.linkedin.com/learning/test-automation-foundations/framework-14471757?u=76281980&t=126)** Cucumber is a behavior driven development or BDD UI testing framework.
 >
@@ -1123,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), application (2), [[React.js|React]] (2), [[Selenium]] (2), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[React.js|React]] (2), [[Selenium]] (2), [[Test Automation]] (1), [[Node.js]] (1)
 > **Env Vars:** bdd (2), dom (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), node (1)
@@ -1131,8 +1117,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assertion library
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980)
+#### [Assertion library](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1144,7 +1129,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=13)** There are various assertion libraries that can be used in an automation project.
 >
-> **[0:18](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=18)** Popular assertion libraries are Assert, which is built into Node.js itself.
+> **[0:18](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=18)** Popular assertion libraries are Assert, which is built into [[Node.js]] itself.
 >
 > **[0:24](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=24)** Jasmine and Jest, which are built into the framework.
 >
@@ -1176,7 +1161,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=113)** Jasmine offers a wide range of matcher functions to use in assertions, and allows custom matcher functions to be built as well.
 >
-> **[2:02](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=122)** With Jest, the annotation is completely identical to Jasmine, but it's just specific to React test to code only.
+> **[2:02](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=122)** With Jest, the annotation is completely identical to Jasmine, but it's just specific to [[React.js|React]] test to code only.
 >
 > **[2:10](https://www.linkedin.com/learning/test-automation-foundations/assertion-library-14473705?u=76281980&t=130)** It also offers a wide range of matchers.
 >
@@ -1200,14 +1185,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[Automation]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **File Paths:** node.js (2)
 > **Env Vars:** bdd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test results
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980)
+#### [Test results](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,13 +1233,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=132)** One way that I recommend writing tests is to use the help of our Node package manager.
 >
-> **[2:18](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=138)** To demonstrate that, I'll go to the project and look for the package.JSON file.
+> **[2:18](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=138)** To demonstrate that, I'll go to the project and look for the package.[[JSON]] file.
 >
 > **[2:28](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=148)** And in this file there is a script section where there are different scripts to perform different actions, mainly a lot of testing type scripts are defined here.
 >
 > **[2:40](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=160)** So let me focus my attention on line 7 where there is a unit test script which runs that command I just ran in the terminal to run all of the unit test in the unit directory.
 >
-> **[2:54](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=174)** So going back to my terminal, I can type npm run unit-test
+> **[2:54](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=174)** So going back to my terminal, I can type [[npm]] run unit-test
 >
 > **[3:03](https://www.linkedin.com/learning/test-automation-foundations/test-results-26049903?u=76281980&t=183)** to go ahead and execute that script that's defined on line 7.
 >
@@ -1279,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), next (1), node (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[npm]] (1)
 > **CLI Commands:** npx (4), make (2), node (1), npm (1)
 > **Tools:** terminal (6), command line (1)
 > **File Paths:** package.json (2), calculatetotalprice.test.js (1), test/unit/calculatetotalprice.test.js (1)
@@ -1293,8 +1277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scenarios to automate
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980)
+#### [Scenarios to automate](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,9 +1289,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980&t=19)** The goal in this stage should be to think of as many scenarios as possible.
 >
-> **[0:24](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980&t=24)** I'll spend the rest of this video listing some possibilities for test scenarios.
+> **[0:24](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980&t=24)** I'll spend the [[Representational State Transfer (REST)|rest]] of this video listing some possibilities for test scenarios.
 >
-> **[0:30](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980&t=30)** From the homepage of the AI Animal Art application, I can view products for sale.
+> **[0:30](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980&t=30)** From the homepage of the AI Animal Art application, I can view [[Microsoft Products|products]] for sale.
 >
 > **[0:37](https://www.linkedin.com/learning/test-automation-foundations/scenarios-to-automate-26050845?u=76281980&t=37)** After viewing items available for purchase, I can choose the one I want and select add to cart.
 >
@@ -1332,12 +1315,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Representational State Transfer (REST)|Rest]] (1), ai (1), application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** cat (1)
 > **Speakers:** - [narrator] (1)
 
-#### Give each scenario a value
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980)
+#### [Give each scenario a value](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1345,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=5)** Assign a score of one to five, based on how valuable each scenario is.
 >
-> **[0:10](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=10)** The scores for value will be determined based on the importance of the feature, the probability this feature would be fixed if broken, and the distinctness of the scenario.
+> **[0:10](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=10)** The scores for value will be determined based on the importance of the feature, the [[Probability]] this feature would be fixed if broken, and the distinctness of the scenario.
 >
 > **[0:21](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=21)** Work with your team and use your best judgment along the way.
 >
@@ -1353,7 +1335,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=31)** I'll evaluate a couple of my test scenarios now.
 >
-> **[0:35](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=35)** The first scenario is View Products for Sale.
+> **[0:35](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=35)** The first scenario is View [[Microsoft Products|Products]] for Sale.
 >
 > **[0:38](https://www.linkedin.com/learning/test-automation-foundations/give-each-scenario-a-value-14472690?u=76281980&t=38)** This is a required feature of high importance.
 >
@@ -1399,12 +1381,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (8), [[Probability]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - after (1)
 
-#### Risk of automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980)
+#### [Risk of automation](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1416,11 +1397,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=12)** If it's broken, what will the impact be to customers?
 >
-> **[0:15](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=15)** And two, the probability of use.
+> **[0:15](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=15)** And two, the [[Probability]] of use.
 >
 > **[0:18](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=18)** How often will this feature be used by customers?
 >
-> **[0:22](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=22)** The first scenario I'll evaluate for risk is viewing products for sale.
+> **[0:22](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=22)** The first scenario I'll evaluate for risk is viewing [[Microsoft Products|products]] for sale.
 >
 > **[0:27](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=27)** This is a high impact feature and has high probability of use.
 >
@@ -1440,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=54)** This is the highest impact feature and certainly has a high probability of use, so this one also gets a score of five.
 >
-> **[1:02](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=62)** I'll repeat the same process for the rest of the scenarios.
+> **[1:02](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=62)** I'll repeat the same process for the [[Representational State Transfer (REST)|rest]] of the scenarios.
 >
 > **[1:05](https://www.linkedin.com/learning/test-automation-foundations/risk-of-automation?u=76281980&t=65)** Here you can see the final risk scores.
 >
@@ -1448,12 +1429,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[Probability]] (4), [[Microsoft Products|Products]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### The cost of automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/the-cost-of-automation?u=76281980)
+#### [The cost of automation](https://www.linkedin.com/learning/test-automation-foundations/the-cost-of-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/test-automation-foundations/the-cost-of-automation?u=76281980&t=15)** The score of cost will be determined by how easy it will be to write the test script and how quickly the test will be scripted.
 >
-> **[0:23](https://www.linkedin.com/learning/test-automation-foundations/the-cost-of-automation?u=76281980&t=23)** First step is view products for sale.
+> **[0:23](https://www.linkedin.com/learning/test-automation-foundations/the-cost-of-automation?u=76281980&t=23)** First step is view [[Microsoft Products|products]] for sale.
 >
 > **[0:25](https://www.linkedin.com/learning/test-automation-foundations/the-cost-of-automation?u=76281980&t=25)** This is an easy and quick test script to write.
 >
@@ -1497,13 +1477,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Automation]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - risk (1)
 
-#### Select what to automate
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/select-what-to-automate-14468801?u=76281980)
+#### [Select what to automate](https://www.linkedin.com/learning/test-automation-foundations/select-what-to-automate-14468801?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,7 +1516,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Automation]] (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - after (1)
@@ -1547,12 +1525,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintain standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980)
+#### [Maintain standards](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980&t=0)** - [Instructor] Test automation is an ongoing process.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980&t=0)** - [Instructor] [[Test Automation]] is an ongoing process.
 >
 > **[0:03](https://www.linkedin.com/learning/test-automation-foundations/maintain-standards-14470766?u=76281980&t=3)** This process works out best when it starts with a strong foundation and continues to build steadily over time.
 >
@@ -1598,22 +1575,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Test Automation]] (1), next (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a maintenance plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980)
+#### [Make a maintenance plan](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980&t=0)** - Test automation is an ongoing process and maintenance will be a huge portion of that process.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980&t=0)** - [[Test Automation]] is an ongoing process and maintenance will be a huge portion of that process.
 >
 > **[0:08](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980&t=8)** The three main parts of maintenance include adding new tests, updating old tests and fixing failures.
 >
-> **[0:16](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980&t=16)** New features in a software development project will require that new tests be added.
+> **[0:16](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980&t=16)** New features in a [[Software Development]] project will require that new tests be added.
 >
 > **[0:22](https://www.linkedin.com/learning/test-automation-foundations/make-a-maintenance-plan-14472689?u=76281980&t=22)** For the individuals working on the new functionality, discuss how it will be tested and what types of tests will be created.
 >
@@ -1649,21 +1625,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test Automation]] (1), [[Software Development]] (1), data (1), feature (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - test (1)
 
-#### Use continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980)
+#### [Use continuous integration](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=0)** - [Instructor] The magic of automated test is that they can be run over and over again and provide the same result.
 >
-> **[0:07](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=7)** Continuous integration is the best way to allow automated tests to be run repeatedly across different platforms and environments.
+> **[0:07](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=7)** [[Continuous Integration (CI)|Continuous integration]] is the best way to allow automated tests to be run repeatedly across different platforms and environments.
 >
-> **[0:15](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=15)** And with continuous integration, test can be triggered as a result of any new changes pushed to GitHub.
+> **[0:15](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=15)** And with continuous integration, test can be triggered as a result of any new changes pushed to [[GitHub]].
 >
 > **[0:22](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=22)** Or tests can also be run on a reoccurring basis, such as every hour or every night at 9:00 PM.
 >
@@ -1673,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=42)** I won't get into the different options here, but I will recommend selecting a solution based on cost, ease of use, maintenance, and support.
 >
-> **[0:52](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=52)** For the rest of this video, I'll demonstrate setting up my test application to work with continuous integration.
+> **[0:52](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=52)** For the [[Representational State Transfer (REST)|rest]] of this video, I'll demonstrate setting up my test application to work with continuous integration.
 >
 > **[1:01](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=61)** I'll use GitHub's continuous integration solution with GitHub actions.
 >
@@ -1681,13 +1656,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=72)** Using their continuous integration workflows you can build test and deploy code right from GitHub, plus it's free for public repositories.
 >
-> **[1:24](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=84)** Focusing my attention back on the repository for test automation foundations, I'll select actions from the header and here I can create new workflows to run in my project.
+> **[1:24](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=84)** Focusing my attention back on the repository for [[Test Automation]] foundations, I'll select actions from the header and here I can create new workflows to run in my project.
 >
 > **[1:38](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=98)** So I'll select the new workflow button, which allows me to choose a workflow.
 >
 > **[1:44](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=104)** I'll start searching for node and press Enter.
 >
-> **[1:48](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=108)** And I want to configure the action called node.js.
+> **[1:48](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=108)** And I want to configure the action called [[Node.js]].
 >
 > **[1:52](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=112)** So I'll press the configure button, which is going to open a new workflow YAML for me at GitHub/workflows.
 >
@@ -1699,7 +1674,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=141)** I see that it will run on pushes to the main branch and pull request to the main branch.
 >
-> **[2:29](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=149)** It's going to build on the latest version of Ubuntu and there is a matrix for node version.
+> **[2:29](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=149)** It's going to build on the latest version of [[Ubuntu]] and there is a matrix for node version.
 >
 > **[2:36](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=156)** So this is the first thing that I'll change here on line 19.
 >
@@ -1707,7 +1682,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=168)** Let's step down and focus on the steps, starting with checking out the project using node.js, specifying the version running MPMCI, which is essentially going to run a build and install the packages.
 >
-> **[3:05](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=185)** And then line 30 and 31, we will run another build and NPM test.
+> **[3:05](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=185)** And then line 30 and 31, we will run another build and [[npm]] test.
 >
 > **[3:10](https://www.linkedin.com/learning/test-automation-foundations/use-continuous-integration-26046913?u=76281980&t=190)** So here is where I'm going to change things up a little bit more.
 >
@@ -1763,7 +1738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Continuous Integration (CI)|Continuous integration]] (6), [[npm]] (5), [[Node.js]] (4), node (3)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Continuous Integration (CI)|Continuous integration]] (6), [[npm]] (5), [[Node.js]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (7), npm (5)
 > **Tools:** github (7)
 > **UI Navigation:** select the (2), go to (2), scroll up (1), click on (1)
@@ -1772,8 +1747,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), install (2)
 > **Definitions:** is a  (2), is called (1)
 
-#### Measure code coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980)
+#### [Measure code coverage](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1793,13 +1767,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=39)** To use a coverage tool, a package needs to be installed to the project, then that tool can be used when the tests are run and a coverage report will be generated.
 >
-> **[0:50](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=50)** As an example, I'll use the test coverage tool called Istanbul, which is widely used for JavaScript projects.
+> **[0:50](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=50)** As an example, I'll use the test coverage tool called Istanbul, which is widely used for [[JavaScript]] projects.
 >
 > **[0:59](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=59)** Visit istanbul.[js.org](https://js.org) to get started.
 >
 > **[1:05](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=65)** A really simple way to use Istanbul is through the command-line client called NYC, which has instructions to set up shown here.
 >
-> **[1:15](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=75)** I'll go over to the terminal now and install the command-line tool called NYC by typing this command "npm install --save-dev nyc."
+> **[1:15](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=75)** I'll go over to the terminal now and install the command-line tool called NYC by typing this command "[[npm]] install --save-dev nyc."
 >
 > **[1:28](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=88)** Once I'm back in the code spaces for "test-automation-foundations," I'll open up the terminal and I can type "npm install --save-dev nyc," and press Enter
 >
@@ -1807,7 +1781,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=115)** It looks like the NYC command-line client installed successfully, so now I can call the NYC test command when running tests to generate coverage.
 >
-> **[2:05](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=125)** I'll now focus my attention on the "package.json" file.
+> **[2:05](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=125)** I'll now focus my attention on the "package.[[JSON]]" file.
 >
 > **[2:11](https://www.linkedin.com/learning/test-automation-foundations/measure-code-coverage-26050846?u=76281980&t=131)** If I scroll down to the bottom of this file, I'll notice that on line 31 NYC is installed, and then, going back up towards the top, I'll focus on line 11, which has the test coverage script.
 >
@@ -1835,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), data (2), application (1), open-source (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[JavaScript]] (1), [[JSON]] (1)
 > **CLI Commands:** npm (4), make (2)
 > **Env Vars:** nyc (6)
 > **Prerequisites:** install (4), set up (2)
@@ -1844,14 +1818,13 @@ created: 2026-05-02
 > **URLs:** [js.org](https://js.org) (1)
 > **Cross-References:** in the last (1)
 
-#### Share automation success
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980)
+#### [Share automation success](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=0)** - [Instructor] Share stories about automation with the rest of the organization or company.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=0)** - [Instructor] Share stories about automation with the [[Representational State Transfer (REST)|rest]] of the organization or company.
 >
-> **[0:05](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=5)** Chances are not everyone will be familiar with test automation.
+> **[0:05](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=5)** Chances are not everyone will be familiar with [[Test Automation]].
 >
 > **[0:09](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=9)** In that case, it's beneficial to discuss what problem automation intends to solve.
 >
@@ -1871,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=48)** A good sign of this is having higher productivity and being able to spend less time on each release because more of the checks are automated.
 >
-> **[0:56](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=56)** In terms of team collaboration, it's good to share how automation helped cross-functional team members work more closely together to pair on activities like identifying high value scenarios and writing test code.
+> **[0:56](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=56)** In terms of [[Team Collaboration]], it's good to share how automation helped cross-functional team members work more closely together to pair on activities like identifying high value scenarios and writing test code.
 >
 > **[1:09](https://www.linkedin.com/learning/test-automation-foundations/share-automation-success-14471759?u=76281980&t=69)** Being able to share compelling stories of automation backed by data is invaluable.
 >
@@ -1879,7 +1852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (11), [[Representational State Transfer (REST)|Rest]] (2), [[Test Automation]] (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Test Automation]] (2), [[Team Collaboration]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1888,12 +1861,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advance your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980)
+#### [Advance your skills](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=0)** - Thank you so much for watching my course on the Foundations of Test Automation.
+> **[0:00](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=0)** - Thank you so much for watching my course on the Foundations of [[Test Automation]].
 >
 > **[0:04](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=4)** Remember that test automation is extremely valuable to the success of a software project, but requires proper planning, execution, and maintenance.
 >
@@ -1903,13 +1875,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=26)** If you'd like to get in touch, I'd enjoy hearing from you or answering any questions you might have.
 >
-> **[0:31](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=31)** You can reach me on LinkedIn, Twitter, or on my website.
+> **[0:31](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=31)** You can reach me on [[LinkedIn]], Twitter, or on my website.
 >
 > **[0:35](https://www.linkedin.com/learning/test-automation-foundations/advance-your-skills?u=76281980&t=35)** Looking forward to hearing from you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test Automation]] (3), [[Automation]] (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (3), [[LinkedIn]] (1)
 > **Speakers:** - thank (1)
 
 

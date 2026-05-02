@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI Text Summarization with Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980)
+#### [AI Text Summarization with Hugging Face](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=0)** Hi, and welcome to this course on AI Tech Summarization with Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=0)** Hi, and welcome to this course on AI Tech Summarization with [[Hugging Face]].
 >
-> **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=5)** Now, before we go into actually using deep learning models to generate text summaries, let's get a quick overview of what text summarization is all about.
+> **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=5)** Now, before we go into actually using [[Deep Learning]] models to generate text summaries, let's get a quick overview of what text summarization is all about.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=14)** All of us consume a large amount of information in the text format every day.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=33)** So a way that will allow us to quickly summarize and digest the information available in text form, well, you can see that that's obviously useful.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=42)** And this is where automatic text summarization comes in.
+> **[0:42](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=42)** And this is where [[Automatic Text Summarization]] comes in.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=45)** Automatic text summarization refers to producing a concise and fluent summary of text while preserving key information, content, and overall meaning of the original text.
 >
@@ -141,11 +140,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=120)** But, well, if you think about getting a computer to do this in an automated fashion, that machine needs language capability and context in order to be able to generate effective summaries.
 >
-> **[2:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=132)** As you might imagine, summarization involves natural language processing and natural language understanding.
+> **[2:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=132)** As you might imagine, summarization involves [[Natural Language Processing (NLP)|natural language processing]] and natural language understanding.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=139)** This is clearly a very hard task, but with all of the recent developments, there is reason for us to be optimistic.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=146)** Recent breakthroughs in large language models such as ChatGPT have made huge strides, allowing deep learning models to produce effective summaries.
+> **[2:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=146)** Recent breakthroughs in [[Large Language Models (LLM)|large language models]] such as [[ChatGPT]] have made huge strides, allowing deep learning models to produce effective summaries.
 >
 > **[2:36](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=156)** Summarization can be categorized in a variety of different ways, and this visual captures the most important points.
 >
@@ -169,7 +168,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=247)** The summarizer does not generate novel content, but only chooses important sentences from the input.
 >
-> **[4:13](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=253)** Abstractive summaries are where the model forms its own phrases and sentences to offer a more coherent summary, more humanlike.
+> **[4:13](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=253)** Abstractive summaries are where the model [[Forms]] its own phrases and sentences to offer a more coherent summary, more humanlike.
 >
 > **[4:22](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=262)** As you might imagine, abstractive summarization is more difficult than extractive summarization.
 >
@@ -179,7 +178,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=280)** We'll also understand and work with abstractive summarizers.
 >
-> **[4:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=283)** These are Transformer models available on Hugging Face.
+> **[4:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=283)** These are [[Transformer Models]] available on Hugging Face.
 >
 > **[4:47](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=287)** So what exactly is Hugging Face?
 >
@@ -191,7 +190,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=318)** You should know that the term Hugging Face usually refers to the community, but it's also a company.
 >
-> **[5:24](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=324)** Hugging Face is best known for developing and maintaining the Hugging Face Transformers library, which is an open-source NLP library built on top of PyTorch and TensorFlow.
+> **[5:24](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=324)** Hugging Face is best known for developing and maintaining the Hugging Face Transformers library, which is an open-source NLP library built on top of [[PyTorch]] and [[TensorFlow]].
 >
 > **[5:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980&t=335)** The Transformers library provides a wide range of pre-trained models, including state-of-the-art models like Bard, GPT-2, GPT-3, and many others.
 >
@@ -201,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (10), nlp (4), [[Deep Learning]] (2), [[Automatic Text Summarization]] (2), open-source (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (10), [[Deep Learning]] (2), [[Automatic Text Summarization]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1)
 > **Env Vars:** nlp (4), gpt (2), api (2)
 > **Analogies:** imagine (3), such as (1), for example (1)
 > **Definitions:** refers to (2), is a  (1), is an  (1)
@@ -212,37 +211,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=0)** This course is definitely not a beginner course in artificial intelligence and machine learning, so there are some prerequisites you need to have to make the most of your learning.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=0)** This course is definitely not a beginner course in [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning, so there are some prerequisites you need to have to make the most of your learning.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=9)** First is, I expect that you have some knowledge of the fundamentals of machine learning and artificial intelligence.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=15)** I assume that you understand how machine learning works, you understand the concept of transfer learning, where you use pre-trained models and fine-tune them on your dataset.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=25)** Another assumption that this course makes is that you have some exposure to natural language processing or NLP techniques.
+> **[0:25](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=25)** Another assumption that this course makes is that you have some exposure to [[Natural Language Processing (NLP)|natural language processing]] or NLP techniques.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=33)** You understand the fundamental idea that words are tokenized and converted to numeric form before they are fed into ML models.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=41)** And finally, we'll be writing a bunch of Python code in this course.
+> **[0:41](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=41)** And finally, we'll be writing a bunch of [[Python (Programming Language)|Python]] code in this course.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=46)** So I expect that you are comfortable programming in Python and using Python libraries.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=51)** We'll be programmatically working with the Transformers library in Hugging Face using Python and we'll be fine-tuning our models using the PyTorch framework.
+> **[0:51](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=51)** We'll be programmatically working with the Transformers library in [[Hugging Face]] using Python and we'll be fine-tuning our models using the [[PyTorch]] framework.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980&t=61)** You don't need to have an understanding of how PyTorch works, just Python is sufficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[PyTorch]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[PyTorch]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Env Vars:** nlp (1)
 
-#### Extractive text summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization?u=76281980)
+#### [Extractive text summarization](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,14 +285,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** imagine (1)
 
-#### Intermediate representations for extractive summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980)
+#### [Intermediate representations for extractive summarization](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=108)** Another way to identify important topics in the input content is to use frequency-based techniques.
 >
-> **[1:54](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=114)** Now there are, of course, different variations of this, but the basic idea is that you assign weights to words in text based on topic representations, and you can use word probability scores as a measure of word importance.
+> **[1:54](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=114)** Now there are, of course, different variations of this, but the basic idea is that you assign weights to words in text based on topic representations, and you can use [[Microsoft Word|word]] [[Probability]] scores as a measure of word importance.
 >
 > **[2:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=128)** Essentially, you'll compute how many times a particular word occurs in the input text?
 >
@@ -393,7 +388,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=344)** Let's discuss graph methods first.
 >
-> **[5:47](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=347)** These techniques represent documents as a connected graph, and these are heavily influenced by the PageRank algorithm, which Google search uses.
+> **[5:47](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=347)** These techniques represent documents as a connected graph, and these are heavily influenced by the PageRank algorithm, which [[Google]] search uses.
 >
 > **[5:56](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/intermediate-representations-for-extractive-summarization?u=76281980&t=356)** Unlike in PageRank, which uses links to determine the importance of a particular article, two sentences in your input text are set to be connected if the similarity between them is greater than a certain threshold.
 >
@@ -411,14 +406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Probability]] (4), [[Google]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Probability]] (4), [[Google]] (1)
 > **Definitions:** is a  (2), stands for (2), is an  (2), means that (1), known as (1)
 > **Analogies:** picture (1), imagine (1), similar to (1)
 > **Env Vars:** idf (2)
 > **CLI Commands:** find (1)
 
-#### Evaluation metrics for summaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluation-metrics-for-summaries?u=76281980)
+#### [Evaluation metrics for summaries](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluation-metrics-for-summaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +468,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (4)
 > **Env Vars:** rouge (18), lcs (2)
 > **Definitions:** is a  (3), stands for (2), is called (1), means that (1)
 > **Cross-References:** we discussed (1)
@@ -484,18 +477,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980)
+#### [Exploring Hugging Face](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=0)** In this course, we'll be performing text summarization using Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=0)** In this course, we'll be performing text summarization using [[Hugging Face]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=5)** So before we do anything, we need to be introduced to the Hugging Face community and platform and see what it has to offer us.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=12)** Head over to [huggingface.co](https://huggingface.co), and here you can see what the Hugging Face community has to offer.
+> **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=12)** Head over to [[[Hugging Face|huggingface]].co](https://huggingface.co), and here you can see what the Hugging Face community has to offer.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=19)** Hugging Face refers to a company and an open-source community that focuses on natural language processing and artificial intelligence.
+> **[0:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=19)** Hugging Face refers to a company and an open-source community that focuses on [[Natural Language Processing (NLP)|natural language processing]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=27)** This platform offers a range of tools and services related to NLP and machine learning.
 >
@@ -505,13 +497,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=49)** And you can see that there are models for all kinds of tasks.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=52)** There are models for computer vision tasks.
+> **[0:52](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=52)** There are models for [[Computer Vision]] tasks.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=54)** These include image classification, image segmentation, object detection, and many others.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=61)** If you scroll down, you'll find the models that are available on Hugging Face for natural language processing tasks, for question answering, sentence similarity, text classification, text generation, as well as summarization. Summarization is the task that we are interested in at this point in time.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=79)** The Hugging Face community also offers models for audio-related tasks, tabular classification, tabular regression tasks, multimodal tasks, and even reinforcement learning.
+> **[1:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=79)** The Hugging Face community also offers models for audio-related tasks, tabular classification, tabular regression tasks, multimodal tasks, and even [[Reinforcement Learning]].
 >
 > **[1:30](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=90)** Anything that you're looking for in the field of artificial intelligence as pre-trained models should be available on Hugging Face.
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=136)** If you click through to the summarization category, you'll be able to drill down into all of the models available here on Hugging Face for summarization.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=145)** Most of these are transformer models, but there are other simpler models performing extractive summarization as well.
+> **[2:25](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=145)** Most of these are [[Transformer Models]], but there are other simpler models performing extractive summarization as well.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=152)** Let's click through to the very first one.
 >
@@ -559,13 +551,13 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=262)** And the great thing about the Hugging Face community is that most of this is available to you absolutely free.
 >
-> **[4:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=268)** If you look at pricing, you can see that there are paid plans for Hugging Face, but the HF Hub, which is what we'll be using, is an absolutely free plan. For prototyping and playing around with ML models, HF Hub is more than sufficient.
+> **[4:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=268)** If you look at pricing, you can see that there are paid plans for Hugging Face, but the HF Hub, which is what we'll be using, is an absolutely free plan. For [[Prototyping]] and playing around with ML models, HF Hub is more than sufficient.
 >
 > **[4:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980&t=283)** That's what we'll be using.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (19), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Hugging Face|Huggingface]] (1), open-source (1), nlp (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (19), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Hugging Face|Huggingface]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** refers to (1), is a  (1), known as (1), is an  (1)
 > **Env Vars:** nlp (1), bart (1)
@@ -573,12 +565,11 @@ created: 2026-05-02
 > **Code Identifiers:** cnn_dailymail (1)
 > **URLs:** [huggingface.co](https://huggingface.co) (1)
 
-#### Signing up for Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/signing-up-for-hugging-face?u=76281980)
+#### [Signing up for Hugging Face](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/signing-up-for-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/signing-up-for-hugging-face?u=76281980&t=1)** Before we can use Hugging Face for text summarization, we'll need to create an account.
+> **[0:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/signing-up-for-hugging-face?u=76281980&t=1)** Before we can use [[Hugging Face]] for text summarization, we'll need to create an account.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/signing-up-for-hugging-face?u=76281980&t=5)** So let's go ahead and sign up for a Hugging Face account using the Sign Up button.
 >
@@ -604,17 +595,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (5), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (5)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 
-#### The sumy library for extractive summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980)
+#### [The sumy library for extractive summarization](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=0)** In this demo, we'll see how you can perform extractive text summarization using Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=0)** In this demo, we'll see how you can perform extractive text summarization using [[Hugging Face]].
 >
 > **[0:06](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=6)** Now, extractive text summarization is a technique where we generate a summary of a longer text by selecting and extracting the most important sentences or phrases directly from the original text.
 >
@@ -622,11 +612,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=28)** We've discussed that extractive text summarization can be performed using a variety of different techniques.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=35)** Now, it turns out you can try to implement those techniques yourself, but they've already been implemented by someone out there who's interested in text summarization and has made those summarizers available to us here on GitHub.
+> **[0:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=35)** Now, it turns out you can try to implement those techniques yourself, but they've already been implemented by someone out there who's interested in text summarization and has made those summarizers available to us here on [[GitHub]].
 >
-> **[0:48](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=48)** This is the GitHub repo for the Sumy module which allows automatic summarization of text content and HTML pages.
+> **[0:48](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=48)** This is the GitHub repo for the Sumy module which allows automatic summarization of text content and [[HTML]] pages.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=57)** Sumy is primarily available as a Python module.
+> **[0:57](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=57)** Sumy is primarily available as a [[Python (Programming Language)|Python]] module.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=61)** You should note that the author created Sumy as a part of his diploma thesis because he wanted to reduce the length of articles he was reading in the Czechoslovak language.
 >
@@ -640,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=97)** Now if you scroll a little further down under usage, you can see that Sumy is available on Hugging Face.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=103)** You see the URL there, [https://huggingface.co/spaces/issam9/sumy_space](https://huggingface.co/spaces/issam9/sumy_space).
+> **[1:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=103)** You see the URL there, [https://[[Hugging Face|huggingface]].co/spaces/issam9/sumy_space](https://huggingface.co/spaces/issam9/sumy_space).
 >
 > **[1:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/the-sumy-library-for-extractive-summarization?u=76281980&t=110)** This makes the Sumy library available on Hugging Face as a very simple app that we can just use.
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (7), [[GitHub]] (2), [[HTML]] (2), web (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (7), [[GitHub]] (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1), [[Hugging Face|Huggingface]] (1)
 > **Env Vars:** html (2), url (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
@@ -673,12 +663,11 @@ created: 2026-05-02
 > **URLs:** [https://huggingface.co/spaces/issam9/sumy_space](https://huggingface.co/spaces/issam9/sumy_space) (1)
 > **Documentation:** the documentation (1)
 
-#### Extractive text summarization on Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization-on-hugging-face?u=76281980)
+#### [Extractive text summarization on Hugging Face](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization-on-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization-on-hugging-face?u=76281980&t=1)** We are now ready to experiment with Sumy on Hugging Face.
+> **[0:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization-on-hugging-face?u=76281980&t=1)** We are now ready to experiment with Sumy on [[Hugging Face]].
 >
 > **[0:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/extractive-text-summarization-on-hugging-face?u=76281980&t=4)** Now, this is the text that I planned to summarize.
 >
@@ -782,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Definitions:** is a  (5), is an  (3)
 > **Env Vars:** url (3), lsa (1), rouge (1)
 > **CLI Commands:** make (1), find (1)
@@ -796,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Abstractive text summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980)
+#### [Abstractive text summarization](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=32)** Abstractive summarizers use NLP techniques.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=36)** NLP or Natural Language Processing is the field of linguistics and machine learning focused on understanding the human language, not just understanding the words in a particular piece of input, but the context and semantics.
+> **[0:36](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=36)** NLP or [[Natural Language Processing (NLP)|Natural Language Processing]] is the field of linguistics and machine learning focused on understanding the human language, not just understanding the words in a particular piece of input, but the context and semantics.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=50)** Human language is made up of a sequence of words, so language is an example of sequential data where the order of the words matter. If you say the same sentence, but kind of mix up the order of words, you are likely to get a very different meaning.
 >
@@ -823,9 +811,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=75)** "This is not a good meal... It is a great meal." And it immediately becomes a positive sentence.
 >
-> **[1:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=81)** Deep learning models that work with languages need to understand the sequential nature of language data, they need to capture the time relationships that exist in language.
+> **[1:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=81)** [[Deep Learning]] models that work with languages need to understand the sequential nature of language data, they need to capture the time relationships that exist in language.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=92)** And this requires neural network models such as recurrent neural networks or RNNs.
+> **[1:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=92)** And this requires neural network models such as recurrent [[Neural Networks]] or RNNs.
 >
 > **[1:38](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=98)** Recurrent Neural Networks are what you use to work with sequences because they understand and capture time relationships in data.
 >
@@ -833,21 +821,20 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=113)** Time relationships and language matter because this is what helps these neural network models capture the context and the meaning of words in text.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=124)** In recent times, revolutionary breakthroughs in natural language processing have been accomplished due to the use of transformer models.
+> **[2:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=124)** In recent times, revolutionary breakthroughs in natural language processing have been accomplished due to the use of [[Transformer Models]].
 >
 > **[2:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=132)** A transformer is a neural network that learns context and thus meaning by tracking relationships that exist in sequential data.
 >
-> **[2:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=141)** Many of the recent breakthroughs in natural language processing, such as ChatGPT or Google's Bard, all of these are fundamentally transformer models.
+> **[2:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980&t=141)** Many of the recent breakthroughs in natural language processing, such as [[ChatGPT]] or [[Google]]'s Bard, all of these are fundamentally transformer models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), nlp (2), [[Transformer Models]] (2), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Transformer Models]] (2), [[Deep Learning]] (1), [[Neural Networks]] (1), [[ChatGPT]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
 > **Env Vars:** nlp (2)
 
-#### Abstractive summarization using the Hosted Inference API on Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980)
+#### [Abstractive summarization using the Hosted Inference API on Hugging Face](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,15 +842,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=12)** Abstractive summarization involves generating novel sentences that convey the key points in the original text in a more humanlike and concise manner.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=23)** We've also discussed that Abstractive summaries are usually produced by large language sequence to sequence models, typically transformer models.
+> **[0:23](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=23)** We've also discussed that Abstractive summaries are usually produced by large language sequence to sequence models, typically [[Transformer Models]].
 >
-> **[0:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=32)** Hugging Face has a collection of transformer models that perform text summarization.
+> **[0:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=32)** [[Hugging Face]] has a collection of transformer models that perform text summarization.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=38)** And here, let's see how we can use the hosted inference API for these models to generate summaries.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=44)** Click on the models link here on Hugging Face and you'll be taken to a page where you'll have access to all of the available models in this community.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=52)** We are interested in summarization, select the summarization task under natural language processing.
+> **[0:52](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=52)** We are interested in summarization, select the summarization task under [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:59](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=59)** Now here are all of the models available on Hugging Face for text summarization.
 >
@@ -917,7 +904,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=212)** And let's scroll down and pick one of these.
 >
-> **[3:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=214)** How about a model from Google?
+> **[3:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=214)** How about a model from [[Google]]?
 >
 > **[3:36](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-summarization-using-the-hosted-inference-api-on-hugging-face?u=76281980&t=216)** We had one from Facebook.
 >
@@ -969,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), api (8), [[Google]] (3), [[Transformer Models]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Google]] (3), [[Transformer Models]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** api (8), rouge (6), nlp (1)
 > **UI Navigation:** click on (5), select the (1), scroll down (1)
 > **Definitions:** is a  (6), is an  (1)
@@ -983,12 +970,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sequence-to-sequence models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980)
+#### [Sequence-to-sequence models](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=0)** Deep learning models that perform natural language processing can be of many different types, but the kind of language model that we'll use for text summarization are typically sequence-to-sequence models.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=0)** [[Deep Learning]] models that perform [[Natural Language Processing (NLP)|natural language processing]] can be of many different types, but the kind of language model that we'll use for text summarization are typically sequence-to-sequence models.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=13)** Let's consider the essence of a summarization task.
 >
@@ -1020,7 +1006,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=124)** And it's this representation that the decoder uses to produce a translation.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=129)** The encoder is usually a recurrent neural network where you feed in the input words in a sequence, one word at each time instance.
+> **[2:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=129)** The encoder is usually a recurrent neural network where you feed in the input words in a sequence, one [[Microsoft Word|word]] at each time instance.
 >
 > **[2:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980&t=138)** So here, the word "I" will be fed in at the first time instance, "ate" at the second time instance, "an" at the third time instance and so on.
 >
@@ -1054,19 +1040,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Deep Learning]] (2), next (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Deep Learning]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
 > **Warnings:** heads up (1)
 
-#### Attention in sequence-to-sequence models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980)
+#### [Attention in sequence-to-sequence models](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=0)** In this movie, I'll discuss attention, an improvement made to sequence-to-sequence models, which was the first step towards the kind of models that we see today, ChatGPT, Bard, and so on.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=0)** In this movie, I'll discuss attention, an improvement made to sequence-to-sequence models, which was the first step towards the kind of models that we see today, [[ChatGPT]], Bard, and so on.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=12)** In order to understand the role of attention, let's go back to our previous model, our encoder-decoder model for language translation.
 >
@@ -1084,7 +1069,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=94)** Different hidden values produced at the input are likely related to different parts of the output, and this information is not captured in the original setup.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=105)** Let's say we are providing a translation for the word apple.
+> **[1:45](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=105)** Let's say we are providing a translation for the [[Microsoft Word|word]] apple.
 >
 > **[1:48](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=108)** It's at the end of the input sentence in English, but in the middle of the German sentence.
 >
@@ -1100,23 +1085,22 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=137)** Attention models help pay attention to relevant portions of the input at the output. While generating sequences at the output, not only is the hidden state at the very end of the encoder important, but the attention model also causes the decoder to pay attention to different parts of the input fed into the encoder.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=159)** And attention is a key component of transformer models.
+> **[2:39](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=159)** And attention is a key component of [[Transformer Models]].
 >
 > **[2:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/attention-in-sequence-to-sequence-models?u=76281980&t=163)** Transformers apply a set of mathematical techniques called attention or self-attention to detect the subtle ways in which even distant data elements, that is, words that are very far apart in a series influence and depend on each other.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (1), [[Transformer Models]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (1), [[Transformer Models]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### A brief introduction to Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980)
+#### [A brief introduction to Transformers](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=0)** Now, transformers are an advanced and complex neural network architecture used in great effect in natural language processing tasks.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=0)** Now, transformers are an advanced and complex neural network architecture used in great effect in [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=9)** Here in this movie, we'll briefly understand how transformers work.
 >
@@ -1140,7 +1124,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=104)** These models are best suited for tasks that involve text generation.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=109)** The original transformer architecture was first introduced by Google researchers in a paper called "Attention Is All You Need", and this is what the transformer architecture looked like.
+> **[1:49](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=109)** The original transformer architecture was first introduced by [[Google]] researchers in a paper called "Attention Is All You Need", and this is what the transformer architecture looked like.
 >
 > **[2:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/a-brief-introduction-to-transformers?u=76281980&t=121)** Any powerful NLP model you talk about today is likely using a transformer architecture. In the demos that follow, we'll be using a few different models for abstractive text summarization.
 >
@@ -1172,23 +1156,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** nlp (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 
-#### Transformers in Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980)
+#### [Transformers in Hugging Face](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=0)** When we discussed Hugging Face earlier, we mentioned that Hugging Face is best known for developing and maintaining the Hugging Face Transformers library, an open-source NLP library built on top of PyTorch and TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=0)** When we discussed [[Hugging Face]] earlier, we mentioned that Hugging Face is best known for developing and maintaining the Hugging Face Transformers library, an open-source NLP library built on top of [[PyTorch]] and [[TensorFlow]].
 >
 > **[0:14](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=14)** In the demos that follow, we'll be using models from this library for abstractive summarization.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=20)** The Hugging Face Transformers library makes it very easy to download and use a state-of-the-art NLP model for inference.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=28)** Hugging Face allows you to access these models using a very simple Python API that you can simply pip install on your machine.
+> **[0:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=28)** Hugging Face allows you to access these models using a very simple [[Python (Programming Language)|Python]] API that you can simply pip install on your machine.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=37)** All models on Hugging Face are generally PyTorch or TensorFlow models, so you're working with frameworks that you're likely familiar with. And you will see in just a bit how simple and straightforward it is for you to use models hosted on Hugging Face.
 >
@@ -1212,7 +1195,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=123)** You start with raw text that is tokenized and converted to input IDs which are then fed into the model.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=130)** The model will output logits. Logits kind of represent the probability scores for the class or category predicted by the model.
+> **[2:10](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=130)** The model will output logits. Logits kind of represent the [[Probability]] scores for the class or category predicted by the model.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=139)** This is then post-processed and then you get a prediction.
 >
@@ -1222,7 +1205,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=153)** It's called a text-to-text transformer model because the input and the output to these models are both strings, no matter what NLP task you performed.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=164)** And the cool thing with the T5 Model is that it can be used for a variety of different natural language processing tasks.
+> **[2:44](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=164)** And the cool thing with the T5 Model is that it can be used for a variety of different [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=170)** All NLP tasks have been reframed to a unified text-to-text format.
 >
@@ -1250,7 +1233,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=262)** The first is MLM that stands for Masked Language Modeling.
 >
-> **[4:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=266)** This is where the encoder input tokens are randomly replaced by a mask token, and this mask token has to be predicted by the encoder.
+> **[4:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=266)** This is where the encoder input [[Tokens]] are randomly replaced by a mask token, and this mask token has to be predicted by the encoder.
 >
 > **[4:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/transformers-in-hugging-face?u=76281980&t=275)** It's also been pre-trained using GSG, Gap Sentence Generation, where the whole encoder input sentences are replaced by a second mask token and fed into the decoder, and the decoder has to use this to generate the output sequence.
 >
@@ -1266,7 +1249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (11), nlp (7), cnn (4), [[PyTorch]] (2), [[TensorFlow]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (11), [[PyTorch]] (2), [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (1), [[Probability]] (1)
 > **Env Vars:** nlp (7), cnn (4), api (1), mlm (1), gsg (1)
 > **Definitions:** is a  (4), stands for (2)
 > **CLI Commands:** python (1), pip (1)
@@ -1279,12 +1262,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Colab to work with Hugging Face Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980)
+#### [Using Colab to work with Hugging Face Transformers](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=0)** In this demo, we'll see how we can write Python code in a Colab notebook to access and use a pre-trained transformer model from the Hugging Face Transformers library.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=0)** In this demo, we'll see how we can write [[Python (Programming Language)|Python]] code in a Colab notebook to access and use a pre-trained transformer model from the [[Hugging Face]] Transformers library.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=12)** We'll pick a pre-trained model that works well for text summarization, we'll fine-tune that model on a dataset that we load, that is, the CNN Daily Mail dataset and we'll generate summaries and compute the ROUGE score for that model on our data.
 >
@@ -1306,7 +1288,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=73)** You don't have to do any setup, you just run the notebook within your browser.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=79)** Colab was developed by Google to provide free access to GPUs and TPUs to anyone who needs them to build machine learning models.
+> **[1:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=79)** Colab was developed by [[Google]] to provide free access to GPUs and TPUs to anyone who needs them to build machine learning models.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980&t=87)** And we'll actually use Colab GPUs to generate summaries and to fine-tune our summarization model.
 >
@@ -1336,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (3), nlp (2), cnn (1), data (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (3), [[Google]] (1)
 > **Tools:** colab (8), jupyter (1)
 > **Env Vars:** gpu (3), rouge (2), nlp (2), cnn (1)
 > **CLI Commands:** python (3), pip (2), make (1)
@@ -1345,22 +1327,21 @@ created: 2026-05-02
 > **UI Navigation:** select the (1), go to (1)
 > **Code Identifiers:** rouge_score (1)
 
-#### Loading the CNN Daily Mail dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980)
+#### [Loading the CNN Daily Mail dataset](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=0)** We'll be using NLP models from the Transformers Library.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=4)** So import transformers and let's take a look at the transformer version that we are working with, 4.31.0 Just a heads up that we'll be using the PyTorch framework to work with the transformer pipeline on Hugging Face.
+> **[0:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=4)** So import transformers and let's take a look at the transformer version that we are working with, 4.31.0 Just a heads up that we'll be using the [[PyTorch]] framework to work with the transformer pipeline on [[Hugging Face]].
 >
-> **[0:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=19)** You can use TensorFlow as well.
+> **[0:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=19)** You can use [[TensorFlow]] as well.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=21)** The code that will be different will be the part where we fine-tune the model.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=26)** The rest of the code should more or less be the same.
+> **[0:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=26)** The [[Representational State Transfer (REST)|rest]] of the code should more or less be the same.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=28)** It's just regular Python.
+> **[0:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=28)** It's just regular [[Python (Programming Language)|Python]].
 >
 > **[0:30](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=30)** The Hugging Face community encourages you to develop your models and share them with the entire Hugging Face community. And a way to easily integrate your notebook with your Hugging Face account is to use notebook login.
 >
@@ -1372,7 +1353,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=69)** This will take you to the profile settings for your account.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=72)** And here on the left navigation pane, if you scroll down a bit, you'll find an option for access tokens.
+> **[1:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=72)** And here on the left navigation pane, if you scroll down a bit, you'll find an option for access [[Tokens]].
 >
 > **[1:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=79)** Click on this link and here you'll be able to generate a new token that will allow you to connect to your Hugging Face account from your notebook.
 >
@@ -1440,7 +1421,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=318)** The homepage variable associated with the dataset will give you a URL where you can get more information about the data that you're working with.
 >
-> **[5:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=327)** This is the homepage on [GitHub.com](https://GitHub.com) for this dataset.
+> **[5:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=327)** This is the homepage on [[[GitHub]].com](https://GitHub.com) for this dataset.
 >
 > **[5:31](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/loading-the-cnn-daily-mail-dataset?u=76281980&t=331)** Let's look at one of the samples.
 >
@@ -1456,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Hugging Face]] (10), [[Representational State Transfer (REST)|Rest]] (3), [[Tokens]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (10), [[Representational State Transfer (REST)|Rest]] (3), [[Tokens]] (3), [[Python (Programming Language)|Python]] (2), [[PyTorch]] (1)
 > **Code Identifiers:** text_summarization_write (3), text_summarization_read (1), load_dataset (1), cnn_dailymail (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Env Vars:** cnn (2), nlp (1), gpu (1), url (1)
@@ -1465,8 +1446,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Versions:** 4.31.0 (1), 3.0.0 (1)
 
-#### Cleaning text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/cleaning-text-data?u=76281980)
+#### [Cleaning text data](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/cleaning-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,7 +1462,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/cleaning-text-data?u=76281980&t=29)** On line 3, you can see that we convert the text to lowercase and then we perform a bunch of replace operations, replacing backslashes, backticks, quotes, and other characters with the empty string.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/cleaning-text-data?u=76281980&t=42)** The dataset object in Hugging Face exposes a map operation that you can use to perform operations on every record on that dataset. I call map and I parse in clean text, and the result will be a cleaned up dataset.
+> **[0:42](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/cleaning-text-data?u=76281980&t=42)** The dataset object in [[Hugging Face]] exposes a map operation that you can use to perform operations on every record on that dataset. I call map and I parse in clean text, and the result will be a cleaned up dataset.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/cleaning-text-data?u=76281980&t=56)** Note that both the train as well as the test dataset have now been cleaned.
 >
@@ -1514,18 +1494,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Code Identifiers:** clean_txt (2), cnn_news_summary_ds (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Generating summaries with Hugging Face Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-with-hugging-face-transformers?u=76281980)
+#### [Generating summaries with Hugging Face Transformers](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-with-hugging-face-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-with-hugging-face-transformers?u=76281980&t=0)** In this movie, we'll see how we can use the T5 transformer model from the Hugging Face library for text summarization using Zero-Shot Learning.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-with-hugging-face-transformers?u=76281980&t=0)** In this movie, we'll see how we can use the T5 transformer model from the [[Hugging Face]] library for text summarization using Zero-Shot Learning.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-with-hugging-face-transformers?u=76281980&t=10)** Zero-shot learning allows us to leverage state-of-the-art NLP models with absolutely no training.
 >
@@ -1605,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (6), [[Hugging Face]] (5), data (1), api (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (5)
 > **Env Vars:** nlp (6), api (1)
 > **Warnings:** warning (5)
 > **Definitions:** is a  (1), means that (1)
@@ -1613,8 +1592,7 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Analogies:** such as (1)
 
-#### Evaluating summaries using ROUGE scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980)
+#### [Evaluating summaries using ROUGE scores](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1600,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=5)** But that's a very subjective evaluation. For a more objective evaluation of whether a particular summarizer is generating good summaries, we need to evaluate its result using the rouge score.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=17)** The evaluate library from Hugging Face is a library, as its name suggests, for easily evaluating machine learning models and datasets. With a single line of code, this allows us access to dozens of evaluation metrics for different domains, whether it's NLP, computer vision, or any other.
+> **[0:17](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=17)** The evaluate library from [[Hugging Face]] is a library, as its name suggests, for easily evaluating machine learning models and datasets. With a single line of code, this allows us access to dozens of evaluation metrics for different domains, whether it's NLP, [[Computer Vision]], or any other.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=35)** Here we are interested in the rouge metrics for evaluating text summaries.
 >
@@ -1674,21 +1652,20 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=201)** Use_stemmer = True means that a Porter stemmer will be applied to the candidate and reference sentences before route scores are computed.
 >
-> **[3:31](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=211)** The Porter stemmer will strip out suffixes of words so that words such as talk and talking will be considered to be the same word.
+> **[3:31](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=211)** The Porter stemmer will strip out suffixes of words so that words such as talk and talking will be considered to be the same [[Microsoft Word|word]].
 >
 > **[3:40](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/evaluating-summaries-using-rouge-scores?u=76281980&t=220)** The rouge score for our summary compared to the reference summary is only about 0.13, so it isn't a great score.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (1), nlp (1), [[Computer Vision]] (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[Computer Vision]] (1), [[Microsoft Word|Word]] (1)
 > **Versions:** 0.83 (2), 0.87 (2), 0.63 (1), 0.869 (1), 0.57 (1)
 > **Code Identifiers:** rougel (3), rougelsum (3)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** lcs (2), nlp (1)
 > **Analogies:** such as (2)
 
-#### Summarizing text and computing aggregate ROUGE scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980)
+#### [Summarizing text and computing aggregate ROUGE scores](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1681,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=45)** 50 summaries will take about 20 to 25 minutes.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=49)** But first, we import the tqdm Python library. tqdm is short for taqadum, which essentially will show us a progress bar as we iterate over this for loop. On line 7, I run a for loop over the first 50 articles in our test dataset.
+> **[0:49](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=49)** But first, we import the tqdm [[Python (Programming Language)|Python]] library. tqdm is short for taqadum, which essentially will show us a progress bar as we iterate over this for loop. On line 7, I run a for loop over the first 50 articles in our test dataset.
 >
 > **[1:06](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=66)** For each article, we generate a candidate summary by parsing in the prefix plus the text.
 >
@@ -1714,7 +1691,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=86)** If you're running the code along with me, well, you'll have to be a little patient and wait for all of the summarization to be completed.
 >
-> **[1:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=94)** There's a little warning here that you can safely ignore. By default, the max length of our summary will be 200 tokens.
+> **[1:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=94)** There's a little warning here that you can safely ignore. By default, the max length of our summary will be 200 [[Tokens]].
 >
 > **[1:43](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-and-computing-aggregate-rouge-scores?u=76281980&t=103)** However, there is one input article that's just 171 tokens, and that's what this warning is about.
 >
@@ -1764,7 +1741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Tokens]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Python (Programming Language)|Python]] (1)
 > **Versions:** 0.32 (1), 0.139 (1), 0.24 (1)
 > **CLI Commands:** python (1), find (1)
 > **Code Identifiers:** use_aggregator (1), act_vs_pred_summaries_df (1)
@@ -1778,8 +1755,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding tokenizers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980)
+#### [Understanding tokenizers](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1791,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=21)** Fine-tuning is an approach to transfer learning where we start with the weights of the pre-trained model and then train it on the dataset that we have.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=30)** We'll see if the fine-tuned model produces better summaries than just using the pre-trained model. In order to be able to fine-tune this model, we need to understand in a little more detail the steps involved when we run a Hugging Face pipeline.
+> **[0:30](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=30)** We'll see if the fine-tuned model produces better summaries than just using the pre-trained model. In order to be able to fine-tune this model, we need to understand in a little more detail the steps involved when we run a [[Hugging Face]] pipeline.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=45)** The steps include first preparing and processing the inputs that you parse in, then running the model on those inputs to get predictions and then processing these outputs, these predictions so that they return to you in a form that you can understand.
 >
@@ -1811,11 +1787,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=114)** For example, four-time will become two sub-words, defending might become two sub-words as well.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=120)** And every sub-word has a unique ID.
+> **[2:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=120)** And every sub-[[Microsoft Word|word]] has a unique ID.
 >
 > **[2:02](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=122)** Those are the input IDs that you see.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=124)** The attention mask tells the model what tokens to pay attention to.
+> **[2:04](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=124)** The attention mask tells the model what [[Tokens]] to pay attention to.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980&t=129)** For example, if you had some text and then you add a bunch of padding after that text, well, the attention mask would tell the model to ignore the padding by having all 0s for the padded tokens.
 >
@@ -1831,14 +1807,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), [[Hugging Face]] (2), cnn (1), nlp (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Hugging Face]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** from_pretrained (1), convert_tokens_to_ids (1)
 > **Env Vars:** cnn (1), nlp (1)
 > **Analogies:** for example (2)
 
-#### Fine-tuning the T5 small model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980)
+#### [Fine-tuning the T5 small model](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1864,7 +1839,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=68)** We then tokenize these inputs by invoking the tokenizer.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=72)** We set the max length for number of tokens to be 1024. Any text which generates tokens greater than 1024 will be truncated.
+> **[1:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=72)** We set the max length for number of [[Tokens]] to be 1024. Any text which generates tokens greater than 1024 will be truncated.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=82)** That's what truncation = True does.
 >
@@ -1908,7 +1883,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=200)** We are almost ready to fine-tune our model on the CNN Daily Mail training set that we have.
 >
-> **[3:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=206)** But before that, I'm going to set up another Python function, and this one will compute rouge scores for the summaries generated by the model.
+> **[3:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=206)** But before that, I'm going to set up another [[Python (Programming Language)|Python]] function, and this one will compute rouge scores for the summaries generated by the model.
 >
 > **[3:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=215)** Compute metrics will take in eval_pred, which is essentially a tuple of the predictions and the actual labels, that is, the actual highlights from the dataset.
 >
@@ -1956,7 +1931,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=357)** We of course want that to be true.
 >
-> **[5:59](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=359)** Setting push_to_hub = True will push the model as well as the tokenizer to a repository on the Hugging Face hub.
+> **[5:59](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=359)** Setting push_to_hub = True will push the model as well as the tokenizer to a repository on the [[Hugging Face]] hub.
 >
 > **[6:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/fine-tuning-the-t5-small-model?u=76281980&t=368)** These training arguments that we've set up are used to customize the trainer that will actually perform training on the model.
 >
@@ -1976,7 +1951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Tokens]] (6), cnn (3), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
 > **Code Identifiers:** batch_decode (3), from_pretrained (1), input_ids (1), eval_pred (1), push_to_hub (1)
 > **Env Vars:** cnn (3), gpu (1)
 > **CLI Commands:** python (1), find (1)
@@ -1985,14 +1960,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Documentation:** the documentation (1)
 
-#### Pushing the model to the Hugging Face Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980)
+#### [Pushing the model to the Hugging Face Hub](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=0)** At this point, we've successfully fine-tuned our model on the CNN Daily Mail dataset that we had.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=7)** We fine-tuned our model on only a small subset of the original dataset because with a single GPU on Colab, training on a larger dataset would have been very onerous, we would not have had sufficient resources to do so. Now because we specified push_to_hub = True, as a training argument, you can see that a repository with our model and tokenizer parameters has been created here on the Hugging Face hub.
+> **[0:07](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=7)** We fine-tuned our model on only a small subset of the original dataset because with a single GPU on Colab, training on a larger dataset would have been very onerous, we would not have had sufficient resources to do so. Now because we specified push_to_hub = True, as a training argument, you can see that a repository with our model and tokenizer parameters has been created here on the [[Hugging Face]] hub.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=35)** You can see the name of the output directory that we have specified, cnn_new s_summary_model_ trained_on_reduced_data.
 >
@@ -2002,7 +1976,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=48)** And you can see in files and versions, a bunch of configuration files, as well as the serialized tokenizer and the serialized model.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=57)** You can see the PyTorch model that we trained, that is, the .bin file in the pickled format. training_args.bin holds the training arguments again in the pickled format.
+> **[0:57](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=57)** You can see the [[PyTorch]] model that we trained, that is, the .bin file in the pickled format. training_args.bin holds the training arguments again in the pickled format.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/pushing-the-model-to-the-hugging-face-hub?u=76281980&t=68)** These arguments, config file, and model have been pushed during the training process.
 >
@@ -2036,7 +2010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cnn (1), [[Hugging Face]] (1), [[PyTorch]] (1), data (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[PyTorch]] (1)
 > **Code Identifiers:** push_to_hub (2), cnn_new (1), trained_on_reduced_data (1), training_args (1), pytorch_model (1)
 > **Versions:** 0.2175 (1), 0.2183 (1), 0.219 (1)
 > **Env Vars:** cnn (1), gpu (1)
@@ -2045,8 +2019,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### Summarizing text using the fine-tuned model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980)
+#### [Summarizing text using the fine-tuned model](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2056,7 +2029,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=16)** Now let's generate a summary for this article using our fine-tuned model.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=21)** We'll use the Hugging Face pipeline object to instantiate this model, but we'll instantiate our fine-tuned model, not the original T5 Small model.
+> **[0:21](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=21)** We'll use the [[Hugging Face]] pipeline object to instantiate this model, but we'll instantiate our fine-tuned model, not the original T5 Small model.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=31)** Let's see how we do that.
 >
@@ -2078,7 +2051,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=94)** Here, I use AutoTokenizer.from_pretrained and I point to the model and tokenizer that we saved out on our repository.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=102)** Then on line 5, I pass the example text along with the prefix to the tokenizer, return tensors = "pt" will return tensors in the PyTorch format and then I access the input IDs.
+> **[1:42](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=102)** Then on line 5, I pass the example text along with the prefix to the tokenizer, return tensors = "pt" will return tensors in the [[PyTorch]] format and then I access the input IDs.
 >
 > **[1:55](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=115)** The input IDs stored in the inputs variable are the form in which the model accepts data.
 >
@@ -2086,13 +2059,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=125)** Next, we use AutoModelForSeq2SeqLM.from_pretrained to load our model in. Again, specify the path to the repository where the model was saved, cloud-user/cnn_news_summary_model_trained_ on_reduced_data.
 >
-> **[2:23](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=143)** We then get predictions from the model by calling model.generate and parse in the input tokens, that is, in the inputs variable. Model.generate will generate new text using the input text that we have specified.
+> **[2:23](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=143)** We then get predictions from the model by calling model.generate and parse in the input [[Tokens]], that is, in the inputs variable. Model.generate will generate new text using the input text that we have specified.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=157)** max_new_tokens are set to 100, which means the maximum number of tokens generated by this model will be 100.
 >
 > **[2:45](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=165)** do_sample = False means the model should not use sampling while generating text.
 >
-> **[2:52](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=172)** It will use an algorithm called greedy decoding. While generating word sequences, greedy decoding will select the word that has the highest probability, it will act greedily.
+> **[2:52](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=172)** It will use an algorithm called greedy decoding. While generating [[Microsoft Word|word]] sequences, greedy decoding will select the word that has the highest [[Probability]], it will act greedily.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summarizing-text-using-the-fine-tuned-model?u=76281980&t=183)** The outputs variable that contains the predictions from our model is in the form of tokens, not in the human-readable format.
 >
@@ -2154,7 +2127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[Hugging Face]] (2), cloud (2), [[Microsoft Word|Word]] (2), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Hugging Face]] (2), [[Microsoft Word|Word]] (2), [[PyTorch]] (1), [[Probability]] (1)
 > **Code Identifiers:** rougelsum (6), rougel (3), on_reduced_data (2), from_pretrained (2), max_new_tokens (1)
 > **Versions:** 0.25 (1), 0.13 (1), 0.153 (1), 0.07 (1), 0.324 (1)
 > **CLI Commands:** make (1)
@@ -2165,14 +2138,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessing the BBC dataset on Google Drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980)
+#### [Accessing the BBC dataset on Google Drive](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=0)** In this demo, we'll continue working with Hugging Face transformer models and we'll try two other models for text summarization.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=0)** In this demo, we'll continue working with [[Hugging Face]] [[Transformer Models]] and we'll try two other models for text summarization.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=8)** The first model that we'll use is the Google Pegasus model that has been trained on the C4 dataset, as well as a news dataset which includes the CNN Daily Mail articles.
+> **[0:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=8)** The first model that we'll use is the [[Google]] Pegasus model that has been trained on the C4 dataset, as well as a news dataset which includes the CNN Daily Mail articles.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=19)** We'll have these models generate summaries using data from a different dataset, the BBC News Summary dataset.
 >
@@ -2184,7 +2156,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=37)** Now we need to pip install a second library here as well, the sentencepiece library. The Pegasus tokenizer needs sentencepiece.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=46)** Sentencepiece is not actually a tokenizer, it's a method for selecting tokens from a pre-compiled list, optimizing the tokenization process based on a supplied vocabulary corpus.
+> **[0:46](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=46)** Sentencepiece is not actually a tokenizer, it's a method for selecting [[Tokens]] from a pre-compiled list, optimizing the tokenization process based on a supplied vocabulary corpus.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=59)** Once you have the required libraries installed, you may need to restart your kernel.
 >
@@ -2198,7 +2170,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=88)** We likely need both read as well as write permissions, so I'm going to copy over token summarization write, paste it into this input box and use that to log in and connect to Hugging Face Hub.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=99)** I've uploaded the data set that I plan to use for summarization to Google Drive, the Google Drive associated with the same account I used to log in to Colab. drive.mount("/content/drive") will mount my Google Drive root folder to Colab.
+> **[1:39](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=99)** I've uploaded the data set that I plan to use for summarization to [[Google Drive]], the Google Drive associated with the same account I used to log in to Colab. drive.mount("/content/drive") will mount my Google Drive root folder to Colab.
 >
 > **[1:59](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980&t=119)** Connecting to Google Drive will allow us to access the dataset that's present in Google Drive.
 >
@@ -2238,7 +2210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (7), [[Hugging Face]] (3), data (2), [[Tokens]] (2), [[Transformer Models]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (7), [[Hugging Face]] (3), [[Tokens]] (2), [[Transformer Models]] (1), [[Google]] (1)
 > **Env Vars:** bbc (4), cnn (1), gpu (1), rouge (1)
 > **CLI Commands:** pip (2), find (2), unzip (1)
 > **Tools:** colab (5)
@@ -2247,12 +2219,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Code Identifiers:** zip_ref (1)
 
-#### Instantiating and cleaning the BBC News summaries dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980)
+#### [Instantiating and cleaning the BBC News summaries dataset](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=0)** The data that we plan to use for summarization is now available on Google Drive.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=0)** The data that we plan to use for summarization is now available on [[Google Drive]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=5)** However, we need to create a dataset object so that we can use that to feed into our summarization model.
 >
@@ -2274,7 +2245,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=85)** The summaries DataFrame has category, ID, and summary.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=88)** On line 12, I perform a join operation using the Pandas merge function to combine these two DataFrames into a single DataFrame on the category and ID columns.
+> **[1:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=88)** On line 12, I perform a join operation using the [[Pandas (Software)|Pandas]] merge function to combine these two DataFrames into a single DataFrame on the category and ID columns.
 >
 > **[1:39](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=99)** And this is what the joined data frame looks like, news_summary_df.
 >
@@ -2296,7 +2267,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=135)** You can see the summary here.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=137)** Once again, the summary also has some additional characters which we need to clean. Before we perform any data cleaning, let's convert the data that we have in a DataFrame to be represented using a Hugging Face dataset object.
+> **[2:17](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=137)** Once again, the summary also has some additional characters which we need to clean. Before we perform any [[Data Cleaning]], let's convert the data that we have in a DataFrame to be represented using a [[Hugging Face]] dataset object.
 >
 > **[2:31](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/instantiating-and-cleaning-the-bbc-news-summaries-dataset?u=76281980&t=151)** And you can do this very easily by invoking the dataset from Pandas function.
 >
@@ -2334,20 +2305,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Pandas (Software)|Pandas]] (2), [[Google Drive]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Data Cleaning]] (2), [[Google Drive]] (1), [[Hugging Face]] (1)
 > **Code Identifiers:** articles_data (1), summaries_data (1), news_summary_df (1), cleaned_news_summary (1)
 > **File Paths:** 001.txt (1)
 > **Env Vars:** bbc (1)
 > **Definitions:** is a  (1)
 
-#### Generating summaries using Pegasus
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980)
+#### [Generating summaries using Pegasus](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=1)** We are now ready to access and use the Google Pegasus model for text summarization.
+> **[0:01](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=1)** We are now ready to access and use the [[Google]] Pegasus model for text summarization.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=6)** And for that, we need two classes from the Hugging Face Transformers library.
+> **[0:06](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=6)** And for that, we need two classes from the [[Hugging Face]] Transformers library.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=11)** PegasusForConditionalGeneration, this will allow us to access the pre-trained model and the PegasusTokenizer will allow us to access the tokenizer for the model.
 >
@@ -2369,7 +2339,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=86)** And the Huge News dataset includes the CNN Daily Mail dataset, which we used in the previous demo, which is why we are working with a different dataset in this demo, the BBC Summaries dataset.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=98)** If you just print out the contents of this tokenizer object, you'll get an overview of what the tokenizer looks like, the special tokens that it uses, the maximum length of the model, which is 1024.
+> **[1:38](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=98)** If you just print out the contents of this tokenizer object, you'll get an overview of what the tokenizer looks like, the special [[Tokens]] that it uses, the maximum length of the model, which is 1024.
 >
 > **[1:49](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=109)** The vocabulary for this tokenizer is 96,103.
 >
@@ -2377,7 +2347,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=117)** We simply print out the contents of this model.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=120)** This is a PyTorch model and, again, a heads up that we'll be using PyTorch to get predictions from this model.
+> **[2:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=120)** This is a [[PyTorch]] model and, again, a heads up that we'll be using PyTorch to get predictions from this model.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-pegasus?u=76281980&t=127)** You get an overview of the layers in the model.
 >
@@ -2439,7 +2409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Hugging Face]] (2), cnn (2), [[Tokens]] (2), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Hugging Face]] (2), [[Tokens]] (2), [[PyTorch]] (2)
 > **Code Identifiers:** from_pretrained (2), cnn_dailymail (1), rougel (1), rougelsum (1)
 > **Env Vars:** cnn (2), bbc (1), gpu (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
@@ -2448,8 +2418,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1), warning (1)
 > **CLI Commands:** make (1)
 
-#### Generating multiple summaries and computing aggregate ROUGE scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-multiple-summaries-and-computing-aggregate-rouge-scores?u=76281980)
+#### [Generating multiple summaries and computing aggregate ROUGE scores](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-multiple-summaries-and-computing-aggregate-rouge-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2473,7 +2442,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-multiple-summaries-and-computing-aggregate-rouge-scores?u=76281980&t=63)** Parse in the candidate summaries from the model, the reference summaries from our dataset.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-multiple-summaries-and-computing-aggregate-rouge-scores?u=76281980&t=68)** I use a stemmer to cut off word suffixes.
+> **[1:08](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-multiple-summaries-and-computing-aggregate-rouge-scores?u=76281980&t=68)** I use a stemmer to cut off [[Microsoft Word|word]] suffixes.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-multiple-summaries-and-computing-aggregate-rouge-scores?u=76281980&t=71)** So words such as expand and expanding will basically be treated as the same token.
 >
@@ -2520,12 +2489,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Generating summaries using BART
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980)
+#### [Generating summaries using BART](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=0)** We are now ready to use the last of the transformer models that we'll work with in this course, the Bart model for text summarization.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=0)** We are now ready to use the last of the [[Transformer Models]] that we'll work with in this course, the Bart model for text summarization.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=9)** The BartTokenizer will allow us to load the tokenizer used by Bart and BartForConditionalGeneration will allow us to load the pretrained model.
 >
@@ -2549,7 +2517,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=88)** You can see that its vocab size is smaller, 50265.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=92)** The model max length is 1024, that's how many tokens it will generate for the summary.
+> **[1:32](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=92)** The model max length is 1024, that's how many [[Tokens]] it will generate for the summary.
 >
 > **[1:38](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/generating-summaries-using-bart?u=76281980&t=98)** Let's take a look at the model itself.
 >
@@ -2589,7 +2557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Transformer Models]] (2), cnn (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Transformer Models]] (2), [[Tokens]] (1)
 > **Versions:** 0.57 (2), 0.3334 (1), 0.55 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** cnn (1)
@@ -2597,8 +2565,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Computing ROUGE metrics for a set of summaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/computing-rouge-metrics-for-a-set-of-summaries?u=76281980)
+#### [Computing ROUGE metrics for a set of summaries](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/computing-rouge-metrics-for-a-set-of-summaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2653,26 +2620,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=0)** And this demo brings us to the very end of this course on AI Text Summarization with Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=0)** And this demo brings us to the very end of this course on AI Text Summarization with [[Hugging Face]].
 >
 > **[0:07](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=7)** Now, we started this course off by understanding how text summarization works, and we explored two techniques for text summarization; extractive and abstractive summarization.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=18)** We saw how we could use the Sumy application, hosted on spaces in Hugging Face for extractive text summarization.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=27)** We then got an overview of transformer models that are used for abstractive text summarization, and we saw how we could perform abstractive text summarization using the Hugging Face transformers library.
+> **[0:27](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=27)** We then got an overview of [[Transformer Models]] that are used for abstractive text summarization, and we saw how we could perform abstractive text summarization using the Hugging Face transformers library.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=39)** We learned how to use pre-trained models and we also saw how we could fine-tune these models on our own dataset.
 >
 > **[0:47](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=47)** And with this, we are at the end of this course.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=50)** Now, if you're interested in studying further, here are some other courses on LinkedIn Learning that you might want to watch.
+> **[0:50](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=50)** Now, if you're interested in studying further, here are some other courses on [[LinkedIn]] Learning that you might want to watch.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=56)** Self-supervised Machine Learning will show you how we can use data with no labels to train ML models. An [[Introduction to Attention-Based Neural Networks]] will dive deeper into the concept of attention in sequence-to-sequence models.
+> **[0:56](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=56)** Self-supervised Machine Learning will show you how we can use data with no labels to train ML models. An [[Introduction to Attention-Based [[Neural Networks]]]] will dive deeper into the concept of attention in sequence-to-sequence models.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980&t=72)** Well, it's time for me to say goodbye.
 >
@@ -2682,7 +2648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (3), ai (1), application (1), [[Transformer Models]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Transformer Models]] (1), [[LinkedIn]] (1), [[Neural Networks]] (1)
 
 
 ## Instructor

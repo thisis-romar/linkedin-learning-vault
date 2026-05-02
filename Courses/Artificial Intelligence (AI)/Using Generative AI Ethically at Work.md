@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethical considerations of AI and practical applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980)
+#### [Ethical considerations of AI and practical applications](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=0)** - So you've just discovered the shiny new tool of generative AI, and you want to take it for a spin to see how it will make your work life more productive and efficient, just like everyone is promising it will.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=0)** - So you've just discovered the shiny new tool of [[Generative AI]], and you want to take it for a spin to see how it will make your work life more productive and efficient, just like everyone is promising it will.
 >
 > **[0:12](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=12)** But you want to make sure you have some rules of the road to use the tools responsibly.
 >
@@ -95,20 +94,19 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=31)** Hi, I'm Katrina Ingram.
 >
-> **[0:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=33)** I run a social enterprise called Ethically Aligned AI, and my mission is to help people make better choices when it comes to artificial intelligence.
+> **[0:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=33)** I run a social enterprise called Ethically Aligned AI, and my mission is to help people make better choices when it comes to [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:42](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980&t=42)** So hop on in as we go on a little road trip to learn about using generative AI ethically in the workplace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - so (1)
 
-#### An ethical driver's license for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980)
+#### [An ethical driver's license for AI](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,13 +122,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=51)** Now, if you want to drive a car, you must pass a test and get a driver's license in order to prove you are responsible and capable of safely driving a car.
 >
-> **[1:03](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=63)** When it comes to AI, especially generative AI, we're quickly seeing the scope, scale, and speed of the technologies lead to greater societal concerns about the risks and harms of using AI, especially if it's used without any oversight.
+> **[1:03](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=63)** When it comes to AI, especially [[Generative AI]], we're quickly seeing the scope, scale, and speed of the technologies lead to greater societal concerns about the risks and harms of using AI, especially if it's used without any oversight.
 >
 > **[1:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=80)** The European Union has introduced the first comprehensive regulation to address AI risks, the EU AI Act, which is expected to come into full force by 2026.
 >
 > **[1:32](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=92)** But while we wait for other countries to implement official regulations, we might need an ethical driver's license for generative AI.
 >
-> **[1:40](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=100)** Ethics is useful to help us with should questions, and it's especially useful when there are no clear cut regulations or rules to follow.
+> **[1:40](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=100)** [[Ethics]] is useful to help us with should questions, and it's especially useful when there are no clear cut regulations or rules to follow.
 >
 > **[1:50](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/an-ethical-driver-s-license-for-ai?u=76281980&t=110)** We can apply ethics to help us navigate those uncertain situations.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (3), [[Ethics]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Ethics]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
@@ -151,8 +149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognize ethical choices with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980)
+#### [Recognize ethical choices with AI](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=106)** Wearing a red or blue T-shirt doesn't hurt anyone, but promoting a hateful message on a t-shirt does.
 >
-> **[1:54](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=114)** Now, when it comes to generative AI, there are numerous ethical issues that can arise, which can impact people in ways that can cause harm.
+> **[1:54](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=114)** Now, when it comes to [[Generative AI]], there are numerous ethical issues that can arise, which can impact people in ways that can cause harm.
 >
 > **[2:03](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=123)** In order to take action to make an ethical choice, you'll need to ask some questions.
 >
@@ -236,19 +233,18 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=202)** We're going to come back to these ideas later in the course as we move this discussion into the realm of generative AI.
 >
-> **[3:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=208)** But first, we're going to unpack how ethics relates to another very important area, compliance or following the law.
+> **[3:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980&t=208)** But first, we're going to unpack how [[Ethics]] relates to another very important area, compliance or following the law.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), next (2), career (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Ethics]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (3)
 > **Cross-References:** later in (1)
 > **Definitions:** known as (1)
 > **Speakers:** - do (1)
 
-#### The legal, the ethical, and the prudential when using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980)
+#### [The legal, the ethical, and the prudential when using AI](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=29)** Thus, in order to avoid punishment, we comply with the law.
 >
-> **[0:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=33)** Ethics is about making appropriate decisions In a civilized society, ethics plays a foundational role in supporting laws.
+> **[0:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=33)** [[Ethics]] is about making appropriate decisions In a civilized society, ethics plays a foundational role in supporting laws.
 >
 > **[0:43](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=43)** We might see this as more of the carrot approach, where obeying the law isn't only about avoiding the punishment or stick, but also about being a good person by societal standards.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=146)** For example, if you've been drinking, there are both ethical and legal reasons not to drive.
 >
-> **[2:32](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=152)** More recently, as we grapple with climate change, we are seeing both ethical and legal responses to move towards greener transportation such as electric cars.
+> **[2:32](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=152)** More recently, as we grapple with [[Climate Change]], we are seeing both ethical and legal responses to move towards greener transportation such as electric cars.
 >
 > **[2:44](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=164)** We can start to see from these examples how ethics and law begin to intersect.
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=200)** Ethically, we may also decide not to speed because we might accidentally cause harm to another person.
 >
-> **[3:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=208)** We are in the midst of navigating many ethical dilemmas involving generative AI, and a lot of times the legal, the ethical, and the prudential don't always line up.
+> **[3:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=208)** We are in the midst of navigating many ethical dilemmas involving [[Generative AI]], and a lot of times the legal, the ethical, and the prudential don't always line up.
 >
 > **[3:39](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-legal-the-ethical-and-the-prudential-when-using-ai?u=76281980&t=219)** This is a challenge that's common when a new technology arrives on the scene.
 >
@@ -334,19 +330,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (5), [[Generative AI]] (5), [[Climate Change]] (1), data (1)
+> **Frameworks & Libraries:** [[Ethics]] (5), [[Generative AI]] (5), [[Climate Change]] (1)
 > **Analogies:** for example (3), imagine (2), for instance (1), such as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### The basics of AI regulations: Copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980)
+#### [The basics of AI regulations: Copyright](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=0)** - We can think about regulatory compliance as the floor.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=0)** - We can think about [[Regulatory Compliance]] as the floor.
 >
 > **[0:04](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=4)** At a bare minimum, we need to be compliant with the rules.
 >
@@ -360,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=31)** It covers a range of content such as music, writing, artwork, even software code.
 >
-> **[0:38](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=38)** Generative AI is particularly useful for generating all of these things.
+> **[0:38](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=38)** [[Generative AI]] is particularly useful for generating all of these things.
 >
 > **[0:42](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-copyright?u=76281980&t=42)** That's not an accident, it's by design.
 >
@@ -414,18 +409,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), ai (3), prompt (3), data (2), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Regulatory Compliance]] (1)
 > **Analogies:** such as (2), picture (2), for example (1)
 > **CLI Commands:** cat (2), make (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - we (1)
 
-#### The basics of AI regulations: Privacy and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980)
+#### [The basics of AI regulations: Privacy and security](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=0)** - As an end user of generative AI, you're not expected to be a lawyer, but you are expected to understand the basics and to do your part to ensure copyright and privacy laws are upheld that harmful or inaccurate AI content is identified and fixed, and that your use of AI doesn't violate any laws in your jurisdiction.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=0)** - As an end user of [[Generative AI]], you're not expected to be a lawyer, but you are expected to understand the basics and to do your part to ensure copyright and [[Privacy]] laws are upheld that harmful or inaccurate AI content is identified and fixed, and that your use of AI doesn't violate any laws in your jurisdiction.
 >
 > **[0:22](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=22)** Privacy is the most mature area of regulation that relates to data.
 >
@@ -441,11 +435,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=68)** For example, let's say you want to use generative AI to write a personalized letter to a client, and you share a bunch of personal information with the generative AI system in order to generate that tailored content.
 >
-> **[1:22](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=82)** This raises a number of privacy questions about consent to use the information and about data sharing with a third-party, the generative AI vendor.
+> **[1:22](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=82)** This raises a number of privacy questions about consent to use the information and about [[Data Sharing]] with a third-party, the generative AI vendor.
 >
 > **[1:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=93)** Similar to understanding the terms of use for copyrighted material, you should understand and abide by the terms of use as it relates to personal or sensitive data.
 >
-> **[1:44](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=104)** This example also raises the issue of cybersecurity and possible breaches of privacy that might ensue from using generative AI.
+> **[1:44](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=104)** This example also raises the issue of [[Cybersecurity]] and possible breaches of privacy that might ensue from using generative AI.
 >
 > **[1:53](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=113)** Once information is ingested into generative AI training data, it's virtually impossible to delete information captured in the prompts from users can become part of training data, which can compromise that data.
 >
@@ -475,7 +469,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=233)** So if you work in areas like HR, expect to have more regulatory oversight of the systems you use.
 >
-> **[4:01](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=241)** There are also obligations in the Act to ensure users have AI literacy, a basic understanding of the opportunities and risks involved with using AI.
+> **[4:01](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=241)** There are also obligations in the Act to ensure users have [[AI Literacy]], a basic understanding of the opportunities and risks involved with using AI.
 >
 > **[4:12](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=252)** Taking a course like this one is a proactive approach to being ready for regulations.
 >
@@ -483,17 +477,16 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=263)** Both the US and Canada have proposals for specific AI regulations underway.
 >
-> **[4:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=268)** And in the absence of regulation have issued other guidelines or directives, all of which is to say understanding basic legal compliance is a necessary aspect of making responsible choices about how to use generative AI.
+> **[4:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-basics-of-ai-regulations-privacy-and-security?u=76281980&t=268)** And in the absence of regulation have issued other guidelines or directives, all of which is to say understanding basic [[Legal Compliance]] is a necessary aspect of making responsible choices about how to use generative AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Generative AI]] (12), data (10), [[Privacy]] (9), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (12), [[Privacy]] (9), [[Data Sharing]] (2), [[Cybersecurity]] (1), [[AI Literacy]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - as (1)
 
-#### Learn AI policies and governance for your workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980)
+#### [Learn AI policies and governance for your workplace](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=31)** It's not only okay to smash into people, it's what is expected.
 >
-> **[0:37](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=37)** What is expected when it comes to the use of generative AI at work?
+> **[0:37](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=37)** What is expected when it comes to the use of [[Generative AI]] at work?
 >
 > **[0:42](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=42)** This is something that relies on the context of your workplace.
 >
@@ -519,15 +512,15 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=75)** Your company likely already has other types of acceptable use policies.
 >
-> **[1:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=80)** For example, you'll likely have policies around the use of software or around cybersecurity.
+> **[1:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=80)** For example, you'll likely have policies around the use of software or around [[Cybersecurity]].
 >
 > **[1:26](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=86)** Companies also need policies for generative AI, in order to provide the necessary guidance for their employees.
 >
-> **[1:34](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=94)** Some organizations have taken a very strong stance and banned the use of certain AI tools, such as ChatGPT.
+> **[1:34](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=94)** Some organizations have taken a very strong stance and banned the use of certain AI tools, such as [[ChatGPT]].
 >
 > **[1:42](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=102)** This makes it clear that their employees are not to use that tool.
 >
-> **[1:47](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=107)** Other organizations may have purchased specific generative AI tools that are kept behind a corporate firewall or have other guardrails, and the company might want its employees to only use those tools.
+> **[1:47](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=107)** Other organizations may have purchased specific [[Generative AI Tools]] that are kept behind a corporate firewall or have other guardrails, and the company might want its employees to only use those tools.
 >
 > **[2:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/learn-ai-policies-and-governance-for-your-workplace?u=76281980&t=120)** The acceptable use policy will set out the details for what is permissible in your organization.
 >
@@ -543,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Cybersecurity]] (1), ai (1), [[ChatGPT]] (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Cybersecurity]] (1), [[ChatGPT]] (1), [[Generative AI Tools]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
@@ -554,8 +547,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand hard truths about generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980)
+#### [Understand hard truths about generative AI](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -583,7 +575,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=66)** Basically, every type of digital content is being used as training data.
 >
-> **[1:11](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=71)** This is far from the only ethical issue in the design of generative AI.
+> **[1:11](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=71)** This is far from the only ethical issue in the design of [[Generative AI]].
 >
 > **[1:16](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=76)** It's just one of many.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=96)** These biases are reflected in the models themselves, and it's not easy to solve this problem after the fact, with filters or other technical fixes.
 >
-> **[1:46](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=106)** The use of big data leaves an enormous carbon footprint, because all of that data is housed on servers in data centers, which use water and energy to keep things from overheating.
+> **[1:46](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=106)** The use of [[Big Data]] leaves an enormous carbon footprint, because all of that data is housed on servers in data centers, which use water and energy to keep things from overheating.
 >
 > **[1:59](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980&t=119)** Generative AI can use 10 times more resources compared with regular digital processing.
 >
@@ -649,18 +641,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Generative AI]] (9), ai (8), power (3), product (3)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Big Data]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### The cupcake analogy of AI use
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980)
+#### [The cupcake analogy of AI use](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=0)** - There's so many ways that generative AI could be used to make our work-life easier.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=0)** - There's so many ways that [[Generative AI]] could be used to make our work-life easier.
 >
 > **[0:05](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=5)** Maybe you want to use it to craft responses to emails, complete a grant proposal, write the final report summarizing your last big project, or maybe even use it to generate your performance review.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=130)** Let's look at a couple of examples.
 >
-> **[2:13](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=133)** Suppose you prompt generative AI for a 500 word essay on the history of baking.
+> **[2:13](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=133)** Suppose you prompt generative AI for a 500 [[Microsoft Word|word]] essay on the history of baking.
 >
 > **[2:19](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/the-cupcake-analogy-of-ai-use?u=76281980&t=139)** You post the whole thing, verbatim, as a blog post under your name.
 >
@@ -762,20 +753,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), prompt (1), [[Microsoft Word|Word]] (1), ai (1), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Speakers:** - there (1)
 
-#### Know your generative AI tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980)
+#### [Know your generative AI tool](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=0)** - In early 2023, many organizations were banning the use of ChatGPT, citing concerns over sensitive data sharing and possible risks of hallucinations or inaccurate outputs from the system.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=0)** - In early 2023, many organizations were banning the use of [[ChatGPT]], citing concerns over sensitive [[Data Sharing]] and possible risks of hallucinations or inaccurate outputs from the system.
 >
-> **[0:14](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=14)** Yet less than a year later, a lot of those same companies are now embracing generative AI tools.
+> **[0:14](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=14)** Yet less than a year later, a lot of those same companies are now embracing [[Generative AI Tools]].
 >
 > **[0:22](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=22)** Consider JP Morgan Chase, who had originally banned their staff from using ChatGPT.
 >
@@ -795,7 +785,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=89)** Let's run through some of the common risks.
 >
-> **[1:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=93)** These tools are not behind a corporate firewall, which makes their use more of a cybersecurity risk.
+> **[1:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=93)** These tools are not behind a corporate firewall, which makes their use more of a [[Cybersecurity]] risk.
 >
 > **[1:41](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=101)** The legal terms and conditions that govern the use of these tools are the same for everyone, and may include clauses which allow for data sharing in ways that might not align with the company's objectives to protect their data or intellectual property.
 >
@@ -803,7 +793,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=132)** While the publicly accessible generative AI tools don't address these risks, other variations do.
 >
-> **[2:19](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=139)** For example, Microsoft's copilot is essentially built in partnership with OpenAI using a version of GPT, the underlying model behind ChatGPT.
+> **[2:19](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=139)** For example, [[Microsoft]]'s [[Microsoft Copilot|copilot]] is essentially built in partnership with OpenAI using a version of GPT, the underlying model behind ChatGPT.
 >
 > **[2:31](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=151)** Yet, companies using Copilot can safeguard their data and negotiate terms with Microsoft that might make them feel more comfortable deploying the solution for use in their organization.
 >
@@ -815,7 +805,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=200)** This is particularly important when it comes to certain domains.
 >
-> **[3:25](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=205)** For example, vendors building legal tech solutions need to know their generative AI models are safe and reliable for lawyers to use.
+> **[3:25](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=205)** For example, vendors building legal tech solutions need to know their [[Generative AI]] models are safe and reliable for lawyers to use.
 >
 > **[3:34](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/know-your-generative-ai-tool?u=76281980&t=214)** These tools typically use an existing generative AI model, such as OpenAI's GPT, but these vendors also train the model on additional legal data.
 >
@@ -833,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Generative AI Tools]] (6), [[ChatGPT]] (4), [[Generative AI]] (4), ai (2)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (6), [[ChatGPT]] (4), [[Generative AI]] (4), [[Data Sharing]] (2), [[Cybersecurity]] (2)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** gpt (2), llm (1), rag (1)
 > **CLI Commands:** make (2)
@@ -841,12 +831,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Make ethical choices when using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980)
+#### [Make ethical choices when using generative AI](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=0)** - How can we make ethical choices when it comes to generative AI?
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=0)** - How can we make ethical choices when it comes to [[Generative AI]]?
 >
 > **[0:05](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=5)** Before we answer that question, let's quickly recap our discussion so far.
 >
@@ -854,7 +843,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=26)** We've walked through the challenges of trying to determine using generative AI to create content and how that poses some tricky questions.
 >
-> **[0:36](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=36)** And we've laid out the ways in which generative AI tools are not all the same when it comes to risk, but instead have different legal and technical guardrails.
+> **[0:36](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=36)** And we've laid out the ways in which [[Generative AI Tools]] are not all the same when it comes to risk, but instead have different legal and technical guardrails.
 >
 > **[0:46](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=46)** With these foundational elements in mind, let's go back to our discussion about ethical choices and the four factors we may wish to consider.
 >
@@ -878,7 +867,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=127)** By disclosing to others that the working question involved the use of generative AI, you're respecting people's agency to make a choice as to whether or not they wish to engage with AI-generated content or to better assess the content knowing it was AI generated.
 >
-> **[2:24](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=144)** You can be responsible for the data you use in the prompt, ensuring you are not violating copyright or privacy at a minimum.
+> **[2:24](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=144)** You can be responsible for the data you use in the prompt, ensuring you are not violating copyright or [[Privacy]] at a minimum.
 >
 > **[2:33](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=153)** You can also be thoughtful about using other people's informal communications, such as information sent to you in an email in a generative AI tool.
 >
@@ -892,13 +881,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=191)** These are basic things you can and should do in order to use generative AI responsibly.
 >
-> **[3:17](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=197)** While you can't single handedly address unethical design practices, you can raise your consumer voice and ask AI vendors to make better products.
+> **[3:17](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=197)** While you can't single handedly address unethical design practices, you can raise your consumer voice and ask AI vendors to make better [[Microsoft Products|products]].
 >
-> **[3:27](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=207)** You can ask for ethically acquired training data, products where data workers are paid fairly and treated with respect, and AI tools that don't exacerbate climate change or environmental degradation.
+> **[3:27](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=207)** You can ask for ethically acquired training data, products where data workers are paid fairly and treated with respect, and AI tools that don't exacerbate [[Climate Change]] or environmental degradation.
 >
 > **[3:41](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=221)** You can ask your company or organization to lend their voices as customers to these issues.
 >
-> **[3:48](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=228)** AI vendors are already addressing corporate concerns about model accuracy, data privacy, and cybersecurity.
+> **[3:48](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=228)** AI vendors are already addressing corporate concerns about model accuracy, [[Data Privacy]], and [[Cybersecurity]].
 >
 > **[3:55](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/make-ethical-choices-when-using-generative-ai?u=76281980&t=235)** Let it be known that these other issues matter just as much.
 >
@@ -906,7 +895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), data (6), ai (6), [[Privacy]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Microsoft Products|Products]] (2), [[Generative AI Tools]] (1), [[Privacy]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
@@ -917,18 +906,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining different uses of AI at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980)
+#### [Defining different uses of AI at work](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=0)** - This chapter is all about application, how to take the things we've learned so far about making ethical choices and our knowledge of generative AI and use that to help inform action on an ethical dilemma.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=0)** - This chapter is all about application, how to take the things we've learned so far about making ethical choices and our knowledge of [[Generative AI]] and use that to help inform action on an ethical dilemma.
 >
 > **[0:14](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=14)** Since it seems like every company is clamoring to reap the benefits of generative AI, we named our fictional workplace, "EveryCompany."
 >
 > **[0:24](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=24)** EveryCompany is a lot like your workplace, their executive team is determined to reap the rewards of generative AI, so staff are encouraged to experiment with AI and of course, to do so responsibly, but nobody is really sure what that means.
 >
-> **[0:39](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=39)** What does ethical use of generative AI mean for day-to-day work in marketing, sales, accounting, HR, or cybersecurity?
+> **[0:39](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=39)** What does ethical use of generative AI mean for day-to-day work in marketing, sales, accounting, HR, or [[Cybersecurity]]?
 >
 > **[0:48](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980&t=48)** We've got some interesting scenarios for you, but first, let's do a quick review of our ethical decision making process from the start of our course.
 >
@@ -948,12 +936,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), application (1), ai (1), hr (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
-#### AI ethics: Respecting copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-respecting-copyright?u=76281980)
+#### [AI ethics: Respecting copyright](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-respecting-copyright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,7 +950,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-respecting-copyright?u=76281980&t=13)** It's the company's next major global marketing campaign.
 >
-> **[0:17](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-respecting-copyright?u=76281980&t=17)** Generative AI proved very helpful with ideation for campaign themes, as well as reworking some of the marketing copy, which Brian ensured was carefully vetted for accuracy.
+> **[0:17](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-respecting-copyright?u=76281980&t=17)** [[Generative AI]] proved very helpful with ideation for campaign themes, as well as reworking some of the marketing copy, which Brian ensured was carefully vetted for accuracy.
 >
 > **[0:29](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-respecting-copyright?u=76281980&t=29)** But things are a little more complicated when it comes to the images.
 >
@@ -1017,27 +1004,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), management (3), next (2), [[Generative AI]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** picture (1), similar to (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### AI ethics: Protecting privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980)
+#### [AI ethics: Protecting privacy](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=0)** - It's been a whirlwind morning for Aaliyah, HR manager at Every Company.
 >
-> **[0:04](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=4)** She's been in a meeting with a new vendor to help fast track the development of an in-house chat bot, which will use generative AI to support the HR department.
+> **[0:04](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=4)** She's been in a meeting with a new vendor to help fast track the development of an in-house chat bot, which will use [[Generative AI]] to support the HR department.
 >
-> **[0:14](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=14)** This in-house generative AI solution is a high priority because Aaliyah has learned from a trusted source that some members of the HR team are using ChatGPT to help with their work, including writing offer letters to candidates.
+> **[0:14](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=14)** This in-house generative AI solution is a high priority because Aaliyah has learned from a trusted source that some members of the HR team are using [[ChatGPT]] to help with their work, including writing offer letters to candidates.
 >
 > **[0:30](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=30)** This source claims that the data shared with ChatGPT includes transcripts from the interview, the candidate's resume, and sensitive details about the offer, such as starting salary.
 >
-> **[0:43](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=43)** Aaliyah is alarmed by these claims and what this means for data privacy.
+> **[0:43](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=43)** Aaliyah is alarmed by these claims and what this means for [[Data Privacy]].
 >
 > **[0:47](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=47)** She also wonders how else ChatGPT is being used and what other sensitive employee data is being shared.
 >
@@ -1047,7 +1033,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=82)** Aaliyah is right to be concerned about the rumors of HR staff using ChatGPT for personalized correspondence.
 >
-> **[1:30](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=90)** Recall our discussion about privacy and the legal and ethical implications of sharing personal or sensitive data with a generative AI tool.
+> **[1:30](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=90)** Recall our discussion about [[Privacy]] and the legal and ethical implications of sharing personal or sensitive data with a generative AI tool.
 >
 > **[1:40](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=100)** Imagine the personal details that would need to go into a job offer letter, everything from a person's name and address to the salary and job start date.
 >
@@ -1065,29 +1051,28 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=163)** Remember the in-house generative AI solution for the HR team will have more guardrails in place.
 >
-> **[2:50](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=170)** It will be implemented behind the corporate firewall for greater cybersecurity, mapped to corporate data sources to provide greater accuracy, and the legal terms will include clarity around data privacy matters.
+> **[2:50](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=170)** It will be implemented behind the corporate firewall for greater [[Cybersecurity]], mapped to corporate data sources to provide greater accuracy, and the legal terms will include clarity around data privacy matters.
 >
-> **[3:04](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=184)** In the meantime, she signs up the team for some introductory training on responsible AI use so that everyone in HR understands the limitations of AI tools and will be better equipped to use generative AI once the official solution is rolled out.
+> **[3:04](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=184)** In the meantime, she signs up the team for some introductory training on [[Responsible AI]] use so that everyone in HR understands the limitations of AI tools and will be better equipped to use generative AI once the official solution is rolled out.
 >
-> **[3:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=200)** Aaliyah also plans to speak with her VP to advocate for a company-wide policy on AI governance.
+> **[3:20](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=200)** Aaliyah also plans to speak with her VP to advocate for a company-wide policy on [[AI Governance]].
 >
 > **[3:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-protecting-privacy?u=76281980&t=208)** This will help provide a clear and consistent set of guidelines for everyone, especially when you're working with sensitive information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (9), hr (8), [[ChatGPT]] (7), data (6), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[ChatGPT]] (7), [[Data Privacy]] (2), [[Privacy]] (1), [[Cybersecurity]] (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### AI ethics: Cybersecurity and AI risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980)
+#### [AI ethics: Cybersecurity and AI risks](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=0)** - Alex is part of the cybersecurity team at Every Company and has recently been tasked with developing employee training related to the safe use of Generative AI.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=0)** - Alex is part of the [[Cybersecurity]] team at Every Company and has recently been tasked with developing employee training related to the safe use of [[Generative AI]].
 >
 > **[0:10](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=10)** New digital tools always add to the attack surface, making the work of cybersecurity more challenging.
 >
@@ -1095,7 +1080,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=25)** It needs to cover a wide range of AI tools used at every company.
 >
-> **[0:30](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=30)** From generic ChatGPT to the art generation Tools marketing is experimenting with to the custom developed in-house solution that HR plans to roll out.
+> **[0:30](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=30)** From generic [[ChatGPT]] to the art generation Tools marketing is experimenting with to the custom developed in-house solution that HR plans to roll out.
 >
 > **[0:40](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=40)** Each one is a little different, but there are some common themes that Alex can address from a cybersecurity perspective.
 >
@@ -1129,7 +1114,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=128)** They would like to ensure that the training is engaging, so they decide to use Generative AI as an editing tool to help punch up the copy, ensure it's grammatically correct, and that it fits with Every Company's communication style.
 >
-> **[2:23](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=143)** Alex is very aware of the environmental costs of data processing, which is one of the hard truths about Generative AI, and that means they're choosing to use the tool sparingly.
+> **[2:23](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=143)** Alex is very aware of the environmental costs of [[Data Processing]], which is one of the hard truths about Generative AI, and that means they're choosing to use the tool sparingly.
 >
 > **[2:36](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-cybersecurity-and-ai-risks?u=76281980&t=156)** Just like our driving analogy, choosing to do it when warranted, but selecting other options that are more environmentally friendly whenever they can.
 >
@@ -1139,18 +1124,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (9), [[Cybersecurity]] (6), ai (3), data (2), generic (1)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Cybersecurity]] (6), [[ChatGPT]] (1), [[Data Processing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - alex (1)
 
-#### AI ethics: AI etiquette
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980)
+#### [AI ethics: AI etiquette](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=0)** - If every company had an unofficial generative AI ambassador, it would be Rahim.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=0)** - If every company had an unofficial [[Generative AI]] ambassador, it would be Rahim.
 >
 > **[0:06](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=6)** He's not only an early adopter of technology, he actively pushes the boundaries of digital automation tools, and it's paid off.
 >
@@ -1204,7 +1188,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=187)** Once again, the desire to be productive and efficient through the use of automation is prioritized in ways that are both creepy and duplicitous.
 >
-> **[3:16](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=196)** One of the basic tenets of responsible AI is disclosure, letting others know that they are interacting with an AI system.
+> **[3:16](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=196)** One of the basic tenets of [[Responsible AI]] is disclosure, letting others know that they are interacting with an AI system.
 >
 > **[3:24](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-ai-etiquette?u=76281980&t=204)** Rahim's choices are putting both his and every company's reputation at risk.
 >
@@ -1246,7 +1230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Generative AI]] (4), [[Automation]] (3), data (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Responsible AI]] (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
 > **Env Vars:** crm (1), fcc (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1255,12 +1239,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### AI ethics: Accountability and strategic use of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980)
+#### [AI ethics: Accountability and strategic use of AI](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=0)** - Luna isn't sure why everyone is so impressed with generative AI.
+> **[0:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=0)** - Luna isn't sure why everyone is so impressed with [[Generative AI]].
 >
 > **[0:05](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=5)** Not only does she fail to see clear gains in productivity from using the technology, especially for her work as a junior accountant, but people seem to be glossing over the ways in which the technology is actually causing extra work.
 >
@@ -1268,19 +1251,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=28)** The submissions are often incomplete or inaccurate.
 >
-> **[0:32](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=32)** At first, she tried sending them back, but this guy is a rock star and she wanted to avoid a tense work relationship, so she quietly fixes the errors in order to keep the peace while also ensuring accountability for the accuracy of the work.
+> **[0:32](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=32)** At first, she tried sending them back, but this guy is a rock star and she wanted to avoid a tense work relationship, so she quietly fixes the errors in order to keep the peace while also ensuring [[Accountability]] for the accuracy of the work.
 >
 > **[0:49](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=49)** But it's not just expense reports.
 >
-> **[0:52](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=52)** Luna has noticed that generative AI tools aren't good with numbers in general, which isn't all that surprising.
+> **[0:52](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=52)** Luna has noticed that [[Generative AI Tools]] aren't good with numbers in general, which isn't all that surprising.
 >
 > **[1:00](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=60)** Hallucinations in generative AI tools are well known.
 >
 > **[1:04](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=64)** Given the inaccurate, unreliable information coming out of the systems, Luna wonders if generative AI is just not the right tool for the job.
 >
-> **[1:13](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=73)** Accounting needs to be reliable, and it benefits from stable, predictable, deterministic tools, not the unpredictable, probability-based outputs that generative AI provides.
+> **[1:13](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=73)** Accounting needs to be reliable, and it benefits from stable, predictable, deterministic tools, not the unpredictable, [[Probability]]-based outputs that generative AI provides.
 >
-> **[1:26](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=86)** Luna is a big fan of more stable automation tools, things like robotic process automation or even good old-fashioned macros.
+> **[1:26](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=86)** Luna is a big fan of more stable automation tools, things like [[Robotic Process Automation (RPA)|robotic process automation]] or even good old-fashioned macros.
 >
 > **[1:34](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ai-ethics-accountability-and-strategic-use-of-ai?u=76281980&t=94)** New is not always better.
 >
@@ -1320,7 +1303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (12), [[Generative AI Tools]] (2), hr (2), [[Accountability]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (12), [[Generative AI Tools]] (2), [[Accountability]] (1), [[Probability]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -1331,8 +1314,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being kind
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980)
+#### [Being kind](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=26)** The technological affordances of the car, the speed and power it enables, the way it encapsulates people in their own one and a half tons steel bubble and all the infrastructure it requires fundamentally changed things.
 >
-> **[0:41](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=41)** A car is not merely a faster horse, and generative AI is not just a faster way to accomplish your work.
+> **[0:41](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=41)** A car is not merely a faster horse, and [[Generative AI]] is not just a faster way to accomplish your work.
 >
 > **[0:49](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=49)** It will have impacts on society that are not always obvious to predict in advance.
 >
@@ -1364,7 +1346,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=104)** I hope this course has equipped you with some tools to make ethical choices in using generative AI at work.
 >
-> **[1:51](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=111)** I'd love to stay connected with you, so please reach out on LinkedIn or check out my website at [ethicallyalignedai.com](https://ethicallyalignedai.com).
+> **[1:51](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=111)** I'd love to stay connected with you, so please reach out on [[LinkedIn]] or check out my website at [ethicallyalignedai.com](https://ethicallyalignedai.com).
 >
 > **[1:59](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980&t=119)** Finally, something that's become a bit of my personal signature is to end my work with this symbol.
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [ethicallyalignedai.com](https://ethicallyalignedai.com) (1)
 > **Definitions:** is a  (1)

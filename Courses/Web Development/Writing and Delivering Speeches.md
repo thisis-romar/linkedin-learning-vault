@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### So, you're giving a speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/so-you-re-giving-a-speech?u=76281980)
+#### [So, you're giving a speech](https://www.linkedin.com/learning/writing-and-delivering-speeches/so-you-re-giving-a-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,11 +110,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - the (1)
 
-#### Speeches vs. presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/speeches-vs-presentations?u=76281980)
+#### [Speeches vs. presentations](https://www.linkedin.com/learning/writing-and-delivering-speeches/speeches-vs-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +148,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
@@ -161,14 +157,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand your target audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980)
+#### [Understand your target audience](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980&t=1)** - The secret to effective communication, whether you're writing a speech or an email, is understanding your audience and tailoring your content to their needs.
 >
-> **[0:12](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980&t=12)** During the speech writing phase, there are lots of things you might consider to help you get a better understanding of your audience.
+> **[0:12](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980&t=12)** During the [[Speech Writing]] phase, there are lots of things you might consider to help you get a better understanding of your audience.
 >
 > **[0:18](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980&t=18)** I'll walk you through some important questions to consider.
 >
@@ -236,15 +231,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Speech Writing]] (1), [[Search]] (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Speech Writing]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - the (1)
 
-#### Confirm your logistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/confirm-your-logistics?u=76281980)
+#### [Confirm your logistics](https://www.linkedin.com/learning/writing-and-delivering-speeches/confirm-your-logistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +326,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -343,8 +336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Staging your virtual speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/staging-your-virtual-speech?u=76281980)
+#### [Staging your virtual speech](https://www.linkedin.com/learning/writing-and-delivering-speeches/staging-your-virtual-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,8 +416,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - more (1)
 
-#### Giving a virtual speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/giving-a-virtual-speech?u=76281980)
+#### [Giving a virtual speech](https://www.linkedin.com/learning/writing-and-delivering-speeches/giving-a-virtual-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +500,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Analogies:** picture (4)
 > **Exercise Files:** exercise files (1)
@@ -517,8 +507,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - delivering (1)
 
-#### Speaking to inform
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-inform?u=76281980)
+#### [Speaking to inform](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-inform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,14 +597,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gps (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - when (1)
 
-#### Speaking to persuade
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-persuade?u=76281980)
+#### [Speaking to persuade](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-persuade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-persuade?u=76281980&t=33)** They grab and keep your attention and interest.
 >
-> **[0:37](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-persuade?u=76281980&t=37)** They influence your decision-making.
+> **[0:37](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-persuade?u=76281980&t=37)** They influence your [[Decision-Making]].
 >
 > **[0:39](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-to-persuade?u=76281980&t=39)** They make the little hairs on your arms stand up.
 >
@@ -695,14 +682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[Decision-Making]] (1), data (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (1), for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - even (1)
 
-#### Delivering bad news
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/delivering-bad-news?u=76281980)
+#### [Delivering bad news](https://www.linkedin.com/learning/writing-and-delivering-speeches/delivering-bad-news?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/writing-and-delivering-speeches/delivering-bad-news?u=76281980&t=62)** Here you can reiterate some of the positive points you mentioned before.
 >
-> **[1:07](https://www.linkedin.com/learning/writing-and-delivering-speeches/delivering-bad-news?u=76281980&t=67)** Now if you've seen some of my other courses in the LinkedIn learning library, on management or leadership you may recognize this outline as the sandwich technique where you start with and end with something positive.
+> **[1:07](https://www.linkedin.com/learning/writing-and-delivering-speeches/delivering-bad-news?u=76281980&t=67)** Now if you've seen some of my other courses in the [[LinkedIn]] learning library, on management or leadership you may recognize this outline as the sandwich technique where you start with and end with something positive.
 >
 > **[1:19](https://www.linkedin.com/learning/writing-and-delivering-speeches/delivering-bad-news?u=76281980&t=79)** I advise people to avoid the structure when giving colleagues feedback, but delivering bad news about a circumstance is a different situation where this technique actually works well.
 >
@@ -784,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[LinkedIn]] (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), for example (1)
@@ -792,8 +778,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - no (1)
 
-#### Speaking at a special occasion
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-at-a-special-occasion?u=76281980)
+#### [Speaking at a special occasion](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-at-a-special-occasion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,7 +836,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-at-a-special-occasion?u=76281980&t=152)** And then I repeat and ask the people to clap twice.
 >
-> **[2:36](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-at-a-special-occasion?u=76281980&t=156)** And once the people around you join in, the rest of the room will quickly quiet down to see, why are people clapping?
+> **[2:36](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-at-a-special-occasion?u=76281980&t=156)** And once the people around you join in, the [[Representational State Transfer (REST)|rest]] of the room will quickly quiet down to see, why are people clapping?
 >
 > **[2:44](https://www.linkedin.com/learning/writing-and-delivering-speeches/speaking-at-a-special-occasion?u=76281980&t=164)** Two, speak from your heart. Deliver with passion and energy.
 >
@@ -894,8 +879,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - whether (1)
 
-#### Accepting an award
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/accepting-an-award?u=76281980)
+#### [Accepting an award](https://www.linkedin.com/learning/writing-and-delivering-speeches/accepting-an-award?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,8 +958,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)
 
-#### Preparing an impromptu speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/preparing-an-impromptu-speech?u=76281980)
+#### [Preparing an impromptu speech](https://www.linkedin.com/learning/writing-and-delivering-speeches/preparing-an-impromptu-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1042,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** prep (2), scr (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), stands for (1)
@@ -1070,8 +1052,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deliver with confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980)
+#### [Deliver with confidence](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1104,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980&t=138)** Thanks for joining me for this short course.
 >
-> **[2:20](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980&t=140)** If you want more tips on public speaking, check out my other courses in the LinkedIn Learning library.
+> **[2:20](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980&t=140)** If you want more tips on public speaking, check out my other courses in the [[LinkedIn]] Learning library.
 >
 > **[2:25](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980&t=145)** Know that you are ready for this speech and you're the person delivering it for a reason.
 >

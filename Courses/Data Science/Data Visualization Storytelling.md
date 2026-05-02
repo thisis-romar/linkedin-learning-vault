@@ -87,16 +87,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The art of storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980)
+#### [The art of storytelling](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980&t=0)** - Storytelling is an overused term, but it's so deeply ingrained in our psyches and even our biology that if you're communicating anything to anyone, you should try to do so using a story.
+> **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980&t=0)** - [[Storytelling]] is an overused term, but it's so deeply ingrained in our psyches and even our biology that if you're communicating anything to anyone, you should try to do so using a story.
 >
 > **[0:12](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980&t=12)** Now, storytelling with data isn't the same as fictional storytelling, of course, but in this course, we'll talk about how to use storytelling's key components, methods and structures most effectively for data communications.
 >
-> **[0:26](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980&t=26)** We'll also talk briefly about finding stories in your data and look at some great examples of data storytelling and discuss what makes those data stories great.
+> **[0:26](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980&t=26)** We'll also talk briefly about finding stories in your data and look at some great examples of [[Data Storytelling]] and discuss what makes those data stories great.
 >
 > **[0:35](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980&t=35)** Finally, we'll examine some other important attributes of data stories beyond the structure, important details, like labeling and the use of animation and visual style.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Storytelling]] (4), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (4), [[Data Storytelling]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - storytelling (1)
@@ -118,14 +117,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Humans are wired for story
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980)
+#### [Humans are wired for story](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=0)** - [Instructor] Every marketer, politician and fundraiser is being told to be a storyteller.
 >
-> **[0:05](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=5)** Is storytelling just the hot new thing?
+> **[0:05](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=5)** Is [[Storytelling]] just the hot new thing?
 >
 > **[0:08](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=8)** Absolutely not.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=148)** She says essentially the same thing as Michael Austin.
 >
-> **[2:32](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=152)** Both of them are talking about fictional storytelling, whereas we're focused on journalistic or documentary storytelling, when we talk about data storytelling.
+> **[2:32](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=152)** Both of them are talking about fictional storytelling, whereas we're focused on journalistic or documentary storytelling, when we talk about [[Data Storytelling]].
 >
 > **[2:42](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980&t=162)** Going back in time, thinking about the evolutionary imperative, many early stories were documentaries not fiction.
 >
@@ -199,13 +197,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (6), data (4), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (6), [[Data Storytelling]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data storytelling is essential, except when it isn't
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980)
+#### [Data storytelling is essential, except when it isn't](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=42)** Yeah, but you probably have to explain what's going on to that other person.
 >
-> **[0:47](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=47)** Also, there was a survey of about 400 recruiters of college graduates studying business intelligence and analytics that found that the highest ranked of all desired skills was communication.
+> **[0:47](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=47)** Also, there was a survey of about 400 recruiters of college graduates studying [[Business Intelligence (BI)|business intelligence]] and analytics that found that the highest ranked of all desired skills was communication.
 >
 > **[1:00](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=60)** So, if you're looking to be hired, the best thing you can do, literally number one, is to be a good communicator.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=75)** Jennifer Aaker is a marketing professor at Stanford who says, "Stories are up to 22 times as memorable as facts alone."
 >
-> **[1:23](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=83)** She also refers to a study of charity fundraising that used one brochure with a bunch of statistics and another that had stats and a story.
+> **[1:23](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=83)** She also refers to a study of charity fundraising that used one brochure with a bunch of [[Statistics]] and another that had stats and a story.
 >
 > **[1:33](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=93)** Guess which one raised twice as much money?
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=227)** Now, all that being said, you don't always have to tell stories.
 >
-> **[3:52](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=232)** There was a great paper that came out of Stanford a few years ago titled "Narrative Visualization, Telling Stories with Data," that talked about author-driven data storytelling versus reader driven data storytelling.
+> **[3:52](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=232)** There was a great paper that came out of Stanford a few years ago titled "Narrative Visualization, Telling Stories with Data," that talked about author-driven [[Data Storytelling]] versus reader driven data storytelling.
 >
 > **[4:05](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=245)** As the paper says, "A purely author-driven approach has a strict linear path through the visualization, relies heavily on messaging and includes no interactivity.
 >
@@ -285,7 +282,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=266)** I would argue that purely reader-driven visualizations are not data stories at all.
 >
-> **[4:32](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=272)** They're dashboards.
+> **[4:32](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=272)** They're [[Dashboards]].
 >
 > **[4:33](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=273)** They're great for when you're sharing data with experts or people who need to explore the data directly.
 >
@@ -295,7 +292,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=285)** So, if this is your case, then perhaps you don't really need data storytelling, but, and this is important, you need to seriously think about if that's realistically your universe.
 >
-> **[4:56](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=296)** Even A CEO dashboard often needs more storytelling than even the CEO herself would admit.
+> **[4:56](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=296)** Even A CEO dashboard often needs more [[Storytelling]] than even the CEO herself would admit.
 >
 > **[5:03](https://www.linkedin.com/learning/data-visualization-storytelling/data-storytelling-is-essential-except-when-it-isn-t?u=76281980&t=303)** When in doubt, tells stories.
 >
@@ -305,18 +302,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (5), [[Data Storytelling]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Data Storytelling]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Dashboards]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (1), refers to (1), in other words (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Using story even when you don't
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/using-story-even-when-you-don-t?u=76281980)
+#### [Using story even when you don't](https://www.linkedin.com/learning/data-visualization-storytelling/using-story-even-when-you-don-t?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/using-story-even-when-you-don-t?u=76281980&t=0)** - [Instructor] When you create a simple annotated chart or a PowerPoint slide or a one-panel infographic, even though you may not be in full-on storytelling mode, you should still think about the story's structure when designing and creating that content.
+> **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/using-story-even-when-you-don-t?u=76281980&t=0)** - [Instructor] When you create a simple annotated chart or a [[Microsoft PowerPoint|PowerPoint]] slide or a one-panel infographic, even though you may not be in full-on [[Storytelling]] mode, you should still think about the story's structure when designing and creating that content.
 >
 > **[0:14](https://www.linkedin.com/learning/data-visualization-storytelling/using-story-even-when-you-don-t?u=76281980&t=14)** As I've said before, humans are wired for story and have certain expectations about what stories look like and how they're structured.
 >
@@ -374,8 +370,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The KWYs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980)
+#### [The KWYs](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980&t=72)** You can't communicate with anyone unless you understand them: what they already know or don't know about the subject matter at hand, what level of detail they need, how much time they have, what medium they prefer.
 >
-> **[1:26](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980&t=86)** And the key word there is need.
+> **[1:26](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980&t=86)** And the key [[Microsoft Word|word]] there is need.
 >
 > **[1:29](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980&t=89)** It's what your audience needs to hear, not what they want to hear.
 >
@@ -477,15 +472,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** kwyrwts (2), nasa (1), yolo (1), kwydis (1), kwyanth (1)
 > **Definitions:** stands for (2), is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [presenter] (1)
 
-#### Story components
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980)
+#### [Story components](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +499,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=62)** The reason stories have a beginning, middle, and end is because humans literally can't do two things at once, we've all heard the studies at this point that prove that we can't multitask.
 >
-> **[1:14](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=74)** And for thousands of years, storytelling was purely an oral tradition.
+> **[1:14](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=74)** And for thousands of years, [[Storytelling]] was purely an oral tradition.
 >
 > **[1:20](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=80)** Then came drawings on cave walls.
 >
@@ -531,7 +525,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=151)** Sometimes the plot unravels in reverse, like the movie "Memento".
 >
-> **[2:36](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=156)** Or in infographics where the elements of the story might be there, but the audience may not read it in order.
+> **[2:36](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=156)** Or in [[Infographics]] where the elements of the story might be there, but the audience may not read it in order.
 >
 > **[2:42](https://www.linkedin.com/learning/data-visualization-storytelling/story-components?u=76281980&t=162)** You may not even design it in order.
 >
@@ -541,13 +535,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (3), data (2), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[Infographics]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Finding the story in your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980)
+#### [Finding the story in your data](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=94)** I have eye color.
 >
-> **[1:35](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=95)** And by the way if you add a filter to your Excel file, if you're working in Excel.
+> **[1:35](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=95)** And by the way if you add a filter to your [[Microsoft Excel|Excel]] file, if you're working in Excel.
 >
 > **[1:41](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=101)** It's a great way to very quickly see by clicking on the little arrow, how many unique values you have for each of the fields.
 >
@@ -643,9 +636,9 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=160)** But then what I wanted to do is I really wanted to sort of start to look at aggregating and filtering out these data points.
 >
-> **[2:48](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=168)** And I created a whole bunch of pivot tables.
+> **[2:48](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=168)** And I created a whole bunch of [[Pivot Tables]].
 >
-> **[2:50](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=170)** And so let me just zoom in on this a little bit so you can see what's going on here.
+> **[2:50](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=170)** And so let me just [[Zoom]] in on this a little bit so you can see what's going on here.
 >
 > **[2:55](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=175)** And sometimes I even wrote out what my questions are.
 >
@@ -777,9 +770,9 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=416)** The variance of X and Y.
 >
-> **[6:58](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=418)** And the correlation and even the linear regression line.
+> **[6:58](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=418)** And the correlation and even the [[Linear Regression]] line.
 >
-> **[7:02](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=422)** So, you know, when you glance at the table of values, or when you do statistical analysis, these look like just very close to identical data sets.
+> **[7:02](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=422)** So, you know, when you glance at the table of values, or when you do [[Statistical Analysis]], these look like just very close to identical data sets.
 >
 > **[7:12](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=432)** But as soon as you visualize them and you make actual scatter plots of the data, you immediately see that these are wildly different datasets.
 >
@@ -819,7 +812,7 @@ created: 2026-05-02
 >
 > **[8:38](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=518)** I'm not here to teach data analytics.
 >
-> **[8:40](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=520)** But it's worth noting, I'm not doing any sophisticated math or statistics here, right?
+> **[8:40](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=520)** But it's worth noting, I'm not doing any sophisticated math or [[Statistics]] here, right?
 >
 > **[8:47](https://www.linkedin.com/learning/data-visualization-storytelling/finding-the-story-in-your-data?u=76281980&t=527)** If you need to dig deeper into the data, than you have the chops to do so, get some help.
 >
@@ -853,14 +846,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1), [[Zoom]] (1), [[Linear Regression]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Outlining your story
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980)
+#### [Outlining your story](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=37)** And then what after that?
 >
-> **[0:39](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=39)** I always create a series of rectangles on a whiteboard, or using sticky notes or index cards, and each panel gets a one or two-word abbreviation for each story segment.
+> **[0:39](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=39)** I always create a series of rectangles on a whiteboard, or using sticky notes or index cards, and each panel gets a one or two-[[Microsoft Word|word]] abbreviation for each story segment.
 >
 > **[0:50](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=50)** Each of these is a section, or what I often call it a bucket of content.
 >
@@ -950,20 +942,19 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=211)** So make it flow.
 >
-> **[3:33](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=213)** Try to trigger some emotion, sure, using humor or surprise or other tactics, and the rest of it will work out.
+> **[3:33](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=213)** Try to trigger some emotion, sure, using humor or surprise or other tactics, and the [[Representational State Transfer (REST)|rest]] of it will work out.
 >
 > **[3:41](https://www.linkedin.com/learning/data-visualization-storytelling/outlining-your-story?u=76281980&t=221)** Once you think you have the 30,000 foot view down, you can then expand to include more details and nuance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [bill] (1)
 
-#### Use your words
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/use-your-words?u=76281980)
+#### [Use your words](https://www.linkedin.com/learning/data-visualization-storytelling/use-your-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,7 +964,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-visualization-storytelling/use-your-words?u=76281980&t=20)** This is a really simple but extremely powerful idea.
 >
-> **[0:24](https://www.linkedin.com/learning/data-visualization-storytelling/use-your-words?u=76281980&t=24)** You have your buckets of content with one or two word summaries, but what do they really mean?
+> **[0:24](https://www.linkedin.com/learning/data-visualization-storytelling/use-your-words?u=76281980&t=24)** You have your buckets of content with one or two [[Microsoft Word|word]] summaries, but what do they really mean?
 >
 > **[0:30](https://www.linkedin.com/learning/data-visualization-storytelling/use-your-words?u=76281980&t=30)** What are you actually going to include in your story?
 >
@@ -1039,20 +1030,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (1), think of it as (1), for example (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sketching ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/sketching-ideas?u=76281980)
+#### [Sketching ideas](https://www.linkedin.com/learning/data-visualization-storytelling/sketching-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/sketching-ideas?u=76281980&t=0)** - [Instructor] Okay, you're narrowing in on your story now, it's time to really sit down and get to the details.
 >
-> **[0:06](https://www.linkedin.com/learning/data-visualization-storytelling/sketching-ideas?u=76281980&t=6)** This step is all about sketching out your ideas before you try to really create visualizations or design an actual presentation or report.
+> **[0:06](https://www.linkedin.com/learning/data-visualization-storytelling/sketching-ideas?u=76281980&t=6)** This step is all about [[Sketching]] out your ideas before you try to really create visualizations or design an actual presentation or report.
 >
 > **[0:15](https://www.linkedin.com/learning/data-visualization-storytelling/sketching-ideas?u=76281980&t=15)** There are really just a few goals here, you want to vet and test the ideas that you've come up with so far, you want to confirm your story structure and data points, will communicate your data in the best way possible, and you want to do this very quickly.
 >
@@ -1100,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (5), data (3), hit (1), feature (1)
+> **Frameworks & Libraries:** [[Sketching]] (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1109,8 +1099,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980)
+#### [Change over time](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,20 +1143,19 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980&t=137)** So data stories themselves are also often about that.
 >
-> **[2:21](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980&t=141)** This is a go-to mechanism for data storytelling.
+> **[2:21](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980&t=141)** This is a go-to mechanism for [[Data Storytelling]].
 >
 > **[2:24](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980&t=144)** Of course, you don't always have data about things changing over time, which would clearly push you to one of the other story mechanisms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), hit (1), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (2), - [duncan] (1)
 > **CLI Commands:** find (1)
 > **Non-Speech:** (dramatic music) (1)
 
-#### Linear logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/linear-logic?u=76281980)
+#### [Linear logic](https://www.linkedin.com/learning/data-visualization-storytelling/linear-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,21 +1199,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** such as (2), for instance (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flow diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980)
+#### [Flow diagrams](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980&t=0)** - [Instructor] Flow diagrams have been used for a very long time to visualize things like org charts, database diagrams, and business processes.
 >
-> **[0:08](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980&t=8)** They are such mainstays in business communications that they've become the platform for an entire category of memes.
+> **[0:08](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980&t=8)** They are such mainstays in [[Business Communications]] that they've become the platform for an entire category of memes.
 >
-> **[0:15](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980&t=15)** Whether self-referential flow charts like this one, or flows that help with the decision-making.
+> **[0:15](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980&t=15)** Whether self-referential flow charts like this one, or flows that help with the [[Decision-Making]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-visualization-storytelling/flow-diagrams?u=76281980&t=21)** Flows can depict many concepts.
 >
@@ -1307,15 +1293,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), business (1), [[Business Communications]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Business Communications]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compare and contrast
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980)
+#### [Compare and contrast](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1326,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=79)** In documentary and journalistic stories, we're often confronted with comparisons and contrasts because the story's about something that hasn't happened yet or is happening, and we have to make a choice to change the outcome.
 >
-> **[1:32](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=92)** In "An Inconvenient Truth," Al Gore spends a lot of time explaining the data about climate change, essentially making comparisons between where the world is headed now and where it could go if we make certain changes to how we operate as a species.
+> **[1:32](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=92)** In "An Inconvenient Truth," Al Gore spends a lot of time explaining the data about [[Climate Change]], essentially making comparisons between where the world is headed now and where it could go if we make certain changes to how we operate as a species.
 >
 > **[1:50](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=110)** Data itself is often about contrasts, comparing different datasets to each other or comparing different variables within the data.
 >
@@ -1363,7 +1348,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=169)** One of my favorite recent projects in this light is "Why do cats and dogs ...?" by Nadieh Bremer.
 >
-> **[2:56](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=176)** This project is a review of what people search for on Google when they start a sentence like, "Why does my dog ...?" or, "Why does my cat ...?"
+> **[2:56](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=176)** This project is a review of what people search for on [[Google]] when they start a sentence like, "Why does my dog ...?" or, "Why does my cat ...?"
 >
 > **[3:07](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=187)** So, if we click into dogs first, we can see how the story flows.
 >
@@ -1407,7 +1392,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=329)** Comparing and contrasting is a very common data story mechanism, and there are many ways to look at comparisons, from how broadly or closely you compare things to what perspective you take to slice into the data.
 >
-> **[5:41](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=341)** Focus on the story you want to expose with your data and the comparisons and storytelling around them will hopefully become clear quickly.
+> **[5:41](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=341)** Focus on the story you want to expose with your data and the comparisons and [[Storytelling]] around them will hopefully become clear quickly.
 >
 > **[5:50](https://www.linkedin.com/learning/data-visualization-storytelling/compare-and-contrast?u=76281980&t=350)** Be sure to understand that even when you're not intending to focus exclusively on comparisons, your audience might go there anyway, so be conscious about how your data ends up being comparable to other things and what story you might be telling, even unintentionally.
 >
@@ -1421,14 +1406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Search]] (5), [[Climate Change]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[Google]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (6), cat (3)
 > **Analogies:** for instance (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Progressive depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/progressive-depth?u=76281980)
+#### [Progressive depth](https://www.linkedin.com/learning/data-visualization-storytelling/progressive-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-visualization-storytelling/progressive-depth?u=76281980&t=113)** This model is really the best way to provide any type of content to any audience to attract the right audience to the right content at the right time.
 >
-> **[2:03](https://www.linkedin.com/learning/data-visualization-storytelling/progressive-depth?u=76281980&t=123)** In data storytelling, you can create data stories that offer what I call progressive depth.
+> **[2:03](https://www.linkedin.com/learning/data-visualization-storytelling/progressive-depth?u=76281980&t=123)** In [[Data Storytelling]], you can create data stories that offer what I call progressive depth.
 >
 > **[2:08](https://www.linkedin.com/learning/data-visualization-storytelling/progressive-depth?u=76281980&t=128)** You start off with a very high level water cooler moment and then offer deeper levels of content for those who choose to experience it.
 >
@@ -1538,15 +1522,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Data Storytelling]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for instance (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Personalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980)
+#### [Personalization](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,7 +1537,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=2)** You're somewhat of a narcissist because everyone's interested in things that are about themselves and the things that they care about.
 >
-> **[0:10](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=10)** Storytelling by its very nature is an act of narcissism, not only on the part of the storyteller but on the part of the listener.
+> **[0:10](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=10)** [[Storytelling]] by its very nature is an act of narcissism, not only on the part of the storyteller but on the part of the listener.
 >
 > **[0:18](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=18)** If you believe what I was saying earlier about how stories are an evolutionary advantage because they help the listener learn how to solve problems, resolve anxiety, learn skills that will help him or her survive then that's very clearly a narcissistic thing.
 >
@@ -1562,7 +1545,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=42)** So I think it's very powerful to think of storytelling in this context to try to create stories consciously that connect directly to your audience and their need to understand certain things about themselves.
 >
-> **[0:56](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=56)** One of the great examples of personal data storytelling is from Nicholas Felton.
+> **[0:56](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=56)** One of the great examples of personal [[Data Storytelling]] is from Nicholas Felton.
 >
 > **[1:00](https://www.linkedin.com/learning/data-visualization-storytelling/personalization?u=76281980&t=60)** He created a series of annual reports tracking a few metrics from his own life over 10 years.
 >
@@ -1616,25 +1599,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Storytelling]] (2), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Data Storytelling]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mbta (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980)
+#### [Text](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=0)** - [Instructor] I'm a data visualization guy.
 >
-> **[0:02](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=2)** As I've argued in my other LinkedIn learning courses, you have to visualize data to maximize your influence on almost any audience.
+> **[0:02](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=2)** As I've argued in my other [[LinkedIn]] learning courses, you have to visualize data to maximize your influence on almost any audience.
 >
 > **[0:10](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=10)** We're much better at seeing patterns and outliers and trends in data when it's visual than when it's a bunch of numbers on a page or a screen.
 >
-> **[0:20](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=20)** Even so, I'd be remiss if I didn't make the point that data storytelling can be done without lots of visuals and interactivity.
+> **[0:20](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=20)** Even so, I'd be remiss if I didn't make the point that [[Data Storytelling]] can be done without lots of visuals and interactivity.
 >
 > **[0:29](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=29)** There are tons of sources for great text driven data stories.
 >
@@ -1674,7 +1656,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=133)** It's a very clear data story that really makes a logical progression of our arguments in text with yes, supplemental charts, which brings us to the conclusion.
 >
-> **[2:24](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=144)** Urban Institute is a think tank, so of course they're recommending policies, but the storytelling is really compelling and powerful on its own.
+> **[2:24](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=144)** Urban Institute is a think tank, so of course they're recommending policies, but the [[Storytelling]] is really compelling and powerful on its own.
 >
 > **[2:32](https://www.linkedin.com/learning/data-visualization-storytelling/text?u=76281980&t=152)** Check it out, read the text, and you'll see what I'm saying.
 >
@@ -1692,7 +1674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Data Storytelling]] (3), [[LinkedIn]] (1), [[Storytelling]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (3), [[LinkedIn]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -1703,8 +1685,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Labeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980)
+#### [Labeling](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,7 +1719,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=68)** But the point for this course is that when you're trying to tell a concise and focused story, and really move people along a narrative, your labels can not only serve the usual purpose, of bringing clarity and context to your data, but they can also help tell the story for you.
 >
-> **[1:24](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=84)** Guiding users along a storytelling path.
+> **[1:24](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=84)** Guiding users along a [[Storytelling]] path.
 >
 > **[1:28](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=88)** This is a great example, visualizing MBTA data, looking at Boston's subway system data.
 >
@@ -1790,7 +1771,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=213)** It's very nicely done, really across the board.
 >
-> **[3:36](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=216)** It's an incredibly large complex project, but these use of inline labeling and storytelling labeling, all the rest of it, is used throughout to really help bring the story home.
+> **[3:36](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=216)** It's an incredibly large complex project, but these use of inline labeling and storytelling labeling, all the [[Representational State Transfer (REST)|rest]] of it, is used throughout to really help bring the story home.
 >
 > **[3:48](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980&t=228)** Good labeling, can explain your data, highlight what's important, and tell your story.
 >
@@ -1800,7 +1781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Storytelling]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :52 (1), :53 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1808,8 +1789,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eye candy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/eye-candy?u=76281980)
+#### [Eye candy](https://www.linkedin.com/learning/data-visualization-storytelling/eye-candy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1897,18 +1877,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), functional (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repetition and redundancy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980)
+#### [Repetition and redundancy](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=0)** - [Presenter] Repetition and redundancy are a compelling tool in data storytelling.
+> **[0:00](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=0)** - [Presenter] Repetition and redundancy are a compelling tool in [[Data Storytelling]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=4)** Recent research has found that we can achieve measurable increases in memorability of data visualizations with certain types of repetition and redundancy.
 >
@@ -1938,7 +1916,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=93)** When you're reading a news article, you're processing text, which really only happens one way.
 >
-> **[1:39](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=99)** You read a word at a time, and you probably hear the sounds of the words in your head.
+> **[1:39](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=99)** You read a [[Microsoft Word|word]] at a time, and you probably hear the sounds of the words in your head.
 >
 > **[1:43](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=103)** They combine to form sentences, which become paragraphs, you know what I'm saying.
 >
@@ -1954,7 +1932,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=128)** But when it comes to learning a user interface like the dashboard of a car, as an example, we have to learn what the different components are, how to read them, what it means when the gauge is high or low, or to the left or to the right, what does that light mean, et cetera.
 >
-> **[2:24](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=144)** When you're telling stories with data using visual forms, you have to keep this in mind, as natural as storytelling and story hearing are, you have to always remember that visual story reading is not always an intuitive experience.
+> **[2:24](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=144)** When you're telling stories with data using visual [[Forms]], you have to keep this in mind, as natural as [[Storytelling]] and story hearing are, you have to always remember that visual story reading is not always an intuitive experience.
 >
 > **[2:39](https://www.linkedin.com/learning/data-visualization-storytelling/repetition-and-redundancy?u=76281980&t=159)** You should strive to create visuals that are as intuitive as possible, but always recognize that depending on how complex a story you're telling, how new and different your visualization will be and how sophisticated your audience is, you'll likely be teaching your audience how to read your data story.
 >
@@ -1974,13 +1952,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Forms]] (2), [[Data Storytelling]] (1), [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Data Storytelling]] (1), [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
 
-#### Relatability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/relatability?u=76281980)
+#### [Relatability](https://www.linkedin.com/learning/data-visualization-storytelling/relatability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2044,7 +2021,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-visualization-storytelling/relatability?u=76281980&t=124)** Very funny stuff, if you're into that kind of thing.
 >
-> **[2:06](https://www.linkedin.com/learning/data-visualization-storytelling/relatability?u=76281980&t=126)** And he also creates these infographics, and one of his most famous examples is this one investigating money.
+> **[2:06](https://www.linkedin.com/learning/data-visualization-storytelling/relatability?u=76281980&t=126)** And he also creates these [[Infographics]], and one of his most famous examples is this one investigating money.
 >
 > **[2:14](https://www.linkedin.com/learning/data-visualization-storytelling/relatability?u=76281980&t=134)** So the idea here is we're exploring dollars, and you'll see how that sort of expands over time.
 >
@@ -2082,7 +2059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (1), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** xkcd (1), ceo (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -2091,8 +2068,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Don't be afraid of complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/don-t-be-afraid-of-complexity?u=76281980)
+#### [Don't be afraid of complexity](https://www.linkedin.com/learning/data-visualization-storytelling/don-t-be-afraid-of-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2170,7 +2146,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), in other words (1)
 > **UI Navigation:** scroll down (1)
@@ -2182,8 +2157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,17 +2165,17 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=7)** And data stories are extra compelling because they marry the evolutionary imperative of stories with the important, fact-driven element that we need to make great decisions.
 >
-> **[0:18](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=18)** I hope you've enjoyed this course and that I've given you a lot to think about for your next data storytelling project.
+> **[0:18](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=18)** I hope you've enjoyed this course and that I've given you a lot to think about for your next [[Data Storytelling]] project.
 >
 > **[0:23](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=23)** You should constantly monitor media properties like "The New York Times," Reuters, ProPublica, "South China Morning Post," "Der Spiegel" and more, who are doing among the best work telling data stories out there.
 >
 > **[0:36](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=36)** You'll find constant inspiration in these publications and many more.
 >
-> **[0:41](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=41)** While you're at it, follow me here on LinkedIn and check out my other LinkedIn Learning courses for a lot more about data storytelling, data visualization, and more data, design, and communications content.
+> **[0:41](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980&t=41)** While you're at it, follow me here on [[LinkedIn]] and check out my other LinkedIn Learning courses for a lot more about data storytelling, data visualization, and more data, design, and communications content.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Data Storytelling]] (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [bill] (1)
 

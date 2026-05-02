@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training the eye for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/training-the-eye-for-ai?u=76281980)
+#### [Training the eye for AI](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/training-the-eye-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,11 +94,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3)
 > **Definitions:** is called (1)
 
-#### How AI works
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980)
+#### [How AI works](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,35 +108,35 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=15)** Take a moment to read the options on screen.
 >
-> **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=22)** AI's effectiveness comes from the interaction of data, machine learning or ML, and Natural Language Processing, or NLP, where ML models learn patterns from data, and NLP enables the system to understand and generate human language.
+> **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=22)** AI's effectiveness comes from the interaction of data, machine learning or ML, and [[Natural Language Processing (NLP)|Natural Language Processing]], or NLP, where ML models learn patterns from data, and NLP enables the system to understand and generate human language.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=38)** Keep this idea in mind as we break down each of these components.
 >
-> **[0:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=42)** Artificial Intelligence, AI, is the design and study of machines that can perform tasks that normally require human brainpower, such as reasoning, pattern recognition, learning from from mistakes, communication, and problem solving.
+> **[0:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=42)** [[Artificial Intelligence (AI)|Artificial Intelligence]], AI, is the design and study of machines that can perform tasks that normally require human brainpower, such as reasoning, pattern recognition, learning from from mistakes, communication, and problem solving.
 >
 > **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=57)** Even though AI capabilities can mimic human intelligence, it does not diminish the need for critical thinking and human oversight across its application.
 >
-> **[1:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=67)** Machine learning, or ML, is a branch of AI involving computer algorithms that can learn by recognizing patterns in data and use those patterns to make future predictions or provide other useful outputs.
+> **[1:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=67)** Machine learning, or ML, is a branch of AI involving computer [[Algorithms]] that can learn by recognizing patterns in data and use those patterns to make future predictions or provide other useful outputs.
 >
-> **[1:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=81)** This learning can take different forms, including supervised learning with labeled data, unsupervised learning that identifies patterns without labels, and reinforcement learning, which improves performance through rewards.
+> **[1:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=81)** This learning can take different [[Forms]], including [[Supervised Learning]] with labeled data, unsupervised learning that identifies patterns without labels, and [[Reinforcement Learning]], which improves performance through rewards.
 >
 > **[1:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=94)** Natural Language Processing, or NLP, is an AI capability that enables computers to understand, interpret, translate, and generate human language.
 >
-> **[1:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=105)** Some AI systems rely on a more advanced form of machine learning, known as deep learning, or DL, a subset of machine learning that uses artificial neural networks, or ANN, to learn complex patterns in data, enabling systems to make predictions or decisions from large volumes of unstructured and unlabeled data.
+> **[1:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=105)** Some AI systems rely on a more advanced form of machine learning, known as [[Deep Learning]], or DL, a subset of machine learning that uses [[Artificial Neural Networks]], or ANN, to learn complex patterns in data, enabling systems to make predictions or decisions from large volumes of unstructured and unlabeled data.
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=126)** ANN are computing systems inspired by the human brain, consisting of interconnected layers of artificial neurons, and can be trained to match inputs to outputs by adjusting parameters within the network.
 >
-> **[2:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=138)** Large language models, or LLMs, are a subset of generative AI, GenAI, focused specifically on understanding and generating human language, text.
+> **[2:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=138)** [[Large Language Models (LLM)|Large language models]], or LLMs, are a subset of [[Generative AI]], GenAI, focused specifically on understanding and generating human language, text.
 >
-> **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=149)** Some common LLMs include ChatGPT, Copilot, and Gemini.
+> **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=149)** Some common LLMs include [[ChatGPT]], [[Microsoft Copilot|Copilot]], and [[Gemini]].
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=155)** To interact with GenAI, people use an interface called prompts.
 >
-> **[2:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=158)** The way you enter, structure, and refine your prompt, often called prompt engineering, helps users clearly communicate their intent and shape the quality of AI outputs.
+> **[2:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=158)** The way you enter, structure, and refine your prompt, often called [[Prompt Engineering]], helps users clearly communicate their intent and shape the quality of AI outputs.
 >
 > **[2:49](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=169)** One way to improve the accuracy and reliability of your prompt is through Retrieval Augmented Generation, or RAG.
 >
-> **[2:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=177)** This combines retrieval of relevant information from trusted data sources, such as documents, databases or knowledge repositories, and uses that information in response generation, resulting in higher quality outputs.
+> **[2:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=177)** This combines retrieval of relevant information from trusted data sources, such as documents, [[Databases]] or knowledge repositories, and uses that information in response generation, resulting in higher quality outputs.
 >
 > **[3:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=192)** At its core, AI functions through the combined power of ML, NLP, and data.
 >
@@ -153,18 +150,17 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=214)** Together, this interconnected ecosystem allows AI to support nonprofits across multiple workstreams.
 >
-> **[3:40](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=220)** From data analysis and trend forecasting to report drafting and content creation, allowing professionals to free up time to focus on more strategic tasks.
+> **[3:40](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-ai-works?u=76281980&t=220)** From data analysis and trend [[Forecasting]] to report drafting and [[Content Creation]], allowing professionals to free up time to focus on more strategic tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (11), nlp (5), prompt (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Forms]] (1), [[Supervised Learning]] (1)
 > **Env Vars:** nlp (5), ann (2), rag (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 
-#### Recent innovations in GenAI and agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980)
+#### [Recent innovations in GenAI and agentic AI](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,19 +168,19 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=12)** Before we explore this in detail, let's start with a quick question.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=16)** How is generative AI, Gen.
+> **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=16)** How is [[Generative AI]], Gen.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=17)** AI, different from traditional AI?
+> **[0:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=17)** AI, different from [[Traditional AI]]?
 >
 > **[0:20](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=20)** Take a moment to read the options on screen.
 >
-> **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=25)** AI's effectiveness comes from the interaction of data, machine learning, or ML, and natural language processing, or NLP, where ML models learn patterns from data, and NLP enables the system to understand and generate human language.
+> **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=25)** AI's effectiveness comes from the interaction of data, machine learning, or ML, and [[Natural Language Processing (NLP)|natural language processing]], or NLP, where ML models learn patterns from data, and NLP enables the system to understand and generate human language.
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=42)** Keep this idea in mind as we explore how AI has evolved.
 >
 > **[0:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=46)** The field of AI has rapidly evolved since the launch of its initial capabilities in automating routine tasks.
 >
-> **[0:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=53)** The advent of neural networks and deep learning led to the development of generative AI, or Gen.
+> **[0:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=53)** The advent of [[Neural Networks]] and [[Deep Learning]] led to the development of generative AI, or Gen.
 >
 > **[0:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=58)** AI.
 >
@@ -194,11 +190,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=75)** AI has evolved from analytical, task-specific optimization to more novel, adaptive abilities.
 >
-> **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=82)** Conversational AI automates and optimizes specific tasks.
+> **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=82)** [[Conversational AI]] automates and optimizes specific tasks.
 >
-> **[1:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=86)** Because it relies on ML models with predefined rules and algorithms, it's most widely used in industries for repetitive tasks where efficiency and precision are crucial.
+> **[1:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=86)** Because it relies on ML models with predefined rules and [[Algorithms]], it's most widely used in industries for repetitive tasks where efficiency and precision are crucial.
 >
-> **[1:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=95)** Predictive AI can analyze past behaviors, detect patterns, and forecast outcomes.
+> **[1:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=95)** [[Predictive AI]] can analyze past behaviors, detect patterns, and forecast outcomes.
 >
 > **[1:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=101)** Conversational AI powers tools that facilitate natural language interactions between humans and machines, using ML models and NLP to comprehend natural language and generate human-like responses.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=144)** It is action-oriented rather than output-oriented.
 >
-> **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=149)** When discussing AI and ML, we often hear the term big data.
+> **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=149)** When discussing AI and ML, we often hear the term [[Big Data]].
 >
 > **[2:33](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=153)** This refers to large, complex, and diverse data sets often characterized by the three Vs, volume, variety, and velocity.
 >
@@ -236,23 +232,22 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=202)** This includes models such as generative pre-trained transformers, GPTs, which generate human-like text based on a given prompt.
 >
-> **[3:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=210)** GPTs can predict the next word in a sentence based on its extensive training on diverse text data.
+> **[3:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=210)** GPTs can predict the next [[Microsoft Word|word]] in a sentence based on its extensive training on diverse text data.
 >
 > **[3:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=216)** In the visual domain, visual generative models enable GenAI to create realistic images and videos, generate artwork, and enhance photos.
 >
-> **[3:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=225)** These systems rely on on vision-based neural networks and diffusion models, such as generative adversarial networks, or GANs and GPT, like transformers for understanding and reasoning.
+> **[3:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=225)** These systems rely on on vision-based neural networks and diffusion models, such as [[Generative Adversarial Networks (GANs)|generative adversarial networks]], or GANs and GPT, like transformers for understanding and reasoning.
 >
 > **[3:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/recent-innovations-in-genai-and-agentic-ai?u=76281980&t=237)** GenAI's ability to create and reduce repetition in generated content opens up numerous opportunities to support the nonprofit sector in optimizing resources, with visible time and cost savings in processes such as creating communications materials or documents from scratch.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (12), nlp (4), [[Generative AI]] (2), [[Traditional AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Traditional AI]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Conversational AI]] (2)
 > **Env Vars:** nlp (4), gpt (1)
 > **Definitions:** refers to (4), is a  (1)
 > **Analogies:** such as (3)
 
-#### Reducing ethical concerns around AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980)
+#### [Reducing ethical concerns around AI](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,27 +255,27 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=6)** Before we explore this in detail, let's start with a quick question.
 >
-> **[0:11](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=11)** Which statement best reflects the core responsibility of nonprofits when adopting artificial intelligence or AI technologies?
+> **[0:11](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=11)** Which statement best reflects the core responsibility of nonprofits when adopting [[Artificial Intelligence (AI)|artificial intelligence]] or AI technologies?
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=18)** Take a moment to read the options on screen.
 >
-> **[0:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=24)** Nonprofits must use AI in ways that improve impact while protecting human rights, rights, ensuring fairness, safeguarding privacy, maintaining oversight, and minimizing environmental risks.
+> **[0:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=24)** Nonprofits must use AI in ways that improve impact while protecting human rights, rights, ensuring fairness, safeguarding [[Privacy]], maintaining oversight, and minimizing environmental risks.
 >
 > **[0:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=36)** Keep this responsibility in mind as we explore ethical considerations in AI use.
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=43)** AI brings clear opportunities, but also ethical responsibilities that non-profits cannot ignore.
 >
-> **[0:48](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=48)** AI can widen the reach and delivery of services and information through supporting logistical coordination, increasing speed of delivery in emergencies, informing decision-making and improving programmatic outcomes.
+> **[0:48](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=48)** AI can widen the reach and delivery of services and information through supporting logistical coordination, increasing speed of delivery in emergencies, informing [[Decision-Making]] and improving programmatic outcomes.
 >
 > **[1:02](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=62)** At the same time, these opportunities come with important ethical responsibilities.
 >
 > **[1:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=68)** An ethical approach to AI addresses potential biases, ensures transparency, protects privacy, and maintains human oversight with the ultimate goal of preventing unintended harm.
 >
-> **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=82)** As AI evolves rapidly, there may be some gaps in oversight or accountability for AI.
+> **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=82)** As AI evolves rapidly, there may be some gaps in oversight or [[Accountability]] for AI.
 >
-> **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=88)** When we talk about ethics in emerging technologies, we can think about responsible innovation as a transparent, interactive, and sustainable process by which organizations proactively evaluate how they can design and use technology in ways that are aligned with their values and missions.
+> **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=88)** When we talk about [[Ethics]] in emerging technologies, we can think about responsible innovation as a transparent, interactive, and sustainable process by which organizations proactively evaluate how they can design and use technology in ways that are aligned with their values and missions.
 >
-> **[1:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=105)** It is important nonprofits consider ethical concerns that can arise when using AI tools, such as bias and fairness, weaponization of technologies, data privacy and protection, labor rights, and environmental impact.
+> **[1:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=105)** It is important nonprofits consider ethical concerns that can arise when using AI tools, such as bias and fairness, weaponization of technologies, [[Data Privacy]] and protection, labor rights, and environmental impact.
 >
 > **[2:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=120)** One key concern is bias and fairness.
 >
@@ -292,7 +287,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=152)** Data privacy and protection are also critical ethical considerations.
 >
-> **[2:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=156)** While AI can improve efficiency and decision-making, it also introduces data privacy and security concerns, particularly when tools are not carefully assessed for ethical and legal compliance.
+> **[2:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=156)** While AI can improve efficiency and decision-making, it also introduces data privacy and security concerns, particularly when tools are not carefully assessed for ethical and [[Legal Compliance]].
 >
 > **[2:48](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=168)** Risks include infringement on privacy, rights, and values, such as through surveillance.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=235)** How nonprofits can address these issues starts with translating awareness into practical action.
 >
-> **[4:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=240)** For nonprofits, this means AI adoption must be balanced with thoughtful consideration of sustainability, ensuring that new tools do not unintentionally contribute to environmental harm while trying to advance social good.
+> **[4:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=240)** For nonprofits, this means AI adoption must be balanced with thoughtful consideration of [[Sustainability]], ensuring that new tools do not unintentionally contribute to environmental harm while trying to advance social good.
 >
 > **[4:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/reducing-ethical-concerns-around-ai?u=76281980&t=253)** Organizations can prioritize energy-efficient models.
 >
@@ -326,12 +321,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), [[Privacy]] (6), data (6), [[Decision-Making]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Privacy]] (3), [[Decision-Making]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** pii (1)
 
-#### Authenticity and copyright infringement
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/authenticity-and-copyright-infringement?u=76281980)
+#### [Authenticity and copyright infringement](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/authenticity-and-copyright-infringement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/authenticity-and-copyright-infringement?u=76281980&t=165)** It's also important to understand the legal context these safeguards sit within.
 >
-> **[2:50](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/authenticity-and-copyright-infringement?u=76281980&t=170)** In most jurisdictions, copyright law requires human authorship for protection, meaning that content generated solely by AI, without substantial human creative input, may not be eligible for copyright protection at all.
+> **[2:50](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/authenticity-and-copyright-infringement?u=76281980&t=170)** In most jurisdictions, [[Copyright Law]] requires human authorship for protection, meaning that content generated solely by AI, without substantial human creative input, may not be eligible for copyright protection at all.
 >
 > **[3:03](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/authenticity-and-copyright-infringement?u=76281980&t=183)** This creates uncertainty for organizations using AI tools, as the legal ownership and protectability of AI-generated materials remain unsettled.
 >
@@ -415,13 +409,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (2), [[Search]] (2), [[Copyright Law]] (1)
+> **Frameworks & Libraries:** [[Copyright Law]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
 
-#### Accuracy and reliability of AI-generated content
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980)
+#### [Accuracy and reliability of AI-generated content](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=39)** While AI tools can generate content quickly and efficiently, they can still make mistakes.
 >
-> **[0:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=44)** These mistakes can take different forms such as factual errors, outdated information, and are often called hallucinations, confidently stated claims that are entirely fabricated.
+> **[0:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=44)** These mistakes can take different [[Forms]] such as factual errors, outdated information, and are often called hallucinations, confidently stated claims that are entirely fabricated.
 >
 > **[0:56](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=56)** These risks from inaccurate AI-generated content range from unintentionally spreading misinformation that harms vulnerable populations to undermining credibility with donors, partners, and the community served.
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=161)** use of fine-tuning or custom model support, accurate terminology, reliable program information, locally relevant content, sector-specific standards.
 >
-> **[2:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=172)** Prompt engineering means designing prompts that guide the AI toward more accurate responses.
+> **[2:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=172)** [[Prompt Engineering]] means designing prompts that guide the AI toward more accurate responses.
 >
 > **[2:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=177)** Always follow a clear prompt formula and add constraints as necessary.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=228)** Transparency policies on AI should encompass the following.
 >
-> **[3:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=232)** Accountability and human oversight.
+> **[3:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=232)** [[Accountability]] and human oversight.
 >
 > **[3:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=234)** Organizations using AI must ensure that AI systems follow the do no harm principle.
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=250)** AI systems should be understandable to non-technical stakeholders.
 >
-> **[4:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=254)** Clear explanations and documentation of how outputs are generated, support informed use, long-term sustainability, and wider stakeholder engagement.
+> **[4:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=254)** Clear explanations and documentation of how outputs are generated, support informed use, long-term [[Sustainability]], and wider [[Stakeholder Engagement]].
 >
 > **[4:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=264)** Value maintenance and sustainability.
 >
@@ -505,17 +498,17 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=270)** Investing in long-term support, such as open source and public good approaches, helps ensure AI continues to serve diverse groups fairly over time.
 >
-> **[4:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=279)** Governments are developing laws to promote safe, transparent, and responsible AI use.
+> **[4:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=279)** Governments are developing laws to promote safe, transparent, and [[Responsible AI]] use.
 >
 > **[4:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=285)** But regulations vary widely across countries and often lag behind rapid technological change, creating challenges for organizations operating across borders.
 >
 > **[4:55](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=295)** In addition to legislation, bodies such as the UN and OECD have created frameworks and guidance for ethical, responsible, and sustainable AI use.
 >
-> **[5:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=307)** Relevant existing AI legislation, frameworks, and approaches for nonprofits govern ethical AI and human rights, data privacy and protection, security and public safety, copyright and AI-generated content, employment and labor impacts,
+> **[5:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/accuracy-and-reliability-of-ai-generated-content?u=76281980&t=307)** Relevant existing AI legislation, frameworks, and approaches for nonprofits govern ethical AI and human rights, [[Data Privacy]] and protection, security and public safety, copyright and AI-generated content, employment and labor impacts,
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), data (5), [[Forms]] (2), prompt (2), [[Sustainability]] (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Sustainability]] (2), [[Prompt Engineering]] (1), [[Accountability]] (1), [[Stakeholder Engagement]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** rag (1), oecd (1)
 > **Definitions:** is a  (1), known as (1)
@@ -526,8 +519,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supporting people and expanding possibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/supporting-people-expanding-possibilities?u=76281980)
+#### [Supporting people and expanding possibilities](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/supporting-people-expanding-possibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,11 +547,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), teams (1)
 > **CLI Commands:** make (1)
 
-#### How nonprofits are using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980)
+#### [How nonprofits are using AI](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,7 +579,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=112)** In the following slides, we will look at how AI is being applied across key focus areas for non-profits, humanitarian action, development work, advocacy, and conservation.
 >
-> **[2:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=125)** Each of these areas uses AI in different ways to respond to complex challenges, improve decision-making, and strengthen impact.
+> **[2:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=125)** Each of these areas uses AI in different ways to respond to complex challenges, improve [[Decision-Making]], and strengthen impact.
 >
 > **[2:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=134)** Let's look more closely at how AI supports each of these areas in practice.
 >
@@ -601,7 +591,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=166)** AI can also be used to aggregate information from multiple sources to generate situation reports, supporting faster and better informed decisions.
 >
-> **[2:56](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=176)** AI supports development work by providing farmers with real-time recommendations on crop management, pest control and irrigation using weather, soil and market data.
+> **[2:56](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=176)** AI supports development work by providing farmers with [[Real-Time]] recommendations on crop management, pest control and irrigation using weather, soil and market data.
 >
 > **[3:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-nonprofits-are-using-ai?u=76281980&t=186)** It also helps predict food shortages and disease outbreaks, enabling proactive action and better preparedness.
 >
@@ -617,16 +607,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), data (5), [[Real-Time]] (2), teams (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Decision-Making]] (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** make (1)
 
-#### AI adoption in resource-constrained environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980)
+#### [AI adoption in resource-constrained environments](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=0)** This course explores the realities nonprofits face when adopting AI with limited funding, capacity, infrastructure, and technical support.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=0)** This course explores the realities nonprofits face when adopting AI with limited funding, capacity, infrastructure, and [[Technical Support]].
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=10)** Let's start with a quick question.
 >
@@ -640,28 +629,27 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=45)** Psychosocial barriers include fear of job loss, limited confidence or technical skills, mistrust of AI, and concerns about added workload.
 >
-> **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=57)** Social barriers involve bias, data use, and lack of transparency or accountability.
+> **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=57)** Social barriers involve bias, data use, and lack of transparency or [[Accountability]].
 >
 > **[1:02](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=62)** Resource and infrastructure barriers reflect limited budgets and staff capacity.
 >
-> **[1:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=67)** Organizational culture barriers include weak change management and limited leadership adoption.
+> **[1:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=67)** [[Organizational Culture]] barriers include weak change management and limited leadership adoption.
 >
-> **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=73)** Funding and sustainability barriers stem from short-term funding models and lack of resources for long-term learning and maintenance.
+> **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=73)** Funding and [[Sustainability]] barriers stem from short-term funding models and lack of resources for long-term learning and maintenance.
 >
 > **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=82)** Beyond barriers, non-profits must also navigate risks once AI tools are introduced.
 >
-> **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=88)** Cybersecurity risks include data exposure, system vulnerabilities, and targeted attacks, which can discourage experimentation.
+> **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=88)** [[Cybersecurity]] risks include data exposure, system vulnerabilities, and targeted attacks, which can discourage experimentation.
 >
-> **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=97)** Ethical and privacy risks increase when working with sensitive community data.
+> **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=97)** Ethical and [[Privacy]] risks increase when working with sensitive community data.
 >
-> **[1:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=101)** Operational risks arise when tools are poorly integrated, data quality is weak, or governance and oversight are insufficient.
+> **[1:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-adoption-in-resource-constrained-environments?u=76281980&t=101)** Operational risks arise when tools are poorly integrated, [[Data Quality]] is weak, or governance and oversight are insufficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), [[Technical Support]] (1), [[Accountability]] (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1), [[Accountability]] (1), [[Organizational Culture]] (1), [[Sustainability]] (1), [[Cybersecurity]] (1)
 
-#### Alignment with humanitarian principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980)
+#### [Alignment with humanitarian principles](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,11 +661,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=20)** Take a moment to read the options on screen.
 >
-> **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=25)** Ensuring data is collected transparently, protecting privacy, and monitoring AI for biased or harmful outcomes.
+> **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=25)** Ensuring data is collected transparently, protecting [[Privacy]], and monitoring AI for biased or harmful outcomes.
 >
 > **[0:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=34)** AI use in non-profits must always be aligned with three core humanitarian principles.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=39)** Dignity, fairness, and accountability.
+> **[0:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=39)** Dignity, fairness, and [[Accountability]].
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/alignment-with-humanitarian-principles?u=76281980&t=43)** Together, these principles help protect rights, build trust, and reduce the risk of unintended harm.
 >
@@ -711,11 +699,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (8), [[Privacy]] (2), [[Accountability]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Accountability]] (2)
 > **Definitions:** is a  (1)
 
-#### Case studies across key impact areas
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980)
+#### [Case studies across key impact areas](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,15 +716,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=22)** If you guessed B, you're correct.
 >
-> **[0:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=24)** Non-profits are beginning to use AI to strengthen evidence-based decision-making.
+> **[0:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=24)** Non-profits are beginning to use AI to strengthen evidence-based [[Decision-Making]].
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=30)** AI is being used in non-profits focusing on poverty alleviation to support faster and more targeted programs.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=37)** Predictive modeling and analysis can help organizations estimate poverty levels where census data is limited.
+> **[0:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=37)** [[Predictive Modeling]] and analysis can help organizations estimate poverty levels where census data is limited.
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=44)** While ML and data aggregation tools can map trends and insights, insights.
 >
-> **[0:49](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=49)** Real-time monitoring provides up-to-date assessments of poverty levels and changes over time, while specific ML models can help identify at-risk groups for early intervention.
+> **[0:49](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=49)** [[Real-Time]] monitoring provides up-to-date assessments of poverty levels and changes over time, while specific ML models can help identify at-risk groups for early intervention.
 >
 > **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=60)** AquaCrop, developed by IBM Research Africa and Kenyan partners, uses AI to analyze satellite, weather, and soil data to guide irrigation for smallholder farmers.
 >
@@ -751,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=99)** AI tools can also help track and predict donor engagement and likelihood to give.
 >
-> **[1:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=104)** Tools like Generative AI can create a range of content, including personalized donor outreach, reports, social media posts, and digital campaign visuals.
+> **[1:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=104)** Tools like [[Generative AI]] can create a range of content, including personalized donor outreach, reports, social media posts, and digital campaign visuals.
 >
 > **[1:55](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=115)** The Africa Infodemic Response Alliance, led by the World Health Organization, uses AI to analyze online and community data during health emergencies.
 >
@@ -759,7 +746,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=136)** AI has numerous applications across disaster response, from preparedness and immediate response to recovery.
 >
-> **[2:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=143)** Geospatial AI can facilitate rapid damage and loss assessments, while algorithms can match donated resources to needs on the ground.
+> **[2:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=143)** Geospatial AI can facilitate rapid damage and loss assessments, while [[Algorithms]] can match donated resources to needs on the ground.
 >
 > **[2:32](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=152)** Active modeling can forecast disasters, enabling early warning and prepositioning of humanitarian aid, while chatbots provide real-time, multilingual crisis information.
 >
@@ -779,11 +766,11 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=216)** Forest Foresight, developed by the World Wildlife Fund for Nature, uses AI and satellite imagery to predict deforestation up to six months in advance.
 >
-> **[3:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=226)** These early warnings allow local actors to intervene sooner and help prevent biodiversity loss.
+> **[3:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/case-studies-across-key-impact-areas?u=76281980&t=226)** These early warnings allow local actors to intervene sooner and help prevent [[Biodiversity]] loss.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (6), [[Real-Time]] (2), [[Generative AI]] (2), management (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Generative AI]] (2), [[Decision-Making]] (1), [[Predictive Modeling]] (1), [[Algorithms]] (1)
 > **Env Vars:** ibm (1), nlp (1)
 > **Warnings:** warning (2)
 
@@ -792,14 +779,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expanding responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980)
+#### [Expanding responsibilities](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980&t=5)** Non-profit teams today face growing expectations, more information to interpret, more decisions to make, more complexity to manage, often with the same limited time and resources.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980&t=18)** As programs expand, reporting increases, and stakeholders expect greater accountability.
+> **[0:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980&t=18)** As programs expand, reporting increases, and stakeholders expect greater [[Accountability]].
 >
 > **[0:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980&t=24)** Staff must work faster, think deeper, and navigate more data than ever before.
 >
@@ -823,11 +809,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), ai (4), data (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (1)
 
-#### AI as a collaborative partner
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980)
+#### [AI as a collaborative partner](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,17 +834,17 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=40)** 71% of nonprofits now submit proposals in under a week.
 >
-> **[0:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=44)** Beyond speed, AI tools like Microsoft 365 Copilot could boost fundraising results by up to 20%.
+> **[0:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=44)** Beyond speed, AI tools like [[Microsoft 365]] [[Microsoft Copilot|Copilot]] could boost fundraising results by up to 20%.
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=53)** AI can support daily work by automating routine tasks, analyzing data, and surfacing insights faster than manual methods.
 >
 > **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=60)** Over 75% of nonprofits already use AI, saving professionals an average of 7.5 hours per week for more strategic work.
 >
-> **[1:11](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=71)** Human-in-the-loop means humans stay actively involved across all stages of AI workflows, not only before deployment, but during data processing, decision-making, and output review.
+> **[1:11](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=71)** Human-in-the-loop means humans stay actively involved across all stages of AI workflows, not only before deployment, but during [[Data Processing]], [[Decision-Making]], and output review.
 >
 > **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=82)** ITL ensures human supervision over AI's suggestions and final outputs.
 >
-> **[1:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=87)** Because many decisions require context, ethics, and community values, Human-in-the-Loop ensures AI workflows remain guided by human judgment and mission-driven oversight.
+> **[1:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=87)** Because many decisions require context, [[Ethics]], and community values, Human-in-the-Loop ensures AI workflows remain guided by human judgment and mission-driven oversight.
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=99)** As you start using AI in your day-to-day work, it helps to understand where it adds the most value.
 >
@@ -881,7 +866,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=167)** 360 uses agentic AI to accelerate humanitarian logistics by matching donations to nearby non-profits, enabling faster delivery while reducing surplus waste and carbon footprints.
 >
-> **[2:59](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=179)** Data analysis, predictive analytics, and mapping are capabilities that conduct analysis, uncover patterns and predict risks faster and more accurately than manual efforts.
+> **[2:59](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=179)** Data analysis, [[Predictive Analytics]], and mapping are capabilities that conduct analysis, uncover patterns and predict risks faster and more accurately than manual efforts.
 >
 > **[3:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=190)** Amazon uses AI-driven geospatial analysis to monitor and predict deforestation in the Amazon.
 >
@@ -889,7 +874,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=203)** Predictive monitoring identifies issues before failure, protecting critical assets and services.
 >
-> **[3:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=209)** Rainforest Connection uses AI-powered monitoring to detect chainsaws, vehicles, and gunshots in live audio, sending real-time alerts that help Rangers rapidly respond to protect biodiversity.
+> **[3:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=209)** Rainforest Connection uses AI-powered monitoring to detect chainsaws, vehicles, and gunshots in live audio, sending [[Real-Time]] alerts that help Rangers rapidly respond to protect [[Biodiversity]].
 >
 > **[3:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=222)** Automation reduces manual effort in routine operations through rule-based workflows.
 >
@@ -901,23 +886,22 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=252)** Uleng GZAI uses NLP to deliver trusted agricultural guidance via text or voice in Chichewa, giving smallholder farmers in rural Malawi real-time access to nationally sourced expertise.
 >
-> **[4:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=266)** Community data collection and collaborative AI are capabilities that process large-scale, real-time, open-source data to support analysis, mapping, and monitoring efforts.
+> **[4:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=266)** Community [[Data Collection]] and collaborative AI are capabilities that process large-scale, real-time, open-source data to support analysis, mapping, and monitoring efforts.
 >
 > **[4:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=277)** Real Zimbabwe Trust used Ushahidi's AI platform to anonymously collect near-real-time reports of human rights violations during Zimbabwe's 2023 elections, reducing risk and strengthening advocacy evidence.
 >
-> **[4:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=292)** Computer vision enables systems to analyze images and video and turn visual data into actionable insights.
+> **[4:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=292)** [[Computer Vision]] enables systems to analyze images and video and turn visual data into actionable insights.
 >
 > **[4:59](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-as-a-collaborative-partner?u=76281980&t=299)** Computer vision tools are used to detect crop disease and identify plant health issues from visual data to facilitate instant diagnoses and treatment suggestions, helping farmers reduce crop losses and increase incomes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (26), data (7), [[Real-Time]] (4), teams (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Computer Vision]] (2), [[Microsoft 365]] (1), [[Microsoft Copilot|Copilot]] (1), [[Data Processing]] (1)
 > **Env Vars:** nlp (2), itl (1), gzai (1)
 > **Versions:** 7.5 (1)
 > **Analogies:** such as (1)
 
-#### How to select AI tools for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980)
+#### [How to select AI tools for you](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,21 +931,21 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=84)** There are ten helpful criteria to guide you in deciding if an AI tool is right for your specific tasks and responsibilities.
 >
-> **[1:32](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=92)** Each criterion outlines what to consider, key questions to ask, role-specific factors, and considerations for communities served to guide your decision-making.
+> **[1:32](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=92)** Each criterion outlines what to consider, key questions to ask, role-specific factors, and considerations for communities served to guide your [[Decision-Making]].
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=102)** The Organizational Fit criterion examines how well a tool aligns with your mission, workflows, goals, while also responding meaningfully to the needs of the communities served.
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=113)** The Functionality, Usability, and Interoperability criterion assesses whether the tool meets your needs, is easy to use, integrates smoothly with existing systems, and remains accessible to the community served.
 >
-> **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=126)** The Data Quality and Readiness criterion focuses on whether your data is structured, consistent, and suitable for use with an AI tool.
+> **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=126)** The [[Data Quality]] and Readiness criterion focuses on whether your data is structured, consistent, and suitable for use with an AI tool.
 >
-> **[2:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=134)** The Security and Privacy criterion assesses whether the tool meets required standards for data protection, storage, and compliance.
+> **[2:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=134)** The Security and [[Privacy]] criterion assesses whether the tool meets required standards for data protection, storage, and compliance.
 >
-> **[2:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=143)** The Governance and Accountability Criterion considers human-in-the-loop oversight, transparency of outputs, and the reviewability of decisions, ensuring alignment with organizational values.
+> **[2:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=143)** The Governance and [[Accountability]] Criterion considers human-in-the-loop oversight, transparency of outputs, and the reviewability of decisions, ensuring alignment with organizational values.
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=155)** The Risk and Limitations Criterion highlights known risks such as bias, misuse, or inaccurate outputs, and assesses whether teams are prepared to validate results.
 >
-> **[2:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=166)** The Scalability and Sustainability Criterion examines whether a tool can grow with increasing users, data, and program needs.
+> **[2:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=166)** The [[Scalability]] and [[Sustainability]] Criterion examines whether a tool can grow with increasing users, data, and program needs.
 >
 > **[2:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/how-to-select-ai-tools-for-you?u=76281980&t=174)** The Cost and Resource Implications Criterion considers total cost, required resources, and return on investment, ensuring adoption is realistic for nonprofit budgets.
 >
@@ -993,20 +977,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (8), teams (5), [[Security]] (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Decision-Making]] (1), [[Data Quality]] (1), [[Accountability]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### AI use in programs and operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980)
+#### [AI use in programs and operations](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=0)** This course focuses on how AI supports programs and operations as a core functional role within nonprofits.
 >
-> **[0:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=7)** You'll see how different AI applications strengthen analysis, planning, monitoring, and decision-making, while human expertise remains central.
+> **[0:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=7)** You'll see how different AI applications strengthen analysis, planning, monitoring, and [[Decision-Making]], while human expertise remains central.
 >
 > **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=16)** Let's start with a quick question.
 >
@@ -1020,27 +1003,27 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=44)** Deep research can benefit from AI's rapid scanning, analysis, and synthesis of academic papers, reports, and complex documents, helping teams extract key findings, identify patterns, and structure insights.
 >
-> **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=57)** Popular tools include Microsoft Copilot, Perplexity AI, and ChatGPT.
+> **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=57)** Popular tools include [[Microsoft Copilot]], Perplexity AI, and [[ChatGPT]].
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=63)** The United States Anti-Doping Agency streamlined research and regulatory review by using Perplexity AI to process large volumes of information.
 >
 > **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=73)** This cut compilation and verification time by more than 50%, improved accuracy, and allowed teams to focus on developing training and certification materials instead of manual research.
 >
-> **[1:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=85)** Data aggregation and analysis are enhanced by AI through the analysis of large datasets, surfacing patterns, generating real-time insights, and visualizing information to support data-informed decision-making.
+> **[1:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=85)** Data aggregation and analysis are enhanced by AI through the analysis of large datasets, surfacing patterns, generating [[Real-Time]] insights, and visualizing information to support data-informed decision-making.
 >
-> **[1:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=98)** Consider exploring Power BI and Excel Copilot.
+> **[1:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=98)** Consider exploring [[Microsoft Power BI|Power BI]] and [[Microsoft Excel|Excel]] [[Microsoft Copilot|Copilot]].
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=102)** The Africa Infodemic Response Alliance illustrates how AI enables large-scale analysis of online and community-generated data to inform timely, evidence-based program responses.
 >
-> **[1:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=114)** When it comes to monitoring, evaluation, accountability, and learning meal dashboards, AI can help generate indicators, summarize performance data, automatically update dashboards, and flag anomalies over time.
+> **[1:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=114)** When it comes to monitoring, evaluation, [[Accountability]], and learning meal [[Dashboards]], AI can help generate indicators, summarize performance data, automatically update dashboards, and flag anomalies over time.
 >
-> **[2:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=128)** Key tools include Power BI and Azure Cognitive Services.
+> **[2:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=128)** Key tools include Power BI and [[Microsoft Azure|Azure]] Cognitive Services.
 >
-> **[2:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=132)** Through initiatives like FAIR and the humanitarian OpenStreetMap team, AI-powered computer vision has doubled the speed of mapping efforts, strengthening geospatial insights used for meal and program planning.
+> **[2:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=132)** Through initiatives like FAIR and the humanitarian OpenStreetMap team, AI-powered [[Computer Vision]] has doubled the speed of mapping efforts, strengthening geospatial insights used for meal and program planning.
 >
-> **[2:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=146)** As for predictive analytics and anticipatory action, AI's ability to combine hazard forecasts with local data to trigger early program responses, such as anticipatory cash transfers or targeted interventions before a shock occurs.
+> **[2:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=146)** As for [[Predictive Analytics]] and anticipatory action, AI's ability to combine hazard forecasts with local data to trigger early program responses, such as anticipatory cash transfers or targeted interventions before a shock occurs.
 >
-> **[2:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=161)** Platforms you can explore include IBM, Watson Studio, Microsoft Azure Machine Learning, Alteryx, DataRobot, and Tableau.
+> **[2:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=161)** Platforms you can explore include IBM, Watson Studio, [[Microsoft Azure]] Machine Learning, Alteryx, DataRobot, and [[Tableau]].
 >
 > **[2:49](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-programs-and-operations?u=76281980&t=169)** Give directly used their AI-supported flood prediction tool to trigger anticipatory cash transfers to at-risk communities in Nigeria, showing how AI-enabled early action can double incomes, cut food insecurity, and improve preparedness.
 >
@@ -1048,12 +1031,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (5), [[Decision-Making]] (2), teams (2), power (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (2), [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
 > **Env Vars:** fair (1), ibm (1)
 > **Analogies:** such as (1)
 
-#### AI use in fundraising
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980)
+#### [AI use in fundraising](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,7 +1065,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=78)** For proposal writing and grant application generation functions, GenAI can draft proposal sections and initial narratives, helping ensure alignment with donor guidance while allowing fundraisers to refine strategy and messaging.
 >
-> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=91)** Tools you can explore include Freewill Grant Assistant, ChatGPT, and Microsoft Copilot.
+> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=91)** Tools you can explore include Freewill Grant Assistant, [[ChatGPT]], and [[Microsoft Copilot]].
 >
 > **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-fundraising?u=76281980&t=97)** TechChange used an AI Grant Assistant to cut proposal drafting time by one-third and submit a complex proposal in three weeks, and won the contract.
 >
@@ -1091,14 +1073,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), application (2), cloud (1), [[ChatGPT]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Microsoft]] (1), [[Microsoft Copilot|Copilot]] (1)
 
-#### AI use in communications and outreach
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980)
+#### [AI use in communications and outreach](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=0)** This course looks at different ways AI is being used to support communications and outreach workstreams, such as messaging, content creation, and engagement.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=0)** This course looks at different ways AI is being used to support communications and outreach workstreams, such as messaging, [[Content Creation]], and engagement.
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=10)** Let's start with a quick question.
 >
@@ -1116,7 +1097,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=43)** These systems triage inquiries, generate tailored responses, and escalate complex cases in real time.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=50)** Key tools include AgentForce 360 Platform and Twilio's Communications Platform.
+> **[0:50](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=50)** Key tools include AgentForce 360 Platform and [[Twilio]]'s Communications Platform.
 >
 > **[0:55](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=55)** unified phone, text, chat, web form, and e-mail into a single AI-enabled messaging platform, giving hotline advocates full case context and faster response times.
 >
@@ -1128,15 +1109,15 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=83)** These capabilities reduce time spent on routine writing, and allow teams to focus on refining messages and engaging stakeholders.
 >
-> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=91)** Popular tools include Microsoft Copilot, ChatGPT, MailChimp, HubSpot, ActiveCampaign, [Blaze.ai](https://Blaze.ai), and [Jasper.ai](https://Jasper.ai).
+> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=91)** Popular tools include [[Microsoft Copilot]], [[ChatGPT]], MailChimp, HubSpot, ActiveCampaign, [Blaze.ai](https://Blaze.ai), and [Jasper.ai](https://Jasper.ai).
 >
 > **[1:40](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=100)** Charity Water uses AI-powered chatbots to enhance efficiency and personalization in donor engagement, resulting in a 30% increase in donor retention.
 >
-> **[1:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=111)** Creating content and storytelling is optimized by analyzing engagement data, drafting campaign content, and tailoring stories for different audiences.
+> **[1:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=111)** Creating content and [[Storytelling]] is optimized by analyzing engagement data, drafting campaign content, and tailoring stories for different audiences.
 >
-> **[2:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=120)** Consider exploring Microsoft Copilot, Google Gemini, Haygen, Azure-based tools, Linum, HyperCinema, and StoryNOI.
+> **[2:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=120)** Consider exploring Microsoft Copilot, [[Google Gemini]], Haygen, [[Microsoft Azure|Azure]]-based tools, Linum, HyperCinema, and StoryNOI.
 >
-> **[2:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=128)** The Jane Goodall Institute uses Azure AI's data processing and Gen.
+> **[2:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=128)** The Jane Goodall Institute uses Azure AI's [[Data Processing]] and Gen.
 >
 > **[2:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=132)** AI capabilities to transform field data, images, and research into compelling digital narratives, including educational materials, social media content, and impact stories.
 >
@@ -1144,7 +1125,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=147)** Visuals and image creation can be optimized by AI-powered design tools that generate graphics, layouts, and ready-to-use visual assets, helping teams produce campaign materials and program stories faster and more consistently.
 >
-> **[2:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=161)** Popular tools include Microsoft Copilot Image Generator, Canva, Adobe Firefly, and Google Gemini.
+> **[2:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=161)** Popular tools include Microsoft Copilot Image Generator, [[Canva]], [[Adobe Firefly]], and Google Gemini.
 >
 > **[2:48](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=168)** Rise Against Hunger uses Canva's AI-assisted design tools to rapidly create campaign and targeted educational visuals across teams.
 >
@@ -1152,7 +1133,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=185)** Website creation and content generation is accelerated by AI-assisted tools that generate website copy, page structures, and multilingual content, helping teams build and update sites faster.
 >
-> **[3:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=198)** You might want to try Microsoft Power Platform, Pages, Lovable, and Wix AI.
+> **[3:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=198)** You might want to try [[Microsoft]] Power Platform, Pages, Lovable, and Wix AI.
 >
 > **[3:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=203)** Sabrine Matos used the AI-powered no-code platform Lovable to build Plink, a background check website that flags risk using public records.
 >
@@ -1182,7 +1163,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=316)** Translation is enabled by AI through translating documents, messages, and live conversations while adapting content to local languages and cultural contexts, supporting more effective communication across regions.
 >
-> **[5:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=328)** You might want to explore Google Translate, DeepL, Microsoft Translator, JotMe, Wordly, Interprefy, Maestra AI, and Kudo.
+> **[5:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=328)** You might want to explore [[Google]] Translate, DeepL, Microsoft Translator, JotMe, Wordly, Interprefy, Maestra AI, and Kudo.
 >
 > **[5:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-communications-and-outreach?u=76281980&t=338)** Signpost AI, led by the International Rescue Committee with Mercy Corps and partners, used AI-assisted translation to deliver culturally relevant information to displaced communities.
 >
@@ -1190,17 +1171,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), teams (8), [[Microsoft Copilot]] (6), data (4), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot]] (6), [[ChatGPT]] (2), [[Microsoft Azure|Azure]] (2), [[Canva]] (2), [[Google]] (2)
 > **URLs:** [blaze.ai](https://blaze.ai) (1), [jasper.ai](https://jasper.ai) (1), [monday.com](https://monday.com) (1)
 > **Env Vars:** crm (1)
 > **Analogies:** such as (1)
 
-#### AI use in administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980)
+#### [AI use in administration](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=0)** This course highlights how AI can support routine administrative work while allowing teams to retain control, judgment, and accountability.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=0)** This course highlights how AI can support routine administrative work while allowing teams to retain control, judgment, and [[Accountability]].
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=9)** Let's start with a quick question.
 >
@@ -1210,9 +1190,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=22)** The correct answer is C.
 >
-> **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=25)** AI can support administrative work by assisting with routine tasks like drafting, scheduling, transcription, and information retrieval, while staff retain control.
+> **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=25)** AI can support administrative work by assisting with routine tasks like drafting, scheduling, transcription, and [[Information Retrieval]], while staff retain control.
 >
-> **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=35)** AI can support human resources workstreams through drafting job descriptions, updating policies and conducting initial contract reviews to identify required changes or guide compliance.
+> **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=35)** AI can support [[Human Resources (HR)|human resources]] workstreams through drafting job descriptions, updating policies and conducting initial contract reviews to identify required changes or guide compliance.
 >
 > **[0:46](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=46)** These capabilities streamline recruitment, support compliance, and reduce administrative workload across hiring and employment processes.
 >
@@ -1226,23 +1206,23 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=79)** Calendars are optimized by AI to automate scheduling, identify conflicts, and propose meeting times based on participant availability across time zones.
 >
-> **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=88)** A key tool for this is Microsoft Planner Premium.
+> **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=88)** A key tool for this is [[Microsoft]] Planner Premium.
 >
-> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=91)** In a recent study, a large team used Planner Premium within Microsoft Teams to manage 166 tasks for over 70 people.
+> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=91)** In a recent study, a large team used Planner Premium within [[Microsoft Teams]] to manage 166 tasks for over 70 people.
 >
-> **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=99)** Real-time tracking, automated reminders, and unified plans reduced delays and accelerated approvals, ultimately achieving an 84 percent task completion rate.
+> **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=99)** [[Real-Time]] tracking, automated reminders, and unified plans reduced delays and accelerated approvals, ultimately achieving an 84 percent task completion rate.
 >
 > **[1:50](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=110)** Meeting notes and transcription functions Teams use AI to summarize and organize notes, allowing individuals to focus on actionable items.
 >
-> **[1:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=118)** Platforms you can explore include Microsoft Copilot, Microsoft Planner Premium, Fireflies, and Otter.
+> **[1:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=118)** Platforms you can explore include [[Microsoft Copilot]], Microsoft Planner Premium, Fireflies, and Otter.
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=126)** According to a recent guide on AI note-takers, teams using tools like Fireflies or Otter report time savings of up to 30% per meeting, eliminating manual transcription and allowing participants to focus on the discussion.
 >
-> **[2:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=141)** community rebuilders used Microsoft 365 Copilot to reallocate this saved time back to mission-focused work.
+> **[2:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=141)** community rebuilders used [[Microsoft 365]] [[Microsoft Copilot|Copilot]] to reallocate this saved time back to mission-focused work.
 >
-> **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=149)** Project management and resource planning benefit from AI-driven task prioritization, risk forecasting, and workflow automation to manage timelines efficiently.
+> **[2:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=149)** Project management and resource planning benefit from AI-driven task prioritization, risk [[Forecasting]], and workflow automation to manage timelines efficiently.
 >
-> **[2:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=159)** Popular options include Microsoft Planner Premium, Asana, Trello, and ClickUp.
+> **[2:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=159)** Popular options include Microsoft Planner Premium, Asana, [[Trello]], and ClickUp.
 >
 > **[2:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=164)** Blue Marine Foundation uses Dynamics 365 to streamline project coordination, budgeting, and conservation tracking.
 >
@@ -1250,17 +1230,17 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=181)** As a result, budget reporting dropped from a six-week delay to near real-time data within a week, empowering managers to seize time-sensitive opportunities.
 >
-> **[3:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=192)** AI assistance help teams quickly retrieve documents, summarize internal policies, and support routine decision-making to reduce time spent searching for resources.
+> **[3:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=192)** AI assistance help teams quickly retrieve documents, summarize internal policies, and support routine [[Decision-Making]] to reduce time spent searching for resources.
 >
 > **[3:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=201)** Tools in this space include Notion AI, Motion and Comet.
 >
-> **[3:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=205)** Mercy CoreSafe generative AI chatbots provide teams with secure, organization-trained assistants that improve efficiency across administrative tasks.
+> **[3:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=205)** Mercy CoreSafe [[Generative AI]] chatbots provide teams with secure, organization-trained assistants that improve efficiency across administrative tasks.
 >
 > **[3:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/ai-use-in-administration?u=76281980&t=215)** Users reported a 40-60% increase in productivity when processing documents and creating summaries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), teams (6), [[Microsoft]] (3), [[Real-Time]] (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Real-Time]] (2), [[Accountability]] (1), [[Information Retrieval]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Tools:** notion (1)
 
 

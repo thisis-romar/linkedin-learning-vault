@@ -74,18 +74,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microinteractions in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980)
+#### [Microinteractions in Figma](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=0)** - [Tetiana] We see microinteractions when we scroll through our social media feeds, click buttons, and share posts with friends.
 >
-> **[0:09](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=9)** And in this course, you will learn how to design the most common microinteractions from scratch in Figma.
+> **[0:09](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=9)** And in this course, you will learn how to design the most common microinteractions from scratch in [[Figma (Software)|Figma]].
 >
 > **[0:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=16)** Hi, I'm Tetiana Gulei.
 >
-> **[0:18](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=18)** As a UX designer, I've designed many microinteractions in Figma to make products more usable and engaging.
+> **[0:18](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=18)** As a UX designer, I've designed many microinteractions in Figma to make [[Microsoft Products|products]] more usable and engaging.
 >
 > **[0:26](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980&t=26)** We will design together simple and complex microinteractions with interactive components, such as a loading spinner, dropdown menu, volume slider, and more.
 >
@@ -93,15 +92,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ux (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Microsoft Products|Products]] (1)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [tetiana] (1)
 
-#### About microinteractions
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/about-microinteractions?u=76281980)
+#### [About microinteractions](https://www.linkedin.com/learning/designing-microinteractions-with-figma/about-microinteractions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,13 +141,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/designing-microinteractions-with-figma/about-microinteractions?u=76281980&t=153)** Microinteractions also provide users with context and let them know that something is currently happening.
 >
-> **[2:40](https://www.linkedin.com/learning/designing-microinteractions-with-figma/about-microinteractions?u=76281980&t=160)** With real-time feedback, microinteractions also prevent users from making errors which is actually leading to a better user experience.
+> **[2:40](https://www.linkedin.com/learning/designing-microinteractions-with-figma/about-microinteractions?u=76281980&t=160)** With [[Real-Time]] feedback, microinteractions also prevent users from making errors which is actually leading to a better [[User Experience (UX)|user experience]].
 >
 > **[2:48](https://www.linkedin.com/learning/designing-microinteractions-with-figma/about-microinteractions?u=76281980&t=168)** And overall microinteractions give the user a feeling of control, increased engagement, and make the whole experience more joyful and pleasant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), next (1), [[Real-Time]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start prototyping in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980)
+#### [Start prototyping in Figma](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980&t=0)** - [Instructor] Figma is a great tool for designing and prototyping micro interactions as it has native built-in prototyping features.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980&t=0)** - [Instructor] [[Figma (Software)|Figma]] is a great tool for designing and [[Prototyping]] micro interactions as it has native built-in prototyping features.
 >
 > **[0:08](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980&t=8)** And with this features you can create interactive flows and visually show how your micro interactions are triggered and how the users should interact with them.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[Prototyping]] (4), next (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[Prototyping]] (4)
 > **Tools:** figma (5)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Definitions:** means that (2), is a  (1)
@@ -230,12 +227,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Use Figma's presentation mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-presentation-mode?u=76281980)
+#### [Use Figma's presentation mode](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-presentation-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-presentation-mode?u=76281980&t=0)** - [Instructor] If you following me along, we just created simple prototype connections between two frames in Figma.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-presentation-mode?u=76281980&t=0)** - [Instructor] If you following me along, we just created simple prototype connections between two frames in [[Figma (Software)|Figma]].
 >
 > **[0:07](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-presentation-mode?u=76281980&t=7)** And now that we have our basic micro-interaction ready, it's time to test it out.
 >
@@ -266,8 +262,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test microinteractions on different devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/test-microinteractions-on-different-devices?u=76281980)
+#### [Test microinteractions on different devices](https://www.linkedin.com/learning/designing-microinteractions-with-figma/test-microinteractions-on-different-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,12 +312,11 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define triggers for interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/define-triggers-for-interaction?u=76281980)
+#### [Define triggers for interaction](https://www.linkedin.com/learning/designing-microinteractions-with-figma/define-triggers-for-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/define-triggers-for-interaction?u=76281980&t=0)** - [Instructor] Let's talk about triggers and how you can define them in Figma.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/define-triggers-for-interaction?u=76281980&t=0)** - [Instructor] Let's talk about triggers and how you can define them in [[Figma (Software)|Figma]].
 >
 > **[0:04](https://www.linkedin.com/learning/designing-microinteractions-with-figma/define-triggers-for-interaction?u=76281980&t=4)** So first of all, you will have to select your connection and then you can see that interaction details window appears.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Figma (Software)|Figma]] (1), game (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** click on (5), navigate to (3), go to (2), select the (2), dropdown (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
@@ -426,12 +420,11 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Figma's native animation types
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-native-animation-types?u=76281980)
+#### [Use Figma's native animation types](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-native-animation-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-native-animation-types?u=76281980&t=0)** - [Instructor] If you follow me along, we just reviewed triggers in Figma and now it's time to move to the animation section to review eight animation types that you can apply to your micro-interactions.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-native-animation-types?u=76281980&t=0)** - [Instructor] If you follow me along, we just reviewed triggers in [[Figma (Software)|Figma]] and now it's time to move to the animation section to review eight animation types that you can apply to your micro-interactions.
 >
 > **[0:11](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-figma-s-native-animation-types?u=76281980&t=11)** So first of all, in this dropdown we have an instant animation, and this is a default animation type that gets applied as soon as you create your connection.
 >
@@ -500,12 +493,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use smart animate for fluid microinteractions
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980)
+#### [Use smart animate for fluid microinteractions](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=0)** - [Instructor] Let's talk about Smart Animate, another animation type in Figma that we did not cover yet.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=0)** - [Instructor] Let's talk about Smart Animate, another animation type in [[Figma (Software)|Figma]] that we did not cover yet.
 >
 > **[0:06](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=6)** With Smart Animate, you can create advanced micro interactions with fluid transitions.
 >
@@ -515,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=35)** And in this way, it actually can detect the main differences that occur between the objects on those different frames.
 >
-> **[0:44](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=44)** Eventually, Smart Animate recognizes this changes between two screens and it can apply fluid transition that actually increases user engagement and facilitates user experience.
+> **[0:44](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=44)** Eventually, Smart Animate recognizes this changes between two screens and it can apply fluid transition that actually increases user engagement and facilitates [[User Experience (UX)|user experience]].
 >
 > **[0:57](https://www.linkedin.com/learning/designing-microinteractions-with-figma/use-smart-animate-for-fluid-microinteractions?u=76281980&t=57)** So, Smart Animate takes into account the differences mainly in the size of an object, its positioned on X and Y coordinates, opacity, rotation of an object, and also color change.
 >
@@ -599,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience (UX)|User experience]] (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** select the (4), click on (4), go to (3)
 > **CLI Commands:** make (3)
 > **Tools:** figma (3)
@@ -612,12 +604,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an On Click toggle
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980)
+#### [Create an On Click toggle](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=0)** - [Instructor] You just learned the basics of prototyping in Figma.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=0)** - [Instructor] You just learned the basics of [[Prototyping]] in [[Figma (Software)|Figma]].
 >
 > **[0:03](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=3)** It's time to create your first simple micro interaction from scratch.
 >
@@ -631,7 +622,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=30)** And in the second frame, we are going to change the styling of this toggle to specifically show to the user that this toggle is on.
 >
-> **[0:40](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=40)** So let's quickly zoom into this frame and what I'm going to do is first of all, double click on this ellipse and with my keys, I'm going to move it to the side.
+> **[0:40](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=40)** So let's quickly [[Zoom]] into this frame and what I'm going to do is first of all, double click on this ellipse and with my keys, I'm going to move it to the side.
 >
 > **[0:51](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980&t=51)** Then I will double click on the rectangle and I will also change its background color.
 >
@@ -684,8 +675,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing dragging with On Drag
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980)
+#### [Implementing dragging with On Drag](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,9 +699,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980&t=67)** So if I'm going to drag on my screen, we can see how both of the frames are getting swiped and theoretically we achieved our swiping micro interaction.
 >
-> **[1:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980&t=76)** But in a real word, you might have noticed that, for example, if you have these steps, they ideally remain static while other image is getting swiped.
+> **[1:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980&t=76)** But in a real [[Microsoft Word|word]], you might have noticed that, for example, if you have these steps, they ideally remain static while other image is getting swiped.
 >
-> **[1:25](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980&t=85)** So we can achieve exactly the same behavior by going back to our Figma project and making some changes to our prototype settings.
+> **[1:25](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980&t=85)** So we can achieve exactly the same behavior by going back to our [[Figma (Software)|Figma]] project and making some changes to our prototype settings.
 >
 > **[1:34](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implementing-dragging-with-on-drag?u=76281980&t=94)** So in the animation section you can see the chat box with smart animate matching layers, and we are going to activate this chat box.
 >
@@ -740,8 +730,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a horizontal scrolling effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-horizontal-scrolling-effect?u=76281980)
+#### [Create a horizontal scrolling effect](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-horizontal-scrolling-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,17 +764,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** mobile application (2), next (1)
 > **UI Navigation:** click on (2), go to (2), dropdown (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a vertical scrolling effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980)
+#### [Create a vertical scrolling effect](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=0)** - [Instructor] Let's create a vertical scrolling micro interaction in Figma.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=0)** - [Instructor] Let's create a vertical scrolling micro interaction in [[Figma (Software)|Figma]].
 >
 > **[0:03](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=3)** So in the exercise file, you can see again a set of images that I prepared for you to use for this exercise.
 >
@@ -799,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=29)** Then will just quickly grab this frame and put it inside of our mainframe.
 >
-> **[0:34](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=34)** I will quickly also zoom in and I want to create another title for this recipes app.
+> **[0:34](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=34)** I will quickly also [[Zoom]] in and I want to create another title for this recipes app.
 >
 > **[0:39](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-vertical-scrolling-effect?u=76281980&t=39)** So I'll just quickly duplicate the stacks layer with Control + D shortcut and place the stacks layer right here.
 >
@@ -833,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Zoom]] (2), application (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Zoom]] (2)
 > **UI Navigation:** click on (3), go to (2), checkbox (1)
 > **Cross-References:** go back to (3)
 > **Tools:** figma (2)
@@ -841,8 +828,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a hover effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980)
+#### [Create a hover effect](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +878,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=196)** So this is basically the hover state of our image card.
 >
-> **[3:19](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=199)** So let's zoom out to see both of the frames that we just created.
+> **[3:19](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=199)** So let's [[Zoom]] out to see both of the frames that we just created.
 >
 > **[3:22](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=202)** And right now we can go to the prototype tab to create our own hover micro-interaction.
 >
@@ -914,7 +900,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=274)** And if I go away from the area of this image card, then all of this additional styling and text disappears.
 >
-> **[4:41](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=281)** And one more time, you can see how nicely and easily we can create a hover micro-interaction in Figma.
+> **[4:41](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-hover-effect?u=76281980&t=281)** And one more time, you can see how nicely and easily we can create a hover micro-interaction in [[Figma (Software)|Figma]].
 
 > [!info]- Semantic Content
 >
@@ -926,14 +912,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open overlays for messages and notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/open-overlays-for-messages-and-notifications?u=76281980)
+#### [Open overlays for messages and notifications](https://www.linkedin.com/learning/designing-microinteractions-with-figma/open-overlays-for-messages-and-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/open-overlays-for-messages-and-notifications?u=76281980&t=0)** - [Instructor] Let's create another simple micro-interaction where we'll show this pop-up message after the user clicks on the add to cart button.
 >
-> **[0:07](https://www.linkedin.com/learning/designing-microinteractions-with-figma/open-overlays-for-messages-and-notifications?u=76281980&t=7)** And, in this example we'll specifically work with overlays in Figma, which allow us to place additional content, like this pop-up message, on top of the main frame.
+> **[0:07](https://www.linkedin.com/learning/designing-microinteractions-with-figma/open-overlays-for-messages-and-notifications?u=76281980&t=7)** And, in this example we'll specifically work with overlays in [[Figma (Software)|Figma]], which allow us to place additional content, like this pop-up message, on top of the main frame.
 >
 > **[0:17](https://www.linkedin.com/learning/designing-microinteractions-with-figma/open-overlays-for-messages-and-notifications?u=76281980&t=17)** So first of all, let's quickly grab this group, and you can see that in the layers, it's a group that consists of other objects inside of it.
 >
@@ -1000,20 +985,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set a trigger delay for your action
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980)
+#### [Set a trigger delay for your action](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=0)** - [Instructor] In this exercise, we are going to create a basic countdown micro-interaction.
 >
-> **[0:05](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=5)** And to achieve this micro-interaction, we are going to use the after delay trigger in Figma.
+> **[0:05](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=5)** And to achieve this micro-interaction, we are going to use the after delay trigger in [[Figma (Software)|Figma]].
 >
 > **[0:10](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=10)** So in the exercise file, you will see five sample frames, where the first frame has a button, and we are going to use specifically this button to trigger our countdown.
 >
 > **[0:20](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=20)** So I will immediately jump into the prototype tab, where I will create my first connection.
 >
-> **[0:26](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=26)** So I'll quickly zoom into my first frame.
+> **[0:26](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=26)** So I'll quickly [[Zoom]] into my first frame.
 >
 > **[0:29](https://www.linkedin.com/learning/designing-microinteractions-with-figma/set-a-trigger-delay-for-your-action?u=76281980&t=29)** I will also select this button and connect it to the second screen.
 >
@@ -1047,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -1055,8 +1039,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a background microinteraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/challenge-create-a-background-microinteraction?u=76281980)
+#### [Challenge: Create a background microinteraction](https://www.linkedin.com/learning/designing-microinteractions-with-figma/challenge-create-a-background-microinteraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,8 +1062,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a background microinteraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-background-microinteraction?u=76281980)
+#### [Solution: Create a background microinteraction](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-background-microinteraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1124,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-background-microinteraction?u=76281980&t=183)** Basically, that's it.
 >
-> **[3:04](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-background-microinteraction?u=76281980&t=184)** So if you're ready with prototyping, we can go to the presentation mode to test our micro interaction.
+> **[3:04](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-background-microinteraction?u=76281980&t=184)** So if you're ready with [[Prototyping]], we can go to the presentation mode to test our micro interaction.
 >
 > **[3:12](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-background-microinteraction?u=76281980&t=192)** Let's quickly click on this button and here we can see how our micro interaction works and how we can change the background color of the mobile screen.
 
@@ -1159,12 +1141,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create interactive components in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980)
+#### [Create interactive components in Figma](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=0)** - [Instructor] Now we are slowly moving to the topic of advanced microinteractions in Figma.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=0)** - [Instructor] Now we are slowly moving to the topic of advanced microinteractions in [[Figma (Software)|Figma]].
 >
 > **[0:05](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=5)** And in order to create these complex microinteractions, we will work with interactive components.
 >
@@ -1186,11 +1167,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=76)** So microinteractions, in the end, will be created between variants in a component set.
 >
-> **[1:23](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=83)** If you feel that you want to learn more about components before jumping into this topic, I strongly recommend to watch my LinkedIn learning course that is called "[[Designing Accessible Components In Figma]]."
+> **[1:23](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=83)** If you feel that you want to learn more about components before jumping into this topic, I strongly recommend to watch my [[LinkedIn]] learning course that is called "[[Designing Accessible Components In Figma]]."
 >
 > **[1:35](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=95)** But if you are ready, let's open up Figma and create our first interactive component.
 >
-> **[1:42](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=102)** So right here in Figma, I have exactly the same frames as we used earlier in this course while creating a toggle microinteraction, so the first step will be to go to the Prototype tab, and we are going to select our prototyping connections and actually remove them.
+> **[1:42](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=102)** So right here in Figma, I have exactly the same frames as we used earlier in this course while creating a toggle microinteraction, so the first step will be to go to the Prototype tab, and we are going to select our [[Prototyping]] connections and actually remove them.
 >
 > **[1:56](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980&t=116)** So I will select the first connection and click on delete, and I'll do exactly the same with the remaining connection.
 >
@@ -1260,8 +1241,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a loading spinner
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980)
+#### [Create a loading spinner](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=25)** And at the same time, I will remove fill because we do not need it for this micro interaction.
 >
-> **[0:31](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=31)** In the stroke coloring settings, let's change from solid to angular gradient because it's going to serve us as a basis for our micro interaction.
+> **[0:31](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=31)** In the stroke coloring settings, let's change from solid to [[Angular]] gradient because it's going to serve us as a basis for our micro interaction.
 >
 > **[0:40](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=40)** You are free to choose any color that you like.
 >
@@ -1309,7 +1289,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=118)** And finally, right here, we'll have to set 270 degrees.
 >
-> **[2:03](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=123)** And you can see, it's immediately converted to minus 90 degrees in Figma.
+> **[2:03](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=123)** And you can see, it's immediately converted to minus 90 degrees in [[Figma (Software)|Figma]].
 >
 > **[2:07](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-loading-spinner?u=76281980&t=127)** So after we are ready with this four stages of our spinner, we can select all of these layers, go to the components dropdown, and click and create component set.
 >
@@ -1376,8 +1356,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Implement a download button
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implement-a-download-button?u=76281980)
+#### [Implement a download button](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implement-a-download-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1460,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implement-a-download-button?u=76281980&t=343)** In the assets panel you can also see how we just created our local component.
 >
-> **[5:47](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implement-a-download-button?u=76281980&t=347)** And finally, we can start with actually going and prototyping our button.
+> **[5:47](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implement-a-download-button?u=76281980&t=347)** And finally, we can start with actually going and [[Prototyping]] our button.
 >
 > **[5:52](https://www.linkedin.com/learning/designing-microinteractions-with-figma/implement-a-download-button?u=76281980&t=352)** So in a component set we'll have to select our first default state and connect it to our hover state.
 >
@@ -1523,19 +1502,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** select the (4), click on (4), go to (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a volume slider
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-volume-slider?u=76281980)
+#### [Create a volume slider](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-volume-slider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-volume-slider?u=76281980&t=0)** - [Instructor] You're about to learn how to create a volume slider or micro interaction in Figma.
+> **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-volume-slider?u=76281980&t=0)** - [Instructor] You're about to learn how to create a volume slider or micro interaction in [[Figma (Software)|Figma]].
 >
 > **[0:05](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-volume-slider?u=76281980&t=5)** In the exercise file, you'll see the video player frame, which we are going to use to test out our advanced micro interaction.
 >
@@ -1621,7 +1599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **UI Navigation:** go to (4), dropdown (1), click on (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (2)
@@ -1629,8 +1607,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a drop-down menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-drop-down-menu?u=76281980)
+#### [Create a drop-down menu](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-a-drop-down-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,8 +1730,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Create a like button
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/challenge-create-a-like-button?u=76281980)
+#### [Challenge: Create a like button](https://www.linkedin.com/learning/designing-microinteractions-with-figma/challenge-create-a-like-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,8 +1751,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [announcer] (1)
 
-#### Solution: Create a like button
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-like-button?u=76281980)
+#### [Solution: Create a like button](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-like-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1870,11 +1845,11 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-like-button?u=76281980&t=374)** So yes, we can also unlike the button.
 >
-> **[6:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-like-button?u=76281980&t=376)** And in this way, you just learned how to create a simple Like button microinteraction in Figma with interactive components.
+> **[6:16](https://www.linkedin.com/learning/designing-microinteractions-with-figma/solution-create-a-like-button?u=76281980&t=376)** And in this way, you just learned how to create a simple Like button microinteraction in [[Figma (Software)|Figma]] with interactive components.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** navigate to (3), go to (2), scroll down (1), click on (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** onclick (1), iphone (1)
@@ -1887,16 +1862,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Feel confident designing your own Figma microinteraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980)
+#### [Feel confident designing your own Figma microinteraction](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980&t=0)** - [Instructor] Congratulations, you've made it to the end of the course!
 >
-> **[0:04](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980&t=4)** During this course, you learned about micro-interactions, their main benefits in user experience design, and also how to design micro-interactions from scratch in Figma.
+> **[0:04](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980&t=4)** During this course, you learned about micro-interactions, their main benefits in [[User Experience Design (UED)|user experience design]], and also how to design micro-interactions from scratch in [[Figma (Software)|Figma]].
 >
-> **[0:18](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980&t=18)** You also discovered the basics of prototyping features in Figma and how to use presentation mode and devices to test your micro-interactions.
+> **[0:18](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980&t=18)** You also discovered the basics of [[Prototyping]] features in Figma and how to use presentation mode and devices to test your micro-interactions.
 >
 > **[0:29](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980&t=29)** We also covered different triggers, transitions, and animation types that we could use to create complex micro-interactions with interactive components.
 >
@@ -1908,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience Design (UED)|User experience design]] (1), [[Prototyping]] (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[User Experience Design (UED)|User experience design]] (1), [[Prototyping]] (1)
 > **Tools:** figma (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

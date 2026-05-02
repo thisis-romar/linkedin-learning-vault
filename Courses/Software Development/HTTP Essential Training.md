@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/http-essential-training/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), data (2), database (1), power (1)
 > **Env Vars:** http (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -105,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is HTTP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980)
+#### [What is HTTP?](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=15)** In this context, a protocol is a system of rules that allow communication of information between different entities, like computers.
 >
-> **[0:24](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=24)** Hypertext is a somewhat outdated word for text that is displayed on a computer screen that contains hyperlinks to other text.
+> **[0:24](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=24)** Hypertext is a somewhat outdated [[Microsoft Word|word]] for text that is displayed on a computer screen that contains hyperlinks to other text.
 >
 > **[0:33](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=33)** So web documents.
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=178)** When requests and responses are sent back and forth over HTTP, we can include HTTP headers with additional information.
 >
-> **[3:06](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=186)** These headers can carry information about everything from what type of client sent the requests, the server configuration and the time and date of the response to how and for how long the client should store the data, what format the data is in, those cookies used to track sessions and so on.
+> **[3:06](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=186)** These headers can carry information about everything from what type of client sent the requests, the [[Server Configuration]] and the time and date of the response to how and for how long the client should store the data, what format the data is in, those cookies used to track sessions and so on.
 >
 > **[3:24](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980&t=204)** Which brings us to the last basic principle.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), data (3), [[Microsoft Word|Word]] (1), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Server Configuration]] (1)
 > **Env Vars:** http (18), url (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** picture (3)
@@ -186,8 +183,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - http (1)
 
-#### HTTP, HTTP/2, and HTTPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/http-http-2-and-https?u=76281980)
+#### [HTTP, HTTP/2, and HTTPS](https://www.linkedin.com/learning/http-essential-training/http-http-2-and-https?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/http-essential-training/http-http-2-and-https?u=76281980&t=58)** Well, we have a whole course on this topic you can go check out, but the most important points are HTTP/2 is faster and more secure.
 >
-> **[1:07](https://www.linkedin.com/learning/http-essential-training/http-http-2-and-https?u=76281980&t=67)** It uses compression algorithms to speed up requests, allows for multi-plexing, meaning multiple files are sent over connection at the same time and requires an encrypted connection between the client and the server through HTTPS.
+> **[1:07](https://www.linkedin.com/learning/http-essential-training/http-http-2-and-https?u=76281980&t=67)** It uses compression [[Algorithms]] to speed up requests, allows for multi-plexing, meaning multiple files are sent over connection at the same time and requires an encrypted connection between the client and the server through HTTPS.
 >
 > **[1:22](https://www.linkedin.com/learning/http-essential-training/http-http-2-and-https?u=76281980&t=82)** By contrast, HTTP/1 sends uncompressed headers, transfers only one file at a time over a connection, and has no default encryption.
 >
@@ -217,15 +213,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** http (18), https (4)
 > **Versions:** 1.1 (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - quick (1)
 
-#### HTTP terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980)
+#### [HTTP terminology](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=9)** To make sure we're all talking about the same thing when we talk about HTTP, let's look at some of the oft-used but seldom explained terms you are most likely to come across, starting with a simple one, browser.
 >
-> **[0:23](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=23)** The browser is an application used to access and navigate between HTML documents, nothing more, nothing less.
+> **[0:23](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=23)** The browser is an application used to access and navigate between [[HTML]] documents, nothing more, nothing less.
 >
 > **[0:30](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=30)** Browsers come in many varieties, the most common being the regular visual browsers you see on your smartphone or tablet or computer.
 >
@@ -247,7 +242,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=69)** That job typically falls to the browser, but it's not limited to the browser.
 >
-> **[1:13](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=73)** It can also be middleware or a service like Google or even a server.
+> **[1:13](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=73)** It can also be middleware or a service like [[Google]] or even a server.
 >
 > **[1:18](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=78)** TCP is short for Transmission Control Protocol.
 >
@@ -261,15 +256,15 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=113)** The URL is quite literally a Universal Resource Locator, a universally understood address pointing at a resource somewhere on the web.
 >
-> **[2:03](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=123)** URLs are human-readable addresses stored in Domain Name Servers and configured to point to the IP addresses of web servers.
+> **[2:03](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=123)** URLs are human-readable addresses stored in Domain Name Servers and configured to point to the IP addresses of [[Web Servers]].
 >
 > **[2:11](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=131)** When you type in a web address in the address bar of your browser, that address is automatically prefixed with either HTTP or HTTPS, telling you you are using the Hypertext Transfer Protocol to access the resource at the other end of that universal locator.
 >
-> **[2:28](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=148)** A server is a computer on the internet running some form of data storage and sharing application, most commonly a web server application, allowing users to access its data through the HTTP protocol.
+> **[2:28](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=148)** A server is a computer on the internet running some form of [[Data Storage]] and sharing application, most commonly a web server application, allowing users to access its data through the HTTP protocol.
 >
 > **[2:40](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=160)** HTTP is a client server protocol, meaning the clients, or user agent, most commonly the browser, sends request to the server and the server serves responses back to the client.
 >
-> **[2:53](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=173)** A proxy is a service, either software or hardware, acting as a middle person between clients and servers.
+> **[2:53](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=173)** A proxy is a service, either software or [[Hardware]], acting as a middle person between clients and servers.
 >
 > **[3:01](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=181)** Proxies are often used when the IP address of a server needs to be hidden or when a server or client sits behind some sort of network barrier like a firewall.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=244)** Every request and response has a header and some also have payloads, the data that's transferred.
 >
-> **[4:09](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=249)** The header contains metadata about the request facilitating communication between clients and servers.
+> **[4:09](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=249)** The header contains [[Metadata]] about the request facilitating communication between clients and servers.
 >
 > **[4:16](https://www.linkedin.com/learning/http-essential-training/http-terminology?u=76281980&t=256)** The headers of an HTTP request always contain a request method, or verb.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), data (7), application (6), css (2), next (2)
+> **Frameworks & Libraries:** [[Web Servers]] (3), [[HTML]] (1), [[Google]] (1), [[Data Storage]] (1), [[Hardware]] (1)
 > **Env Vars:** http (13), tcp (2), css (2), html (1), url (1)
 > **Definitions:** is a  (4), is an  (2), short for (2)
 > **CLI Commands:** make (1)
@@ -328,8 +323,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The HTTP flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980)
+#### [The HTTP flow](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=7)** In this library, each cubby in a shelf is a website.
 >
-> **[0:11](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=11)** A site can carry a bunch of different information, documents, images, video and audio, style sheets, JavaScript files, et cetera.
+> **[0:11](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=11)** A site can carry a bunch of different information, documents, images, video and audio, style sheets, [[JavaScript]] files, et cetera.
 >
 > **[0:19](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=19)** When you want to see what's in one of these websites, you go to a librarian and make a hypertext transfer protocol request.
 >
@@ -365,7 +359,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=109)** This response will contain an HTTP status message indicating what happened, headers with information about the response, and whatever data was requested.
 >
-> **[1:58](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=118)** This data could be an HTML document or a style sheet or a JavaScript file or image or any other type of content used in a standard website.
+> **[1:58](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=118)** This data could be an [[HTML]] document or a style sheet or a JavaScript file or image or any other type of content used in a standard website.
 >
 > **[2:08](https://www.linkedin.com/learning/http-essential-training/the-http-flow?u=76281980&t=128)** Finally, once the response is fully received, the TCP connection is closed.
 >
@@ -385,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), web (3), [[JavaScript]] (3), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (1)
 > **Env Vars:** http (9), tcp (3), https (1), tls (1), put (1)
 > **CLI Commands:** make (1)
 > **API Endpoints:** delete  (1)
@@ -394,8 +388,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - to (1)
 
-#### Tools to see HTTP in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980)
+#### [Tools to see HTTP in action](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=75)** This is a document.
 >
-> **[1:17](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=77)** It's an html document, and it's the main html document for the current page you're looking at.
+> **[1:17](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=77)** It's an [[HTML]] document, and it's the main html document for the current page you're looking at.
 >
 > **[1:22](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=82)** You can see over in the status, this received a 200 status for the method GET, meaning we received a file we requested, and then, when we scroll down, you see there's a ton of other content here with the request status 304.
 >
@@ -433,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=103)** So you see all these stylesheets and scripts have been cached by the computer.
 >
-> **[1:48](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=108)** Scrolling down, there's another new stylesheet here that comes from Google.
+> **[1:48](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=108)** Scrolling down, there's another new stylesheet here that comes from [[Google]].
 >
 > **[1:52](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=112)** This one has been retrieved the second we loaded the page, so it has a 200 status, and we can keep going down and see the status of all of these different elements, so these are the pieces that make up the site, and these are all the http requests that were sent over TCP and navigated back and forth between the browser and the server.
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=237)** We have a host header, so this is a key from the host.
 >
-> **[4:00](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=240)** We have the link to the json API that runs in the background of this particular site.
+> **[4:00](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=240)** We have the link to the [[JSON]] API that runs in the background of this particular site.
 >
 > **[4:06](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=246)** We get information about the server.
 >
@@ -483,7 +476,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=278)** So the browser tools give you a full breakdown of exactly what happens in the browser.
 >
-> **[4:43](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=283)** If you need to run even more in-depth tests on request and response headers, you can also use a dedicated REST client to do so.
+> **[4:43](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=283)** If you need to run even more in-depth tests on request and response headers, you can also use a dedicated [[Representational State Transfer (REST)|REST]] client to do so.
 >
 > **[4:51](https://www.linkedin.com/learning/http-essential-training/tools-to-see-http-in-action?u=76281980&t=291)** There are many such applications available, including Postman, Insomnia, and my current favorite, the VS Code REST Client extension.
 >
@@ -493,7 +486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), data (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (1)
 > **Env Vars:** url (4), rest (2), tcp (1), http2 (1), http (1)
 > **Tools:** firefox (3), safari (1), postman (1), insomnia (1), vs code (1)
 > **UI Navigation:** go to (2), right-click (1), scroll down (1), click on (1)
@@ -507,8 +500,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The request/response pair
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/the-request-response-pair?u=76281980)
+#### [The request/response pair](https://www.linkedin.com/learning/http-essential-training/the-request-response-pair?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,13 +518,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** http (1)
 > **Speakers:** - the (1)
 
-#### Anatomy of a URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980)
+#### [Anatomy of a URL](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=9)** A URL is a human-readable address, describing exactly where on the web and in what location on a server the information you are requesting is located.
 >
-> **[0:20](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=20)** Let's take a regular URL and break it apart to see how it fits together, [https://linkedin.com/learning](https://linkedin.com/learning)/ javascript-essential-training-3/ and then a bunch of extra information.
+> **[0:20](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=20)** Let's take a regular URL and break it apart to see how it fits together, [https://[[LinkedIn]].com/learning](https://linkedin.com/learning)/ [[JavaScript]]-essential-training-3/ and then a bunch of extra information.
 >
 > **[0:36](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=36)** The URL has two main pieces, a protocol declaration, and a Universal Resource Name, or URN.
 >
@@ -572,9 +562,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=109)** This is the file location within the server.
 >
-> **[1:52](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=112)** The default names for web documents are index.html and default.html, or just htm, or something like that.
+> **[1:52](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=112)** The default names for web documents are index.[[HTML]] and default.html, or just htm, or something like that.
 >
-> **[2:00](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=120)** If we request a folder without a file specification, the server and browser automatically look for files named either index.html or default.html or index.php or similar and returns that file to us.
+> **[2:00](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=120)** If we request a folder without a file specification, the server and browser automatically look for files named either index.html or default.html or index.[[PHP]] or similar and returns that file to us.
 >
 > **[2:15](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-url?u=76281980&t=135)** If the file is called anything else, like about.html or contact.php, etc., the resource path needs to list the filename specifically, so [mysite.com/folder/about.html](https://mysite.com/folder/about.html).
 >
@@ -590,7 +580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), web (4), [[PHP]] (2), [[LinkedIn]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[PHP]] (2), [[LinkedIn]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (6), urn (3), dns (1)
 > **File Paths:** index.html (2), default.html (2), index.php (1), about.html (1), contact.php (1)
 > **URLs:** [https://linkedin.com/learning](https://linkedin.com/learning) (1), [localhost:8080](https://localhost:8080) (1), [mysite.com](https://mysite.com) (1)
@@ -599,8 +589,7 @@ created: 2026-05-02
 > **Ports:** :8080 (1)
 > **Documentation:** specification (1)
 
-#### HTTP methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/http-methods?u=76281980)
+#### [HTTP methods](https://www.linkedin.com/learning/http-essential-training/http-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,15 +683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), web (1), [[Security]] (1)
 > **Env Vars:** put (9), post (8), http (7), delete (4), patch (3)
 > **API Endpoints:** put  (7), post  (4), get  (2), patch  (2), delete  (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** used (1)
 > **Speakers:** - every (1)
 
-#### HTTP status messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/http-status-messages?u=76281980)
+#### [HTTP status messages](https://www.linkedin.com/learning/http-essential-training/http-status-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/http-essential-training/http-status-messages?u=76281980&t=38)** They're used to inform the client of the status of the server, typically 102 Processing, which tells the client to wait for the server to finish.
 >
-> **[0:46](https://www.linkedin.com/learning/http-essential-training/http-status-messages?u=76281980&t=46)** Or 100 Continue, which simply tells the client the server has received the request headers, and is ready for the rest of the request body.
+> **[0:46](https://www.linkedin.com/learning/http-essential-training/http-status-messages?u=76281980&t=46)** Or 100 Continue, which simply tells the client the server has received the request headers, and is ready for the [[Representational State Transfer (REST)|rest]] of the request body.
 >
 > **[0:55](https://www.linkedin.com/learning/http-essential-training/http-status-messages?u=76281980&t=55)** This last one is typically encountered when sending POST requests with a large data body.
 >
@@ -766,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (5), uri (3), post (2), url (1)
 > **CLI Commands:** find (2)
 > **API Endpoints:** post  (1)
@@ -777,8 +764,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are HTTP headers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980)
+#### [What are HTTP headers?](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,11 +778,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=37)** A request can hold as many headers as are needed, each separated by a line break.
 >
-> **[0:44](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=44)** In modern single page applications and responses from advanced content management systems and servers, there is usually a lot of information passing back and forth using these headers.
+> **[0:44](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=44)** In modern single page applications and responses from advanced [[Content Management Systems (CMS)|content management systems]] and servers, there is usually a lot of information passing back and forth using these headers.
 >
 > **[0:54](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=54)** Let's look at a couple of examples.
 >
-> **[0:57](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=57)** Say you want to send a POST request to a content management system to create a new resource.
+> **[0:57](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=57)** Say you want to send a POST request to a [[Content Management]] system to create a new resource.
 >
 > **[1:03](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980&t=63)** To make this work, you first have to authenticate yourself to prove to the server you have the correct authorization to create new resources.
 >
@@ -838,7 +824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Content Management Systems (CMS)|Content management systems]] (1), [[Content Management]] (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Content Management Systems (CMS)|Content management systems]] (1), [[Content Management]] (1)
 > **Env Vars:** http (4), post (1), http2 (1)
 > **CLI Commands:** make (2)
 > **API Endpoints:** post  (1)
@@ -846,8 +832,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - earlier (1)
 
-#### How to see HTTP headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980)
+#### [How to see HTTP headers](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,11 +844,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=20)** But within the context of the browser, you're relying on the browser to generate your requests.
 >
-> **[0:26](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=26)** If you need to send custom request headers to a server to test the response, you can do so using a REST client.
+> **[0:26](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=26)** If you need to send custom request headers to a server to test the response, you can do so using a [[Representational State Transfer (REST)|REST]] client.
 >
 > **[0:33](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=33)** If you don't know what REST is, or you want to learn more about REST and RESTful APIs, go check out my other course, "Learning REST APIs".
 >
-> **[0:41](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=41)** Short story, REST, or representational state transfer, is a set of rules that describe how data is transferred and managed between clients and servers.
+> **[0:41](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=41)** Short story, REST, or [[Representational State Transfer (REST)|representational state transfer]], is a set of rules that describe how data is transferred and managed between clients and servers.
 >
 > **[0:49](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=49)** All you need to know here is that the entire web is a giant RESTful API, and you can use a REST client to interface with it.
 >
@@ -909,7 +894,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=135)** Send it again.
 >
-> **[2:16](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=136)** And this time, under "Body", I'll get the actual HTML document itself, in addition to the headers.
+> **[2:16](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=136)** And this time, under "Body", I'll get the actual [[HTML]] document itself, in addition to the headers.
 >
 > **[2:22](https://www.linkedin.com/learning/http-essential-training/how-to-see-http-headers?u=76281980&t=142)** And here you see I get two extra headers, so I have eight this time because I also have Content Type, HTML, and I have this Transfer Encoding, chunked, section.
 >
@@ -959,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (15), web (2), application (2), [[HTML]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (15), [[HTML]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** rest (14), head (4), url (3), http (2), html (2)
 > **Tools:** postman (5), visual studio (3), firefox (1)
 > **Definitions:** is a  (4)
@@ -968,8 +953,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
 
-#### Anatomy of a request header
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-request-header?u=76281980)
+#### [Anatomy of a request header](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-request-header?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,13 +983,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), data (1)
 > **Env Vars:** http (3), url (3), https (1), urn (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Anatomy of a response header
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-response-header?u=76281980)
+#### [Anatomy of a response header](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-response-header?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,7 +997,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-response-header?u=76281980&t=14)** This response header declares the status of the response 200 OK, the server type, the date and time of the response message, the content type of the return data, and other information.
 >
-> **[0:26](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-response-header?u=76281980&t=26)** What you see here is just the response headers in addition comes the entire payload which in this case is html document.
+> **[0:26](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-response-header?u=76281980&t=26)** What you see here is just the response headers in addition comes the entire payload which in this case is [[HTML]] document.
 >
 > **[0:34](https://www.linkedin.com/learning/http-essential-training/anatomy-of-a-response-header?u=76281980&t=34)** The client in our case, the Firefox browser, receives this header and processes whatever data is returned in the payload according to the header content.
 >
@@ -1023,13 +1005,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980)
+#### [Cookies](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=55)** The browser receives this cookie and keeps it in its memory.
 >
-> **[0:59](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=59)** In my browser, I've logged into the WordPress site I've been using as a demo and when I go to my developer tools and click on networks and click on the main file, you'll see over here, next to the headers tab, we have a cookies tab.
+> **[0:59](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=59)** In my browser, I've logged into the [[WordPress]] site I've been using as a demo and when I go to my developer tools and click on networks and click on the main file, you'll see over here, next to the headers tab, we have a cookies tab.
 >
 > **[1:12](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=72)** And when you click on that cookies tab, you'll see my WordPress site has left a bunch of different cookies stored in the browser.
 >
@@ -1065,7 +1046,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=100)** In the request header, here, you'll see under the cookie header, we have all that same information passed on to the server.
 >
-> **[1:48](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=108)** Now, the next time a request is sent from the browser to the server, the request header includes a cookie header with the same unique tokens.
+> **[1:48](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=108)** Now, the next time a request is sent from the browser to the server, the request header includes a cookie header with the same unique [[Tokens]].
 >
 > **[1:57](https://www.linkedin.com/learning/http-essential-training/cookies?u=76281980&t=117)** The server receives the request, checks the token in the cookie against its own database and if everything matches, sends back the data as requested.
 >
@@ -1079,20 +1060,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), next (3), database (2), [[Tokens]] (1), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Tokens]] (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Env Vars:** attp (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980)
+#### [Caching](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=0)** - [Instructor] The second example is caching.
 >
-> **[0:02](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=2)** On your website, you may have contents that are rarely updated, like your JavaScript or CSS files, content that is sometimes updated, like pages, and content that is updated all the time, like the front page or news section of an information site.
+> **[0:02](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=2)** On your website, you may have contents that are rarely updated, like your [[JavaScript]] or CSS files, content that is sometimes updated, like pages, and content that is updated all the time, like the front page or news section of an information site.
 >
 > **[0:16](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=16)** Both servers and clients can tell the other party to cache, literally store for later, any files they send through HTTP.
 >
@@ -1126,11 +1106,11 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=145)** HTTP caching deserves an entire course of its own.
 >
-> **[2:29](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=149)** You can learn more about it in my course HTTP Two, Developing For Performance, and find further information on MDM and on developers.[google.com](https://google.com).
+> **[2:29](https://www.linkedin.com/learning/http-essential-training/caching?u=76281980&t=149)** You can learn more about it in my course HTTP Two, Developing For Performance, and find further information on MDM and on developers.[[[Google]].com](https://google.com).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), css (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Google]] (1)
 > **Env Vars:** http (3), css (2), mdm (1)
 > **CLI Commands:** find (1)
 > **URLs:** [google.com](https://google.com) (1)
@@ -1141,22 +1121,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=0)** - [Instructor] That concludes this introduction to HTTP now that you know the basics of how the hypertext transfer protocol works, I encourage you to dive deeper into this material by watching the learning rest API course the HTTP 2 Developing for Performance course and reading the excellent documentation on HTTP on MDN and on developers.[google.com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=0)** - [Instructor] That concludes this introduction to HTTP now that you know the basics of how the hypertext transfer protocol works, I encourage you to dive deeper into this material by watching the learning [[Representational State Transfer (REST)|rest]] API course the HTTP 2 Developing for Performance course and reading the excellent documentation on HTTP on MDN and on developers.[[[Google]].com](https://google.com).
 >
 > **[0:22](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=22)** Knowing how HTTP works and how to make it work for you will open new doors and make your websites more performance and more user-friendly.
 >
-> **[0:30](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=30)** I love hearing from you about how you use what you've learned in my courses, you can find me on Twitter at Morten 'cause that's my name where I talk about the web and how it shapes us and I publish random articles on Linkedin as well.
+> **[0:30](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=30)** I love hearing from you about how you use what you've learned in my courses, you can find me on Twitter at Morten 'cause that's my name where I talk about the web and how it shapes us and I publish random articles on [[LinkedIn]] as well.
 >
 > **[0:43](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980&t=43)** Now all that stuff for me to say is (mumbles) go do exciting things with the hypertext transfer protocol and I'll see you in the next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Google]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[LinkedIn]] (1)
 > **Env Vars:** http (4), api (1), mdn (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [google.com](https://google.com) (1)

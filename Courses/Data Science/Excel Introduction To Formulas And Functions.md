@@ -88,30 +88,28 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create powerful Excel formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980)
+#### [Create powerful Excel formulas](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=0)** - [Instructor] Microsoft Excel is a powerful tool for evaluating data within your business or organization.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=0)** - [Instructor] [[Microsoft Excel]] is a powerful tool for evaluating data within your business or organization.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=6)** Creating useful calculations brings that information to the surface and helps you make good decisions.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=12)** In this course, I will use real world examples to demonstrate how you can apply the incredible power of Excel to your data.
+> **[0:12](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=12)** In this course, I will use real world examples to demonstrate how you can apply the incredible power of [[Microsoft Excel|Excel]] to your data.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=20)** I'm Curt Frye.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=21)** Join me at LinkedIn Learning for an introduction to the foundations of Excel's power and versatility, formulas and functions.
+> **[0:21](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980&t=21)** Join me at [[LinkedIn]] Learning for an introduction to the foundations of Excel's power and versatility, formulas and functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/what-you-should-know-before-starting?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/what-you-should-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/what-you-should-know-before-starting?u=76281980&t=2)** Before I get started, I'd like to bring up some points that you can use to get the most out of what I show you.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/what-you-should-know-before-starting?u=76281980&t=8)** First, I do assume that you have basic knowledge of Microsoft Excel, and that will include running the program, and saving and opening files, that sort of thing.
+> **[0:08](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/what-you-should-know-before-starting?u=76281980&t=8)** First, I do assume that you have basic knowledge of [[Microsoft Excel]], and that will include running the program, and saving and opening files, that sort of thing.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/what-you-should-know-before-starting?u=76281980&t=18)** Also, I hope that you'll have some goals for calculations that you create on your own.
 >
@@ -140,12 +138,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Familiarize yourself with functions and formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980)
+#### [Familiarize yourself with functions and formulas](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=0)** - [Instructor] Many Excel users, myself included, tend to use the terms function and formula as if they meant the same thing.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=0)** - [Instructor] Many [[Microsoft Excel|Excel]] users, myself included, tend to use the terms function and formula as if they meant the same thing.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980&t=7)** In fact, functions and formulas are quite distinct.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (4)
 > **Env Vars:** sum (3)
@@ -232,12 +229,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980)
+#### [Create a formula](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=0)** - [Instructor] Excel formulas let you summarize the data contained in your worksheets which helps you discover important information about your business.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] formulas let you summarize the data contained in your worksheets which helps you discover important information about your business.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=7)** In this movie I will show you the three main ways to create a formula in Excel.
 >
@@ -371,7 +367,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=382)** And this will use data in another workbook.
 >
-> **[6:27](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=387)** So I'll click cell D9, type an equals sign, and then I'll press Alt + Tab on Windows to move to the workbook from the first movie, 01_01_Introducing.
+> **[6:27](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=387)** So I'll click cell D9, type an equals sign, and then I'll press Alt + Tab on [[Windows]] to move to the workbook from the first movie, 01_01_Introducing.
 >
 > **[6:42](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-formula?u=76281980&t=402)** And again, if you want to follow along and you haven't opened this workbook, you can either pause right now or I'll talk for a few more seconds and you can open it in the background.
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), business (1), [[Search]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
 > **Env Vars:** sum (8), b15 (3), average (1), hyperlink (1), b14 (1)
 > **CLI Commands:** find (6), make (1)
 > **UI Navigation:** go to (2), scroll down (2), open the (1), select the (1)
@@ -398,12 +394,11 @@ created: 2026-05-02
 > **Versions:** 0.1 (1)
 > **Exercise Files:** exercise files (1)
 
-#### Introduce arithmetic operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980)
+#### [Introduce arithmetic operators](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=0)** - [Instructor] Many Excel formulas include arithmetic operators, such as the plus sign and the minus sign.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=0)** - [Instructor] Many [[Microsoft Excel|Excel]] formulas include arithmetic operators, such as the plus sign and the minus sign.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=5)** But Excel doesn't just read your formula from left to right and take the operations in order.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=190)** In addition to arithmetic operators, you can also use comparison operators.
 >
-> **[3:14](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=194)** So I'll flip back to my PowerPoint to describe the operators that are available to you in Excel.
+> **[3:14](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=194)** So I'll flip back to my [[Microsoft PowerPoint|PowerPoint]] to describe the operators that are available to you in Excel.
 >
 > **[3:21](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/introduce-arithmetic-operators?u=76281980&t=201)** Comparison operators, as the name implies, compare things.
 >
@@ -525,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), next (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -533,8 +528,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cell references in formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-cell-references-in-formulas?u=76281980)
+#### [Use cell references in formulas](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-cell-references-in-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +592,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-cell-references-in-formulas?u=76281980&t=186)** Then a comma, and then the second range, B9 to C11.
 >
-> **[3:11](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-cell-references-in-formulas?u=76281980&t=191)** Excel creates that type of formula automatically.
+> **[3:11](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-cell-references-in-formulas?u=76281980&t=191)** [[Microsoft Excel|Excel]] creates that type of formula automatically.
 >
 > **[3:14](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-cell-references-in-formulas?u=76281980&t=194)** Or if you want to type it in, you can just put a comma between the ranges.
 >
@@ -634,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** c11 (3), sum (2), c10 (1)
 > **CLI Commands:** find (2)
 > **Ports:** :13 (1)
@@ -643,8 +637,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use absolute and relative references in formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-absolute-and-relative-references-in-formulas?u=76281980)
+#### [Use absolute and relative references in formulas](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-absolute-and-relative-references-in-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,7 +701,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-absolute-and-relative-references-in-formulas?u=76281980&t=177)** And I will click within the cell reference of B1.
 >
-> **[3:02](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-absolute-and-relative-references-in-formulas?u=76281980&t=182)** In Windows, I can create an absolute reference by pressing F4.
+> **[3:02](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-absolute-and-relative-references-in-formulas?u=76281980&t=182)** In [[Windows]], I can create an absolute reference by pressing F4.
 >
 > **[3:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/use-absolute-and-relative-references-in-formulas?u=76281980&t=186)** So I'll press F4.
 >
@@ -772,12 +765,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy and paste formulas and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980)
+#### [Copy and paste formulas and values](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=0)** - [Instructor] When you summarize data in an Excel worksheet, you'll often find that a formula you use in one cell can be used in others.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=0)** - [Instructor] When you summarize data in an [[Microsoft Excel|Excel]] worksheet, you'll often find that a formula you use in one cell can be used in others.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=8)** In this movie, I will show you how to copy worksheet formulas and have the cell references change or not change as you wish.
 >
@@ -829,7 +821,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=231)** And if I double click cell E1, that's because I copied the formula text over directly.
 >
-> **[3:57](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=237)** I selected it just like I would in Microsoft Word or PowerPoint and then pasted it into the cell.
+> **[3:57](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=237)** I selected it just like I would in [[Microsoft Word]] or [[Microsoft PowerPoint|PowerPoint]] and then pasted it into the cell.
 >
 > **[4:03](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/copy-and-paste-formulas-and-values?u=76281980&t=243)** So that's the difference between those two techniques.
 >
@@ -859,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 4.75 (2), 1.0475 (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** b11 (1)
@@ -868,12 +860,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit a formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980)
+#### [Edit a formula](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=0)** - [Instructor] Excel worksheets evolve over time to reflect the nature of your business and how you analyze your data, so you will almost certainly end up changing some of your formulas.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] worksheets evolve over time to reflect the nature of your business and how you analyze your data, so you will almost certainly end up changing some of your formulas.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-a-formula?u=76281980&t=10)** You can edit Excel formulas in two ways, either on the formula bar or within a cell.
 >
@@ -927,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), hit (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** double-click (2), click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
@@ -940,12 +931,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a SUM or AVERAGE formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980)
+#### [Create a SUM or AVERAGE formula](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980&t=0)** - [Instructor] You will use lots of different functions in your workbooks, but two of the most useful summary functions in Excel are sum and average.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980&t=0)** - [Instructor] You will use lots of different functions in your workbooks, but two of the most useful summary functions in [[Microsoft Excel|Excel]] are sum and average.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980&t=8)** They operate as you would expect, calculating the sum and average of a series of worksheet values.
 >
@@ -1051,7 +1041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** find (3)
 > **Definitions:** refers to (1), is a  (1)
 > **UI Navigation:** select the (1)
@@ -1059,12 +1049,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an AutoSum formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-an-autosum-formula?u=76281980)
+#### [Create an AutoSum formula](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-an-autosum-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-an-autosum-formula?u=76281980&t=0)** - [Instructor] One of the most common types of formulas that you will create in Excel is one that finds the sum of a column or row of numbers.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-an-autosum-formula?u=76281980&t=0)** - [Instructor] One of the most common types of formulas that you will create in [[Microsoft Excel|Excel]] is one that finds the sum of a column or row of numbers.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-an-autosum-formula?u=76281980&t=9)** Excel enables you to create auto sum formulas, which are sum or other formulas you create quickly with just a few keystrokes or clicks of the mouse.
 >
@@ -1124,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2)
 > **UI Navigation:** go to (1)
@@ -1132,14 +1121,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create formulas to count cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-count-cells?u=76281980)
+#### [Create formulas to count cells](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-count-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-count-cells?u=76281980&t=0)** - [Instructor] Sometimes, rather than finding the sum or average of values in a range of cells, you'll just want to know how many cells are in that range, how many contain a number, how many contain any value at all, and also how many are blank.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-count-cells?u=76281980&t=15)** Excel has a number of functions to count the number of cells in a range that contain a particular type of data.
+> **[0:15](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-count-cells?u=76281980&t=15)** [[Microsoft Excel|Excel]] has a number of functions to count the number of cells in a range that contain a particular type of data.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-count-cells?u=76281980&t=20)** I'll demonstrate how to perform each of these counts, using the available functions.
 >
@@ -1199,19 +1187,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** b11 (3), count (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music plays) (1)
 
-#### Create formulas to summarize cells conditionally
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-summarize-cells-conditionally?u=76281980)
+#### [Create formulas to summarize cells conditionally](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-summarize-cells-conditionally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-summarize-cells-conditionally?u=76281980&t=0)** - [Instructor] Most of the formulas you create in Excel will always perform the same calculation.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-summarize-cells-conditionally?u=76281980&t=0)** - [Instructor] Most of the formulas you create in [[Microsoft Excel|Excel]] will always perform the same calculation.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-formulas-to-summarize-cells-conditionally?u=76281980&t=5)** There will be times however when you only want to perform calculations if the inputs meet one or more criteria.
 >
@@ -1331,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** ifs (4), sum (2), count (1), c10 (1)
 > **Versions:** 0.05 (2), 1.1 (1), 0.08 (1)
 > **CLI Commands:** find (3)
@@ -1340,12 +1327,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize data on the status bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-on-the-status-bar?u=76281980)
+#### [Summarize data on the status bar](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-on-the-status-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-on-the-status-bar?u=76281980&t=0)** - [Instructor] Creating a formula in Excel takes just a few seconds, but there might be times when you want to find the sum or average of a set of numbers without saving the results in your worksheet.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-on-the-status-bar?u=76281980&t=0)** - [Instructor] Creating a formula in [[Microsoft Excel|Excel]] takes just a few seconds, but there might be times when you want to find the sum or average of a set of numbers without saving the results in your worksheet.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-on-the-status-bar?u=76281980&t=11)** If that's the case, you can select the cells to have Excel displays and summary operations on the status bar at the bottom right of the workbook window.
 >
@@ -1391,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1)
@@ -1404,8 +1390,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize data using named ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980)
+#### [Summarize data using named ranges](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1465,7 +1450,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980&t=178)** That way I can refer to it on any worksheet.
 >
-> **[3:01](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980&t=181)** I could also click the name of a specific worksheet, in which case Excel would only allow me to use this named range on that workbook.
+> **[3:01](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980&t=181)** I could also click the name of a specific worksheet, in which case [[Microsoft Excel|Excel]] would only allow me to use this named range on that workbook.
 >
 > **[3:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980&t=190)** I could still use the cells but the name would not be available.
 >
@@ -1545,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** c13 (2), c10 (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -1554,14 +1539,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and delete named ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-and-delete-named-ranges?u=76281980)
+#### [Edit and delete named ranges](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-and-delete-named-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-and-delete-named-ranges?u=76281980&t=0)** - [Instructor] Just like every other workbook element, you can edit and delete named ranges after you create them.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-and-delete-named-ranges?u=76281980&t=6)** In Excel, you can work with your named ranges using the Name Manager.
+> **[0:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-and-delete-named-ranges?u=76281980&t=6)** In [[Microsoft Excel|Excel]], you can work with your named ranges using the Name Manager.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/edit-and-delete-named-ranges?u=76281980&t=11)** I'll demonstrate using the sample file named 03_02_EditNames, which you can find in the Chapter03 folder of the Exercise Files collection.
 >
@@ -1624,12 +1608,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 
-#### Summarize data using an Excel table
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-an-excel-table?u=76281980)
+#### [Summarize data using an Excel table](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-an-excel-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-an-excel-table?u=76281980&t=0)** - [Instructor] A lot of the data that you keep in Excel can be stored in the list.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-an-excel-table?u=76281980&t=0)** - [Instructor] A lot of the data that you keep in [[Microsoft Excel|Excel]] can be stored in the list.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-an-excel-table?u=76281980&t=5)** In this movie, I will show you how to enhance that structure by creating an Excel table.
 >
@@ -1737,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (6)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **CLI Commands:** find (2)
 > **Env Vars:** c10 (1), b10 (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -1746,12 +1729,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
 
-#### Refer to Excel table cells in formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/refer-to-excel-table-cells-in-formulas?u=76281980)
+#### [Refer to Excel table cells in formulas](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/refer-to-excel-table-cells-in-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/refer-to-excel-table-cells-in-formulas?u=76281980&t=0)** - [Instructor] Excel tables provide a structure within your workbooks, that you can use when you summarize your data.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/refer-to-excel-table-cells-in-formulas?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] tables provide a structure within your workbooks, that you can use when you summarize your data.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/refer-to-excel-table-cells-in-formulas?u=76281980&t=6)** One major benefit of Excel tables is that you can refer to table columns in your formulas, using the table and column names, which make your formulas easier to interpret.
 >
@@ -1825,7 +1807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (6)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sum (1)
 > **UI Navigation:** go to (1)
@@ -1837,12 +1819,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage data using text functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980)
+#### [Manage data using text functions](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980&t=0)** - [Instructor] When you work with text data in Excel, you can never be sure what you're going to get.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980&t=0)** - [Instructor] When you work with text data in [[Microsoft Excel|Excel]], you can never be sure what you're going to get.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980&t=5)** Happily, there are text functions you can use to return the values you need from difficult data.
 >
@@ -1930,11 +1911,11 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980&t=288)** If I want to include the letter M, then I need to edit the formula and just to the right of the equal sign, I'll type in double quotes an M, then the & symbol or ampersand and enter, and I get model 147.
 >
-> **[5:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980&t=306)** Then I will select B2 through D2 and use the fill handle at the bottom right corner of the selection to copy down and I get all the values that I want for my category model and variant for each of my five products.
+> **[5:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980&t=306)** Then I will select B2 through D2 and use the fill handle at the bottom right corner of the selection to copy down and I get all the values that I want for my category model and variant for each of my five [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** textbefore (7), textafter (3), c35 (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
@@ -1943,12 +1924,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Separate data using Flash Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/separate-data-using-flash-fill?u=76281980)
+#### [Separate data using Flash Fill](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/separate-data-using-flash-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/separate-data-using-flash-fill?u=76281980&t=0)** - [Instructor] Sometimes the data you bring into Excel will all be put into one cell or column and you want to separate individual values out.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/separate-data-using-flash-fill?u=76281980&t=0)** - [Instructor] Sometimes the data you bring into [[Microsoft Excel|Excel]] will all be put into one cell or column and you want to separate individual values out.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/separate-data-using-flash-fill?u=76281980&t=9)** In this movie, I will show you how to use a capability called flash fill to separate your data and have Excel do most of the work for you.
 >
@@ -1996,23 +1976,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create data validation rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980)
+#### [Create data validation rules](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980&t=0)** - [Instructor] Your calculations are only as good as the data in your worksheets.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980&t=4)** You can't do a lot to control the data you receive from outside sources, but you can help your staff enter data correctly by creating data validation rules.
+> **[0:04](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980&t=4)** You can't do a lot to control the data you receive from outside sources, but you can help your staff enter data correctly by creating [[Data Validation]] rules.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980&t=14)** In this movie, I will show you how to create a data validation role and apply it in Excel.
+> **[0:14](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980&t=14)** In this movie, I will show you how to create a data validation role and apply it in [[Microsoft Excel|Excel]].
 >
 > **[0:21](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-data-validation-rules?u=76281980&t=21)** My sample file is 0403 Validation, and you can find it in the chapter four folder of the exercise files collection.
 >
@@ -2088,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Validation]] (12), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** select the (2), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** warning (2)
@@ -2097,12 +2076,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Restrict data entry using lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980)
+#### [Restrict data entry using lists](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=0)** - [Instructor] Data validation rules help limit the data your users can enter into a cell but they can be frustrating if the rules aren't clear.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=0)** - [Instructor] [[Data Validation]] rules help limit the data your users can enter into a cell but they can be frustrating if the rules aren't clear.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=8)** One of the best ways to ensure that users enter one of a set number of options is to define a list of acceptable values for a cell.
 >
@@ -2110,7 +2088,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=24)** My sample file is 04_04_ValidList, and you can find it in the chapter four folder of the Exercise Files collection.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=32)** Over on the left, I have the start of an Excel table that has individuals putting in order IDs and then the category and the total.
+> **[0:32](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=32)** Over on the left, I have the start of an [[Microsoft Excel|Excel]] table that has individuals putting in order IDs and then the category and the total.
 >
 > **[0:42](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=42)** Now, the order ID and the total I'm not worried about.
 >
@@ -2178,7 +2156,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=227)** So in cell A4, I'll type P003, then a tab.
 >
-> **[3:52](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=232)** But now let's say that I have a new category of products, wind harvesters.
+> **[3:52](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=232)** But now let's say that I have a new category of [[Microsoft Products|products]], wind harvesters.
 >
 > **[3:58](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/restrict-data-entry-using-lists?u=76281980&t=238)** So I'll go over to cell E7 and then type wind harvester and enter.
 >
@@ -2208,7 +2186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (2), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (10), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** checkbox (2), go to (1), dropdown (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** p002 (1), p003 (1)
@@ -2221,12 +2199,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trace formula precedents and dependents
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980)
+#### [Trace formula precedents and dependents](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=0)** - [Instructor] Excel includes a number of very useful tools that you can use to ensure your formulas include the proper values.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] includes a number of very useful tools that you can use to ensure your formulas include the proper values.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980&t=7)** One of those tools gives you the ability to determine which cells are used in which worksheet formulas.
 >
@@ -2288,14 +2265,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate Excel formulas step by step
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980)
+#### [Evaluate Excel formulas step by step](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=0)** - [Instructor] Sometimes when you look at a worksheet, you'll realize that a formula is returning an incorrect value.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=6)** Much of the time, you will be able to find the solution yourself, but if you can't, you can use the evaluate formula capability within Excel to step through the calculation one step at a time, and to identify the problem that way.
+> **[0:06](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=6)** Much of the time, you will be able to find the solution yourself, but if you can't, you can use the evaluate formula capability within [[Microsoft Excel|Excel]] to step through the calculation one step at a time, and to identify the problem that way.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=21)** I will demonstrate that process using the 0502 evaluating workbook.
 >
@@ -2323,7 +2299,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=105)** Now, one thing to note, if you are on a Macintosh, you would not see evaluate formula.
 >
-> **[1:50](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=110)** Unfortunately, this capability is only available in the Windows version of Excel, but continuing on, in the evaluate formula dialogue box I have the formula as it appears in the cell, and now, I can click evaluate, and that does the first step of my calculation.
+> **[1:50](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=110)** Unfortunately, this capability is only available in the [[Windows]] version of Excel, but continuing on, in the evaluate formula dialogue box I have the formula as it appears in the cell, and now, I can click evaluate, and that does the first step of my calculation.
 >
 > **[2:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/evaluate-excel-formulas-step-by-step?u=76281980&t=130)** So, that is a value of 300,000, and if I drag the dialogue to the right, I can see that is the value in B3.
 >
@@ -2352,12 +2328,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify and trace errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/identify-and-trace-errors?u=76281980)
+#### [Identify and trace errors](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/identify-and-trace-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/identify-and-trace-errors?u=76281980&t=0)** - [Instructor] Excel does its best to help you avoid and fix formula errors.
+> **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/identify-and-trace-errors?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] does its best to help you avoid and fix formula errors.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/identify-and-trace-errors?u=76281980&t=5)** One of the ways it does that is to display indicators and messages that flag and describe what it thinks might be a problem.
 >
@@ -2427,15 +2402,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage Excel formula error indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-excel-formula-error-indicators?u=76281980)
+#### [Manage Excel formula error indicators](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-excel-formula-error-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2473,20 +2447,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=0)** - [Instructor] Thanks again for your interest in the course.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=2)** Before I go, I would like to point out three resources that you can use to learn more about formulas and functions in Excel.
+> **[0:02](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=2)** Before I go, I would like to point out three resources that you can use to learn more about formulas and functions in [[Microsoft Excel|Excel]].
 >
-> **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=10)** The first is the official Microsoft Support site, which is support.[office.com](https://office.com).
+> **[0:10](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=10)** The first is the official [[Microsoft]] Support site, which is support.[[[Microsoft Office|office]].com](https://office.com).
 >
 > **[0:16](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=16)** You can find information about Excel and the other office programs there.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=20)** The first book I'd like to recommend is Microsoft Excel step-by-step for Office 2021 and Microsoft 365.
+> **[0:20](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=20)** The first book I'd like to recommend is [[Microsoft Excel]] step-by-step for Office 2021 and [[Microsoft 365]].
 >
 > **[0:28](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980&t=28)** I co-authored this book with Joan Lambert.
 >
@@ -2502,7 +2475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Microsoft 365]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2), [[Microsoft 365]] (2), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **URLs:** [office.com](https://office.com) (1)

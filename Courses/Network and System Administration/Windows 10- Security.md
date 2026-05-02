@@ -107,14 +107,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Windows 10 security overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980)
+#### [Windows 10 security overview](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980&t=0)** - [Martin] Hi, I'm Martin Guidry, and welcome to Securing Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980&t=0)** - [Martin] Hi, I'm Martin Guidry, and welcome to Securing [[Windows 10]].
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980&t=5)** In this course, we'll cover the skills you need to configure the security of the Microsoft Windows 10 operating system.
+> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980&t=5)** In this course, we'll cover the skills you need to configure the security of the [[Microsoft]] Windows 10 operating system.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980&t=13)** I'll start by discussing the different authentication and authorization methods in Windows 10.
 >
@@ -130,19 +129,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (6), [[Security]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Microsoft]] (1)
 > **Env Vars:** efs (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [martin] (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/what-you-should-know-before-starting?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/windows-10-security-14135501/what-you-should-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/what-you-should-know-before-starting?u=76281980&t=0)** - [Instructor] Before we get started with this course, let's talk a little bit about what you should know going into this course.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/what-you-should-know-before-starting?u=76281980&t=8)** Although you don't need to be an expert in Windows 10, you should be familiar with the basic features of Windows 10.
+> **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/what-you-should-know-before-starting?u=76281980&t=8)** Although you don't need to be an expert in [[Windows 10]], you should be familiar with the basic features of Windows 10.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-security-14135501/what-you-should-know-before-starting?u=76281980&t=16)** If you feel you're not at this level yet, you might want to try one of our other courses that will get you up to speed, particularly Windows 10 Essential Training with Nick Brazzi.
 
@@ -151,12 +149,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Windows 10]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### About this update
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980)
+#### [About this update](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=0)** - [Instructor] Microsoft pushes out new versions of Windows 10 from time to time.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=0)** - [Instructor] [[Microsoft]] pushes out new versions of [[Windows 10]] from time to time.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=5)** If you'd like to check your version, off the Start menu, you can click on the gear icon, that'll open up Settings.
 >
@@ -172,13 +169,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=54)** If you'd like to update your version of Windows 10, you can go back in the Settings area, go to Update & Security.
 >
-> **[1:04](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=64)** The top option is Windows Update.
+> **[1:04](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=64)** The top option is [[Windows]] Update.
 >
 > **[1:08](https://www.linkedin.com/learning/windows-10-security-14135501/about-this-update?u=76281980&t=68)** That will allow you to check for updates, and if a new version of Windows 10 is available, you can install it from here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (1), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -188,24 +185,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of authentication and accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980)
+#### [Overview of authentication and accounts](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about authentication and how it relates to security in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about authentication and how it relates to security in [[Windows 10]].
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=8)** Authentication is defined as confirming the truth of a single piece of data.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=15)** In relation to security, that basically means verifying that you are who you say you are.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=21)** So if you walk up to a computer and claim that you are the administrator of that computer, the computer is not just going to take your word for it.
+> **[0:21](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=21)** So if you walk up to a computer and claim that you are the administrator of that computer, the computer is not just going to take your [[Microsoft Word|word]] for it.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=30)** It's going to require that you prove somehow that you are the administrator.
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=35)** And typically this happens with passwords.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=39)** In all versions of Windows, authentication is tied to accounts.
+> **[0:39](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=39)** In all versions of [[Windows]], authentication is tied to accounts.
 >
 > **[0:44](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=44)** An account is an entity that should be controlled by a single user.
 >
@@ -231,17 +227,17 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=89)** So if you have multiple computers, then local accounts may not be the best option.
 >
-> **[1:35](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=95)** The next option is a Microsoft account.
+> **[1:35](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=95)** The next option is a [[Microsoft]] account.
 >
 > **[1:37](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=97)** And that is an account that can be used on your local computer, and also used on the Microsoft website.
 >
 > **[1:44](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=104)** You could then take that Microsoft account and log into a different Windows 10 PC, and possibly get some file sharing that way.
 >
-> **[1:54](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=114)** Next is a domain account, which is an account on a Microsoft Windows Active Directory domain.
+> **[1:54](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=114)** Next is a domain account, which is an account on a Microsoft Windows [[Active Directory]] domain.
 >
 > **[2:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=120)** And that's the way to go for a large enterprise if you have hundreds or thousands of computers.
 >
-> **[2:07](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=127)** And the last one is an Azure account.
+> **[2:07](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=127)** And the last one is an [[Microsoft Azure|Azure]] account.
 >
 > **[2:09](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980&t=129)** Azure is the cloud offering from Microsoft.
 >
@@ -249,17 +245,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), [[Security]] (3), [[Windows 10]] (3), [[Microsoft Azure|Azure]] (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Windows 10]] (3), [[Microsoft Azure|Azure]] (3), [[Windows]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (4), is a  (2), defined as (1), basically means (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with local accounts in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980)
+#### [Working with local accounts in Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] In Windows 10, administrator accounts and standard accounts are fairly similar to previous versions of Windows.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] In [[Windows 10]], administrator accounts and standard accounts are fairly similar to previous versions of [[Windows]].
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=7)** Administrator accounts can do basically anything on the computer.
 >
@@ -275,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=33)** They could not manipulate other people's accounts.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=36)** And they cannot install new hardware.
+> **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=36)** And they cannot install new [[Hardware]].
 >
 > **[0:39](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=39)** Typically, if you're doing non-administrative tasks, like just checking your email or working with a spreadsheet, in that case, it's typically better to use a standard user account.
 >
@@ -289,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=94)** And this will start a wizard.
 >
-> **[1:37](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=97)** The first screen of the wizard wants to know the information about the user's Microsoft account.
+> **[1:37](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=97)** The first screen of the wizard wants to know the information about the user's [[Microsoft]] account.
 >
 > **[1:43](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-local-accounts-in-windows-10?u=76281980&t=103)** But I don't want to use a Microsoft account for this particular demonstration.
 >
@@ -321,18 +316,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Windows 10]] (2), next (2), [[Windows]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Windows 10]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Prerequisites:** install (4)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Microsoft accounts in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-microsoft-accounts-in-windows-10?u=76281980)
+#### [Working with Microsoft accounts in Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-microsoft-accounts-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-microsoft-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] In this section, I'd like to demonstrate adding an existing Microsoft account to a Windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-microsoft-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] In this section, I'd like to demonstrate adding an existing [[Microsoft]] account to a [[Windows 10]] PC.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-microsoft-accounts-in-windows-10?u=76281980&t=8)** So, off the start menu, I'll type in users.
 >
@@ -354,16 +348,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), next (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with domain accounts in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980)
+#### [Working with domain accounts in Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] Now I'd like to demonstrate adding a domain account to a Windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] Now I'd like to demonstrate adding a domain account to a [[Windows 10]] PC.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=6)** Again, off the Start menu I'll type in users and go to add, edit or remove other users.
 >
@@ -373,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=24)** And you'll see this a few different places in the Windows 10 interface, that they say work or school user.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=31)** But what they mean by that in more technical, more specific terms is that account that is stored at a domain, an active directory domain.
+> **[0:31](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=31)** But what they mean by that in more technical, more specific terms is that account that is stored at a domain, an [[Active Directory]] domain.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-domain-accounts-in-windows-10?u=76281980&t=40)** So I'll click the plus sign next to that.
 >
@@ -389,28 +382,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Active Directory]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Active Directory]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Azure accounts in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980)
+#### [Working with Azure accounts in Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] Now let's talk about using Azure accounts in windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=0)** - [Instructor] Now let's talk about using [[Microsoft Azure|Azure]] accounts in [[Windows 10]].
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=5)** Windows 10 supports adding accounts from an Azure Active Directory.
+> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=5)** Windows 10 supports adding accounts from an [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=11)** Azure Active Directory is an alternative to having on-site active directory.
+> **[0:11](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=11)** Azure Active Directory is an alternative to having on-site [[Active Directory]].
 >
-> **[0:17](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=17)** So rather than having to buy a new piece of hardware to use as a domain controller and buy a license for that hardware, you could instead access this service through the cloud, which in some cases, it might be less expensive.
+> **[0:17](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=17)** So rather than having to buy a new piece of [[Hardware]] to use as a domain controller and buy a license for that hardware, you could instead access this service through the cloud, which in some cases, it might be less expensive.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=33)** Azure Active Directory is priced per user.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=37)** So the less users you have, the less expensive it is, and if you have a large number of users, the price goes up.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=45)** Azure Active Directory is included with most versions of Office 365.
+> **[0:45](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=45)** Azure Active Directory is included with most versions of [[Microsoft Office|Office]] 365.
 >
 > **[0:50](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-azure-accounts-in-windows-10?u=76281980&t=50)** So if you're using Office 365, you could also utilize Azure Active Directory for the same price.
 >
@@ -431,12 +423,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980)
+#### [Overview of authorization](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980&t=0)** - [Instructor] Now let's talk about authorization in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980&t=0)** - [Instructor] Now let's talk about authorization in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980&t=5)** Authorization is the process of specifying access rights to resources.
 >
@@ -482,14 +473,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2)
 > **Definitions:** in other words (2), is called (1), is a  (1)
 > **UI Navigation:** open the (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding inheritance of permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/understanding-inheritance-of-permissions?u=76281980)
+#### [Understanding inheritance of permissions](https://www.linkedin.com/learning/windows-10-security-14135501/understanding-inheritance-of-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-security-14135501/understanding-inheritance-of-permissions?u=76281980&t=10)** This is called inheritance.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-security-14135501/understanding-inheritance-of-permissions?u=76281980&t=12)** It is on by default and almost all versions of windows, including Windows 10, but it can be turned off.
+> **[0:12](https://www.linkedin.com/learning/windows-10-security-14135501/understanding-inheritance-of-permissions?u=76281980&t=12)** It is on by default and almost all versions of [[Windows]], including [[Windows 10]], but it can be turned off.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-security-14135501/understanding-inheritance-of-permissions?u=76281980&t=21)** When we turn it off, we call that disabling inheritance.
 >
@@ -593,19 +583,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Security]] (2), [[Windows]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (6), go to (3), select the (2)
 > **Definitions:** is called (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/assigning-permissions?u=76281980)
+#### [Assigning permissions](https://www.linkedin.com/learning/windows-10-security-14135501/assigning-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/assigning-permissions?u=76281980&t=0)** - [Instructor] Now let's take a look at some examples of updating permissions on a file.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/assigning-permissions?u=76281980&t=5)** Off the C drive, I'm going to open the directory securing Windows 10.
+> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/assigning-permissions?u=76281980&t=5)** Off the C drive, I'm going to open the directory securing [[Windows 10]].
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-security-14135501/assigning-permissions?u=76281980&t=10)** And that brings me back to the file I had used in a previous demonstration.
 >
@@ -715,15 +704,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), prompt (3), [[Windows 10]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (2)
 > **UI Navigation:** open the (5), go to (3), select the (2), click on (1)
 > **Cross-References:** go back to (2)
 > **Tools:** command prompt (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and using groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/creating-and-using-groups?u=76281980)
+#### [Creating and using groups](https://www.linkedin.com/learning/windows-10-security-14135501/creating-and-using-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,29 +777,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Security]] (1), prompt (1)
 > **UI Navigation:** go to (4), select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with built-in groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980)
+#### [Working with built-in groups](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=0)** - [Narrator] Now let's talk about some of the built in groups in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=0)** - [Narrator] Now let's talk about some of the built in groups in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=5)** Off the start menu I'll type in groups, and I'll go to edit local users and groups.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=15)** Then in the panel on the left, I'll click groups and the middle panel we see a list of groups currently on my Windows 10 PC.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=24)** Near the bottom, there's one called Test Group that I created, the rest of these I did not create.
+> **[0:24](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=24)** Near the bottom, there's one called Test Group that I created, the [[Representational State Transfer (REST)|rest]] of these I did not create.
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=31)** Most of them were created by the operating system when it was first installed.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=36)** These are called the built in groups in Windows.
+> **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=36)** These are called the built in groups in [[Windows]].
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-security-14135501/working-with-built-in-groups?u=76281980&t=40)** You notice that if I right click on one of these and go to delete, I will be given an error message saying I cannot delete it.
 >
@@ -867,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), hit (3), [[Windows]] (2), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - [narrator] (1)
@@ -877,12 +863,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980)
+#### [Overview of encryption](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about encryption in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about encryption in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=5)** We'll define encryption as encoding data such that it is unusable until decrypted.
 >
@@ -896,13 +881,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=33)** One is data in motion, and that is data that is traveling through a network.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=40)** The other is data at rest, and that is when data is stationary in a file on a drive.
+> **[0:40](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=40)** The other is data at [[Representational State Transfer (REST)|rest]], and that is when data is stationary in a file on a drive.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=48)** Data in motion in Windows 10 can be encrypted using IPsec, which is a combination of an abbreviation and an acronym.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=60)** It means internet protocol security.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=63)** And in a Windows network, it is the preferred way to encrypt internal network traffic.
+> **[1:03](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=63)** And in a [[Windows]] network, it is the preferred way to encrypt internal network traffic.
 >
 > **[1:11](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980&t=71)** As far as external network traffic, traffic that goes out to the internet.
 >
@@ -946,19 +931,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Windows 10]] (3), traffic (3), [[Representational State Transfer (REST)|Rest]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Windows]] (1)
 > **Env Vars:** ssl (3), tls (2), https (2), efs (2)
 > **Definitions:** is a  (1), stands for (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using BitLocker
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980)
+#### [Using BitLocker](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about using BitLocker to encrypt a hard drive in windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about using BitLocker to encrypt a hard drive in [[Windows 10]].
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=8)** So off the start menu I'll type in BitLocker and I'll select the option for Manage BitLocker, we'll see that I have two drives.
 >
@@ -1022,7 +1006,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=246)** And it says Volume E is now locked.
 >
-> **[4:09](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=249)** I'll go back to Windows Explorer and we see the padlock icon does now appear to be locked.
+> **[4:09](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=249)** I'll go back to [[Windows]] Explorer and we see the padlock icon does now appear to be locked.
 >
 > **[4:16](https://www.linkedin.com/learning/windows-10-security-14135501/using-bitlocker?u=76281980&t=256)** And this is what you'll see when you first boot up your computer in a drive that is using the BitLocker technology will be locked.
 >
@@ -1042,7 +1026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), [[Windows 10]] (2), hit (2), prompt (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (5), select the (1), go to (1), double-click (1)
 > **Env Vars:** tpm (2), xts (1), aes (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -1051,12 +1035,11 @@ created: 2026-05-02
 > **Versions:** version 15 (1)
 > **Cross-References:** go back to (1)
 
-#### Using Encrypting File System (EFS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980)
+#### [Using Encrypting File System (EFS)](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=0)** - [Instructor] In this section, we're going to look at encrypting individual files and folders in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=0)** - [Instructor] In this section, we're going to look at encrypting individual files and folders in [[Windows 10]].
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=7)** So I'm going to open up File Explorer.
 >
@@ -1070,7 +1053,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=26)** And near the bottom, we have the option to compress or encrypt.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=31)** Notice that just like in previous versions of Windows, we can only do one or the other.
+> **[0:31](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=31)** Notice that just like in previous versions of [[Windows]], we can only do one or the other.
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/using-encrypting-file-system-efs?u=76281980&t=36)** We can either compress or encrypt, but not both.
 >
@@ -1206,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), next (10), [[Windows 10]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (4), right-click (3), go to (3), double-click (2), navigate to (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
@@ -1214,18 +1197,17 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encrypting files for the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980)
+#### [Encrypting files for the cloud](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about encrypting files for the cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=6)** So here on my Windows 10 PC and File Explorer, I've opened up a folder that is inside of my OneDrive account.
+> **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=6)** So here on my [[Windows 10]] PC and File Explorer, I've opened up a folder that is inside of my [[Microsoft OneDrive|OneDrive]] account.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=15)** So if I create some files here, they will automatically be uploaded to the cloud.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=22)** I'll go ahead and do that and create a new Microsoft Word document.
+> **[0:22](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=22)** I'll go ahead and do that and create a new [[Microsoft Word]] document.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=27)** I'll just call it TestDoc.
 >
@@ -1267,7 +1249,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=183)** This is, we have encrypted the document locally and in the cloud, but I had to do that using the built-in features of Microsoft Word.
 >
-> **[3:14](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=194)** Other programs will have that like Microsoft Excel, Adobe Acrobat, but not all programs are going to allow us to encrypt their documents.
+> **[3:14](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=194)** Other programs will have that like [[Microsoft Excel]], Adobe Acrobat, but not all programs are going to allow us to encrypt their documents.
 >
 > **[3:23](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=203)** There is a another option available to us.
 >
@@ -1291,7 +1273,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=270)** And again, I could add files to it that would be encrypted on the web.
 >
-> **[4:35](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=275)** I can also look at it through Windows Explorer.
+> **[4:35](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=275)** I can also look at it through [[Windows]] Explorer.
 >
 > **[4:42](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=282)** And the first thing it's going to ask me to do is to open the Personal Vault.
 >
@@ -1305,11 +1287,11 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=307)** So this is a way to store encrypted files that will be encrypted on both my PC and in the cloud.
 >
-> **[5:14](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=314)** This exact feature, Personal Vault, is only available through OneDrive, but most of the other providers of cloud storage, like Dropbox and Google Drive, will have a similar feature where there is an encrypted area that you can use to store sensitive files.
+> **[5:14](https://www.linkedin.com/learning/windows-10-security-14135501/encrypting-files-for-the-cloud?u=76281980&t=314)** This exact feature, Personal Vault, is only available through OneDrive, but most of the other providers of [[Cloud Storage]], like Dropbox and [[Google Drive]], will have a similar feature where there is an encrypted area that you can use to store sensitive files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word]] (3), hit (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word]] (3), [[Windows 10]] (1), [[Microsoft Excel]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (3), switch to (1), open the (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** efs (2)
@@ -1322,14 +1304,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Virus and malware overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980)
+#### [Virus and malware overview](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980&t=0)** - [Tutor] Now let's talk about viruses and malware.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980&t=4)** The word malware comes from malicious software.
+> **[0:04](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980&t=4)** The [[Microsoft Word|word]] malware comes from malicious software.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980&t=8)** In general, it is software designed to damage, disturb or disrupt normal operations.
 >
@@ -1381,13 +1362,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (5), is called (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Speakers:** - [tutor] (1)
 
-#### Exploring antimalware solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980)
+#### [Exploring antimalware solutions](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,7 +1375,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=5)** Antivirus software is software that is designed to detect and remove viruses from your computer.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=12)** Many of the products that are called antivirus are actually anti-malware because they will remove types of malware other than just viruses.
+> **[0:12](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=12)** Many of the [[Microsoft Products|products]] that are called antivirus are actually anti-malware because they will remove types of malware other than just viruses.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=22)** They're usually pretty good at catching worms also, and some of them will do a decent job with Trojans and bots.
 >
@@ -1433,7 +1413,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=158)** You also want to look into what kind of reports are generated from different vendors.
 >
-> **[2:43](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=163)** If your software is finding viruses on the network, you'll want to be alerted to that or have some sort of report, and if you administer a large number of Windows 10 computers, you probably don't want to have to go to each computer and run the report separately.
+> **[2:43](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=163)** If your software is finding viruses on the network, you'll want to be alerted to that or have some sort of report, and if you administer a large number of [[Windows 10]] computers, you probably don't want to have to go to each computer and run the report separately.
 >
 > **[3:00](https://www.linkedin.com/learning/windows-10-security-14135501/exploring-antimalware-solutions?u=76281980&t=180)** Some vendors do provide a centralized location where you can run reports for multiple PCs from one place.
 >
@@ -1445,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), hit (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Windows 10]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
@@ -1453,8 +1433,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Defender: Virus and threat protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980)
+#### [Windows Defender: Virus and threat protection](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,7 +1441,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=4)** So off the start menu I'll type in virus and I'll click on the option for virus and threat protection.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=13)** In some versions of Windows 10, this will be called Windows Defender, virus and threat protection, other times the name virus and threat protection stands alone.
+> **[0:13](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=13)** In some versions of [[Windows 10]], this will be called [[Windows]] [[Microsoft Defender|Defender]], virus and threat protection, other times the name virus and threat protection stands alone.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=25)** Also, if you're running a different version of Windows 10 than I am, you will likely see these options in a slightly different order, the core functionality is the same, but the interface may look a little different.
 >
@@ -1488,7 +1467,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=121)** And here we have several options that on most Windows 10 PCs they're turned on by default, real time protection allows this tool to run on any file that's currently being opened, which provides the highest level of protection, but can impact performance a little bit.
 >
-> **[2:21](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=141)** The next two options on cloud delivery protection and automatic sample submission are both similar, they deal with Microsoft maintaining a database of what files it believes are safe or unsafe, and you can check files on your computer against Microsoft's database of what is safe.
+> **[2:21](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=141)** The next two options on cloud delivery protection and automatic sample submission are both similar, they deal with [[Microsoft]] maintaining a database of what files it believes are safe or unsafe, and you can check files on your computer against Microsoft's database of what is safe.
 >
 > **[2:45](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=165)** And the bottom option is for tamper protection, which prevents others from tampering with important security features, so it reduces the number of users that would have access to this control panel that we're looking at.
 >
@@ -1508,7 +1487,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=254)** It goes on to explain that if we turn this on, it will limit the number of processes that can access our files and folders, which would hopefully stop a ransomware attack.
 >
-> **[4:27](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=267)** It also says it's going to upload my most important documents to OneDrive, and that way, if I was hit with a ransomware attack, I would still be able to recover my files from the OneDrive cloud.
+> **[4:27](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=267)** It also says it's going to upload my most important documents to [[Microsoft OneDrive|OneDrive]], and that way, if I was hit with a ransomware attack, I would still be able to recover my files from the OneDrive cloud.
 >
 > **[4:42](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-virus-and-threat-protection?u=76281980&t=282)** So again, these options and the virus and threat protection have changed slightly with different versions of Windows 10.
 >
@@ -1516,21 +1495,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (6), [[Windows]] (2), [[Microsoft Defender|Defender]] (2), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Windows]] (2), [[Microsoft Defender|Defender]] (2), [[Microsoft]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Windows Defender: Device performance and health
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-device-performance-and-health?u=76281980)
+#### [Windows Defender: Device performance and health](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-device-performance-and-health?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-device-performance-and-health?u=76281980&t=0)** - [Instructor] Now let's talk about device performance and health.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-device-performance-and-health?u=76281980&t=5)** So off the start menu, I'm going to type in Windows Security and select the option for Windows Security.
+> **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-device-performance-and-health?u=76281980&t=5)** So off the start menu, I'm going to type in [[Windows]] Security and select the option for Windows Security.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-device-performance-and-health?u=76281980&t=16)** And here we see a tile for device performance and health.
 >
@@ -1580,19 +1558,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Windows]] (5), [[Troubleshooting]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (5)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Defender: Firewall and network protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-firewall-and-network-protection?u=76281980)
+#### [Windows Defender: Firewall and network protection](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-firewall-and-network-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-firewall-and-network-protection?u=76281980&t=0)** - [Instructor] Now let's look at some settings regarding the Windows firewall.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-firewall-and-network-protection?u=76281980&t=0)** - [Instructor] Now let's look at some settings regarding the [[Windows]] firewall.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-firewall-and-network-protection?u=76281980&t=5)** So off the start menu I'll type in Windows security, and select the option called Windows security.
 >
@@ -1712,7 +1689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Windows]] (5), hit (5), [[Security]] (3), dns (1)
+> **Frameworks & Libraries:** [[Windows]] (5)
 > **UI Navigation:** click on (8), go to (2), select the (1)
 > **Env Vars:** tcp (4), udp (4), dns (1)
 > **Prerequisites:** set up (1), you'll need (1), setup (1)
@@ -1721,12 +1698,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Defender: App and browser control
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980)
+#### [Windows Defender: App and browser control](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=0)** - [Instructor] In the Windows Security settings, the next section we'll look at is App & Browser Control.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=0)** - [Instructor] In the [[Windows]] Security settings, the next section we'll look at is App & Browser Control.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=7)** So I'll click on that.
 >
@@ -1738,9 +1714,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=25)** And that gets into helping us with malicious or unwanted apps, files, and websites.
 >
-> **[0:32](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=32)** We have several toggle buttons where we can turn on or turn off whether or not Microsoft Defender will check the reputation of various apps and files, mostly when you're surfing the internet.
+> **[0:32](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=32)** We have several toggle buttons where we can turn on or turn off whether or not [[Microsoft Defender]] will check the reputation of various apps and files, mostly when you're surfing the internet.
 >
-> **[0:48](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=48)** And it's primarily designed to work with Microsoft Edge.
+> **[0:48](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=48)** And it's primarily designed to work with [[Microsoft]] Edge.
 >
 > **[0:53](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=53)** Near the bottom, we have the option to configure what happens when a potentially unwanted app is detected.
 >
@@ -1748,13 +1724,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=64)** So we can turn on or turn off blocking apps, and turn on or turn off blocking dangerous downloads.
 >
-> **[1:14](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=74)** Previous versions of Windows 10 have the option to warn us instead of blocking.
+> **[1:14](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=74)** Previous versions of [[Windows 10]] have the option to warn us instead of blocking.
 >
 > **[1:20](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=80)** But now, the only option is to block.
 >
 > **[1:24](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=84)** Going back to the App & Browser Control section, we see isolated browsing.
 >
-> **[1:30](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=90)** At the bottom, there is an option to install Windows Defender Application Guard.
+> **[1:30](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=90)** At the bottom, there is an option to install Windows [[Microsoft Defender|Defender]] Application Guard.
 >
 > **[1:36](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=96)** When I click on that, I will be brought to the Windows Features Installation window.
 >
@@ -1768,7 +1744,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=125)** Both of them allow us to run a web browser in a virtualized environment that provides much more security.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=133)** If we were to come across a virus in that web browser while it's in the virtual environment, it would be very unlikely to infect the rest of our machine.
+> **[2:13](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=133)** If we were to come across a virus in that web browser while it's in the virtual environment, it would be very unlikely to infect the [[Representational State Transfer (REST)|rest]] of our machine.
 >
 > **[2:24](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-app-and-browser-control?u=76281980&t=144)** Once we close the browser, we are also closing the virtualized environment, and therefore, that will likely delete the virus or malware that we encountered.
 >
@@ -1802,18 +1778,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows]] (4), application (4), [[Microsoft Defender]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Defender]] (3), [[Windows 10]] (2), [[Microsoft Defender|Defender]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), toggle (1)
 > **Prerequisites:** configure (2), install (2)
 > **Definitions:** is an  (2), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Defender: Application guard
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980)
+#### [Windows Defender: Application guard](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=0)** - [Instructor] So now I'd like to talk about Microsoft Defender Application Guard, and here in the Windows security settings, I'll click on app and browser control and the middle option, isolated browsing, under that we have text to install Microsoft Defender Application Guard.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=0)** - [Instructor] So now I'd like to talk about [[Microsoft Defender]] Application Guard, and here in the [[Windows]] security settings, I'll click on app and browser control and the middle option, isolated browsing, under that we have text to install Microsoft Defender Application Guard.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=23)** So I'll click on that.
 >
@@ -1823,7 +1798,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=36)** The one I'm looking for for me is called Microsoft Defender Application Guard.
 >
-> **[0:41](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=41)** In some other versions of Windows 10, it might be called Windows Defender Application Guard, but I'll hit the check box next to that.
+> **[0:41](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=41)** In some other versions of [[Windows 10]], it might be called Windows [[Microsoft Defender|Defender]] Application Guard, but I'll hit the check box next to that.
 >
 > **[0:50](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=50)** Hit OK.
 >
@@ -1835,7 +1810,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=64)** Okay, now that I've rebooted, Microsoft Defender Application Guard has been installed.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=70)** I'm going to open Microsoft Edge web browser and off the menu with three dots in the upper right, I'll go to the fourth option, New Application Guard Window, and it'll take a minute to set up being this is the first time I've run it.
+> **[1:10](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=70)** I'm going to open [[Microsoft]] Edge web browser and off the menu with three dots in the upper right, I'll go to the fourth option, New Application Guard Window, and it'll take a minute to set up being this is the first time I've run it.
 >
 > **[1:31](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-application-guard?u=76281980&t=91)** Now I have a new web browser window that for the most part appears to function just like any other web browser window.
 >
@@ -1861,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Microsoft Defender]] (4), [[Windows]] (4), web (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (4), [[Windows]] (4), [[Microsoft Defender|Defender]] (2), [[Windows 10]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is called (1), is a  (1)
 > **Prerequisites:** install (1), set up (1)
@@ -1869,16 +1844,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Defender: Endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980)
+#### [Windows Defender: Endpoints](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=0)** - [Instructor] Now let's talk about Defender for Endpoint.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=0)** - [Instructor] Now let's talk about [[Microsoft Defender|Defender]] for Endpoint.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=4)** Many of the other features of Defender are designed for working with one or two machines at a time.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=11)** Defender for Endpoint is set up more with the mindset of managing a large number of Windows 10 clients.
+> **[0:11](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=11)** Defender for Endpoint is set up more with the mindset of managing a large number of [[Windows 10]] clients.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=19)** It involves a central server running in the cloud that communicates with your local Windows 10 clients.
 >
@@ -1888,15 +1862,15 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=44)** Defender for Endpoint involves three main parts.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=47)** The first is in-point behavioral sensors, and these are sensors built into Windows 10 that will report information up to the cloud, up to your central server, cloud security analytics, so once the data is in the cloud, a variety of reports are generated so that you can see from one place, you can see what your security status is, and threat intelligence.
+> **[0:47](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=47)** The first is in-point behavioral sensors, and these are sensors built into Windows 10 that will report information up to the cloud, up to your central server, [[Cloud Security]] analytics, so once the data is in the cloud, a variety of reports are generated so that you can see from one place, you can see what your security status is, and threat intelligence.
 >
-> **[1:16](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=76)** Microsoft works with some vendors and some third parties to come up with some intelligence about what is and is not malware.
+> **[1:16](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=76)** [[Microsoft]] works with some vendors and some third parties to come up with some intelligence about what is and is not malware.
 >
 > **[1:27](https://www.linkedin.com/learning/windows-10-security-14135501/windows-defender-endpoints?u=76281980&t=87)** So based on what you've uploaded, they could make a determination of if you've been infected or not.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (5), [[Windows 10]] (4), cloud (4), [[Security]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (5), [[Windows 10]] (4), [[Cloud Security]] (1), [[Microsoft]] (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1907,14 +1881,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing network traffic by using IPsec
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980)
+#### [Securing network traffic by using IPsec](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about using IPsec in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about using IPsec in [[Windows 10]].
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=6)** IPSec, the word, is a combination of an acronym and then an abbreviation, but overall it means Internet Protocol Security.
+> **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=6)** IPSec, the [[Microsoft Word|word]], is a combination of an acronym and then an abbreviation, but overall it means Internet Protocol Security.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=16)** It is focused on the secure transfer of packets.
 >
@@ -1924,7 +1897,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=28)** Secure means it can authenticate the origin of the data meaning we know that the data is coming from who it says it's coming from.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=39)** It can provide data integrity assurance, so we know that the data has not been changed from what was originally sent.
+> **[0:39](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=39)** It can provide [[Data Integrity]] assurance, so we know that the data has not been changed from what was originally sent.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=49)** And it will encrypt the packets, so if anyone is able to intercept the packets, they would not be able to read them.
 >
@@ -1938,7 +1911,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=90)** Now let's look at implementing IPSec in Windows 10.
 >
-> **[1:35](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=95)** Off the start menu, I'll type in firewall and go to the option for Windows Defender Firewall with Advanced Security.
+> **[1:35](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=95)** Off the start menu, I'll type in firewall and go to the option for [[Windows]] [[Microsoft Defender|Defender]] Firewall with Advanced Security.
 >
 > **[1:46](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980&t=106)** In the tree view on the left, I'll go to Connection Security Rules.
 >
@@ -2000,23 +1973,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), next (7), [[Security]] (4), data (4), [[Windows 10]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2), [[Microsoft Defender|Defender]] (2), [[Microsoft Word|Word]] (1), [[Data Integrity]] (1)
 > **UI Navigation:** go to (5), select the (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** vpn (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using VPN in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980)
+#### [Using VPN in Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about VPN or virtual private network, which is an authenticated and encrypted connection between our computer and some other computer that runs over the internet, but because it is encrypted is a secure connection over the internet.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about VPN or [[Virtual Private Network (VPN)|virtual private network]], which is an authenticated and encrypted connection between our computer and some other computer that runs over the internet, but because it is encrypted is a secure connection over the internet.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=22)** When connecting to a VPN, we'll need VPN client software, and many VPN vendors will provide a custom piece of software to use as the client.
 >
-> **[0:33](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=33)** But Windows 10 also has a built-in VPN client that will work with some, but not all VPN providers.
+> **[0:33](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=33)** But [[Windows 10]] also has a built-in VPN client that will work with some, but not all VPN providers.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=42)** Off the start menu I'll type in VPN.
 >
@@ -2028,7 +2000,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=56)** And then it asks me who my VPN provider is.
 >
-> **[0:59](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=59)** The only one we have to start off with is Windows built-in.
+> **[0:59](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=59)** The only one we have to start off with is [[Windows]] built-in.
 >
 > **[1:03](https://www.linkedin.com/learning/windows-10-security-14135501/using-vpn-in-windows-10?u=76281980&t=63)** So I'll select that.
 >
@@ -2062,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (14), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Windows 10]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Windows 10]] (1), [[Windows]] (1)
 > **Env Vars:** vpn (14)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Definitions:** is a  (2), is an  (1), basically means (1)
@@ -2074,12 +2046,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980)
+#### [Overview of Group Policy](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about using Group Policy to administer windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about using Group Policy to administer [[Windows 10]].
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=7)** Group Policy is a technology that allows us to configure thousands of user and computer settings.
 >
@@ -2099,7 +2070,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=66)** Windows 10 includes, by default, a tool called Local Group Policy Editor.
 >
-> **[1:12](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=72)** Previous versions of Windows had this tool available as a download, but now it's just included as part of the base installation of the operating system.
+> **[1:12](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=72)** Previous versions of [[Windows]] had this tool available as a download, but now it's just included as part of the base installation of the operating system.
 >
 > **[1:22](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980&t=82)** The tool has two main sections, computer configuration and user configuration.
 >
@@ -2115,7 +2086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
@@ -2124,12 +2095,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying security settings by using Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/applying-security-settings-by-using-group-policy?u=76281980)
+#### [Applying security settings by using Group Policy](https://www.linkedin.com/learning/windows-10-security-14135501/applying-security-settings-by-using-group-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/applying-security-settings-by-using-group-policy?u=76281980&t=0)** - [Instructor] In this section, we're going to look at applying some security settings in Windows 10 by using group policy.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/applying-security-settings-by-using-group-policy?u=76281980&t=0)** - [Instructor] In this section, we're going to look at applying some security settings in [[Windows 10]] by using group policy.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/applying-security-settings-by-using-group-policy?u=76281980&t=7)** And the goal of many of these settings will be to make our computer more secure.
 >
@@ -2193,23 +2163,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), hit (4), [[Windows 10]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (2)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Group Policy to audit actions in Window 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980)
+#### [Using Group Policy to audit actions in Window 10](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980&t=0)** - [Instructor] Now let's look at using group policy to configure some of the auditing of a Windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980&t=0)** - [Instructor] Now let's look at using group policy to configure some of the auditing of a [[Windows 10]] PC.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980&t=7)** Again, I'm in Local Group Policy Editor.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980&t=11)** Under the Local Computer Policy under Computer Configuration, I'm going to open up Windows Settings.
+> **[0:11](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980&t=11)** Under the Local Computer Policy under Computer Configuration, I'm going to open up [[Windows]] Settings.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-audit-actions-in-window-10?u=76281980&t=19)** Under that I'll open up Security Settings.
 >
@@ -2289,23 +2258,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Security]] (3), [[Windows 10]] (1), hit (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1)
 > **UI Navigation:** go to (2), select the (2), double-click (1), click on (1), scroll down (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Group Policy to harden Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980)
+#### [Using Group Policy to harden Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980&t=0)** - [Instructor] Now I'd like to look at a few more settings in group policy that can allow us to harden our Windows 10 PC.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980&t=0)** - [Instructor] Now I'd like to look at a few more settings in group policy that can allow us to harden our [[Windows 10]] PC.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980&t=10)** So off the Start menu, I'll type in group policy and select the option for Edit group policy.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980&t=20)** In the tree view on the left, I want to select Windows settings, underneath that, Security settings, then Local policies, and Security options.
+> **[0:20](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980&t=20)** In the tree view on the left, I want to select [[Windows]] settings, underneath that, Security settings, then Local policies, and Security options.
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-security-14135501/using-group-policy-to-harden-windows-10?u=76281980&t=36)** And this will give me several dozen options of things I can change on my Window 10 PC.
 >
@@ -2351,7 +2319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Windows 10]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2)
 > **Env Vars:** sam (4)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (1), double-click (1)
@@ -2364,14 +2332,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic configuration of Remote Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980)
+#### [Basic configuration of Remote Desktop](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=0)** - [Narrator] In this section, we'll go into talk about using Remote Desktop in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=0)** - [Narrator] In this section, we'll go into talk about using Remote Desktop in [[Windows 10]].
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=6)** Remote Desktop has been around for several generations of Windows.
+> **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=6)** Remote Desktop has been around for several generations of [[Windows]].
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=10)** The functionality in Windows 10 is not that different than previous generations, but the interface used to configure it is different.
 >
@@ -2391,9 +2358,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=92)** And under there, there's a link for, don't have a Remote Desktop client on your device.
 >
-> **[1:38](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=98)** If I click on that, it takes me to the Microsoft website to a page where I can download various Remote Desktop clients.
+> **[1:38](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=98)** If I click on that, it takes me to the [[Microsoft]] website to a page where I can download various Remote Desktop clients.
 >
-> **[1:46](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=106)** Not just for Windows, but also Android, iOS and Mac OS.
+> **[1:46](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=106)** Not just for Windows, but also [[Android]], iOS and Mac OS.
 >
 > **[1:50](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980&t=110)** So yes, you can use Remote Desktop going from a Mac to a Windows 10 PC, or even from a mobile phone, Android or iOS.
 >
@@ -2425,7 +2392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Android]] (2), [[Security]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Android]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (5), scroll down (1), checkbox (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (1), you'll need (1), install (1)
@@ -2433,18 +2400,17 @@ created: 2026-05-02
 > **Ports:** port 3389 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Advanced Remote Desktop configuration using Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980)
+#### [Advanced Remote Desktop configuration using Group Policy](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=0)** - [Instructor] Now I'd like to talk about some more advanced configuration of Remote Desktop in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=0)** - [Instructor] Now I'd like to talk about some more advanced configuration of Remote Desktop in [[Windows 10]].
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=7)** And for this we'll be using Local Group Policy, although you could accomplish largely the same thing through Domain Group Policy.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=15)** We'll have to drill down a little to get to the settings I want to look at.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=19)** So under Computer Configuration, I'll open up Administrative Templates, then I'll open Windows Components.
+> **[0:19](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=19)** So under Computer Configuration, I'll open up Administrative Templates, then I'll open [[Windows]] Components.
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-security-14135501/advanced-remote-desktop-configuration-using-group-policy?u=76281980&t=28)** There's a lot of windows components.
 >
@@ -2508,7 +2474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), hit (4), [[Windows]] (2), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
 > **Env Vars:** ssl (6), tls (2), rdp (1)
 > **UI Navigation:** click on (2), dropdown (2), scroll down (1), go to (1)
 > **CLI Commands:** find (2), make (1)
@@ -2516,18 +2482,17 @@ created: 2026-05-02
 > **Versions:** 1.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Allowing Remote Desktop through firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980)
+#### [Allowing Remote Desktop through firewall](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=0)** - [Instructor] By default, Windows Firewall will block all remote desktop connections.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=0)** - [Instructor] By default, [[Windows]] Firewall will block all remote desktop connections.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=6)** So you're probably going to need to create a rule in Windows Firewall to allow remote desktop connections.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=15)** Off the Start menu, I'll type in Firewall.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=19)** And I'll go to Windows Defender Firewall with Advanced Security.
+> **[0:19](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=19)** And I'll go to Windows [[Microsoft Defender|Defender]] Firewall with Advanced Security.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-security-14135501/allowing-remote-desktop-through-firewall?u=76281980&t=25)** Then I'll click on Inbound Rules, and you see for me, the very top rule is Allow Remote Desktop.
 >
@@ -2557,19 +2522,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Security]] (2), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 192.168 (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing listening port for Remote Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/changing-listening-port-for-remote-desktop?u=76281980)
+#### [Changing listening port for Remote Desktop](https://www.linkedin.com/learning/windows-10-security-14135501/changing-listening-port-for-remote-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/changing-listening-port-for-remote-desktop?u=76281980&t=0)** - [Instructor] By default Windows 10 will listen for remote desktop connections coming in on port 3389.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/changing-listening-port-for-remote-desktop?u=76281980&t=0)** - [Instructor] By default [[Windows 10]] will listen for remote desktop connections coming in on port 3389.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-security-14135501/changing-listening-port-for-remote-desktop?u=76281980&t=8)** If you would like to change this port, it's fairly straightforward to do so.
 >
@@ -2617,7 +2581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1)
 > **Ports:** port 3389 (3), port 1234 (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Env Vars:** rdp (1), tcp (1)
@@ -2631,14 +2595,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controlling updates for Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980)
+#### [Controlling updates for Windows 10](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about Windows Update.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about [[Windows]] Update.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=4)** One of the most important things you can do to secure your Windows 10 PC is to update it on a regular basis with security updates provided by Microsoft.
+> **[0:04](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=4)** One of the most important things you can do to secure your [[Windows 10]] PC is to update it on a regular basis with security updates provided by [[Microsoft]].
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=15)** It's also one of the easiest things to do.
 >
@@ -2676,7 +2639,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=146)** It's pretty rare that an update will cause a problem, but if it does, you can come here, to this interface and uninstall that update.
 >
-> **[2:37](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=157)** I'll hit back again and the last option, Advanced options, I have the slider selected for Receive updates with other Microsoft products when you update Windows and I like having this turned on because security is not just about Windows being secure, I also need Microsoft Office and Microsoft Edge, and those products to be secure, so I do like to have that turned on.
+> **[2:37](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=157)** I'll hit back again and the last option, Advanced options, I have the slider selected for Receive updates with other [[Microsoft Products]] when you update Windows and I like having this turned on because security is not just about Windows being secure, I also need [[Microsoft Office]] and Microsoft Edge, and those [[Microsoft Products|products]] to be secure, so I do like to have that turned on.
 >
 > **[3:03](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980&t=183)** It has an option on whether or not I want to restart the device as soon as possible.
 >
@@ -2706,18 +2669,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (4), [[Windows 10]] (3), [[Security]] (3), next (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (4), [[Windows 10]] (3), [[Microsoft Products]] (1), [[Microsoft Office]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Ports:** :00 (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Browsing the web securely with Edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980)
+#### [Browsing the web securely with Edge](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=0)** - Microsoft Edge is now the default web browser in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=0)** - [[Microsoft]] Edge is now the default web browser in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=5)** So, I'd like to talk a little bit about making it more secure.
 >
@@ -2731,7 +2693,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=35)** They do seem to reorganize the settings a lot between one version of Edge to another.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=42)** Surprisingly, there is not a category of settings for security but in the privacy search and services area, there is many security related settings.
+> **[0:42](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=42)** Surprisingly, there is not a category of settings for security but in the [[Privacy]] search and services area, there is many security related settings.
 >
 > **[0:55](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=55)** So, I'll click on that.
 >
@@ -2749,7 +2711,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=86)** Scrolling down, there is a section for security and there are three major options here.
 >
-> **[1:34](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=94)** Microsoft Defender SmartScreen, which will help protect me from malicious downloads, block potentially unwanted apps, which uses a similar technology to Smart Screen.
+> **[1:34](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=94)** [[Microsoft Defender]] SmartScreen, which will help protect me from malicious downloads, block potentially unwanted apps, which uses a similar technology to Smart Screen.
 >
 > **[1:46](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=106)** Both of those are receiving information from Microsoft about the security reputation about different sites and apps.
 >
@@ -2763,23 +2725,22 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=153)** But remember, in previous parts of this course, we talked about areas where you could potentially influence the security of Microsoft Edge.
 >
-> **[2:42](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=162)** Things like Microsoft Defender Application Guard, and actually all of Microsoft Defender, Windows Defender Firewall, and also there's a number of group policy settings that can be used to increase the security of Microsoft Edge web browser.
+> **[2:42](https://www.linkedin.com/learning/windows-10-security-14135501/browsing-the-web-securely-with-edge?u=76281980&t=162)** Things like Microsoft Defender Application Guard, and actually all of Microsoft Defender, [[Windows]] [[Microsoft Defender|Defender]] Firewall, and also there's a number of group policy settings that can be used to increase the security of Microsoft Edge web browser.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft]] (5), dns (4), [[Microsoft Defender]] (3), web (2)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Defender]] (3), [[Windows 10]] (1), [[Privacy]] (1), [[Windows]] (1)
 > **Env Vars:** dns (4), isp (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - microsoft (1)
 
-#### Secure Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980)
+#### [Secure Boot](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=0)** - [Tutor] In this section, we'll go into talk about the boot process in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=0)** - [Tutor] In this section, we'll go into talk about the boot process in [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=5)** In Windows 10, we can think of the boot process as a three-step process.
 >
@@ -2787,13 +2748,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=23)** We'll talk about each one of these in detail.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=26)** The first step secure boot, is handled by the Unified Extensible Firmware Interface, which is a standard implementation of your hardware.
+> **[0:26](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=26)** The first step secure boot, is handled by the Unified Extensible Firmware Interface, which is a standard implementation of your [[Hardware]].
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=37)** So Windows 10 is not actually involved in this.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=40)** At this point in the boot process, the operating system hasn't started running yet, it's just the firmware on your motherboard that's running.
 >
-> **[0:49](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=49)** UEFI verifies the signature of all the firmware files that are loaded, and that makes it difficult or impossible for these files to be replaced without your authorization, which dramatically reduces the probability of introducing a virus or malware into the boot process, hence the name secure boot.
+> **[0:49](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=49)** UEFI verifies the signature of all the firmware files that are loaded, and that makes it difficult or impossible for these files to be replaced without your authorization, which dramatically reduces the [[Probability]] of introducing a virus or malware into the boot process, hence the name secure boot.
 >
 > **[1:11](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=71)** The security here is that it's going to great efforts to eliminate viruses and malware while booting.
 >
@@ -2803,7 +2764,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=97)** The boot process has been handed off from the firmware to the operating system, and now Windows 10 will handle everything going forward.
 >
-> **[1:45](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=105)** First thing trusted boot does is load of kernel and that Windows kernel is verified by a certificate.
+> **[1:45](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=105)** First thing trusted boot does is load of kernel and that [[Windows]] kernel is verified by a certificate.
 >
 > **[1:53](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=113)** So the same mindset as the verification in the previous slide, we want to verify that the files have not been tampered with, and no one has introduced a virus.
 >
@@ -2811,13 +2772,13 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=131)** And as it's loading windows components, it will take care to load antimalware early in the launch sequence.
 >
-> **[2:19](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=139)** Microsoft calls this mindset early launch antimalware.
+> **[2:19](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=139)** [[Microsoft]] calls this mindset early launch antimalware.
 >
 > **[2:24](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=144)** It tries to load an antimalware program before any device driver is loaded, that way if there is a virus or root kit inside of one of the device drivers, the antimalware software can catch it.
 >
 > **[2:38](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=158)** So by loaded antimalware software first, that allows all device drivers to be scanned.
 >
-> **[2:46](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=166)** By default in Windows 10, the antimalware software is Windows defender.
+> **[2:46](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=166)** By default in Windows 10, the antimalware software is Windows [[Microsoft Defender|defender]].
 >
 > **[2:51](https://www.linkedin.com/learning/windows-10-security-14135501/secure-boot?u=76281980&t=171)** So again, the process starts with secure boot, which is handled entirely by the firmware.
 >
@@ -2832,16 +2793,15 @@ created: 2026-05-02
 > **Env Vars:** uefi (1)
 > **Speakers:** - [tutor] (1)
 
-#### Enabling controlled folder access
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980)
+#### [Enabling controlled folder access](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about controlled folders in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about controlled folders in [[Windows 10]].
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980&t=6)** So at the Start Menu I'll type in controlled folders, now click on the option for controlled folder access.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980&t=16)** Controlled folders is Microsoft's ransomware protection, and basically it limits the applications that can access the files in certain folders.
+> **[0:16](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980&t=16)** Controlled folders is [[Microsoft]]'s ransomware protection, and basically it limits the applications that can access the files in certain folders.
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-security-14135501/enabling-controlled-folder-access?u=76281980&t=28)** The hope is that it would block a ransomware attack by preventing the ransomware software from accessing your most important files.
 >
@@ -2891,7 +2851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Microsoft]] (2), hit (2), next (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows 10]] (1)
 > **UI Navigation:** click on (5), navigate to (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2902,14 +2862,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more about Windows 10 security
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980)
+#### [Where to learn more about Windows 10 security](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980&t=0)** - [Martin] Thank you for watching Securing Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980&t=0)** - [Martin] Thank you for watching Securing [[Windows 10]].
 >
-> **[0:03](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980&t=3)** I hope you've enjoyed the course as much as I enjoyed creating it, and I also hope that you continue your learning both about cybersecurity and about Windows 10.
+> **[0:03](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980&t=3)** I hope you've enjoyed the course as much as I enjoyed creating it, and I also hope that you continue your learning both about [[Cybersecurity]] and about Windows 10.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980&t=16)** We have plenty of great courses here in the library.
 >

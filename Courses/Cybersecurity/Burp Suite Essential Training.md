@@ -84,16 +84,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning how to use Burp Suite effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980)
+#### [Learning how to use Burp Suite effectively](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980&t=0)** - [Malcolm] With the dominance of cloud and software as a service delivery, web portals are now the dominant means of accessing applications.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980&t=0)** - [Malcolm] With the dominance of cloud and [[SaaS|software as a service]] delivery, web portals are now the dominant means of accessing applications.
 >
 > **[0:08](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980&t=8)** And we interact with them using the HTTP and HTTPS messaging protocols.
 >
-> **[0:13](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980&t=13)** In order to test web applications, we need to be able to manipulate those messages and Burp Suite is the tool of choice for doing that.
+> **[0:13](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980&t=13)** In order to test web applications, we need to be able to manipulate those messages and [[Burp Suite]] is the tool of choice for doing that.
 >
 > **[0:22](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980&t=22)** Learning how to use Burp Suite effectively is a key skill for all pen testers.
 >
@@ -105,41 +104,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Burp Suite]] (3), cloud (1), career (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (3)
 > **Env Vars:** http (1), https (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course, and we'll be using Kali Linux-based tools to do testing.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course, and we'll be using [[Kali Linux]]-based tools to do testing.
 >
-> **[0:05](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=5)** And we'll be targeting servers on both our VirtualBox test network, which we set up in learning Kali Linux, and on the LinkedIn learning lab that was introduced in the Advanced Kali Linux course.
+> **[0:05](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=5)** And we'll be targeting servers on both our VirtualBox test network, which we set up in learning Kali Linux, and on the [[LinkedIn]] learning lab that was introduced in the Advanced Kali Linux course.
 >
 > **[0:18](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=18)** You'll need to have a good working knowledge of Kali and some hands-on experience of testing.
 >
-> **[0:23](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=23)** You should have a working knowledge of web testing tools, and you should have taken the Ethical Hacking Web Servers and Applications course.
+> **[0:23](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=23)** You should have a working knowledge of web testing tools, and you should have taken the [[Ethical Hacking]] [[Web Servers]] and Applications course.
 >
 > **[0:31](https://www.linkedin.com/learning/burp-suite-essential-training/what-you-should-know?u=76281980&t=31)** If you've taken the Advanced web testing course that would be an advantage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (3), web (3), [[LinkedIn]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (3), [[LinkedIn]] (1), [[Ethical Hacking]] (1), [[Web Servers]] (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980)
+#### [Course disclaimer](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of Advanced Penetration Testing courses.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of Advanced [[Penetration Testing]] courses.
 >
-> **[0:04](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980&t=4)** And in addition to Kali Linux, it uses some third party testing software.
+> **[0:04](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980&t=4)** And in addition to [[Kali Linux]], it uses some third party testing software.
 >
 > **[0:09](https://www.linkedin.com/learning/burp-suite-essential-training/course-disclaimer?u=76281980&t=9)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers and we can't provide any assurance that these sites might not compromised when you visit them.
 >
@@ -167,30 +164,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Burp Suite?
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980)
+#### [What is Burp Suite?](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=0)** - [Instructor] From accessing remote cloud services to running modern on-premise applications, the interface of choice is now the web portal.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=0)** - [Instructor] From accessing remote [[Cloud Services]] to running modern on-premise applications, the interface of choice is now the web portal.
 >
-> **[0:09](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=9)** With client access from a browser and HTML as the standard way of interacting with applications, the use of web portals has helped make computing much more user-friendly.
+> **[0:09](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=9)** With client access from a browser and [[HTML]] as the standard way of interacting with applications, the use of web portals has helped make computing much more user-friendly.
 >
 > **[0:21](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=21)** The web portal may be presenting just a static set of web pages.
 >
-> **[0:26](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=26)** It may be presenting HTML web pages with active content, such as JavaScript, ASP, or PHP.
+> **[0:26](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=26)** It may be presenting HTML web pages with active content, such as [[JavaScript]], ASP, or [[PHP]].
 >
 > **[0:34](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=34)** The web portal may be presented directly from an HTML-capable application.
 >
-> **[0:40](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=40)** Increasingly, data is provided through what are known as REST API services, which enables machine-to-machine interaction using web protocols.
+> **[0:40](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=40)** Increasingly, data is provided through what are known as [[Representational State Transfer (REST)|REST]] API services, which enables machine-to-machine interaction using web protocols.
 >
 > **[0:51](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=51)** What all this means is that when we're engaged to do a penetration test, we're likely to be wanting to do a significant part of it on web-based services.
 >
 > **[1:01](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=61)** To do this effectively, we need to have testing tools which understand web protocols and provide the capabilities we need to work with them.
 >
-> **[1:11](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=71)** There are many web testing tools available, from the simple systems, such as WhatWeb; to dedicated web penetration testing tools, such as the Open Web Application Security Project's Zed Attack Proxy.
+> **[1:11](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=71)** There are many web testing tools available, from the simple systems, such as WhatWeb; to dedicated web [[Penetration Testing]] tools, such as the Open [[Web Application Security]] Project's Zed Attack Proxy.
 >
-> **[1:26](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=86)** However, the tool of choice for the professional web pen tester is Burp Suite.
+> **[1:26](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=86)** However, the tool of choice for the professional web pen tester is [[Burp Suite]].
 >
 > **[1:32](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980&t=92)** Burp Suite is a complete solution and an extendable framework for doing web penetration testing.
 >
@@ -210,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (13), [[Burp Suite]] (4), [[HTML]] (3), [[Penetration Testing]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (4), [[HTML]] (3), [[Penetration Testing]] (2), [[Cloud Services]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (3), asp (1), php (1), rest (1), api (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (3)
@@ -218,12 +214,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting to know Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980)
+#### [Getting to know Burp Suite](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=0)** - [Narrator] Let's take a first look at the Burp Suite tool and get familiar with what it offers.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=0)** - [Narrator] Let's take a first look at the [[Burp Suite]] tool and get familiar with what it offers.
 >
 > **[0:05](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=5)** We won't go into too much detail here, as we'll be covering a lot of the tools' functions as we go through the course.
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=153)** We'll select Mutillidae.
 >
-> **[2:38](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=158)** OWASP Top 10.
+> **[2:38](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=158)** [[OWASP]] Top 10.
 >
 > **[2:40](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=160)** Injection.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=288)** The final item in the Target functions is the Issues, which provides a handy reference to the issues that Burp Suite knows about and can highlight for us through its auditing.
 >
-> **[5:00](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=300)** Moving on to Proxy, we have five items here, Intercept, HTTP history, WebSockets history, Match and replace, and Proxy settings.
+> **[5:00](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=300)** Moving on to Proxy, we have five items here, Intercept, HTTP history, [[WebSocket|WebSockets]] history, Match and replace, and Proxy settings.
 >
 > **[5:10](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=310)** Let's start with Proxy, Intercept.
 >
@@ -337,9 +332,9 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=379)** They're set up via an HTTP connection establishment exchange, and then interact using their own style of message.
 >
-> **[6:27](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=387)** Modern web applications that use WebSockets will typically use JSON packets to exchange information.
+> **[6:27](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=387)** Modern web applications that use WebSockets will typically use [[JSON]] packets to exchange information.
 >
-> **[6:34](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=394)** Burp Suite is able to work with this traffic by capturing WebSocket exchanges, and then enabling replay.
+> **[6:34](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=394)** Burp Suite is able to work with this traffic by capturing [[WebSocket]] exchanges, and then enabling replay.
 >
 > **[6:42](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=402)** Match and replace is an advanced function that enables us to change parts and messages as they're passed through.
 >
@@ -377,19 +372,19 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=527)** Before we leave, let's touch quickly on the Collaborator.
 >
-> **[8:52](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=532)** If we're using Burp Suite Professional, Burp Suite uses a collaboration server to support certain forms of analysis.
+> **[8:52](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=532)** If we're using Burp Suite Professional, Burp Suite uses a collaboration server to support certain [[Forms]] of analysis.
 >
 > **[9:00](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=540)** The default is to use the public PortSwigger collaboration server.
 >
 > **[9:04](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=544)** This means that when we're doing scans, Burp Suite will use the collaboration server address in a target request, and after sending the test message to the target, can query the collaboration server to check whether the target interacted with it.
 >
-> **[9:19](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=559)** An example of where we might do this is when checking for a blind SQL vulnerability.
+> **[9:19](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=559)** An example of where we might do this is when checking for a blind [[SQL]] vulnerability.
 >
 > **[9:25](https://www.linkedin.com/learning/burp-suite-essential-training/getting-to-know-burp-suite-29768211?u=76281980&t=565)** PortSwigger has designed the collaboration server to be safe to use, but if using a public server is a concern for you, then you can disable it or configure your own private collaboration server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (29), traffic (7), web (4), [[WebSocket|Websockets]] (4), [[WebSocket]] (2)
+> **Frameworks & Libraries:** [[Burp Suite]] (29), [[WebSocket|Websockets]] (4), [[WebSocket]] (2), [[OWASP]] (1), [[JSON]] (1)
 > **UI Navigation:** go to (2), click on (2), open the (1), select the (1), scroll down (1)
 > **Env Vars:** http (3), owasp (1), json (1), sql (1)
 > **Prerequisites:** set up (4), configure (1)
@@ -398,12 +393,11 @@ created: 2026-05-02
 > **URLs:** [http://192.168.1.98](http://192.168.1.98) (2)
 > **Versions:** 192.168.1 (2)
 
-#### Proxying web traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980)
+#### [Proxying web traffic](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=0)** - [Malcolm] When we're testing websites, we'll often use a tool such as Burp Suite to intercept web traffic and allow us to inspect the web messages, change them, and insert new ones.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=0)** - [Malcolm] When we're testing websites, we'll often use a tool such as [[Burp Suite]] to intercept web traffic and allow us to inspect the web messages, change them, and insert new ones.
 >
 > **[0:10](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=10)** This is known as proxying.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=90)** And we're set up to use a proxy.
 >
-> **[1:33](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=93)** Before we leave, let's take a quick look at how we might use Burp Suite to intercept web traffic from an Android phone.
+> **[1:33](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=93)** Before we leave, let's take a quick look at how we might use Burp Suite to intercept web traffic from an [[Android]] phone.
 >
 > **[1:39](https://www.linkedin.com/learning/burp-suite-essential-training/proxying-web-traffic?u=76281980&t=99)** We can get to the proxy settings by long press on the network name and selecting modify network, check show advanced options, and select proxy manual.
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (10), traffic (7), web (4), web application (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (10), [[Android]] (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
 > **Env Vars:** http (1), ftp (1), https (1)
 > **Tools:** firefox (3)
@@ -456,12 +450,11 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (1)
 > **Definitions:** known as (1)
 
-#### Using Burp Suite as a proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/using-burp-suite-as-a-proxy?u=76281980)
+#### [Using Burp Suite as a proxy](https://www.linkedin.com/learning/burp-suite-essential-training/using-burp-suite-as-a-proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/using-burp-suite-as-a-proxy?u=76281980&t=0)** - [Instructor] We've got Burp Suite open, so let's check Burp's proxy settings.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/using-burp-suite-as-a-proxy?u=76281980&t=0)** - [Instructor] We've got [[Burp Suite]] open, so let's check Burp's proxy settings.
 >
 > **[0:04](https://www.linkedin.com/learning/burp-suite-essential-training/using-burp-suite-as-a-proxy?u=76281980&t=4)** We'll select proxy, intercept.
 >
@@ -559,7 +552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (13), web (2), traffic (2), database (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (13)
 > **UI Navigation:** click on (3), open the (2), navigate to (2), scroll down (1)
 > **Env Vars:** dvwa (3), url (1)
 > **Versions:** 10.0.2 (2), 10.2.20 (1), 2.20 (1)
@@ -568,14 +561,13 @@ created: 2026-05-02
 > **URLs:** [http://2.20/dvwa](http://2.20/dvwa) (1)
 > **Analogies:** for example (1)
 
-#### Setting up additional targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980)
+#### [Setting up additional targets](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=0)** - [Instructor] We've already looked at Metasploitable, but it's useful to have a few systems to test against.
 >
-> **[0:06](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=6)** The broken web application from OWASP offers a number of useful web apps that we can use for testing.
+> **[0:06](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=6)** The broken web application from [[OWASP]] offers a number of useful web apps that we can use for testing.
 >
 > **[0:13](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=13)** And it's available as a virtual machine appliance that we can download.
 >
@@ -591,11 +583,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=55)** There's also a number of older real-world applications, such as OrangeHRM.
 >
-> **[1:00](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=60)** The broken web application is a testing solution in its own right but also provides a useful target that we can use to exercise our skills with Burp Suite.
+> **[1:00](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=60)** The broken web application is a testing solution in its own right but also provides a useful target that we can use to exercise our skills with [[Burp Suite]].
 >
-> **[1:10](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=70)** The Xtreme Vulnerable Web Application is a PHP SQL website, which we can run on our Kali system.
+> **[1:10](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=70)** The Xtreme Vulnerable Web Application is a [[PHP]] [[SQL]] website, which we can run on our Kali system.
 >
-> **[1:17](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=77)** Let's start up our Apache and MySQL services.
+> **[1:17](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=77)** Let's start up our Apache and [[MySQL]] services.
 >
 > **[1:21](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=81)** Sudo service apache2 start.
 >
@@ -603,9 +595,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=100)** And then let's go to our web root and clone the XVWA application.
 >
-> **[1:44](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=104)** Cd /var/www/html.
+> **[1:44](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=104)** Cd /var/www/[[HTML]].
 >
-> **[1:51](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=111)** And we'll sudo git clone [https://github.com/s4n7h0/xvwa.git](https://github.com/s4n7h0/xvwa.git).
+> **[1:51](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=111)** And we'll sudo [[Git]] clone [https://[[GitHub]].com/s4n7h0/xvwa.git](https://github.com/s4n7h0/xvwa.git).
 >
 > **[2:14](https://www.linkedin.com/learning/burp-suite-essential-training/setting-up-additional-targets?u=76281980&t=134)** Okay, let's set up a user for XVWA and create the XVWA database.
 >
@@ -635,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (5), web (4), [[MySQL]] (4), [[Burp Suite]] (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Burp Suite]] (2), [[PHP]] (2), [[Git]] (2), [[OWASP]] (1)
 > **CLI Commands:** sudo (6), mysql (4), php (2), git (2), apache (1)
 > **Env Vars:** xvwa (5), owasp (1), php (1), sql (1)
 > **Prerequisites:** set up (1), configure (1), setup (1)
@@ -649,12 +641,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crawling the website
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980)
+#### [Crawling the website](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980&t=0)** - [Instructor] Let's use Burp Suite Professional Edition and take a deeper look at crawling a website.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980&t=0)** - [Instructor] Let's use [[Burp Suite]] Professional Edition and take a deeper look at crawling a website.
 >
 > **[0:06](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980&t=6)** We'll switch off intercept, open the browser, and we'll visit 10.0.2.20, which is our Metasploitable2 server.
 >
@@ -706,27 +697,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (3), web (2), application (2)
+> **Frameworks & Libraries:** [[Burp Suite]] (3)
 > **Env Vars:** url (1), http (1), https (1), dvwa (1)
 > **UI Navigation:** open the (2), click on (2)
 > **Versions:** 10.0.2 (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding hidden webpages
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980)
+#### [Finding hidden webpages](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=0)** - [Instructor] It's not unusual to find a web server which has a number of web applications, each with their own route or has special administrative pages in the website, which are accessible only by direct reference and not linked at all to the main web route.
 >
-> **[0:14](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=14)** As an example, PHP web applications may have a standalone PHP info or my PHP admin page.
+> **[0:14](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=14)** As an example, [[PHP]] web applications may have a standalone PHP info or my PHP admin page.
 >
 > **[0:22](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=22)** Let's take a look at one of the servers at the main Hack The Box lab at address 10.10.10.191.
 >
 > **[0:28](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=28)** This is a target called Blunder.
 >
-> **[0:31](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=31)** We can use special tools, such as dirb, Gobuster and DirBuster to look for hidden web pages but we also have this capability directly available in Burp Suite.
+> **[0:31](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=31)** We can use special tools, such as [[Dirb]], [[Gobuster]] and DirBuster to look for hidden web pages but we also have this capability directly available in [[Burp Suite]].
 >
 > **[0:41](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=41)** Let's take a look at how Burp Suite finds pages, which are not directly linked to the main web application.
 >
@@ -784,13 +774,13 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=214)** And if we go to the browser and look at our admin page, we see a BLUDIT login.
 >
-> **[3:45](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=225)** And BLUDIT is a flat file content management system.
+> **[3:45](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=225)** And BLUDIT is a flat file [[Content Management]] system.
 >
-> **[3:49](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=229)** As with the other website discovery tools, the success we get by doing content discovery very much depends upon the quality of the word list we use and in some cases, the way in which we manipulate web content to form special purpose additional word list entries.
+> **[3:49](https://www.linkedin.com/learning/burp-suite-essential-training/finding-hidden-webpages?u=76281980&t=229)** As with the other website discovery tools, the success we get by doing content discovery very much depends upon the quality of the [[Microsoft Word|word]] list we use and in some cases, the way in which we manipulate web content to form special purpose additional word list entries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[PHP]] (3), [[Burp Suite]] (2), [[Microsoft Word|Word]] (2), web application (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Burp Suite]] (2), [[Microsoft Word|Word]] (2), [[Dirb]] (1), [[Gobuster]] (1)
 > **Env Vars:** php (3), bludit (2), url (1), http (1)
 > **CLI Commands:** find (3), php (3)
 > **UI Navigation:** go to (4), select the (1)
@@ -799,14 +789,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 
-#### Understanding message content
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980)
+#### [Understanding message content](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=0)** - [Malcolm] We'll be spending a lot of time looking at messages.
 >
-> **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=3)** So it's useful to really understand how Burp Suite presents messages to us, and what's in them.
+> **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=3)** So it's useful to really understand how [[Burp Suite]] presents messages to us, and what's in them.
 >
 > **[0:08](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=8)** Let's load some data by visiting Mutillidae on our meta exploitable server.
 >
@@ -816,7 +805,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=37)** The contents panel shows the message exchange with the relevant server, the method and URL on the left and the timestamp, if we scroll to the right.
 >
-> **[0:50](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=50)** In between, we have the response status, the length of the response, including the header, the type of content, and for HTML, the webpage title.
+> **[0:50](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=50)** In between, we have the response status, the length of the response, including the header, the type of content, and for [[HTML]], the webpage title.
 >
 > **[1:00](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=60)** Below that, we have the request and response panels, which we've already seen can be displayed as tabs side by side or vertically.
 >
@@ -864,7 +853,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=265)** There's a copy of this in your exercise folder if you want to follow along.
 >
-> **[4:29](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=269)** Let's open a Python website Python minus M, simple HTTP server and we'll run it on port 80.
+> **[4:29](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=269)** Let's open a [[Python (Programming Language)|Python]] website Python minus M, simple HTTP server and we'll run it on port 80.
 >
 > **[4:48](https://www.linkedin.com/learning/burp-suite-essential-training/understanding-message-content?u=76281980&t=288)** Okay, let's take at that in Burp Suite's browser, 127.0.0.1/ and the file I've got is called heidi.html.
 >
@@ -912,7 +901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), [[Burp Suite]] (4), web (3), data (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Burp Suite]] (4), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** html (3), http (2), url (1)
 > **UI Navigation:** go to (3), open the (1), navigate to (1), click on (1)
 > **Analogies:** for example (2), such as (2)
@@ -921,12 +910,11 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (2), 10.0.2 (1)
 > **Definitions:** is a  (2), is called (1)
 
-#### Finding missing content
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980)
+#### [Finding missing content](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=0)** - [Instructor] It's not always obvious what's being sent as messages when using Burp Suite.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=0)** - [Instructor] It's not always obvious what's being sent as messages when using [[Burp Suite]].
 >
 > **[0:04](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=4)** Let's look at what happens when we are working with an example of a login page.
 >
@@ -972,7 +960,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=142)** Let's have a look at it.
 >
-> **[2:25](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=145)** We can see that it's a request to /manager/html and the response is unauthorized.
+> **[2:25](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=145)** We can see that it's a request to /manager/[[HTML]] and the response is unauthorized.
 >
 > **[2:37](https://www.linkedin.com/learning/burp-suite-essential-training/finding-missing-content?u=76281980&t=157)** The message is flagged as a potential alert with a clear text submission of password, but it's not shown in the request.
 >
@@ -1058,14 +1046,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intercepting bank transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980)
+#### [Intercepting bank transactions](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=0)** - Changing the content of messages is very easy with Burp Suite.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=0)** - Changing the content of messages is very easy with [[Burp Suite]].
 >
-> **[0:04](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=4)** We'll use the zero banking site as an example of how we do this.
+> **[0:04](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=4)** We'll use the zero [[Banking]] site as an example of how we do this.
 >
 > **[0:09](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980&t=9)** Let's navigate to the zero online banking site.
 >
@@ -1099,19 +1086,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (3), [[Banking]] (3), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (3), [[Banking]] (3)
 > **URLs:** [security.com](https://security.com) (1)
 > **Env Vars:** http (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - changing (1)
 
-#### Exploiting headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/exploiting-headers?u=76281980)
+#### [Exploiting headers](https://www.linkedin.com/learning/burp-suite-essential-training/exploiting-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/exploiting-headers?u=76281980&t=0)** - [Instructor] Let's see how we can use Burp Suite on message headers to gain information.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/exploiting-headers?u=76281980&t=0)** - [Instructor] Let's see how we can use [[Burp Suite]] on message headers to gain information.
 >
 > **[0:05](https://www.linkedin.com/learning/burp-suite-essential-training/exploiting-headers?u=76281980&t=5)** We'll be using the Shocker system on Hack The Box for this test.
 >
@@ -1215,7 +1201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (2), hit (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (2)
 > **CLI Commands:** cat (2), ls (1)
 > **File Paths:** user.sh (1), cgi-bin/user.sh (1)
 > **Tools:** bash (2)
@@ -1224,24 +1210,23 @@ created: 2026-05-02
 > **Versions:** 10.10.10 (1)
 > **Cross-References:** go back to (1)
 
-#### Inserting an SQL injection via Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980)
+#### [Inserting an SQL injection via Burp Suite](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=0)** - [Instructor] We'll often see websites which are supported by SQL databases, either built into the platform or on a backend server.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=0)** - [Instructor] We'll often see websites which are supported by [[SQL]] [[Databases]], either built into the platform or on a backend server.
 >
-> **[0:08](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=8)** SQLmap is a key tool to use on these sites to identify the SQL server and to determine whether it's exploitable.
+> **[0:08](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=8)** [[SQLmap]] is a key tool to use on these sites to identify the [[Microsoft SQL Server|SQL server]] and to determine whether it's exploitable.
 >
-> **[0:16](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=16)** Burp Suite and SQLmap are often used together.
+> **[0:16](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=16)** [[Burp Suite]] and SQLmap are often used together.
 >
-> **[0:20](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=20)** Let's see how we can use them as a tool set to gain access to an SQL database, using the Europa server which we have on our LinkedIn learning lab.
+> **[0:20](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=20)** Let's see how we can use them as a tool set to gain access to an SQL database, using the Europa server which we have on our [[LinkedIn]] learning lab.
 >
 > **[0:33](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=33)** Let's make sure the Europa Corp admin portal, which we found using our previous reconnaissance, is in our host file.
 >
 > **[0:41](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=41)** sudo nano /etc/hosts.
 >
-> **[0:48](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=48)** And we'll add 10.10.10.22, admin-portal.europacorp.htb.
+> **[0:48](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=48)** And we'll add 10.10.10.22, admin-portal.europacorp.[[HackTheBox|htb]].
 >
 > **[1:04](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=64)** And we'll save that.
 >
@@ -1265,7 +1250,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=164)** So let's copy them.
 >
-> **[2:52](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=172)** And we can use SQLmap to check the parameter string containing the credentials we're posting on the login PHP form, and we can use the --data option to provide the data portion of the post and the -dbms option to force SQLmap to focus on the MySQL database.
+> **[2:52](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=172)** And we can use SQLmap to check the parameter string containing the credentials we're posting on the login [[PHP]] form, and we can use the --data option to provide the data portion of the post and the -dbms option to force SQLmap to focus on the [[MySQL]] database.
 >
 > **[3:11](https://www.linkedin.com/learning/burp-suite-essential-training/inserting-an-sql-injection-via-burp-suite?u=76281980&t=191)** So we'll use SQLmap -u, and we're going to be going to https/admin-portal.europacorp.htb/login.php --data equals,
 >
@@ -1317,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (4), [[Burp Suite]] (4), database (4), data (3)
+> **Frameworks & Libraries:** [[SQLmap]] (8), [[SQL]] (4), [[Databases]] (4), [[Burp Suite]] (4), [[HackTheBox|Htb]] (4)
 > **Env Vars:** sql (5), php (1), url (1)
 > **CLI Commands:** php (2), mysql (2), make (1), sudo (1)
 > **UI Navigation:** select the (2), right-click (1), go to (1)
@@ -1326,12 +1311,11 @@ created: 2026-05-02
 > **Versions:** 10.10.10 (1)
 > **Definitions:** is a  (1)
 
-#### Saving request messages for further exploitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980)
+#### [Saving request messages for further exploitation](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=0)** - [Instructor] We've looked at how we might obtain data that SQLmap can use, but another way of working with SQLmap is to feed it a complete message.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=0)** - [Instructor] We've looked at how we might obtain data that [[SQLmap]] can use, but another way of working with SQLmap is to feed it a complete message.
 >
 > **[0:09](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=9)** Let's see how we do this using another of the main Hack The Box servers, Falafel.
 >
@@ -1359,7 +1343,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=88)** And we'll copy that to falafel.text.
 >
-> **[1:38](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=98)** Now we can run our SQL command using the request packet and the value, wrong identification, which indicates a valid response on username.
+> **[1:38](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=98)** Now we can run our [[SQL]] command using the request packet and the value, wrong identification, which indicates a valid response on username.
 >
 > **[1:49](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=109)** SQLmap minus R for the request packets.
 >
@@ -1369,7 +1353,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=133)** Okay, we found an injection.
 >
-> **[2:15](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=135)** We can now run this, adding minus minus DBS to list the databases.
+> **[2:15](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=135)** We can now run this, adding minus minus DBS to list the [[Databases]].
 >
 > **[2:23](https://www.linkedin.com/learning/burp-suite-essential-training/saving-request-messages-for-further-exploitation?u=76281980&t=143)** And we have Falafel and information schema.
 >
@@ -1389,15 +1373,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SQL]] (1), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[SQLmap]] (3), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** sql (1), dbs (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Versions:** 10.10.10 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting commands into messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980)
+#### [Injecting commands into messages](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1400,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=44)** We can now see the generated script.
 >
-> **[0:46](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=46)** In itself, it's not much use to us, but let's look at the post message to tools.php.
+> **[0:46](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=46)** In itself, it's not much use to us, but let's look at the post message to tools.[[PHP]].
 >
 > **[1:00](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=60)** We can see the pattern shows IP address, which we expect to be replaced, and the IP address field is the IP address we typed in.
 >
@@ -1451,7 +1434,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=238)** and text equals something.
 >
-> **[4:05](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=245)** And the length this time is 72, and we can turn that off, and we find there's our home directory listing and there's just John.
+> **[4:05](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=245)** And the length this time is 72, and we can turn that off, and we find there's our home directory listing and there's just [[John the Ripper|John]].
 >
 > **[4:20](https://www.linkedin.com/learning/burp-suite-essential-training/injecting-commands-into-messages?u=76281980&t=260)** We know that there's a user.txt in the home directory, so let's use cat to type it out.
 >
@@ -1461,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), data (3), vpn (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[John the Ripper|John]] (1)
 > **CLI Commands:** php (3), ls (2), find (1), cat (1)
 > **Env Vars:** php (2), vpn (1)
 > **File Paths:** tools.php (1), user.txt (1)
@@ -1475,8 +1458,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the Intruder
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980)
+#### [Introducing the Intruder](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,7 +1492,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980&t=107)** In this case, we'll keep things fairly simple.
 >
-> **[1:50](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980&t=110)** For our Payload we'll select Load, and then we'll select the file from user share word list Metasploit, unixpasswords.txt, and we load them.
+> **[1:50](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980&t=110)** For our Payload we'll select Load, and then we'll select the file from user share [[Microsoft Word|word]] list [[Metasploit]], unixpasswords.txt, and we load them.
 >
 > **[2:09](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980&t=129)** We won't do any payload processing, but let's just have a look at that.
 >
@@ -1550,7 +1532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Metasploit]] (1)
 > **UI Navigation:** select the (4), go to (2), open the (1), click on (1)
 > **Env Vars:** dab (1), post (1)
 > **File Paths:** unixpasswords.txt (1)
@@ -1559,8 +1541,7 @@ created: 2026-05-02
 > **API Endpoints:** post  (1)
 > **Versions:** 10.10.10 (1)
 
-#### Manipulating cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980)
+#### [Manipulating cookies](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,11 +1549,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=3)** We'll use the DAP Server again.
 >
-> **[0:06](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=6)** We need to enable cookies through this test and these are set off by default in Burp Suite's browser.
+> **[0:06](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=6)** We need to enable cookies through this test and these are set off by default in [[Burp Suite]]'s browser.
 >
 > **[0:12](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=12)** So we'll go to proxy, switch intercept off and we'll open the browser.
 >
-> **[0:20](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=20)** We'll select the browser options, settings, privacy and security, cookies and other site data and we'll allow all cookies.
+> **[0:20](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=20)** We'll select the browser options, settings, [[Privacy]] and security, cookies and other site data and we'll allow all cookies.
 >
 > **[0:33](https://www.linkedin.com/learning/burp-suite-essential-training/manipulating-cookies?u=76281980&t=33)** Okay, we've already seen the main website, so let's log in to start our session.
 >
@@ -1650,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (2), [[Privacy]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (2), [[Privacy]] (1)
 > **UI Navigation:** go to (4), select the (3), open the (1), navigate to (1)
 > **CLI Commands:** find (2)
 > **Ports:** port 8080 (2)
@@ -1659,8 +1640,7 @@ created: 2026-05-02
 > **File Paths:** unix_passwords.txt (1)
 > **Code Identifiers:** unix_passwords (1)
 
-#### The four Intruders
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/the-four-intruders?u=76281980)
+#### [The four Intruders](https://www.linkedin.com/learning/burp-suite-essential-training/the-four-intruders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,7 +1696,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/burp-suite-essential-training/the-four-intruders?u=76281980&t=139)** We can see that a panel appears, which allows us to select the character set in the minimum and maximum length to try.
 >
-> **[2:25](https://www.linkedin.com/learning/burp-suite-essential-training/the-four-intruders?u=76281980&t=145)** Burp Suite will generate all the values for the brute force attack and we can see that this is over a million and a half.
+> **[2:25](https://www.linkedin.com/learning/burp-suite-essential-training/the-four-intruders?u=76281980&t=145)** [[Burp Suite]] will generate all the values for the brute force attack and we can see that this is over a million and a half.
 >
 > **[2:33](https://www.linkedin.com/learning/burp-suite-essential-training/the-four-intruders?u=76281980&t=153)** Let's rerun our attack on the cookie.
 >
@@ -1736,7 +1716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (2), product (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (2)
 > **UI Navigation:** dropdown (3), click on (1), go to (1), select the (1)
 > **Env Vars:** dap (1)
 > **Definitions:** in other words (1)
@@ -1748,12 +1728,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using CO2 to integrate SQLMap
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980)
+#### [Using CO2 to integrate SQLMap](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=0)** - [Instructor] Let's see how we install extensions into Burp Suite.
+> **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=0)** - [Instructor] Let's see how we install extensions into [[Burp Suite]].
 >
 > **[0:05](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=5)** We'll go to the Extender tab and select BApp Store.
 >
@@ -1761,7 +1740,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=17)** One commonly used extension is CO2.
 >
-> **[0:22](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=22)** This enables us to integrate SQLmap into the Burp Suite menus.
+> **[0:22](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=22)** This enables us to integrate [[SQLmap]] into the Burp Suite menus.
 >
 > **[0:27](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=27)** Let's install CO2.
 >
@@ -1771,7 +1750,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=45)** Enter /usr/share/sqlmap/sqlmap.py Enter /usr/share/sqlmap/sqlmap.py as the SQLmap path.
 >
-> **[0:53](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=53)** Note that for Linux, we need to have xterm installed.
+> **[0:53](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=53)** Note that for [[Linux]], we need to have xterm installed.
 >
 > **[0:57](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980&t=57)** Okay, we'll click OK.
 >
@@ -1809,7 +1788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (4), [[Linux]] (1)
+> **Frameworks & Libraries:** [[SQLmap]] (9), [[Burp Suite]] (4), [[Linux]] (1)
 > **CLI Commands:** sudo (2), apt (2), find (2)
 > **Env Vars:** co2 (6)
 > **Prerequisites:** install (6)
@@ -1818,8 +1797,7 @@ created: 2026-05-02
 > **File Paths:** usr/share/sqlmap/sqlmap.py (2)
 > **Tools:** terminal (1)
 
-#### A first look at Burp AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/a-first-look-at-burpsuite-ai?u=76281980)
+#### [A first look at Burp AI](https://www.linkedin.com/learning/burp-suite-essential-training/a-first-look-at-burpsuite-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,26 +1819,25 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/burp-suite-essential-training/a-first-look-at-burpsuite-ai?u=76281980&t=71)** This saves us time creating the manual login scripts that we'd otherwise have to build.
 >
-> **[1:16](https://www.linkedin.com/learning/burp-suite-essential-training/a-first-look-at-burpsuite-ai?u=76281980&t=76)** The Burp Suite 2025 release also includes a Montoya API to enable us to build Burp Suite extensions, which leverage the Burp AI subsystem.
+> **[1:16](https://www.linkedin.com/learning/burp-suite-essential-training/a-first-look-at-burpsuite-ai?u=76281980&t=76)** The [[Burp Suite]] 2025 release also includes a Montoya API to enable us to build Burp Suite extensions, which leverage the Burp AI subsystem.
 >
 > **[1:27](https://www.linkedin.com/learning/burp-suite-essential-training/a-first-look-at-burpsuite-ai?u=76281980&t=87)** Burp AI is an advanced capability within the commercial version of Burp Suite, so we won't go into all of these capabilities in depth.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Burp Suite]] (3), product (1), web (1), api (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring issues with Burp AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/exploring-issues-with-burpai?u=76281980)
+#### [Exploring issues with Burp AI](https://www.linkedin.com/learning/burp-suite-essential-training/exploring-issues-with-burpai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/exploring-issues-with-burpai?u=76281980&t=0)** - [Speaker] Let's see how we use the AI Explorer.
 >
-> **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/exploring-issues-with-burpai?u=76281980&t=3)** We've used the built-in browser to navigate to PortSwiggers Gin and Juice website, which is provided as a testing target for Burp Suite, and we've run an active scan to check for vulnerabilities. At the dashboard, we can see there's a lot of issues flagged in the live audit panel and in the summary list, let's select one of the SQL injection messages.
+> **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/exploring-issues-with-burpai?u=76281980&t=3)** We've used the built-in browser to navigate to PortSwiggers Gin and Juice website, which is provided as a testing target for [[Burp Suite]], and we've run an active scan to check for vulnerabilities. At the dashboard, we can see there's a lot of issues flagged in the live audit panel and in the summary list, let's select one of the [[SQL]] injection messages.
 >
 > **[0:29](https://www.linkedin.com/learning/burp-suite-essential-training/exploring-issues-with-burpai?u=76281980&t=29)** In the lower panel, we can see the advisory details and we've also got a button at the right, which enables us to explore the issue.
 >
@@ -1890,7 +1867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Burp Suite]] (3), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (3), [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [speaker] (1)
@@ -1900,14 +1877,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=3)** I hope you enjoyed learning about Burp Suite.
+> **[0:03](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=3)** I hope you enjoyed learning about [[Burp Suite]].
 >
 > **[0:06](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=6)** This course is an important step along your learning path, which leads to becoming a professional pen tester.
 >
@@ -1915,7 +1891,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=18)** Burp Suite is the professional's tool of choice for web testing and a tool which you can now use effectively.
 >
-> **[0:25](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=25)** There's always something new in cybersecurity.
+> **[0:25](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=25)** There's always something new in [[Cybersecurity]].
 >
 > **[0:27](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=27)** And if you're interested in learning more, then check out the full security segment of the library, where new courses are added regularly.
 >
@@ -1923,17 +1899,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=38)** I'd also like to invite you to go to my author page, where you can find some additional pen testing courses, as well as a wider coverage of cybersecurity.
 >
-> **[0:47](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=47)** If you want to get hands on with Android, then do take a look at "Mobile Devices and Platforms" and "Securing Android Apps."
+> **[0:47](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=47)** If you want to get hands on with [[Android]], then do take a look at "Mobile Devices and Platforms" and "Securing Android Apps."
 >
-> **[0:54](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=54)** If you're wanting to learn about security for the cloud, then "Cybersecurity for Cloud Computing" is for you.
+> **[0:54](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=54)** If you're wanting to learn about security for the cloud, then "Cybersecurity for [[Cloud Computing]]" is for you.
 >
-> **[1:00](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=60)** You'll also find courses on the security aspects of wireless, websites, and the Internet of Things.
+> **[1:00](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=60)** You'll also find courses on the security aspects of wireless, websites, and the [[IoT|Internet of Things]].
 >
 > **[1:06](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980&t=66)** Thanks again for joining me on this course, and I hope to see you again soon for more courses on pen testing and cybersecurity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (4), [[Burp Suite]] (2), web (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Burp Suite]] (2), [[Android]] (2), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)

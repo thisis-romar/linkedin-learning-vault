@@ -44,18 +44,18 @@ created: 2026-05-02
 > 11. [[Sketching For Ux Designers]] — 4 mentions
 > 12. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 4 mentions
 > 13. [[Generative AI-Powered Strategic Business Analysis]] — 4 mentions
-> 14. [[Software Development Life Cycle (SDLC)]] — 4 mentions
-> 15. [[Digital Transformation for Leaders in the AI Era]] — 3 mentions
-> 16. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 3 mentions
-> 17. [[Product Management- Building a Product Roadmap]] — 3 mentions
-> 18. [[Gpt Foundations Building Ai Powered Apps]] — 3 mentions
-> 19. [[AI Product Ideation- Principles and Practical Applications]] — 3 mentions
-> 20. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 3 mentions
-> 21. [[Designing RESTful APIs]] — 3 mentions
-> 22. [[Integrating AI into the Product Architecture]] — 3 mentions
-> 23. [[SQL Hands-On Practice- Solve Business Problems]] — 3 mentions
-> 24. [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 3 mentions
-> 25. [[AI Foundations- Ideating and Prototyping]] — 3 mentions
+> 14. [[AI Foundations- Ideating and Prototyping]] — 4 mentions
+> 15. [[Software Development Life Cycle (SDLC)]] — 4 mentions
+> 16. [[Digital Transformation for Leaders in the AI Era]] — 3 mentions
+> 17. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 3 mentions
+> 18. [[Product Management- Building a Product Roadmap]] — 3 mentions
+> 19. [[Gpt Foundations Building Ai Powered Apps]] — 3 mentions
+> 20. [[AI Product Ideation- Principles and Practical Applications]] — 3 mentions
+> 21. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 3 mentions
+> 22. [[Designing RESTful APIs]] — 3 mentions
+> 23. [[Integrating AI into the Product Architecture]] — 3 mentions
+> 24. [[SQL Hands-On Practice- Solve Business Problems]] — 3 mentions
+> 25. [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 3 mentions
 > 26. [[AI Orchestration- Foundations]] — 3 mentions
 > 27. [[Wordpress Ecommerce]] — 3 mentions
 > 28. [[Rpa Ai And Cognitive Tech For Leaders]] — 2 mentions
@@ -146,7 +146,7 @@ created: 2026-05-02
 
 ## Learning Paths
 
-1. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 24 total mentions
+1. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 25 total mentions
 2. [[Understanding Generative AI for Tech Leaders]] — 22 total mentions
 3. [[Generative AI Professional Certificate by Snowflake]] — 12 total mentions
 4. [[Building Agentic AI Systems for Tech Leaders]] — 11 total mentions

@@ -92,20 +92,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning and releasing software with Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980)
+#### [Planning and releasing software with Jira](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=0)** - [Rachel Wright] Planning, creating and releasing software requires a sound process, strong coordination between multiple teams and correctly configured applications.
 >
-> **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=9)** Many teams choose JIRA software to manage their work.
+> **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=9)** Many teams choose [[Jira]] software to manage their work.
 >
-> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=12)** By connecting additional Atlassian tools, like Confluence and Bitbucket, teams can reduce manual work and holistically support their entire development process.
+> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=12)** By connecting additional [[Atlassian]] tools, like [[Confluence]] and [[Bitbucket]], teams can reduce manual work and holistically support their entire development process.
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=22)** Hi, I'm Rachel Wright, certified Jira administrator and author of the JIRA Strategy Admin Workbook.
 >
-> **[0:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=28)** As the founder of a web development company, a liaison between business and development teams and an Atlassian application administrator, I understand business processes, software development tools, and have lived the software development life cycle.
+> **[0:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=28)** As the founder of a [[Web Development]] company, a liaison between business and development teams and an Atlassian application administrator, I understand business processes, [[Software Development]] tools, and have lived the software development life cycle.
 >
 > **[0:42](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980&t=42)** In this course, you'll learn how to use Atlassian applications to plan, develop, test and release software, ways to adapt the software development life cycle to fit the needs of your organization.
 >
@@ -125,33 +124,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), teams (4), [[Atlassian]] (3), [[Confluence]] (3), [[Software Development]] (3)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Atlassian]] (3), [[Confluence]] (3), [[Software Development]] (3), [[Bitbucket]] (2)
 > **Tools:** jira (6), confluence (3), bitbucket (2)
 > **Env Vars:** jira (4)
 > **Speakers:** - [rachel (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course is for developers, testers, project managers, scrum masters, product owners, release managers, and anyone else involved in the software development life cycle.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course is for developers, testers, project managers, [[Scrum]] masters, product owners, release managers, and anyone else involved in the [[Software Development]] life cycle.
 >
 > **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=10)** Even if you're not personally coding, it's helpful to know more about what goes on in the background.
 >
 > **[0:14](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=14)** Whether you're new or experienced in the software world, on a business team or development team, or consider yourself technical or not, this course will help you better understand the tools and the processes.
 >
-> **[0:26](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=26)** You may be in administrator of one or more applications, a power user, or an occasional user of Atlassian or other software.
+> **[0:26](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=26)** You may be in administrator of one or more applications, a power user, or an occasional user of [[Atlassian]] or other software.
 >
-> **[0:33](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=33)** It's good to know that there are three types of Jira.
+> **[0:33](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=33)** It's good to know that there are three types of [[Jira]].
 >
 > **[0:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=36)** Jira Work Management is built for business teams, managing projects, processes, and tasks.
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=41)** It was previously named Jira Core.
 >
-> **[0:43](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=43)** Jira Software is for development teams and includes features like sprints, story points, backlogs and integration with dev tools like Bamboo and Bitbucket.
+> **[0:43](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=43)** Jira Software is for development teams and includes features like sprints, story points, backlogs and integration with dev tools like Bamboo and [[Bitbucket]].
 >
-> **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=52)** Jira Service Management is for support and IT service management teams.
+> **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=52)** Jira Service Management is for support and [[IT Service Management]] teams.
 >
 > **[0:56](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=56)** It was previously named Jira Service Desk.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=81)** If you have Server, it means the software is hosted independently.
 >
-> **[1:24](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=84)** Your applications may be hosted on premises, on a server in your office, in your data center with other internal applications, in a cloud server environment like Amazon AWS, Microsoft Azure, or Google Cloud Platform, or by a third party.
+> **[1:24](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=84)** Your applications may be hosted on premises, on a server in your [[Microsoft Office|office]], in your data center with other internal applications, in a cloud server environment like Amazon AWS, [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud Platform]], or by a third party.
 >
 > **[1:38](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/who-is-this-course-for?u=76281980&t=98)** Finally, if you have Data Center, applications are also hosted independently.
 >
@@ -189,19 +187,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (4), application (4), cloud (4), teams (3)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (4), [[Scrum]] (1), [[Software Development]] (1), [[Bitbucket]] (1)
 > **Tools:** jira (9), bitbucket (1)
 > **Env Vars:** aws (1), jira (1)
 > **CLI Commands:** aws (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=0)** - [Rachel] Ideally, you'll have some end-user experience in Atlassian applications, like creating issues in JIRA, creating pages in Confluence, and checking code into Bitbucket.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=0)** - [Rachel] Ideally, you'll have some end-[[User Experience (UX)|user experience]] in [[Atlassian]] applications, like creating issues in [[Jira]], creating pages in [[Confluence]], and checking code into [[Bitbucket]].
 >
 > **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=9)** It's also helpful to have application admin, or system admin experience with other software, but it's, certainly, possible that you don't have this experience, and that's okay.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=46)** Your organization might already have one.
 >
-> **[0:48](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=48)** If they don't, you can simply sign up for your own free versions of products in the Atlassian suite.
+> **[0:48](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=48)** If they don't, you can simply sign up for your own free versions of [[Microsoft Products|products]] in the Atlassian suite.
 >
 > **[0:54](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=54)** If you're new to JIRA, take my learning JIRA course first.
 >
@@ -235,15 +232,15 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=111)** So your organization can support internal and external customers.
 >
-> **[1:56](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=116)** This course doesn't require a specific methodology, like Agile for example, what I love about Atlassian tools is that you can use them, whether you use frameworks and methodologies, or use none.
+> **[1:56](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=116)** This course doesn't require a specific methodology, like [[Agile Development|Agile]] for example, what I love about Atlassian tools is that you can use them, whether you use frameworks and methodologies, or use none.
 >
 > **[2:06](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=126)** The tools help all types of teams with all types of needs and processes.
 >
-> **[2:11](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=131)** If you're looking for more specific information on a methodology or a specific type of software, there are lots of great options waiting for you in the LinkedIn Learning catalog.
+> **[2:11](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/what-do-you-need-for-this-course?u=76281980&t=131)** If you're looking for more specific information on a methodology or a specific type of software, there are lots of great options waiting for you in the [[LinkedIn]] Learning catalog.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), application (4), [[Atlassian]] (3), [[Confluence]] (2), data (2)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Atlassian]] (3), [[Confluence]] (2), [[User Experience (UX)|User experience]] (1), [[Bitbucket]] (1)
 > **Tools:** jira (6), confluence (2), bitbucket (1)
 > **Env Vars:** jira (6), jsm (1)
 > **CLI Commands:** make (2), find (1)
@@ -251,8 +248,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [rachel] (1)
 
-#### Adapting the software development process
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980)
+#### [Adapting the software development process](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,11 +256,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=7)** Let's start with the definition.
 >
-> **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=9)** The software development lifecycle, or SDLC for short, describes the process used to design, create and release software.
+> **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=9)** The [[Software Development]] lifecycle, or SDLC for short, describes the process used to design, create and release software.
 >
 > **[0:16](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=16)** The lifecycle contains steps like planning, analysis, design, and more.
 >
-> **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=22)** Here's an example of a common process I encountered in the web development industry.
+> **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=22)** Here's an example of a common process I encountered in the [[Web Development]] industry.
 >
 > **[0:26](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=26)** In general, we planned what to work on, developed new code, tested the code, released the code, and then supported what was released.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=61)** Which method is best?
 >
-> **[1:02](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=62)** It all depends on the needs of your organization, products and teams.
+> **[1:02](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=62)** It all depends on the needs of your organization, [[Microsoft Products|products]] and teams.
 >
 > **[1:06](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=66)** Your process may be very different than these examples, and that's okay.
 >
@@ -288,27 +284,26 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=78)** Or your process diagram might look more like a circle than a straight line.
 >
-> **[1:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=83)** Regardless of the process you use, I recommend you document it and make sure all stakeholders agree, it's much easier to work together when teams use the same process, and terminology within and outside of Atlassian tools.
+> **[1:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=83)** Regardless of the process you use, I recommend you document it and make sure all stakeholders agree, it's much easier to work together when teams use the same process, and terminology within and outside of [[Atlassian]] tools.
 >
-> **[1:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=96)** You can download and customize my sample diagrams to fit the needs of your organization, download this handout from the exercise files area in LinkedIn Learning.
+> **[1:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/adapting-the-software-development-process?u=76281980&t=96)** You can download and customize my sample diagrams to fit the needs of your organization, download this handout from the exercise files area in [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Software Development]] (1), [[Web Development]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Web Development]] (1), [[Microsoft Products|Products]] (1), [[Atlassian]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sdlc (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using software development tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980)
+#### [Using software development tools](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=0)** - [Instructor] In this section, we'll discuss the many tools used to plan, create, and deploy software, including Atlassian tools and some alternatives.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=0)** - [Instructor] In this section, we'll discuss the many tools used to plan, create, and deploy software, including [[Atlassian]] tools and some alternatives.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=10)** To track a task from concession to completion, use an issue tracker or project management software, like Jira.
+> **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=10)** To track a task from concession to completion, use an issue tracker or project management software, like [[Jira]].
 >
 > **[0:16](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=16)** Jira is a tool for planning and tracking.
 >
@@ -316,31 +311,31 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=25)** Many organizations get their start with Jira, and eventually add other Atlassian software along the way.
 >
-> **[0:31](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=31)** To document a task, use a collaboration platform and document repository, like Confluence.
+> **[0:31](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=31)** To document a task, use a collaboration platform and document repository, like [[Confluence]].
 >
 > **[0:37](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=37)** Confluence helps organize work, manage documents, and discuss everything in one place.
 >
-> **[0:42](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=42)** In 2017, Atlassian acquired Trello.
+> **[0:42](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=42)** In 2017, Atlassian acquired [[Trello]].
 >
 > **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=45)** With Trello, you can organize projects in a fun, flexible, and visual way.
 >
 > **[0:49](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=49)** Atlassian lists Trello as a collaboration tool, but I find it more like Jira than Confluence.
 >
-> **[0:54](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=54)** Information is displayed in a board view, like in Jira, but it doesn't have Jira's issue management or reporting power.
+> **[0:54](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=54)** Information is displayed in a board view, like in Jira, but it doesn't have Jira's [[Issue Management]] or reporting power.
 >
 > **[1:01](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=61)** In this course, we'll use Confluence for all documentation and collaboration needs.
 >
 > **[1:06](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=66)** There are many code management tools to choose from.
 >
-> **[1:08](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=68)** Bamboo is for continuous integration, deployment, and release management.
+> **[1:08](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=68)** Bamboo is for [[Continuous Integration (CI)|continuous integration]], deployment, and release management.
 >
-> **[1:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=72)** Bamboo Cloud was decommissioned in 2017, and of course, Atlassian stopped selling new licenses of all their server products in February of 2021.
+> **[1:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=72)** Bamboo Cloud was decommissioned in 2017, and of course, Atlassian stopped selling new licenses of all their server [[Microsoft Products|products]] in February of 2021.
 >
 > **[1:21](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=81)** But there's still a version of Bamboo for the data center deployment type.
 >
-> **[1:25](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=85)** Bitbucket is used to manage, test, and deploy code.
+> **[1:25](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=85)** [[Bitbucket]] is used to manage, test, and deploy code.
 >
-> **[1:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=88)** If you have a peer code review process, you might use Crucible to find bugs and improve code quality.
+> **[1:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=88)** If you have a peer [[Code Review]] process, you might use Crucible to find bugs and improve code quality.
 >
 > **[1:34](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=94)** FishEye helps search, monitor, and track code across repositories.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=101)** Atlassian still provides security and bug fixes, but is not developing new features.
 >
-> **[1:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=105)** Sourcetree is a free Git client for Windows and Mac.
+> **[1:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=105)** Sourcetree is a free [[Git]] client for [[Windows]] and Mac.
 >
 > **[1:49](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=109)** You can visualize and manage repositories through a simple graphical interface.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=156)** This makes it easy for users to find related information.
 >
-> **[2:39](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=159)** The Confluence page shows real-time Jira information like the linked issue status.
+> **[2:39](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=159)** The Confluence page shows [[Real-Time]] Jira information like the linked issue status.
 >
 > **[2:44](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=164)** Atlassian tools also integrate with third party tools.
 >
@@ -382,11 +377,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=184)** You can download and customize my sample worksheet to show application connections at your organization.
 >
-> **[3:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=189)** Download the handout from the exercise files area and LinkedIn Learning.
+> **[3:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-software-development-tools?u=76281980&t=189)** Download the handout from the exercise files area and [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (10), [[Confluence]] (8), teams (4), management (3)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (10), [[Confluence]] (8), [[Trello]] (3), [[Bitbucket]] (2)
 > **Tools:** jira (11), confluence (8), bitbucket (2)
 > **CLI Commands:** find (3), git (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -394,14 +389,13 @@ created: 2026-05-02
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980)
+#### [Course use case](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=0)** - [Instructor] Before I started my Jira consulting company, I had a web development company.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=0)** - [Instructor] Before I started my [[Jira]] consulting company, I had a [[Web Development]] company.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=5)** We helped customers market their business online with custom websites, blogs, and e-commerce.
+> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=5)** We helped customers market their business online with custom websites, blogs, and [[E-Commerce]].
 >
 > **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=10)** In the very beginning, there wasn't a robust development process.
 >
@@ -427,11 +421,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=75)** Feel free to adapt it to the needs of your organization.
 >
-> **[1:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=79)** We'll use this sample process and Atlassion's Confluence, Jira, and Bitbucket applications to help us through it.
+> **[1:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/course-use-case?u=76281980&t=79)** We'll use this sample process and Atlassion's [[Confluence]], Jira, and [[Bitbucket]] applications to help us through it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), [[Web Development]] (2), business (2), web (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Web Development]] (2), [[E-Commerce]] (1), [[Confluence]] (1), [[Bitbucket]] (1)
 > **Tools:** jira (2), confluence (1), bitbucket (1)
 > **Speakers:** - [instructor] (1)
 
@@ -440,16 +434,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crafting requirements in Confluence
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980)
+#### [Crafting requirements in Confluence](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=0)** - [Instructor] We're currently in the planning stage of the software development process.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=0)** - [Instructor] We're currently in the planning stage of the [[Software Development]] process.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=5)** In this section, we use Confluence to collect and communicate project requirements so the team does what the business desires.
+> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=5)** In this section, we use [[Confluence]] to collect and communicate project requirements so the team does what the business desires.
 >
-> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=12)** Confluence is for knowledge management, team collaboration and document storage.
+> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=12)** Confluence is for knowledge management, [[Team Collaboration]] and document storage.
 >
 > **[0:16](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=16)** It serves as an information portal, a knowledge base or an internet.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=155)** Here's some tips.
 >
-> **[2:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=156)** If you select the software project space template, you can immediately connect the space to an existing JIRA project.
+> **[2:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=156)** If you select the software project space template, you can immediately connect the space to an existing [[Jira]] project.
 >
 > **[2:42](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980&t=162)** If you don't have a JIRA project yet, just choose a different template and connect the space later.
 >
@@ -557,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Confluence]] (15), [[Jira]] (5), application (4), product (3), next (2)
+> **Frameworks & Libraries:** [[Confluence]] (15), [[Jira]] (5), [[Software Development]] (1), [[Team Collaboration]] (1)
 > **Tools:** confluence (15), jira (5)
 > **Env Vars:** jira (5), rebrand (1)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
@@ -566,12 +559,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 
-#### Connecting Confluence spaces to Jira projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980)
+#### [Connecting Confluence spaces to Jira projects](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=0)** - Confluence and Jira are truly better when used together.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=0)** - [[Confluence]] and [[Jira]] are truly better when used together.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=5)** In this section, we'll discover the integration benefits and connect a Confluence global space to a Jira project.
 >
@@ -639,7 +631,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=167)** There are three ways to create Jira issues from Confluence.
 >
-> **[2:50](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=170)** First, highlight any word or phrase and click the create issue option.
+> **[2:50](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=170)** First, highlight any [[Microsoft Word|word]] or phrase and click the create issue option.
 >
 > **[2:55](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-confluence-spaces-to-jira-projects?u=76281980&t=175)** The highlighted text is automatically added to the summary field.
 >
@@ -683,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (31), [[Confluence]] (21), application (8), cloud (4), next (3)
+> **Frameworks & Libraries:** [[Jira]] (31), [[Confluence]] (21), [[Microsoft Word|Word]] (2)
 > **Tools:** jira (31), confluence (21)
 > **UI Navigation:** select the (3), scroll down (2), go to (1), in the sidebar (1)
 > **CLI Commands:** find (1)
@@ -692,20 +684,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Planning and forecasting in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980)
+#### [Planning and forecasting in Jira](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=0)** - [Instructor] There are many ways to plan, prioritize and schedule work.
 >
-> **[0:06](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=6)** Atlassian has three tools in their suite for this purpose.
+> **[0:06](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=6)** [[Atlassian]] has three tools in their suite for this purpose.
 >
 > **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=9)** The tools all have different features and abilities however.
 >
 > **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=12)** Let's take a quick look at the Atlassian tool differences so you can choose the best one for the job.
 >
-> **[0:18](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=18)** Jira's biggest benefit over other Atlassian tools is structured data.
+> **[0:18](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=18)** [[Jira]]'s biggest benefit over other Atlassian tools is structured data.
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=22)** All issued data is stored in a very specific format, which makes it easy to use and analyze.
 >
@@ -717,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=39)** For example, the screenshot shows a Jira roadmap.
 >
-> **[0:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=41)** You can view this exact same data in list format, in card format on a board, as statistics on a dashboard, or using built-in reports.
+> **[0:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=41)** You can view this exact same data in list format, in card format on a board, as [[Statistics]] on a dashboard, or using built-in reports.
 >
 > **[0:50](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=50)** When the issue data changes, all the views are updated too.
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=58)** And of course, Jira has a ton of other useful native features like workflows for example.
 >
-> **[1:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=64)** In Confluence, the data is stored in a less structured way.
+> **[1:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=64)** In [[Confluence]], the data is stored in a less structured way.
 >
 > **[1:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=67)** This makes it more flexible.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=81)** Confluence also has lots of great macros and collaboration features.
 >
-> **[1:25](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=85)** You can see page changes in real-time as team members make them.
+> **[1:25](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=85)** You can see page changes in [[Real-Time]] as team members make them.
 >
 > **[1:29](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=89)** Confluence has robust search capabilities too, but instead of querying specific fields in Jira, you're mostly querying for keywords in the page body using CQL.
 >
@@ -751,7 +742,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=115)** If project dates change, I'll need to manually update this Confluence macro.
 >
-> **[1:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=119)** Finally, there's Trello, a lightweight and highly visual planning tool.
+> **[1:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=119)** Finally, there's [[Trello]], a lightweight and highly visual planning tool.
 >
 > **[2:03](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=123)** There's a simple user interface and the learning curve is low in this application.
 >
@@ -783,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=185)** An epic is work that encompasses many similar issues.
 >
-> **[3:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=189)** The term is borrowed from Agile methodology, but it's useful for any type of team.
+> **[3:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=189)** The term is borrowed from [[Agile Development|Agile]] methodology, but it's useful for any type of team.
 >
 > **[3:13](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=193)** It provides an easy way to group related work.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=292)** If you're a Jira administrator, create this project in your test application by clicking the Create button at the top of the page.
 >
-> **[4:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=299)** There are several software development project templates to choose from.
+> **[4:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=299)** There are several [[Software Development]] project templates to choose from.
 >
 > **[5:03](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=303)** I like the bug tracking template simply because its workflow includes a testing step.
 >
@@ -883,7 +874,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=424)** This version of the importer has the most features.
 >
-> **[7:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=427)** If you're not a Jira administrator, use the import issues from CSV feature on the issue search page, you can download and customize these sample issues to try out the use case in this course, download the CSV file from the exercise files area in LinkedIn learning.
+> **[7:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=427)** If you're not a Jira administrator, use the import issues from CSV feature on the issue search page, you can download and customize these sample issues to try out the use case in this course, download the CSV file from the exercise files area in [[LinkedIn]] learning.
 >
 > **[7:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-forecasting-in-jira?u=76281980&t=443)** See section 8 of my Jira advanced administration course for help using the CSV importer and file formatting tips.
 >
@@ -939,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (44), data (12), [[Confluence]] (11), feature (8), [[Atlassian]] (5)
+> **Frameworks & Libraries:** [[Jira]] (44), [[Confluence]] (11), [[Atlassian]] (5), [[Real-Time]] (4), [[Trello]] (4)
 > **Tools:** jira (44), confluence (11)
 > **Env Vars:** csv (4), jql (1), cql (1)
 > **UI Navigation:** go to (2), click on (2), in the menu (1), toggle (1)
@@ -953,14 +944,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tracking development work in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980)
+#### [Tracking development work in Jira](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=0)** - [Instructor] Now we're in the developing stage of the software development process.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=0)** - [Instructor] Now we're in the developing stage of the [[Software Development]] process.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=5)** In this section, we'll use Jira to track work and Bitbucket to track changes.
+> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=5)** In this section, we'll use [[Jira]] to track work and [[Bitbucket]] to track changes.
 >
 > **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=10)** As I previously mentioned, there are three types of Jira.
 >
@@ -980,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=41)** Here's a more complex, but still common model.
 >
-> **[0:43](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=43)** The development and QA teams might have their own Software projects.
+> **[0:43](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=43)** The development and QA teams might have their own [[Software Projects]].
 >
 > **[0:47](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=47)** The marketing and project management organization might track their items in Work Management projects and the customer service department might fulfill support requests in a Service Management project.
 >
@@ -994,7 +984,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=80)** Regardless of how Jira is configured at your organization, Jira Software plays an integral part in the software development process.
 >
-> **[1:27](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=87)** Jira enables you to schedule initiatives and tasks, manage your team's work or products pipeline, report and fix bugs, triage and address issues, report time and monitor progress, track changes, tasks, and other to do items, and create an authoritative, historical, and legal record of what was done.
+> **[1:27](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=87)** Jira enables you to schedule initiatives and tasks, manage your team's work or [[Microsoft Products|products]] pipeline, report and fix bugs, triage and address issues, report time and monitor progress, track changes, tasks, and other to do items, and create an authoritative, historical, and legal record of what was done.
 >
 > **[1:47](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980&t=107)** Jira plays a role in every step of the software development process.
 >
@@ -1010,27 +1000,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (18), management (5), teams (5), [[Software Development]] (4), feature (2)
+> **Frameworks & Libraries:** [[Jira]] (18), [[Software Development]] (4), [[Bitbucket]] (1), [[Software Projects]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (18), bitbucket (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Jira Software features
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980)
+#### [Using Jira Software features](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=0)** - [Instructor] In this section, we'll discuss the ways Jira software extends standard to your capabilities.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=0)** - [Instructor] In this section, we'll discuss the ways [[Jira]] software extends standard to your capabilities.
 >
-> **[0:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=7)** As mentioned in a previous section, Jira comes with project management templates, specifically for software development.
+> **[0:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=7)** As mentioned in a previous section, Jira comes with project management templates, specifically for [[Software Development]].
 >
 > **[0:13](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=13)** The Kanban template helps teams visualize work and limit work in progress.
 >
 > **[0:16](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=16)** Work is tracked on a simple board and there's a simple three-step workflow.
 >
-> **[0:20](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=20)** The Scrum template is more complex.
+> **[0:20](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=20)** The [[Scrum]] template is more complex.
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=22)** It helps teams work together using work cycles called sprints.
 >
@@ -1064,7 +1053,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=100)** If you don't see it in your application's list of workflows, check the inactive section.
 >
-> **[1:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=105)** As we discussed, Jira software projects created with the Scrum template include backlogs.
+> **[1:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=105)** As we discussed, Jira [[Software Projects]] created with the Scrum template include backlogs.
 >
 > **[1:50](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=110)** A backlog is a list of unprioritized and unscheduled issues.
 >
@@ -1092,7 +1081,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=152)** You may also see them referred to as versions.
 >
-> **[2:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=155)** Tim Preston-Warner, inventor of Gravatar, and co-founder of GitHub, created the semantic versioning specification.
+> **[2:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=155)** Tim Preston-Warner, inventor of Gravatar, and co-founder of [[GitHub]], created the semantic versioning specification.
 >
 > **[2:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=161)** This is a recommendation for naming versions in the format major.minor.patch.
 >
@@ -1112,15 +1101,15 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=192)** The available reports differ by project type.
 >
-> **[3:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=195)** Software projects have some special agile and DevOps-specific reports.
+> **[3:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=195)** Software projects have some special [[Agile Development|agile]] and [[DevOps]]-specific reports.
 >
 > **[3:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=199)** Each report has its own settings and capabilities.
 >
-> **[3:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=202)** Finally, Jira software integrates with other dev tools, like Bamboo and Bitbucket so you can see additional information without switching applications.
+> **[3:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-jira-software-features?u=76281980&t=202)** Finally, Jira software integrates with other dev tools, like Bamboo and [[Bitbucket]] so you can see additional information without switching applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), teams (2), [[Scrum]] (2), feature (2), [[Software Projects]] (2)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Scrum]] (2), [[Software Projects]] (2), [[Software Development]] (1), [[GitHub]] (1)
 > **Tools:** jira (11), github (1), bitbucket (1)
 > **Exercise Files:** template (7)
 > **Definitions:** is a  (3)
@@ -1129,8 +1118,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980)
+#### [Configuring boards](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,9 +1128,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=9)** Let's discuss the different types of boards and create one like this example.
 >
-> **[0:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=15)** Jira has two types of boards, Scrum and Kanban.
+> **[0:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=15)** [[Jira]] has two types of boards, [[Scrum]] and Kanban.
 >
-> **[0:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=19)** These terms are from the [[Agile Software Development]] methodology.
+> **[0:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=19)** These terms are from the [[[[Agile Software Development]]]] methodology.
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/configuring-boards?u=76281980&t=22)** Scrum boards are for teams that deliver their work in regular fixed intervals called sprints.
 >
@@ -1252,7 +1240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Scrum]] (3), [[Jira]] (2), teams (2), cloud (2)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Jira]] (2), [[Agile Software Development]] (1)
 > **UI Navigation:** select the (2), in the sidebar (1), scroll down (1), click on (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (2)
@@ -1261,18 +1249,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Connecting Jira to Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980)
+#### [Connecting Jira to Bitbucket](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=0)** - [Instructore] Bitbucket is Atlassian Git-based source code repository application.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=0)** - [Instructore] [[Bitbucket]] is [[Atlassian]] [[Git]]-based source code repository application.
 >
 > **[0:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=7)** It provides a central place to manage files and collaborate on files.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=10)** It's like GitHub but for Atlassian Software.
+> **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=10)** It's like [[GitHub]] but for Atlassian Software.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=13)** Just like Confluence integrates with Jira, so does Bitbucket.
+> **[0:13](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=13)** Just like [[Confluence]] integrates with [[Jira]], so does Bitbucket.
 >
 > **[0:16](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=16)** In this section, we'll discuss the integration benefits, and connect a Bitbucket repository to a Jira project.
 >
@@ -1284,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=42)** It's also a great way to manage changes made by multiple developers and teams.
 >
-> **[0:46](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=46)** Some common version control options are Git, Mercurial, CVS and SVN.
+> **[0:46](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=46)** Some common [[Version Control]] options are Git, Mercurial, CVS and SVN.
 >
 > **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=52)** Bitbucket works with Git and Mercurial.
 >
@@ -1330,7 +1317,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=143)** In a previous section, we connected confluence to Jira using the application links feature.
 >
-> **[2:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=148)** For Bitbucket use the DVCS accounts integrations page instead, you'll find it in the products admin menu in cloud and the applications admin menu and server and data center, you'll need application admin permissions to connect applications but it only needs to be done once.
+> **[2:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=148)** For Bitbucket use the DVCS accounts integrations page instead, you'll find it in the [[Microsoft Products|products]] admin menu in cloud and the applications admin menu and server and data center, you'll need application admin permissions to connect applications but it only needs to be done once.
 >
 > **[2:43](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/connecting-jira-to-bitbucket?u=76281980&t=163)** If you already have a Bitbucket account, click the button at the bottom of the page to establish the connection.
 >
@@ -1370,7 +1357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (17), [[Jira]] (14), application (6), [[Atlassian]] (4), [[Git]] (3)
+> **Frameworks & Libraries:** [[Bitbucket]] (17), [[Jira]] (14), [[Atlassian]] (4), [[Git]] (3), [[Confluence]] (2)
 > **Tools:** bitbucket (17), jira (14), confluence (2), github (1)
 > **Env Vars:** dvcs (2), vcs (1), scm (1), rcs (1), cvs (1)
 > **CLI Commands:** git (3), find (1)
@@ -1379,12 +1366,11 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1), select the (1)
 > **Prerequisites:** you'll need (2)
 
-#### Using common Bitbucket features
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980)
+#### [Using common Bitbucket features](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=0)** - [Instructor] Now that Bitbucket is connected to Jira, we're ready to change some files.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=0)** - [Instructor] Now that [[Bitbucket]] is connected to [[Jira]], we're ready to change some files.
 >
 > **[0:06](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=6)** There are just a few additional definitions to cover.
 >
@@ -1406,11 +1392,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=39)** Commits represent a snapshot in a timeline or a history of revisions.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=45)** You can perform all these actions using a Git client or from a command line.
+> **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=45)** You can perform all these actions using a [[Git]] client or from a command line.
 >
-> **[0:50](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=50)** Download Atlassian's Windows or Mac application called Sourcetree at the URL shown.
+> **[0:50](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=50)** Download [[Atlassian]]'s [[Windows]] or Mac application called Sourcetree at the URL shown.
 >
-> **[0:55](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=55)** You can also use VS Code by Microsoft.
+> **[0:55](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=55)** You can also use VS Code by [[Microsoft]].
 >
 > **[0:57](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=57)** I'll use Sourcetree for our use case.
 >
@@ -1496,7 +1482,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=239)** Estimation and time logging isn't about how good you are or how fast you can complete a task.
 >
-> **[4:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=244)** It's about capacity planning and resource allocation.
+> **[4:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=244)** It's about [[Capacity Planning]] and resource allocation.
 >
 > **[4:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/using-common-bitbucket-features?u=76281980&t=247)** Even if your organization doesn't require this information, it's a good habit to get into.
 >
@@ -1506,7 +1492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), [[Bitbucket]] (5), next (4), [[Git]] (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Bitbucket]] (5), [[Git]] (1), [[Atlassian]] (1), [[Windows]] (1)
 > **Tools:** jira (9), bitbucket (5), command line (3), vs code (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** make (2), git (1)
@@ -1519,14 +1505,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing test cases in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980)
+#### [Managing test cases in Jira](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=0)** - [Tutor] Now we're in the testing stage of the software development process.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=0)** - [Tutor] Now we're in the testing stage of the [[Software Development]] process.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=5)** In this section, we'll use Jira to test work before it's released into production.
+> **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=5)** In this section, we'll use [[Jira]] to test work before it's released into production.
 >
 > **[0:10](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=10)** Jira doesn't come with specific features for test case management, but there are many things you can do.
 >
@@ -1552,17 +1537,16 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=73)** That parent-child structure provides a fast way to create many new issues.
 >
-> **[1:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=79)** Finally, you can add test case management features to Jira, with an app from the Atlassian Marketplace, or an integration with other testing software.
+> **[1:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980&t=79)** Finally, you can add test case management features to Jira, with an app from the [[Atlassian]] Marketplace, or an integration with other testing software.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), management (2), [[Software Development]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Software Development]] (1), [[Atlassian]] (1)
 > **Tools:** jira (6)
 > **Env Vars:** csv (2)
 > **Speakers:** - [tutor] (1)
 
-#### Executing manual and automated tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980)
+#### [Executing manual and automated tests](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1586,7 +1570,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=44)** These tests often adhere to an automation framework, which include guidelines for test case design.
 >
-> **[0:49](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=49)** Automated testing is often faster than manual testing.
+> **[0:49](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=49)** Automated testing is often faster than [[Manual Testing]].
 >
 > **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=52)** Here are some examples of tests that can be automated.
 >
@@ -1598,7 +1582,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=78)** Here's an example.
 >
-> **[1:20](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=80)** As a Jira administrator, I needed to verify standard application functions anytime we upgraded, installed, or remove third-party apps, did configuration cleanups, routine maintenance, or conducted quarterly audits.
+> **[1:20](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=80)** As a [[Jira]] administrator, I needed to verify standard application functions anytime we upgraded, installed, or remove third-party apps, did configuration cleanups, routine maintenance, or conducted quarterly audits.
 >
 > **[1:33](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=93)** I created 40 test cases to test Jira.
 >
@@ -1618,7 +1602,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=143)** I tried all of these automation tools.
 >
-> **[2:26](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=146)** If these tools don't do what you need, there are lots more out there and even some related apps in the Atlassian Marketplace.
+> **[2:26](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=146)** If these tools don't do what you need, there are lots more out there and even some related apps in the [[Atlassian]] Marketplace.
 >
 > **[2:32](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/executing-manual-and-automated-tests?u=76281980&t=152)** Lots of automation tools also have Jira integrations, so look out for that.
 >
@@ -1632,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Automation]] (3), application (2), [[Manual Testing]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Manual Testing]] (1), [[Atlassian]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
@@ -1640,12 +1624,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixing bugs in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/fixing-bugs-in-jira?u=76281980)
+#### [Fixing bugs in Jira](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/fixing-bugs-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/fixing-bugs-in-jira?u=76281980&t=0)** - [Narrator] The testing team completed their link test case, which is JIRA ID REBRAND-24.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/fixing-bugs-in-jira?u=76281980&t=0)** - [Narrator] The testing team completed their link test case, which is [[Jira]] ID REBRAND-24.
 >
 > **[0:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/fixing-bugs-in-jira?u=76281980&t=7)** During their testing, they noticed a problem.
 >
@@ -1708,12 +1691,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Releasing versions in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980)
+#### [Releasing versions in Jira](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=0)** - [Instructor] Now we're in the release stage of the software development process.
+> **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=0)** - [Instructor] Now we're in the release stage of the [[Software Development]] process.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=5)** In this section, we'll discuss managing versions and releases.
 >
@@ -1733,7 +1715,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=41)** There are four completed issues in this version, but one has a warning.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=45)** Jira looks for potential problems like completed issues with open pull requests, unreviewed code, and failed builds.
+> **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=45)** [[Jira]] looks for potential problems like completed issues with open pull requests, unreviewed code, and failed builds.
 >
 > **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=52)** Once the problems are remedied, click the Release button on the right, then click the Form Submission button in the overlay.
 >
@@ -1751,13 +1733,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=76)** Click the Release Notes button at the top right to see an editable list of issues in the release.
 >
-> **[1:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=82)** On the next page, you can copy the release contents in HTML or text format and paste the information wherever release notes are stored.
+> **[1:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=82)** On the next page, you can copy the release contents in [[HTML]] or text format and paste the information wherever release notes are stored.
 >
-> **[1:30](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=90)** For additional features, check out some of the release notes apps in the Atlassian Marketplace.
+> **[1:30](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=90)** For additional features, check out some of the release notes apps in the [[Atlassian]] Marketplace.
 >
 > **[1:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=95)** Our use case leverages Kanban.
 >
-> **[1:37](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=97)** But if you use Scrum and estimate with story points, there's a release burndown view in the report section that might interest you.
+> **[1:37](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=97)** But if you use [[Scrum]] and estimate with story points, there's a release burndown view in the report section that might interest you.
 >
 > **[1:44](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=104)** A burndown chart is a visual representation of work remaining.
 >
@@ -1801,11 +1783,11 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=189)** Here are a few examples and functions.
 >
-> **[3:11](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=191)** You can use these queries to create filters, switch power boards, and dashboards.
+> **[3:11](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980&t=191)** You can use these queries to create filters, switch power boards, and [[Dashboards]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), next (4), [[Software Development]] (1), feature (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Software Development]] (1), [[HTML]] (1), [[Atlassian]] (1), [[Scrum]] (1)
 > **Tools:** jira (4)
 > **Code Identifiers:** fixversion (2)
 > **Env Vars:** html (1), jql (1)
@@ -1814,8 +1796,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 
-#### Releasing code in Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980)
+#### [Releasing code in Bitbucket](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1806,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=9)** Here's a little bit of info to get you started.
 >
-> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=12)** As we discussed in a previous section, Bitbucket is Atlassian's Git-based source code repository application.
+> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=12)** As we discussed in a previous section, [[Bitbucket]] is [[Atlassian]]'s [[Git]]-based source code repository application.
 >
 > **[0:18](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=18)** It's a central place to manage files and collaborate on files.
 >
@@ -1833,11 +1814,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=28)** Pipelines was introduced in 2016, and replaced Bamboo Cloud, which was decommissioned in 2017.
 >
-> **[0:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=36)** The Pipelines feature is a built-in continuous integration and delivery service.
+> **[0:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=36)** The Pipelines feature is a built-in [[Continuous Integration (CI)|continuous integration]] and delivery service.
 >
 > **[0:40](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=40)** CI/CD helps automate the steps between file check-in and release.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=45)** You can deploy faster without breaking things, and you can move from infrequent large code deployments to frequent small agile deployments.
+> **[0:45](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=45)** You can deploy faster without breaking things, and you can move from infrequent large code deployments to frequent small [[Agile Development|agile]] deployments.
 >
 > **[0:53](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=53)** Here are some benefits of the Pipelines feature.
 >
@@ -1845,7 +1826,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=57)** You don't need additional software.
 >
-> **[0:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=59)** Also, there's no CI server to set up, user management to configure, or repositories to synchronize.
+> **[0:59](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=59)** Also, there's no CI server to set up, [[User Management]] to configure, or repositories to synchronize.
 >
 > **[1:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=65)** You can kick off builds automatically and see built status in branches, commits, and pull requests.
 >
@@ -1853,7 +1834,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=75)** Also, you can automatically deploy the staging branch to the staging environment, and the production branch to the production environment.
 >
-> **[1:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=83)** In Jira, you can see and query for build information.
+> **[1:23](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=83)** In [[Jira]], you can see and query for build information.
 >
 > **[1:26](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=86)** For example, search for issues in a failed build, or issues deployed to the staging environment.
 >
@@ -1873,7 +1854,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=122)** Then click the Get Started button to go to the Bitbucket application.
 >
-> **[2:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=125)** You can also connect to other CI/CD providers, like Jenkins, Gitlab, Github, and others.
+> **[2:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=125)** You can also connect to other CI/CD providers, like [[Jenkins]], Gitlab, [[GitHub]], and others.
 >
 > **[2:11](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-code-in-bitbucket?u=76281980&t=131)** In Bitbucket, navigate to a repository and click the Pipelines option in the left sidebar.
 >
@@ -1919,7 +1900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (12), [[Jira]] (7), feature (4), ci (3), application (2)
+> **Frameworks & Libraries:** [[Bitbucket]] (12), [[Jira]] (7), [[Atlassian]] (1), [[Git]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** bitbucket (12), jira (7), gitlab (1), github (1)
 > **CLI Commands:** cd (2), git (1), ssh (1)
 > **Env Vars:** yml (2), ssh (1), yaml (1)
@@ -1928,8 +1909,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **Exercise Files:** source code (1), template (1)
 
-#### Conducting retrospectives in Confluence
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980)
+#### [Conducting retrospectives in Confluence](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1939,7 +1919,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=14)** This is called a retrospective, a post-mortem or an after action review.
 >
-> **[0:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=19)** In this section, we'll create one in Confluence.
+> **[0:19](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=19)** In this section, we'll create one in [[Confluence]].
 >
 > **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=22)** Earlier in the course, we created a Confluence space using the software project space template.
 >
@@ -1975,19 +1955,19 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=99)** Also make sure action items are recorded and completed, without real change, these discussions are a waste of time.
 >
-> **[1:46](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=106)** Finally, make retros a standard part of your organization's software development process.
+> **[1:46](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=106)** Finally, make retros a standard part of your organization's [[Software Development]] process.
 >
 > **[1:51](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=111)** Team members should always be thinking with a continuous improvement mindset.
 >
-> **[1:57](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=117)** If you're new to the retro process, check out Atlassian's Team Playbook, it contains helpful instructions and examples.
+> **[1:57](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=117)** If you're new to the retro process, check out [[Atlassian]]'s Team Playbook, it contains helpful instructions and examples.
 >
-> **[2:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=124)** You can also conduct retros in Trello and Jira.
+> **[2:04](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=124)** You can also conduct retros in [[Trello]] and [[Jira]].
 >
 > **[2:07](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/conducting-retrospectives-in-confluence?u=76281980&t=127)** Also check out the Atlassian Marketplace for some great Jira apps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Confluence]] (3), next (2), [[Atlassian]] (2), [[Jira]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Confluence]] (3), [[Atlassian]] (2), [[Jira]] (2), [[Software Development]] (1), [[Trello]] (1)
 > **Tools:** confluence (3), jira (2)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (3)
@@ -2001,26 +1981,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources for Jira learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980)
+#### [Additional resources for Jira learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=0)** - [Rachel] Congrats on completing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=2)** By now, you've explored the entire software development life cycle.
+> **[0:02](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=2)** By now, you've explored the entire [[Software Development]] life cycle.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=5)** This knowledge will help you and your team properly plan and release software for years to come.
 >
-> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=12)** You should now be able to use Atlassian tools to plan, develop, test, release, and maintain software.
+> **[0:12](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=12)** You should now be able to use [[Atlassian]] tools to plan, develop, test, release, and maintain software.
 >
 > **[0:18](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=18)** Adapt the software development life cycle to your organization's process.
 >
-> **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=22)** Use Confluence to craft requirements, document meeting notes and decisions, and conduct retrospectives.
+> **[0:22](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=22)** Use [[Confluence]] to craft requirements, document meeting notes and decisions, and conduct retrospectives.
 >
-> **[0:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=28)** Use JIRA to plan, track work, fix bugs, and manage release versions.
+> **[0:28](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=28)** Use [[Jira]] to plan, track work, fix bugs, and manage release versions.
 >
-> **[0:32](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=32)** And use Bitbucket to manage code and file changes.
+> **[0:32](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=32)** And use [[Bitbucket]] to manage code and file changes.
 >
 > **[0:36](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=36)** Here's some additional resources to help you continue on your JIRA journey.
 >
@@ -2030,7 +2009,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=48)** Make sure you're reading the right information for the deployment type you have.
 >
-> **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=52)** If you're new to Bitbucket or Git, Atlassian has an easy to follow tutorial.
+> **[0:52](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=52)** If you're new to Bitbucket or [[Git]], Atlassian has an easy to follow tutorial.
 >
 > **[0:56](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=56)** Check it out at the URL shown.
 >
@@ -2048,7 +2027,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=92)** You can ask a question, or start a discussion.
 >
-> **[1:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=95)** There are also plenty of JIRA themed groups on LinkedIn and Facebook.
+> **[1:35](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=95)** There are also plenty of JIRA themed groups on [[LinkedIn]] and Facebook.
 >
 > **[1:40](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980&t=100)** Next, studying for Atlassian certification is a great way to learn more about the applications.
 >

@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stochastic processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980)
+#### [Stochastic processes](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=13)** So we have all the usual type of statistical analyses.
 >
-> **[0:19](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=19)** So you can do location statistics, dispersion statistics, you know, look for variance, shape, the overall structure of the distribution.
+> **[0:19](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=19)** So you can do location [[Statistics]], dispersion statistics, you know, look for variance, shape, the overall structure of the distribution.
 >
 > **[0:29](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=29)** We've also got spatial point statistics.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=104)** Here we go.
 >
-> **[1:46](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=106)** Probability and statistics.
+> **[1:46](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=106)** [[Probability]] and statistics.
 >
 > **[1:49](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=109)** Okay.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=148)** So you'll want to do model fitting for that.
 >
-> **[2:31](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=151)** And that means that you're going to be looking at some type of process, since financial data is invariably time-stamped, we'll be looking at time series processes.
+> **[2:31](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=151)** And that means that you're going to be looking at some type of process, since [[Financial Data]] is invariably time-stamped, we'll be looking at time series processes.
 >
 > **[2:41](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980&t=161)** As you can see from previously, there's a lot of stochastic processes here.
 >
@@ -138,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (4), [[Probability]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Probability]] (1), [[Financial Data]] (1)
 > **Env Vars:** arch (2), garch (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for instance (1), such as (1)
@@ -149,12 +148,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial data function
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980)
+#### [Financial data function](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=1)** And this allows us to access quite a wide range of financial data.
+> **[0:01](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=1)** And this allows us to access quite a wide range of [[Financial Data]].
 >
 > **[0:07](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=7)** Now, what I'm going to be using here is I just want to get the values themselves.
 >
@@ -188,11 +186,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=102)** So what we're going to get now is this time-series object.
 >
-> **[1:46](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=106)** So this is really a form of object-oriented programming.
+> **[1:46](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=106)** So this is really a form of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[1:50](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=110)** It's a way of storing your time series data.
 >
-> **[1:54](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=114)** And also, like most object-oriented forms of programming, I can ask for properties about it.
+> **[1:54](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=114)** And also, like most object-oriented [[Forms]] of programming, I can ask for properties about it.
 >
 > **[2:02](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980&t=122)** So I could take this thing here.
 >
@@ -226,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[Financial Data]] (1), business (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 
@@ -235,8 +233,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time series model fit
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980)
+#### [Time series model fit](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=106)** So in this particular case, I've, you know, already downloaded the data here for you.
 >
-> **[1:52](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=112)** And it's data for throughout 2015 for five companies: Google, Microsoft, Facebook, Apple, and Intel.
+> **[1:52](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=112)** And it's data for throughout 2015 for five companies: [[Google]], [[Microsoft]], Facebook, Apple, and Intel.
 >
 > **[2:03](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980&t=123)** Okay. So what does that look like?
 >
@@ -456,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Google]] (4), [[Microsoft]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft]] (2)
 > **Definitions:** is a  (9)
 > **CLI Commands:** make (2)
 > **Env Vars:** arma (1), arima (1)
@@ -467,8 +464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/differences?u=76281980)
+#### [Differences](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/differences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,7 +590,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2)
 > **Env Vars:** arch (4), garch (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -607,8 +602,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MapThread
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980)
+#### [MapThread](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,13 +646,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=107)** We had options which assumed normality.
 >
-> **[1:52](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=112)** So because that happened, they thought that the probability of these events occurring was out at 5 sigma or something like that.
+> **[1:52](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=112)** So because that happened, they thought that the [[Probability]] of these events occurring was out at 5 sigma or something like that.
 >
 > **[1:59](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=119)** And in fact, it was much more common.
 >
 > **[2:03](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=123)** And so what was supposed to be one in the century event was going to happen every decade, and it'll happen again if we don't regulate these industries.
 >
-> **[2:17](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=137)** So we can see here that Intel actually seems to fit a normal distribution, but the rest don't.
+> **[2:17](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=137)** So we can see here that Intel actually seems to fit a normal distribution, but the [[Representational State Transfer (REST)|rest]] don't.
 >
 > **[2:24](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980&t=144)** And then we can check this. Putting the data in and just check using the BaringhausMenzeTest, if I pronounce that correctly, and see what the value is, and it comes back with one of these object-oriented things, which I can then make queries to.
 >
@@ -720,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aic (1)
@@ -732,8 +726,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hyperbolic distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980)
+#### [Hyperbolic distribution](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +746,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=47)** Then we can write in the actual mathematical formulas for this.
 >
-> **[0:51](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=51)** This is quite distinct from numeric programs like R and MATLAB, and the rest.
+> **[0:51](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=51)** This is quite distinct from numeric programs like R and MATLAB, and the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:56](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=56)** What they use instead is some type of Maclaurin approximation to the, around the mean.
 >
@@ -791,7 +784,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=184)** So we can then find all of the parameters.
 >
-> **[3:08](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=188)** And in fact, let's actually get... So as I said beforehand, I can get the moment generating-function, I can also get the probability density function for this distribution.
+> **[3:08](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=188)** And in fact, let's actually get... So as I said beforehand, I can get the moment generating-function, I can also get the [[Probability]] density function for this distribution.
 >
 > **[3:21](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=201)** And I can take the data and stick it into a histogram and plot the PDF of the distribution and compare the two.
 >
@@ -879,7 +872,7 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=463)** Why is this the case?
 >
-> **[7:45](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=465)** This is the case primarily, though, when these models, these are called the box Jenkins models were first derived and understood, it wasn't realized that they were reflecting an even deeper thing, which is chaos theory or a sort of you have got as a result of Ito processes, that the errors that are left over don't disappear, they come back into the stochastic process and more or less build up over time.
+> **[7:45](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=465)** This is the case primarily, though, when these models, these are called the box [[Jenkins]] models were first derived and understood, it wasn't realized that they were reflecting an even deeper thing, which is chaos theory or a sort of you have got as a result of Ito processes, that the errors that are left over don't disappear, they come back into the stochastic process and more or less build up over time.
 >
 > **[8:15](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980&t=495)** So we have to take into account the errors in the previous time and their coefficients.
 >
@@ -1127,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), product (5), [[Representational State Transfer (REST)|Rest]] (4), next (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Probability]] (1), [[Jenkins]] (1)
 > **Env Vars:** arma (7), arch (6), pdf (3), matlab (1), nrg (1)
 > **Definitions:** is a  (6), is an  (1), in other words (1)
 > **CLI Commands:** find (5), make (1)
@@ -1139,14 +1132,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ito process
-> [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980)
+#### [Ito process](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=1)** Now these are stochastic processes.
 >
-> **[0:05](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=5)** Stochastic processes or the stochastic calculus is an extension of normal calculus.
+> **[0:05](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=5)** Stochastic processes or the stochastic [[Calculus]] is an extension of normal calculus.
 >
 > **[0:11](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=11)** So for those of you who didn't do lots of maths, you most probably thought that was terrible enough.
 >
@@ -1166,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=43)** In a way, we already knew this when we studied partial differential equations.
 >
-> **[0:47](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=47)** One of the methods for solving a partial differential equation, and in the same way a stochastic differential equation is to build a frame, to build a mesh, and the whole thing expands out like, you know, a crisscrossed triangle as you move through time.
+> **[0:47](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=47)** One of the methods for solving a partial differential equation, and in the same way a stochastic differential equation is to build a frame, to build a [[Mesh]], and the whole thing expands out like, you know, a crisscrossed triangle as you move through time.
 >
 > **[1:07](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980&t=67)** So you need a component which grows with the noise, okay?
 >
@@ -1336,7 +1328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Calculus]] (2), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Calculus]] (2), [[Mesh]] (1)
 > **Definitions:** is a  (5), is an  (3), is called (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** imagine (3), for instance (1)

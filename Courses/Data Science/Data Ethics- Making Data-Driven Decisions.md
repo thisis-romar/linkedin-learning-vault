@@ -78,20 +78,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethical decisionmaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980)
+#### [Ethical decisionmaking](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=0)** - Now more than ever, computer systems are making complex decisions about you.
 >
-> **[0:05](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=5)** You might have machine learning systems that make decisions about your job applicants, or computer algorithms that make decisions about your customers.
+> **[0:05](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=5)** You might have machine learning systems that make decisions about your job applicants, or computer [[Algorithms]] that make decisions about your customers.
 >
 > **[0:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=13)** But there are a lot of ethical challenges around these decisions.
 >
 > **[0:17](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=17)** This course is designed for managers, directors, and developers that work with organizational data.
 >
-> **[0:23](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=23)** It'll give you a framework for how to make decisions about data ethics in a typical office meeting.
+> **[0:23](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=23)** It'll give you a framework for how to make decisions about [[Data Ethics]] in a typical [[Microsoft Office|office]] meeting.
 >
 > **[0:30](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980&t=30)** First, we'll talk about whether or not your decisions need to be traceable.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (2), [[Ethics]] (1), [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Ethics]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - now (1)
 
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being a moral company
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980)
+#### [Being a moral company](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=118)** Some organizations will gather as much data as they can and use it as they see fit.
 >
-> **[2:03](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=123)** They might leverage their customers' weaknesses and insecurities to sell them products.
+> **[2:03](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=123)** They might leverage their customers' weaknesses and insecurities to sell them [[Microsoft Products|products]].
 >
 > **[2:08](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=128)** They could even freely sell this information to other companies.
 >
@@ -193,19 +191,18 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=163)** You've already seen that some companies are suffering because of bad ethical decisions.
 >
-> **[2:48](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=168)** Remember that a lot of these decisions are going to be made by people just like you in typical office meetings, and your employees and your customers trust you to look out for their best interests.
+> **[2:48](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=168)** Remember that a lot of these decisions are going to be made by people just like you in typical [[Microsoft Office|office]] meetings, and your employees and your customers trust you to look out for their best interests.
 >
 > **[2:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980&t=178)** In the end, the decisions you make in these meetings will say a lot about your organization's morality, culture, and values.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), data (4), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### How to approach ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980)
+#### [How to approach ethics](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=66)** Everyone wants to feel like they're doing good work.
 >
-> **[1:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=69)** The philosophical study of morality is called ethics.
+> **[1:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=69)** The philosophical study of morality is called [[Ethics]].
 >
 > **[1:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=74)** Sometimes it's even called moral philosophy.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=142)** What are the acceptable ways to use this data?
 >
-> **[2:25](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=145)** For that, you have to think about your organization's data ethics.
+> **[2:25](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=145)** For that, you have to think about your organization's [[Data Ethics]].
 >
 > **[2:30](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-approach-ethics?u=76281980&t=150)** What are the different moral guidelines that your organization has to create to make sure you don't break these rules?
 >
@@ -283,15 +280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Ethics]] (3), power (2), business (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Data Ethics]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - anytime (1)
 
-#### Start with ethical objectivism
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980)
+#### [Start with ethical objectivism](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=55)** In this course, we're going to look at three of these theories.
 >
-> **[0:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=58)** There's the deontological approach of Immanuel Kant, the utilitarian approach, and finally, virtue ethics.
+> **[0:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=58)** There's the deontological approach of Immanuel Kant, the utilitarian approach, and finally, virtue [[Ethics]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=66)** To start, let's look at the deontological approach.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=148)** Your duties also shouldn't be so rigid that you end up doing things that seem cold or unjust.
 >
-> **[2:35](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=155)** That's why two philosophers, Jeremy Bentham and John Stuart Mill, came up with a competing theory that they called utilitarianism.
+> **[2:35](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=155)** That's why two philosophers, Jeremy Bentham and [[John the Ripper|John]] Stuart Mill, came up with a competing theory that they called utilitarianism.
 >
 > **[2:44](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=164)** Here, instead of focusing on absolute duties, you look to see if the action's harm exceeds its benefits.
 >
@@ -379,18 +375,17 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=238)** You want a moral person to do the right thing, because it's the right thing to do.
 >
-> **[4:04](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=244)** We'll consider these theories as we take a closer look at common ethical questions that arise when it comes to data ethics.
+> **[4:04](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/start-with-ethical-objectivism?u=76281980&t=244)** We'll consider these theories as we take a closer look at common ethical questions that arise when it comes to [[Data Ethics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (7), data (1)
+> **Frameworks & Libraries:** [[Ethics]] (6), [[John the Ripper|John]] (1), [[Data Ethics]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - one (1)
 
-#### Think about your categorical imperatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/think-about-your-categorical-imperatives?u=76281980)
+#### [Think about your categorical imperatives](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/think-about-your-categorical-imperatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,23 +457,22 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/think-about-your-categorical-imperatives?u=76281980&t=183)** Otherwise, I'd be taking away your autonomy to try and improve your hairstyle.
 >
-> **[3:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/think-about-your-categorical-imperatives?u=76281980&t=189)** As you'll see later, a lot of issues around data-driven decision making conflicts with this third categorical imperative.
+> **[3:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/think-about-your-categorical-imperatives?u=76281980&t=189)** As you'll see later, a lot of issues around [[Data-driven Decision Making]] conflicts with this third categorical imperative.
 >
 > **[3:17](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/think-about-your-categorical-imperatives?u=76281980&t=197)** You might have to ask yourself some hard questions, like whether your organization is always fair and transparent with its customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Data-driven Decision Making]] (1)
+> **Frameworks & Libraries:** [[Data-driven Decision Making]] (1)
 > **Definitions:** means that (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - organizations (1)
 
-#### What would a virtuous person do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980)
+#### [What would a virtuous person do?](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=0)** - Aristotle, the philosopher from the fourth century BC, wrote one of the earliest books on ethics.
+> **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=0)** - Aristotle, the philosopher from the fourth century BC, wrote one of the earliest books on [[Ethics]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=7)** He believed that true happiness could only be found when someone lived a life of virtue.
 >
@@ -520,7 +514,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=123)** Remember, this is about whether or not there'd be a problem if everyone followed your rule.
 >
-> **[2:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=129)** You can't censor all the super sharer videos based on the legal products they use.
+> **[2:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=129)** You can't censor all the super sharer videos based on the legal [[Microsoft Products|products]] they use.
 >
 > **[2:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=134)** Then you'd have to ban the videos of kids who eat potato chips or drink too much soda.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=206)** Each one of these arguments just took a different approach to the same question.
 >
-> **[3:31](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=211)** You'll want to keep this in mind when you're talking about these data ethics issues.
+> **[3:31](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=211)** You'll want to keep this in mind when you're talking about these [[Data Ethics]] issues.
 >
 > **[3:36](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-would-a-virtuous-person-do?u=76281980&t=216)** It'll be important as you try to understand each other's arguments.
 >
@@ -556,16 +550,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (7), product (1), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Ethics]] (6), [[Microsoft Products|Products]] (1), [[Data Ethics]] (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - aristotle (1)
 
-#### The seven major data ethics challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980)
+#### [The seven major data ethics challenges](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=0)** - Data ethics challenges can come in many different forms.
+> **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=0)** - [[Data Ethics]] challenges can come in many different [[Forms]].
 >
 > **[0:03](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=3)** And a lot of it depends on your industry and organization.
 >
@@ -575,11 +568,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=17)** Here's a pneumonic to help you remember some of the data ethics challenges.
 >
-> **[0:22](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=22)** You just need to remember the word Potomac.
+> **[0:22](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=22)** You just need to remember the [[Microsoft Word|word]] Potomac.
 >
 > **[0:26](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=26)** This pneumonic will give you an overview of the types of data ethic challenges that you'll likely run into in your organization.
 >
-> **[0:34](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=34)** The P in Potomac stands for privacy.
+> **[0:34](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=34)** The P in Potomac stands for [[Privacy]].
 >
 > **[0:38](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=38)** The O stands for data ownership.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=98)** First let's look at algorithmic traceability.
 >
-> **[1:42](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=102)** These days, data processing technologies can make decisions about your customers in milliseconds.
+> **[1:42](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=102)** These days, [[Data Processing]] technologies can make decisions about your customers in milliseconds.
 >
 > **[1:49](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-seven-major-data-ethics-challenges?u=76281980&t=109)** So if your customer is denied a loan based on an algorithm do you have an ethical responsibility to tell them why they were denied?
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Ethics]] (6), [[Privacy]] (3), [[Forms]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (6), [[Privacy]] (3), [[Forms]] (1), [[Microsoft Word|Word]] (1), [[Data Processing]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (2)
 > **Cross-References:** we talked about (1)
@@ -654,12 +647,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The right to algorithmic traceability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980)
+#### [The right to algorithmic traceability](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=1)** - Computer algorithms are a set of instructions that solve specific problems.
+> **[0:01](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=1)** - Computer [[Algorithms]] are a set of instructions that solve specific problems.
 >
 > **[0:06](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=6)** And more and more we're relying on these algorithms to make decisions.
 >
@@ -681,7 +673,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=54)** They're busy trying to understand and predict your customer's behavior.
 >
-> **[0:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=58)** And people working at organizations are just like the rest of us.
+> **[0:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=58)** And people working at organizations are just like the [[Representational State Transfer (REST)|rest]] of us.
 >
 > **[1:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=62)** Soon they start following the suggestions without even thinking.
 >
@@ -689,11 +681,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=74)** This is called the challenge of algorithmic decision traceability.
 >
-> **[1:20](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=80)** This is one of the seven data ethics issues for your organization.
+> **[1:20](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=80)** This is one of the seven [[Data Ethics]] issues for your organization.
 >
 > **[1:24](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=84)** You can think of them as the Potomac issues.
 >
-> **[1:27](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=87)** These are privacy, data ownership, decision traceability, objectivity, data misuse, accuracy, and consent.
+> **[1:27](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=87)** These are [[Privacy]], data ownership, decision traceability, objectivity, data misuse, accuracy, and consent.
 >
 > **[1:39](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=99)** The decision traceability challenges are often referred to as a customer's right of explanation.
 >
@@ -701,7 +693,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=110)** Think of it this way.
 >
-> **[1:51](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=111)** We know that companies like Facebook and Google put people into many different advertising groups.
+> **[1:51](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=111)** We know that companies like Facebook and [[Google]] put people into many different advertising groups.
 >
 > **[1:56](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980&t=116)** They call these affinity groups.
 >
@@ -733,14 +725,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Data Ethics]] (1), [[Privacy]] (1), [[Google]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - computer (1)
 
-#### Data accessibility and comprehensibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980)
+#### [Data accessibility and comprehensibility](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +739,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=4)** The first is accessibility.
 >
-> **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=7)** That's who can have access to the decision-making.
+> **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=7)** That's who can have access to the [[Decision-Making]].
 >
 > **[0:10](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=10)** The second is comprehensibility.
 >
@@ -810,9 +801,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=161)** Remember that this is the second challenge of decision traceability.
 >
-> **[2:46](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=166)** Keep in mind that your organization is looking through several big data sets.
+> **[2:46](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=166)** Keep in mind that your organization is looking through several [[Big Data]] sets.
 >
-> **[2:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=170)** The machine learning algorithms may have found patterns that are hard for humans to understand.
+> **[2:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=170)** The machine learning [[Algorithms]] may have found patterns that are hard for humans to understand.
 >
 > **[2:56](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=176)** Your organization doesn't want to advertise all the different data sets that you need for your comprehensive report.
 >
@@ -820,7 +811,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=187)** One thing you might consider is developing a simplified reading of how the algorithm comes up with a comprehensive score.
 >
-> **[3:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=194)** For that you might think of it in terms of virtue ethics.
+> **[3:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=194)** For that you might think of it in terms of virtue [[Ethics]].
 >
 > **[3:17](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/data-accessibility-and-comprehensibility?u=76281980&t=197)** You might share are some of your sensitive information to show that your organization is acting virtuously.
 >
@@ -828,13 +819,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (6), data (3), [[Algorithms]] (2), product (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (6), [[Algorithms]] (2), [[Big Data]] (1), [[Ethics]] (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - algorithmic (1)
 
-#### Can anyone access their data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980)
+#### [Can anyone access their data?](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=21)** That means one of the biggest hurdles in data accessibility is sorting out who's your product and who's your customer?
 >
-> **[0:28](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=28)** Imagine that you're a human resources company.
+> **[0:28](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=28)** Imagine that you're a [[Human Resources (HR)|human resources]] company.
 >
 > **[0:32](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=32)** Your software scans the top 5% of all employees that work for Fortune 500 companies.
 >
@@ -870,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=86)** You find that Morehouse students are getting much lower scores than other students at comparable universities.
 >
-> **[1:33](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=93)** But the data science team says it's because there aren't that many Morehouse graduates in the top 5% of employees at Fortune 500 companies.
+> **[1:33](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=93)** But the [[Data Science]] team says it's because there aren't that many Morehouse graduates in the top 5% of employees at Fortune 500 companies.
 >
 > **[1:43](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=103)** The graduates are simply less represented in the data.
 >
@@ -904,7 +894,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=182)** They don't have a right to an explanation because it's not your data, and the consequences for your company could be severe.
 >
-> **[3:10](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=190)** You could also think of it in terms of virtue ethics.
+> **[3:10](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=190)** You could also think of it in terms of virtue [[Ethics]].
 >
 > **[3:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-anyone-access-their-data?u=76281980&t=193)** A virtuous person tries to eliminate inequality and promote diversity.
 >
@@ -912,14 +902,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (2), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - one (1)
 
-#### Trace your black box decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980)
+#### [Trace your black box decisions](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,11 +932,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=60)** They bumped you up and down based on the data you supplied in an application.
 >
-> **[1:05](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=65)** But newer machine learning algorithms don't need explicit programming.
+> **[1:05](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=65)** But newer machine learning [[Algorithms]] don't need explicit programming.
 >
 > **[1:10](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=70)** The machine creates a predictive model that assesses customers based on their data.
 >
-> **[1:15](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=75)** The machine looks for patterns in big data and then provides different suggestions.
+> **[1:15](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=75)** The machine looks for patterns in [[Big Data]] and then provides different suggestions.
 >
 > **[1:21](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/trace-your-black-box-decisions?u=76281980&t=81)** The challenge here is that no human explicitly created these connections.
 >
@@ -989,19 +978,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Algorithms]] (4), application (1), [[Programming]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Big Data]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** means that (1)
 > **Speakers:** - remember (1)
 
-#### Open the box with Explainable AI (XAI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980)
+#### [Open the box with Explainable AI (XAI)](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=0)** - One of the biggest challenges with decision traceability is dealing with the mystery of the machine learning black box.
 >
-> **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=7)** Machine learning algorithms are designed to see patterns that are nearly impossible for humans to understand.
+> **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=7)** Machine learning [[Algorithms]] are designed to see patterns that are nearly impossible for humans to understand.
 >
 > **[0:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=13)** These algorithms are used to make decisions all the time, and not knowing exactly how these decisions are made creates this black box problem.
 >
@@ -1009,13 +997,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=28)** If you can't understand how the machine made the decision, then there's no way to explain that decision to someone else.
 >
-> **[0:35](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=35)** That's why over the last few years, there's been a big push to start adopting explainable artificial intelligence or XAI.
+> **[0:35](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=35)** That's why over the last few years, there's been a big push to start adopting explainable [[Artificial Intelligence (AI)|artificial intelligence]] or XAI.
 >
 > **[0:44](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=44)** These systems put the human in the loop when making decisions with machine learning algorithms.
 >
 > **[0:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=50)** These systems design algorithms that can be explained by human expert.
 >
-> **[0:55](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=55)** XAI emphasizes, fairness, accountability and transparency.
+> **[0:55](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=55)** XAI emphasizes, fairness, [[Accountability]] and transparency.
 >
 > **[1:01](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/open-the-box-with-explainable-ai-xai?u=76281980&t=61)** These are sometimes referred to as FAT Systems.
 >
@@ -1069,13 +1057,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1)
 > **Env Vars:** xai (5), fat (1), sas (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - one (1)
 
-#### Self-driving cars' trolley problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980)
+#### [Self-driving cars' trolley problem](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=90)** That doesn't look good for the lone workman.
 >
-> **[1:34](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=94)** Virtue ethics is much more open.
+> **[1:34](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=94)** Virtue [[Ethics]] is much more open.
 >
 > **[1:36](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=96)** Remember, it's designed to solve these questions by asking what a virtuous person might do, and a virtuous person would have courage and compassion.
 >
@@ -1127,7 +1114,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=114)** So again, it seems like bad outcome for the lone workman.
 >
-> **[1:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=118)** This trolley problem has started out as a hypothetical thought experiment, but now with self-driving cars, this become the real data ethics challenge.
+> **[1:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=118)** This trolley problem has started out as a hypothetical thought experiment, but now with self-driving cars, this become the real [[Data Ethics]] challenge.
 >
 > **[2:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=127)** There are millions of cars on the road each day, and the software has to deal with multiple versions of the trolley problem.
 >
@@ -1143,7 +1130,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=158)** So what's the correct data ethics answer?
 >
-> **[2:42](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=162)** When Google was asked this question about their self-driving cars, they said that the software was programmed to run into the smaller object.
+> **[2:42](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=162)** When [[Google]] was asked this question about their self-driving cars, they said that the software was programmed to run into the smaller object.
 >
 > **[2:49](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/self-driving-cars-trolley-problem?u=76281980&t=169)** So that's bad news for the bicyclist.
 >
@@ -1165,14 +1152,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (3), [[Google]] (3), data (2), hit (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Data Ethics]] (2), [[Ethics]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - in (1)
 
-#### Decide how to crash a self-driving car
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980)
+#### [Decide how to crash a self-driving car](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1184,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=13)** How does it choose?
 >
-> **[0:15](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=15)** We know Google has designed them to veer into the smaller object, but other car companies haven't been so forthcoming about how they make their driving decisions.
+> **[0:15](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=15)** We know [[Google]] has designed them to veer into the smaller object, but other car companies haven't been so forthcoming about how they make their driving decisions.
 >
 > **[0:24](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=24)** So imagine you're a project manager working for a company and you're testing out your own version of the self-driving car.
 >
@@ -1222,7 +1208,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=112)** And that would be bad news for the driver.
 >
-> **[1:54](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=114)** Virtue ethics would be the most difficult to program.
+> **[1:54](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=114)** Virtue [[Ethics]] would be the most difficult to program.
 >
 > **[1:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/decide-how-to-crash-a-self-driving-car?u=76281980&t=118)** It would be nearly impossible to try and program all the decisions of a virtuous person into a self driving car.
 >
@@ -1252,7 +1238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Ethics]] (2), hit (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Ethics]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - self (1)
@@ -1262,8 +1248,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does data objectivity mean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980)
+#### [What does data objectivity mean?](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,17 +1286,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=75)** That means without even thinking about it we have a certain bias.
 >
-> **[1:20](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=80)** This bias shows up all the time in organizational data and newer machine learning algorithms can amplify this bias.
+> **[1:20](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=80)** This bias shows up all the time in organizational data and newer machine learning [[Algorithms]] can amplify this bias.
 >
 > **[1:28](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=88)** Staying objective means just presenting the raw data.
 >
 > **[1:33](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=93)** You don't want to change the data based on your own ideas, but sometimes it can be difficult to remain objective and also be fair.
 >
-> **[1:43](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=103)** This is part of the seven key data ethics issues for your organization.
+> **[1:43](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=103)** This is part of the seven key [[Data Ethics]] issues for your organization.
 >
 > **[1:48](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=108)** You can think of them as the POTOMAC issues.
 >
-> **[1:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=110)** These are privacy, data ownership, decision traceability, objectivity, data misuse, accuracy and consent.
+> **[1:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=110)** These are [[Privacy]], data ownership, decision traceability, objectivity, data misuse, accuracy and consent.
 >
 > **[2:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980&t=122)** So imagine you work for a hospital.
 >
@@ -1357,20 +1342,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Algorithms]] (1), [[Ethics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Ethics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** potomac (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Ways to think about bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980)
+#### [Ways to think about bias](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=0)** - As you can imagine, a company like Amazon receives hundreds of applications for each opening position.
 >
-> **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=7)** So in 2014, they created a human resources system to help them find the best candidates.
+> **[0:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=7)** So in 2014, they created a [[Human Resources (HR)|human resources]] system to help them find the best candidates.
 >
 > **[0:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=13)** The system would process these applications and then rate each one with a five star rating system.
 >
@@ -1402,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=87)** Now Amazon decided to throw away the system instead of trying to fix the machine learning algorithm.
 >
-> **[1:33](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=93)** But instead, let's imagine that they hired you to help understand the data ethics issues.
+> **[1:33](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=93)** But instead, let's imagine that they hired you to help understand the [[Data Ethics]] issues.
 >
 > **[1:39](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=99)** You could look at it using the deontological approach of Immanuel Kant.
 >
@@ -1438,7 +1422,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=184)** So a utilitarian approach would be to fix the algorithm so it has less bias.
 >
-> **[3:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=189)** Finally, virtue ethics looks at the motivations behind a virtuous person.
+> **[3:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=189)** Finally, virtue [[Ethics]] looks at the motivations behind a virtuous person.
 >
 > **[3:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ways-to-think-about-bias?u=76281980&t=194)** A virtuous person tries to eliminate inequality because it's the right thing to do.
 >
@@ -1446,13 +1430,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1), power (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Data Ethics]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - as (1)
 
-#### How to fix data bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-fix-data-bias?u=76281980)
+#### [How to fix data bias](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-fix-data-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1498,7 +1481,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-fix-data-bias?u=76281980&t=113)** If the citizens in wealthier areas are the ones reporting potholes, then why should you ignore these bumps?
 >
-> **[1:59](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-fix-data-bias?u=76281980&t=119)** It turns out that the Boston's Office of New Urban Mechanics decided to look at this through the lens of virtue ethics.
+> **[1:59](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-fix-data-bias?u=76281980&t=119)** It turns out that the Boston's [[Microsoft Office|Office]] of New Urban Mechanics decided to look at this through the lens of virtue [[Ethics]].
 >
 > **[2:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/how-to-fix-data-bias?u=76281980&t=127)** A virtuous person is concerned with fairness and equality.
 >
@@ -1532,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Ethics]] (2), hit (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** go back to (1)
@@ -1540,8 +1523,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - data (1)
 
-#### Can data be objective?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980)
+#### [Can data be objective?](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,7 +1539,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=33)** You don't know exactly how the software arrived at that score.
 >
-> **[0:36](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=36)** The software company doesn't give anyone access to the algorithms because the company considers it a trade secret.
+> **[0:36](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=36)** The software company doesn't give anyone access to the [[Algorithms]] because the company considers it a trade secret.
 >
 > **[0:43](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=43)** But there's also a serious challenge with the system's data objectivity.
 >
@@ -1603,7 +1585,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=164)** Most states wouldn't use the software if they thought that your organization was using its own judgements in place of jury verdicts.
 >
-> **[2:52](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=172)** Virtue ethics also encourages you to be less objective and change the data.
+> **[2:52](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=172)** Virtue [[Ethics]] also encourages you to be less objective and change the data.
 >
 > **[2:58](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/can-data-be-objective?u=76281980&t=178)** A virtuous person wouldn't allow someone to spend more time in prison simply because of their race.
 >
@@ -1619,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Algorithms]] (1), product (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (2), is called (1)
 > **Env Vars:** compas (2)
@@ -1627,8 +1609,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### What is fairness?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980)
+#### [What is fairness?](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,7 +1617,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=8)** In reality, it's actually a very significant problem that just doesn't get very much attention.
 >
-> **[0:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=13)** For example, nearly 55% of organizations report using algorithms to handle job applications.
+> **[0:13](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=13)** For example, nearly 55% of organizations report using [[Algorithms]] to handle job applications.
 >
 > **[0:20](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=20)** So chances are if you're applying for a job or looking through job applicants, then you've already encountered a rating system.
 >
@@ -1648,7 +1629,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=44)** Your organization is probably rating your performance.
 >
-> **[0:47](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=47)** Your customers are probably rating your products.
+> **[0:47](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=47)** Your customers are probably rating your [[Microsoft Products|products]].
 >
 > **[0:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=50)** What type of bias do you think exists in your data?
 >
@@ -1696,7 +1677,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=163)** But that's exactly the types of discussions you'll have to have to stay away from raw objective data.
 >
-> **[2:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=170)** You could look to virtue ethics or even utilitarianism to try and fix this raw data and make it fair.
+> **[2:50](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=170)** You could look to virtue [[Ethics]] or even utilitarianism to try and fix this raw data and make it fair.
 >
 > **[2:56](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-is-fairness?u=76281980&t=176)** But then you have to be ready for some difficult discussions about what fairness means in your organization.
 >
@@ -1714,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Algorithms]] (6), [[Microsoft Products|Products]] (1), hr (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Microsoft Products|Products]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - when (1)
@@ -1724,20 +1705,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=0)** - Thank you for watching this course.
 >
-> **[0:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=2)** I hope you enjoyed it, and you've learned more about the ethical challenges involved in data-driven decision making.
+> **[0:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=2)** I hope you enjoyed it, and you've learned more about the ethical challenges involved in [[Data-driven Decision Making]].
 >
 > **[0:09](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=9)** Remember, it's important to think about how your organization's decisions are made.
 >
 > **[0:14](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=14)** Do your customers have a right of explanation?
 >
-> **[0:17](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=17)** We need to trace back all the decisions behind complex machine learning algorithms.
+> **[0:17](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=17)** We need to trace back all the decisions behind complex machine learning [[Algorithms]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=23)** Also keep in mind that your organizational data might include a lot of human bias.
 >
@@ -1753,15 +1733,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=56)** Also keep in mind that these are just a few of the ethical challenges that you'll run into when working with data.
 >
-> **[1:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=62)** So be sure to search for other data ethics courses in the library.
+> **[1:02](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=62)** So be sure to search for other [[Data Ethics]] courses in the library.
 >
-> **[1:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=67)** Please feel free to follow me on LinkedIn for the latest in data ethics.
+> **[1:07](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=67)** Please feel free to follow me on [[LinkedIn]] for the latest in data ethics.
 >
 > **[1:11](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980&t=71)** And be sure to keep these ethical challenges in mind the next time you're using data to make decisions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Ethics]] (2), [[Data-driven Decision Making]] (1), [[Algorithms]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Ethics]] (2), [[Data-driven Decision Making]] (1), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - thank (1)

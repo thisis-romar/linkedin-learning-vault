@@ -52,14 +52,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI orchestration: Your path to success
-> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980)
+#### [AI orchestration: Your path to success](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=0)** - [Narrator] The building AI products, architecture, and orchestration learning path is your hands-on guide to making intelligent systems real.
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=0)** - [Narrator] The building AI [[Microsoft Products|products]], architecture, and orchestration learning path is your hands-on guide to making intelligent systems real.
 >
-> **[0:08](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=8)** AI orchestration, system architecture, and model validation have become some of the most in-demand skills across tech, finance, healthcare, and beyond.
+> **[0:08](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=8)** [[AI Orchestration]], [[System Architecture]], and model validation have become some of the most in-demand skills across tech, finance, healthcare, and beyond.
 >
 > **[0:18](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=18)** If you want to be the person who just doesn't use AI, but actually builds it, this is where you start.
 >
@@ -67,7 +66,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=29)** This path covers the full AI product lifecycle from designing your stack and managing data, to debugging models and deploying solutions that actually deliver.
 >
-> **[0:39](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=39)** By the end, you'll have built skills that engineering teams rely on, and you will earn a LinkedIn professional certificate to prove it.
+> **[0:39](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=39)** By the end, you'll have built skills that engineering teams rely on, and you will earn a [[LinkedIn]] professional certificate to prove it.
 >
 > **[0:47](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-architecture-and-orchestration-professional-certificate/ai-orchestration-your-path-to-success?u=76281980&t=47)** Ready to move from theory to impact?
 >
@@ -75,7 +74,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Orchestration]] (2), [[Microsoft Products|Products]] (1), [[System Architecture]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[AI Orchestration]] (1), [[System Architecture]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [narrator] (1)
 
 

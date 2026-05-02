@@ -124,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MLOps platforms introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980)
+#### [MLOps platforms introduction](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=0)** - Welcome to this course where we will cover MLOps platforms.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=0)** - Welcome to this course where we will cover [[MLOps]] platforms.
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=4)** So specifically some of the open source MLOps platforms.
 >
@@ -137,23 +136,23 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=24)** It gives you a normalized way of deployment and a reproducible environment.
 >
-> **[0:30](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=30)** We'll see everything that you have to do in order to have these reproducible environments, regardless of the cloud provider, Azure or GCP or even AWS.
+> **[0:30](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=30)** We'll see everything that you have to do in order to have these reproducible environments, regardless of the cloud provider, [[Microsoft Azure|Azure]] or GCP or even AWS.
 >
 > **[0:41](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=41)** It'll essentially work anywhere.
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=43)** That's a powerful thing right there that you might be interested in exploring.
 >
-> **[0:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=48)** Then we'll move on to Hugging Face, although Hugging Face, the actual platform, the services, the Hugging Face provides are not open source, their libraries are.
+> **[0:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=48)** Then we'll move on to [[Hugging Face]], although Hugging Face, the actual platform, the services, the Hugging Face provides are not open source, their libraries are.
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=58)** We'll look at Transformers, we'll look at data sets, and we'll see how to interact with that to get off-the-shelf models that are pre-trained and we'll interact with them.
 >
 > **[1:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=69)** We'll see how to deploy them, how to package them, how to push them to other cloud providers like Azure, and use different container registries.
 >
-> **[1:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=77)** And finally, we'll see a little bit of Onyx as well, which is a different way, a different format that you can export and import to and from, these Onyx format, which allows you to produce a model in a different framework, like say TensorFlow, and then get it onto Onyx and put it into other devices that might not have everything you need for, say, TensorFlow.
+> **[1:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=77)** And finally, we'll see a little bit of Onyx as well, which is a different way, a different format that you can export and import to and from, these Onyx format, which allows you to produce a model in a different framework, like say [[TensorFlow]], and then get it onto Onyx and put it into other devices that might not have everything you need for, say, TensorFlow.
 >
 > **[1:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=104)** So it gives you another way to normalization, which is a powerful concept in machine learning operations as well as in machine learning in general.
 >
-> **[1:52](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=112)** So we'll additionally cover some advanced Hugging Face applications and things like fine tuning and even using GPU, like using off-the-shelf models and fine tuning them, making some slight changes and adapting that to a new purpose.
+> **[1:52](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=112)** So we'll additionally cover some advanced Hugging Face applications and things like [[Fine Tuning]] and even using GPU, like using off-the-shelf models and fine tuning them, making some slight changes and adapting that to a new purpose.
 >
 > **[2:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980&t=130)** And all of that will allow you to interact with all of these and gain some powerful knowledge to have normalized deployments, interact with powerful models that are existing today, produced by very important companies, and give you flexibility to deployment anywhere.
 >
@@ -165,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), cloud (3), [[MLOps]] (2), [[Microsoft Azure|Azure]] (2), [[TensorFlow]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[MLOps]] (2), [[Microsoft Azure|Azure]] (2), [[TensorFlow]] (2), [[Fine Tuning]] (2)
 > **Env Vars:** gcp (1), aws (1), gpu (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** aws (1)
@@ -176,12 +175,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of MLflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980)
+#### [Overview of MLflow](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=0)** - [Instructor] Tracking is one of those components that MLflow is able to do.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=0)** - [Instructor] Tracking is one of those components that [[MLflow]] is able to do.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=6)** So here we have a little bit of like a quick overview of what that tracking looks like.
 >
@@ -231,9 +229,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=164)** Again, we'll see in detail what that means and what are some of the options that you can do there.
 >
-> **[2:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=169)** But essentially what this means is that it's configuration in a text-based file or text-based framework, rather, that you can keep track when you're doing your machinery operations and you can put them in version control.
+> **[2:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=169)** But essentially what this means is that it's configuration in a text-based file or text-based framework, rather, that you can keep track when you're doing your machinery operations and you can put them in [[Version Control]].
 >
-> **[3:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=185)** That means that if I come in tomorrow and change these python valid data pipe to do something different, to use some other file and I make a mistake, well I can always come back and make sure that this doesn't have a typo.
+> **[3:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=185)** That means that if I come in tomorrow and change these [[Python (Programming Language)|python]] valid data pipe to do something different, to use some other file and I make a mistake, well I can always come back and make sure that this doesn't have a typo.
 >
 > **[3:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980&t=197)** So those are kind of like the things that version control will give you the ability of doing.
 >
@@ -249,19 +247,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (3), [[Version Control]] (2), [[Python (Programming Language)|Python]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[MLflow]] (3), [[Version Control]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2)
 > **Versions:** 0.1 (2), version 19 (1)
 > **Definitions:** stands for (1), is a  (1), means that (1)
 > **Analogies:** kind of like (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and using MLflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980)
+#### [Installing and using MLflow](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=0)** - [Instructor] Installing MLflow is very straightforward if you have a Python environment, I have something that I've already activated here.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=0)** - [Instructor] Installing [[MLflow]] is very straightforward if you have a [[Python (Programming Language)|Python]] environment, I have something that I've already activated here.
 >
 > **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=8)** It doesn't matter if it's a virtual environment, or a conda environment, or something else.
 >
@@ -375,13 +372,13 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=333)** How about the artifacts?
 >
-> **[5:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=334)** Well, this is the nice thing is that we can click here, and it tells me lots of metadata about the parameter.
+> **[5:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=334)** Well, this is the nice thing is that we can click here, and it tells me lots of [[Metadata]] about the parameter.
 >
 > **[5:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/installing-and-using-mlflow?u=76281980&t=342)** So that's a very, very quick overview on how to install MLflow, and how to start using it with the tracking UI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (12), [[Python (Programming Language)|Python]] (5), web (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[MLflow]] (12), [[Python (Programming Language)|Python]] (5), [[Metadata]] (1)
 > **CLI Commands:** python (5), pip (3), make (1)
 > **Code Identifiers:** log_artifact (2), log_metric (1), log_param (1), if_name (1)
 > **Analogies:** for example (5)
@@ -390,8 +387,7 @@ created: 2026-05-02
 > **Prerequisites:** install (4)
 > **File Paths:** produced-dataset.csv (2)
 
-#### Introduction to the tracking UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980)
+#### [Introduction to the tracking UI](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=39)** And for any number between zero and 100, I'm going to run that.
 >
-> **[0:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=43)** I'm going to let that MLflow capture that in the UI, in the tracking server, capturing metrics.
+> **[0:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=43)** I'm going to let that [[MLflow]] capture that in the UI, in the tracking server, capturing metrics.
 >
 > **[0:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=50)** But let's go back to how that tracking server, or a tracking UI, looks like.
 >
@@ -465,7 +461,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=179)** I'm going to say this is 2.
 >
-> **[3:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=181)** I'm going to run python produce-metrics.py.
+> **[3:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=181)** I'm going to run [[Python (Programming Language)|python]] produce-metrics.py.
 >
 > **[3:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=185)** So that's going to produce a lot of metrics.
 >
@@ -581,7 +577,7 @@ created: 2026-05-02
 >
 > **[7:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=466)** The previous one didn't.
 >
-> **[7:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=468)** So if I want to say, you know... I'm basically querying, almost like a SQL query.
+> **[7:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=468)** So if I want to say, you know... I'm basically querying, almost like a [[SQL]] query.
 >
 > **[7:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-tracking-ui?u=76281980&t=474)** There's nothing there.
 >
@@ -601,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (10), [[Python (Programming Language)|Python]] (2), hit (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MLflow]] (10), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
 > **Env Vars:** cpu (12), ram (4), mlflow (1), experiment (1), sql (1)
 > **Cross-References:** go back to (6)
 > **CLI Commands:** python (2), make (2), ls (1)
@@ -610,18 +606,17 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **File Paths:** produce-metrics.py (1)
 
-#### Parameters, version, artifacts, and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980)
+#### [Parameters, version, artifacts, and metrics](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=0)** - [Instructor] Let's go deeper into parameters, versions, artifacts, and metrics.
 >
-> **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=4)** So we've already seen how we can produce tons of metrics and log them to the UI, and we're going to, I'm going to try to run this databricks/mlflow example, which happens to be in the documentation.
+> **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=4)** So we've already seen how we can produce tons of metrics and log them to the UI, and we're going to, I'm going to try to run this databricks/[[MLflow]] example, which happens to be in the documentation.
 >
 > **[0:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=17)** I'm going to run this and then I'll show you kind of, like, what the files look like.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=20)** So I'm going to execute this, it's going to fetch the project, and it's getting into an error.
+> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=20)** So I'm going to execute this, it's going to [[Fetch]] the project, and it's getting into an error.
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=27)** All right, so let's see what's going on here.
 >
@@ -805,9 +800,9 @@ created: 2026-05-02
 >
 > **[8:30](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=510)** I mean, this is pretty remarkable because it's capturing absolutely everything that would be needed to run.
 >
-> **[8:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=517)** So, say, for example, if you want to do that on the pandas data frame, I mean, that's tremendous.
+> **[8:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=517)** So, say, for example, if you want to do that on the [[Pandas (Software)|pandas]] data frame, I mean, that's tremendous.
 >
-> **[8:41](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=521)** So we can import mlflow, load the capture.log model from it tells you exactly where it's coming from, and load the model as a Python model and then do some predictions.
+> **[8:41](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=521)** So we can import mlflow, load the capture.log model from it tells you exactly where it's coming from, and load the model as a [[Python (Programming Language)|Python]] model and then do some predictions.
 >
 > **[8:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/parameters-version-artifacts-and-metrics?u=76281980&t=534)** So let's try it out and see if that works.
 >
@@ -829,7 +824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (8), data (3), [[Pandas (Software)|Pandas]] (3), [[Fetch]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[MLflow]] (8), [[Pandas (Software)|Pandas]] (3), [[Fetch]] (2), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 5.0 (2), 2.4 (2), 0.5 (1), 0.1 (1), 0.85 (1)
 > **File Paths:** train.py (3), example.py (1), con.yaml (1)
 > **CLI Commands:** make (3), python (2)
@@ -843,14 +838,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with MLflow projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980)
+#### [Working with MLflow projects](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=0)** - [Instructor] Let's see some of the components for working with an MLflow project.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=0)** - [Instructor] Let's see some of the components for working with an [[MLflow]] project.
 >
-> **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=4)** So we're going to take a quick look here this is the Databricks documentation in Azure, but the reason I picked this, it's not because it's actually part of the Azure documentation, but it doesn't have anything to do with Azure.
+> **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=4)** So we're going to take a quick look here this is the Databricks documentation in [[Microsoft Azure|Azure]], but the reason I picked this, it's not because it's actually part of the Azure documentation, but it doesn't have anything to do with Azure.
 >
 > **[0:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=21)** But this is one of the benefits of using MLflow, which is that you have this consistency.
 >
@@ -860,11 +854,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=35)** So the components are going to remain the same.
 >
-> **[0:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=38)** You're going to be using something else remotely, but in essence, you're still going to need these things, the project names, the Conda environment specified in a YAML file, and then a Python or a Shells script.
+> **[0:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=38)** You're going to be using something else remotely, but in essence, you're still going to need these things, the project names, the Conda environment specified in a YAML file, and then a [[Python (Programming Language)|Python]] or a Shells script.
 >
 > **[0:53](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=53)** You can see here any .py or .sh.
 >
-> **[0:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=55)** I recommend sticking with Python because that will give you the ability of using kind of like the same language as you know, everything that is on Conda and all of the libraries already for data science, not necessarily like Shells script, unless you have a very good reason to do that.
+> **[0:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=55)** I recommend sticking with Python because that will give you the ability of using kind of like the same language as you know, everything that is on Conda and all of the libraries already for [[Data Science]], not necessarily like Shells script, unless you have a very good reason to do that.
 >
 > **[1:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=75)** Next, I want to show you like the YAML file here for the YAML project.
 >
@@ -892,7 +886,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=136)** Let's go to the exploratory example that I have here.
 >
-> **[2:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=141)** In this example directory I have an ML project, and this is what I was explaining that doesn't have the GitHub can't tell like what type of file is this because it doesn't have the dot extension.
+> **[2:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=141)** In this example directory I have an ML project, and this is what I was explaining that doesn't have the [[GitHub]] can't tell like what type of file is this because it doesn't have the dot extension.
 >
 > **[2:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980&t=154)** It doesn't have a .yaml, .yml that identifies this as a YAML file.
 >
@@ -938,7 +932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (4), [[MLflow]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (4), [[MLflow]] (2), [[Data Science]] (1), [[GitHub]] (1)
 > **Env Vars:** yaml (5), csv (3)
 > **CLI Commands:** python (6)
 > **Definitions:** is a  (4)
@@ -947,12 +941,11 @@ created: 2026-05-02
 > **Tools:** github (1), command line (1)
 > **Versions:** 0.1 (1)
 
-#### Create an MLflow project
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980)
+#### [Create an MLflow project](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=0)** - [Instructor] Now let's go and create an actual MLFlow project.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=0)** - [Instructor] Now let's go and create an actual [[MLflow]] project.
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=3)** So I've listed a couple of the steps that you will need, but let's start with the dependencies.
 >
@@ -972,7 +965,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=46)** You can see here, grape doesn't have any values.
 >
-> **[0:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=49)** And GitHub doesn't render that, but there's some carriage returns here on this field, right there on notes.
+> **[0:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=49)** And [[GitHub]] doesn't render that, but there's some carriage returns here on this field, right there on notes.
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=57)** So the problem with carriage returns is, that might be problematic because some tools might not work with it.
 >
@@ -988,7 +981,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=87)** We're going to create a a conda environment named exploratory.
 >
-> **[1:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=92)** I'm going to use Python 3.8 because that's what I know that works with the tools that I want to use.
+> **[1:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=92)** I'm going to use [[Python (Programming Language)|Python]] 3.8 because that's what I know that works with the tools that I want to use.
 >
 > **[1:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=97)** Then I'm going to activate that environment.
 >
@@ -1014,7 +1007,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=152)** It's just a way of identifying what it is.
 >
-> **[2:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=155)** The channels, I think by the default you get a conda-forge, but if you want something specific, for example, I know PyTorch wants its specific channels.
+> **[2:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=155)** The channels, I think by the default you get a conda-forge, but if you want something specific, for example, I know [[PyTorch]] wants its specific channels.
 >
 > **[2:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=163)** And then it list the dependencies.
 >
@@ -1024,7 +1017,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=174)** You can see we can use pip to actually go and install these extra dependencies at the very bottom right there.
 >
-> **[3:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=180)** So not only we're declaring pip as a dependency, but we're actually then saying, "Hey, by the way, I want pip to actually install pandas and MLFlow," and we have some specific versions there.
+> **[3:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=180)** So not only we're declaring pip as a dependency, but we're actually then saying, "Hey, by the way, I want pip to actually install [[Pandas (Software)|pandas]] and MLFlow," and we have some specific versions there.
 >
 > **[3:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-mlflow-project?u=76281980&t=192)** And then if you're installing or adding or removing things, this is a good command to remember.
 >
@@ -1122,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (11), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), data (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[MLflow]] (11), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), [[PyTorch]] (1), [[Pandas (Software)|Pandas]] (1)
 > **File Paths:** carriage.csv (7), conda_env.yaml (3), validate.py (3), fake.csv (2), wine.ratings.csv (1)
 > **CLI Commands:** python (5), pip (4), make (2)
 > **Code Identifiers:** max_errors (4), conda_env (3), max_error (1)
@@ -1131,12 +1124,11 @@ created: 2026-05-02
 > **Prerequisites:** install (4)
 > **Env Vars:** csv (3)
 
-#### Run projects from remote Git repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980)
+#### [Run projects from remote Git repositories](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=0)** - [Instructor] MLflow has the ability of running remote projects if you pass in GitHub URL, so one of the things that I want to show you is that how is that possible with an example repository that is actually pretty wildly used on the MLflow documentation everywhere.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=0)** - [Instructor] [[MLflow]] has the ability of running remote projects if you pass in [[GitHub]] URL, so one of the things that I want to show you is that how is that possible with an example repository that is actually pretty wildly used on the MLflow documentation everywhere.
 >
 > **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=24)** This very short project similar to what we've seen already in the previous video.
 >
@@ -1146,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=44)** It has the same structure we've seen before we have a MLproject file over here.
 >
-> **[0:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=50)** Very simple just in lines python train.py and there's alpha which is this value right there is 0.5.
+> **[0:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=50)** Very simple just in lines [[Python (Programming Language)|python]] train.py and there's alpha which is this value right there is 0.5.
 >
 > **[0:59](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=59)** And then the l1 ratio it defaults to 0.1.
 >
@@ -1178,7 +1170,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=135)** Let's take a look at some of the things that happened.
 >
-> **[2:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=138)** Fetch is the project from GitHub so it goes right to the source right there to GitHub that's the URL that I passed in.
+> **[2:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=138)** [[Fetch]] is the project from GitHub so it goes right to the source right there to GitHub that's the URL that I passed in.
 >
 > **[2:25](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/run-projects-from-remote-git-repositories?u=76281980&t=145)** And then it grabs the master branch and it looked at an mlflow environment that already existed.
 >
@@ -1211,18 +1203,17 @@ created: 2026-05-02
 > **Analogies:** similar to (1), kind of like (1)
 > **Cross-References:** previous video (1)
 
-#### Connecting MLflow to Databricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980)
+#### [Connecting MLflow to Databricks](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=0)** - [Instructor] There are a couple of things I want to show you here on how to connect MLflow to Databricks.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=0)** - [Instructor] There are a couple of things I want to show you here on how to connect [[MLflow]] to Databricks.
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=7)** There you have several options, and MLflow is pretty flexible.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=11)** Let's start here with the documentation from Databricks itself.
 >
-> **[0:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=15)** It doesn't matter here that it's referencing Amazon Web Services, because any of these will work.
+> **[0:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=15)** It doesn't matter here that it's referencing [[Amazon Web Services (AWS)|Amazon Web Services]], because any of these will work.
 >
 > **[0:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=22)** As you know, you can install MLflow locally, and what you want is to make sure that everything is connected.
 >
@@ -1234,7 +1225,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=58)** What it needs here is Databricks.
 >
-> **[1:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=60)** And optionally, you can use Databricks username and password if you want to authenticate straight away, or you can generate a rest API token.
+> **[1:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=60)** And optionally, you can use Databricks username and password if you want to authenticate straight away, or you can generate a [[Representational State Transfer (REST)|rest]] API token.
 >
 > **[1:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=72)** When you generate a rest API token, and create your your credentials file, then you can do, instead of a username and password, then you have the option to use the host and token instead of doing this.
 >
@@ -1272,7 +1263,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=191)** I'm not going to use that right now, but it is how you would create that.
 >
-> **[3:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=195)** All right, so next up, I want to show you how to connect MLflow to Azure Machine Learning.
+> **[3:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=195)** All right, so next up, I want to show you how to connect MLflow to [[Microsoft Azure|Azure]] Machine Learning.
 >
 > **[3:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/connecting-mlflow-to-databricks?u=76281980&t=206)** And you can use the configuration there if you want to make MLflow work with Azure Machine Learning Studio, and Azure Machine Learning Registry in this case.
 >
@@ -1308,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (15), [[Microsoft Azure|Azure]] (8), [[Representational State Transfer (REST)|Rest]] (2), api (2), next (2)
+> **Frameworks & Libraries:** [[MLflow]] (15), [[Microsoft Azure|Azure]] (8), [[Representational State Transfer (REST)|Rest]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** uri (5), api (2)
 > **Documentation:** the docs (2), the documentation (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1322,12 +1313,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of the MLflow package
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980)
+#### [Components of the MLflow package](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=0)** - [Instructor] Let's go through some of the information required to understand what MLflow Models are.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=0)** - [Instructor] Let's go through some of the information required to understand what [[MLflow]] Models are.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=6)** So, MLflow Models is just a way of formatting for how a model, a machine learning model, should be interacted with, where it came from, what are the dependencies surrounding this model, how to interact with it, how to run it, how to serve it, and essentially, hopefully how it was also built.
 >
@@ -1341,7 +1331,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=76)** Then you'll have a couple of things.
 >
-> **[1:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=77)** You'll have the actual model, in this case is a .pkl file, a P-K-L, that's a Python-based model there.
+> **[1:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=77)** You'll have the actual model, in this case is a .pkl file, a P-K-L, that's a [[Python (Programming Language)|Python]]-based model there.
 >
 > **[1:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=89)** Then you'll have your conda.yaml, which we've already seen how that looks like.
 >
@@ -1413,7 +1403,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=284)** So MLflow, let's see, CloudPickle, iPython, ooh, Transformers.
 >
-> **[4:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=289)** So this indicates that this might be coming from Hugging Face, and we'll see how to get this going in a separate lesson.
+> **[4:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=289)** So this indicates that this might be coming from [[Hugging Face]], and we'll see how to get this going in a separate lesson.
 >
 > **[4:59](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980&t=299)** But this is already important because it basically allows us to have lots of information regarding how this model came to be.
 >
@@ -1435,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[MLflow]] (9), next (3), data (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[MLflow]] (9), [[Hugging Face]] (1)
 > **CLI Commands:** python (14), find (2)
 > **Code Identifiers:** python_model (1), cloudpickle_version (1), mlflow_version (1), run_id (1), python_env (1)
 > **Env Vars:** yaml (4), onnx (1), uuid (1)
@@ -1444,12 +1434,11 @@ created: 2026-05-02
 > **Tools:** vs code (2), visual studio (1)
 > **Definitions:** is a  (3)
 
-#### Use a registry with an MLflow model
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/use-a-registry-with-an-mlflow-model?u=76281980)
+#### [Use a registry with an MLflow model](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/use-a-registry-with-an-mlflow-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/use-a-registry-with-an-mlflow-model?u=76281980&t=0)** - [Instructor] Using a registry with an MLflow model is something that you should start getting used to.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/use-a-registry-with-an-mlflow-model?u=76281980&t=0)** - [Instructor] Using a registry with an [[MLflow]] model is something that you should start getting used to.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/use-a-registry-with-an-mlflow-model?u=76281980&t=9)** This feature of MLflow is not unique to MLflow.
 >
@@ -1541,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (6), feature (2), api (2), cloud (1), database (1)
+> **Frameworks & Libraries:** [[MLflow]] (6)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), dsdk (1)
 > **Code Identifiers:** log_model (1), run_id (1)
@@ -1550,12 +1539,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Ports:** port 5 (1)
 
-#### Referencing artifacts with the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980)
+#### [Referencing artifacts with the API](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=0)** - [Instructor] Referencing and interacting with models that are living in a remote registry is a thing that... It's kind of like taking a step further when you're working with MLflow.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=0)** - [Instructor] Referencing and interacting with models that are living in a remote registry is a thing that... It's kind of like taking a step further when you're working with [[MLflow]].
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=14)** So we've already seen a little bit of the examples here of how you can register one, but we haven't seen how to retrieve or update these models.
 >
@@ -1571,9 +1559,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=58)** So I have this Jupyter Notebook with some examples on how to register models and how to interact with the API dynamically, but let's take a look, first, at how I log the model.
 >
-> **[1:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=70)** So I have this small script here, and I really like Hugging Face.
+> **[1:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=70)** So I have this small script here, and I really like [[Hugging Face]].
 >
-> **[1:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=75)** I think it's tremendous, and what this script is doing is actually using Hugging Face, so it's inputting the pipeline from transformers, and then it's creating these Python class that basically tells MLflow how exactly it needs to interact with this model.
+> **[1:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=75)** I think it's tremendous, and what this script is doing is actually using Hugging Face, so it's inputting the pipeline from transformers, and then it's creating these [[Python (Programming Language)|Python]] class that basically tells MLflow how exactly it needs to interact with this model.
 >
 > **[1:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=96)** So the way it interacts with the Hugging Face model is it sets the tokenizer and model in the constructor, and then it defines a single method that, in this case, is translating English to German, that's fine.
 >
@@ -1639,7 +1627,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=315)** So you can run these and interact with this, which is really tremendous.
 >
-> **[5:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=319)** If you want to do this on the Pandas data frame, you absolutely can do that as well.
+> **[5:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=319)** If you want to do this on the [[Pandas (Software)|Pandas]] data frame, you absolutely can do that as well.
 >
 > **[5:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/referencing-artifacts-with-the-api?u=76281980&t=324)** So very powerful, very complete solution there if you want to interact with all these models, because they're capturing everything, really like even the parameters.
 >
@@ -1697,7 +1685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (3), api (3), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), web (2)
+> **Frameworks & Libraries:** [[MLflow]] (3), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** uri (8), api (3), onnx (2)
 > **CLI Commands:** python (3), make (3)
 > **Versions:** version 1 (6)
@@ -1706,8 +1694,7 @@ created: 2026-05-02
 > **Code Identifiers:** log_model (1)
 > **Ports:** port 5000 (1)
 
-#### Saving and serving MLflow models
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980)
+#### [Saving and serving MLflow models](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,7 +1704,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=14)** We've already seen a little bit of these script that I created to log that model, which has a couple of components.
 >
-> **[0:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=22)** The first component is this one where we have the summarizer class, which inherits from this Python model class.
+> **[0:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=22)** The first component is this one where we have the summarizer class, which inherits from this [[Python (Programming Language)|Python]] model class.
 >
 > **[0:33](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=33)** So as you know, this is so that you can, so that ML flow understands how to interact with that.
 >
@@ -1785,7 +1772,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=273)** You can see I'm using columns, text and the data.
 >
-> **[4:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=277)** And this is kind of like a, almost like a pandas, it is a pandas format.
+> **[4:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=277)** And this is kind of like a, almost like a [[Pandas (Software)|pandas]], it is a pandas format.
 >
 > **[4:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=282)** You can see here that the format is pandas split.
 >
@@ -1833,7 +1820,7 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=459)** So that's super useful.
 >
-> **[7:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=460)** And that is the those are the parameters, those are the things, that metadata that allows ML flow to serve a model.
+> **[7:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=460)** And that is the those are the parameters, those are the things, that [[Metadata]] that allows ML flow to serve a model.
 >
 > **[7:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/saving-and-serving-mlflow-models?u=76281980&t=468)** So there you go.
 >
@@ -1841,7 +1828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), api (2), data (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Metadata]] (1)
 > **CLI Commands:** curl (4), find (3), python (2), make (2)
 > **Analogies:** kind of like (5), for example (2)
 > **Ports:** port 5 (5)
@@ -1855,12 +1842,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Hugging Face?
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980)
+#### [What is Hugging Face?](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=0)** - [Alfredo] Let's dive in into a little bit about what Hugging Face is.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=0)** - [Alfredo] Let's dive in into a little bit about what [[Hugging Face]] is.
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=4)** Now, sometimes people don't see Hugging Face as a platform, but in fact it is.
 >
@@ -1874,11 +1860,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=53)** I don't have anything yet.
 >
-> **[0:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=54)** I'll have to fix that pretty soon, but this is the way, again, the way I see it is kind of like GitHub.
+> **[0:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=54)** I'll have to fix that pretty soon, but this is the way, again, the way I see it is kind of like [[GitHub]].
 >
 > **[1:02](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=62)** Just like GitHub isfor software engineering, I see Hugging Face being the same thing, but for machine learning, collaboration, and interaction.
 >
-> **[1:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=70)** The other thing that I want to show you is once I created my account, I had these programmatic access using the hubs, Python client library.
+> **[1:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=70)** The other thing that I want to show you is once I created my account, I had these programmatic access using the hubs, [[Python (Programming Language)|Python]] client library.
 >
 > **[1:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=81)** We'll get into a little bit more details as to what the hub is, but you can start seeing here that sometimes it's not only the website, but you have libraries that you can use to create repositories with specific names and with a specific purpose, like say, for example, a model or a dataset or even a space.
 >
@@ -1906,7 +1892,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=200)** I'm going to say that, I'm going to hit return, and then you'll have several different things.
 >
-> **[3:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=206)** So this means that you have support for PyTorch, TensorFlow, TF Lite, It uses several different things here, and you have this model card.
+> **[3:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=206)** So this means that you have support for [[PyTorch]], [[TensorFlow]], TF Lite, It uses several different things here, and you have this model card.
 >
 > **[3:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980&t=220)** The model card allows you to demo or explain what this is about and give you a little bit of information.
 >
@@ -1938,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (9), [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Search]] (2), api (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (9), [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[PyTorch]] (1), [[TensorFlow]] (1)
 > **Env Vars:** gpt (4), api (2), pip (1)
 > **CLI Commands:** python (4), pip (1)
 > **Analogies:** kind of like (1), just like (1), for example (1), it's like (1)
@@ -1947,12 +1933,11 @@ created: 2026-05-02
 > **Code Identifiers:** set_seed (1)
 > **Cross-References:** go back to (1)
 
-#### Overview of the Hugging Face Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980)
+#### [Overview of the Hugging Face Hub](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=0)** - [Instructor] Let's do a quick overview of the Hugging Face hub.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=0)** - [Instructor] Let's do a quick overview of the [[Hugging Face]] hub.
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=3)** Now, the Hugging Face hub means that you will be interacting with repositories, models, data sets, spaces, and even perhaps organizations and endpoints, depending on what you're trying to do.
 >
@@ -1966,9 +1951,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=46)** So in here, you can actually fill out the names and have a couple options.
 >
-> **[0:51](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=51)** If you've worked before with GitHub, this will feel very, very familiar.
+> **[0:51](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=51)** If you've worked before with [[GitHub]], this will feel very, very familiar.
 >
-> **[0:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=56)** It's similar interactions, and you can do the same thing here with the Hugging Face CLI.
+> **[0:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=56)** It's similar interactions, and you can do the same thing here with the Hugging Face [[CLI]].
 >
 > **[1:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=63)** So you'll have to specify who's the owner, in this case, I'm the only owner.
 >
@@ -1994,7 +1979,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=125)** So both the dataset, the model, they're all GitHub.
 >
-> **[2:07](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=127)** GitHub, not GitHub, git repositories where you can interact with and have full requests and changes and even clone the repositories locally so that you can have some interaction.
+> **[2:07](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=127)** GitHub, not GitHub, [[Git]] repositories where you can interact with and have full requests and changes and even clone the repositories locally so that you can have some interaction.
 >
 > **[2:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=141)** You'll have to have Git LFS.
 >
@@ -2026,7 +2011,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=230)** I didn't cover organizations, but essentially that's if you're having a group of people or your own company and you're working with all machine learning engineers and you want to create your own or new organization, then you will do that, similar to what you would do with GitHub and an organization, when you join a company, say, for example, let's see some of these ones right here.
 >
-> **[4:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=254)** Well, these ones are not organizations, but you'll get, Google is an organization.
+> **[4:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=254)** Well, these ones are not organizations, but you'll get, [[Google]] is an organization.
 >
 > **[4:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-the-hugging-face-hub?u=76281980&t=259)** So we go, let's take a look at that one.
 >
@@ -2042,7 +2027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (6), [[GitHub]] (6), data (4), [[Git]] (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (6), [[GitHub]] (6), [[Git]] (4), [[Google]] (3), [[CLI]] (1)
 > **Tools:** github (6), command line (2)
 > **Env Vars:** lfs (4), mit (2), cli (1)
 > **CLI Commands:** git (4), make (1)
@@ -2051,12 +2036,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 
-#### Introduction to the Hugging Face Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980)
+#### [Introduction to the Hugging Face Hub](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=8)** - [Instructor] Hugging Face Hub is really about just a few products.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=8)** - [Instructor] [[Hugging Face]] Hub is really about just a few [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=12)** First, you have the ability to log in and create an account, and you can see here's my profile and I have settings enabled as well.
 >
@@ -2064,7 +2048,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=34)** The access token allows you to programmatically interact with the Hugging Face Hub.
 >
-> **[0:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=39)** So what it means is that from GitHub actions, you could push maybe artifacts into Hugging Face from a development environment, you could go through and read and write data, for example, a data set, or you could configure a Spaces application as well.
+> **[0:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=39)** So what it means is that from [[GitHub]] actions, you could push maybe artifacts into Hugging Face from a development environment, you could go through and read and write data, for example, a data set, or you could configure a Spaces application as well.
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=58)** So I would say this is the first part of the Hugging Face Hub is make sure you got an account and you've created an access token and save that token somewhere secure.
 >
@@ -2080,15 +2064,15 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=92)** We have image classification, translation, et cetera.
 >
-> **[1:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=96)** And if we go through here, you can even pull down even higher level categories like computer vision.
+> **[1:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=96)** And if we go through here, you can even pull down even higher level categories like [[Computer Vision]].
 >
 > **[1:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=102)** These are all models that deal with computer vision.
 >
-> **[1:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=105)** Natural language processing, like translation or doing text generation.
+> **[1:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=105)** [[Natural Language Processing (NLP)|Natural language processing]], like translation or doing text generation.
 >
 > **[1:51](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=111)** We also have audio.
 >
-> **[1:53](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=113)** In this case, you could see things like automatic speech recognition.
+> **[1:53](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=113)** In this case, you could see things like automatic [[Speech Recognition]].
 >
 > **[1:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=117)** In fact, if we select automatic speech recognition here, one of the things you'll notice here is that they have a sort by the most downloads.
 >
@@ -2104,7 +2088,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=168)** Now, if we go to data sets, the next thing to be aware of with data sets is that there are also a large amount of data sets.
 >
-> **[2:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=176)** And the reason why these data sets are interesting is that they can be used for fine tuning.
+> **[2:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=176)** And the reason why these data sets are interesting is that they can be used for [[Fine Tuning]].
 >
 > **[3:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=183)** So this means that you can customize these pre-trained models and make them even more accurate for particular problems you're solving.
 >
@@ -2142,7 +2126,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=279)** You can actually read through, and look at the particular files that were used for something.
 >
-> **[4:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=285)** Here's another one, Stable Diffusion demo.
+> **[4:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=285)** Here's another one, [[Stable Diffusion]] demo.
 >
 > **[4:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-the-hugging-face-hub?u=76281980&t=288)** We can see there's an application file right here and they're using Gradio for their Spaces application.
 >
@@ -2152,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), data (8), application (3), [[Speech Recognition]] (3), next (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Speech Recognition]] (3), [[Computer Vision]] (2), [[Microsoft Products|Products]] (1), [[GitHub]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2)
@@ -2161,12 +2145,11 @@ created: 2026-05-02
 > **Warnings:** be aware (2)
 > **Definitions:** means that (1)
 
-#### Using Hugging Face repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980)
+#### [Using Hugging Face repositories](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=0)** - [Instructor] Let's get started with Hugging Face repositories.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=0)** - [Instructor] Let's get started with [[Hugging Face]] repositories.
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=4)** So here what I have is the default page from Hugging Face.
 >
@@ -2192,7 +2175,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=61)** And next I want to log in.
 >
-> **[1:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=63)** So to log in is, I'm going to go huggingface-cli login.
+> **[1:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=63)** So to log in is, I'm going to go [[Hugging Face|huggingface]]-[[CLI]] login.
 >
 > **[1:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=70)** And then that's going to tell me that I now need a token.
 >
@@ -2202,7 +2185,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=91)** And I am going to go ahead and create a new token.
 >
-> **[1:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=95)** So tokens are kind of like the ability of like have like temporary passwords for the same thing, for authenticating to the same place.
+> **[1:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=95)** So [[Tokens]] are kind of like the ability of like have like temporary passwords for the same thing, for authenticating to the same place.
 >
 > **[1:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=103)** I'm going to say this is for a demo, and I want to not only read, but I want to also write.
 >
@@ -2220,7 +2203,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=134)** And then it says that the token has been saved to /Users, .huggingface/token, that's perfectly fine.
 >
-> **[2:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=142)** Authenticated through git-credential store.
+> **[2:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=142)** Authenticated through [[Git]]-credential store.
 >
 > **[2:25](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-repositories?u=76281980&t=145)** But this is in the helper defined on your machine.
 >
@@ -2350,7 +2333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), next (3), [[Hugging Face|Huggingface]] (3), [[CLI]] (3), [[Git]] (3)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Hugging Face|Huggingface]] (3), [[CLI]] (3), [[Git]] (3), [[Tokens]] (1)
 > **CLI Commands:** git (3), make (3)
 > **Env Vars:** url (2), readme (2), cli (1), lfs (1)
 > **Tools:** terminal (4), command line (1)
@@ -2359,12 +2342,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1), the readme (1)
 > **UI Navigation:** go to (2)
 
-#### Using Hugging Face Spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980)
+#### [Using Hugging Face Spaces](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=0)** - [Instructor] Let's see what Hugging Face Spaces is all about.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=0)** - [Instructor] Let's see what [[Hugging Face]] Spaces is all about.
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=3)** We've already done a little bit of work with models and we've interacted with Hugging Face, the platform itself a little bit already, but right now we're going to concentrate in creating a Space.
 >
@@ -2404,7 +2386,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=117)** So let's explore a couple of the things that are needed here.
 >
-> **[2:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=121)** First, there's always, this is a GitHub repository.
+> **[2:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=121)** First, there's always, this is a [[GitHub]] repository.
 >
 > **[2:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=125)** Next, are you going to have to create in app.py.
 >
@@ -2496,13 +2478,13 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=369)** And that's right, this is Docker log output.
 >
-> **[6:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=373)** And you can see here that it's using Python 3.8 and it's copying requirements.txt, and it's creating some, some of the defaults that this application will need to run.
+> **[6:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=373)** And you can see here that it's using [[Python (Programming Language)|Python]] 3.8 and it's copying requirements.txt, and it's creating some, some of the defaults that this application will need to run.
 >
 > **[6:25](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=385)** Now that's all good except we now are getting into trouble because requirements.txt is a file that we do not have.
 >
 > **[6:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=394)** So why is that important?
 >
-> **[6:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=396)** Well, because if I go back to our app.py, we're importing, we're using transformers, but we're not importing it and we're using TensorFlow and we're not installing it.
+> **[6:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=396)** Well, because if I go back to our app.py, we're importing, we're using transformers, but we're not importing it and we're using [[TensorFlow]] and we're not installing it.
 >
 > **[6:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=410)** Sorry, like we are importing it, but we're not installing.
 >
@@ -2564,7 +2546,7 @@ created: 2026-05-02
 >
 > **[9:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=595)** So because I want to do summarization, I'm going to paste a lot of text in here and hopefully it will show up in the output and will interact with the model.
 >
-> **[10:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=606)** So you have a page here called MLOps from like the definition from MLOps from Wikipedia.
+> **[10:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=606)** So you have a page here called [[MLOps]] from like the definition from MLOps from Wikipedia.
 >
 > **[10:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-spaces?u=76281980&t=614)** I'm going to select all of that and I'm going to copy, go back to our space-demo, enter the text to summarize, paste that, and then I'm going to hit submit.
 >
@@ -2620,7 +2602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Hugging Face]] (3), next (3), [[TensorFlow]] (2), [[MLOps]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[TensorFlow]] (2), [[MLOps]] (2), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** app.py (5), requirements.txt (5)
 > **CLI Commands:** make (5), docker (2), python (1)
 > **Env Vars:** mit (1), sdk (1), readme (1), cpu (1), css (1)
@@ -2634,16 +2616,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to applied Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980)
+#### [Introduction to applied Hugging Face](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980&t=8)** - Hi, my name is Noah Gift and I'm going to introduce you to Hugging Face, a really popular new platform for dealing with large data sets, pre-trained models and also demoing those products.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980&t=8)** - Hi, my name is Noah Gift and I'm going to introduce you to [[Hugging Face]], a really popular new platform for dealing with large data sets, pre-trained models and also demoing those [[Microsoft Products|products]].
 >
 > **[0:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980&t=22)** And what's exciting about this particular course is that we're going to cover three different categories.
 >
-> **[0:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980&t=27)** In the first section of the course, we're going to talk about how to get data into Hugging Face, how to put models into Hugging Face and then actually pull that back down inside of development environments, like GPU-enabled GitHub Codespaces.
+> **[0:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980&t=27)** In the first section of the course, we're going to talk about how to get data into Hugging Face, how to put models into Hugging Face and then actually pull that back down inside of development environments, like GPU-enabled [[GitHub]] [[Codespaces]].
 >
 > **[0:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980&t=42)** Next, in the second section, we'll cover how to fine tune trained models, so essentially get the latest models from the top brands in the world that are doing AI and ML, take those models, for example, a summarization model, fine tune it a little bit with custom data and then take that model and put it back into your Hugging Face model repository so you can use it later in the future.
 >
@@ -2657,19 +2638,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), data (3), [[Microsoft Products|Products]] (2), [[GitHub]] (2), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Microsoft Products|Products]] (2), [[GitHub]] (2), [[Codespaces]] (2)
 > **Env Vars:** gpu (2)
 > **Tools:** github (2)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - hi (1)
 
-#### Using GPU-enabled Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980)
+#### [Using GPU-enabled Codespaces](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=8)** - [Instructor] Let's dive into GitHub Codespaces, which happened to be one of the best possible locations for students to use GPU-enabled workspaces.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=8)** - [Instructor] Let's dive into [[GitHub]] [[Codespaces]], which happened to be one of the best possible locations for students to use GPU-enabled workspaces.
 >
 > **[0:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=19)** You can take a look at how this works is that you have this temporary environment that you can actually code in, and it actually has, in many cases, much more power than your laptop, and it has the ability to even create prebuilt containers.
 >
@@ -2679,13 +2659,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=43)** So let's take a look at how I have done this in my classrooms at Duke University.
 >
-> **[0:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=48)** I have a organization here, and this organization has an mlops-template that I've created.
+> **[0:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=48)** I have a organization here, and this organization has an [[MLOps]]-template that I've created.
 >
 > **[0:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=55)** So notice that I use this functionality called Public Template and if I select this icon here and go to settings, and if we scroll down here, you can see that I've made this a template repository.
 >
 > **[1:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=70)** Now, the reason why this is so powerful is that I've also gone inside of here, and I have a dot dev container environment, which allows me to customize this development environment and it will preload whatever I put in this docker file.
 >
-> **[1:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=88)** So I say use the dev container universal build, so use the standard GitHub container here, install some packages like FFmpeg or Python 3.8 or GCC.
+> **[1:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=88)** So I say use the dev container universal build, so use the standard GitHub container here, install some packages like FFmpeg or [[Python (Programming Language)|Python]] 3.8 or GCC.
 >
 > **[1:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=102)** Also go through here and install my packages.
 >
@@ -2695,7 +2675,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=138)** Let's go ahead and take a look at both.
 >
-> **[2:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=139)** So first, if we go to code here, I could actually create a new code space, and this would be a new development environment and if I go and I customize this and I select inside of this machine type, notice there's a bunch of different options here, including very powerful 16-core machines that are great for CPU tasks, or in this case, the thing I want to use for dealing with HuggingFace is I want to use a six-core GPU, six-core machine with one GPU and 112 gigabytes of RAM and 128 gigabytes of storage.
+> **[2:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=139)** So first, if we go to code here, I could actually create a new code space, and this would be a new development environment and if I go and I customize this and I select inside of this machine type, notice there's a bunch of different options here, including very powerful 16-core machines that are great for CPU tasks, or in this case, the thing I want to use for dealing with [[Hugging Face|HuggingFace]] is I want to use a six-core GPU, six-core machine with one GPU and 112 gigabytes of RAM and 128 gigabytes of storage.
 >
 > **[2:58](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=178)** So for a university setting, if I want to use pre-trained models, do inference, do training, do fine-tuning, this is really the recommended environment to set up.
 >
@@ -2725,11 +2705,11 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=271)** And what this does is it says, "Let's make sure that the GPU CUDA is available, basically the SDK for the NVIDIA GPU."
 >
-> **[4:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=283)** So if I type in Python and I type in Utils and verify PyTorch, anybody that uses my template can launch this and they can see, "Yes, in fact, this is working, we've got this thing enabled."
+> **[4:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=283)** So if I type in Python and I type in Utils and verify [[PyTorch]], anybody that uses my template can launch this and they can see, "Yes, in fact, this is working, we've got this thing enabled."
 >
 > **[4:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=297)** The other thing that we can do to test things out is that in this Util's directory, I've uploaded a audio file that is a narration of the "Gettysburg Address".
 >
-> **[5:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=310)** And this is a very small file here, and what I do is I use the Whisper tool, which is available from OpenAI that does automatic speech recognition to transcribe that file.
+> **[5:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=310)** And this is a very small file here, and what I do is I use the Whisper tool, which is available from OpenAI that does automatic [[Speech Recognition]] to transcribe that file.
 >
 > **[5:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-gpu-enabled-codespaces?u=76281980&t=324)** So let's go ahead and take a look really quick at what Whisper is.
 >
@@ -2775,7 +2755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (5), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), power (2), [[Speech Recognition]] (2)
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (5), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Speech Recognition]] (2), [[Codespaces]] (1)
 > **Env Vars:** gpu (15), nvidia (3), cuda (2), gcc (1), cpu (1)
 > **Prerequisites:** set up (4), install (3), configure (1)
 > **Exercise Files:** template (6)
@@ -2784,20 +2764,19 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (2)
 
-#### Using the Hugging Face CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980)
+#### [Using the Hugging Face CLI](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=8)** - [Presenter] One of the more powerful ways to get involved with Hugging Face is to use the Hugging Face command line interface.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=8)** - [Presenter] One of the more powerful ways to get involved with [[Hugging Face]] is to use the Hugging Face command line interface.
 >
-> **[0:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=15)** In general, I'm a huge fan of using command line tools, and you can see here we have Hugging Face CLI that's installed.
+> **[0:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=15)** In general, I'm a huge fan of using command line tools, and you can see here we have Hugging Face [[CLI]] that's installed.
 >
 > **[0:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=22)** And if you just run it, it'll give you a help menu.
 >
 > **[0:25](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=25)** One of the first things that I would recommend doing is looking at some of the tools that are sub command.
 >
-> **[0:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=32)** So for example, if we go to Hugging Face login, one of the things that we see here is that you can actually log in by going to the tokens directory.
+> **[0:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=32)** So for example, if we go to Hugging Face login, one of the things that we see here is that you can actually log in by going to the [[Tokens]] directory.
 >
 > **[0:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-hugging-face-cli?u=76281980&t=42)** And inside of the tokens settings inside of Hugging Face, this will be something you can set up and then pass in and then authenticate.
 >
@@ -2831,7 +2810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), [[CLI]] (2), [[Tokens]] (2), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[CLI]] (2), [[Tokens]] (2)
 > **UI Navigation:** go to (3)
 > **Env Vars:** cli (2)
 > **Tools:** command line (2)
@@ -2845,8 +2824,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Model Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980)
+#### [Using the Model Hub](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2858,7 +2836,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=13)** So we've already covered a couple of of those things.
 >
-> **[0:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=16)** So I think that is a good idea to kind of give one other quick overview as to what we have here with Hugging Face.
+> **[0:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=16)** So I think that is a good idea to kind of give one other quick overview as to what we have here with [[Hugging Face]].
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=26)** So I'm going to go ahead and start with models.
 >
@@ -2882,7 +2860,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=102)** So if I click on the X right here, then I see all of the other ones that are available for summarization.
 >
-> **[1:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=110)** So next I'm going to click on one of these models and we've already seen a little bit of what the model card is, and the model card allows you to, I'll describe better, but this is up to you, the user, you have to create a read me that makes sense and just like on a GitHub repository.
+> **[1:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=110)** So next I'm going to click on one of these models and we've already seen a little bit of what the model card is, and the model card allows you to, I'll describe better, but this is up to you, the user, you have to create a read me that makes sense and just like on a [[GitHub]] repository.
 >
 > **[2:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=134)** And you'll have these hosted inference API.
 >
@@ -2928,7 +2906,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=243)** That is really nifty because sometimes the specific dataset that you have, you want something for testing, another one for validation.
 >
-> **[4:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=252)** And by the way, and we'll cover these a little bit later, on the more hands-on examples, you have access through the data sets library in Python, and select which one of these are going to be working for.
+> **[4:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=252)** And by the way, and we'll cover these a little bit later, on the more hands-on examples, you have access through the data sets library in [[Python (Programming Language)|Python]], and select which one of these are going to be working for.
 >
 > **[4:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980&t=266)** Like are you going to do the test, a training, the validation, and then you can even create a subset there as well.
 >
@@ -2984,7 +2962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Hugging Face]] (5), [[Python (Programming Language)|Python]] (3), next (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (5), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2)
 > **Analogies:** kind of like (4), for example (4), just like (2)
 > **Env Vars:** api (2), cpu (1), lfs (1), readme (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2993,14 +2971,13 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Code Identifiers:** vendi_score (1)
 
-#### Downloading models
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980)
+#### [Downloading models](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=0)** - [Instructor] I have a Jupyter Notebook here.
 >
-> **[0:02](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=2)** We're using Python 3.8, and I'm going to show you how you can, well, a couple of ways that you can download models with Hugging Face.
+> **[0:02](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=2)** We're using [[Python (Programming Language)|Python]] 3.8, and I'm going to show you how you can, well, a couple of ways that you can download models with [[Hugging Face]].
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=9)** Usually, what you want is everything dynamic.
 >
@@ -3016,7 +2993,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=29)** We are going to pass in the task that we want to complete, and we're going to specify that the model is going to be the t5.
 >
-> **[0:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=35)** That's also the model and the tokenizer, and we want truncation and the framework is TensorFlow.
+> **[0:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=35)** That's also the model and the tokenizer, and we want truncation and the framework is [[TensorFlow]].
 >
 > **[0:41](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=41)** So I'm going to run that. This is going to take a quick second.
 >
@@ -3060,7 +3037,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=143)** So you can see here, there's no download, there's no progress being showed at all.
 >
-> **[2:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=147)** All right, so for summarization, I have a file here called mlflow.txt.
+> **[2:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=147)** All right, so for summarization, I have a file here called [[MLflow]].txt.
 >
 > **[2:33](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=153)** It's something that I've used before for doing a little bit of a definition of what MLflow is, and it has tons of different text in here.
 >
@@ -3138,7 +3115,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=366)** So I'm going to hit over to my browser. I open a new tab.
 >
-> **[6:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=370)** What I want to show you here is the Hugging Face documentation on how to download documents, but this is using Git.
+> **[6:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=370)** What I want to show you here is the Hugging Face documentation on how to download documents, but this is using [[Git]].
 >
 > **[6:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/downloading-models?u=76281980&t=376)** So for doing this, I'm going to scroll down here, you're going to have to use two things, git lfs install.
 >
@@ -3175,12 +3152,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** jupyter (2)
 
-#### Working with models
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980)
+#### [Working with models](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=8)** - [Instructor] Let's take a look at this Hugging Face model ecosystem here.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=8)** - [Instructor] Let's take a look at this [[Hugging Face]] model ecosystem here.
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=12)** There's more than just one thing you would do with Hugging Face because there are interactive workflows.
 >
@@ -3188,7 +3164,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=38)** So this is really the first place to play around.
 >
-> **[0:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=40)** Now, one of the problems with this is that GPU is not something you're going to get by default, and so as a result of that, you may want to use a workspace, like for example GitHub workspaces, that actually have access to GPUs, which will significantly speed up your performance, right?
+> **[0:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=40)** Now, one of the problems with this is that GPU is not something you're going to get by default, and so as a result of that, you may want to use a workspace, like for example [[GitHub]] workspaces, that actually have access to GPUs, which will significantly speed up your performance, right?
 >
 > **[1:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=61)** So that's really helpful.
 >
@@ -3220,7 +3196,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=178)** Take a look all the models that are available, and pick the one that you want to use, and in particular, I think again, the interface here where you look at the most downloads or most likes, these are a good idea.
 >
-> **[3:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=191)** The Google Pegasus is a good one to play around with here.
+> **[3:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=191)** The [[Google]] Pegasus is a good one to play around with here.
 >
 > **[3:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=195)** Notice what it does is allows us to just play around with it without having to do a bunch of stuff, and so if I go through here and I say compute, right?
 >
@@ -3254,7 +3230,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=305)** And in this case right here, I just created a Click command line tool called Summarize, and actually it will choose some kind of a model as a default, but we could also change it out based on whatever it is we want it to do.
 >
-> **[5:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=318)** So the first thing I would recommend would be, let's go ahead and do that Python example here.
+> **[5:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=318)** So the first thing I would recommend would be, let's go ahead and do that [[Python (Programming Language)|Python]] example here.
 >
 > **[5:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=324)** So again, if we we look at this, summarize, it's going to tell us that if we say --Wikipedia page Python Programming that it should be able to go and summarize this Python programming page.
 >
@@ -3302,7 +3278,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=484)** Well, a really easy way to upload the model would be to grab a second learn model.
 >
-> **[8:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=490)** In this case, I've got one in the noahgift Python MLOps Cookbook.
+> **[8:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=490)** In this case, I've got one in the noahgift Python [[MLOps]] Cookbook.
 >
 > **[8:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-models?u=76281980&t=494)** I have model.joblib.
 >
@@ -3332,7 +3308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (12), [[Python (Programming Language)|Python]] (6), [[GitHub]] (3), [[Programming]] (3), web (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (12), [[Python (Programming Language)|Python]] (6), [[GitHub]] (3), [[Google]] (1), [[MLOps]] (1)
 > **CLI Commands:** python (6), make (1), unzip (1)
 > **Tools:** command line (4), github (3)
 > **Env Vars:** gpu (4), api (1), gpu2 (1)
@@ -3341,8 +3317,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Warnings:** be aware (2)
 
-#### Adding datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980)
+#### [Adding datasets](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3352,7 +3327,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=14)** Well, I'll show you a couple of the things that you can do in order to create your own dataset.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=20)** So in Hugging Face in the webpage, in the main UI, however it is, make sure that you have an account.
+> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=20)** So in [[Hugging Face]] in the webpage, in the main UI, however it is, make sure that you have an account.
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=27)** I've logged in and I've authenticated, so that's why my profile shows up.
 >
@@ -3372,7 +3347,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=67)** It says this is going to be a dataset repository, right?
 >
-> **[1:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=71)** But behind the scenes it is still a Git repo, and you are going to be uploading some files.
+> **[1:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=71)** But behind the scenes it is still a [[Git]] repo, and you are going to be uploading some files.
 >
 > **[1:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=77)** So here, we could say something like this is going to be temporary, so I'm going to say temporary-dataset and the license.
 >
@@ -3466,7 +3441,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=316)** So, I'm going to say temporary-dataset, and I'm going to run this.
 >
-> **[5:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=320)** And this is going to fetch.
+> **[5:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=320)** And this is going to [[Fetch]].
 >
 > **[5:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=322)** It's going to fetch that. It's going to cache it.
 >
@@ -3482,7 +3457,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=340)** And the first thing will show it's a test.
 >
-> **[5:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=343)** So we can actually get that test, is this is a dictionary behind the scenes and we can say as_pandas, and I think this should work and this should return a pandas, oh.
+> **[5:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=343)** So we can actually get that test, is this is a dictionary behind the scenes and we can say as_pandas, and I think this should work and this should return a [[Pandas (Software)|pandas]], oh.
 >
 > **[6:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=360)** So, it is not.
 >
@@ -3498,11 +3473,11 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=384)** That is how you add very quickly a CSV.
 >
-> **[6:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=388)** Now, I show you one way, which is through the UI, and you can do this with different other ways, including using the GitHub repository or even using the CLI.
+> **[6:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/adding-datasets?u=76281980&t=388)** Now, I show you one way, which is through the UI, and you can do this with different other ways, including using the [[GitHub]] repository or even using the [[CLI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Git]] (2), api (2), data (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Git]] (2), [[Fetch]] (2), [[Pandas (Software)|Pandas]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (4), git (2), apache (1), curl (1)
 > **Env Vars:** csv (4), api (2), readme (1), cli (1)
 > **Code Identifiers:** as_pandas (2), test_dataset (2), load_dataset (1), to_pandas (1)
@@ -3511,14 +3486,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **File Paths:** test.csv (2)
 
-#### Using datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980)
+#### [Using datasets](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=0)** - [Instructor] We've seen how to add a CSV file directly into Hugging Face, and then start serving that with the datasets' repository and access it either with the UI, so through here, or using the datasets Hugging Face library.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=0)** - [Instructor] We've seen how to add a CSV file directly into [[Hugging Face]], and then start serving that with the datasets' repository and access it either with the UI, so through here, or using the datasets Hugging Face library.
 >
-> **[0:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=17)** So one thing that you could do that is slightly different, I'm going to show you things that you can actually implement, is to add a custom files, these are optional, for CSV, tab separator values, and I think even JSON, you can add them directly into the UI.
+> **[0:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=17)** So one thing that you could do that is slightly different, I'm going to show you things that you can actually implement, is to add a custom files, these are optional, for CSV, tab separator values, and I think even [[JSON]], you can add them directly into the UI.
 >
 > **[0:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=35)** But I'll show you a couple things that are extra that you can do here.
 >
@@ -3560,7 +3534,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=143)** Again, this is the LFS.
 >
-> **[2:25](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=145)** If you do it on the command line tool, that's git lfs install, and that will install some pre hooks, pre commit hooks, and pre push hooks that will enable that LFS.
+> **[2:25](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=145)** If you do it on the command line tool, that's [[Git]] lfs install, and that will install some pre hooks, pre commit hooks, and pre push hooks that will enable that LFS.
 >
 > **[2:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=154)** It'll actually work.
 >
@@ -3642,9 +3616,9 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=357)** But if we take a look at blimp.py, which is the loader, let's take a look at what the URLs are.
 >
-> **[6:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=365)** So you can see that the download URL will be on GitHub.
+> **[6:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=365)** So you can see that the download URL will be on [[GitHub]].
 >
-> **[6:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=370)** So this loader will know how these URLs are going to go through and fetch that data and provide it through Hugging Face, which is a pretty nifty way of serving things.
+> **[6:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=370)** So this loader will know how these URLs are going to go through and [[Fetch]] that data and provide it through Hugging Face, which is a pretty nifty way of serving things.
 >
 > **[6:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=381)** And you can see here that the features, these are the actual column names.
 >
@@ -3716,7 +3690,7 @@ created: 2026-05-02
 >
 > **[9:30](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=570)** So test dataset, well, we're getting the auto complete, like the nifty auto complete over there.
 >
-> **[9:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=578)** And we could say test_dataset.to_pandas, to a Pandas DataFrame, we're going to call that.
+> **[9:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=578)** And we could say test_dataset.to_pandas, to a [[Pandas (Software)|Pandas]] DataFrame, we're going to call that.
 >
 > **[9:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-datasets?u=76281980&t=588)** And we're going to assign this to the DF variable.
 >
@@ -3740,7 +3714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), data (5), [[Git]] (2), [[JSON]] (1), api (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Git]] (2), [[JSON]] (1), [[GitHub]] (1), [[Fetch]] (1)
 > **Env Vars:** csv (5), lfs (4), json (1), api (1), url (1)
 > **Code Identifiers:** wine_ratings (4), downloaded_file (1), downloaded_urls (1), dataset_info (1), test_dataset (1)
 > **Tools:** command line (2), jupyter (2), terminal (1), github (1)
@@ -3749,12 +3723,11 @@ created: 2026-05-02
 > **File Paths:** wine_ratings.py (2), validation.csv (1), blimp.py (1)
 > **Exercise Files:** download the (2), template (1), clone the repo (1)
 
-#### Working with datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980)
+#### [Working with datasets](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=8)** - [Instructor] Here we're in the Hugging Face interface, and I'm going to talk a little bit about datasets here.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=8)** - [Instructor] Here we're in the [[Hugging Face]] interface, and I'm going to talk a little bit about datasets here.
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=14)** Now, datasets are one of the raw materials for working with the Hugging Face hub.
 >
@@ -3834,7 +3807,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=286)** In this case, I can print out this particular record so let's go ahead and do that.
 >
-> **[4:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=290)** We'll just go ahead and say, "python hugging-face/download_data.py" and notice that it is able to go to Hugging Face, grab this data set, and in fact, pull this one record directly out of here and it has all of the information about this particular player, right?
+> **[4:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=290)** We'll just go ahead and say, "[[Python (Programming Language)|python]] hugging-face/download_data.py" and notice that it is able to go to Hugging Face, grab this data set, and in fact, pull this one record directly out of here and it has all of the information about this particular player, right?
 >
 > **[5:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-datasets?u=76281980&t=312)** And if I wanted to change it or build it into a command line tool or whatever it is I need it to do, it would be pretty straightforward to actually do more to it.
 >
@@ -3858,7 +3831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Hugging Face]] (4), api (2), next (2), power (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (10)
 > **CLI Commands:** curl (3), make (1), find (1), python (1)
 > **Analogies:** for example (4)
@@ -3872,12 +3845,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hugging Face and FastAPI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980)
+#### [Hugging Face and FastAPI](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=0)** - [Instructor] Let's take a look at huggingface working with FastAPI, which is a web framework from Python that allows you to expose an API, and in this case it's going to be, of course, a machine learning API.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=0)** - [Instructor] Let's take a look at [[Hugging Face|huggingface]] working with FastAPI, which is a web framework from [[Python (Programming Language)|Python]] that allows you to expose an API, and in this case it's going to be, of course, a machine learning API.
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=13)** So we have a couple of files here in a couple of directories.
 >
@@ -3895,7 +3867,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=62)** That is going to be fine.
 >
-> **[1:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=64)** Then from FastAPI, we're going to import the FastAPI to create our application, and then we're going to import HTML response because we are going to be using a little bit of HTML.
+> **[1:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=64)** Then from FastAPI, we're going to import the FastAPI to create our application, and then we're going to import [[HTML]] response because we are going to be using a little bit of HTML.
 >
 > **[1:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=77)** And finally we're going to do a little bit of typing.
 >
@@ -3915,7 +3887,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=108)** So once we do that GPT2 generation, we're going to instantiate and I'm going to, I'm actually going from top to bottom, so I'm going to instantiate here the FastAPI, similar to Flask, if you're familiar with Flask.
 >
-> **[2:02](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=122)** We're going to create this class so that we can define exactly what our inputs are for this HTTP API and that's going to be that the JSON body with a key of text and the value is going to be string.
+> **[2:02](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=122)** We're going to create this class so that we can define exactly what our inputs are for this HTTP API and that's going to be that the [[JSON]] body with a key of text and the value is going to be string.
 >
 > **[2:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=139)** So that's how we define our schema that is going to be accepting for JSON body that our endpoint is going to be accepting.
 >
@@ -3931,7 +3903,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=209)** I'm going to go very quickly through the requirements, which is the last thing I want to show you so that you can take a look at how this is going to work.
 >
-> **[3:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=219)** So a couple of the things that we're going to use, well, we're going to use Transformers, we're going to use TensorFlow for, because Transformers will need either PyTorch or TensorFlow installed for this to work.
+> **[3:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=219)** So a couple of the things that we're going to use, well, we're going to use Transformers, we're going to use [[TensorFlow]] for, because Transformers will need either [[PyTorch]] or TensorFlow installed for this to work.
 >
 > **[3:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980&t=230)** Then we're going to be using FastAPI with that version.
 >
@@ -3941,7 +3913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (4), api (4), [[HTML]] (4), web (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (4), [[HTML]] (4), [[JSON]] (2), [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (4), html (4), gpt2 (2), json (2), http (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3950,12 +3922,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containerizing Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980)
+#### [Containerizing Hugging Face](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=0)** - [Instructor] Now that we have seen a quick overview of this huggingface-ghcr, and we'll see later why that is important.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=0)** - [Instructor] Now that we have seen a quick overview of this [[Hugging Face|huggingface]]-ghcr, and we'll see later why that is important.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=11)** Now that we've seen a little bit of the kind of, like, how huggingface would work with FastAPI, let's look at how we would containerize huggingface.
 >
@@ -3973,7 +3944,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=72)** We're going to start from the top.
 >
-> **[1:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=73)** We're going to use the Python 3.8.
+> **[1:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=73)** We're going to use the [[Python (Programming Language)|Python]] 3.8.
 >
 > **[1:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=75)** And why Python 3.8?
 >
@@ -3993,7 +3964,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=147)** And I'm going to click here and then go to requirements and see why that is important.
 >
-> **[2:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=152)** Well, the important thing is that TensorFlow has some issues with other Python versions that are not Python 3.8.
+> **[2:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=152)** Well, the important thing is that [[TensorFlow]] has some issues with other Python versions that are not Python 3.8.
 >
 > **[2:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/containerizing-hugging-face?u=76281980&t=159)** So I'm going for what I know works, and this is something that you as an engineer, either a data engineer or ML ops engineer or even a machine learning engineer that is dealing with dependencies have to go through, find what works and find how you can make sure that whatever you are packaging, like in this case I am, that is going to work very well.
 >
@@ -4007,7 +3978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Hugging Face|Huggingface]] (4), web application (3), next (3), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Hugging Face|Huggingface]] (4), [[TensorFlow]] (1)
 > **CLI Commands:** python (6), docker (5), find (2), make (1)
 > **Versions:** python 3 (4)
 > **Prerequisites:** install (1), configure (1)
@@ -4016,12 +3987,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **UI Navigation:** go to (1)
 
-#### Running FastAPI with Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980)
+#### [Running FastAPI with Hugging Face](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=0)** - [Instructor] Now that we've seen the components of containerizing Hugging Face application using FastAPI, we need to actually go ahead and build that container.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=0)** - [Instructor] Now that we've seen the components of containerizing [[Hugging Face]] application using FastAPI, we need to actually go ahead and build that container.
 >
 > **[0:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=10)** The first thing that I want to do before I build a container, I want to show you how, let's open up the Dockerfile again and close this.
 >
@@ -4069,7 +4039,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=128)** So let's go ahead and change directories into webapp.
 >
-> **[2:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=132)** And now we're going to do uvicorn --host 0.0.0.0, which means bind to anything, and then I'm going to say main:app, which is the Python module is main and app is the application for uvicorn.
+> **[2:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=132)** And now we're going to do uvicorn --host 0.0.0.0, which means bind to anything, and then I'm going to say main:app, which is the [[Python (Programming Language)|Python]] module is main and app is the application for uvicorn.
 >
 > **[2:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=147)** So I'm going to run this.
 >
@@ -4111,7 +4081,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=243)** So to build this container, I'm going to say docker build, and I'm going to say, I have to tag it.
 >
-> **[4:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=250)** So in this case, I'm going to say huggingface, and that's the container name.
+> **[4:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=250)** So in this case, I'm going to say [[Hugging Face|huggingface]], and that's the container name.
 >
 > **[4:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=256)** And then I'm going to use a label saying local.
 >
@@ -4171,11 +4141,11 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=388)** I'm going to say /docs, I'm going to run the local OpenAPI, and I'm going to try to test it out with something else that is not a string.
 >
-> **[6:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=399)** So we can say, for example, what's the definition of MLOps is, and then we're going to say, I want to see if that actually works and generates something interesting.
+> **[6:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=399)** So we can say, for example, what's the definition of [[MLOps]] is, and then we're going to say, I want to see if that actually works and generates something interesting.
 >
 > **[6:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=416)** These will take a couple of seconds on my system, and we'll just wait it out until it completes.
 >
-> **[7:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=420)** All right, so that completed and we get our curl output there, and we are going to get, "The definition of MLOps is the implementation of a simple, flexible, and portable tool to manage files of a kind known as microservices."
+> **[7:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=420)** All right, so that completed and we get our curl output there, and we are going to get, "The definition of MLOps is the implementation of a simple, flexible, and portable tool to manage files of a kind known as [[Microservices]]."
 >
 > **[7:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/running-fastapi-with-hugging-face?u=76281980&t=433)** Well, not quite what I was looking for here, but we verified that this works both running locally and running in a container.
 >
@@ -4183,7 +4153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Hugging Face]] (3), api (2), [[Hugging Face|Huggingface]] (2), [[MLOps]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Hugging Face|Huggingface]] (2), [[MLOps]] (2), [[Python (Programming Language)|Python]] (1), [[Microservices]] (1)
 > **CLI Commands:** make (10), docker (8), python3 (1), pip (1), python (1)
 > **Ports:** port 8000 (5)
 > **Env Vars:** api (2), gpt2 (1)
@@ -4192,18 +4162,17 @@ created: 2026-05-02
 > **Versions:** 0.0.0 (1)
 > **Cross-References:** go back to (1)
 
-#### CI/CD packaging with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980)
+#### [CI/CD packaging with GitHub Actions](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=0)** - [Instructor] Let's go back to our huggingface repository.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=0)** - [Instructor] Let's go back to our [[Hugging Face|huggingface]] repository.
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=3)** We've already seen the containerization, how it works and FastAPI, and how all of these can be created, creating a build image.
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=13)** But assuming some of the YAML ops, some of the machine learning operations workflows that you'll be doing, one of the things that you want to keep in mind is that you need to automate.
 >
-> **[0:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=23)** So if you had to publish these containers somehow, let's see if you open the Dockerfile and you go through, you go through all of these steps and then you build this container and then you push it to a registry, could be the Docker Hub, could be some other registry like a private registry, Azure has its own container registry, Amazon as well, AWS, all of them have their own different destinations.
+> **[0:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=23)** So if you had to publish these containers somehow, let's see if you open the Dockerfile and you go through, you go through all of these steps and then you build this container and then you push it to a registry, could be the Docker Hub, could be some other registry like a private registry, [[Microsoft Azure|Azure]] has its own container registry, Amazon as well, AWS, all of them have their own different destinations.
 >
 > **[0:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=49)** If you had to do this manually, there's a few steps involved, right?
 >
@@ -4211,7 +4180,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=63)** Automation is the foundational process where you'll have everything go or, as much as possible, go in one click.
 >
-> **[1:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=72)** So I'm going to show you one way that we can accomplish this by using GitHub Actions.
+> **[1:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=72)** So I'm going to show you one way that we can accomplish this by using [[GitHub]] Actions.
 >
 > **[1:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=78)** Actions are possible to do right here.
 >
@@ -4281,7 +4250,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=256)** Next, well, you have to define jobs and then build, and where is it going to run?
 >
-> **[4:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=261)** Well, this is going to run in ubuntu-latest. That's fine.
+> **[4:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=261)** Well, this is going to run in [[Ubuntu]]-latest. That's fine.
 >
 > **[4:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/ci-cd-packaging-with-github-actions?u=76281980&t=264)** And then what are the steps?
 >
@@ -4369,7 +4338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[Automation]] (3), next (3), [[Microsoft Azure|Azure]] (2), ci (2)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Microsoft Azure|Azure]] (2), [[Hugging Face|Huggingface]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** docker (8), make (4), aws (1)
 > **Tools:** github (8)
 > **UI Navigation:** click on (2), go to (2), open the (1)
@@ -4383,14 +4352,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hugging Face and Azure ML Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980)
+#### [Hugging Face and Azure ML Studio](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=0)** - [Instructor] I'm going to be doing a quick overview of what Azure Machine Learning Studio is.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=0)** - [Instructor] I'm going to be doing a quick overview of what [[Microsoft Azure|Azure]] Machine Learning Studio is.
 >
-> **[0:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=5)** I'm here in the portal from Microsoft Azure, and I'm going to create or go to the Azure Machine Learning or Azure Machine Learning Studio section here and I'm going to create a new workspace.
+> **[0:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=5)** I'm here in the portal from [[Microsoft Azure]], and I'm going to create or go to the Azure Machine Learning or Azure Machine Learning Studio section here and I'm going to create a new workspace.
 >
 > **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=20)** And these are the steps that you would have to follow if you want to get a little bit involved with this service.
 >
@@ -4422,7 +4390,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=81)** And we are going to see a couple of interesting things regarding a couple of the different things that we are going to be doing with Hugging Faces specifically.
 >
-> **[1:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=94)** We are going to be registering a Hugging Face data set.
+> **[1:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=94)** We are going to be registering a [[Hugging Face]] data set.
 >
 > **[1:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=98)** Next, we're going to register a Hugging Face model and finally, we'll do some inspection.
 >
@@ -4462,7 +4430,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=198)** You can even play around with Azure open data sets and even from web files.
 >
-> **[3:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=202)** From web files, it means that you would only need to paste a web URL and do some data validation.
+> **[3:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=202)** From web files, it means that you would only need to paste a web URL and do some [[Data Validation]].
 >
 > **[3:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980&t=208)** So I'm not going to go through that because we're going to do that later when we start registering a data set with or going through the actual steps of doing that with Hugging Face, but we're actually just reviewing how these set will work.
 >
@@ -4488,19 +4456,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Azure|Azure]] (8), [[Hugging Face]] (4), next (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Hugging Face]] (4), [[Microsoft Azure]] (1), [[Data Validation]] (1)
 > **UI Navigation:** go to (5), select the (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** url (1), sdk (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Registering a Hugging Face dataset on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980)
+#### [Registering a Hugging Face dataset on Azure](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=0)** - [Instructor] Now, let's see how we can download a dataset from Hugging Face.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=0)** - [Instructor] Now, let's see how we can download a dataset from [[Hugging Face]].
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=4)** For this operation, we're going to be using the data sets, or the dataset library from Hugging Face.
 >
@@ -4516,7 +4483,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=40)** I already done that, so I'm going to copy that, and I'm going to use a Jupyter notebook so that I can load that and make that work.
 >
-> **[0:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=50)** So, I'm going to head over to Azure studio code and I already have data sets.
+> **[0:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=50)** So, I'm going to head over to [[Microsoft Azure|Azure]] studio code and I already have data sets.
 >
 > **[0:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=55)** I made sure that that's working.
 >
@@ -4546,7 +4513,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=128)** So I am going to, I'm going to, there's a lot of information here.
 >
-> **[2:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=135)** I want to make it go to pandas.
+> **[2:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=135)** I want to make it go to [[Pandas (Software)|pandas]].
 >
 > **[2:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=137)** So, I'm going to say df, which is stands for data frame.
 >
@@ -4668,11 +4635,11 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=388)** That means that every single change, every time I'm pushing a new version to this data set will get this uploaded.
 >
-> **[6:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=396)** And this is more meaningful if you're doing this programmatically with say for example the Azure CLI or using some of the APIs where you might be doing this programmatically and changing this.
+> **[6:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=396)** And this is more meaningful if you're doing this programmatically with say for example the Azure [[CLI]] or using some of the APIs where you might be doing this programmatically and changing this.
 >
 > **[6:48](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=408)** But I wanted to show you using the UI so that you can get like a more, more paused, a more easy way of understanding what are some of the things that you will be seeing instead of me running several commands and making something happen.
 >
-> **[7:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=425)** But this is programmatically accessible through the Python API as well as other, other SDKs, other languages that are supported.
+> **[7:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=425)** But this is programmatically accessible through the [[Python (Programming Language)|Python]] API as well as other, other SDKs, other languages that are supported.
 >
 > **[7:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-dataset-on-azure?u=76281980&t=436)** So, you could say for if I have a hundred versions here, you could say, you know, I want version 10, not version 100.
 >
@@ -4684,7 +4651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (7), next (6), [[Hugging Face]] (4), [[Pandas (Software)|Pandas]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Hugging Face]] (4), [[Pandas (Software)|Pandas]] (4), [[CLI]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), pip (2), python (1)
 > **Env Vars:** pip (2), utf (1), cli (1), api (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
@@ -4693,12 +4660,11 @@ created: 2026-05-02
 > **Versions:** version 10 (1), version 100 (1)
 > **Tools:** jupyter (1)
 
-#### Registering a Hugging Face model on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980)
+#### [Registering a Hugging Face model on Azure](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=0)** - [Instructor] I have the GPT-2 model here loaded on the Hugging Face web UI.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=0)** - [Instructor] I have the GPT-2 model here loaded on the [[Hugging Face]] web UI.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=6)** And what I'm going to be doing is looking at how to use it in Transformers.
 >
@@ -4708,7 +4674,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=22)** I'm not going to clone it.
 >
-> **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=24)** Although for effects of what we're going to try to do right now, which is downloading first and then pushing it over to Azure Machinery Studio, what we're going to be doing is not, I mean you can absolutely a hundred percent do a Git clone of GPT-2 and then upload whatever files you want.
+> **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=24)** Although for effects of what we're going to try to do right now, which is downloading first and then pushing it over to [[Microsoft Azure|Azure]] Machinery Studio, what we're going to be doing is not, I mean you can absolutely a hundred percent do a [[Git]] clone of GPT-2 and then upload whatever files you want.
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=43)** But we're not going to do that.
 >
@@ -4718,7 +4684,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=50)** I'm going to copy these and I actually have it already good to go.
 >
-> **[0:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=54)** And I've pre-installed a PyTorch and Transformers already for this to work.
+> **[0:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=54)** And I've pre-installed a [[PyTorch]] and Transformers already for this to work.
 >
 > **[1:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=60)** So I'm going to open Visual Studio Code and you can see here I've already pasted that over here.
 >
@@ -4738,7 +4704,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=104)** Let's run it and find out.
 >
-> **[1:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=106)** I'm going to run this, take a a few seconds and now I have a GPT-2 directory and inside of there I have this config.json which essentially tells me lots of metadata for the model that I just downloaded.
+> **[1:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=106)** I'm going to run this, take a a few seconds and now I have a GPT-2 directory and inside of there I have this config.[[JSON]] which essentially tells me lots of [[Metadata]] for the model that I just downloaded.
 >
 > **[2:04](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=124)** And I have this PyTorch model bin.
 >
@@ -4752,7 +4718,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=158)** So the model is the one that will allow us to register a model.
 >
-> **[2:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=163)** So again, you can do this programmatically with the SDK with Python, you can, I believe maybe the Azure CLI, for sure the SDK.
+> **[2:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=163)** So again, you can do this programmatically with the SDK with [[Python (Programming Language)|Python]], you can, I believe maybe the Azure [[CLI]], for sure the SDK.
 >
 > **[2:52](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/registering-a-hugging-face-model-on-azure?u=76281980&t=172)** So if you're doing this programmatically with Python in a automated way, you can definitely do this.
 >
@@ -4816,7 +4782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[PyTorch]] (4), [[Hugging Face]] (3), [[Metadata]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[PyTorch]] (4), [[Hugging Face]] (3), [[Metadata]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** gpt (7), sdk (2), api (1), cli (1), csv (1)
 > **CLI Commands:** find (2), python (2), git (1)
 > **Versions:** 3.8 (1), 486.75 (1)
@@ -4825,14 +4791,13 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **UI Navigation:** select the (1)
 
-#### Inspecting a Hugging Face dataset on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980)
+#### [Inspecting a Hugging Face dataset on Azure](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=0)** - [Instructor] Back on the Azure Machine Learning Studio interface we remember we already have our dataset, our wine dataset, and we want to do some exploratory analysis.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=0)** - [Instructor] Back on the [[Microsoft Azure|Azure]] Machine Learning Studio interface we remember we already have our dataset, our wine dataset, and we want to do some exploratory analysis.
 >
-> **[0:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=12)** So if we go to explore up here, this is going to generate a little bit of data, but like nothing really like, this is kind of like a working a little bit with pandas and you're showing kind of like the head and it is giving you a little bit of like a preview.
+> **[0:12](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=12)** So if we go to explore up here, this is going to generate a little bit of data, but like nothing really like, this is kind of like a working a little bit with [[Pandas (Software)|pandas]] and you're showing kind of like the head and it is giving you a little bit of like a preview.
 >
 > **[0:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=34)** But the other thing that you can do is like, if you go and click profile, and for what we're trying to do here, I'm going to make this a little bit smaller so you can have a bigger picture.
 >
@@ -4852,9 +4817,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=112)** One thing that I wanted to show you is this way of consuming.
 >
-> **[1:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=116)** So now these would be slightly different than doing it with Hugging Face.
+> **[1:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=116)** So now these would be slightly different than doing it with [[Hugging Face]].
 >
-> **[2:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=125)** You essentially come here and that's the Python SDK.
+> **[2:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=125)** You essentially come here and that's the [[Python (Programming Language)|Python]] SDK.
 >
 > **[2:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/inspecting-a-hugging-face-dataset-on-azure?u=76281980&t=128)** So there you go, some details.
 >
@@ -4870,21 +4835,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Hugging Face]] (2), [[Microsoft Azure|Azure]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Microsoft Azure|Azure]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** sdk (2)
 > **Analogies:** kind of like (1), picture (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure ML Python SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980)
+#### [Azure ML Python SDK](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=0)** - [Instructor] We've gone through a couple of the things that you can do with Hugging Face models and data sets and uploading those to Azure.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=0)** - [Instructor] We've gone through a couple of the things that you can do with [[Hugging Face]] models and data sets and uploading those to [[Microsoft Azure|Azure]].
 >
-> **[0:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=9)** But I wanted to take a moment to describe a little bit of the Azure Machine Learning Python SDK.
+> **[0:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=9)** But I wanted to take a moment to describe a little bit of the Azure Machine Learning [[Python (Programming Language)|Python]] SDK.
 >
 > **[0:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=16)** It is a great way to programmatically interact with what we've already seen within the portal and Azure Machine Learning Studio.
 >
@@ -4908,7 +4872,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=89)** So let's just start with the model and how is it that you can actually go and register?
 >
-> **[1:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=96)** I'm going to go a little bit towards here, and this is pretty powerful right here because once you have your model, and you can see here that you can name it, you know what the model is, kind of like the forms that we've already filled out when we were creating that.
+> **[1:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=96)** I'm going to go a little bit towards here, and this is pretty powerful right here because once you have your model, and you can see here that you can name it, you know what the model is, kind of like the [[Forms]] that we've already filled out when we were creating that.
 >
 > **[1:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=117)** Now that's, I think that's very powerful.
 >
@@ -4964,7 +4928,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=259)** And then you define that this is delimited files.
 >
-> **[4:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=263)** In this case, a dataset already exists in Azure, and you're able to use that, and it has the ability to send those to Pandas dataframe, which is pretty useful.
+> **[4:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=263)** In this case, a dataset already exists in Azure, and you're able to use that, and it has the ability to send those to [[Pandas (Software)|Pandas]] dataframe, which is pretty useful.
 >
 > **[4:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/azureml-python-sdk?u=76281980&t=278)** And you have the ability to inject or retrieve those data sets from also URL paths.
 >
@@ -4980,7 +4944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), cloud (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (3), [[Forms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sdk (4), url (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **CLI Commands:** python (3)
@@ -4994,14 +4958,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using GitHub Actions for model deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980)
+#### [Using GitHub Actions for model deployments](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=0)** - Let's go through some of the things that you'll have to know and understand in order to be able to use GitHub actions for model deployments and specifically Huggingface.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=0)** - Let's go through some of the things that you'll have to know and understand in order to be able to use [[GitHub]] actions for model deployments and specifically [[Hugging Face|Huggingface]].
 >
-> **[0:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=11)** So we're going to take a look and we're going to be working with this repository called "Huggingface Deploy Azure."
+> **[0:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=11)** So we're going to take a look and we're going to be working with this repository called "Huggingface Deploy [[Microsoft Azure|Azure]]."
 >
 > **[0:18](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=18)** And what we're going to be doing here is go through some of the details that are required and then we'll take several different approaches to actually deploy.
 >
@@ -5011,7 +4974,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=49)** Let's take a look, a quick look at the, the dependencies and then the docker file and then we'll go through some of the more interesting parts on the GitHub action side of things.
 >
-> **[0:59](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=59)** So Transformers, let's see TensorFlow FastAPI and Uvicorn so that we are able to run these.
+> **[0:59](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=59)** So Transformers, let's see [[TensorFlow]] FastAPI and Uvicorn so that we are able to run these.
 >
 > **[1:07](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=67)** So that's, those are the requirements.
 >
@@ -5079,7 +5042,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=259)** And finally we're going to deploy to a container app.
 >
-> **[4:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=263)** We're going to use the Azure CLI action and we're going to use this snippet here, this inline script that is going to allow us to do that.
+> **[4:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=263)** We're going to use the Azure [[CLI]] action and we're going to use this snippet here, this inline script that is going to allow us to do that.
 >
 > **[4:33](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980&t=273)** In this case it is authenticating to the, to ghcr.
 >
@@ -5109,7 +5072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), [[Microsoft Azure|Azure]] (9), [[Hugging Face|Huggingface]] (2), web application (2), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Microsoft Azure|Azure]] (9), [[Hugging Face|Huggingface]] (2), [[TensorFlow]] (1), [[CLI]] (1)
 > **CLI Commands:** docker (8), make (4)
 > **Tools:** github (10)
 > **Definitions:** is a  (4), is called (1), means that (1)
@@ -5118,12 +5081,11 @@ created: 2026-05-02
 > **File Paths:** main.yml (1)
 > **Code Identifiers:** workflow_dispatch (1)
 
-#### Using Azure Container Registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-azure-container-registry?u=76281980)
+#### [Using Azure Container Registry](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-azure-container-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-azure-container-registry?u=76281980&t=0)** - [Instructor] One of the different destinations that we're going to cover is using Azure Container Registry.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-azure-container-registry?u=76281980&t=0)** - [Instructor] One of the different destinations that we're going to cover is using [[Microsoft Azure|Azure]] Container Registry.
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-azure-container-registry?u=76281980&t=5)** So in order to create an Azure container Registry, well, what we need to do is go through the portal in Azure, make sure you're authenticated, and then take a look at the registry.
 >
@@ -5197,16 +5159,15 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating packaging with Azure Container Registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980)
+#### [Automating packaging with Azure Container Registry](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=0)** - [Instructor] Let's automate the packaging with the Azure Container Registry that we were able to create before.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=0)** - [Instructor] Let's automate the packaging with the [[Microsoft Azure|Azure]] Container Registry that we were able to create before.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=9)** In order to automate that, let's take a look again at the workflow file here, which is this YAML file, and we'll need to make some changes to these defaults that I already have.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=20)** So you can see here that I have this login to GitHub Container Registry.
+> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=20)** So you can see here that I have this login to [[GitHub]] Container Registry.
 >
 > **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=24)** I am going to be using the Azure Container Registry.
 >
@@ -5390,7 +5351,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=389)** Let's take a look at some of the things that we have here.
 >
-> **[6:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=391)** We have repositories and we have the alfredodeza/huggingface azure acr that actually came from using that automation.
+> **[6:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=391)** We have repositories and we have the alfredodeza/[[Hugging Face|huggingface]] azure acr that actually came from using that automation.
 >
 > **[6:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-with-azure-container-registry?u=76281980&t=399)** We can have here, we can see the tags last modified like, well just a few minutes ago.
 >
@@ -5404,7 +5365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[GitHub]] (5), next (2), [[Automation]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[GitHub]] (5), [[Hugging Face|Huggingface]] (1)
 > **Env Vars:** acr (8), yaml (1), yam (1), sha (1)
 > **CLI Commands:** make (4), docker (3)
 > **UI Navigation:** go to (5), open the (1)
@@ -5413,12 +5374,11 @@ created: 2026-05-02
 > **Definitions:** means that (2)
 > **File Paths:** main.yaml (1)
 
-#### Automating packaging Docker Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980)
+#### [Automating packaging Docker Hub](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=0)** - [Instructor] Let's take a look at how we can package our machine learning model with GitHub Actions and push it to Docker Hub.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=0)** - [Instructor] Let's take a look at how we can package our machine learning model with [[GitHub]] Actions and push it to Docker Hub.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=9)** So I have my repository here, and in here, we're going to take a look at the workflows that are going to be configured for what we want to try to do.
 >
@@ -5454,7 +5414,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=115)** So I'll set the context, I'll say that the Docker file is the one at the root level, and "push: true" means that yes, in fact don't only build it but also push it once you are done.
 >
-> **[2:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=128)** And the tag is going to be huggingface-fastapi: latest.
+> **[2:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=128)** And the tag is going to be [[Hugging Face|huggingface]]-fastapi: latest.
 >
 > **[2:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=134)** Great.
 >
@@ -5468,7 +5428,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=151)** This is what you would get if you go to hub.[docker.com](https://docker.com), then you would go and sign in as I was doing before and you would be able to see all of your repositories again.
 >
-> **[2:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=164)** Alright, so how do you get those tokens?
+> **[2:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=164)** Alright, so how do you get those [[Tokens]]?
 >
 > **[2:47](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=167)** You will go to settings, Account Settings right here.
 >
@@ -5526,11 +5486,11 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=337)** So once the run completes, I'll get an updated version here.
 >
-> **[5:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=343)** So that is very quickly how we can set up and push to Docker Hub if you have an account, and do it with your Hugging Face models.
+> **[5:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/automating-packaging-dockerhub?u=76281980&t=343)** So that is very quickly how we can set up and push to Docker Hub if you have an account, and do it with your [[Hugging Face]] models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[Hugging Face|Huggingface]] (2), [[Tokens]] (2), [[Security]] (1), ci (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Hugging Face|Huggingface]] (2), [[Tokens]] (2), [[Hugging Face]] (1)
 > **CLI Commands:** docker (13), make (3)
 > **UI Navigation:** go to (8), click on (6), scroll down (1)
 > **Tools:** github (8)
@@ -5544,18 +5504,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an Azure container application
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980)
+#### [Create an Azure container application](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=0)** - [Instructor] Now, what are Azure Container Apps?
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=0)** - [Instructor] Now, what are [[Microsoft Azure|Azure]] Container Apps?
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=3)** It's the ability to have serverless infrastructure for your deployments.
 >
 > **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=8)** It allows you to deploy an actual container and not think about anything else.
 >
-> **[0:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=14)** And this is a very powerful way to deploy Hugging Face models, and in fact actually, pretty much anything machine learning models wise.
+> **[0:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=14)** And this is a very powerful way to deploy [[Hugging Face]] models, and in fact actually, pretty much anything machine learning models wise.
 >
 > **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980&t=24)** And you will see that you have instance scale and the ability to select different things when you're creating one.
 >
@@ -5655,7 +5614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Hugging Face]] (3), application (3), [[Automation]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Hugging Face]] (3)
 > **CLI Commands:** make (3), docker (1)
 > **Ports:** port 8 (3)
 > **Env Vars:** url (1), http (1)
@@ -5664,8 +5623,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Prerequisites:** set up (1)
 
-#### Configure an Azure container application
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980)
+#### [Configure an Azure container application](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5675,7 +5633,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=24)** You can also say, limited to container apps environments.
 >
-> **[0:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=27)** So anything behind the firewall on Azure.
+> **[0:27](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=27)** So anything behind the firewall on [[Microsoft Azure|Azure]].
 >
 > **[0:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=32)** Ingress type http is fine for now.
 >
@@ -5703,7 +5661,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=121)** That is tiny, that is barely, barely enough to get this container up and running.
 >
-> **[2:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=126)** We will need to make some changes here so that when we're deploying Hugging Face and the fast API application, we will be able to make changes here and actually be able to load.
+> **[2:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=126)** We will need to make some changes here so that when we're deploying [[Hugging Face]] and the fast API application, we will be able to make changes here and actually be able to load.
 >
 > **[2:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=139)** So you have to go through the edit and deploy.
 >
@@ -5749,7 +5707,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=262)** We're not going to set that up right now.
 >
-> **[4:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=266)** Finally, you have continuous deployment which allows you to sign in with GitHub and update GitHub for you so that it sets up the options that you want.
+> **[4:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=266)** Finally, you have continuous deployment which allows you to sign in with [[GitHub]] and update GitHub for you so that it sets up the options that you want.
 >
 > **[4:36](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/configure-azure-container-application?u=76281980&t=276)** So here you can see here the demoalfredo is already setting the registry in the images demo container.
 >
@@ -5759,7 +5717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), application (3), traffic (2), next (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[GitHub]] (2), [[Hugging Face]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** ssl (1), cpu (1), ram (1), api (1)
 > **Ports:** port 8000 (2)
@@ -5768,18 +5726,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Deploy Hugging Face to Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980)
+#### [Deploy Hugging Face to Azure](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=0)** - [Instructor] Now we're ready to deploy our Hugging Face application, our Hugging Face containerized application to Azure.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=0)** - [Instructor] Now we're ready to deploy our [[Hugging Face]] application, our Hugging Face containerized application to [[Microsoft Azure|Azure]].
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=7)** We have several things in place, but there are a couple more things that we're going to need to complete this full automation.
 >
 > **[0:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=16)** I'm going to scroll here down on this repository.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=20)** We're not going to necessarily need a personal access token from GitHub because we are not going to be using GitHub Container Registry.
+> **[0:20](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=20)** We're not going to necessarily need a personal access token from [[GitHub]] because we are not going to be using GitHub Container Registry.
 >
 > **[0:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=29)** This is something that you would use if you were using a container registry on GitHub.
 >
@@ -5797,7 +5754,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=76)** You go on the portal, the Azure subscription ID will be there.
 >
-> **[1:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=79)** So you run that command and you capture that output and it'll be JSON.
+> **[1:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=79)** So you run that command and you capture that output and it'll be [[JSON]].
 >
 > **[1:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=82)** So let's take this step by step.
 >
@@ -5869,7 +5826,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=271)** Actually, let me go and do 175% because I want to cover some of these things that we want to run here.
 >
-> **[4:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=280)** So we're going to use the the Azure CLI action, and that allows us to call some Azure CLI commands using GitHub action.
+> **[4:40](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=280)** So we're going to use the the Azure [[CLI]] action, and that allows us to call some Azure CLI commands using GitHub action.
 >
 > **[4:53](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=293)** So first we're going to say that we are going to install the extensions automatically without a prompt.
 >
@@ -5891,7 +5848,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=355)** And then we're going to do one last update, and I hope you can see that here, which is going to be that we're saying what the image is and what the SHA specifically is.
 >
-> **[6:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=365)** And in this case I'm using demoalfredo.[azurecr.io/alfredodeza](https://azurecr.io/alfredodeza) which, if you remember, that's a registry, that's a repo actually, and the huggingface-azure-acr is the repository that I used to build this.
+> **[6:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=365)** And in this case I'm using demoalfredo.[azurecr.io/alfredodeza](https://azurecr.io/alfredodeza) which, if you remember, that's a registry, that's a repo actually, and the [[Hugging Face|huggingface]]-azure-acr is the repository that I used to build this.
 >
 > **[6:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=382)** And I actually named my container the same.
 >
@@ -5943,7 +5900,7 @@ created: 2026-05-02
 >
 > **[8:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=525)** Now we are seeing all of these funky characters here because that's color coded, but whenever I'm running that container on the command line, it will go ahead and download, remember Hugging Face downloads models dynamically.
 >
-> **[8:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=537)** So this is downloading the model and we're seeing the products here.
+> **[8:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=537)** So this is downloading the model and we're seeing the [[Microsoft Products|products]] here.
 >
 > **[9:01](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploy-hugging-face-to-azure?u=76281980&t=541)** 30%, 40%, 50%, 60%.
 >
@@ -6011,7 +5968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[GitHub]] (10), application (6), [[Hugging Face]] (4), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[GitHub]] (10), [[Hugging Face]] (4), [[JSON]] (2), [[CLI]] (2)
 > **CLI Commands:** make (8), docker (6), find (1), az (1), curl (1)
 > **Env Vars:** sha (4), cli (2), ram (2), pat (1), json (1)
 > **Tools:** github (10), terminal (2), command line (2)
@@ -6020,8 +5977,7 @@ created: 2026-05-02
 > **Code Identifiers:** openapi (2), curl (1)
 > **File Paths:** main.yaml (1), credentials.json (1)
 
-#### Troubleshooting container deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/troubleshooting-container-deployment?u=76281980)
+#### [Troubleshooting container deployment](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/troubleshooting-container-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6045,7 +6001,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/troubleshooting-container-deployment?u=76281980&t=37)** And then commit those changes.
 >
-> **[0:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/troubleshooting-container-deployment?u=76281980&t=38)** And what this is going to do is, as you know, we have automation now. It's going to build this container, push it to the GitHub container Registry, and then it's going to tell Azure that it needs to pull this new container and try to run it up again.
+> **[0:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/troubleshooting-container-deployment?u=76281980&t=38)** And what this is going to do is, as you know, we have automation now. It's going to build this container, push it to the [[GitHub]] container Registry, and then it's going to tell [[Microsoft Azure|Azure]] that it needs to pull this new container and try to run it up again.
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/troubleshooting-container-deployment?u=76281980&t=57)** So let's click on this one.
 >
@@ -6125,7 +6081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Automation]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[GitHub]] (1)
 > **Ports:** port 8000 (3), port 80 (2)
 > **CLI Commands:** make (3), docker (1)
 > **UI Navigation:** click on (3)
@@ -6139,8 +6095,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to fine-tuning theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980)
+#### [Introduction to fine-tuning theory](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6162,7 +6117,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980&t=75)** So, the problem here is that, for many people, many organizations, they don't have the data, really the raw data to begin with, and they also don't have the compute resources to do really this global scale type supervised machine learning.
 >
-> **[1:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980&t=92)** Fortunately, this is where transfer learning comes in, and really this is one of the advantages of the Hugging Face platform is that you can take a news data set, for example, or some dataset that was trained in a particular domain, and you can take the body of that model and you can actually replace the HEAD, in this case, the News Summarization Model HEAD.
+> **[1:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980&t=92)** Fortunately, this is where transfer learning comes in, and really this is one of the advantages of the [[Hugging Face]] platform is that you can take a news data set, for example, or some dataset that was trained in a particular domain, and you can take the body of that model and you can actually replace the HEAD, in this case, the News Summarization Model HEAD.
 >
 > **[1:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980&t=116)** You can fine-tune it with a smaller amount of data and then serve out a prediction.
 >
@@ -6178,21 +6133,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), nlp (2), [[Hugging Face]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (2)
 > **Env Vars:** head (3), nlp (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **API Endpoints:** head  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performing fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980)
+#### [Performing fine-tuning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=8)** - [Instructor] Let's go ahead and take a look at the official Hugging Face documentation here and take a look at this course.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=8)** - [Instructor] Let's go ahead and take a look at the official [[Hugging Face]] documentation here and take a look at this course.
 >
-> **[0:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=13)** You can see there's lots of different useful things in this course, but I want to take a look at the fine tuning section here, fine tuning a pre-trained model, and take a look at how I could actually implement that myself.
+> **[0:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=13)** You can see there's lots of different useful things in this course, but I want to take a look at the [[Fine Tuning]] section here, fine tuning a pre-trained model, and take a look at how I could actually implement that myself.
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=26)** So I'm going to go ahead and select this button here.
 >
@@ -6210,13 +6164,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=68)** Now what's nice about this is if I connect to the runtime, by default it's going to connect to a CPU based runtime here, and we can actually verify that if I say change runtime type.
 >
-> **[1:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=81)** Notice I don't have any hardware acceleration.
+> **[1:21](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=81)** Notice I don't have any [[Hardware]] acceleration.
 >
 > **[1:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=84)** What's nice about this is it allows me to benchmark what would happen if I needed to fine tune a model by training it with a CPU.
 >
 > **[1:33](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=93)** And so we can actually go through here and say runtime run all, and this will actually allow me to go through and kick off an installation first.
 >
-> **[1:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=103)** And we can see that it does take a little bit of time when you're using CoLab to install software because of the fact that it is not preloaded on this machine, unlike your own workspace or something like GitHub code spaces.
+> **[1:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=103)** And we can see that it does take a little bit of time when you're using CoLab to install software because of the fact that it is not preloaded on this machine, unlike your own workspace or something like [[GitHub]] code spaces.
 >
 > **[1:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=117)** Next, if we scroll down here, it's going through and it's running the next section, which is loading this dataset, which could take a little bit of time here.
 >
@@ -6262,7 +6216,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=278)** And then next I can actually go through here and pop this on the screen above and actually run the training job.
 >
-> **[4:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=286)** So let's go ahead and do this, we'll go ahead and say python hugging-face/ft we'll say fine tuning course example.
+> **[4:46](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=286)** So let's go ahead and do this, we'll go ahead and say [[Python (Programming Language)|python]] hugging-face/ft we'll say fine tuning course example.
 >
 > **[4:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/performing-fine-tuning?u=76281980&t=297)** So I'm going to take the example from the official documentation.
 >
@@ -6326,7 +6280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (9), data (7), next (5), [[Hugging Face]] (4), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (9), [[Hugging Face]] (4), [[Hardware]] (2), [[GitHub]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** gpu (7), cpu (4), v100 (1)
 > **Tools:** colab (6), github (2)
 > **Cross-References:** go back to (3)
@@ -6335,12 +6289,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** python (1)
 
-#### Introduction to ONNX and Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980)
+#### [Introduction to ONNX and Hugging Face](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=0)** - [Instructor] Let's go through some of the concepts that you'll need in order to work with Hugging Face and Onnx.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=0)** - [Instructor] Let's go through some of the concepts that you'll need in order to work with [[Hugging Face]] and Onnx.
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=5)** And Onnx specifically, I want to show you the main landing page here, the get started page, because it has a couple of things that are useful to understand before we dive in into the details.
 >
@@ -6348,7 +6301,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=34)** Now the Onnx format will allow you to deploy to different types of architectures and regardless of where that machine learning framework came from.
 >
-> **[0:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=44)** And then finally, you'll have cloud services that work natively with the Onnx former format so that you can interact with it and not specifically be tied to an actual framework.
+> **[0:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=44)** And then finally, you'll have [[Cloud Services]] that work natively with the Onnx former format so that you can interact with it and not specifically be tied to an actual framework.
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=57)** Now, exporting to the Onnx format is specifically what we're going to concentrate on today, and we'll take a quick look at what the Onnx Model Zoo is and we'll work a little bit with, not a specifically a, a reference tutorial, but we'll be using Hugging Face, which is what we've been covering.
 >
@@ -6358,9 +6311,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=88)** Let's take a very quick look at the environment, the YML file and see what are the dependencies you'll be working with.
 >
-> **[1:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=95)** Alright, so primarily the dependencies are Python three eight.
+> **[1:35](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=95)** Alright, so primarily the dependencies are [[Python (Programming Language)|Python]] three eight.
 >
-> **[1:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=99)** I'm going to be installing PyTorch from the PyTorch channel.
+> **[1:39](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=99)** I'm going to be installing [[PyTorch]] from the PyTorch channel.
 >
 > **[1:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=103)** This is a Conda environment file.
 >
@@ -6420,7 +6373,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=296)** Opsets is the type of opset for Onnx And we won't be diving into that.
 >
-> **[5:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=305)** And you can see here, you can export from, from TensorFlow or PyTorch.
+> **[5:05](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=305)** And you can see here, you can export from, from [[TensorFlow]] or PyTorch.
 >
 > **[5:10](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=310)** We're going to be using PyTorch by default and you have a little bit of extra settings here that we're not going to be touching either.
 >
@@ -6456,7 +6409,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=416)** One last thing I want to show you is the model Sue.
 >
-> **[7:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=420)** If you've never heard about a model Sue, it's the [github.com/Onnx/models](https://github.com/Onnx/models).
+> **[7:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=420)** If you've never heard about a model Sue, it's the [[[GitHub]].com/Onnx/models](https://github.com/Onnx/models).
 >
 > **[7:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-onnx-and-hugging-face?u=76281980&t=426)** It's called the Onnx Sue because that is where people tend to store, or the Onnx organization rather tends to store some of the Onnx models.
 >
@@ -6492,7 +6445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (7), [[PyTorch]] (4), [[GitHub]] (4), [[Python (Programming Language)|Python]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (7), [[PyTorch]] (4), [[GitHub]] (4), [[Python (Programming Language)|Python]] (2), [[Cloud Services]] (1)
 > **Code Identifiers:** roberta (8)
 > **Env Vars:** yml (2), gpt (2), bart (1), bert (1), lfs (1)
 > **Prerequisites:** install (4), you'll need (3)
@@ -6501,12 +6454,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Exporting Hugging Face models to ONNX
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980)
+#### [Exporting Hugging Face models to ONNX](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=0)** - [Instructor] Now let's do a little bit of a hands-on experimentation here with Hugging Face in ONNX.
+> **[0:00](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=0)** - [Instructor] Now let's do a little bit of a hands-on experimentation here with [[Hugging Face]] in ONNX.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=6)** And going to look at exporting the exporting Jupyter notebook that I have here already running.
 >
@@ -6542,7 +6494,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=97)** And the way you accomplish that is by again, working with the transformers, that ONNX module as a command line tool.
 >
-> **[1:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=104)** And you can pass in Python -m transformers.onnx.
+> **[1:44](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=104)** And you can pass in [[Python (Programming Language)|Python]] -m transformers.onnx.
 >
 > **[1:47](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/exporting-hugging-face-models-to-onnx?u=76281980&t=107)** Actually, let's just walk through some of these things you will need to know.
 >
@@ -6604,7 +6556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** onnx (9)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Tools:** command line (2), jupyter (1)
@@ -6618,12 +6570,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Hugging Face Spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980)
+#### [Introduction to Hugging Face Spaces](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=8)** - [Instructor] Let's take a look at Hugging Face spaces.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=8)** - [Instructor] Let's take a look at [[Hugging Face]] spaces.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=11)** The idea here is that you can discover amazing machine learning apps made by the community, or what you can do as well is you can create your own new space.
 >
@@ -6631,7 +6582,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=26)** And we can actually look at most likes, for example.
 >
-> **[0:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=29)** We have DALL-E mini, Stable Diffusion.
+> **[0:29](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=29)** We have [[DALL-E]] mini, [[Stable Diffusion]].
 >
 > **[0:31](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=31)** These are all kind of fun things to play around with.
 >
@@ -6653,7 +6604,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=84)** So the other thing we can do besides playing around with models is that we also can go over to the model section itself and even find particular categories.
 >
-> **[1:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=97)** So again, if we go through here and we look at, for example, text, and we look at something like summarization, and we go to one of these summarization models like Google Pegasus.
+> **[1:37](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=97)** So again, if we go through here and we look at, for example, text, and we look at something like summarization, and we go to one of these summarization models like [[Google]] Pegasus.
 >
 > **[1:54](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=114)** What's nice about this is if I scroll down here, we can look inside and see who has actually used this in one of their applications.
 >
@@ -6661,7 +6612,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=129)** So, look, this is pretty easy, right?
 >
-> **[2:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=131)** If I wanted to go through and, for example, take some Python Wikipedia page code and paste it inside of here, we could actually try it out and it would go through here and do our text summarization.
+> **[2:11](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=131)** If I wanted to go through and, for example, take some [[Python (Programming Language)|Python]] Wikipedia page code and paste it inside of here, we could actually try it out and it would go through here and do our text summarization.
 >
 > **[2:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980&t=144)** And again, what's nice about this after it's done, is we could go through to the files and we could take a look at the app and we could actually copy exactly the code inside of here and play around with it.
 >
@@ -6713,7 +6664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Hugging Face]] (4), [[Stable Diffusion]] (2), [[DALL-E]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Stable Diffusion]] (2), [[DALL-E]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
@@ -6721,12 +6672,11 @@ created: 2026-05-02
 > **Env Vars:** dall (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hugging Face Spaces walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980)
+#### [Hugging Face Spaces walkthrough](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=8)** - [Instructor] All right, so you're convinced you love Hugging Face Spaces because again, according to the documentation, it offers a simple way to host ML demo apps directly on your profile, but what if you want to learn a little bit more about it?
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=8)** - [Instructor] All right, so you're convinced you love [[Hugging Face]] Spaces because again, according to the documentation, it offers a simple way to host ML demo apps directly on your profile, but what if you want to learn a little bit more about it?
 >
 > **[0:23](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=23)** Well, I would say, first thing is look at the docs right here.
 >
@@ -6740,7 +6690,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=43)** Which would be pretty neat.
 >
-> **[0:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=45)** And also you could install other packages like, for example, PyTorch, JAX, et cetera.
+> **[0:45](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=45)** And also you could install other packages like, for example, [[PyTorch]], JAX, et cetera.
 >
 > **[0:52](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=52)** The other thing you can do, if we look at the Gradio Spaces here, is it gives you a bunch of documentation about how to actually build your own applications.
 >
@@ -6750,7 +6700,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=73)** So if I go to the documentation here, what I could do is I could just copy this code, but where do I run it?
 >
-> **[1:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=79)** I could run it inside of the Spaces interface, which is not bad, but I also could just run it inside of GitHub Code Spaces, which itself is a great interface for building demos.
+> **[1:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=79)** I could run it inside of the Spaces interface, which is not bad, but I also could just run it inside of [[GitHub]] Code Spaces, which itself is a great interface for building demos.
 >
 > **[1:32](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=92)** So inside of here, I have a Hugging Face directory and I'm going to CD into there and I'm going to call this hotdog.
 >
@@ -6766,7 +6716,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=136)** So let's go ahead and run this.
 >
-> **[2:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=137)** We'll say "python hotdog", and let's go ahead and get this thing launched.
+> **[2:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=137)** We'll say "[[Python (Programming Language)|python]] hotdog", and let's go ahead and get this thing launched.
 >
 > **[2:24](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-spaces-walkthrough?u=76281980&t=144)** So this will take just a second and it will again use our nice GPU interface here to play around with the official documentation and what's great about this is that I can also play around iteratively with this particular application.
 >
@@ -6832,7 +6782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (2), application (2), data (2), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Python (Programming Language)|Python]] (2), [[PyTorch]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (4), python (2), cd (1), find (1)
 > **Env Vars:** gpu (3), jax (1), gpt2 (1), espn (1)
 > **Definitions:** is a  (5)
@@ -6841,12 +6791,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** dataset_gradio (1)
 
-#### Deploying to Hugging Face Spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980)
+#### [Deploying to Hugging Face Spaces](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=8)** - [Instructor] Let's take a look at the lifecycle of how to do a continuous delivery of a Hugging Face Spaces application using GitHub.
+> **[0:08](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=8)** - [Instructor] Let's take a look at the lifecycle of how to do a [[Continuous Delivery (CD)|continuous delivery]] of a [[Hugging Face]] Spaces application using [[GitHub]].
 >
 > **[0:17](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=17)** You can see here that I could grab a token from Hugging Face, right?
 >
@@ -6866,7 +6815,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=66)** What I would do is I would go to GitHub to the workflow here, and notice, I would say Sync to Hugging Face.
 >
-> **[1:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=74)** Under the main branch, I would run this on ubuntu-latest, and I would have my secret that would be set up inside of Hugging Face.
+> **[1:14](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=74)** Under the main branch, I would run this on [[Ubuntu]]-latest, and I would have my secret that would be set up inside of Hugging Face.
 >
 > **[1:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=82)** I would go ahead and add this whatever location the space lives in.
 >
@@ -6886,7 +6835,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=133)** And once I've launched this interface here, I can actually browse it directly inside of this environment.
 >
-> **[2:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=139)** And look, I pasted in some Python code.
+> **[2:19](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=139)** And look, I pasted in some [[Python (Programming Language)|Python]] code.
 >
 > **[2:22](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/deploying-hugging-face-spaces?u=76281980&t=142)** I pasted in some information about the Python language, and I had it summarize it.
 >
@@ -6900,7 +6849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Hugging Face]] (6), [[GitHub]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (5), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (6), [[GitHub]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (5), [[Python (Programming Language)|Python]] (2), [[Ubuntu]] (1)
 > **Tools:** github (6)
 > **CLI Commands:** make (2), python (2)
 > **UI Navigation:** go to (1), toggle (1)

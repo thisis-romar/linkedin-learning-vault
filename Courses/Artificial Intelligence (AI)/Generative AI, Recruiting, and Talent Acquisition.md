@@ -78,24 +78,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI for recruiting talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980)
+#### [Generative AI for recruiting talent](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=0)** - Are you curious about how generative AI can be used within recruiting and talent acquisition?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=0)** - Are you curious about how [[Generative AI]] can be used within recruiting and talent acquisition?
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=4)** Well, if so, you're in the right place.
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=6)** This course was designed specifically for you to help you understand how generative AI in all of its forms can be used by recruiters, job seekers and hiring managers.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=6)** This course was designed specifically for you to help you understand how generative AI in all of its [[Forms]] can be used by recruiters, job seekers and hiring managers.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=16)** My name is Glenn Cathey and I'm a digital strategy executive at Randstad.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=20)** With over 20 years in recruitment and over 10 years experience evaluating and implementing AI solutions.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=20)** With over 20 years in recruitment and over 10 years experience evaluating and implementing [[AI Solutions]].
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=26)** Here, we're going to cover how generative AI can drive improved efficiencies, experiences and outcomes for everyone involved.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=34)** We'll also explore how gen AI can improve retention through improved internal mobility.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=34)** We'll also explore how gen AI can improve retention through improved [[Internal Mobility]].
 >
 > **[0:39](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980&t=39)** 10 key questions to ask vendors using generative AI and how generative AI will impact the role of recruiters and hiring managers in the future.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), ai (2), [[Forms]] (1), [[Internal Mobility]] (1), game (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Forms]] (1), [[AI Solutions]] (1), [[Internal Mobility]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
@@ -114,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI and the future of talent acquisition
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980)
+#### [Generative AI and the future of talent acquisition](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=12)** How do you think that would impact recruiting and talent acquisition?
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=15)** This is what we already have today with generative AI, and with each passing day, the capabilities of this technology continue to advance.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=15)** This is what we already have today with [[Generative AI]], and with each passing day, the capabilities of this technology continue to advance.
 >
 > **[0:23](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=23)** So recruiters and talent acquisition professionals like you need to be thinking about how this kind of technology will affect your current role and your career path, and how it will reshape the talent acquisition process and experience for everyone involved, applicants, employees, and hiring managers included.
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=62)** In light of this, you also need to be thinking about where and how you can add the most value by providing the human element of the recruiting process.
 >
-> **[1:11](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=71)** Generative AI will allow applicants to more easily find jobs that match their skills, interests, and aspirations; enjoy access to human-level conversational experiences at any time that's convenient for them, 24/7; and receive personalized communications and recommendations, effective interview preparation, and timely feedback throughout the recruitment process.
+> **[1:11](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=71)** Generative AI will allow applicants to more easily find jobs that match their skills, interests, and aspirations; enjoy access to human-level conversational experiences at any time that's convenient for them, 24/7; and receive personalized communications and recommendations, effective [[Interview Preparation]], and timely feedback throughout the recruitment process.
 >
 > **[1:33](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980&t=93)** Once an offer has been accepted, generative AI can facilitate the onboarding process, providing new employees with important information, training and support during their first 30 to 90 days.
 >
@@ -149,32 +147,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), data (3), career (3), ai (1), [[Interview Preparation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Interview Preparation]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - imagine (1)
 
-#### Identifying the various forms of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980)
+#### [Identifying the various forms of generative AI](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=0)** - You've likely heard of ChatGPT, but have you heard of Claude, Midjourney, VoiceBox, ElevenLabs, Synthesia, HeyGen?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=0)** - You've likely heard of [[ChatGPT]], but have you heard of Claude, [[Midjourney]], VoiceBox, ElevenLabs, Synthesia, HeyGen?
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=11)** The gen AI space is rapidly evolving and while most people are familiar with solutions like ChatGPT that generate text, not as many people are aware of other forms of gen AI like image generation, music generation, voice generation, and cloning.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=11)** The gen AI space is rapidly evolving and while most people are familiar with solutions like ChatGPT that generate text, not as many people are aware of other [[Forms]] of gen AI like image generation, music generation, voice generation, and cloning.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=26)** There's also video generation that can be used within talent acquisition and new solutions seem to pop up almost daily.
 >
-> **[0:33](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=33)** While ChatGPT and other large language models, otherwise known as LLMS, are known for their ability to generate human-level text output in nearly a hundred languages, they're equally adept at understanding natural language and data sets, including numbers; this is because they've been trained on massive amounts of content and through the use of a specific type of neural network known as a transformer which is the T in ChatGPT.
+> **[0:33](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=33)** While ChatGPT and other [[Large Language Models (LLM)|large language models]], otherwise known as LLMS, are known for their ability to generate human-level text output in nearly a hundred languages, they're equally adept at understanding natural language and data sets, including numbers; this is because they've been trained on massive amounts of content and through the use of a specific type of neural network known as a transformer which is the T in ChatGPT.
 >
 > **[0:58](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=58)** LLMs can read, understand, and analyze text-based data.
 >
-> **[1:03](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=63)** While ChatGPT might be the most widely known LLM, there are literally hundreds of them in existence from publicly available models like Anthropic's Claude, Google's LaMDA, which powers their Bard AI chat service, and Meta's LLaMA, to private or custom LLMs developed by HR tech providers or even your own IT staff.
+> **[1:03](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=63)** While ChatGPT might be the most widely known LLM, there are literally hundreds of them in existence from publicly available models like Anthropic's Claude, [[Google]]'s LaMDA, which powers their Bard AI chat service, and Meta's [[LLaMA]], to private or custom LLMs developed by HR tech providers or even your own IT staff.
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=82)** The custom-built LLMs specifically designed for HR-related use can perform better than general models for certain tasks.
 >
-> **[1:30](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=90)** Beyond text understanding, generation, and analysis, there are gen AI solutions such as Midjourney and Stable Diffusion that can turn simple text into stunning images.
+> **[1:30](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=90)** Beyond text understanding, generation, and analysis, there are gen [[AI Solutions]] such as Midjourney and [[Stable Diffusion]] that can turn simple text into stunning images.
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=100)** In some cases, these solutions are capable of creating photorealistic images that can essentially eliminate the need for stock imagery because you can literally create anything you can imagine with a simple text prompt.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=134)** Going one step further, there are solutions available like Synthesia and HeyGen that can generate video output of near-lifelike human avatars complete with voiceovers in over 120 languages.
 >
-> **[2:27](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=147)** With this technology, you can create videos as easily as you would a basic PowerPoint slide deck, and you can add AI-generated music using solutions like Meta's AudioCraft as simply as typing what you'd like to hear.
+> **[2:27](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=147)** With this technology, you can create videos as easily as you would a basic [[Microsoft PowerPoint|PowerPoint]] slide deck, and you can add AI-generated music using solutions like Meta's AudioCraft as simply as typing what you'd like to hear.
 >
 > **[2:40](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/identifying-the-various-forms-of-generative-ai?u=76281980&t=160)** It's important to understand that gen AI is so much more than ChatGPT.
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (6), [[Midjourney]] (2), [[Forms]] (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Midjourney]] (2), [[Forms]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1)
 > **Env Vars:** llms (1), llm (1)
 > **Definitions:** known as (2)
 > **Analogies:** such as (1), imagine (1)
@@ -203,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing how generative AI can be used in TA: Use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980)
+#### [Visualizing how generative AI can be used in TA: Use cases](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=40)** But GenAI is capable of so much more than generating text.
 >
-> **[0:43](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=43)** For example, there are text-to image generation solutions like Midjourney that can turn anyone into a talented artist or photographer with the ability to create stunning images from a simple text prompt.
+> **[0:43](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=43)** For example, there are text-to image generation solutions like [[Midjourney]] that can turn anyone into a talented artist or photographer with the ability to create stunning images from a simple text prompt.
 >
 > **[0:55](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=55)** You could use this kind of GenAI to create unique and personalized images to include in your candidate outreach messaging to catch their attention and earn a response.
 >
@@ -246,26 +242,25 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=134)** Now, you can create videos on demand for a variety of use cases like employee testimonials, messages from key employees and avatar led candidate screening interviews for a standardized and unbiased hiring process for all candidates.
 >
-> **[2:29](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=149)** There are many forms of GenAI beyond text generation to include image, voice and full video generation.
+> **[2:29](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=149)** There are many [[Forms]] of GenAI beyond text generation to include image, voice and full video generation.
 >
 > **[2:36](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=156)** When you examine your talent acquisition processes take some time to think about where you might have inefficiencies in work production and where there are opportunities to improve experiences.
 >
-> **[2:47](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=167)** Consider how one or more of the various forms of generative AI could be a benefit to you and your company.
+> **[2:47](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980&t=167)** Consider how one or more of the various forms of [[Generative AI]] could be a benefit to you and your company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[Midjourney]] (1), prompt (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Midjourney]] (1), [[Generative AI]] (1)
 > **Env Vars:** mit (1), ceo (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
 
-#### How recruiters can use generative AI in talent acquisition
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980)
+#### [How recruiters can use generative AI in talent acquisition](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980&t=0)** - Generative AI can have a positive impact on practically every stage of the talent acquisition process.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980&t=0)** - [[Generative AI]] can have a positive impact on practically every stage of the talent acquisition process.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980&t=6)** Here I'll walk you through a wide variety of GenAI use cases within recruiting so you can have a full appreciation of the potential it can bring.
 >
@@ -305,26 +300,25 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980&t=168)** As you can see, GenAI can be used in many ways within talent acquisition to drive better experiences and outcomes.
 >
-> **[2:55](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980&t=175)** Take a moment to reflect on your talent acquisition process and think about where GenAI in all of its forms could have the greatest impact, and where it would make the most sense to begin.
+> **[2:55](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-recruiters-can-use-generative-ai-in-talent-acquisition?u=76281980&t=175)** Take a moment to reflect on your talent acquisition process and think about where GenAI in all of its [[Forms]] could have the greatest impact, and where it would make the most sense to begin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), ai (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dei (1)
 > **Analogies:** for example (1)
 > **Speakers:** - generative (1)
 
-#### How generative AI can be used by candidates in recruiting
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980)
+#### [How generative AI can be used by candidates in recruiting](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=0)** - What do you think of job applicants using ChatGPT to write the resumes and cover letters?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=0)** - What do you think of job applicants using [[ChatGPT]] to write the resumes and cover letters?
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=5)** On one hand, it may seem unethical, but on the other hand, why shouldn't people use every tool available to them?
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=11)** Job seekers can use Gen AI for much more than resume writing.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=11)** Job seekers can use Gen AI for much more than [[Resume Writing]].
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=14)** So let's take a look at some of these tools to get you thinking about how you might need to change your recruitment processes.
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=97)** So you may want to consider proctored or live screening assessments.
 >
-> **[1:41](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=101)** Job seekers can also make use of Gen AI solutions to help them prepare for interviews.
+> **[1:41](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=101)** Job seekers can also make use of Gen [[AI Solutions]] to help them prepare for interviews.
 >
 > **[1:46](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-be-used-by-candidates-in-recruiting?u=76281980&t=106)** For example, you can enter an entire job description into ChatGPT and ask it to generate 20 likely interview questions, ideal responses for each, and suggestions for how to best prepare for the interview.
 >
@@ -364,15 +358,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (5), [[Resume Writing]] (1), [[Search]] (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[AI Solutions]] (2), [[Resume Writing]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Env Vars:** cpa (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
-#### How hiring managers can benefit from generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980)
+#### [How hiring managers can benefit from generative AI](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=94)** Imagine the response rates from candidates getting these kinds of personalized messages directly from hiring managers.
 >
-> **[1:40](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=100)** Gene AI can also enable hiring managers to proactively recruit from within the company before releasing a job externally prioritizing internal mobility.
+> **[1:40](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=100)** Gene AI can also enable hiring managers to proactively recruit from within the company before releasing a job externally prioritizing [[Internal Mobility]].
 >
 > **[1:48](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=108)** Gen AI can also be used to analyze internal talent supply and recommend potential candidates with matching skills, potential, and interest to the hiring manager and support outreach messaging.
 >
@@ -412,20 +405,19 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=151)** This can help managers make sure that all candidates are assessed using the same criteria reducing the potential for bias and contributing to a fair evaluation process.
 >
-> **[2:41](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=161)** Generative AI can make it easier than ever for hiring managers to participate in talent acquisition, enabling significant self-service capabilities with little time and effort, and contributing to more fair and equitable experiences and outcomes.
+> **[2:41](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=161)** [[Generative AI]] can make it easier than ever for hiring managers to participate in talent acquisition, enabling significant self-service capabilities with little time and effort, and contributing to more fair and equitable experiences and outcomes.
 >
 > **[2:53](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-hiring-managers-can-benefit-from-generative-ai?u=76281980&t=173)** Take a moment to reflect on how gen AI could be leveraged within your company to help involve hiring managers more directly in the talent acquisition process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Internal Mobility]] (2), [[Automation]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (3)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - what (1)
 
-#### How generative AI can facilitate internal mobility
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-facilitate-internal-mobility?u=76281980)
+#### [How generative AI can facilitate internal mobility](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-facilitate-internal-mobility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-facilitate-internal-mobility?u=76281980&t=3)** What about hiring from within?
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-facilitate-internal-mobility?u=76281980&t=5)** Let's take a look at how Gen AI can help recruiters by facilitating internal mobility and increasing retention, therefore reducing recruiting required for backfilling roles.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-facilitate-internal-mobility?u=76281980&t=5)** Let's take a look at how Gen AI can help recruiters by facilitating [[Internal Mobility]] and increasing retention, therefore reducing recruiting required for backfilling roles.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/how-generative-ai-can-facilitate-internal-mobility?u=76281980&t=15)** While some companies have a well-meaning approach to internal mobility by offering employees access to an internal job board for them to search, this is far from an ideal experience.
 >
@@ -473,12 +465,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Internal Mobility]] (4), [[Search]] (3), career (3), data (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (4)
 > **CLI Commands:** make (3), find (2)
 > **Speakers:** - does (1)
 
-#### 10 questions to ask vendors claiming to use generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980)
+#### [10 questions to ask vendors claiming to use generative AI](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,17 +485,17 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=22)** Copyright protection only applies to works created by people.
 >
-> **[0:26](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=26)** Second, there's no guarantee of privacy or security with public GenAI solutions like ChatGPT, so you should never enter any personal candidate or sensitive or confidential company information.
+> **[0:26](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=26)** Second, there's no guarantee of [[Privacy]] or security with public GenAI solutions like [[ChatGPT]], so you should never enter any personal candidate or sensitive or confidential company information.
 >
-> **[0:38](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=38)** Third, you may have heard that large language models can hallucinate.
+> **[0:38](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=38)** Third, you may have heard that [[Large Language Models (LLM)|large language models]] can hallucinate.
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=42)** That may sound funny, but it does mean that Generative AI can sometimes make up information.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=42)** That may sound funny, but it does mean that [[Generative AI]] can sometimes make up information.
 >
 > **[0:48](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=48)** For creative content like outreach messaging where accuracy isn't important, this isn't really an issue.
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=53)** But if you tried using chat GPT for something like compensation research and analysis, you cannot implicitly trust its output.
 >
-> **[1:02](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=62)** Fourth, solutions using large language models like OpenAI's ChatGPT, Google's Lambda, or Meta's Llama can pick up on biases if trained on historical data or other data that may have embedded biases around race, gender, and other demographic factors.
+> **[1:02](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=62)** Fourth, solutions using large language models like OpenAI's ChatGPT, [[Google]]'s Lambda, or Meta's [[LLaMA]] can pick up on biases if trained on historical data or other data that may have embedded biases around race, gender, and other demographic factors.
 >
 > **[1:19](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/10-questions-to-ask-vendors-claiming-to-use-generative-ai?u=76281980&t=79)** This can lead to biased output such as gendered language in job descriptions and postings.
 >
@@ -540,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (2), teams (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[Privacy]] (1), [[Generative AI]] (1), [[Google]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gpt (1), llm (1)
 > **Best Practices:** you should never (2)
@@ -549,8 +540,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Where do humans fit in the future of AI-driven recruiting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980)
+#### [Where do humans fit in the future of AI-driven recruiting?](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=19)** This is a key component of recruiting.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=21)** However, some studies have shown that at least when it comes to written communication, people judge ChatGPT to be more empathetic than humans.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=21)** However, some studies have shown that at least when it comes to written communication, people judge [[ChatGPT]] to be more empathetic than humans.
 >
 > **[0:30](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=30)** And ChatGPT outperforms humans in emotional awareness evaluations.
 >
@@ -586,7 +576,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=83)** Due to the capabilities of Gen AI, the role of recruiters in some companies may shift to being more of a talent advisor to the business by providing talent market intelligence and strategic guidance.
 >
-> **[1:35](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=95)** Some recruiters may shift more towards a career coaching role where they focus on nurturing relationships with applicants throughout the process and continue on when they convert to employees, serving as an advocate to facilitate internal mobility, career growth and retention.
+> **[1:35](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=95)** Some recruiters may shift more towards a career coaching role where they focus on nurturing relationships with applicants throughout the process and continue on when they convert to employees, serving as an advocate to facilitate [[Internal Mobility]], career growth and retention.
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/where-do-humans-fit-in-the-future-of-ai-driven-recruiting?u=76281980&t=112)** Regardless of advancements in AI, the uniquely human skills of critical thinking and problem solving will remain valuable.
 >
@@ -608,32 +598,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (3), career (2), business (1), [[Internal Mobility]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Internal Mobility]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - are (1)
 
-#### Embracing generative AI as your recruiting copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980)
+#### [Embracing generative AI as your recruiting copilot](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=0)** - So what can you do to make sure you stay informed, educated, and in a good position to take advantage of the benefits of Generative AI within recruitment and steer clear of the risks?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=0)** - So what can you do to make sure you stay informed, educated, and in a good position to take advantage of the benefits of [[Generative AI]] within recruitment and steer clear of the risks?
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=10)** Let me walk you through my recommendations.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=13)** First, get and stay informed.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=15)** One of the easiest ways to stay on top of the latest developments in Gen AI is to set up some Google alerts.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=15)** One of the easiest ways to stay on top of the latest developments in Gen AI is to set up some [[Google]] alerts.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=21)** One of them should be focused on terms, like ChatGPT or Generative AI.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=21)** One of them should be focused on terms, like [[ChatGPT]] or Generative AI.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=26)** The second one should include those terms along with terms like recruiting or HR or talent acquisition.
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=32)** You'll then receive daily alerts of matching internet content and stay informed of the latest developments and thoughts in the space within a few minutes a day.
 >
-> **[0:41](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=41)** Of course, you can also search on LinkedIn for AI and recruiting content and follow thought leaders in that space to stay up to date.
+> **[0:41](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=41)** Of course, you can also search on [[LinkedIn]] for AI and recruiting content and follow thought leaders in that space to stay up to date.
 >
 > **[0:48](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=48)** Second, you should throw fear and uncertainty out the window and resist any urges you have to cling to the way you've always done things.
 >
@@ -649,13 +638,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=89)** Propose and volunteer to participate in pilots or proof of concepts.
 >
-> **[1:33](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=93)** And experiment safely and responsibly with free Gen AI solutions.
+> **[1:33](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=93)** And experiment safely and responsibly with free Gen [[AI Solutions]].
 >
 > **[1:38](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=98)** Volunteer to contribute to your company's corporate guidance on the responsible use of Gen AI and build and share best practices in the use of Gen AI within recruitment.
 >
 > **[1:47](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=107)** Fourth, take the time to focus on developing your uniquely human skills.
 >
-> **[1:52](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=112)** True empathy, relationship building, influence, creativity, critical thinking, and problem solving.
+> **[1:52](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=112)** True empathy, [[Relationship Building]], influence, creativity, critical thinking, and problem solving.
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/embracing-generative-ai-as-your-recruiting-copilot?u=76281980&t=119)** These are core elements of effective recruiting and they can help you contribute to the continual improvement in your talent acquisition efforts.
 >
@@ -669,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (2), [[Google]] (1), [[ChatGPT]] (1), hr (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Google]] (1), [[ChatGPT]] (1), [[LinkedIn]] (1), [[AI Solutions]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -680,18 +669,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980&t=0)** - Congratulations, you've completed this course.
 >
-> **[0:03](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980&t=3)** As you've learned here, generative AI is so much more than tools like ChatGPT, and there are many ways that it can be used to drive better experiences and outcomes for recruiters, job seekers, and hiring managers.
+> **[0:03](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980&t=3)** As you've learned here, [[Generative AI]] is so much more than tools like [[ChatGPT]], and there are many ways that it can be used to drive better experiences and outcomes for recruiters, job seekers, and hiring managers.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980&t=15)** Please take the time to reimagine your recruiting and talent acquisition processes through the lens of generative AI.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980&t=21)** Thank you very much for joining me and feel free to reach out to me on LinkedIn, I'm happy to answer questions and I would love to hear how you're using or planning to use generative AI within your talent acquisition efforts.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980&t=21)** Thank you very much for joining me and feel free to reach out to me on [[LinkedIn]], I'm happy to answer questions and I would love to hear how you're using or planning to use generative AI within your talent acquisition efforts.
 
 > [!info]- Semantic Content
 >

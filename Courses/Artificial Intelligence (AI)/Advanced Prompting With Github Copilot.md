@@ -76,14 +76,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980&t=0)** - Welcome to this course for advanced prompting.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980&t=4)** We'll be using GitHub Copilot to learn some techniques, patterns, and workflows that will help you get a better answers from tooling like GitHub Copilot.
+> **[0:04](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980&t=4)** We'll be using [[GitHub Copilot]] to learn some techniques, patterns, and workflows that will help you get a better answers from tooling like GitHub Copilot.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980&t=13)** These patterns, these ways of interacting with AI tooling like GitHub Copilot will allow you to get very, very good answers.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (3), ai (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3)
 > **Tools:** github (3)
 > **Speakers:** - welcome (1)
 
@@ -100,24 +99,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From basic to conversational AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980)
+#### [From basic to conversational AI](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=1)** - [Instructor] Within Visual Studio Code and GitHub Copilot, you have very basic interactions.
+> **[0:01](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=1)** - [Instructor] Within Visual Studio Code and [[GitHub Copilot]], you have very basic interactions.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=6)** And in here we have a session with Visual Studio Code and simple interactions will, well, get you so far.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=14)** One of the things that I tend to do is to explain that simple questions, simple prompts, will get you simple answers, or a different way to put it, and here I'm going to create a new file, and I'm going to call it example.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=31)** I'm going to do this with Python, but it really doesn't matter what it is.
+> **[0:31](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=31)** I'm going to do this with [[Python (Programming Language)|Python]], but it really doesn't matter what it is.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=35)** You see that you can get a suggestion saying "Generate code" or "Select language", "Start typing to dismiss or don't show this again".
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=43)** It really doesn't matter.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=45)** Now, the current way of interacting with AI Copilot is with this new chat window that will be open by default.
+> **[0:45](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=45)** Now, the current way of interacting with AI [[Microsoft Copilot|Copilot]] is with this new chat window that will be open by default.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980&t=54)** You don't necessarily need to be using this, as we'll see, there's other ways of interacting.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), prompt (3), api (3), generic (3), ai (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub Copilot]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** http (4), api (3)
 > **CLI Commands:** python (3)
 > **Tools:** visual studio (2), github (1)
@@ -202,8 +200,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### The power of multiturn interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980)
+#### [The power of multiturn interactions](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,9 +232,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980&t=83)** Well, if I go ahead, like, let's just do something slightly outrageous here.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980&t=89)** I started with Python and now I say, well, you know what?
+> **[1:29](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980&t=89)** I started with [[Python (Programming Language)|Python]] and now I say, well, you know what?
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980&t=97)** Let's just do something a little bit different with Rust.
+> **[1:37](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980&t=97)** Let's just do something a little bit different with [[Rust (Programming Language)|Rust]].
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/the-power-of-multi-turn-interactions-27898008?u=76281980&t=101)** And so instead of adding here and saying, what I really wanted was Rust, then the problem with that approach is that you have to see this source of truth as contaminated.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), api (2), [[Python (Programming Language)|Python]] (2), ai (1), prompt (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** http (3), api (2)
 > **CLI Commands:** python (2), make (2)
 > **UI Navigation:** click on (1), toggle (1), go to (1)
@@ -310,12 +307,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - multi (1)
 
-#### Chat inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980)
+#### [Chat inputs](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=0)** - [Instructor] There are different ways where we can convey exactly what we want to GitHub Copilot and large language models and assistive AI tools in general.
+> **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=0)** - [Instructor] There are different ways where we can convey exactly what we want to [[GitHub Copilot]] and [[Large Language Models (LLM)|large language models]] and assistive AI tools in general.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=12)** So in these cases, specifically with Visual Studio Code and GitHub Copilot, we have, well, several different ways.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=49)** So we could say things like, add a little bit of documentation to this main function, right?
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=60)** So we could say, you know, this is a Rust project, it looks okay, it gives you a short explanation, that's fine.
+> **[1:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=60)** So we could say, you know, this is a [[Rust (Programming Language)|Rust]] project, it looks okay, it gives you a short explanation, that's fine.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=66)** So that is one, and you might be used to this one.
 >
@@ -409,7 +405,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=245)** So, in this case, I can say, "Hmm, you know what, I am not entirely sure what's going on here.
 >
-> **[4:10](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=250)** So I can do CTRL+I on Windows and Linux or Command+I in OS10, and this inline chat will pop up.
+> **[4:10](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=250)** So I can do CTRL+I on [[Windows]] and [[Linux]] or Command+I in OS10, and this inline chat will pop up.
 >
 > **[4:19](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-inputs-28115021?u=76281980&t=259)** So I can say, "I am not entirely sure what is going on with this push call."
 >
@@ -431,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (5), [[Rust (Programming Language)|Rust]] (4), [[Large Language Models (LLM)|Large language models]] (1), ai (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (5), [[Rust (Programming Language)|Rust]] (4), [[Large Language Models (LLM)|Large language models]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** github (5), visual studio (2), vs code (1)
 > **Definitions:** is a  (4), is called (2)
 > **Env Vars:** ctrl (1), os10 (1)
@@ -440,8 +436,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** warning (1)
 
-#### Chat modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980)
+#### [Chat modes](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -457,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=28)** Perhaps by the time that you see actually this video, maybe this won't be called a mode or a chat mode, but more of like an agent mode.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=40)** That's because GitHub Copilot, and GitHub in general, is moving more towards agents.
+> **[0:40](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=40)** That's because [[GitHub Copilot]], and [[GitHub]] in general, is moving more towards agents.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=45)** So if I click here, you will see that there's a different mode.
 >
@@ -481,7 +476,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=131)** In this case, if I say, for example, "I want to add a test to parse_glob_pattern, and then run some tests and validate the project actually builds correctly without warnings."
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=149)** So, in Rust, we can compile, we can check warnings.
+> **[2:29](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=149)** So, in [[Rust (Programming Language)|Rust]], we can compile, we can check warnings.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/overview-of-chat-modes-27900011?u=76281980&t=153)** So I'm adding several different things.
 >
@@ -573,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[GitHub]] (1), [[Rust (Programming Language)|Rust]] (1), prompt (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[GitHub]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Tools:** github (3), terminal (1)
 > **Analogies:** for example (1), kind of like (1), it's like (1), imagine (1)
 > **File Paths:** lib.rs (3)
@@ -586,8 +581,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crafting multiturn prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980)
+#### [Crafting multiturn prompts](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=13)** Again, the programming language and the tooling, it's irrelevant.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=16)** We're going to be relying on GitHub Copilot to help us out here.
+> **[0:16](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=16)** We're going to be relying on [[GitHub Copilot]] to help us out here.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=20)** In this case, I want to make sure that I have the right test coverage.
 >
@@ -637,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=78)** You have control into allowing that or not.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=82)** It seems that there's a way to run some of these commands with HTML.
+> **[1:22](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=82)** It seems that there's a way to run some of these commands with [[HTML]].
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980&t=90)** That sounds okay to me.
 >
@@ -685,7 +679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (2), [[Programming]] (1), [[GitHub Copilot]] (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[GitHub Copilot]] (1)
 > **CLI Commands:** make (5), cargo (1)
 > **Env Vars:** readme (2), html (2)
 > **Documentation:** the readme (2)
@@ -693,8 +687,7 @@ created: 2026-05-02
 > **File Paths:** main.rs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterative refinement techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980)
+#### [Iterative refinement techniques](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=35)** Please add relevant tests to get to at least 50% coverage.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=42)** Now, additionally, I don't know why it thought it was a good idea to open up HTML.
+> **[0:42](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=42)** Now, additionally, I don't know why it thought it was a good idea to open up [[HTML]].
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=48)** I don't need HTML. I am fine with just text report.
 >
@@ -742,7 +735,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=149)** So, this looks correct, but did you see how there was a back and forth where things were not exactly quite to my liking or quite to exactly what I was asking?
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=161)** Well, this is a pretty important step and iterative process, like large language models in general, this is not specific to GitHub Copilot.
+> **[2:41](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=161)** Well, this is a pretty important step and iterative process, like [[Large Language Models (LLM)|large language models]] in general, this is not specific to [[GitHub Copilot]].
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=172)** Sometimes, not get you exactly to where you want them.
 >
@@ -754,7 +747,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=198)** So, one final part of what I want to show you is when things are exact, not exactly what you want, and you want that extra context.
 >
-> **[3:27](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=207)** What I did was I went to the tarpaulin page, the GitHub page, and grabbed the documentation.
+> **[3:27](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=207)** What I did was I went to the tarpaulin page, the [[GitHub]] page, and grabbed the documentation.
 >
 > **[3:34](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/iterative-refinement-techniques-28113006?u=76281980&t=214)** So, what I'm going to do is I'm going to ask, are there any other recommendations for testing and coverage based on the documentation from the tarpaulin project?
 >
@@ -790,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), next (1), feature (1), [[Large Language Models (LLM)|Large language models]] (1), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[GitHub Copilot]] (1), [[GitHub]] (1)
 > **Env Vars:** html (3)
 > **Documentation:** the documentation (2)
 > **Tools:** github (2)
@@ -799,8 +792,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Refactor with conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980)
+#### [Challenge: Refactor with conversation](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=119)** So in here we're going to do, we're going to use a slash command.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=126)** The slash commands are kind of like really useful features of GitHub Copilot that allows us to make use of certain features that will prevent me from having to actually type everything.
+> **[2:06](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=126)** The slash commands are kind of like really useful features of [[GitHub Copilot]] that allows us to make use of certain features that will prevent me from having to actually type everything.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=140)** So in this case, I'm going to say, explain.
 >
@@ -878,7 +870,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=247)** Create me a plan as a prompt so that I can refine it and use it to actually get what I need from the separation of concerns.
 >
-> **[4:25](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=265)** So with this, I'm going to instruct Copilot to try to separate exactly what are some of the things that I need and what are some of the problems that I have.
+> **[4:25](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=265)** So with this, I'm going to instruct [[Microsoft Copilot|Copilot]] to try to separate exactly what are some of the things that I need and what are some of the problems that I have.
 >
 > **[4:35](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=275)** So let's take a look.
 >
@@ -916,7 +908,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=349)** If I wanted to have a little bit more refinement, I could just go over the results and say, yeah, this is not quite what I wanted.
 >
-> **[5:56](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=356)** You can now compose these functions in the workflow.
+> **[5:56](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=356)** You can now [[Jetpack Compose|compose]] these functions in the workflow.
 >
 > **[5:59](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-refactor-with-conversation-28108009?u=76281980&t=359)** But do you see that it is missing the tests?
 >
@@ -938,19 +930,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (3), prompt (3), [[Microsoft Copilot|Copilot]] (2), [[Engineering]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), [[Microsoft Copilot|Copilot]] (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (3)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Refactor with conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980)
+#### [Solution: Refactor with conversation](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=0)** - [Presenter] So we have a result here from our interaction with GitHub Copilot.
+> **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=0)** - [Presenter] So we have a result here from our interaction with [[GitHub Copilot]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=5)** We have three new functions that are, that separated the concerns that I was looking for, but this is not exactly what I had in mind.
 >
@@ -966,13 +957,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=60)** So, I'm going to ask the agent to produce a plan, produce a plan to ensure the correctness of this code you have generated.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=73)** It looks okay, but I want to ensure LinkedIn testing and that this code actually compiles.
+> **[1:13](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=73)** It looks okay, but I want to ensure [[LinkedIn]] testing and that this code actually compiles.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=84)** Now, in this case, this is rust.
+> **[1:24](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=84)** Now, in this case, this is [[Rust (Programming Language)|rust]].
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=86)** So I have to compile, not that I have to, but like, ideally, if I'm going to submit this as a production code, I'm going to have to compile, like the process might be slightly different for you.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=97)** If you're doing something like a programming language that doesn't require compiling, like say, for example, Python, but LinkedIn testing and verifying that actually things are working as expected is actually a very good plan.
+> **[1:37](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=97)** If you're doing something like a programming language that doesn't require compiling, like say, for example, [[Python (Programming Language)|Python]], but LinkedIn testing and verifying that actually things are working as expected is actually a very good plan.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-refactor-with-conversation-28102013?u=76281980&t=110)** So, in this case, let's look at what we have here.
 >
@@ -1046,19 +1037,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[LinkedIn]] (2), prompt (2), [[GitHub Copilot]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[GitHub Copilot]] (1), [[Rust (Programming Language)|Rust]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (5), cargo (5), python (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Analyzing your conversational approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980)
+#### [Analyzing your conversational approach](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=0)** - [Instructor] With GitHub Copilot, you have the ability of analyzing your conversational approach and figuring out what are some of the recurring things that you might encounter.
+> **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=0)** - [Instructor] With [[GitHub Copilot]], you have the ability of analyzing your conversational approach and figuring out what are some of the recurring things that you might encounter.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=13)** So we've been doing a little bit of refactoring here.
 >
@@ -1102,7 +1092,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=136)** Other coding agents have certain instructions, similar instructions and similar files as guidelines.
 >
-> **[2:22](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=142)** And it will go ahead and read all of the files and all of the things related to my project and will produce the information necessary for the GitHub instructions.
+> **[2:22](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=142)** And it will go ahead and read all of the files and all of the things related to my project and will produce the information necessary for the [[GitHub]] instructions.
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=151)** So this is ready.
 >
@@ -1116,7 +1106,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=163)** So it starts creating conventions and this looks correct, add it to the file.
 >
-> **[2:54](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=174)** So what happens here is that the Copilot instructions markdown file will be populated with everything that was generated.
+> **[2:54](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=174)** So what happens here is that the [[Microsoft Copilot|Copilot]] instructions markdown file will be populated with everything that was generated.
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=183)** And now, as you can see here, I'm going to say yes, I want to keep it.
 >
@@ -1132,7 +1122,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=222)** Go ahead and implement these steps.
 >
-> **[3:44](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=224)** I want to ensure LinkedIn testing and this actually that this code actually compiles.
+> **[3:44](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=224)** I want to ensure [[LinkedIn]] testing and this actually that this code actually compiles.
 >
 > **[3:48](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/analyzing-your-conversational-approach-28115022?u=76281980&t=228)** So I'm finding myself repeating these things and I want to avoid repeating them.
 >
@@ -1142,7 +1132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (4), prompt (1), [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
 > **Tools:** github (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** cargo (2)
@@ -1155,8 +1145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Providing context from multiple files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980)
+#### [Providing context from multiple files](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1155,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=14)** It actually took me quite the effort to clone this repository locally.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=18)** And I've opened it, the project with Vision Studio Code and GitHub Copilot.
+> **[0:18](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=18)** And I've opened it, the project with Vision Studio Code and [[GitHub Copilot]].
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=24)** And you can see here all the directories and all the files.
 >
@@ -1178,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=44)** And this is a very bad problem, very bad question, but I might not know better, right?
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=49)** So I'm going to ask, and Copilot is going to try to figure out, okay, you clarify.
+> **[0:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=49)** So I'm going to ask, and [[Microsoft Copilot|Copilot]] is going to try to figure out, okay, you clarify.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980&t=56)** So it's asking me clarification.
 >
@@ -1246,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (2), open-source (1), [[Microsoft Copilot|Copilot]] (1), api (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** lvm (8), bsa (1), src (1), api (1)
 > **UI Navigation:** go to (3), open the (2)
 > **Definitions:** is a  (3)
@@ -1255,8 +1244,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** self_volume (1)
 
-#### Leveraging open files for accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980)
+#### [Leveraging open files for accuracy](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1264,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=49)** So what are some of the things that we might want to look here?
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=51)** So there's context that happens with the tabs that are open, with the files that I'm open because behind the scenes, GitHub Copilot is trying to figure out what this developer might be interested in.
+> **[0:51](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=51)** So there's context that happens with the tabs that are open, with the files that I'm open because behind the scenes, [[GitHub Copilot]] is trying to figure out what this developer might be interested in.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=63)** And by default, it will look at the tabs that you have open because it assumes that the tabs that you have open are the ones that are going to be interesting to you and you're probably going to be working on them.
 >
@@ -1292,7 +1280,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=103)** And you can see it will appear here.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=105)** It will detect that this is a Python file.
+> **[1:45](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=105)** It will detect that this is a [[Python (Programming Language)|Python]] file.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=107)** So because this is such a large project, you will have to go to the explorer, find that README file, and then just go in and add it that way.
 >
@@ -1338,11 +1326,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=278)** So you have a lot of options here, but the main thing to remember is that you have to open these files.
 >
-> **[4:47](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=287)** You have to make sure that these are part of your context, that you're adding them, and make sure that whenever you're asking the questions, as long as you're getting the correct answers, make sure that that context is added when you're interacting with the large language models.
+> **[4:47](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/leveraging-open-files-for-accuracy-28105011?u=76281980&t=287)** You have to make sure that these are part of your context, that you're adding them, and make sure that whenever you're asking the questions, as long as you're getting the correct answers, make sure that that context is added when you're interacting with the [[Large Language Models (LLM)|large language models]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1), api (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (5), python (1), find (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **Env Vars:** readme (1), lvm (1), api (1)
@@ -1351,8 +1339,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Generate code from API docs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-generate-code-from-api-docs-27900013?u=76281980)
+#### [Challenge: Generate code from API docs](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-generate-code-from-api-docs-27900013?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1401,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-generate-code-from-api-docs-27900013?u=76281980&t=156)** Now, the key thing here is that with the prompting, I was able to provide initial context and I didn't have to list every single file.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-generate-code-from-api-docs-27900013?u=76281980&t=166)** I did give it a path though, and the, the agent was able to very, in a very smart way, try to figure out, okay, so if, if it's that path, perhaps I should look for Python files, which is looking right here and I should look for that within, within the context of large volume LVM and volumes and management and filtering and tagging and labeling.
+> **[2:46](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-generate-code-from-api-docs-27900013?u=76281980&t=166)** I did give it a path though, and the, the agent was able to very, in a very smart way, try to figure out, okay, so if, if it's that path, perhaps I should look for [[Python (Programming Language)|Python]] files, which is looking right here and I should look for that within, within the context of large volume LVM and volumes and management and filtering and tagging and labeling.
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/challenge-generate-code-from-api-docs-27900013?u=76281980&t=194)** So all of those things are happening here and it's able to generate these, very good, very thorough.
 >
@@ -1436,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), management (2), [[Python (Programming Language)|Python]] (2), prompt (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (6), lvm (6)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
@@ -1445,14 +1432,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Solution: Generate code from API docs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980)
+#### [Solution: Generate code from API docs](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=0)** - [Instructor] Let's generate some code from API documentation.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=4)** And in this specific case, my example was to look for the documentation, the specification actually, for the HTML or HTTP spec actually, for the one, the version one, I think, I believe it's the version 1.1 of the spec.
+> **[0:04](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=4)** And in this specific case, my example was to look for the documentation, the specification actually, for the [[HTML]] or HTTP spec actually, for the one, the version one, I think, I believe it's the version 1.1 of the spec.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=25)** So what I did was I wrote this comment.
 >
@@ -1462,7 +1448,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=47)** So why do we need these?
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=49)** Well, because I wanted to fetch everything and have it in a single page.
+> **[0:49](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=49)** Well, because I wanted to [[Fetch]] everything and have it in a single page.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=54)** So let's review my prompt.
 >
@@ -1470,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=61)** I want them all in a single file.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=63)** The reason why is because I want to provide a single point for context so the GitHub Copilot can understand exactly what I need without having to open several different files.
+> **[1:03](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=63)** The reason why is because I want to provide a single point for context so the [[GitHub Copilot]] can understand exactly what I need without having to open several different files.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=75)** There are pros and cons on doing this.
 >
@@ -1490,7 +1476,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=110)** So what I did next, once I have that API documentation, this might not be your case, I required to have, like, this process is going to require me to have this.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=120)** So in this case, I decided to create a Rust project that would implement the full specification of the HTTP protocol as it was defined for version 1.1.
+> **[2:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=120)** So in this case, I decided to create a [[Rust (Programming Language)|Rust]] project that would implement the full specification of the HTTP protocol as it was defined for version 1.1.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/solution-generate-code-from-api-docs-28116011?u=76281980&t=133)** All right, so next what I did was, I'm going to show you, I did the Rust API implementation.
 >
@@ -1562,7 +1548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Rust (Programming Language)|Rust]] (5), [[HTML]] (3), [[Fetch]] (3), next (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[HTML]] (3), [[Fetch]] (3), [[GitHub Copilot]] (1)
 > **Env Vars:** api (9), http (4), rfc (4), html (3)
 > **Documentation:** rfc (4), specification (3), spec (3), the documentation (1)
 > **CLI Commands:** curl (1), make (1)
@@ -1571,8 +1557,7 @@ created: 2026-05-02
 > **File Paths:** main.rs (1)
 > **URLs:** [w3.org](https://w3.org) (1)
 
-#### Working with unknown codebases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980)
+#### [Working with unknown codebases](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,11 +1565,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=16)** So if I go here, this is by the way, the CPython repository.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=20)** This is the repository that contains the Python programming language.
+> **[0:20](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=20)** This is the repository that contains the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=25)** It is extensive, it is large, it has lots of different files, and trying to ask questions if I don't know, will get me into trouble.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=35)** Now, GitHub Copilot has a few features that might help us out.
+> **[0:35](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=35)** Now, [[GitHub Copilot]] has a few features that might help us out.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/working-with-unknown-codebases-27897019?u=76281980&t=39)** One of them is the Workspace tool.
 >
@@ -1694,7 +1679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (3), [[GitHub Copilot]] (2), api (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[GitHub Copilot]] (2)
 > **CLI Commands:** python (5), find (3), make (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1708,14 +1693,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=0)** - So, that's it.
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=1)** We were able to go through different patterns and techniques that you were able to apply in order to get better answers from GitHub Copilot.
+> **[0:01](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=1)** We were able to go through different patterns and techniques that you were able to apply in order to get better answers from [[GitHub Copilot]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=10)** But not only that, we were also able to see how we can increase the context, how we can make better context.
 >
@@ -1725,11 +1709,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=34)** Open files, selecting certain pieces of code, and being able to provide that, especially when there's large code basis or unknown code basis to you.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=47)** Well, those patterns of workflows will help you tackle some of these issues whenever you are in a, well, not a small project, but more complex, or perhaps a project that is new to you or is rather complicated, and you need the ability to have that natural language processing provided by GitHub Copilot, by AI tooling in general, to help you get better results.
+> **[0:47](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980&t=47)** Well, those patterns of workflows will help you tackle some of these issues whenever you are in a, well, not a small project, but more complex, or perhaps a project that is new to you or is rather complicated, and you need the ability to have that [[Natural Language Processing (NLP)|natural language processing]] provided by GitHub Copilot, by AI tooling in general, to help you get better results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), ai (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)

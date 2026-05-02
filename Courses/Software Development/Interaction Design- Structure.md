@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structure is the backbone of UX
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980)
+#### [Structure is the backbone of UX](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -75,7 +74,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980&t=11)** In the UX design field, you'll craft information architecture deliverables and over time, you'll learn methodologies to uncover navigation patterns and how to approach your design holistically.
 >
-> **[0:22](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980&t=22)** In my LinkedIn learning course, I'll share with you information and processes I have learned in my career as a UX designer that you can directly apply to your next UX project.
+> **[0:22](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980&t=22)** In my [[LinkedIn]] learning course, I'll share with you information and processes I have learned in my career as a UX designer that you can directly apply to your next UX project.
 >
 > **[0:32](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980&t=32)** We'll utilize techniques I'll share with you while creating site maps, flow diagrams, and design an experience using our information architecture knowledge.
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[LinkedIn]] (1), career (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -92,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the big picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/understanding-the-big-picture?u=76281980)
+#### [Understanding the big picture](https://www.linkedin.com/learning/interaction-design-structure/understanding-the-big-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,14 +131,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), product (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining different structural flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/defining-different-structural-flows?u=76281980)
+#### [Defining different structural flows](https://www.linkedin.com/learning/interaction-design-structure/defining-different-structural-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,15 +202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), database (1), ux (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Role of information architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980)
+#### [Role of information architecture](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=61)** For example, if you're on a page within a website before purchasing, you might see some navigational element that shows you which step you are in the process.
 >
-> **[1:10](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=70)** In this e-commerce example, I'm oriented by the strong headings.
+> **[1:10](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=70)** In this [[E-Commerce]] example, I'm oriented by the strong headings.
 >
 > **[1:14](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=74)** For example, the checkout method and the billing information and the shipping information.
 >
@@ -252,13 +246,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=101)** Sometimes, this is referred to as content strategy.
 >
-> **[1:44](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=104)** Content strategy is a discipline in its own right and can refer to an overall content management strategy and governance.
+> **[1:44](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=104)** Content strategy is a discipline in its own right and can refer to an overall [[Content Management]] strategy and governance.
 >
 > **[1:51](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=111)** I won't be going into those concepts, but if you're interested in content strategy, you can watch the course called UX Foundations: Content Strategy.
 >
 > **[1:59](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=119)** Labeling and content are directly related to the findability of product experience.
 >
-> **[2:04](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=124)** For example, if your experience uses the word video instead of movie, users might be looking for the word movie, and it would be confusing if the product has been categorized as video.
+> **[2:04](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=124)** For example, if your experience uses the [[Microsoft Word|word]] video instead of movie, users might be looking for the word movie, and it would be confusing if the product has been categorized as video.
 >
 > **[2:15](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=135)** This is a very small example that directly relates to how your users experience the product.
 >
@@ -268,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=156)** Defining an information architecture involves user input from design research.
 >
-> **[2:40](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=160)** Card sorting, interviewing, and click-through prototyping are typical methods used to define an information architecture.
+> **[2:40](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=160)** Card sorting, [[Interviewing]], and click-through [[Prototyping]] are typical methods used to define an information architecture.
 >
 > **[2:47](https://www.linkedin.com/learning/interaction-design-structure/role-of-information-architecture?u=76281980&t=167)** Deliverables for information architecture can span from diagrams mapping information to content inventories, taxonomies, and navigation.
 >
@@ -280,14 +274,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Search]] (2), [[Microsoft Word|Word]] (2), [[E-Commerce]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[E-Commerce]] (1), [[Interviewing]] (1), [[Prototyping]] (1)
 > **Analogies:** for example (4), think of it as (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining information architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/defining-information-architecture?u=76281980)
+#### [Defining information architecture](https://www.linkedin.com/learning/interaction-design-structure/defining-information-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/interaction-design-structure/defining-information-architecture?u=76281980&t=38)** So she wants to use the site to make sure that the symptoms her dog experiences aren't serious.
 >
-> **[0:44](https://www.linkedin.com/learning/interaction-design-structure/defining-information-architecture?u=76281980&t=44)** The second is a cat owner, John, and he wants to use the site to get nutritional tips and insight into cat behavior.
+> **[0:44](https://www.linkedin.com/learning/interaction-design-structure/defining-information-architecture?u=76281980&t=44)** The second is a cat owner, [[John the Ripper|John]], and he wants to use the site to get nutritional tips and insight into cat behavior.
 >
 > **[0:52](https://www.linkedin.com/learning/interaction-design-structure/defining-information-architecture?u=76281980&t=52)** We also learned through this research, that dog and cat owners search for information differently, and would prefer to have their content tailored by their pet type.
 >
@@ -339,15 +332,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (3), cat (3), find (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigation labels and content inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/navigation-labels-and-content-inventory?u=76281980)
+#### [Navigation labels and content inventory](https://www.linkedin.com/learning/interaction-design-structure/navigation-labels-and-content-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +407,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
@@ -426,8 +417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Information scent and hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/information-scent-and-hierarchy?u=76281980)
+#### [Information scent and hierarchy](https://www.linkedin.com/learning/interaction-design-structure/information-scent-and-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,13 +475,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of page-level elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980)
+#### [Overview of page-level elements](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=18)** The principles are rooted in Gestalt principles of visual perception.
 >
-> **[0:22](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=22)** When establishing an interface layout, like everything else we do, there'll be a lot of iteration, prototyping, and testing to ensure that our design meets the needs of our users.
+> **[0:22](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=22)** When establishing an interface layout, like everything else we do, there'll be a lot of iteration, [[Prototyping]], and testing to ensure that our design meets the needs of our users.
 >
 > **[0:33](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=33)** We can establish visual hierarchy through relationships that communicate with shared visual properties, visual weighted elements, and affordances for behavior.
 >
@@ -523,7 +511,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=107)** Grouping is a good way of demonstrating association.
 >
-> **[1:50](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=110)** Here's an example of grouping in the shapes areas of Google Drawing.
+> **[1:50](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=110)** Here's an example of grouping in the shapes areas of [[Google]] Drawing.
 >
 > **[1:54](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=114)** These different drawing figures are grouped by shapes, arrows, callouts, and equations.
 >
@@ -533,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=130)** Color is also useful in conveying differentiation with typographic headings.
 >
-> **[2:15](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=135)** In this example from the US Web Design System, they use color and different weights to establish a clear hierarchy.
+> **[2:15](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=135)** In this example from the US [[Web Design]] System, they use color and different weights to establish a clear hierarchy.
 >
 > **[2:22](https://www.linkedin.com/learning/interaction-design-structure/overview-of-page-level-elements?u=76281980&t=142)** This page also uses left alignment to help with scanning and indenting information below headings to show hierarchy within sections.
 >
@@ -557,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Prototyping]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (2), [[Prototyping]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** iphone (1)
@@ -565,8 +553,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of information density
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/overview-of-information-density?u=76281980)
+#### [Overview of information density](https://www.linkedin.com/learning/interaction-design-structure/overview-of-information-density?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/interaction-design-structure/overview-of-information-density?u=76281980&t=82)** So that data needs to be scanned and evaluated quickly to determine a course of action.
 >
-> **[1:28](https://www.linkedin.com/learning/interaction-design-structure/overview-of-information-density?u=76281980&t=88)** Information-dense products are used by immediate to expert users, who are familiar with the data and information they're looking at.
+> **[1:28](https://www.linkedin.com/learning/interaction-design-structure/overview-of-information-density?u=76281980&t=88)** Information-dense [[Microsoft Products|products]] are used by immediate to expert users, who are familiar with the data and information they're looking at.
 >
 > **[1:36](https://www.linkedin.com/learning/interaction-design-structure/overview-of-information-density?u=76281980&t=96)** We can create a structure for information-dense experiences by organizing the interface on a four pixel grid, or keep the information organized with smaller padding and margins.
 >
@@ -642,18 +629,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (1), [[Microsoft Products|Products]] (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** it (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [narrator] (1)
 
-#### Organizing with a grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980)
+#### [Organizing with a grid](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=0)** - [Instructor] Grids have roots in the discipline of graphic design, and were developed to create a sense of order, structure and rhythm to layout.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=0)** - [Instructor] Grids have roots in the discipline of [[Graphic Design]], and were developed to create a sense of order, structure and rhythm to layout.
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=7)** The grid system is very flexible and is used to layout design, including books, to establish a sense of hierarchy.
 >
@@ -691,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=100)** Here's an example of the character palette in Photoshop.
 >
-> **[1:43](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=103)** You can see when we zoom in there's a four pixel separation from the icon to the border to place the elements closer in a smaller space.
+> **[1:43](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=103)** You can see when we [[Zoom]] in there's a four pixel separation from the icon to the border to place the elements closer in a smaller space.
 >
 > **[1:53](https://www.linkedin.com/learning/interaction-design-structure/organizing-with-a-grid?u=76281980&t=113)** The last thing I want to show you that we need to be aware of when designing for user interfaces is the spacing around the elements themselves, which is referred to as padding.
 >
@@ -705,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (2), web (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Zoom]] (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** make (1)
@@ -717,8 +703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sitemap and flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/sitemap-and-flow-diagram?u=76281980)
+#### [Sitemap and flow diagram](https://www.linkedin.com/learning/interaction-design-structure/sitemap-and-flow-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,8 +745,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing the goals of the site
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/establishing-the-goals-of-the-site?u=76281980)
+#### [Establishing the goals of the site](https://www.linkedin.com/learning/interaction-design-structure/establishing-the-goals-of-the-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +761,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/interaction-design-structure/establishing-the-goals-of-the-site?u=76281980&t=37)** We also gathered from our user research that both dog owners and cat owners have slightly different goals.
 >
-> **[0:43](https://www.linkedin.com/learning/interaction-design-structure/establishing-the-goals-of-the-site?u=76281980&t=43)** Our dog owner Jane wants to use the site to make sure that her dog's health symptoms aren't serious, and our cat owner John wants nutritional tips and insight into cat behavior.
+> **[0:43](https://www.linkedin.com/learning/interaction-design-structure/establishing-the-goals-of-the-site?u=76281980&t=43)** Our dog owner Jane wants to use the site to make sure that her dog's health symptoms aren't serious, and our cat owner [[John the Ripper|John]] wants nutritional tips and insight into cat behavior.
 >
 > **[0:55](https://www.linkedin.com/learning/interaction-design-structure/establishing-the-goals-of-the-site?u=76281980&t=55)** These are generalized.
 >
@@ -809,13 +793,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **CLI Commands:** cat (6), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Layout, hierarchy, and grouping
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/layout-hierarchy-and-grouping?u=76281980)
+#### [Layout, hierarchy, and grouping](https://www.linkedin.com/learning/interaction-design-structure/layout-hierarchy-and-grouping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,14 +860,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Headings and content
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980)
+#### [Headings and content](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=56)** The information below is also clear, using strong headers to highlight different sections and separations of content.
 >
-> **[1:03](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=63)** In this example from the GitHub help documentation, there's a good consistent format in how content headings are organized.
+> **[1:03](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=63)** In this example from the [[GitHub]] help documentation, there's a good consistent format in how content headings are organized.
 >
 > **[1:10](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=70)** There's a larger heading, and the supporting heading below it is in smaller font, so you can tell it's supporting that content.
 >
@@ -948,21 +929,20 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=149)** Nutrition center and behavior insights are 28.
 >
-> **[2:32](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=152)** I'm also trying to keep the typography sizing consistent, with titles at 16 and body copy at 14.
+> **[2:32](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=152)** I'm also trying to keep the [[Typography]] sizing consistent, with titles at 16 and body copy at 14.
 >
 > **[2:40](https://www.linkedin.com/learning/interaction-design-structure/headings-and-content?u=76281980&t=160)** Headings and content orient the user at the interface level, to find the information they need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[GitHub]] (1), ux (1), data (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Typography]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterating through layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/iterating-through-layouts?u=76281980)
+#### [Iterating through layouts](https://www.linkedin.com/learning/interaction-design-structure/iterating-through-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,8 +1007,7 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining the right interface elements to put it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/determining-the-right-interface-elements-to-put-it-all-together?u=76281980)
+#### [Determining the right interface elements to put it all together](https://www.linkedin.com/learning/interaction-design-structure/determining-the-right-interface-elements-to-put-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1033,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1063,8 +1041,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,17 +1049,17 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=1)** I hope you enjoyed this course and took away some insights to apply concepts of structure to your next UX project.
 >
-> **[0:08](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=8)** You can check out my other courses, [[UX Foundations- Prototyping]] and Sketch: Mobile Design Workflows, to learn more relevant material.
+> **[0:08](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=8)** You can check out my other courses, [[UX Foundations- [[Prototyping]]]] and Sketch: Mobile Design Workflows, to learn more relevant material.
 >
 > **[0:16](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=16)** If you have any followup questions, feel free to post them on the Q&A on this course's page.
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=21)** I look forward to reading your thoughts and questions.
 >
-> **[0:25](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=25)** Also, feel free to follow me on LinkedIn or Twitter.
+> **[0:25](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980&t=25)** Also, feel free to follow me on [[LinkedIn]] or Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), next (1), [[Prototyping]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 

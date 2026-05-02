@@ -108,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model and visualize your data with Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980)
+#### [Model and visualize your data with Power BI Desktop](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980&t=0)** - [Gini] Microsoft's preeminence in analytics and business intelligence over the past decade is specifically because of Power BI.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980&t=0)** - [Gini] [[Microsoft]]'s preeminence in analytics and [[Business Intelligence (BI)|business intelligence]] over the past decade is specifically because of [[Microsoft Power BI|Power BI]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980&t=10)** Power BI Desktop is an end-to-end tool in Power BI because with Power BI Desktop, we can connect to thousands of data sources and create rich data models and then reports based on those models to share with others in our organization.
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (3), [[Microsoft]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [gini] (1)
 
@@ -132,22 +131,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Launch Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980)
+#### [Launch Power BI Desktop](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=0)** - [Instructor] In this movie, we are going to fire up Power BI Desktop.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=0)** - [Instructor] In this movie, we are going to fire up [[Microsoft Power BI|Power BI]] Desktop.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=5)** And if you have questions about how to install Power BI Desktop or what the requirements are for installing Power BI Desktop, then I will refer you to the chapter at the end of the course called Products, Installation, and Requirements where you will find information on the requirements for Power BI Desktop, as well as a movie that will walk you through doing the installation.
+> **[0:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=5)** And if you have questions about how to install Power BI Desktop or what the requirements are for installing Power BI Desktop, then I will refer you to the chapter at the end of the course called [[Microsoft Products|Products]], Installation, and Requirements where you will find information on the requirements for Power BI Desktop, as well as a movie that will walk you through doing the installation.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=31)** One more thing, since this course was recorded initially, Copilot has been added to Power BI Desktop and you'll find an entire chapter on Copilot at the end of this course.
+> **[0:31](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=31)** One more thing, since this course was recorded initially, [[Microsoft Copilot|Copilot]] has been added to Power BI Desktop and you'll find an entire chapter on Copilot at the end of this course.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=43)** You will also find in the Products, Installation, and Requirements chapter a movie on the requirements for using Copilot in Power BI.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=54)** Let's continue.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=57)** When you install Power BI Desktop, one of the options is to put a link directly on your Windows desktop, which is what I have done.
+> **[0:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=57)** When you install Power BI Desktop, one of the options is to put a link directly on your [[Windows]] desktop, which is what I have done.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=64)** If you didn't do that, then you can go to your Start menu and enter Power BI Desktop.
 >
@@ -199,7 +197,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=205)** And because this is a report, we have page tabs at the bottom.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=208)** We start out with a one-page report, but we can hit the plus button and add a new tab, therefore a new page, just as we would in Excel.
+> **[3:28](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=208)** We start out with a one-page report, but we can hit the plus button and add a new tab, therefore a new page, just as we would in [[Microsoft Excel|Excel]].
 >
 > **[3:37](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980&t=217)** We also have a dotted line that shows us the edges of the report page.
 >
@@ -221,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (20), bi (20), data (15), [[Microsoft Copilot|Copilot]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (20), [[Microsoft Copilot|Copilot]] (3), [[Microsoft Products|Products]] (2), [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1), double-click (1), checkbox (1)
 > **Prerequisites:** install (2), getting started (1)
@@ -234,12 +232,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power BI data sources: The basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980)
+#### [Power BI data sources: The basics](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=0)** - [Instructor] The Power BI service, based in a browser, supports only a few types of data that can be imported.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=0)** - [Instructor] The [[Microsoft Power BI|Power BI]] service, based in a browser, supports only a few types of data that can be imported.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=8)** When you need to bring in data from other sources, Power BI service sends you to Power BI Desktop.
 >
@@ -247,9 +244,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=15)** In Power BI Desktop, we have some of the same options.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=18)** For example, we can import data from Excel in the Power BI service or here in Desktop.
+> **[0:18](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=18)** For example, we can import data from [[Microsoft Excel|Excel]] in the Power BI service or here in Desktop.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=23)** SQL Server, only in Desktop.
+> **[0:23](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=23)** [[Microsoft SQL Server|SQL Server]], only in Desktop.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=26)** Paste data into a blank table, I can do here or in the Power BI service.
 >
@@ -267,9 +264,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=56)** The first type is File.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=59)** When we choose File, then we have access for Excel workbooks, text or CSV files, XML, JSON, folders, which is the documents in the folders, PDF, parquet, or a folder in SharePoint.
+> **[0:59](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=59)** When we choose File, then we have access for Excel workbooks, text or CSV files, XML, [[JSON]], folders, which is the documents in the folders, PDF, parquet, or a folder in [[SharePoint]].
 >
-> **[1:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=74)** We have databases, a long list.
+> **[1:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=74)** We have [[Databases]], a long list.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=76)** The only one of these that really would also maybe be a file type stored locally will be an Access database.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=98)** If I choose Power Platform, then I have datasets that can be used by Power Automate, Power Apps, Power BI, and so on.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=107)** So Datamarts and Lakehouses are both part of Microsoft Fabric.
+> **[1:47](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=107)** So Datamarts and Lakehouses are both part of [[Microsoft]] Fabric.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=112)** Power BI is the analytics tool for use in Fabric.
 >
@@ -291,15 +288,15 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=145)** So if we were to create something new now in Power BI using our customizable semantic model for our organization, we would be using the Dataverse.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=155)** We can also get data from so many places in Azure.
+> **[2:35](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=155)** We can also get data from so many places in [[Microsoft Azure|Azure]].
 >
 > **[2:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=160)** Online services, including at the top, for example, a SharePoint Online list.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=165)** But as you scroll down, you'll see other intriguing data sources like Salesforce reports, LinkedIn Sales Navigator is here in beta, SparkPost and Zendesk in beta, so you scroll this and you see if there are any of these services, online services that your organization is using, because then you could connect to that data.
+> **[2:45](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=165)** But as you scroll down, you'll see other intriguing data sources like Salesforce reports, [[LinkedIn]] Sales Navigator is here in beta, SparkPost and Zendesk in beta, so you scroll this and you see if there are any of these services, online services that your organization is using, because then you could connect to that data.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=190)** And finally, Other is everything else.
 >
-> **[3:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=194)** Other includes SharePoint lists, the web, but other also includes using script from R or Python.
+> **[3:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=194)** Other includes SharePoint lists, the web, but other also includes using script from R or [[Python (Programming Language)|Python]].
 >
 > **[3:23](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980&t=203)** It includes using ODBC and OLE DB, both of which are tools that allow us to connect to structured data that we might not see listed anywhere else.
 >
@@ -315,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), power (16), bi (12), database (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (12), [[Microsoft Excel|Excel]] (3), [[SharePoint]] (3), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** odbc (2), ole (2), sql (1), csv (1), xml (1)
 > **CLI Commands:** make (1), python (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -324,22 +321,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to a file: Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980)
+#### [Connect to a file: Excel](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=0)** - [Instructor] We're going to begin by grabbing some data from Microsoft Excel.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=0)** - [Instructor] We're going to begin by grabbing some data from [[Microsoft Excel]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=4)** If you're working along with me, pause the movie now and download and extract the exercisefiles.zip archive from the landing page for this course if you've not done so already.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=17)** My preference would be that you extract the exercise files to your OneDrive for Business, create a folder for them.
+> **[0:17](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=17)** My preference would be that you extract the exercise files to your [[Microsoft OneDrive|OneDrive]] for Business, create a folder for them.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=25)** I named mine Power BI Desktop Exercise Files.
+> **[0:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=25)** I named mine [[Microsoft Power BI|Power BI]] Desktop Exercise Files.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=30)** But wherever you put them, make sure you know where it is 'cause you'll need to know that location in a minute.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=36)** I want to bring in data from an Excel workbook, so I'm going to click Excel workbook here.
+> **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=36)** I want to bring in data from an [[Microsoft Excel|Excel]] workbook, so I'm going to click Excel workbook here.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-excel?u=76281980&t=42)** I could also have clicked it down here on this tile.
 >
@@ -411,7 +407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), power (7), bi (7), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (2), checkbox (1), go to (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (1), find (1)
@@ -419,12 +415,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to a file: CSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980)
+#### [Connect to a file: CSV](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=0)** - I fired up Power BI Desktop again.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=0)** - I fired up [[Microsoft Power BI|Power BI]] Desktop again.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=4)** And here's the median age PBIX file we created in the last movie.
 >
@@ -460,7 +455,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=134)** Connection is being built in the model, and we'll come back to this later in the course, but the connection is being made to that file in its current location.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=142)** So Power BI Desktop knows that it will find that file in my OneDrive for business in a particular folder.
+> **[2:22](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=142)** So Power BI Desktop knows that it will find that file in my [[Microsoft OneDrive|OneDrive]] for business in a particular folder.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-file-csv?u=76281980&t=150)** And notice that we have one, two, three, four fields and the year is separated out into a date hierarchy.
 >
@@ -480,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (3), bi (3), product (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft OneDrive|Onedrive]] (1)
 > **Env Vars:** csv (6), pbix (2), gdp (1)
 > **Definitions:** is called (1), stands for (1), is a  (1)
 > **CLI Commands:** find (2)
@@ -488,14 +483,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), click on (1)
 > **Speakers:** - i (1)
 
-#### Connect to databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980)
+#### [Connect to databases](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=0)** - [Instructor] I fired up Power BI Desktop again, and now we're going to talk about how we connect to databases.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=0)** - [Instructor] I fired up [[Microsoft Power BI|Power BI]] Desktop again, and now we're going to talk about how we connect to [[Databases]].
 >
-> **[0:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=6)** Because most enterprise level data is not kept in Excel or in CSV files, it's kept in databases.
+> **[0:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=6)** Because most enterprise level data is not kept in [[Microsoft Excel|Excel]] or in CSV files, it's kept in databases.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=12)** So when we choose get data and click more and go to the database category, we get a list of the databases that we can import data from.
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=30)** You're going to choose a kind of database first and then click connect.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=34)** So we might, for example, choose SQL server and click connect.
+> **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=34)** So we might, for example, choose [[Microsoft SQL Server|SQL server]] and click connect.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=37)** And the next thing that we will be asked is what's the name of this server and what's the name of the database?
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=48)** So this is the information that we would need to be able to connect to this database.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=54)** I'm also going to open Advanced Options so you can see that there's room down here for a SQL statement.
+> **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=54)** I'm also going to open Advanced Options so you can see that there's room down here for a [[SQL]] statement.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-databases?u=76281980&t=60)** So if you haven't already been provided with a connection into a particular SQL Server database on tables that you want to retrieve, then this is a great time to have a conversation with your organization's database administrator or DBA, take your DBA out for a cup of coffee or a healthy snack, and tell them that you're trying to learn Power BI, and ask them for some settings here so that you could read data from a SQL Server database that you are interested in.
 >
@@ -561,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (8), [[Databases]] (5), [[Microsoft SQL Server|Sql server]] (5), power (4)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Power BI|Power bi]] (4), [[SQL]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (7), dba (3), csv (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (2)
@@ -570,8 +564,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to a web data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-web-data-source?u=76281980)
+#### [Connect to a web data source](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-web-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-web-data-source?u=76281980&t=49)** So if you want to search for list of countries by GDP, PPP per capita, you can do that.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-web-data-source?u=76281980&t=57)** I'm going to simply copy this, and swing back over into Power BI Desktop and paste that URL, and click OK.
+> **[0:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-web-data-source?u=76281980&t=57)** I'm going to simply copy this, and swing back over into [[Microsoft Power BI|Power BI]] Desktop and paste that URL, and click OK.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-web-data-source?u=76281980&t=70)** Now, this is for the whole page.
 >
@@ -663,21 +656,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), web (6), power (5), bi (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **Env Vars:** url (3), gdp (3), urli (1), ppp (1)
 > **Cross-References:** later in (1), in the next (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to a SharePoint list
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980)
+#### [Connect to a SharePoint list](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=0)** - [Instructor] If you're thinking, my company doesn't use SharePoint, I'm going to just skip this movie, wait, wait, wait a second.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=0)** - [Instructor] If you're thinking, my company doesn't use [[SharePoint]], I'm going to just skip this movie, wait, wait, wait a second.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=5)** If your company uses Microsoft Teams and you store things in the Files tab of Microsoft Teams, then you're using SharePoint because Teams uses SharePoint.
+> **[0:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=5)** If your company uses [[Microsoft Teams]] and you store things in the Files tab of Microsoft Teams, then you're using SharePoint because Teams uses SharePoint.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=14)** So there are a couple of good reasons you might want to know how to pull data out of SharePoint.
 >
@@ -687,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=27)** If you want to do what I'm doing, I encourage you to choose any list in SharePoint that you have access to with a number of columns and work along with me.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=36)** If not, just watch this movie so you'll see how easy it is to be able to connect to SharePoint online from Power BI.
+> **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=36)** If not, just watch this movie so you'll see how easy it is to be able to connect to SharePoint online from [[Microsoft Power BI|Power BI]].
 >
 > **[0:43](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=43)** We can connect with this list, which means we can then create charts about our inventory, and that would be a great reason to do this.
 >
@@ -761,7 +753,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=209)** And I'm going to say, I'm pulling this from residential sales, give me anonymous contact to residential sales.
 >
-> **[3:35](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=215)** I'm going to use my current credentials that I have logged in with, and it says I'm not signed into my Microsoft account, so I might want to take a hot second and do that.
+> **[3:35](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=215)** I'm going to use my current credentials that I have logged in with, and it says I'm not signed into my [[Microsoft]] account, so I might want to take a hot second and do that.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-a-sharepoint-list?u=76281980&t=229)** It says I'm currently signed in now.
 >
@@ -799,19 +791,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (26), power (4), bi (4), [[Microsoft Teams]] (2), teams (2)
+> **Frameworks & Libraries:** [[SharePoint]] (26), [[Microsoft Power BI|Power bi]] (4), [[Microsoft Teams]] (2), [[Microsoft]] (1)
 > **Versions:** 2.0 (3), 1.0 (1), version 1 (1), version 2 (1)
 > **Env Vars:** url (5)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to Microsoft Dataverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980)
+#### [Connect to Microsoft Dataverse](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=0)** - [Instructor] About five years ago, Microsoft and two of their corporate partners created and made available for free.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=0)** - [Instructor] About five years ago, [[Microsoft]] and two of their corporate partners created and made available for free.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=7)** this common data model.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=38)** The common data model has since been reimagined, and it is now called the Dataverse.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=44)** And the Dataverse is the default data source for a lot of the applications that we create using the power platform, of which Power BI is a part.
+> **[0:44](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=44)** And the Dataverse is the default data source for a lot of the applications that we create using the power platform, of which [[Microsoft Power BI|Power BI]] is a part.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/connect-to-microsoft-dataverse?u=76281980&t=54)** So if I wanted to grab data out of the dataverse, I simply click dataverse.
 >
@@ -857,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), data (6), database (3), bi (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -865,12 +856,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced connection types: DirectQuery and live connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980)
+#### [Advanced connection types: DirectQuery and live connections](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=0)** - [Instructor] We're going to wrap up our conversation about getting data with an overview of the Power BI data connection types.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=0)** - [Instructor] We're going to wrap up our conversation about getting data with an overview of the [[Microsoft Power BI|Power BI]] data connection types.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=6)** There are really three connection types or connection modes.
 >
@@ -878,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=17)** We begin with Import because Import is where all of our expertise is at this point.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=22)** Every time we've chosen to get data so far and made a connection to a file, an Excel workbook, a database, we have been using Import.
+> **[0:22](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=22)** Every time we've chosen to get data so far and made a connection to a file, an [[Microsoft Excel|Excel]] workbook, a database, we have been using Import.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=32)** When we Import, the data that we load is imported into the Power BI cache.
 >
@@ -892,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=80)** DirectQuery is not a new method. It's a very old method.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=85)** DirectQuery might be used with SQL Server, for example.
+> **[1:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=85)** DirectQuery might be used with [[Microsoft SQL Server|SQL Server]], for example.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=87)** And with DirectQuery, the data is not Imported to a local cache.
 >
@@ -948,7 +938,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=249)** When you have a live connection, the data source, again, is queried directly, but it's living in the Power BI service, so it is much faster than DirectQuery.
 >
-> **[4:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=260)** In this course, and in much of your data modeling life with Power BI Desktop, you'll use these modes roughly in this order.
+> **[4:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=260)** In this course, and in much of your [[Data Modeling]] life with Power BI Desktop, you'll use these modes roughly in this order.
 >
 > **[4:28](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/advanced-connection-types-directquery-and-live-connections?u=76281980&t=268)** Import is going to be your bread and butter.
 >
@@ -962,19 +952,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), power (13), bi (12), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (12), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Excel|Excel]] (2), [[Data Modeling]] (1)
 > **Env Vars:** sql (3), dba (1)
 > **Analogies:** for example (3), similar to (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the last (2)
 > **Speakers:** - [instructor] (1)
 
-#### Open a PBIX file or Excel data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/open-a-pbix-file-or-excel-data-model?u=76281980)
+#### [Open a PBIX file or Excel data model](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/open-a-pbix-file-or-excel-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/open-a-pbix-file-or-excel-data-model?u=76281980&t=0)** - [Instructor] There's another way that we can bring data directly into Power BI Desktop, and that's to open a semantic model, a data model that was created either using Power BI Desktop, or perhaps using Excel and tools like Power Pivot and Power Query that work with Microsoft Excel.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/open-a-pbix-file-or-excel-data-model?u=76281980&t=0)** - [Instructor] There's another way that we can bring data directly into [[Microsoft Power BI|Power BI]] Desktop, and that's to open a semantic model, a data model that was created either using Power BI Desktop, or perhaps using [[Microsoft Excel|Excel]] and tools like Power Pivot and [[Microsoft Power Query|Power Query]] that work with [[Microsoft Excel]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/open-a-pbix-file-or-excel-data-model?u=76281980&t=17)** To open a file that we created here, I'm usually going to go to File and then here are my Recent reports.
 >
@@ -1002,14 +991,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (7), bi (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** pbix (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the data source for a PBIX file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980)
+#### [Change the data source for a PBIX file](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,11 +1005,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=8)** And when you and I saved this PBIX file, the connection to that data source was saved as part of that file.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=16)** If you want to see what it looks like, go to the Home tab in Power BI Desktop, click the dropdown on Transform Data and choose Data source settings, and it will show you all the data sources that are in this particular data model.
+> **[0:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=16)** If you want to see what it looks like, go to the Home tab in [[Microsoft Power BI|Power BI]] Desktop, click the dropdown on Transform Data and choose Data source settings, and it will show you all the data sources that are in this particular data model.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=30)** In our case, just one table.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=33)** And this is the location of the original Excel spreadsheet that was used as the basis of medianage.pbix.
+> **[0:33](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=33)** And this is the location of the original [[Microsoft Excel|Excel]] spreadsheet that was used as the basis of medianage.pbix.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=40)** Now your PBIX file will have a different path, a path that goes to wherever you stored that original medianage.xlsx file.
 >
@@ -1049,9 +1037,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=126)** So it's cool to use data sources everybody has access to.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=129)** It's great to have a data source that's a SharePoint list.
+> **[2:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=129)** It's great to have a data source that's a [[SharePoint]] list.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=132)** It's great to have a data source that is a SQL Server database or is an Excel spreadsheet that I save on my OneDrive, but I also make available by sharing that particular folder or that file with all of my colleagues.
+> **[2:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=132)** It's great to have a data source that is a [[Microsoft SQL Server|SQL Server]] database or is an Excel spreadsheet that I save on my [[Microsoft OneDrive|OneDrive]], but I also make available by sharing that particular folder or that file with all of my colleagues.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/change-the-data-source-for-a-pbix-file?u=76281980&t=145)** So there are workarounds that I can use, but if you wanted, for example, to use the PBIX files that I have included, you're going to need to change where Power BI looks for them.
 >
@@ -1081,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), power (5), bi (5), [[Microsoft Excel|Excel]] (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft Excel|Excel]] (3), [[SharePoint]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Env Vars:** pbix (13), sql (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (4), dropdown (1)
@@ -1095,8 +1083,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rename columns in the Query Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980)
+#### [Rename columns in the Query Editor](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1091,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=10)** And I encouraged you to save it in the exercise files in the chapter two folder.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=14)** So, let's pop that open and learn a little bit more about how we're going to work with a particular semantic model like this one in Power BI.
+> **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=14)** So, let's pop that open and learn a little bit more about how we're going to work with a particular semantic model like this one in [[Microsoft Power BI|Power BI]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=24)** My overall goal across this movie and the next two movies is to use the Query Editor to create a list of the 25 countries with the largest GDP.
 >
@@ -1130,7 +1117,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=87)** And the reason is that we noticed that our problem here is that our first column names at the top, that first row, it just wasn't recognized as headings when this data was brought in.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=101)** And there wasn't any place like you'd get in a wizard in Excel that says, you know, "Does your table have headings or not?"
+> **[1:41](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=101)** And there wasn't any place like you'd get in a wizard in [[Microsoft Excel|Excel]] that says, you know, "Does your table have headings or not?"
 >
 > **[1:47](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980&t=107)** The assumption was that these aren't headings.
 >
@@ -1206,7 +1193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), power (1), bi (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** imf (6), cia (4), gdp (1)
 > **Non-Speech:** (keyboard keys clicking) (4)
 > **UI Navigation:** open the (1), go to (1), click on (1)
@@ -1215,12 +1202,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
 
-#### Remove rows and columns and change data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/remove-rows-and-columns-and-change-data-types?u=76281980)
+#### [Remove rows and columns and change data types](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/remove-rows-and-columns-and-change-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/remove-rows-and-columns-and-change-data-types?u=76281980&t=0)** - [Instructor] We're continuing with our work here in the Power Query Editor, transforming and modifying our dataset, and the sample data that I chose is not unusual in terms of how much transformation we're needing to do.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/remove-rows-and-columns-and-change-data-types?u=76281980&t=0)** - [Instructor] We're continuing with our work here in the [[Microsoft Power Query|Power Query]] Editor, transforming and modifying our dataset, and the sample data that I chose is not unusual in terms of how much transformation we're needing to do.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/remove-rows-and-columns-and-change-data-types?u=76281980&t=14)** This is a dataset that we got from Wikipedia.
 >
@@ -1282,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Microsoft Power Query|Power query]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** imf (3), cia (2), abc (1)
 > **Definitions:** is a  (3), in other words (1)
 > **UI Navigation:** click on (2), right-click (1)
@@ -1290,8 +1276,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reduce rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/reduce-rows?u=76281980)
+#### [Reduce rows](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/reduce-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,15 +1342,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2)
 > **Env Vars:** gdp (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
 
-#### Filter, set data types, and replace values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980)
+#### [Filter, set data types, and replace values](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,9 +1360,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980&t=25)** So we need to start by imagining the value of the reports that we'll be able to create, given the model that we are building.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980&t=34)** We're now going to create a different data model so that we can learn some of the other features of Microsoft Power Query, here in PowerBI desktop.
+> **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980&t=34)** We're now going to create a different data model so that we can learn some of the other features of [[Microsoft Power Query]], here in PowerBI desktop.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980&t=46)** I'm going to choose Excel Workbook, and we're going to go into the exercise files in chapter three and choose Transform Census.xlsx And open it.
+> **[0:46](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980&t=46)** I'm going to choose [[Microsoft Excel|Excel]] Workbook, and we're going to go into the exercise files in chapter three and choose Transform Census.xlsx And open it.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-set-data-type-replace-values?u=76281980&t=59)** This is historical census data from the first census in 1790 until the census of 1860.
 >
@@ -1535,7 +1518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (2), [[Microsoft Power Query]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** for example (2)
@@ -1544,8 +1527,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Unpivot columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980)
+#### [Unpivot columns](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1567,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=95)** Essentially, we want to unpivot the PivotTable.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=98)** And if you ever want to do that, you want to know that that exists here in Power BI.
+> **[1:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=98)** And if you ever want to do that, you want to know that that exists here in [[Microsoft Power BI|Power BI]].
 >
 > **[1:45](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=105)** So I'm going to go Home, I'm going to go to Transform Data, Transform Data to fire up the Query Editor.
 >
@@ -1637,24 +1619,23 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=237)** As a result of our unpivot operation, we now have 235 rows of data, each of which contain the name of the state, the year it was admitted, the year that census that is reported, and the value of the census for that year.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=250)** If we took this data into Excel, we could turn around and turn it into a PivotTable again.
+> **[4:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=250)** If we took this data into [[Microsoft Excel|Excel]], we could turn around and turn it into a PivotTable again.
 >
-> **[4:15](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=255)** But if you ever need to unpivot, come to Power Query here in Power BI.
+> **[4:15](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/unpivot-columns?u=76281980&t=255)** But if you ever need to unpivot, come to [[Microsoft Power Query|Power Query]] here in Power BI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (2), bi (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transform columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980)
+#### [Transform columns](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=0)** - [Instructor] Covering all the commands in the Power query editors, much more than we can do in this course, but I want to show you some specific choices that might be useful for you as you're working with data for your organization.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=0)** - [Instructor] Covering all the commands in the [[Microsoft Power Query|Power query]] editors, much more than we can do in this course, but I want to show you some specific choices that might be useful for you as you're working with data for your organization.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=11)** And I also want to encourage you to spend some time looking through the contents of the query editor.
 >
@@ -1662,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=36)** And there's a command that does that here.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=38)** It's also available to us in Microsoft Excel.
+> **[0:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=38)** It's also available to us in [[Microsoft Excel]].
 >
 > **[0:41](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=41)** You can reverse the rows, you can count the number of rows that you have.
 >
@@ -1698,7 +1679,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=125)** We've already seen unpivot columns.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=127)** You can also do filling here up and down like you would do in Excel.
+> **[2:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=127)** You can also do filling here up and down like you would do in [[Microsoft Excel|Excel]].
 >
 > **[2:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/transform-columns?u=76281980&t=130)** You can move a column to say, I'd like this to be the first column, the last column, and so on.
 >
@@ -1732,7 +1713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -1743,14 +1724,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prep to combine multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980)
+#### [Prep to combine multiple tables](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=0)** - [Instructor] In this next series of movies, we're going to use the data shaping tools of Power BI Desktop to create a model built from multiple tables.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=0)** - [Instructor] In this next series of movies, we're going to use the data shaping tools of [[Microsoft Power BI|Power BI]] Desktop to create a model built from multiple tables.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=8)** Most of these tables are included in an Excel workbook called CountryPops.xlsx, you'll find in the chapter 4 folder of the exercise files.
+> **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=8)** Most of these tables are included in an [[Microsoft Excel|Excel]] workbook called CountryPops.xlsx, you'll find in the chapter 4 folder of the exercise files.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=18)** I want to give you an idea about what we have and what we're trying to accomplish.
 >
@@ -1832,7 +1812,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=240)** From the fact book all the way down to South America classification, I'm going to load it all at one time and wait for it to all get here.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=250)** So Power Query created a number of queries to bring in all these sets of data.
+> **[4:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=250)** So [[Microsoft Power Query|Power Query]] created a number of queries to bring in all these sets of data.
 >
 > **[4:15](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980&t=255)** And here are our fields over here.
 >
@@ -1910,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (5), bi (5), [[Microsoft Excel|Excel]] (5), next (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft Excel|Excel]] (5), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (4), select the (2), open the (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1919,8 +1899,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 
-#### Append data to a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/append-data-to-a-query?u=76281980)
+#### [Append data to a query](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/append-data-to-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1942,7 +1921,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/append-data-to-a-query?u=76281980&t=39)** And remember, you can just double click and change the name so that we would have, you know, short names for each and every one of these, which is good.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/append-data-to-a-query?u=76281980&t=49)** What we want to do now is create a big data set that includes all of the countries on all of the continents.
+> **[0:49](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/append-data-to-a-query?u=76281980&t=49)** What we want to do now is create a [[Big Data]] set that includes all of the countries on all of the continents.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/append-data-to-a-query?u=76281980&t=57)** And to do that, we'll go back to transform data.
 >
@@ -1994,7 +1973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Big Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Cross-References:** go back to (2), in the last (1), in the next (1)
 > **UI Navigation:** click on (1), go to (1), scroll down (1)
 > **Exercise Files:** exercise files (2)
@@ -2002,8 +1981,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add an index column
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/add-an-index-column?u=76281980)
+#### [Add an index column](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/add-an-index-column?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,14 +2009,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (1), right-click (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean up data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980)
+#### [Clean up data](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=51)** And I have an issue here that is so strange, that I decided I would retain it and show you about it.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=58)** Because when this table was brought in, when it was loaded, Power BI decided that the best it could do would be to treat this as text, and I want to show you why.
+> **[0:58](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=58)** Because when this table was brought in, when it was loaded, [[Microsoft Power BI|Power BI]] decided that the best it could do would be to treat this as text, and I want to show you why.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=68)** If we change this to Decimal Number, then we're going to get some errors.
 >
@@ -2122,7 +2098,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=202)** It could be data where it has hidden characters or object code that you can't even really see, but it's there.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=211)** And so you'll find a couple of really good courses in the LinkedIn Learning library on data cleaning, and I will give you a recommend on those in the very last movie in our course.
+> **[3:31](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=211)** And so you'll find a couple of really good courses in the [[LinkedIn]] Learning library on [[Data Cleaning]], and I will give you a recommend on those in the very last movie in our course.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/clean-up-data?u=76281980&t=220)** For right now, I'm feeling pretty good about what I have created here, what I've done here.
 >
@@ -2136,7 +2112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (1), bi (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[LinkedIn]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Versions:** 0.09 (1), 0.01 (1)
 > **Definitions:** is called (2)
@@ -2144,8 +2120,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relate tables in your model
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980)
+#### [Relate tables in your model](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,13 +2140,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=29)** I'm going to click here on the model view.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=32)** I'm going to collapse the properties, and I'm going to use the zoom slider to make this small so I can see where everything is.
+> **[0:32](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=32)** I'm going to collapse the properties, and I'm going to use the [[Zoom]] slider to make this small so I can see where everything is.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=39)** So I have two queries that are related to each other and a bunch just hanging around.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=45)** So I'm going to click on this query here, right click, and I'm deleting the relationship in the query so that nothing is related.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=51)** Now, it is possible for me to ask Power BI to figure out what it thinks the relationships are.
+> **[0:51](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=51)** Now, it is possible for me to ask [[Microsoft Power BI|Power BI]] to figure out what it thinks the relationships are.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/relate-tables-in-your-model?u=76281980&t=59)** I can go to manage relationships and tell it to auto detect them and see what it figures out, and it'll probably figure out a boatload of relationships.
 >
@@ -2277,7 +2252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Zoom]] (2), power (2), bi (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), drag and drop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2285,8 +2260,7 @@ created: 2026-05-02
 > **Env Vars:** pbix (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hide or display queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/hide-or-display-queries?u=76281980)
+#### [Hide or display queries](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/hide-or-display-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2294,7 +2268,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/hide-or-display-queries?u=76281980&t=8)** I want to be able to work with all countries, population growth rate, and countries and populations.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/hide-or-display-queries?u=76281980&t=12)** The rest of these are just hanging out, and they might be useful for some other folks, but I don't think I want them to have to look at them when they're creating reports.
+> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/hide-or-display-queries?u=76281980&t=12)** The [[Representational State Transfer (REST)|rest]] of these are just hanging out, and they might be useful for some other folks, but I don't think I want them to have to look at them when they're creating reports.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/hide-or-display-queries?u=76281980&t=23)** I don't want to look at 'em when I'm creating reports.
 >
@@ -2318,16 +2292,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Merge data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980)
+#### [Merge data](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=0)** - [Instructor] We're continuing with the Power BI file that we were using at the end of the last movie.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=0)** - [Instructor] We're continuing with the [[Microsoft Power BI|Power BI]] file that we were using at the end of the last movie.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=6)** We're going to merge a couple of these data sources together so that we get a larger singular query.
 >
@@ -2375,7 +2348,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=182)** Okay, so the join that is most common is called a Left Outer join.
 >
-> **[3:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=186)** By the way, I've been working with databases for decades and I've never bothered to memorize what all of these are, because you can always see a definition when you work with them.
+> **[3:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=186)** By the way, I've been working with [[Databases]] for decades and I've never bothered to memorize what all of these are, because you can always see a definition when you work with them.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/merge-data?u=76281980&t=196)** So Left Outer join means we're going to get everybody from All Countries, and everybody from Countries and populations who matches.
 >
@@ -2465,7 +2438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (2), bi (2), product (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Databases]] (1)
 > **Definitions:** is called (3), means that (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (2)
@@ -2477,8 +2450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the Power BI Desktop Report view
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/use-the-power-bi-desktop-report-view?u=76281980)
+#### [Use the Power BI Desktop Report view](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/use-the-power-bi-desktop-report-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2610,7 +2582,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** checkbox (1), click on (1), scroll down (1)
 > **CLI Commands:** make (2)
@@ -2619,14 +2590,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format visualizations and apply themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980)
+#### [Format visualizations and apply themes](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=0)** - [Instructor] Let's spend a little bit of time formatting our report.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=3)** You can use themes in Power BI Desktop in the same way that you would use a theme in a Word document or an Excel spreadsheet.
+> **[0:03](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=3)** You can use themes in [[Microsoft Power BI|Power BI]] Desktop in the same way that you would use a theme in a [[Microsoft Word|Word]] document or an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=13)** You'll find these on the View tab of the ribbon.
 >
@@ -2662,7 +2632,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=95)** So we chose Name and we chose Countries, Population, but Power BI knew where to put both of those things, just like Excel would.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=105)** If you want to format, click the Format your Visual button, and you can then come in and, for example, add a zoom slider and turn it on or off.
+> **[1:45](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=105)** If you want to format, click the Format your Visual button, and you can then come in and, for example, add a [[Zoom]] slider and turn it on or off.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/format-visualizations-and-apply-themes?u=76281980&t=115)** That's kind of a cool thing to put, I think, on a map.
 >
@@ -2700,7 +2670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **Analogies:** for example (5), just like (1)
 > **CLI Commands:** find (2), snap (2), make (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -2709,12 +2679,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter with slicers and report and page filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980)
+#### [Filter with slicers and report and page filters](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=0)** - [Instructor] Let's talk a bit about how filtering works here in Power BI Desktop, because by default, visualizations are used to cross-filter each other.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=0)** - [Instructor] Let's talk a bit about how filtering works here in [[Microsoft Power BI|Power BI]] Desktop, because by default, visualizations are used to cross-filter each other.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=11)** So for example, if I click on the Asia bubble, notice what happens to my stacked bar chart.
 >
@@ -2730,7 +2699,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=41)** If I hold Control and click a couple of bubbles, that works too, and just click whoever you want to bring everybody back.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=52)** If I choose a country here, then it will zoom in on the continent that that country is in.
+> **[0:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=52)** If I choose a country here, then it will [[Zoom]] in on the continent that that country is in.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/filter-with-slicers-and-report-and-page-filters?u=76281980&t=62)** Remember, this bubble isn't for China, this bubble is for the continent of Asia.
 >
@@ -2790,7 +2759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), [[Zoom]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
@@ -2801,16 +2770,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sharing: The basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980)
+#### [Sharing: The basics](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=0)** - [Instructor] There are a number of ways we can share our reports and our data models from Power BI with colleagues.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=0)** - [Instructor] There are a number of ways we can share our reports and our data models from [[Microsoft Power BI|Power BI]] with colleagues.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=7)** And the method we choose depends on what it is we want to share and who we're sharing it with.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=12)** For example, you can embed a report in a Microsoft Teams channel for use by the people who have access to that channel.
+> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=12)** For example, you can embed a report in a [[Microsoft Teams]] channel for use by the people who have access to that channel.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=23)** So if your organization uses Microsoft Teams, this might be your best option for report sharing.
 >
@@ -2822,11 +2790,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=54)** Now, if you've been using the PBIX files in this course, you're aware of one potential downside.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=60)** If your data models included local data sources like Excel workbooks or CSV files, then your colleagues will need to change the data source location for those files or the PBIX file will just give them an error.
+> **[1:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=60)** If your data models included local data sources like [[Microsoft Excel|Excel]] workbooks or CSV files, then your colleagues will need to change the data source location for those files or the PBIX file will just give them an error.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=75)** However, in organizational life, you can usually find a way around this.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=81)** For example, you can store your file data sources in a SharePoint library or a shared folder in your OneDrive for Business before you retrieve the data for your data model.
+> **[1:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=81)** For example, you can store your file data sources in a [[SharePoint]] library or a shared folder in your [[Microsoft OneDrive|OneDrive]] for Business before you retrieve the data for your data model.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=93)** You can distribute or share PBIX files the same way.
 >
@@ -2840,7 +2808,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=126)** Another option is to publish your report, which sends it to the Power BI Service directly from Power BI Desktop.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=134)** These last two methods both upload a PBIX to Microsoft's PBI storage in the cloud.
+> **[2:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=134)** These last two methods both upload a PBIX to [[Microsoft]]'s PBI storage in the cloud.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=141)** There's one more method that I'd like to name for you, which is Live Connections.
 >
@@ -2852,17 +2820,17 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=172)** Creating and sharing live connections is a great way to give your colleagues a head start on creating their own reports based on your data sets.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=180)** And then finally, in the Power BI Service, you can create dashboards by pinning visuals from reports that you created, either here in Power BI Desktop or in the Power BI Service.
+> **[3:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=180)** And then finally, in the Power BI Service, you can create [[Dashboards]] by pinning visuals from reports that you created, either here in Power BI Desktop or in the Power BI Service.
 >
 > **[3:11](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=191)** We can create dashboards in Power BI Desktop, but dashboards are the original way and a solid way to share information from a report in a summary fashion.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=202)** The other advantage you have with the dashboard is a report can only contain information about the data set, the data model in the report, but you can create a dashboard that includes visuals from multiple reports, all of them on a single dashboard.
 >
-> **[3:37](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=217)** To learn more about how to create and share dashboards in Power BI Service, I recommend [[Power Bi Essential Training]], and Helen Wall's course, Data Dashboards in Power BI, both available in the LinkedIn Learning Library.
+> **[3:37](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980&t=217)** To learn more about how to create and share dashboards in Power BI Service, I recommend [[Power Bi Essential Training]], and Helen Wall's course, Data Dashboards in Power BI, both available in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (12), bi (12), [[Dashboards]] (5), [[SharePoint]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (12), [[Dashboards]] (5), [[SharePoint]] (3), [[Microsoft Teams]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **Env Vars:** pbix (9), pbi (2), csv (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -2870,8 +2838,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publish from Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980)
+#### [Publish from Power BI Desktop](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2893,7 +2860,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=50)** Notice that you can't create a new workspace here.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=54)** You would need to do that in the Power BI Service.
+> **[0:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=54)** You would need to do that in the [[Microsoft Power BI|Power BI]] Service.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=57)** But you can select from the workspaces that exist there here in Power BI Desktop.
 >
@@ -2939,25 +2906,24 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=167)** I can also share my data from here with a share command.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=178)** Or I can share it from here to Microsoft Teams or elsewhere, which we'll do in a bit.
+> **[2:58](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=178)** Or I can share it from here to [[Microsoft Teams]] or elsewhere, which we'll do in a bit.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/publish-from-power-bi-desktop?u=76281980&t=184)** So, when we're all set, publish to the Power BI service, and that allows us to do further sharing from this point forward.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (6), bi (6), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get a PBIX file from the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/get-a-pbix-file-from-the-power-bi-service?u=76281980)
+#### [Get a PBIX file from the Power BI service](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/get-a-pbix-file-from-the-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/get-a-pbix-file-from-the-power-bi-service?u=76281980&t=0)** - [Instructor] So what would it look like if I were in the Power BI service, and I wanted to retrieve one of the items that I just created?
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/get-a-pbix-file-from-the-power-bi-service?u=76281980&t=0)** - [Instructor] So what would it look like if I were in the [[Microsoft Power BI|Power BI]] service, and I wanted to retrieve one of the items that I just created?
 >
 > **[0:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/get-a-pbix-file-from-the-power-bi-service?u=76281980&t=9)** Well, for example, if I want to use Countries Populations Final, here's my report.
 >
@@ -2975,20 +2941,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display Power BI content in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980)
+#### [Display Power BI content in Microsoft Teams](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980&t=0)** - [Instructor] Here we are in the Power BI service.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980&t=0)** - [Instructor] Here we are in the [[Microsoft Power BI|Power BI]] service.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980&t=3)** If I want to share to Microsoft Teams, I can't share directly from desktop, I have to share something I've published to the service, and I can do that either from Teams or from the service itself.
+> **[0:03](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980&t=3)** If I want to share to [[Microsoft Teams]], I can't share directly from desktop, I have to share something I've published to the service, and I can do that either from Teams or from the service itself.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/display-power-bi-content-in-microsoft-teams?u=76281980&t=14)** Let me show you how I can take this report from the Power BI service and show it, display it as a tab in Microsoft Teams.
 >
@@ -3072,7 +3037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), bi (10), teams (8), [[Microsoft Teams]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (10), [[Microsoft Teams]] (2)
 > **UI Navigation:** go to (3)
 > **Env Vars:** url (2)
 > **Definitions:** is a  (2)
@@ -3085,16 +3050,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start Copilot for the first time
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980)
+#### [Start Copilot for the first time](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980&t=0)** - [Instructor] On the Home tab of the ribbon in Power BI Desktop, at the far right-hand side, there is a Copilot icon.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980&t=0)** - [Instructor] On the Home tab of the ribbon in [[Microsoft Power BI|Power BI]] Desktop, at the far right-hand side, there is a [[Microsoft Copilot|Copilot]] icon.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980&t=6)** Now, it's going to look like it's enabled whether you have access to Copilot in Power BI or not.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980&t=14)** And if you have access to Copilot, for example, in Microsoft Outlook or Word, or even Power Apps or Power Automate, you may not have access in Copilot because it's licensed differently.
+> **[0:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980&t=14)** And if you have access to Copilot, for example, in [[Microsoft Outlook]] or [[Microsoft Word|Word]], or even Power Apps or Power Automate, you may not have access in Copilot because it's licensed differently.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980&t=27)** And there's a movie in the Appendix at the end of the course that explains all this and what you might need.
 >
@@ -3108,18 +3072,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), power (4), bi (2), [[Microsoft Outlook]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a visualization using Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980)
+#### [Create a visualization using Copilot](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=0)** - [Instructor] Here we are in Power BI Desktop, with the Copilot pane open.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=0)** - [Instructor] Here we are in [[Microsoft Power BI|Power BI]] Desktop, with the [[Microsoft Copilot|Copilot]] pane open.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=5)** And we're being offered some prompts to create a new Report page, to suggest content for a new Report page to answer a question about the data.
 >
@@ -3127,7 +3090,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=16)** But first, we're going to need some data because right now, we have no data.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=21)** Click Excel Workbook on the Home tab, and go to the Chapter 07 folder in the Exercise Files.
+> **[0:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=21)** Click [[Microsoft Excel|Excel]] Workbook on the Home tab, and go to the Chapter 07 folder in the Exercise Files.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=27)** And open Catalog_Requests, which is a small dataset, 200 rows or so.
 >
@@ -3141,7 +3104,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=64)** Some of them will be four digits, and some will be five because the New England Zipcodes start with a zero, and that's trimmed off because the Navigator believes that that's probably a whole number.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=74)** So let's click Transform Data, and we'll throw ourselves right into Power Query directly.
+> **[1:14](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=74)** So let's click Transform Data, and we'll throw ourselves right into [[Microsoft Power Query|Power Query]] directly.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=80)** And slide across to Zipcode, this column.
 >
@@ -3197,7 +3160,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=216)** There actually isn't a particular column called type, there's one called Catalog Type.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=222)** But Copilot was able to find that, to look across at the column heading and say, "One of these includes the word type, I bet that's what they wanted."
+> **[3:42](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=222)** But Copilot was able to find that, to look across at the column heading and say, "One of these includes the [[Microsoft Word|word]] type, I bet that's what they wanted."
 >
 > **[3:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-visualization-using-copilot?u=76281980&t=232)** Now, you can ask, "How did Copilot arrive at this?"
 >
@@ -3209,7 +3172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Copilot|Copilot]] (10), power (2), bi (2), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -3218,8 +3181,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a report page using Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980)
+#### [Create a report page using Copilot](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3233,7 +3195,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=20)** I'm going to click Create a New Report Page.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=24)** And Copilot tells me, "I can create a page for you.
+> **[0:24](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=24)** And [[Microsoft Copilot|Copilot]] tells me, "I can create a page for you.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=28)** "What do you wanna know about?"
 >
@@ -3247,13 +3209,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=56)** Not shockingly, we get a map as a result.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=60)** And this is what Power BI Copilot used to do this.
+> **[1:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=60)** And this is what [[Microsoft Power BI|Power BI]] Copilot used to do this.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=67)** It used the title that I provided.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=70)** The key metrics are Total Records, 200.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=73)** And Visuals, an Azure map.
+> **[1:13](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=73)** And Visuals, an [[Microsoft Azure|Azure]] map.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-report-page-using-copilot?u=76281980&t=76)** And maybe I don't want to have slicers for city and state.
 >
@@ -3265,17 +3227,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Copilot|Copilot]] (4), power (1), bi (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Azure|Azure]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a multipage report
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980)
+#### [Create a multipage report](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=0)** - [Instructor] At any time, if you wanna clear what's in the chat and get back to your original prompts, you just click the broom button to do that.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=8)** I would like to see what kind of suggestions Copilot has for me for new report pages.
+> **[0:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=8)** I would like to see what kind of suggestions [[Microsoft Copilot|Copilot]] has for me for new report pages.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=16)** So I'm going to click suggest content for a new report page, and I'll see several options.
 >
@@ -3325,15 +3286,14 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=123)** Or in this case, I'm actually getting three visualizations, one with a really nice legend.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=129)** So this is how I can create quickly and easily a draft at least of a multi-page report here in Power BI desktop using Copilot.
+> **[2:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-multipage-report?u=76281980&t=129)** So this is how I can create quickly and easily a draft at least of a multi-page report here in [[Microsoft Power BI|Power BI]] desktop using Copilot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), data (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a narrative summary visual using Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980)
+#### [Create a narrative summary visual using Copilot](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3341,7 +3301,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=7)** Something like key findings, for example.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=9)** And you can use the artificial intelligence power of Copilot to craft that for you.
+> **[0:09](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=9)** And you can use the [[Artificial Intelligence (AI)|artificial intelligence]] power of [[Microsoft Copilot|Copilot]] to craft that for you.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=16)** And there are two different ways that you can do this.
 >
@@ -3373,7 +3333,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=92)** And another thing that I should do here is I should actually clean this up a little bit.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=98)** Because when I'm using this narrative summary or the narrative vis, which I'll show you in a second, Power BI is not going back to the data source to provide information as it did when I asked it to create a visualization like this one or create a page like the pages we created.
+> **[1:38](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=98)** Because when I'm using this narrative summary or the narrative vis, which I'll show you in a second, [[Microsoft Power BI|Power BI]] is not going back to the data source to provide information as it did when I asked it to create a visualization like this one or create a page like the pages we created.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/create-a-narrative-summary-visual-using-copilot?u=76281980&t=115)** It's actually looking at the report itself and the visualizations that are here.
 >
@@ -3455,7 +3415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), data (4), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1)
@@ -3467,16 +3427,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have reached the end of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=4)** Before you go on to other important things in your life, take a moment now to post your certificate of completion to your LinkedIn Learning profile so that people who are looking for you or others with Power BI skills or interests can more easily find you.
+> **[0:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=4)** Before you go on to other important things in your life, take a moment now to post your certificate of completion to your [[LinkedIn]] Learning profile so that people who are looking for you or others with [[Microsoft Power BI|Power BI]] skills or interests can more easily find you.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=21)** This is the end of the course, but certainly not the end of what you can learn about Power BI, Power BI Desktop, and data modeling.
+> **[0:21](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=21)** This is the end of the course, but certainly not the end of what you can learn about Power BI, Power BI Desktop, and [[Data Modeling]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=28)** I have some recommendations for you, all of them from the LinkedIn Learning Library.
 >
@@ -3484,7 +3443,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=43)** This course covers the Power BI service in depth and is one of the top five courses on LinkedIn Learning.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=52)** If you have access to Copilot and want to know how to use it for creating data models, then I recommend Power BI Copilot Tips and Troubleshooting by my colleague Helen Wall.
+> **[0:52](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=52)** If you have access to [[Microsoft Copilot|Copilot]] and want to know how to use it for creating data models, then I recommend Power BI Copilot Tips and Troubleshooting by my colleague Helen Wall.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=68)** You'll learn about what Copilot can and can't yet do for you in Power BI in Desktop.
 >
@@ -3492,7 +3451,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=86)** And if you would like a firmer foundation in data modeling, I would recommend Robin Hunt's Learning Data Analytics courses, which you can work through right alongside the Power BI tools.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=100)** Finally, if you'd like to know more about data modeling in Power BI using formulas, I recommend my course, [[Power BI Data Modeling with DAX]], which allows you to add formulas to the modeling techniques you already have learned to work, for example, with custom columns.
+> **[1:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=100)** Finally, if you'd like to know more about data modeling in Power BI using formulas, I recommend my course, [[Power BI Data Modeling with [[DAX]]]], which allows you to add formulas to the modeling techniques you already have learned to work, for example, with custom columns.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980&t=119)** It's truly been a pleasure to create this course for you.
 >
@@ -3502,7 +3461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (12), bi (12), data (7), [[LinkedIn]] (4), [[Microsoft Copilot|Copilot]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (12), [[LinkedIn]] (4), [[Data Modeling]] (4), [[Microsoft Copilot|Copilot]] (3), [[DAX]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dax (1)
 > **Analogies:** for example (1)
@@ -3513,12 +3472,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power BI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980)
+#### [Power BI tools](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=0)** - [Narrator] Power BI Desktop is one tool in a set of tools.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=0)** - [Narrator] [[Microsoft Power BI|Power BI]] Desktop is one tool in a set of tools.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=5)** Power BI includes Power BI Desktop, Power BI for mobile, which is the mobile app that works for your particular device, some dev tools, and then the Power BI service, [powerbi.com](https://powerbi.com).
 >
@@ -3528,7 +3486,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=31)** And Power BI Service has its own extended feature set.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=34)** For example, the Power BI Service is the only place you and I can create dashboards.
+> **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=34)** For example, the Power BI Service is the only place you and I can create [[Dashboards]].
 >
 > **[0:40](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=40)** All of these tools together make up what we refer to when we say Power BI.
 >
@@ -3560,17 +3518,17 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=143)** So by licensing the enterprise as a whole, all of your Power BI users have access to what would normally be a higher level of licensing.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=154)** If your organization has purchased Power BI premium capacity, they are reserving space full-time, 24/7/365, for Power BI on a Microsoft server.
+> **[2:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=154)** If your organization has purchased Power BI premium capacity, they are reserving space full-time, 24/7/365, for Power BI on a [[Microsoft]] server.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=166)** This is the most expensive licensing that's available for Power BI.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=171)** Here's why it is important that you know this.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=174)** Copilot is available in Power BI, but only in workspaces that are in a Power BI Premium capacity.
+> **[2:54](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=174)** [[Microsoft Copilot|Copilot]] is available in Power BI, but only in workspaces that are in a Power BI Premium capacity.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=184)** In other words, if you're working for a very large organization, some of their workspaces may also support Copilot.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=192)** For the rest of us, we will not be using Copilot and Power BI, although I'll show you a little bit about Copilot as we go through this course.
+> **[3:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=192)** For the [[Representational State Transfer (REST)|rest]] of us, we will not be using Copilot and Power BI, although I'll show you a little bit about Copilot as we go through this course.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980&t=200)** So in Power BI Desktop, we're going to walk through a series of steps.
 >
@@ -3586,25 +3544,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (33), bi (33), data (8), [[Microsoft Copilot|Copilot]] (4), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (33), [[Microsoft Copilot|Copilot]] (4), [[Dashboards]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), in other words (1), known as (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Install Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980)
+#### [Install Power BI Desktop](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=0)** - [Instructor] In this movie, I'll show you how to install Power BI Desktop.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=0)** - [Instructor] In this movie, I'll show you how to install [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=4)** And if you don't already have a Power BI account, I'll show you how to get one.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=7)** So I'm going to begin by going to [powerbi.com](https://powerbi.com).
 >
-> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=12)** And if you have a Microsoft account to log into, you should do that.
+> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=12)** And if you have a [[Microsoft]] account to log into, you should do that.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=18)** And when you sign in, Power BI will load.
 >
@@ -3614,7 +3571,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=30)** If I want Power BI Desktop, I click the Download button, choose Power BI Desktop.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=36)** I'm taken to the Microsoft Store for my version of Windows, I click Open or click Get, and Power BI Desktop will be installed and I will be logged in.
+> **[0:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=36)** I'm taken to the Microsoft Store for my version of [[Windows]], I click Open or click Get, and Power BI Desktop will be installed and I will be logged in.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=49)** That's what that looks like.
 >
@@ -3650,7 +3607,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=151)** So after it made me spend some time verifying that I'm human, it says, "You need a work email address."
 >
-> **[2:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=156)** So what if you don't have a Microsoft 365 account and you don't have a work or organizational email address?
+> **[2:36](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=156)** So what if you don't have a [[Microsoft 365]] account and you don't have a work or organizational email address?
 >
 > **[2:44](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=164)** You don't have an email address that ends in, like, .com or .edu or .net.
 >
@@ -3658,7 +3615,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=173)** To get a work email address, we have a workaround.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=176)** So if you need a work email address, then we're going to go into our browser and we're going to search for m365 business trial.
+> **[2:56](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=176)** So if you need a work email address, then we're going to go into our browser and we're going to search for [[Microsoft 365|m365]] business trial.
 >
 > **[3:11](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=191)** So Microsoft 365 Business Standard Free One-Month Trial.
 >
@@ -3666,7 +3623,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=200)** And after a month, you'll be charged, but you'll have a month in the meantime to work with it.
 >
-> **[3:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=205)** And what you'll get are Word, Excel, PowerPoint, Outlook, Teams, OneDrive.
+> **[3:25](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=205)** And what you'll get are [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], Teams, [[Microsoft OneDrive|OneDrive]].
 >
 > **[3:29](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/install-power-bi-desktop?u=76281980&t=209)** But you'll also get a work email address that you can use to sign up for Power BI, like I just showed you.
 >
@@ -3686,7 +3643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15), bi (15), [[Microsoft]] (3), [[Microsoft 365]] (3), business (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (15), [[Microsoft]] (3), [[Microsoft 365]] (3), [[Windows]] (1), [[Microsoft 365|M365]] (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (4)
 > **UI Navigation:** go to (3)
 > **Analogies:** it's like (1), for example (1)
@@ -3695,14 +3652,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Requirements for Copilot in Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980)
+#### [Requirements for Copilot in Power BI Desktop](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980&t=0)** - [Instructor] Here we are in Power BI Desktop and on the home tab we have this lovely Copilot icon and it looks like it's enabled, which would make you think that Copilot will work, but it looks the same whether it's going to work for you or not.
+> **[0:00](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980&t=0)** - [Instructor] Here we are in [[Microsoft Power BI|Power BI]] Desktop and on the home tab we have this lovely [[Microsoft Copilot|Copilot]] icon and it looks like it's enabled, which would make you think that Copilot will work, but it looks the same whether it's going to work for you or not.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980&t=12)** There are requirements that Microsoft has put in place that are specific to Power BI, whether it's Power BI, desktop or service that really mean that you'll have to, that your organization will need to pay more to get you this access above and beyond any other Copilot access that they've given you in Microsoft 365 or other parts of the Power platform.
+> **[0:12](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980&t=12)** There are requirements that [[Microsoft]] has put in place that are specific to Power BI, whether it's Power BI, desktop or service that really mean that you'll have to, that your organization will need to pay more to get you this access above and beyond any other Copilot access that they've given you in [[Microsoft 365]] or other parts of the Power platform.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/requirements-for-copilot-in-power-bi-desktop?u=76281980&t=34)** To use Copilot in Power BI, you need to have specific types of workspace access to one or more workspaces that have a particular structure.
 >
@@ -3756,7 +3712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (19), bi (18), [[Microsoft Copilot|Copilot]] (11), [[Microsoft]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (18), [[Microsoft Copilot|Copilot]] (11), [[Microsoft]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** f64 (3)
 > **UI Navigation:** click on (1), go to (1)

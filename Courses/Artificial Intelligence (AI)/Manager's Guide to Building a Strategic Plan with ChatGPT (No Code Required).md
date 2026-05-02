@@ -64,8 +64,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use AI to build a strategy that works
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980)
+#### [Use AI to build a strategy that works](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -77,13 +76,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980&t=14)** You just need a team that needs a plan.
 >
-> **[0:17](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980&t=17)** I'm Lisa Bodell, and in this course, you'll learn how to use ChatGPT to build a complete six-month strategic plan step-by-step in less than an hour.
+> **[0:17](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980&t=17)** I'm Lisa Bodell, and in this course, you'll learn how to use [[ChatGPT]] to build a complete six-month strategic plan step-by-step in less than an hour.
 >
 > **[0:28](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980&t=28)** Let's build a strategy that works in the real world, one prompt at a time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Speakers:** - strategic (1)
 
 
@@ -91,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI as your strategic disruptor
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980)
+#### [AI as your strategic disruptor](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,9 +98,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=3)** With the right help, it can be faster, clearer, and even energizing.
 >
-> **[0:07](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=7)** In this course, you'll use ChatGPT as a thought partner to build your team's strategic plan one step at a time.
+> **[0:07](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=7)** In this course, you'll use [[ChatGPT]] as a thought partner to build your team's strategic plan one step at a time.
 >
-> **[0:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=14)** We'll follow Jordan, a fictional team lead, running customer success at a mid-sized SaaS company.
+> **[0:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=14)** We'll follow Jordan, a fictional team lead, running customer success at a mid-sized [[SaaS]] company.
 >
 > **[0:21](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=21)** Jordan needs a plan quickly.
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=26)** A competitor just launched an innovative AI onboarding product.
 >
-> **[0:31](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=31)** Before jumping into goals or metrics, she opens ChatGPT, and types the following prompt: "Act as my AI strategy advisor.
+> **[0:31](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=31)** Before jumping into goals or metrics, she opens ChatGPT, and types the following prompt: "Act as my [[AI Strategy]] advisor.
 >
 > **[0:41](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980&t=41)** Using the following information about my team, what are five questions I should be thinking about before creating my six-month strategy?"
 >
@@ -150,12 +148,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (3), prompt (3), business (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[SaaS]] (1), [[AI Strategy]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define strategic goals and identify priorities with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/define-strategic-goals-and-identify-priorities-with-ai?u=76281980)
+#### [Define strategic goals and identify priorities with AI](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/define-strategic-goals-and-identify-priorities-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/define-strategic-goals-and-identify-priorities-with-ai?u=76281980&t=28)** But even strong goals need scrutiny.
 >
-> **[0:31](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/define-strategic-goals-and-identify-priorities-with-ai?u=76281980&t=31)** So Jordan then asks ChatGPT the following: Here are my three goals.
+> **[0:31](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/define-strategic-goals-and-identify-priorities-with-ai?u=76281980&t=31)** So Jordan then asks [[ChatGPT]] the following: Here are my three goals.
 >
 > **[0:38](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/define-strategic-goals-and-identify-priorities-with-ai?u=76281980&t=38)** What tensions, risks, or blind spots might exist between them?
 >
@@ -233,14 +230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (5), prompt (2), business (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8)
 > **Env Vars:** coo (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use AI to spot disruptions and weak signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980)
+#### [Use AI to spot disruptions and weak signals](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,11 +246,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=14)** This is where AI becomes your radar.
 >
-> **[0:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=16)** It doesn't just react, it scans ahead.
+> **[0:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=16)** It doesn't just [[React.js|react]], it scans ahead.
 >
-> **[0:20](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=20)** Jordan goes to ChatGPT and types the following prompt.
+> **[0:20](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=20)** Jordan goes to [[ChatGPT]] and types the following prompt.
 >
-> **[0:24](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=24)** "What are three emerging risks or weak signals that could affect customer success teams and SaaS this year?"
+> **[0:24](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=24)** "What are three emerging risks or weak signals that could affect customer success teams and [[SaaS]] this year?"
 >
 > **[0:32](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-spot-disruptions-and-weak-signals?u=76281980&t=32)** She hits Enter and ChatGPT surfaces things like this.
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[ChatGPT]] (2), teams (2), [[React.js|React]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[React.js|React]] (1), [[SaaS]] (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
 
@@ -323,8 +319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore future scenarios and plan for uncertainty with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980)
+#### [Explore future scenarios and plan for uncertainty with AI](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980&t=16)** Jordan wants her team to be prepared, not just for what's predictable, but for what's possible.
 >
-> **[0:22](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980&t=22)** She opens ChatGPT, and types this prompt.
+> **[0:22](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980&t=22)** She opens [[ChatGPT]], and types this prompt.
 >
 > **[0:26](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980&t=26)** What are three plausible scenarios my team might face over the next six to 12 months based on our goals and industry?
 >
@@ -404,15 +399,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (3), next (2), prompt (1), hit (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stress test strategic assumptions with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980)
+#### [Stress test strategic assumptions with AI](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=3)** Now it's time to pressure test something often overlooked when it comes to strategy, your assumptions 'Cause even a solid strategy can fall apart if it's built on wrong assumptions.
 >
-> **[0:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=16)** Jordan starts by asking ChatGPT this.
+> **[0:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=16)** Jordan starts by asking [[ChatGPT]] this.
 >
 > **[0:20](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=20)** Based on my goals, what three big assumptions might we be making?
 >
@@ -442,7 +436,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=74)** Let's see what it says.
 >
-> **[1:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=76)** Look at how this helps organize strategic thinking quickly.
+> **[1:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=76)** Look at how this helps organize [[Strategic Thinking]] quickly.
 >
 > **[1:20](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/stress-test-strategic-assumptions-with-ai?u=76281980&t=80)** This is the kind of strategic thinking most people skip, but it's what helps leaders avoid blind spots.
 >
@@ -472,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (2), [[Strategic Thinking]] (2), prompt (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Strategic Thinking]] (2)
 > **Cross-References:** go back to (1), coming up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -481,16 +475,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use AI to analyze your competitive positioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980)
+#### [Use AI to analyze your competitive positioning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=0)** - [Instructor] Now that your strategy is taking shape, it's time to zoom out and look at how it compares to the competition.
+> **[0:00](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=0)** - [Instructor] Now that your strategy is taking shape, it's time to [[Zoom]] out and look at how it compares to the competition.
 >
 > **[0:06](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=6)** Jordan knows what her team wants to achieve, but she also knows her competition is fierce.
 >
-> **[0:12](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=12)** She opens ChatGPT and types the following prompt.
+> **[0:12](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=12)** She opens [[ChatGPT]] and types the following prompt.
 >
 > **[0:16](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=16)** Compare our customers success strategy to competitors who've already launched AI onboarding tools.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=52)** Her team's high touch personalized service may actually be a differentiator.
 >
-> **[0:57](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=57)** Just like ChatGPT says, you're prioritizing relationships while your competitors are optimizing for speed and scalability.
+> **[0:57](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=57)** Just like ChatGPT says, you're prioritizing relationships while your competitors are optimizing for speed and [[Scalability]].
 >
 > **[1:04](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980&t=64)** Maybe that will help her stand out.
 >
@@ -558,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Zoom]] (1), prompt (1), ai (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Zoom]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
@@ -569,8 +562,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a strategic roadmap using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980)
+#### [Create a strategic roadmap using AI](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980&t=5)** We'll continue following Jordan, our fictional team lead, as she uses AI to bring structure to her plan.
 >
-> **[0:12](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980&t=12)** Jordan now asks ChatGPT the following, "Create a 3-phase strategic roadmap based on everything we've uncovered so far, our refined goals, risks, assumptions, and competitive insights."
+> **[0:12](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980&t=12)** Jordan now asks [[ChatGPT]] the following, "Create a 3-phase strategic roadmap based on everything we've uncovered so far, our refined goals, risks, assumptions, and competitive insights."
 >
 > **[0:27](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980&t=27)** ChatGPT quickly thinks, and here's what we find.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), leadership (1), prompt (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -644,8 +636,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Craft compelling data narratives with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980)
+#### [Craft compelling data narratives with AI](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,7 +646,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=12)** Jordan's plan looks great on paper, but different people need to hear it in different ways.
 >
-> **[0:17](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=17)** So she asks ChatGPT the following: :Help me write a one-paragraph summary of this plan for my team.
+> **[0:17](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=17)** So she asks [[ChatGPT]] the following: :Help me write a one-paragraph summary of this plan for my team.
 >
 > **[0:24](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=24)** Make it clear, energizing, and practical.
 >
@@ -679,7 +670,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=83)** Jordan then adds one more thing.
 >
-> **[1:27](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=87)** "Now write a version I can post in Slack or say out loud at a meeting.
+> **[1:27](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=87)** "Now write a version I can post in [[Slack]] or say out loud at a meeting.
 >
 > **[1:32](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980&t=92)** Short and inspiring."
 >
@@ -715,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (4), next (4), hit (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Slack]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** nnr (1)
 > **Cross-References:** in the next (1)
@@ -727,8 +718,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI as a coleader: Embracing continual strategic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980)
+#### [AI as a coleader: Embracing continual strategic thinking](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +754,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980&t=62)** It's such a smart prompt and helps you pivot if you need to.
 >
-> **[1:06](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980&t=66)** And then to learn a little bit more about team alignment, she uses this prompt, summarize this month's progress and goals in three sentences I can post in Slack.
+> **[1:06](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980&t=66)** And then to learn a little bit more about team alignment, she uses this prompt, summarize this month's progress and goals in three sentences I can post in [[Slack]].
 >
 > **[1:18](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980&t=78)** Short and simple, and AI does the work.
 >
@@ -790,7 +780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (4), prompt (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -800,8 +790,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Activate your strategic plan with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980)
+#### [Activate your strategic plan with AI](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=6)** Let's check back in with Jordan, our fictional team lead who's now ready to turn all this thinking into real world traction.
 >
-> **[0:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=14)** To kick off, Jordan uses ChatGPT to write a simple activation message.
+> **[0:14](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=14)** To kick off, Jordan uses [[ChatGPT]] to write a simple activation message.
 >
 > **[0:21](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=21)** Help me write a kickoff email to energize my team around our six-month plan.
 >
@@ -839,7 +828,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=92)** It's not fancy, but it works.
 >
-> **[1:34](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=94)** It builds accountability without adding noise.
+> **[1:34](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=94)** It builds [[Accountability]] without adding noise.
 >
 > **[1:37](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980&t=97)** Now, Jordan also wants to track learning, so she types this prompt: Based on our current challenges, suggest one reflection question per month to help the team stay sharp.
 >
@@ -867,7 +856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (3), prompt (2), next (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Accountability]] (1)
 > **Analogies:** just like (2)
 > **Env Vars:** nrr (1)
 > **Speakers:** - [instructor] (1)

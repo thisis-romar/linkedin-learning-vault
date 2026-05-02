@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Effectively present data with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980)
+#### [Effectively present data with Python](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,11 +100,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=8)** Everyone is on the same quest, wondering how to leverage this data to gain understanding, see trends, and gain competitive advantages.
 >
-> **[0:17](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=17)** Data science is the key to solving what businesses need today.
+> **[0:17](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=17)** [[Data Science]] is the key to solving what businesses need today.
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=21)** Finding the right tool is critical.
 >
-> **[0:23](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=23)** This is where Python comes in.
+> **[0:23](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=23)** This is where [[Python (Programming Language)|Python]] comes in.
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=26)** You can create compelling and publishable visualizations using Python's powerful data science libraries.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=44)** In this course, you will be able to create compelling data visualizations using Python.
 >
-> **[0:49](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=49)** We'll take a look at some of the various tools available, and you'll learn how to manipulate data using Pandas.
+> **[0:49](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=49)** We'll take a look at some of the various tools available, and you'll learn how to manipulate data using [[Pandas (Software)|Pandas]].
 >
 > **[0:54](https://www.linkedin.com/learning/python-for-data-visualization-2023/effectively-present-data-with-python?u=76281980&t=54)** Also, you get a chance to create your own visualizations using Matplotlib.
 >
@@ -129,18 +128,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (5), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Science]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5), find (1), go build (1)
 > **Speakers:** - in (1)
 
-#### Before you start
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/before-you-start?u=76281980)
+#### [Before you start](https://www.linkedin.com/learning/python-for-data-visualization-2023/before-you-start?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/before-you-start?u=76281980&t=0)** - There are a few things I'd like you to be aware of as we get started.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-data-visualization-2023/before-you-start?u=76281980&t=3)** First, you should be able to understand basic Python data structures, such as lists, tuples, and dictionaries.
+> **[0:03](https://www.linkedin.com/learning/python-for-data-visualization-2023/before-you-start?u=76281980&t=3)** First, you should be able to understand basic [[Python (Programming Language)|Python]] [[Data Structures]], such as lists, tuples, and dictionaries.
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-visualization-2023/before-you-start?u=76281980&t=10)** Also, you get more out of this course if you have a basic understanding of Jupyter Notebooks.
 >
@@ -154,15 +152,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (2)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/python-for-data-visualization-2023/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,8 +186,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Value of data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/value-of-data-visualization?u=76281980)
+#### [Value of data visualization](https://www.linkedin.com/learning/python-for-data-visualization-2023/value-of-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,17 +218,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Analogies:** just like (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage programming languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980)
+#### [Leverage programming languages](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=0)** - [Instructor] There are a lot of great reasons to use a programming language like Python to build data visualizations.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=0)** - [Instructor] There are a lot of great reasons to use a programming language like [[Python (Programming Language)|Python]] to build data visualizations.
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=6)** First, there are a lot of different types of visualizations you can make, including boxplots, bar graphs, line graphs, histograms, et cetera.
 >
@@ -242,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=31)** You first have to have data, where you clean it, you simplify it, and sometimes even augment your data source if your data source is not rich enough.
 >
-> **[0:38](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=38)** From there, you can use that understanding from your visualization to improve your data quality or to explore other aspects of your data, and this process can keep on going until you have a visualization that tells a compelling story.
+> **[0:38](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=38)** From there, you can use that understanding from your visualization to improve your [[Data Quality]] or to explore other aspects of your data, and this process can keep on going until you have a visualization that tells a compelling story.
 >
 > **[0:51](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=51)** So there are a few common tools and libraries in Python to build data visualizations.
 >
@@ -252,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=67)** Next, there are two major plotting libraries in Python, Matplotlib and Seaborn.
 >
-> **[1:13](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=73)** And lastly, we'll go over the NumPy and Pandas libraries, as before you can visualize data, you have to get it, you have to clean it, and sometimes even augment it, and NumPy and Pandas help you do it.
+> **[1:13](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=73)** And lastly, we'll go over the NumPy and [[Pandas (Software)|Pandas]] libraries, as before you can visualize data, you have to get it, you have to clean it, and sometimes even augment it, and NumPy and Pandas help you do it.
 >
 > **[1:24](https://www.linkedin.com/learning/python-for-data-visualization-2023/leverage-programming-languages?u=76281980&t=84)** So as far as why we use the Anaconda Python distribution, Python has a solid claim to be the fastest-growing major programming language, and Anaconda is the strongly recommended way of installing Jupyter Notebooks.
 >
@@ -294,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (6), [[Programming]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Pandas (Software)|Pandas]] (6), [[Data Quality]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Tools:** anaconda (5), jupyter (5)
 > **Analogies:** think of it as (1), kind of like (1), such as (1)
@@ -303,14 +297,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
 
-#### Overview of Jupyter Notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980)
+#### [Overview of Jupyter Notebooks](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=0)** - [Instructor] To get started with the Jupyter Notebook, you first have to open it.
 >
-> **[0:04](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=4)** I'm working on a Mac, and on a Windows and a Mac, you can open up a Jupyter Notebook through Anaconda Navigator.
+> **[0:04](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=4)** I'm working on a Mac, and on a [[Windows]] and a Mac, you can open up a Jupyter Notebook through Anaconda Navigator.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=11)** I'll click on Anaconda Navigator.
 >
@@ -320,13 +313,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=20)** As you can see, Anaconda run a process, and it's open at Jupyter Notebook here in Chrome.
 >
-> **[0:26](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=26)** Depending on what your default browser is, it could open up in a different browser such as Firefox, Safari, or Microsoft Edge.
+> **[0:26](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=26)** Depending on what your default browser is, it could open up in a different browser such as Firefox, Safari, or [[Microsoft]] Edge.
 >
 > **[0:35](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=35)** I'll go ahead and make this full screen.
 >
 > **[0:39](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=39)** I'll click on Desktop.
 >
-> **[0:41](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=41)** I'm going to open up a Jupyter Notebook by clicking New, Python 3, and traditionally, like you always do, I'll go ahead and print Hello World.
+> **[0:41](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=41)** I'm going to open up a Jupyter Notebook by clicking New, [[Python (Programming Language)|Python]] 3, and traditionally, like you always do, I'll go ahead and print Hello World.
 >
 > **[0:51](https://www.linkedin.com/learning/python-for-data-visualization-2023/overview-of-jupyter-notebooks?u=76281980&t=51)** I'll press Shift + Enter to run the cell, and there we go.
 >
@@ -348,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Windows]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** jupyter (7), anaconda (3), firefox (1), safari (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), python (1)
@@ -361,20 +354,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980)
+#### [Introduction to pandas](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=0)** - [Instructor] In order to make a visualization, we need data, and we usually need it in organized tabular form suitable for plotting.
 >
-> **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=7)** The Pandas library provides easy to use data structures and data analysis tools you can use to make your data easier to plot.
+> **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=7)** The [[Pandas (Software)|Pandas]] library provides easy to use [[Data Structures]] and data analysis tools you can use to make your data easier to plot.
 >
 > **[0:13](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=13)** Pandas data frames are multidimensional, labeled data structures similar to tables and spreadsheets with rows and columns.
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=20)** With it, you can store and manipulate data in a table format, providing a convenient way to analyze and visualize it.
 >
-> **[0:27](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=27)** An important data structure of the Panda's library is a fast and efficient object for data manipulation called a data frame.
+> **[0:27](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=27)** An important data structure of the Panda's library is a fast and efficient object for [[Data Manipulation]] called a data frame.
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-data-visualization-2023/introduction-to-pandas?u=76281980&t=33)** You can manipulate and transform data frames easily with various Pandas methods.
 >
@@ -406,14 +398,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (7), feature (2), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Data Structures]] (2), [[Data Manipulation]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), such as (1), for example (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980)
+#### [Create sample data](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=8)** So what we have here is a car loan of $34,690 with a 7.02% interest rate over 60 months.
 >
-> **[0:16](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=16)** There are multiple approaches to structure your data and to a form acceptable by Pandas DataFrame.
+> **[0:16](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=16)** There are multiple approaches to structure your data and to a form acceptable by [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=21)** One approach is by using a nested list where in the first row, we have the first month of our car payment.
 >
@@ -441,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=55)** In this case it's a Toyota Sienna.
 >
-> **[0:57](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=57)** And then we also have the column names, which are what I just told you before in the form of a Python list where we have the month, the starting balance, the repayment, et cetera.
+> **[0:57](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=57)** And then we also have the column names, which are what I just told you before in the form of a [[Python (Programming Language)|Python]] list where we have the month, the starting balance, the repayment, et cetera.
 >
 > **[1:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-sample-data?u=76281980&t=66)** And then once we have the data in a nice clean format, we're going to press shift enter to run the cell.
 >
@@ -503,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** carloans (5), colnames (4)
 > **CLI Commands:** python (7), find (1)
 > **Analogies:** for example (3), similar to (1)
@@ -512,14 +503,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1), note that (1)
 > **Tools:** terminal (1)
 
-#### Load sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980)
+#### [Load sample data](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980&t=0)** - [Instructor] In my line of work as a Python instructor, one question I often get from students is, "How do you load your own data?"
+> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980&t=0)** - [Instructor] In my line of work as a [[Python (Programming Language)|Python]] instructor, one question I often get from students is, "How do you load your own data?"
 >
-> **[0:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980&t=6)** In this video, I'm going to show you how to load CSV and Excel files using the Pandas library.
+> **[0:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980&t=6)** In this video, I'm going to show you how to load CSV and [[Microsoft Excel|Excel]] files using the [[Pandas (Software)|Pandas]] library.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/load-sample-data?u=76281980&t=11)** So the first thing you have to do is you have to find out where your files are located.
 >
@@ -561,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (7), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** car_financing (4), load_data (1), read_csv (1), pd_read_excel (1), read_excel (1)
 > **Env Vars:** csv (3)
 > **Exercise Files:** exercise files (3)
@@ -570,12 +560,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
 
-#### Basic operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/basic-operations?u=76281980)
+#### [Basic operations](https://www.linkedin.com/learning/python-for-data-visualization-2023/basic-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/basic-operations?u=76281980&t=0)** - [Narrator] After reading the contents of a file into your Pandas DataFrame, it's important to examine your data for a couple of reasons.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/basic-operations?u=76281980&t=0)** - [Narrator] After reading the contents of a file into your [[Pandas (Software)|Pandas]] DataFrame, it's important to examine your data for a couple of reasons.
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/basic-operations?u=76281980&t=6)** First, you need to ensure that you've correctly loaded the data.
 >
@@ -615,18 +604,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Simplify with slicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980)
+#### [Simplify with slicing](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=0)** - [Instructor] When working with large data sets, oftentimes you're only interested in a smaller subset of your data, and that's why slicing is so important.
 >
-> **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=7)** And in this video, I'll teach you how to select columns in pandas, because oftentimes, you're only interested in a smaller subset of columns in your data, and I'll also show you how to use slicing operations in pandas.
+> **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=7)** And in this video, I'll teach you how to select columns in [[Pandas (Software)|pandas]], because oftentimes, you're only interested in a smaller subset of columns in your data, and I'll also show you how to use slicing operations in pandas.
 >
 > **[0:18](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=18)** I'm working with a car loans dataset, where I have the DataFrame df, and I'm looking at the first five rows.
 >
@@ -676,7 +664,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=131)** One reason why you might use a pandas series as opposed to a DataFrame is that with a pandas series, you can select rows using slicing, where you have the series, the start index of what you want to select, the end index of what you want to select.
 >
-> **[2:26](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=146)** And keep in mind, the end index is not inclusive, and this behavior is very similar to Python lists.
+> **[2:26](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=146)** And keep in mind, the end index is not inclusive, and this behavior is very similar to [[Python (Programming Language)|Python]] lists.
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=153)** So I have a pandas series here, where I'm looking at the car_type column.
 >
@@ -716,11 +704,11 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=246)** So that's it.
 >
-> **[4:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=247)** If in the future you're presented with a big data set and you want to look at a subset of it, consider slicing.
+> **[4:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/simplify-with-slicing?u=76281980&t=247)** If in the future you're presented with a [[Big Data]] set and you want to look at a subset of it, consider slicing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (15), data (5), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (15), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1)
 > **Code Identifiers:** car_type (8)
 > **Definitions:** is a  (3), in other words (2), is called (1)
 > **Warnings:** keep in mind (4), common error (1)
@@ -729,8 +717,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter and clean data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980)
+#### [Filter and clean data](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=5)** For example, say I have a car loan dataset and I want to filter out the data to only have a car type of Toyota Sienna with an interest rate of 7.02%.
 >
-> **[0:16](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=16)** So the first thing I'm going to do is I'm look at the first five rows in my dataset, and while it appears that the first five rows are only Toyota Siennas, that doesn't mean the rest of my dataset is all of car type Toyota Sienna.
+> **[0:16](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=16)** So the first thing I'm going to do is I'm look at the first five rows in my dataset, and while it appears that the first five rows are only Toyota Siennas, that doesn't mean the [[Representational State Transfer (REST)|rest]] of my dataset is all of car type Toyota Sienna.
 >
 > **[0:29](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=29)** The first thing I'm going to do is I'll use the value counts method on the car type column to see what other kind of cars I have my dataset.
 >
@@ -758,7 +745,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=88)** I have two equal signs because this is equality, and I have the type of car I'm interested in, in this case, Toyota Sienna.
 >
-> **[1:37](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=97)** And what this produces is a pandas series of true and false values.
+> **[1:37](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=97)** And what this produces is a [[Pandas (Software)|pandas]] series of true and false values.
 >
 > **[1:42](https://www.linkedin.com/learning/python-for-data-visualization-2023/filter-and-clean-data?u=76281980&t=102)** There's a couple different ways to utilize this pandas filter of true and false values to get a data frame of just Toyota Siennas.
 >
@@ -814,7 +801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (11), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (11), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 7.02 (6), 3.59 (2)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2)
@@ -822,14 +809,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rename and delete columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980)
+#### [Rename and delete columns](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=0)** - [Instructor] When you have a data set, it's often the case where you want to change your column names to make them more legible, more understandable, or more easy to program with, or sometimes you want to remove unnecessary columns.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=11)** An advantage of removing unnecessary columns is it can free up RAM on your computer and it's also a good data science practice.
+> **[0:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=11)** An advantage of removing unnecessary columns is it can free up RAM on your computer and it's also a good [[Data Science]] practice.
 >
 > **[0:18](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=18)** There are two popular ways to rename data frame columns.
 >
@@ -867,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=131)** In the case of the code below, I want to change the month column where it starts with a capital M to our lowercase m.
 >
-> **[2:19](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=139)** However, with this technique, I still need to list the rest of the columns and assign it back to the df.columns attribute.
+> **[2:19](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=139)** However, with this technique, I still need to list the [[Representational State Transfer (REST)|rest]] of the columns and assign it back to the df.columns attribute.
 >
 > **[2:27](https://www.linkedin.com/learning/python-for-data-visualization-2023/rename-and-delete-columns?u=76281980&t=147)** And now as you can see, I have a lowercase m for the month column.
 >
@@ -893,19 +879,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** starting_balance (1)
 > **Env Vars:** ram (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980)
+#### [Aggregate functions](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=0)** - [Instructor] When working with a dataset, it's often a good idea to compute summary statistics.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=0)** - [Instructor] When working with a dataset, it's often a good idea to compute summary [[Statistics]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=4)** Summary statistics can tell you about your outliers, if your data is symmetrical, and how tightly grouped your data is.
 >
@@ -929,7 +914,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=71)** While the sum for the interest paid column is what we had before when we just summed across the interest paid column, the car type column seems to be a bit different.
 >
-> **[1:21](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=81)** And the reason why this is the case is if you recall with Python, when you add two strings together, they can concatenate.
+> **[1:21](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=81)** And the reason why this is the case is if you recall with [[Python (Programming Language)|Python]], when you add two strings together, they can concatenate.
 >
 > **[1:27](https://www.linkedin.com/learning/python-for-data-visualization-2023/aggregate-functions?u=76281980&t=87)** It's important to note that if you ever don't know exactly what a method does, I encourage you to use the help method where you have help, open parenthesis, the name of the data frame, in this case DF, open brackets, the name of the column, .sum, shift plus enter.
 >
@@ -951,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** nans (1), nan (1)
 > **Code Identifiers:** interest_paid (1)
@@ -960,18 +945,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980)
+#### [Identify missing data](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=0)** - [Instructor] When working with a dataset, you'll often run into missing values.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=3)** Values can be originally missing from a dataset or be a product of data manipulation.
+> **[0:03](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=3)** Values can be originally missing from a dataset or be a product of [[Data Manipulation]].
 >
-> **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=7)** In pandas, missing values are typically called NaN or none.
+> **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=7)** In [[Pandas (Software)|pandas]], missing values are typically called NaN or none.
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=12)** Missing data can hint at data collection errors, indicate improper conversion or manipulation of data, or they can actually not be considered missing at all.
+> **[0:12](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=12)** Missing data can hint at [[Data Collection]] errors, indicate improper conversion or manipulation of data, or they can actually not be considered missing at all.
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=20)** For some datasets, missing data can be listed as zero, false, not applicable, entered an empty string, among many other possibilities.
 >
@@ -995,7 +979,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=89)** The reason why this is the case is in the R language, NA and null are two different things.
 >
-> **[1:35](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=95)** This is to make our programmers have an easier time when working with Python.
+> **[1:35](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=95)** This is to make our programmers have an easier time when working with [[Python (Programming Language)|Python]].
 >
 > **[1:39](https://www.linkedin.com/learning/python-for-data-visualization-2023/identify-missing-data?u=76281980&t=99)** I tend to prefer isna as this tends to be similar in naming to other Python methods.
 >
@@ -1039,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), product (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), [[Data Manipulation]] (1), [[Data Collection]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Code Identifiers:** interest_paid (1), interest_missing (1)
 > **Definitions:** is a  (1)
@@ -1047,8 +1031,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove or fill in missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/remove-or-fill-in-missing-data?u=76281980)
+#### [Remove or fill in missing data](https://www.linkedin.com/learning/python-for-data-visualization-2023/remove-or-fill-in-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-data-visualization-2023/remove-or-fill-in-missing-data?u=76281980&t=43)** The first way is simply to remove the missing values.
 >
-> **[0:46](https://www.linkedin.com/learning/python-for-data-visualization-2023/remove-or-fill-in-missing-data?u=76281980&t=46)** And in pandas you can remove the missing values by using the drop NA method.
+> **[0:46](https://www.linkedin.com/learning/python-for-data-visualization-2023/remove-or-fill-in-missing-data?u=76281980&t=46)** And in [[Pandas (Software)|pandas]] you can remove the missing values by using the drop NA method.
 >
 > **[0:51](https://www.linkedin.com/learning/python-for-data-visualization-2023/remove-or-fill-in-missing-data?u=76281980&t=51)** And what the code here does is I have a pandas data frame from index 30 up until, but not including index 40, and I'm dropping the rows where I have any NAN values.
 >
@@ -1148,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (3), application (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Env Vars:** nan (10), loc (1)
 > **Versions:** 89.77 (2), 93.24 (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1157,12 +1140,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert pandas DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/convert-pandas-dataframes?u=76281980)
+#### [Convert pandas DataFrames](https://www.linkedin.com/learning/python-for-data-visualization-2023/convert-pandas-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/convert-pandas-dataframes?u=76281980&t=0)** - [Instructor] When working with Pandas DataFrames, you'll oftentimes find you want to convert them to NumPy arrays or Python dictionaries.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/convert-pandas-dataframes?u=76281980&t=0)** - [Instructor] When working with [[Pandas (Software)|Pandas]] DataFrames, you'll oftentimes find you want to convert them to NumPy arrays or [[Python (Programming Language)|Python]] dictionaries.
 >
 > **[0:07](https://www.linkedin.com/learning/python-for-data-visualization-2023/convert-pandas-dataframes?u=76281980&t=7)** The reason why is because certain libraries prefer NumPy rays or Python dictionaries as inputs to their methods as opposed to Pandas DataFrames.
 >
@@ -1192,16 +1174,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export pandas DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980)
+#### [Export pandas DataFrames](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980&t=0)** - [Instructor] When working with Panda's DataFrames it's often a good idea to export them to either CSV or Excel files.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980&t=0)** - [Instructor] When working with Panda's DataFrames it's often a good idea to export them to either CSV or [[Microsoft Excel|Excel]] files.
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980&t=6)** This is because it's a great way to share your results with others.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980&t=9)** In Pandas, you can export your DataFrame to a CSV file by using the to_CSV method.
+> **[0:09](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980&t=9)** In [[Pandas (Software)|Pandas]], you can export your DataFrame to a CSV file by using the to_CSV method.
 >
 > **[0:16](https://www.linkedin.com/learning/python-for-data-visualization-2023/export-pandas-dataframes?u=76281980&t=16)** In this case, I have a relative path where inside my current working directory, there's a folder called data, and inside that folder is where I'm exporting the CSV file.
 >
@@ -1223,7 +1204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3)
 > **Env Vars:** csv (4)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
@@ -1233,8 +1214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of Matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980)
+#### [Basics of Matplotlib](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=15)** The first thing we have to do is import the libraries we're going to use.
 >
-> **[0:19](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=19)** We're going to utilize the pandas and NumPy libraries to manipulate data in a format that's suitable for plotting.
+> **[0:19](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=19)** We're going to utilize the [[Pandas (Software)|pandas]] and NumPy libraries to manipulate data in a format that's suitable for plotting.
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=26)** We're going to import matplotlib.pyplot as PLT, and PLT is just an alias for the matplotlib.pyplot module.
 >
@@ -1308,7 +1288,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=204)** If you're coming from R, you can also use the GG plot style as you can see here.
 >
-> **[3:31](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=211)** You can also use different styles like Tableau colorblind.
+> **[3:31](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=211)** You can also use different styles like [[Tableau]] colorblind.
 >
 > **[3:34](https://www.linkedin.com/learning/python-for-data-visualization-2023/basics-of-matplotlib?u=76281980&t=214)** You can also use the seaboard style, which is a wrapper for Matplotlib, as you can see here.
 >
@@ -1318,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (2), next (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Tableau]] (1)
 > **Env Vars:** plt (5), sns (1), loc (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (4)
@@ -1326,11 +1306,9 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set marker type and colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/set-marker-type-and-colors?u=76281980)
+#### [Set marker type and colors](https://www.linkedin.com/learning/python-for-data-visualization-2023/set-marker-type-and-colors?u=76281980)
 
-#### MATLAB-style vs. object syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/matlab-style-vs-object-syntax?u=76281980)
+#### [MATLAB-style vs. object syntax](https://www.linkedin.com/learning/python-for-data-visualization-2023/matlab-style-vs-object-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,8 +1354,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set titles, labels, and limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/set-titles-labels-and-limits?u=76281980)
+#### [Set titles, labels, and limits](https://www.linkedin.com/learning/python-for-data-visualization-2023/set-titles-labels-and-limits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,8 +1431,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add grids
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/add-grids?u=76281980)
+#### [Add grids](https://www.linkedin.com/learning/python-for-data-visualization-2023/add-grids?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,8 +1485,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create legends
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-legends?u=76281980)
+#### [Create legends](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-legends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,8 +1529,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save plots to files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/save-plots-to-files?u=76281980)
+#### [Save plots to files](https://www.linkedin.com/learning/python-for-data-visualization-2023/save-plots-to-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1621,7 +1595,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Tools:** jupyter (3)
 > **Env Vars:** matlab (1), dpi (1)
 > **Analogies:** think of it as (1), just like (1)
@@ -1629,14 +1602,13 @@ created: 2026-05-02
 > **Code Identifiers:** tight_layout (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create plots with Matplotlib wrappers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980)
+#### [Create plots with Matplotlib wrappers](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=0)** - [Lecturer] Matplotlib is a very popular data visualization library, but definitely has its flaws.
 >
-> **[0:05](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=5)** So in this video, we'll learn about two Matplotlib wrappers, pandas and seaborn.
+> **[0:05](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=5)** So in this video, we'll learn about two Matplotlib wrappers, [[Pandas (Software)|pandas]] and seaborn.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=11)** Matplotlib defaults are not ideal.
 >
@@ -1704,7 +1676,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=214)** You can also make boxplots using the seaborn library, and seaborn can be seen as a wrapper on top of Matplotlib.
 >
-> **[3:41](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=221)** And seaborn's website lists a bunch of advantages of using seaborn, including close integration with pandas data structures, a dataset oriented API for examining relationships between multiple variables, specialized support for using categorical variables to show observations or aggregate statistics, concise control over Matplotlib figure styling with several built-in themes, and tools for choosing color palettes that faithfully reveal patterns in your data.
+> **[3:41](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=221)** And seaborn's website lists a bunch of advantages of using seaborn, including close integration with pandas [[Data Structures]], a dataset oriented API for examining relationships between multiple variables, specialized support for using categorical variables to show observations or aggregate [[Statistics]], concise control over Matplotlib figure styling with several built-in themes, and tools for choosing color palettes that faithfully reveal patterns in your data.
 >
 > **[4:09](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=249)** The first thing you have to do if you want to use seaborn is import seaborn.
 >
@@ -1716,11 +1688,11 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=273)** And then what you see here is that unlike the plots from before, this is more colorful, but perhaps more importantly, the malignant and the benign boxplots are closer together so it's easier to make a comparison between the two of them.
 >
-> **[4:48](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=288)** In this video, I showed you how to use two Matplotlib wrappers, pandas, which is normally used for data manipulation, can also be used for data visualization, and seaborn, which makes plotting in Matplotlib a lot easier.
+> **[4:48](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-plots-with-matplotlib-wrappers?u=76281980&t=288)** In this video, I showed you how to use two Matplotlib wrappers, pandas, which is normally used for [[Data Manipulation]], can also be used for data visualization, and seaborn, which makes plotting in Matplotlib a lot easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (11), api (1), [[Statistics]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (11), [[Data Structures]] (1), [[Statistics]] (1), [[Data Manipulation]] (1)
 > **Code Identifiers:** area_mean (4), cancer_df (2)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** csv (1), api (1), sns (1)
@@ -1732,8 +1704,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create heatmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980)
+#### [Create heatmaps](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980&t=39)** We're going to make sure matplotlib is inline, which means that our graphics will display inline in the notebook.
 >
-> **[0:45](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980&t=45)** We're going to import NumPy as np, as well as Pandas as pd.
+> **[0:45](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980&t=45)** We're going to import NumPy as np, as well as [[Pandas (Software)|Pandas]] as pd.
 >
 > **[0:51](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-heatmaps?u=76281980&t=51)** To make a heatmap, we first have to import our libraries.
 >
@@ -1819,15 +1790,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is a  (4), means that (1), is called (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-histograms?u=76281980)
+#### [Create histograms](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1847,7 +1817,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-histograms?u=76281980&t=35)** If you look at our import statements, we have Matplotlib inline.
 >
-> **[0:39](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-histograms?u=76281980&t=39)** We're going to import pandas as pd, as not only can we manipulate data with pandas, we'll see how to create a histogram using the plotting functionality of the Pandas library.
+> **[0:39](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-histograms?u=76281980&t=39)** We're going to import [[Pandas (Software)|pandas]] as pd, as not only can we manipulate data with pandas, we'll see how to create a histogram using the plotting functionality of the Pandas library.
 >
 > **[0:48](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-histograms?u=76281980&t=48)** We're also going to import matplotlib.pyplot as plt.
 >
@@ -1911,7 +1881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (6)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** usa (1), csv (1)
 > **Analogies:** for example (2)
@@ -1920,8 +1890,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)
 
-#### Create subplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980)
+#### [Create subplots](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1933,7 +1902,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=11)** We're going to have our figures appear inline in the notebook, so we're specifying inline.
 >
-> **[0:15](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=15)** We're going to import pandas, NumPy, and Matplotlib.
+> **[0:15](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=15)** We're going to import [[Pandas (Software)|pandas]], NumPy, and Matplotlib.
 >
 > **[0:18](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=18)** The next thing we have to do is you have to load our dataset, and our dataset is the digits dataset from scikit-learn.
 >
@@ -2017,7 +1986,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=252)** And what this next bit of code is doing is it's saying that we want all the pixel intensity values for the index label of one.
 >
-> **[4:19](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=259)** A similar process happens for the rest of the for loop.
+> **[4:19](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=259)** A similar process happens for the [[Representational State Transfer (REST)|rest]] of the for loop.
 >
 > **[4:22](https://www.linkedin.com/learning/python-for-data-visualization-2023/create-subplots?u=76281980&t=262)** As you see here, we now have our images side by side with a lot less code.
 >
@@ -2027,7 +1996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (3), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Warnings:** note that (2), keep in mind (1)
 > **Code Identifiers:** read_csv (1), image_label (1)
 > **Definitions:** means that (1), is an  (1)
@@ -2041,8 +2010,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,7 +2020,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=9)** As you probably know, your learning doesn't stop here.
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=12)** Python is a very expansive topic, and there's a lot of resources available that can help you keep learning.
+> **[0:12](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=12)** [[Python (Programming Language)|Python]] is a very expansive topic, and there's a lot of resources available that can help you keep learning.
 >
 > **[0:18](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=18)** Here are a few resources to help with your journey.
 >
@@ -2066,11 +2034,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=38)** On my blog, I cover everything from installations to basic Python to advanced machine learning.
 >
-> **[0:44](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=44)** If you're looking for a data science job, I encourage you to check out my blog post titled "How to Build a Data Science Portfolio" to help you on your way.
+> **[0:44](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=44)** If you're looking for a [[Data Science]] job, I encourage you to check out my blog post titled "How to Build a Data Science Portfolio" to help you on your way.
 >
 > **[0:52](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=52)** And finally, stay in touch.
 >
-> **[0:54](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=54)** You can connect with me on LinkedIn.
+> **[0:54](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=54)** You can connect with me on [[LinkedIn]].
 >
 > **[0:56](https://www.linkedin.com/learning/python-for-data-visualization-2023/next-steps?u=76281980&t=56)** I'd love to hear from you.
 >
@@ -2084,7 +2052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Science]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)

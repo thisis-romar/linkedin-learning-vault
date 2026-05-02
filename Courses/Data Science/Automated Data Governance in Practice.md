@@ -84,20 +84,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Governance-as-code
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980)
+#### [Governance-as-code](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=0)** - Today, more than ever, organizations want data to deliver results, but they also want to manage the risks associated with it.
 >
-> **[0:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=8)** A data governance framework can provide a successful pathway to achieve these goals.
+> **[0:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=8)** A [[Data Governance]] framework can provide a successful pathway to achieve these goals.
 >
 > **[0:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=13)** Yet many enterprises discover that data governance is manually intensive and often overly bureaucratic.
 >
 > **[0:21](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=21)** Data governance operations, or data gov ops, can offer a transformational solution here.
 >
-> **[0:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=27)** Through a continuous delivery model, data gov ops streamlines data operations, improves data quality, and enhances compliance requirements.
+> **[0:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=27)** Through a [[Continuous Delivery (CD)|continuous delivery]] model, data gov ops streamlines data operations, improves [[Data Quality]], and enhances compliance requirements.
 >
 > **[0:36](https://www.linkedin.com/learning/automated-data-governance-in-practice/governance-as-code?u=76281980&t=36)** So if you're looking to improve your data operations and manage data risks, join me, Dr. Jonathan Reichental as your guide to learn what data gov ops is, how it can help, and how you can implement it.
 >
@@ -107,17 +106,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Data Quality]] (1)
 > **Speakers:** - today (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980&t=0)** - While I created this course for everyone from the data novice to the expert in any industry, you'll likely benefit from some foundational knowledge in data management and data governance.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980&t=0)** - While I created this course for everyone from the data novice to the expert in any industry, you'll likely benefit from some foundational knowledge in [[Data Management]] and [[Data Governance]].
 >
-> **[0:12](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980&t=12)** I don't think these are essential by any means, but consider taking one of the intro courses on these topics from the LinkedIn Learning Library.
+> **[0:12](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980&t=12)** I don't think these are essential by any means, but consider taking one of the intro courses on these topics from the [[LinkedIn]] Learning Library.
 >
 > **[0:21](https://www.linkedin.com/learning/automated-data-governance-in-practice/what-you-should-know?u=76281980&t=21)** The knowledge that is required coming into this course is an understanding of what data is, and the role it plays in organizations.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[LinkedIn]] (2), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Management]] (1), [[Data Governance]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - while (1)
 
@@ -138,16 +136,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data governance defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980)
+#### [Data governance defined](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=0)** - In an increasingly digital and hyperconnected world, data has become a core lifeblood of organizations.
 >
-> **[0:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=7)** Whether it's making timely decisions, improving healthcare outcomes, or driving innovation in artificial intelligence, data is an essential fuel powering today's digital economy.
+> **[0:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=7)** Whether it's making timely decisions, improving healthcare outcomes, or driving innovation in [[Artificial Intelligence (AI)|artificial intelligence]], data is an essential fuel powering today's digital economy.
 >
-> **[0:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=19)** Even if an organization has just a few people, or it's global, data management is being employed.
+> **[0:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=19)** Even if an organization has just a few people, or it's global, [[Data Management]] is being employed.
 >
 > **[0:26](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=26)** This means that at a minimum, basic tools and processes are being used to support the use, storage, and accessibility of data.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=49)** Businesses are recognizing that to be truly data-driven, and foster a culture where data is a driver of success, requires more than just data management.
 >
-> **[1:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=60)** At the heart of delivering the optimum value of data and appropriately managing any attendant risks is an additional layer of a capability called data governance.
+> **[1:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=60)** At the heart of delivering the optimum value of data and appropriately managing any attendant risks is an additional layer of a capability called [[Data Governance]].
 >
 > **[1:11](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=71)** In simple terms, data governance is all about managing data well.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=104)** This means ensuring that it's accurate and up to date, that it's available to the right people and systems at the right time, and that it's appropriately protected and regulated.
 >
-> **[1:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=117)** These qualities can only be achieved through agreed and approved policies and processes, clear accountability, the right tools, and committed leadership.
+> **[1:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=117)** These qualities can only be achieved through agreed and approved policies and processes, clear [[Accountability]], the right tools, and committed leadership.
 >
 > **[2:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-governance-defined?u=76281980&t=127)** This is at the heart of what data governance helps to achieve.
 >
@@ -193,22 +190,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), management (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Data Management]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Accountability]] (1)
 > **Definitions:** is an  (2), means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
 
-#### Exploring data operations (DataOps)
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980)
+#### [Exploring data operations (DataOps)](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=0)** - Before there were data GovOps, there were software development operations, or DevOps and data operations, or DataOps.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=0)** - Before there were data GovOps, there were [[Software Development]] operations, or [[DevOps]] and data operations, or DataOps.
 >
 > **[0:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=8)** Let's look at how both of these informed the creation of data GovOps.
 >
-> **[0:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=13)** Sometime between 2007 to 2008, a new movement emerged in response to the growing impatience with software deployment delays.
+> **[0:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=13)** Sometime between 2007 to 2008, a new movement emerged in response to the growing impatience with [[Software Deployment]] delays.
 >
 > **[0:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=22)** These were often caused by the disconnect between those who wrote code, the developers, and IT operations, those who moved it into production.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=98)** Like DevOps, DataOps focuses on deeper collaboration between teams and the use of automation tools to improve the data pipeline, transforming raw data into meaningful form that can be analyzed.
 >
-> **[1:52](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=112)** In particular, both practices use a continuous integration, a CI, and continuous delivery CD approach with the elimination of silos and the merging of human and technical capabilities, data analysts and data engineers and others such as ITOps, and those responsible for data security use CI CD to quickly iterate and deploy needs.
+> **[1:52](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=112)** In particular, both practices use a [[Continuous Integration (CI)|continuous integration]], a CI, and [[Continuous Delivery (CD)|continuous delivery]] CD approach with the elimination of silos and the merging of human and technical capabilities, data analysts and data engineers and others such as ITOps, and those responsible for [[Data Security]] use CI CD to quickly iterate and deploy needs.
 >
 > **[2:16](https://www.linkedin.com/learning/automated-data-governance-in-practice/exploring-data-operations-dataops?u=76281980&t=136)** Rather than taking weeks or months, business needs can now be broken into smaller parts and shorter cycle times, delivering results as often as several times per day.
 >
@@ -246,21 +242,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[DevOps]] (5), teams (4), [[Automation]] (4), [[Software Development]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Software Development]] (2), [[Software Deployment]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** cd (2)
 > **Speakers:** - before (1)
 
-#### DataGovOps: Data governance meets DataOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980)
+#### [DataGovOps: Data governance meets DataOps](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=0)** - We've seen how collaboration, automation, and continuous integration and delivery have supercharged the output of development teams and data analysts.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=0)** - We've seen how collaboration, automation, and [[Continuous Integration (CI)|continuous integration]] and delivery have supercharged the output of development teams and data analysts.
 >
 > **[0:10](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=10)** Moving to a model where teams that used to be separated by bureaucracies and inefficiencies are now merged and working closely together has resulted in big gains for all stakeholders.
 >
-> **[0:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=22)** Can the same be now done with data governance?
+> **[0:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=22)** Can the same be now done with [[Data Governance]]?
 >
 > **[0:25](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=25)** This is largely what DataGovOps tries to achieve.
 >
@@ -268,7 +263,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=35)** Data governance is a layer of oversight and structure that if implemented well can help all types of organizations optimize the value of their data.
 >
-> **[0:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=45)** It establishes processes, policies, and standards that drive data quality, accuracy, compliance, security, and accessibility.
+> **[0:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=45)** It establishes processes, policies, and standards that drive [[Data Quality]], accuracy, compliance, security, and accessibility.
 >
 > **[0:55](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=55)** Data governance applies to the entire lifecycle of data from acquisition to storage and use, all the way through to disposal.
 >
@@ -278,11 +273,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=77)** In addition, many tasks such as monitoring, auditing, access control, and enforcement are prone to errors and can be time consuming.
 >
-> **[1:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=87)** Functions like data compliance, security management, monitoring, and required collaboration with teams such as developers, IT operations and security can create inefficiencies that slow down decision making and other benefits of timely data usage.
+> **[1:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=87)** Functions like data compliance, [[Security Management]], monitoring, and required collaboration with teams such as developers, IT operations and security can create inefficiencies that slow down decision making and other benefits of timely data usage.
 >
 > **[1:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=105)** While data governance offers many advantages, some have alluded to many businesses, improved approaches are welcomed.
 >
-> **[1:54](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=114)** Taking lessons from DevOps and DataOps, DataGovOps provides an approach to data governance that addresses its limitations, providing a better and faster way to complete governance tasks, including a reduction of errors.
+> **[1:54](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=114)** Taking lessons from [[DevOps]] and DataOps, DataGovOps provides an approach to data governance that addresses its limitations, providing a better and faster way to complete governance tasks, including a reduction of errors.
 >
 > **[2:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=129)** In fact, DataGovOps is only fully optimized when it integrates with DevOps and DataOps.
 >
@@ -294,7 +289,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=170)** DataGovOps also implements automation tools across data governance functions, which integrate with elements of DevOps, where co-development and deployment is accelerated, and DataOps, which drives faster results in the data pipeline.
 >
-> **[3:05](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=185)** Other stakeholders in areas such as security, compliance and privacy are also engaged in more integrated collaboration.
+> **[3:05](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=185)** Other stakeholders in areas such as security, compliance and [[Privacy]] are also engaged in more integrated collaboration.
 >
 > **[3:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-data-governance-meets-dataops?u=76281980&t=194)** This environment creates the conditions for elevated data success in an organization.
 >
@@ -302,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), teams (4), [[Security]] (4), [[Automation]] (3), [[DevOps]] (3)
+> **Frameworks & Libraries:** [[Data Governance]] (10), [[DevOps]] (3), [[Continuous Integration (CI)|Continuous integration]] (1), [[Data Quality]] (1), [[Security Management]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
@@ -312,8 +307,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automating data governance functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980)
+#### [Automating data governance functions](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,11 +317,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=19)** Automation in particular has had and continues to have a transformational impact on the world.
 >
-> **[0:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=27)** As we see with the implementation of DevOps and DataOps, the right kind of automation at the right time is achieving much better results.
+> **[0:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=27)** As we see with the implementation of [[DevOps]] and DataOps, the right kind of automation at the right time is achieving much better results.
 >
 > **[0:36](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=36)** Specifically, desired outcomes are attained faster without compromising quality.
 >
-> **[0:42](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=42)** If we apply the right kind of automation to data governance, the assumption is that we can improve upon its promise, as well as addressing some of its shortcomings.
+> **[0:42](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=42)** If we apply the right kind of automation to [[Data Governance]], the assumption is that we can improve upon its promise, as well as addressing some of its shortcomings.
 >
 > **[0:52](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=52)** So, let's look at how the manual processes of data governance often occur.
 >
@@ -335,7 +329,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=63)** For example, say a business user requests access to a sensitive dataset.
 >
-> **[1:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=68)** The teams that might be required to review this requirement include those in security, data ownership, system administration, compliance, and legal.
+> **[1:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=68)** The teams that might be required to review this requirement include those in security, data ownership, [[System Administration]], compliance, and legal.
 >
 > **[1:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=79)** As the request flows across these silo teams, it may get delayed for reasons, including time to seek approvals, low prioritization and handoff inefficiencies.
 >
@@ -347,9 +341,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=109)** Keep in mind too, that this example is relatively simple compared to the complex data needs of businesses.
 >
-> **[1:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=117)** With DataGovOps, we want to create a much more closely integrated and collaborative environment for teams and stakeholders involved in data management.
+> **[1:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=117)** With DataGovOps, we want to create a much more closely integrated and collaborative environment for teams and stakeholders involved in [[Data Management]].
 >
-> **[2:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=127)** In addition, the context for the deeper engagement is automation that includes monitoring and continuous integration and delivery.
+> **[2:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=127)** In addition, the context for the deeper engagement is automation that includes monitoring and [[Continuous Integration (CI)|continuous integration]] and delivery.
 >
 > **[2:15](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=135)** The CI/CD we saw with DevOps and DataOps.
 >
@@ -363,13 +357,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=166)** Progress can be monitored, including ensuring policies are followed and enforced.
 >
-> **[2:51](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=171)** Continuous measurement and evaluation of governance adherence can be established, enabling a closer to real-time assessment of compliance.
+> **[2:51](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=171)** Continuous measurement and evaluation of governance adherence can be established, enabling a closer to [[Real-Time]] assessment of compliance.
 >
 > **[3:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/automating-data-governance-functions?u=76281980&t=182)** DataGovOps through automation, integration and collaboration can create the conditions to ensure your data governance requirements are finally being achieved.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), data (7), teams (3), [[DevOps]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[DevOps]] (2), [[System Administration]] (1), [[Data Management]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** cd (1)
 > **Definitions:** in other words (1)
@@ -377,12 +371,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - two (1)
 
-#### Meeting regulatory and compliance requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980)
+#### [Meeting regulatory and compliance requirements](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=0)** - In 1996, the United States Congress enacted the Health Insurance Portability and Accountability Act or HIPAA for short.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=0)** - In 1996, the United States Congress enacted the Health Insurance Portability and [[Accountability]] Act or HIPAA for short.
 >
 > **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=9)** Its purpose was to ensure that sensitive personal health information would not be disclosed without the permission and knowledge of the patient.
 >
@@ -394,15 +387,15 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=49)** Fines range from a few hundred dollars to a couple of million, and imprisonment can be as high as 10 years.
 >
-> **[0:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=57)** Bottom line, to meet HIPAA requirements, organizations handling health information within scope must have rigorous data governance in place.
+> **[0:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=57)** Bottom line, to meet HIPAA requirements, organizations handling health information within scope must have rigorous [[Data Governance]] in place.
 >
 > **[1:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=67)** HIPAA is just one example of regulatory and compliance requirements that many industries must follow.
 >
 > **[1:15](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=75)** Others include requirements for businesses that handle credit and debit cards.
 >
-> **[1:20](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=80)** They must follow payment card industry data security standards or PCI-DSS.
+> **[1:20](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=80)** They must follow payment card industry [[Data Security]] standards or PCI-DSS.
 >
-> **[1:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=87)** Public companies must comply with the US-based Sarbanes-Oxley Act of 2002 or sox, in that they have specific financial data reporting requirements.
+> **[1:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=87)** Public companies must comply with the US-based Sarbanes-Oxley Act of 2002 or sox, in that they have specific [[Financial Data]] reporting requirements.
 >
 > **[1:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=98)** For organizations that have regulatory and compliance requirements, and that list is pretty broad and growing, data governance is a valuable and successful approach.
 >
@@ -412,9 +405,9 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=124)** Leaders and staff are expected to follow these when handling data, so it's essential to provide training and ongoing guidance.
 >
-> **[2:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=133)** For example, data privacy and protection could require specific requirements, such as the process for providing access to data, whether it needs to be encrypted, the rules on sharing, and what monitoring needs to be in place.
+> **[2:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=133)** For example, [[Data Privacy]] and protection could require specific requirements, such as the process for providing access to data, whether it needs to be encrypted, the rules on sharing, and what monitoring needs to be in place.
 >
-> **[2:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=147)** Data governance also focuses on ensuring data quality, like accuracy and completeness, a requirement of many regulations but, also, an obvious standard for any business trying to fully leverage the value of data.
+> **[2:27](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=147)** Data governance also focuses on ensuring [[Data Quality]], like accuracy and completeness, a requirement of many regulations but, also, an obvious standard for any business trying to fully leverage the value of data.
 >
 > **[2:41](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=161)** Further, a framework for data governance supports audit readiness and reporting and is an overall risk management support system.
 >
@@ -422,13 +415,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=181)** That said, deploying a framework does create a bureaucratic overhead and can be manually intensive.
 >
-> **[3:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=189)** Fortunately, Data GovOps is introducing automated and continuous data management that creates significant efficiencies in support of regulatory and compliance requirements.
+> **[3:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=189)** Fortunately, Data GovOps is introducing automated and continuous [[Data Management]] that creates significant efficiencies in support of regulatory and compliance requirements.
 >
 > **[3:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/meeting-regulatory-and-compliance-requirements?u=76281980&t=202)** Later in this course, I will share how Data GovOps achieves this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), management (2), [[Accountability]] (1), [[Security]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Accountability]] (1), [[Data Security]] (1), [[Financial Data]] (1), [[Data Privacy]] (1)
 > **Env Vars:** hipaa (3), phi (2), pci (1), dss (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -436,8 +429,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - in (1)
 
-#### Data lineage and metadata management
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980)
+#### [Data lineage and metadata management](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,11 +441,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=19)** Specifically, it's valuable to know data about data sets.
 >
-> **[0:23](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=23)** We call this metadata.
+> **[0:23](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=23)** We call this [[Metadata]].
 >
 > **[0:25](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=25)** For example, who owns the data and what does it contain?
 >
-> **[0:30](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=30)** We also want to know where data comes from, how it's transformed and where it goes, what we call data lineage.
+> **[0:30](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=30)** We also want to know where data comes from, how it's transformed and where it goes, what we call [[Data Lineage]].
 >
 > **[0:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=38)** Let's look at both of these.
 >
@@ -477,17 +469,17 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=103)** Good metadata management is a sign of data maturity.
 >
-> **[1:47](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=107)** The processes, policies, and standards that guide metadata management are part of data governance and are informed by business needs and compliance and regulatory requirements.
+> **[1:47](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=107)** The processes, policies, and standards that guide metadata management are part of [[Data Governance]] and are informed by business needs and compliance and regulatory requirements.
 >
-> **[1:59](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=119)** Like metadata management, data lineage provides valuable and often essential insights on data pipelines.
+> **[1:59](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=119)** Like metadata management, data lineage provides valuable and often essential insights on [[Data Pipelines]].
 >
 > **[2:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=128)** It's a process of tracking and visualizing the flow of data from its source through processing and onward to its final destination.
 >
 > **[2:17](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=137)** It informs an organization about the role of data and the applications and processes it's involved in.
 >
-> **[2:25](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=145)** The value of data lineage includes support for improved data quality, troubleshooting issues, ensuring compliance and risk management.
+> **[2:25](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=145)** The value of data lineage includes support for improved [[Data Quality]], troubleshooting issues, ensuring compliance and risk management.
 >
-> **[2:35](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=155)** From a data governance perspective, data lineage ensures there's accountability for data ownership and stewardship at each stage of the data lifecycle.
+> **[2:35](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=155)** From a data governance perspective, data lineage ensures there's [[Accountability]] for data ownership and stewardship at each stage of the data lifecycle.
 >
 > **[2:46](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-lineage-and-metadata-management?u=76281980&t=166)** In addition, knowing where data is flowing in terms of systems helps with access control, such that security policies can be monitored and enforced.
 >
@@ -503,23 +495,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Metadata]] (12), management (7), teams (2), business (1)
+> **Frameworks & Libraries:** [[Metadata]] (12), [[Data Lineage]] (6), [[Data Governance]] (3), [[Data Pipelines]] (1), [[Data Quality]] (1)
 > **Definitions:** we call this (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - data (1)
 
-#### Monitoring and reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980)
+#### [Monitoring and reporting](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=0)** - Monitoring and reporting functions play essential roles in ensuring effective implementation and maintenance of data governance.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=0)** - Monitoring and reporting functions play essential roles in ensuring effective implementation and maintenance of [[Data Governance]].
 >
 > **[0:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=8)** While they're distinct capabilities, they do overlap, and each can be thought of as the different sides of the same coin.
 >
 > **[0:16](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=16)** Specifically, the role of monitoring is to ensure that data-related processes, policies, and controls are tracked and followed.
 >
-> **[0:24](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=24)** And reporting serves as a way to provide visibility and accountability to those same areas.
+> **[0:24](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=24)** And reporting serves as a way to provide visibility and [[Accountability]] to those same areas.
 >
 > **[0:31](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=31)** Let's look at each individually, and then I'll discuss their role in DataGovOps.
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=62)** With alerts, corrective action can then be taken in a timely manner.
 >
-> **[1:06](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=66)** Monitoring is also important for security and privacy requirements.
+> **[1:06](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=66)** Monitoring is also important for security and [[Privacy]] requirements.
 >
 > **[1:10](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=70)** A wide range of tools can detect suspicious activities, such as data leaks or policy violations.
 >
@@ -541,13 +532,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=94)** On the other side of the coin, reporting is the companion to monitoring.
 >
-> **[1:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=98)** It organizes and delivers data management insights, whether on or offline to business stakeholders.
+> **[1:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=98)** It organizes and delivers [[Data Management]] insights, whether on or offline to business stakeholders.
 >
 > **[1:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=105)** These reports can be available in real time or produced periodically depending on the business context.
 >
 > **[1:52](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=112)** Common data governance reporting includes, unsurprisingly, evidence as requested by internal and external bodies that demonstrates compliance requirements.
 >
-> **[2:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=123)** Reporting is also used to highlight the state of data quality, including tracking issues such as errors and missing data.
+> **[2:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=123)** Reporting is also used to highlight the state of [[Data Quality]], including tracking issues such as errors and missing data.
 >
 > **[2:11](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=131)** Policy enforcement and operational reporting provides trends over time that show how well the organization is performing relative to its data handling.
 >
@@ -563,7 +554,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=175)** This quality alone supports timely mitigation and adherence to laws, regulations, and organizational policies.
 >
-> **[3:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=183)** The communication aspects keep all stakeholders, including the development and data teams, aligned, resulting in more informed and timely process and system decision-making.
+> **[3:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=183)** The communication aspects keep all stakeholders, including the development and data teams, aligned, resulting in more informed and timely process and system [[Decision-Making]].
 >
 > **[3:16](https://www.linkedin.com/learning/automated-data-governance-in-practice/monitoring-and-reporting?u=76281980&t=196)** Let's be clear about it.
 >
@@ -573,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), management (2), business (2), [[Accountability]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Accountability]] (1), [[Privacy]] (1), [[Data Management]] (1), [[Data Quality]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** hipaa (1), gdpr (1)
 > **Definitions:** is a  (1)
@@ -584,12 +575,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980)
+#### [Automation](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=0)** - At the heart of data GovOps is the automation of data governance functions.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=0)** - At the heart of data GovOps is the automation of [[Data Governance]] functions.
 >
 > **[0:05](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=5)** What we're talking about here is the use of technology tools, code, and scripts to streamline data-related workflows and enforce policies, manage quality, and facilitate compliance and regulatory needs.
 >
@@ -611,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=103)** Tools can automatically tag and classify data according to policies.
 >
-> **[1:48](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=108)** This classification can then be used to support automated role-based access controls, or RBAC, continuous monitoring flags and alerts in real-time when non-compliant activities are discovered.
+> **[1:48](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=108)** This classification can then be used to support automated role-based access controls, or RBAC, [[Continuous Monitoring]] flags and alerts in [[Real-Time]] when non-compliant activities are discovered.
 >
 > **[2:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=122)** Equally, it can report in compliance adherence.
 >
@@ -619,11 +609,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=134)** Automation can also support the enforcement of critical data retention and deletion policies.
 >
-> **[2:21](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=141)** With security and privacy being high priority, when appropriate, data can be automatically encrypted or masked.
+> **[2:21](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=141)** With security and [[Privacy]] being high priority, when appropriate, data can be automatically encrypted or masked.
 >
-> **[2:29](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=149)** We know too that data governance is particularly concerned with supporting data quality.
+> **[2:29](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=149)** We know too that data governance is particularly concerned with supporting [[Data Quality]].
 >
-> **[2:36](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=156)** Data validation can be automated and continuous.
+> **[2:36](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=156)** [[Data Validation]] can be automated and continuous.
 >
 > **[2:39](https://www.linkedin.com/learning/automated-data-governance-in-practice/automation?u=76281980&t=159)** Remember, a major benefit of automation to ensure that quality checks such as completeness and accuracy are carried out on data prior to its introduction to a production environment.
 >
@@ -635,13 +625,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Automation]] (10), feature (1), ai (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Continuous Monitoring]] (1), [[Real-Time]] (1), [[Privacy]] (1), [[Data Quality]] (1)
 > **Env Vars:** rbac (1)
 > **Analogies:** such as (1)
 > **Speakers:** - at (1)
 
-#### Collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980)
+#### [Collaboration](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,9 +654,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=82)** This way, everyone becomes part of a single mission-aligned team, while focusing on their specific areas and strengths.
 >
-> **[1:31](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=91)** They may have different supervisors and ultimately report into different parts of the organization, but for the purposes of Data GovOps' framework, they're unified by shared responsibility and accountability.
+> **[1:31](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=91)** They may have different supervisors and ultimately report into different parts of the organization, but for the purposes of Data GovOps' framework, they're unified by shared responsibility and [[Accountability]].
 >
-> **[1:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=105)** This design enables a more agile response to business needs as well.
+> **[1:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=105)** This design enables a more [[Agile Development|agile]] response to business needs as well.
 >
 > **[1:50](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=110)** Rather than being locked into rigid processes maintained by independent units, this single team can quickly agree on modifications to processes that achieve better results without compromising attendant regulatory requirements.
 >
@@ -677,28 +666,27 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=139)** Working closely together, team members can identify and escalate data issues and risks more quickly, improve vigilance around security and standards compliance, and ensure that feedback circulates such that process improvements can be quickly adopted.
 >
-> **[2:36](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=156)** Working closely together means that overall decision-making is improved too.
+> **[2:36](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=156)** Working closely together means that overall [[Decision-Making]] is improved too.
 >
 > **[2:40](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=160)** Assuming team members are aligned, decisions about tool choices, process integration, policy modifications and governance controls can be rapidly discussed and adopted.
 >
 > **[2:53](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=173)** What's most notable when placing emphasis on collaboration in Data GovOps is the opportunity to create a culture that gets results.
 >
-> **[3:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=182)** With everyone aligned and working closely together, data governance can run more smoothly and support behaviors where data is managed well and risks are considerably lowered.
+> **[3:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/collaboration?u=76281980&t=182)** With everyone aligned and working closely together, [[Data Governance]] can run more smoothly and support behaviors where data is managed well and risks are considerably lowered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Automation]] (3), business (3), teams (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Agile Development|Agile]] (1), [[Decision-Making]] (1), [[Data Governance]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - while (1)
 
-#### Integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980)
+#### [Integration](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=0)** - If collaboration is the backbone and automation is the execution, then integration is the connective tissue of DataGovOps.
 >
-> **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=9)** With integration, we want to create a technical environment where DataOps and DevOps are incorporated, and where systems, data, and processes are seamlessly connected to each other.
+> **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=9)** With integration, we want to create a technical environment where DataOps and [[DevOps]] are incorporated, and where systems, data, and processes are seamlessly connected to each other.
 >
 > **[0:21](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=21)** This not only creates the conditions for automation and collaboration, but also for efficiency and consistency across entire data workflows.
 >
@@ -712,7 +700,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=60)** In addition, if data is required to comply with some explicit regulation like HIPPA, all the systems it touches must meet requirements.
 >
-> **[1:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=69)** Manual data governance is focused on ensuring that this data is handled according to established rules.
+> **[1:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=69)** Manual [[Data Governance]] is focused on ensuring that this data is handled according to established rules.
 >
 > **[1:16](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=76)** Focusing on integration, however, automates and standardizes data flows to move from manual data governance to DataGovOps.
 >
@@ -726,7 +714,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=123)** With integrated systems and processes, the ability to monitor data across workflows in real time is possible.
 >
-> **[2:11](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=131)** As I discussed in a previous video, continuous monitoring is a feature of DataGovOps.
+> **[2:11](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=131)** As I discussed in a previous video, [[Continuous Monitoring]] is a feature of DataGovOps.
 >
 > **[2:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=138)** This significantly improves an organization's ability to ensure the policies and standards are met.
 >
@@ -738,7 +726,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=175)** Finally, integrated systems enhance the ability to produce comprehensive data governance reports and analytics.
 >
-> **[3:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=183)** Having visibility across data pipelines and extracting insights even in near real time can produce more detailed performance reports, and audit trails, and track and measure compliance.
+> **[3:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=183)** Having visibility across [[Data Pipelines]] and extracting insights even in near real time can produce more detailed performance reports, and audit trails, and track and measure compliance.
 >
 > **[3:17](https://www.linkedin.com/learning/automated-data-governance-in-practice/integration?u=76281980&t=197)** In summary, DataGovOps requires automation, collaboration, and integration to be successful.
 >
@@ -746,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Automation]] (4), [[DevOps]] (1), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[DevOps]] (1), [[Continuous Monitoring]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** hippa (1), iam (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -755,8 +743,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - if (1)
 
-#### Data catalogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980)
+#### [Data catalogs](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,13 +759,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=37)** Like the term suggests, a data catalog is a centralized and searchable repository that lists details on data sets.
 >
-> **[0:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=45)** It contains metadata, data that describes data, such as ownership, access rights, size, format, location, update frequency, uses, and a lot more.
+> **[0:45](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=45)** It contains [[Metadata]], data that describes data, such as ownership, access rights, size, format, location, update frequency, uses, and a lot more.
 >
 > **[0:59](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=59)** Data catalogs can also contain the lineage of data.
 >
 > **[1:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=62)** That is, details on the life and journey of that data, like where it came from, how it's been processed and changed, and where it goes.
 >
-> **[1:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=73)** This is valuable insight for troubleshooting data quality issues, for understanding its dependencies, and for supporting data governance, compliance, and risk management.
+> **[1:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=73)** This is valuable insight for troubleshooting [[Data Quality]] issues, for understanding its dependencies, and for supporting [[Data Governance]], compliance, and risk management.
 >
 > **[1:24](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=84)** In fact, data catalogs play a big role in data governance.
 >
@@ -790,13 +777,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=116)** The most basic approach is a manual one, conducted by staff such as data owners, data engineers, business users, and data stewards, a role responsible for maintaining data quality.
 >
-> **[2:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=129)** They directly input and modify information such as metadata and data lineage details.
+> **[2:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=129)** They directly input and modify information such as metadata and [[Data Lineage]] details.
 >
 > **[2:16](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=136)** Reminders and flags can be used, as well as regular audits, to keep content current.
 >
 > **[2:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=142)** But as you can imagine, manual updates can be less than optimum.
 >
-> **[2:26](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=146)** Fortunately, automation is increasingly used, and it can take many forms.
+> **[2:26](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=146)** Fortunately, automation is increasingly used, and it can take many [[Forms]].
 >
 > **[2:32](https://www.linkedin.com/learning/automated-data-governance-in-practice/data-catalogs?u=76281980&t=152)** Data catalogs can be integrated with data sources, or crawlers can periodically scan them, and when changes are made, updates are pushed to the catalog.
 >
@@ -810,18 +797,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Metadata]] (4), [[Automation]] (4), management (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Data Quality]] (4), [[Data Governance]] (2), [[Data Lineage]] (2), [[Forms]] (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - have (1)
 
-#### Analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980)
+#### [Analytics](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=0)** - When we discuss analytics relative to data governance, we must consider the topic from two distinct perspectives.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=0)** - When we discuss analytics relative to [[Data Governance]], we must consider the topic from two distinct perspectives.
 >
 > **[0:08](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=8)** One is to look at how data governance creates the conditions where data analysts and other stakeholders can have confidence in data for the purposes of deriving insights from it.
 >
@@ -837,15 +823,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=48)** For this video, we'll focus on how analytics can ensure that the data governance program is effective.
 >
-> **[0:56](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=56)** Through this lens, analytics is about monitoring data quality, policies, and compliance.
+> **[0:56](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=56)** Through this lens, analytics is about monitoring [[Data Quality]], policies, and compliance.
 >
-> **[1:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=63)** A feature of data GovOps is to enable continuous monitoring, such that issues can be identified, analyzed, and surfaced quickly.
+> **[1:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=63)** A feature of data GovOps is to enable [[Continuous Monitoring]], such that issues can be identified, analyzed, and surfaced quickly.
 >
-> **[1:12](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=72)** Through this capability, metrics around, say, missing values or duplicate records are delivered to real-time dashboards, enabling a rapid response, should it be warranted.
+> **[1:12](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=72)** Through this capability, metrics around, say, missing values or duplicate records are delivered to [[Real-Time]] [[Dashboards]], enabling a rapid response, should it be warranted.
 >
 > **[1:24](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=84)** Less urgent concerns can be produced as an on-demand or periodic report.
 >
-> **[1:29](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=89)** Through continuous analysis of some or all data governance functions, decision-making around data management is enhanced.
+> **[1:29](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=89)** Through continuous analysis of some or all data governance functions, [[Decision-Making]] around [[Data Management]] is enhanced.
 >
 > **[1:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=98)** For example, analysis may reveal which capabilities are producing the best and worst oversight results.
 >
@@ -859,7 +845,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=140)** Predict where governance rule updates may be necessary or beneficial, and anticipate where problems may occur in the near future.
 >
-> **[2:29](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=149)** Predictive analytics can forecast how the organization may need to prepare for the future, responding to data growth or a changing regulatory environment.
+> **[2:29](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=149)** [[Predictive Analytics]] can forecast how the organization may need to prepare for the future, responding to data growth or a changing regulatory environment.
 >
 > **[2:39](https://www.linkedin.com/learning/automated-data-governance-in-practice/analytics?u=76281980&t=159)** This function of data GovOps changes the team posture from reactive to proactive.
 >
@@ -869,26 +855,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Analytics]] (8), feature (1), [[Continuous Monitoring]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (11), [[Data Quality]] (1), [[Continuous Monitoring]] (1), [[Real-Time]] (1), [[Dashboards]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Artificial intelligence in DataGovOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980)
+#### [Artificial intelligence in DataGovOps](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=0)** - Identifying and implementing opportunities for automation, integration, and overall process efficiencies are at the heart of what DataGovOps tries to achieve.
 >
-> **[0:11](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=11)** As a historically manual and repetitive discipline, data governance provides abundant opportunities.
+> **[0:11](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=11)** As a historically manual and repetitive discipline, [[Data Governance]] provides abundant opportunities.
 >
-> **[0:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=18)** It makes sense then that artificial intelligence, or AI, is increasingly adopted by the enterprise to drive improvements, augment human efforts, and get faster and more accurate results across the entire data governance landscape.
+> **[0:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=18)** It makes sense then that [[Artificial Intelligence (AI)|artificial intelligence]], or AI, is increasingly adopted by the enterprise to drive improvements, augment human efforts, and get faster and more accurate results across the entire data governance landscape.
 >
 > **[0:34](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=34)** The vendor community too is stepping up, with providers incorporating AI capabilities into their data governance solutions.
 >
 > **[0:42](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=42)** Today's AI is well suited for accurately completing repetitive tasks that require levels of machine-learned judgements.
 >
-> **[0:50](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=50)** For example, identifying anomalous patterns in data quality that suggest issues, ensure processes are followed and aligned with regulatory and compliance requirements, and classify and catalog data according to rules.
+> **[0:50](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=50)** For example, identifying anomalous patterns in [[Data Quality]] that suggest issues, ensure processes are followed and aligned with regulatory and compliance requirements, and classify and catalog data according to rules.
 >
 > **[1:05](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=65)** Let me briefly note here that data governance is playing an increasingly important role in ensuring higher quality AI results.
 >
@@ -898,7 +883,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=90)** In data governance, classifying and cataloging data and data sets is essential.
 >
-> **[1:35](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=95)** After all, if you don't know details about data, the metadata, and how to easily find data sets, the opportunities for value creation are decreased significantly.
+> **[1:35](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=95)** After all, if you don't know details about data, the [[Metadata]], and how to easily find data sets, the opportunities for value creation are decreased significantly.
 >
 > **[1:46](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=106)** Achieving a viable and well maintained data catalog, however, is a highly manual process, a point that was discussed in a previous video.
 >
@@ -912,7 +897,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=157)** Traditionally, this documentation was created manually and intensive exercise requiring legal input, great writing skills, and rounds of approvals.
 >
-> **[2:47](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=167)** Today with generative AI, a new regulation, for example, can be uploaded to an AI tool, and a first draft of a policy can be created that considers all the requirements to ensure compliance with the regulation.
+> **[2:47](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=167)** Today with [[Generative AI]], a new regulation, for example, can be uploaded to an AI tool, and a first draft of a policy can be created that considers all the requirements to ensure compliance with the regulation.
 >
 > **[3:01](https://www.linkedin.com/learning/automated-data-governance-in-practice/artificial-intelligence-in-datagovops?u=76281980&t=181)** Now, that's a process improvement that's welcomed.
 >
@@ -936,7 +921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), ai (15), [[Metadata]] (3), business (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (9), [[Metadata]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Quality]] (1), [[Generative AI]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous video (1)
@@ -948,14 +933,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementation strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980)
+#### [Implementation strategy](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=0)** - Now that you have a good understanding of DataGovOps and the considerable value it can bring to your organization, it's time to think about how it can be implemented.
 >
-> **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=9)** I'm going to make an assumption here that your business already has some data governance in place.
+> **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=9)** I'm going to make an assumption here that your business already has some [[Data Governance]] in place.
 >
 > **[0:15](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=15)** It may be minimal, or you might have a sophisticated framework deployed.
 >
@@ -1013,11 +997,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=187)** A data culture can lead to significantly better data results in your organization.
 >
-> **[3:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=193)** Please consider my LinkedIn learning course called Building a Data Culture to help you here.
+> **[3:13](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=193)** Please consider my [[LinkedIn]] learning course called Building a Data Culture to help you here.
 >
 > **[3:19](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=199)** Lastly, after phases of the DataGovOps plan are implemented, conduct regular reviews.
 >
-> **[3:25](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=205)** A DataGovOps mindset is all about continuous monitoring and improvement.
+> **[3:25](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=205)** A DataGovOps mindset is all about [[Continuous Monitoring]] and improvement.
 >
 > **[3:31](https://www.linkedin.com/learning/automated-data-governance-in-practice/implementation-strategy?u=76281980&t=211)** Ensure that you're getting results, that data governance policies are being met, and automation is meeting and exceeding goals.
 >
@@ -1029,13 +1013,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Automation]] (5), career (2), business (1), functional (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[LinkedIn]] (1), [[Continuous Monitoring]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** required to (1)
 > **Speakers:** - now (1)
 
-#### Training
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980)
+#### [Training](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=28)** In fact, in the planning stages, training requirements should be already assessed and the steps to achieve them must be documented and agreed upon.
 >
-> **[0:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=38)** Training can be provided in modular format, and consideration should be given to personalization, given the diverse nature of the data governance field.
+> **[0:38](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=38)** Training can be provided in modular format, and consideration should be given to personalization, given the diverse nature of the [[Data Governance]] field.
 >
 > **[0:47](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=47)** Automating data governance is complex, and as I've discussed, there are many different kinds of roles.
 >
@@ -1059,13 +1042,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=75)** If not, consider this prerequisite training before a stakeholder can assume a role in data GovOps.
 >
-> **[1:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=82)** Anyone working in the data governance space, like an IT professional, data analyst, data steward, security engineer, lawyer, auditor, and business leader, need to understand some data management and quality control fundamentals.
+> **[1:22](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=82)** Anyone working in the data governance space, like an IT professional, data analyst, data steward, security engineer, lawyer, auditor, and business leader, need to understand some [[Data Management]] and quality control fundamentals.
 >
-> **[1:37](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=97)** These include areas such as storage, metadata management, standards, pipelines, lineage, basic business intelligence, monitoring, cybersecurity, and access control.
+> **[1:37](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=97)** These include areas such as storage, [[Metadata]] management, standards, pipelines, lineage, basic [[Business Intelligence (BI)|business intelligence]], monitoring, [[Cybersecurity]], and access control.
 >
 > **[1:50](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=110)** A subset of these team members, those closest to the data GovOps processes, must become proficient with a wide variety of automation technologies and techniques.
 >
-> **[2:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=120)** These may include pipeline orchestration and automation, continuous integration and delivery, data cataloging, monitoring, reporting, and issue resolution.
+> **[2:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=120)** These may include pipeline orchestration and automation, [[Continuous Integration (CI)|continuous integration]] and delivery, data cataloging, monitoring, reporting, and issue resolution.
 >
 > **[2:12](https://www.linkedin.com/learning/automated-data-governance-in-practice/training?u=76281980&t=132)** A big part of any data GovOps implementation will, of course, be focused on the tools that the organization deploys.
 >
@@ -1083,15 +1066,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (2), management (2), [[Automation]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Management]] (1), [[Metadata]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - expecting (1)
 
-#### Scaling DataGovOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980)
+#### [Scaling DataGovOps](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=9)** Today for example, most organizations want to benefit from data-driven insights, and it's a competitive requirement for many.
 >
-> **[0:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=18)** Certainly, any amount of data management and governance is going to be valuable.
+> **[0:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=18)** Certainly, any amount of [[Data Management]] and governance is going to be valuable.
 >
 > **[0:23](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=23)** However, if only one or a few departments implement systems, processes, and policies, sizable and limiting gaps will continue to exist across the enterprise.
 >
@@ -1111,7 +1093,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=56)** We can't begin to consider automation without a data strategy and holistic approach.
 >
-> **[1:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=63)** Following this, a data governance program must be defined.
+> **[1:03](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=63)** Following this, a [[Data Governance]] program must be defined.
 >
 > **[1:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=67)** The degree to which explicit standards are established and policies are clearly documented will have an impact on scaling automation later.
 >
@@ -1141,7 +1123,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=179)** This sometimes requires, for example, hiring new talent, collaborating with external vendors, and providing customized technical training to internal teams.
 >
-> **[3:10](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=190)** Organizational culture in general can make or break any data initiatives.
+> **[3:10](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=190)** [[Organizational Culture]] in general can make or break any data initiatives.
 >
 > **[3:16](https://www.linkedin.com/learning/automated-data-governance-in-practice/scaling-datagovops?u=76281980&t=196)** The data on this is pretty clear and it's the biggest reason why data efforts fail.
 >
@@ -1159,19 +1141,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Automation]] (4), management (3), business (2), teams (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Data Management]] (2), [[Organizational Culture]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** dgb (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - leveraging (1)
 
-#### Communication strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980)
+#### [Communication strategy](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=0)** - Communication plays a central and demanding role in data governance and Data GovOps, as this topic really is a team sport.
+> **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=0)** - Communication plays a central and demanding role in [[Data Governance]] and Data GovOps, as this topic really is a team sport.
 >
 > **[0:09](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=9)** Activities traverse department boundaries as data workflows are often required to touch stakeholders, such as IT, lawyers, auditors, software developers, data analysts, and business end users.
 >
@@ -1203,7 +1184,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=122)** They must address communications between data governance team members and with the business.
 >
-> **[2:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=127)** Fortunately, Data GovOps can lend itself to enhanced communications through several strategies, providing request and issue visibility to all team members, enabling transparency to data pipelines, and requiring participation in the orchestration of processes, both manual and automated.
+> **[2:07](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=127)** Fortunately, Data GovOps can lend itself to enhanced communications through several strategies, providing request and issue visibility to all team members, enabling transparency to [[Data Pipelines]], and requiring participation in the orchestration of processes, both manual and automated.
 >
 > **[2:28](https://www.linkedin.com/learning/automated-data-governance-in-practice/communication-strategy?u=76281980&t=148)** Metrics too are an important form of communication.
 >
@@ -1237,21 +1218,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), teams (6), business (4), [[Security]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Pipelines]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - communication (1)
 
-#### DataGovOps implementation challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980)
+#### [DataGovOps implementation challenges](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=0)** - Succeeding in implementing DataGovOps is certainly no walk in the park.
 >
-> **[0:05](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=5)** After all, it requires the integration of existing data governance practices, with code, automation, and collaboration among disparate teams.
+> **[0:05](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=5)** After all, it requires the integration of existing [[Data Governance]] practices, with code, automation, and collaboration among disparate teams.
 >
 > **[0:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=14)** It also assumes some efficiency in existing data ops.
 >
@@ -1277,15 +1257,15 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=104)** Change can prosper if the right culture has been fostered.
 >
-> **[1:48](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=108)** An organization without a strong data-driven culture will struggle with leaps in data management and governance sophistication.
+> **[1:48](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=108)** An organization without a strong data-driven culture will struggle with leaps in [[Data Management]] and governance sophistication.
 >
 > **[1:57](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=117)** That said, data culture can be fostered over time by integrating it into team member responsibilities and expectations, and by having leadership consistently demonstrate strong data culture behaviors, and support.
 >
 > **[2:12](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=132)** Another issue with implementation is a lack of necessary organizational skills and expertise.
 >
-> **[2:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=138)** A few people at the center of their work will need to understand data governance, data ops, DevOps, and specialized tools.
+> **[2:18](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=138)** A few people at the center of their work will need to understand data governance, data ops, [[DevOps]], and specialized tools.
 >
-> **[2:26](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=146)** There will be many who need a variety of supporting skills that hinge off of these two, and even more will require some data literacy.
+> **[2:26](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=146)** There will be many who need a variety of supporting skills that hinge off of these two, and even more will require some [[Data Literacy]].
 >
 > **[2:35](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=155)** Getting to the right skills may require intensive training for existing staff, hiring new talent, and working with external partners.
 >
@@ -1293,7 +1273,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=168)** The technical requirements for deploying DataGovOps across the organization may have constraints, such as insufficient investment, and data silos that are difficult to access and integrate.
 >
-> **[3:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=180)** Concerns about privacy and diminished control over access may cause department resistance too.
+> **[3:00](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=180)** Concerns about [[Privacy]] and diminished control over access may cause department resistance too.
 >
 > **[3:06](https://www.linkedin.com/learning/automated-data-governance-in-practice/datagovops-implementation-challenges?u=76281980&t=186)** Solving these issues may require a combination of investment advocacy, system upgrades and replacements, demonstrating competency in managing security, and careful diplomacy to integrate holdouts of the plan.
 >
@@ -1303,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Automation]] (2), teams (2), leadership (2), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Management]] (1), [[DevOps]] (1), [[Data Literacy]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - succeeding (1)
@@ -1313,8 +1293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your DataGovOps learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980)
+#### [Continuing your DataGovOps learning journey](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1322,19 +1301,19 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=4)** I really hope that this introductory course has helped you further understand the topic, and it's provided you and your team with the right input to take the next steps.
 >
-> **[0:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=14)** For sure, if you're looking to create efficiencies in your data governance efforts, choosing the right level of automation, integration, standardization, and deeper collaboration could very well deliver much higher-performing results.
+> **[0:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=14)** For sure, if you're looking to create efficiencies in your [[Data Governance]] efforts, choosing the right level of automation, integration, standardization, and deeper collaboration could very well deliver much higher-performing results.
 >
-> **[0:28](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=28)** DataGovOps can bring rigor, speed, and greater accuracy to your data management requirements, while ensuring that your organization meets its compliance, security, and data quality targets.
+> **[0:28](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=28)** DataGovOps can bring rigor, speed, and greater accuracy to your [[Data Management]] requirements, while ensuring that your organization meets its compliance, security, and [[Data Quality]] targets.
 >
-> **[0:40](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=40)** It can also free up teams, such as data analysts and stewards, cybersecurity and IT professionals from manual tasks so they can work in higher-value efforts.
+> **[0:40](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=40)** It can also free up teams, such as data analysts and stewards, [[Cybersecurity]] and IT professionals from manual tasks so they can work in higher-value efforts.
 >
 > **[0:51](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=51)** Bottom line, DataGovOps solves many of the organizational frustrations and overheads that data governance presents in its attempt to better manage data.
 >
 > **[1:01](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=61)** During this course, I mentioned additional courses that will benefit your learning journey.
 >
-> **[1:06](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=66)** I recommend both my [[Learning Data Governance]] and my Building a Data-Driven Culture courses right here on LinkedIn Learning.
+> **[1:06](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=66)** I recommend both my [[Learning Data Governance]] and my Building a Data-Driven Culture courses right here on [[LinkedIn]] Learning.
 >
-> **[1:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=74)** Beyond my offerings, the LinkedIn Learning Catalog also has impressive data science and related courses that are worth checking out too.
+> **[1:14](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=74)** Beyond my offerings, the LinkedIn Learning Catalog also has impressive [[Data Science]] and related courses that are worth checking out too.
 >
 > **[1:23](https://www.linkedin.com/learning/automated-data-governance-in-practice/continuing-your-datagovops-learning-journey?u=76281980&t=83)** Further, if you want to go much deeper on data governance, check out my book "Data Governance for Dummies", which you can find online or from your favorite brick-and-mortar bookstore.
 >
@@ -1356,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[LinkedIn]] (3), [[Automation]] (2), management (2), next (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[LinkedIn]] (3), [[Data Management]] (2), [[Data Quality]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - are (1)

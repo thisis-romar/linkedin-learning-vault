@@ -142,8 +142,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980)
+#### [Getting started with Python](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=3)** I didn't see you come in.
 >
-> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=5)** I hear you're looking to learn Python.
+> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=5)** I hear you're looking to learn [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=7)** Well, you are in for a real treat.
 >
@@ -167,7 +166,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=26)** I've been writing Python for over a decade and I'll be your guide every step of the way to show you what's going on behind the scenes.
 >
-> **[0:33](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=33)** You'll learn about data types and control flow, classes, and object-oriented programming, parallel computing modules, packages, and everything else you need to get coding.
+> **[0:33](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=33)** You'll learn about data types and [[Control Flow]], classes, and [[Object-Oriented Programming (OOP)|object-oriented programming]], parallel computing modules, packages, and everything else you need to get coding.
 >
 > **[0:42](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980&t=42)** Yes, this is a crash course in Python and computer science but I won't let you crash and burn.
 >
@@ -175,18 +174,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (1), [[Control Flow]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Control Flow]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - oh (1)
 > **Non-Speech:** (light music) (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=0)** - Python is one of the best introductory programming languages because of its intuitive syntax, wide popularity, ease of use, and similarity to other programming languages.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=0)** - [[Python (Programming Language)|Python]] is one of the best introductory programming languages because of its intuitive syntax, wide popularity, ease of use, and similarity to other programming languages.
 >
 > **[0:09](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=9)** This makes it not only easy to learn, but easy to port your Python skills over to other languages you might want to program with in the future.
 >
@@ -222,7 +220,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=69)** You have some idea about how the internet works, how your browser fetches data from a remote server.
 >
-> **[1:14](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=74)** Maybe you've written some HTML or even set up your own router.
+> **[1:14](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=74)** Maybe you've written some [[HTML]] or even set up your own router.
 >
 > **[1:17](https://www.linkedin.com/learning/python-essential-training-18764650/who-this-course-is-for-23812785?u=76281980&t=77)** You know, in order to control the machines, you're going to have to have some understanding of them.
 >
@@ -266,19 +264,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (5), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[HTML]] (1)
 > **CLI Commands:** python (5), make (1), unzip (1), find (1)
 > **Tools:** terminal (1), command line (1)
 > **Env Vars:** html (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - python (1)
 
-#### Resources for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980)
+#### [Resources for this course](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=1)** - [Instructor] There's a lot of virtual paperwork with this course to help guide you on your Python journey.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=1)** - [Instructor] There's a lot of virtual paperwork with this course to help guide you on your [[Python (Programming Language)|Python]] journey.
 >
 > **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=5)** Let me lay it out for you.
 >
@@ -296,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=41)** Finally, those exercise files that I mentioned previously.
 >
-> **[0:44](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=44)** You can find them all on GitHub or in the Exercise folder, downloadable somewhere on your screen right now.
+> **[0:44](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=44)** You can find them all on [[GitHub]] or in the Exercise folder, downloadable somewhere on your screen right now.
 >
 > **[0:51](https://www.linkedin.com/learning/python-essential-training-18764650/resources-for-this-course?u=76281980&t=51)** Each exercise file or directory corresponds to the chapter and section number, so 02_01 is the code we wrote during chapter two, video one.
 >
@@ -308,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[GitHub]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[GitHub]] (2)
 > **CLI Commands:** python (7), find (3)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **Documentation:** reference guide (2)
@@ -321,8 +318,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How computers think
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980)
+#### [How computers think](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980&t=186)** 1, 2, 3, 4, 5.
 >
-> **[3:14](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980&t=194)** In Python, this notation with the square brackets indicates a list.
+> **[3:14](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980&t=194)** In [[Python (Programming Language)|Python]], this notation with the square brackets indicates a list.
 >
 > **[3:18](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980&t=198)** You have a list of values instead of a single value.
 >
@@ -438,15 +434,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - computers (1)
 
-#### Installing Python, Pip, and Jupyter Notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980)
+#### [Installing Python, Pip, and Jupyter Notebooks](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=9)** These things get updated and changed all the time, and while I hope your installation goes flawlessly, I can't guarantee it.
 >
-> **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=17)** To assist with any road bumps, I've created a Troubleshooting document in the Exercise Files that goes over everything step by step, and also includes a link to the Troubleshooting Wiki on GitHub.
+> **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=17)** To assist with any road bumps, I've created a Troubleshooting document in the Exercise Files that goes over everything step by step, and also includes a link to the Troubleshooting Wiki on [[GitHub]].
 >
 > **[0:28](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=28)** If you go through all of these and you still think that your problem is unique, hit me up in the Q&A section on the Course page.
 >
@@ -478,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=77)** Okay, so let's get started with installation.
 >
-> **[1:21](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=81)** First, we need to install Python.
+> **[1:21](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=81)** First, we need to install [[Python (Programming Language)|Python]].
 >
 > **[1:23](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=83)** Go to [python.org/downloads](https://python.org/downloads).
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=102)** So this is very important.
 >
-> **[1:44](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=104)** For Windows users, click Customize Installation, go to Next, and click Add Python to environment variables.
+> **[1:44](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=104)** For [[Windows]] users, click Customize Installation, go to Next, and click Add Python to environment variables.
 >
 > **[1:53](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=113)** Very important that you check this box.
 >
@@ -512,7 +507,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=144)** On Macs, go to Applications, Utilities, and Terminal.
 >
-> **[2:30](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=150)** On Linux, it varies by distribution, so just look that one up.
+> **[2:30](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=150)** On [[Linux]], it varies by distribution, so just look that one up.
 >
 > **[2:34](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=154)** It should be easy to find because you tend to need the terminal a lot in Linux.
 >
@@ -536,7 +531,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=208)** Looks like everything's in working order.
 >
-> **[3:31](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=211)** Now, we'll need to exit the Python command prompt to install the rest of what we need.
+> **[3:31](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=211)** Now, we'll need to exit the Python command prompt to install the [[Representational State Transfer (REST)|rest]] of what we need.
 >
 > **[3:35](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=215)** We can do this by typing Control + D.
 >
@@ -556,7 +551,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=249)** And now we're going to use a tool that should have been installed with Python, and that's called pip, the package installer for Python.
 >
-> **[4:17](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=257)** So this is Python's package management system, and you can use it by typing pip.
+> **[4:17](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=257)** So this is Python's [[Package Management]] system, and you can use it by typing pip.
 >
 > **[4:21](https://www.linkedin.com/learning/python-essential-training-18764650/installing-python-pip-and-jupyter-notebooks?u=76281980&t=261)** If I hit Enter right away, you can see a list of commands associated with it.
 >
@@ -604,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (22), hit (9), [[Troubleshooting]] (5), next (5), prompt (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (22), [[GitHub]] (4), [[Windows]] (3), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** python (22), make (4), pip (4), find (3), python3 (2)
 > **Tools:** terminal (7), command prompt (5), jupyter (5), github (4), command line (2)
 > **UI Navigation:** go to (5), click on (1), navigate to (1)
@@ -613,14 +608,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **URLs:** [python.org](https://python.org) (1), [visualstudio.com](https://visualstudio.com) (1)
 
-#### The Zen of Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980)
+#### [The Zen of Python](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=0)** - Python has been around for 30 years, and its popularity only seems to grow as it ages.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=0)** - [[Python (Programming Language)|Python]] has been around for 30 years, and its popularity only seems to grow as it ages.
 >
-> **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=6)** Python isn't clumsy or random, as JavaScript.
+> **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=6)** Python isn't clumsy or random, as [[JavaScript]].
 >
 > **[0:09](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=9)** It's an elegant language for a more civilized age.
 >
@@ -648,7 +642,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=65)** Import is a good command to know.
 >
-> **[1:07](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=67)** It says, go fetch me a module so I can use it, and this is the name of the module we're importing.
+> **[1:07](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=67)** It says, go [[Fetch]] me a module so I can use it, and this is the name of the module we're importing.
 >
 > **[1:14](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=74)** We'll learn more about the import statements later, but if you type import this and then hit enter, you're going to get the following document printed out.
 >
@@ -666,13 +660,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=100)** Open up a terminal, type import this and see what happens.
 >
-> **[1:44](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=104)** Even if you don't fully understand every word or statement this document is making, I think you'll probably get the general sentiment.
+> **[1:44](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=104)** Even if you don't fully understand every [[Microsoft Word|word]] or statement this document is making, I think you'll probably get the general sentiment.
 >
 > **[1:51](https://www.linkedin.com/learning/python-essential-training-18764650/the-zen-of-python?u=76281980&t=111)** And by the way, if you go back and reread this when you've reached the end of this course, I can almost guarantee that every part of it will make perfect sense, just like Python itself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[JavaScript]] (1), [[Programming]] (1), prompt (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[JavaScript]] (1), [[Fetch]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Tools:** terminal (2), command prompt (1)
 > **Analogies:** for example (1), just like (1)
@@ -680,20 +674,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - python (1)
 
-#### Writing a program
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980)
+#### [Writing a program](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=1)** - [Instructor] Okay, let's get warmed up.
 >
-> **[0:02](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=2)** We're going to be writing our first Python program.
+> **[0:02](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=2)** We're going to be writing our first [[Python (Programming Language)|Python]] program.
 >
 > **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=5)** For this you can use any text editor you'd like.
 >
 > **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=7)** I recommend Visual Studio Code, which I'm using, or you can use something like Sublime or PyCharm.
 >
-> **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=13)** If you're using Windows, you can also use Notepad++ which I've used in the past.
+> **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=13)** If you're using [[Windows]], you can also use Notepad++ which I've used in the past.
 >
 > **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=17)** If you don't have a text editor, pause now and go get one.
 >
@@ -737,7 +730,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=96)** Use the cd command, which stands for change directory.
 >
-> **[1:40](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=100)** And I'm going to type cd Documents GitHub python-essential-training.
+> **[1:40](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=100)** And I'm going to type cd Documents [[GitHub]] python-essential-training.
 >
 > **[1:47](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=107)** Now I'm not actually typing that fast.
 >
@@ -755,11 +748,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=155)** So congratulations, you are now a Python programmer.
 >
-> **[2:39](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=159)** Go take a break, add Python to your LinkedIn skills section, and join me back here as we put this into practice.
+> **[2:39](https://www.linkedin.com/learning/python-essential-training-18764650/writing-a-program?u=76281980&t=159)** Go take a break, add Python to your [[LinkedIn]] skills section, and join me back here as we put this into practice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), cd (3), prompt (2), [[Windows]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Windows]] (1), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (14), cd (3), make (1)
 > **Tools:** terminal (3), command prompt (2), visual studio (1), sublime (1), pycharm (1)
 > **File Paths:** hello.py (4)
@@ -768,8 +761,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jupyter notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980)
+#### [Jupyter notebooks](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=10)** Well, I'll tell you.
 >
-> **[0:11](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=11)** Project Jupyter is a nonprofit organization that makes Python tools for programming and data science, and one of their best known tools is Jupyter Notebook, a web application that allows you to write and run Python programs in your browser rather than in the command line.
+> **[0:11](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=11)** Project Jupyter is a nonprofit organization that makes [[Python (Programming Language)|Python]] tools for programming and [[Data Science]], and one of their best known tools is Jupyter Notebook, a web application that allows you to write and run Python programs in your browser rather than in the command line.
 >
 > **[0:27](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=27)** When you run Jupyter Notebook from the command line, what you're really doing is starting a web application server running on your computer.
 >
@@ -861,7 +853,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=245)** So these notebooks are nice also because they're widely supported.
 >
-> **[4:09](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=249)** They get displayed nicely in GitHub, like you can see here.
+> **[4:09](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=249)** They get displayed nicely in [[GitHub]], like you can see here.
 >
 > **[4:12](https://www.linkedin.com/learning/python-essential-training-18764650/jupyter-notebooks?u=76281980&t=252)** This is in the Python essential training repo, and you can see it's really pretty.
 >
@@ -879,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (3), web application (2), [[Programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Data Science]] (3), [[GitHub]] (1)
 > **Tools:** jupyter (7), visual studio (4), command line (3), github (1)
 > **CLI Commands:** python (7), make (4)
 > **Env Vars:** url (2), ide (1)
@@ -888,12 +880,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Coderpad
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/using-coderpad?u=76281980)
+#### [Using Coderpad](https://www.linkedin.com/learning/python-essential-training-18764650/using-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/using-coderpad?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using CoderPad, which is integrated into the LinkedIn Learning Course website.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/using-coderpad?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using CoderPad, which is integrated into the [[LinkedIn]] Learning Course website.
 >
 > **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/using-coderpad?u=76281980&t=6)** All you have to do is click on the challenge.
 >
@@ -951,8 +942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Variables and types
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980)
+#### [Variables and types](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980&t=51)** And you see it's even highlighted in two different colors and I get a syntax error if I run that.
 >
-> **[0:56](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980&t=56)** And the syntax error occurs whenever Python can't understand what the heck you're trying to type.
+> **[0:56](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980&t=56)** And the syntax error occurs whenever [[Python (Programming Language)|Python]] can't understand what the heck you're trying to type.
 >
 > **[1:00](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980&t=60)** It doesn't understand a variable name that starts with a number.
 >
@@ -1130,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), next (1), career (1), [[Engineering]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11)
 > **CLI Commands:** python (11)
 > **Definitions:** is a  (4), we call this (1), is called (1), is an  (1)
 > **Tools:** jupyter (2)
@@ -1139,8 +1129,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Analogies:** for instance (1)
 
-#### Data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980)
+#### [Data structures](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1139,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=8)** We might want to have an array of values in a variable.
 >
-> **[0:12](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=12)** So Python has something called data structures, and the first one we're going to look at is a list.
+> **[0:12](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=12)** So [[Python (Programming Language)|Python]] has something called [[Data Structures]], and the first one we're going to look at is a list.
 >
 > **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=17)** So if we say my list is equal to open square bracket closed square bracket, this defines an empty list.
 >
@@ -1290,7 +1279,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=338)** So, remember dictionaries from the real world, big books, you look up words in them.
 >
-> **[5:43](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=343)** And when you look a word up, you get back a definition of that word.
+> **[5:43](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=343)** And when you look a [[Microsoft Word|word]] up, you get back a definition of that word.
 >
 > **[5:46](https://www.linkedin.com/learning/python-essential-training-18764650/data-structures?u=76281980&t=346)** And in Python, dictionaries are kind of like that.
 >
@@ -1330,14 +1319,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Structures]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (4), make (2)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** similar to (2), kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980)
+#### [Operators](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,7 +1341,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=18)** One plus one is two.
 >
-> **[0:20](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=20)** Let's go over a few other arithmetic operators that Python makes available for us.
+> **[0:20](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=20)** Let's go over a few other arithmetic operators that [[Python (Programming Language)|Python]] makes available for us.
 >
 > **[0:25](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=25)** This is the multiplication operator.
 >
@@ -1473,7 +1461,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=304)** The string cat appears in the string.
 >
-> **[5:07](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=307)** Of course, keep in mind that the word cat is also in catatonic.
+> **[5:07](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=307)** Of course, keep in mind that the [[Microsoft Word|word]] cat is also in catatonic.
 >
 > **[5:11](https://www.linkedin.com/learning/python-essential-training-18764650/operators?u=76281980&t=311)** So be careful when you're using this trick in Python when you're dealing with strings.
 >
@@ -1487,7 +1475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cat (4), python (2), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Warnings:** keep in mind (1), be careful (1)
@@ -1495,14 +1483,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Control flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980)
+#### [Control flow](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=1)** - [Instructor] This is where programming really starts to get powerful.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=3)** There are three main types of control flow that we're going to cover and the first of these is the if statement.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=3)** There are three main types of [[Control Flow]] that we're going to cover and the first of these is the if statement.
 >
 > **[0:09](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=9)** So this is pretty straightforward, a equals true, if a: print It is true.
 >
@@ -1532,7 +1519,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=86)** Otherwise, do this block.
 >
-> **[1:29](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=89)** So the indenting in Python is very important here.
+> **[1:29](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=89)** So the indenting in [[Python (Programming Language)|Python]] is very important here.
 >
 > **[1:31](https://www.linkedin.com/learning/python-essential-training-18764650/control-flow?u=76281980&t=91)** It really controls the structure of your program.
 >
@@ -1596,7 +1583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Control Flow]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** similar to (1)
@@ -1604,8 +1591,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/python-essential-training-18764650/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-essential-training-18764650/functions?u=76281980&t=67)** This is like bread going into the toaster and the argument for here is hello world.
 >
-> **[1:13](https://www.linkedin.com/learning/python-essential-training-18764650/functions?u=76281980&t=73)** And in Python we can even define our own functions.
+> **[1:13](https://www.linkedin.com/learning/python-essential-training-18764650/functions?u=76281980&t=73)** And in [[Python (Programming Language)|Python]] we can even define our own functions.
 >
 > **[1:15](https://www.linkedin.com/learning/python-essential-training-18764650/functions?u=76281980&t=75)** It's a bit like defining variables.
 >
@@ -1723,7 +1709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (3), stands for (1), means that (1)
 > **Code Identifiers:** appendfour (2), mylist (2)
@@ -1731,8 +1717,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - a (1)
 
-#### Classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/classes-and-objects?u=76281980)
+#### [Classes and objects](https://www.linkedin.com/learning/python-essential-training-18764650/classes-and-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1756,7 +1741,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/python-essential-training-18764650/classes-and-objects?u=76281980&t=60)** Fortunately, programmers have invented a tool to deal with situations like this, the class.
 >
-> **[1:06](https://www.linkedin.com/learning/python-essential-training-18764650/classes-and-objects?u=76281980&t=66)** A Python class is a great way to keep related collections of functions and attributes labeled and organized.
+> **[1:06](https://www.linkedin.com/learning/python-essential-training-18764650/classes-and-objects?u=76281980&t=66)** A [[Python (Programming Language)|Python]] class is a great way to keep related collections of functions and attributes labeled and organized.
 >
 > **[1:13](https://www.linkedin.com/learning/python-essential-training-18764650/classes-and-objects?u=76281980&t=73)** Let's go to the code.
 >
@@ -1868,7 +1853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (3), power (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** make (7), python (4)
 > **Definitions:** is a  (5), stands for (1), is called (1)
 > **Prerequisites:** initialization (3)
@@ -1877,8 +1862,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - we (1)
 
-#### About the challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980)
+#### [About the challenges](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1900,7 +1884,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=32)** First, relax, it's normal.
 >
-> **[0:34](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=34)** It's not because you haven't learned any Python or you're unprepared for the challenge.
+> **[0:34](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=34)** It's not because you haven't learned any [[Python (Programming Language)|Python]] or you're unprepared for the challenge.
 >
 > **[0:38](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=38)** It's because writing a new program is a new and weird way for your brain to work that it's never had to do before.
 >
@@ -1980,7 +1964,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=202)** Write your own thing.
 >
-> **[3:23](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=203)** Write a function that literally just returns the word "Hello."
+> **[3:23](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=203)** Write a function that literally just returns the [[Microsoft Word|word]] "Hello."
 >
 > **[3:26](https://www.linkedin.com/learning/python-essential-training-18764650/about-the-challenges?u=76281980&t=206)** Write anything.
 >
@@ -1992,7 +1976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (2), feature (1), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (5), make (2), find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -2001,8 +1985,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Solution: Factorials
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-factorials-23812786?u=76281980)
+#### [Solution: Factorials](https://www.linkedin.com/learning/python-essential-training-18764650/solution-factorials-23812786?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2054,7 +2037,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/python-essential-training-18764650/solution-factorials-23812786?u=76281980&t=178)** Well, let's say we call this function factorial with the number three, and I'm just going to write a comment down here.
 >
-> **[3:04](https://www.linkedin.com/learning/python-essential-training-18764650/solution-factorials-23812786?u=76281980&t=184)** Factorial three is how we're going to call it, and what this is equal to, this isn't Python code, this is just sort of a shorthand.
+> **[3:04](https://www.linkedin.com/learning/python-essential-training-18764650/solution-factorials-23812786?u=76281980&t=184)** Factorial three is how we're going to call it, and what this is equal to, this isn't [[Python (Programming Language)|Python]] code, this is just sort of a shorthand.
 >
 > **[3:14](https://www.linkedin.com/learning/python-essential-training-18764650/solution-factorials-23812786?u=76281980&t=194)** What this is going to do is it's going to say, okay, great, all these checks pass for the number three.
 >
@@ -2086,7 +2069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** we call this (2), short for (1)
 > **Versions:** 1.2 (1)
@@ -2097,12 +2080,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ints and floats
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980)
+#### [Ints and floats](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980&t=1)** - [Instructor] Okay, let's go back to ints and floats, two basic Python number types, and let's look at what happens when you use them together, convert between the two, and how to watch out for some of the common pitfalls of each.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980&t=1)** - [Instructor] Okay, let's go back to ints and floats, two basic [[Python (Programming Language)|Python]] number types, and let's look at what happens when you use them together, convert between the two, and how to watch out for some of the common pitfalls of each.
 >
 > **[0:12](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980&t=12)** So earlier we saw an example of doing math with ints and getting a float back.
 >
@@ -2174,7 +2156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **Versions:** 5.0 (1), 8.9 (1), 8.99999 (1), 4.67 (1), 1.2 (1)
 > **CLI Commands:** python (6)
 > **Definitions:** is an  (1), is called (1)
@@ -2182,14 +2164,13 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other types of numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/other-types-of-numbers?u=76281980)
+#### [Other types of numbers](https://www.linkedin.com/learning/python-essential-training-18764650/other-types-of-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/other-types-of-numbers?u=76281980&t=1)** - [Instructor] All right, we're going to get to the decimal class in a second.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/other-types-of-numbers?u=76281980&t=3)** But first I just want to show you a couple neat things you can do with the int class in Python.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/other-types-of-numbers?u=76281980&t=3)** But first I just want to show you a couple neat things you can do with the int class in [[Python (Programming Language)|Python]].
 >
 > **[0:08](https://www.linkedin.com/learning/python-essential-training-18764650/other-types-of-numbers?u=76281980&t=8)** So if I pass in a number as a string, it will convert it.
 >
@@ -2289,8 +2270,7 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Booleans
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980)
+#### [Booleans](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2302,7 +2282,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=12)** And because I'll use them day in, and day out as a programmer, it's extremely important to cover these.
 >
-> **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=17)** Honestly, I occasionally find myself bringing up a Python terminal to double check a line of boolean logic or confirm exactly how Python handles one case or another.
+> **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=17)** Honestly, I occasionally find myself bringing up a [[Python (Programming Language)|Python]] terminal to double check a line of boolean logic or confirm exactly how Python handles one case or another.
 >
 > **[0:26](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=26)** So let's go to the code.
 >
@@ -2338,7 +2318,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=101)** But be careful even putting something like a space in here, make sure that it's truly an empty string.
 >
-> **[1:47](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=107)** What about data structures?
+> **[1:47](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=107)** What about [[Data Structures]]?
 >
 > **[1:49](https://www.linkedin.com/learning/python-essential-training-18764650/booleans?u=76281980&t=109)** We can cast these to Booleans as well.
 >
@@ -2446,7 +2426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Data Structures]] (1)
 > **CLI Commands:** python (9), find (1), make (1)
 > **Warnings:** be careful (2)
 > **Versions:** 0.0 (1)
@@ -2455,14 +2435,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/strings?u=76281980)
+#### [Strings](https://www.linkedin.com/learning/python-essential-training-18764650/strings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/strings?u=76281980&t=1)** - [Instructor] All right, this is an exciting one.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/strings?u=76281980&t=3)** In Python, we're working with strings a lot, whether it's parsing them to extract some data or constructing them to provide some information to an end user.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/strings?u=76281980&t=3)** In [[Python (Programming Language)|Python]], we're working with strings a lot, whether it's parsing them to extract some data or constructing them to provide some information to an end user.
 >
 > **[0:10](https://www.linkedin.com/learning/python-essential-training-18764650/strings?u=76281980&t=10)** And Python has a lot of tools to both analyze and construct strings.
 >
@@ -2616,21 +2595,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), data (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11)
 > **CLI Commands:** python (11), make (1)
 > **Definitions:** is an  (1), is called (1), stands for (1), is a  (1)
 > **Versions:** python 3 (1), version 3 (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bytes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/bytes?u=76281980)
+#### [Bytes](https://www.linkedin.com/learning/python-essential-training-18764650/bytes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/bytes?u=76281980&t=1)** - [Instructor] So here's one we haven't covered yet.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/bytes?u=76281980&t=3)** The Python byte object.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/bytes?u=76281980&t=3)** The [[Python (Programming Language)|Python]] byte object.
 >
 > **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/bytes?u=76281980&t=5)** So in day-to-day programming, you won't often be working with it.
 >
@@ -2752,13 +2730,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (6), [[Programming]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), find (2), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Converting hex to decimal
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-converting-hex-to-decimal-23816058?u=76281980)
+#### [Solution: Converting hex to decimal](https://www.linkedin.com/learning/python-essential-training-18764650/solution-converting-hex-to-decimal-23816058?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2788,7 +2765,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/python-essential-training-18764650/solution-converting-hex-to-decimal-23816058?u=76281980&t=64)** Then I take the middle number, multiply it by 16 because that's in the 16ths place, or 16 to the first power.
 >
-> **[1:13](https://www.linkedin.com/learning/python-essential-training-18764650/solution-converting-hex-to-decimal-23816058?u=76281980&t=73)** Then I have the one's place and I just add that onto the rest and return it.
+> **[1:13](https://www.linkedin.com/learning/python-essential-training-18764650/solution-converting-hex-to-decimal-23816058?u=76281980&t=73)** Then I have the one's place and I just add that onto the [[Representational State Transfer (REST)|rest]] and return it.
 >
 > **[1:20](https://www.linkedin.com/learning/python-essential-training-18764650/solution-converting-hex-to-decimal-23816058?u=76281980&t=80)** I have a similar solution for two character strings and then one character strings.
 >
@@ -2842,7 +2819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** hexnum (2)
 > **Definitions:** is a  (1)
@@ -2853,14 +2830,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980)
+#### [Lists](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=1)** - [Instructor] We've looked at strings in some detail already.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=3)** In Python, strings and lists are very similar types.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=3)** In [[Python (Programming Language)|Python]], strings and lists are very similar types.
 >
 > **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=6)** The slicing syntax used for strings is also applicable to lists.
 >
@@ -2980,25 +2956,24 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=302)** And so you can see the difference between setting a variable to another variable and making a copy of it, setting it to the value of that variable.
 >
-> **[5:10](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=310)** Lists are one of the most fundamental and useful data structures in Python and it's important to get a feel for how they work.
+> **[5:10](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=310)** Lists are one of the most fundamental and useful [[Data Structures]] in Python and it's important to get a feel for how they work.
 >
 > **[5:15](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980&t=315)** So I encourage you to play around with them in this notebook and get ready for some more fun with them as we progress.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), feature (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Structures]] (1)
 > **Code Identifiers:** mylist (16)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuples and sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980)
+#### [Tuples and sets](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=1)** - [Instructor] Alright, let's take a deeper dive into two data structures we've covered only briefly before.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=1)** - [Instructor] Alright, let's take a deeper dive into two [[Data Structures]] we've covered only briefly before.
 >
 > **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=5)** We're talking about tuples and sets.
 >
@@ -3040,13 +3015,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=101)** The order of elements in your list may not be the same coming back out.
 >
-> **[1:46](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=106)** Because of this, you can't fetch elements by their index like you can with a set.
+> **[1:46](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=106)** Because of this, you can't [[Fetch]] elements by their index like you can with a set.
 >
 > **[1:50](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=110)** So if we take mySet and try to get the first or the element at the zero index, it won't let us do that.
 >
 > **[1:57](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=117)** The set object is not subscriptable so you can't use the slicing syntax with it.
 >
-> **[2:03](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=123)** In Python, an object is subscriptable.
+> **[2:03](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=123)** In [[Python (Programming Language)|Python]], an object is subscriptable.
 >
 > **[2:05](https://www.linkedin.com/learning/python-essential-training-18764650/tuples-and-sets?u=76281980&t=125)** If it contains elements that can be accessed by an index, it contains ordered accessible subelements.
 >
@@ -3172,7 +3147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (1), [[Programming]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Data Structures]] (1), [[Fetch]] (1)
 > **Code Identifiers:** myset (13), mytuple (4), mylist (3), returnsmultiplevalues (2)
 > **CLI Commands:** python (6), make (4), find (1)
 > **Cross-References:** later in (1)
@@ -3181,14 +3156,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/dictionaries?u=76281980)
+#### [Dictionaries](https://www.linkedin.com/learning/python-essential-training-18764650/dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/dictionaries?u=76281980&t=0)** (gentle music)
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/dictionaries?u=76281980&t=0)** - In my experience, most data structures you work with in Python will be lists, but that's followed very closely by dictionaries.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/dictionaries?u=76281980&t=0)** - In my experience, most [[Data Structures]] you work with in [[Python (Programming Language)|Python]] will be lists, but that's followed very closely by dictionaries.
 >
 > **[0:08](https://www.linkedin.com/learning/python-essential-training-18764650/dictionaries?u=76281980&t=8)** Lists and dictionaries, dictionaries and lists.
 >
@@ -3344,7 +3318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), cat (3), find (2), make (2)
 > **Definitions:** is a  (3), is called (1)
 > **UI Navigation:** go to (1)
@@ -3353,14 +3327,13 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - in (1)
 
-#### List comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980)
+#### [List comprehensions](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980&t=1)** - [Instructor] Python has a really neat feature that's somewhat unique in programming languages, and that is the list comprehension.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980&t=1)** - [Instructor] [[Python (Programming Language)|Python]] has a really neat feature that's somewhat unique in programming languages, and that is the list comprehension.
 >
-> **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980&t=7)** Note the word comprehension here has nothing to do with understanding but more to do with the word comprehensive, so systematically listing everything out.
+> **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980&t=7)** Note the [[Microsoft Word|word]] comprehension here has nothing to do with understanding but more to do with the word comprehensive, so systematically listing everything out.
 >
 > **[0:16](https://www.linkedin.com/learning/python-essential-training-18764650/list-comprehensions?u=76281980&t=16)** For example, my list is one, two, three, four, five.
 >
@@ -3484,7 +3457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Python (Programming Language)|Python]] (2), feature (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** mystring (6), cleanword (4)
 > **CLI Commands:** make (6), python (2)
 > **Analogies:** for example (2), for instance (2)
@@ -3492,8 +3465,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionary comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/dictionary-comprehensions?u=76281980)
+#### [Dictionary comprehensions](https://www.linkedin.com/learning/python-essential-training-18764650/dictionary-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3525,7 +3497,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/python-essential-training-18764650/dictionary-comprehensions?u=76281980&t=85)** Well, whatever is between the for and the in in this statement is what each tuple of animalList is getting assigned to.
 >
-> **[1:35](https://www.linkedin.com/learning/python-essential-training-18764650/dictionary-comprehensions?u=76281980&t=95)** So remember when we saw earlier when we were discussing tuples and sets, Python allows you to unpack values into multiple variables as long as the number of variables you're assigning the values to matches the elements in this data structure.
+> **[1:35](https://www.linkedin.com/learning/python-essential-training-18764650/dictionary-comprehensions?u=76281980&t=95)** So remember when we saw earlier when we were discussing tuples and sets, [[Python (Programming Language)|Python]] allows you to unpack values into multiple variables as long as the number of variables you're assigning the values to matches the elements in this data structure.
 >
 > **[1:49](https://www.linkedin.com/learning/python-essential-training-18764650/dictionary-comprehensions?u=76281980&t=109)** So we have two items in each tuple here and we're unpacking them into two key value variables here that we can use and this just makes it a little bit cleaner.
 >
@@ -3561,14 +3533,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** animallist (4), otheritem (1), dict_items (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** just like (3)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Encoding ASCII art
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-encoding-ascii-art-23813749?u=76281980)
+#### [Solution: Encoding ASCII art](https://www.linkedin.com/learning/python-essential-training-18764650/solution-encoding-ascii-art-23813749?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3651,12 +3622,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If and else
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980)
+#### [If and else](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980&t=0)** - If you want to learn about conditional statements in Python, you're in the right place.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980&t=0)** - If you want to learn about conditional statements in [[Python (Programming Language)|Python]], you're in the right place.
 >
 > **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980&t=5)** Else?
 >
@@ -3770,7 +3740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (4), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), find (1)
 > **Definitions:** stands for (1), known as (1)
 > **Code Identifiers:** fizzbuzz (1)
@@ -3779,12 +3749,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** set up (1)
 
-#### While
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980)
+#### [While](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=1)** - While loops look innocuous, but they're one of the most dangerous things you can write in Python.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=1)** - While loops look innocuous, but they're one of the most dangerous things you can write in [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=6)** One small mistake and your program will run forever.
 >
@@ -3866,7 +3835,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=321)** Now obviously, we could replace this entire thing with pass and it would be exactly the same and a little bit cleaner.
 >
-> **[5:29](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=329)** So usually you see a continue statement used inside an if statement to prevent the rest of the code in the loop from being executed but only if some condition is met.
+> **[5:29](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=329)** So usually you see a continue statement used inside an if statement to prevent the [[Representational State Transfer (REST)|rest]] of the code in the loop from being executed but only if some condition is met.
 >
 > **[5:40](https://www.linkedin.com/learning/python-essential-training-18764650/while-23813750?u=76281980&t=340)** So let's just copy this, change the while to True: again, And then in here I'm going to say if datetime.now().second is less than wait_until: continue
 >
@@ -3886,7 +3855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), hit (2), web (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** wait_until (7)
 > **CLI Commands:** python (3), make (1)
 > **UI Navigation:** go to (1)
@@ -3894,12 +3863,11 @@ created: 2026-05-02
 > **Speakers:** - while (1)
 > **Non-Speech:** (instructor typing) (1)
 
-#### For
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980)
+#### [For](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=0)** - [Instructor] I love the syntax of the for loop in Python.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=0)** - [Instructor] I love the syntax of the for loop in [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=3)** My list equals 1, 2, 3, 4.
 >
@@ -3923,7 +3891,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=53)** That's going to be our animal list, in animalLookup.items, pass.
 >
-> **[1:02](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=62)** We can also skip the rest of the loop during each iteration if we want, using the continue statement.
+> **[1:02](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=62)** We can also skip the [[Representational State Transfer (REST)|rest]] of the loop during each iteration if we want, using the continue statement.
 >
 > **[1:09](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=69)** So if length of animals is greater than one, continue.
 >
@@ -3945,7 +3913,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=138)** Now, there is one really cool thing that we haven't covered yet, and that is the break else statement or the for else statement.
 >
-> **[2:26](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=146)** And one of my favorite examples to demonstrate this with is finding prime numbers, something computers do all the time for cryptography and security.
+> **[2:26](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=146)** And one of my favorite examples to demonstrate this with is finding prime numbers, something computers do all the time for [[Cryptography]] and security.
 >
 > **[2:34](https://www.linkedin.com/learning/python-essential-training-18764650/for-23814125?u=76281980&t=154)** And we can do it too in just a few lines of Python.
 >
@@ -4025,7 +3993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Cryptography]] (1), [[Security]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Cryptography]] (1)
 > **CLI Commands:** python (6), find (2)
 > **Code Identifiers:** found_factors (5), mylist (1), animallookup (1)
 > **Versions:** 0.5 (2)
@@ -4033,8 +4001,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Finding primes faster
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-finding-primes-faster-23816057?u=76281980)
+#### [Solution: Finding primes faster](https://www.linkedin.com/learning/python-essential-training-18764650/solution-finding-primes-faster-23816057?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4054,7 +4021,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-essential-training-18764650/solution-finding-primes-faster-23816057?u=76281980&t=23)** It's the only even prime, which makes it odd.
 >
-> **[0:26](https://www.linkedin.com/learning/python-essential-training-18764650/solution-finding-primes-faster-23816057?u=76281980&t=26)** So starting with this value, this two in our list, will help our function calculate the rest of the primes up to the number we've been given.
+> **[0:26](https://www.linkedin.com/learning/python-essential-training-18764650/solution-finding-primes-faster-23816057?u=76281980&t=26)** So starting with this value, this two in our list, will help our function calculate the [[Representational State Transfer (REST)|rest]] of the primes up to the number we've been given.
 >
 > **[0:33](https://www.linkedin.com/learning/python-essential-training-18764650/solution-finding-primes-faster-23816057?u=76281980&t=33)** Then, for each number between three and the number we passed into the function, we're going to get the square root.
 >
@@ -4100,7 +4067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** note that (1), be careful (1)
@@ -4113,14 +4080,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The anatomy of a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980)
+#### [The anatomy of a function](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=0)** - We've been working with functions throughout this course.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=3)** I mean, literally the first Python program we wrote used the print function to print Hello World.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=3)** I mean, literally the first [[Python (Programming Language)|Python]] program we wrote used the print function to print Hello World.
 >
 > **[0:08](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=8)** So many introductory programming courses use the recipe metaphor for programming.
 >
@@ -4230,7 +4196,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=281)** This is just a reference, a pointer to the stuff that's being passed in.
 >
-> **[4:46](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=286)** Technically, you don't have to use the word args here as this variable name, but you should use args because it's sort of the Python standard.
+> **[4:46](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=286)** Technically, you don't have to use the [[Microsoft Word|word]] args here as this variable name, but you should use args because it's sort of the Python standard.
 >
 > **[4:54](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980&t=294)** And of course when we call this we get our old friend the tuple.
 >
@@ -4280,7 +4246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (3), functional (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (4), make (2)
 > **Code Identifiers:** performoperation (5)
 > **Definitions:** we call this (2), stands for (1)
@@ -4288,14 +4254,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Variables and scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-scope?u=76281980)
+#### [Variables and scope](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-scope?u=76281980&t=0)** - Welcome class.
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-scope?u=76281980&t=1)** Today we're covering global and local variable scope interaction in Python.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-scope?u=76281980&t=1)** Today we're covering global and local variable scope interaction in [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-scope?u=76281980&t=6)** - Geez, that sounds tedious.
 >
@@ -4437,7 +4402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (7)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **CLI Commands:** python (8), make (3), find (1)
 > **Code Identifiers:** vara (7), varb (2), varc (1)
 > **Tools:** jupyter (2)
@@ -4445,8 +4410,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Functions as variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980)
+#### [Functions as variables](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4456,7 +4420,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=10)** Okay, in the case of a function, this data is information about the required parameters, if any, and also some lines of instruction need to be executed.
 >
-> **[0:20](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=20)** And a function is actually represented in Python as an object.
+> **[0:20](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=20)** And a function is actually represented in [[Python (Programming Language)|Python]] as an object.
 >
 > **[0:24](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=24)** And we can see this using the underscore underscore code attribute of Python function objects.
 >
@@ -4482,7 +4446,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=83)** And these two various text processing operations.
 >
-> **[1:26](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=86)** So we have function that makes the text all lowercase, removes punctuations, removes any new line characters represented with that backslash n, removes words if the the word length is three or less, and then also removes the long words.
+> **[1:26](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=86)** So we have function that makes the text all lowercase, removes punctuations, removes any new line characters represented with that backslash n, removes words if the the [[Microsoft Word|word]] length is three or less, and then also removes the long words.
 >
 > **[1:43](https://www.linkedin.com/learning/python-essential-training-18764650/functions-as-variables?u=76281980&t=103)** Now I can easily mix and match the order I perform these functions in and which functions I apply by calling them in a list.
 >
@@ -4554,15 +4518,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Analogies:** imagine (1), for instance (1), for example (1)
 > **Code Identifiers:** co_code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Sum of triangles
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-sum-of-triangles?u=76281980)
+#### [Solution: Sum of triangles](https://www.linkedin.com/learning/python-essential-training-18764650/solution-sum-of-triangles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4588,7 +4551,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-essential-training-18764650/solution-sum-of-triangles?u=76281980&t=57)** So hopefully you looked at this triangle function.
 >
-> **[0:59](https://www.linkedin.com/learning/python-essential-training-18764650/solution-sum-of-triangles?u=76281980&t=59)** You didn't just take my word for it that it worked.
+> **[0:59](https://www.linkedin.com/learning/python-essential-training-18764650/solution-sum-of-triangles?u=76281980&t=59)** You didn't just take my [[Microsoft Word|word]] for it that it worked.
 >
 > **[1:02](https://www.linkedin.com/learning/python-essential-training-18764650/solution-sum-of-triangles?u=76281980&t=62)** You can see the triangle actually calls itself, it's a recursive function.
 >
@@ -4602,7 +4565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -4612,8 +4575,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The anatomy of a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980)
+#### [The anatomy of a class](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4627,7 +4589,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980&t=8)** We're often told simply that we should never talk about it.
 >
-> **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980&t=13)** As my dear friend Guido van Rossum, the creator of Python, told me at a party last week, now is better than never.
+> **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980&t=13)** As my dear friend Guido van Rossum, the creator of [[Python (Programming Language)|Python]], told me at a party last week, now is better than never.
 >
 > **[0:20](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980&t=20)** Let's go to the code.
 >
@@ -4743,7 +4705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Warnings:** be careful (2), note that (2), warning (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -4752,14 +4714,13 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** go to (1)
 
-#### Static and instance methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980)
+#### [Static and instance methods](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=0)** - [Instructor] Let's take a look at one my favorite things to do in Python, String Parsing.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=0)** - [Instructor] Let's take a look at one my favorite things to do in [[Python (Programming Language)|Python]], String Parsing.
 >
-> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=5)** I'm going to make a class called Word Set, and like its name implies, it is going to contain a set of words.
+> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=5)** I'm going to make a class called [[Microsoft Word|Word]] Set, and like its name implies, it is going to contain a set of words.
 >
 > **[0:14](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=14)** So self dot words is equal to an empty set.
 >
@@ -4805,7 +4766,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=138)** Then we're going to return, text dot lower.
 >
-> **[2:22](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=142)** Make everything lowercase after stripping out the punctuation, then let's fill in the rest of add text, so it cleans the text.
+> **[2:22](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=142)** Make everything lowercase after stripping out the punctuation, then let's fill in the [[Representational State Transfer (REST)|rest]] of add text, so it cleans the text.
 >
 > **[2:30](https://www.linkedin.com/learning/python-essential-training-18764650/static-and-instance-methods?u=76281980&t=150)** Then for word in text dot split.
 >
@@ -4921,20 +4882,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (6), make (5)
 > **Definitions:** is called (4), is a  (3), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/inheritance?u=76281980)
+#### [Inheritance](https://www.linkedin.com/learning/python-essential-training-18764650/inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/inheritance?u=76281980&t=0)** - My child, one day, all of this will be yours.
 >
-> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/inheritance?u=76281980&t=5)** Your inheritance. (ethereal music) So you see, in computer science and in Python, a class can extend another class.
+> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/inheritance?u=76281980&t=5)** Your inheritance. (ethereal music) So you see, in computer science and in [[Python (Programming Language)|Python]], a class can extend another class.
 >
 > **[0:16](https://www.linkedin.com/learning/python-essential-training-18764650/inheritance?u=76281980&t=16)** The original class is called the parent class, and the class extending it is the child class.
 >
@@ -5064,8 +5024,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Non-Speech:** (ethereal music) (1)
 
-#### Solution: Drawing shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-drawing-shapes?u=76281980)
+#### [Solution: Drawing shapes](https://www.linkedin.com/learning/python-essential-training-18764650/solution-drawing-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5164,12 +5123,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Errors and exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980)
+#### [Errors and exceptions](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980&t=1)** - [Instructor] We've seen a lot of errors working with Python so far.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980&t=1)** - [Instructor] We've seen a lot of errors working with [[Python (Programming Language)|Python]] so far.
 >
 > **[0:04](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980&t=4)** You know, it's that thing that happens when you divide something by zero.
 >
@@ -5259,8 +5217,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/handling-exceptions?u=76281980)
+#### [Handling exceptions](https://www.linkedin.com/learning/python-essential-training-18764650/handling-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5346,7 +5303,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/python-essential-training-18764650/handling-exceptions?u=76281980&t=212)** The order of these except statements does matter here.
 >
-> **[3:36](https://www.linkedin.com/learning/python-essential-training-18764650/handling-exceptions?u=76281980&t=216)** So Python will try the first one.
+> **[3:36](https://www.linkedin.com/learning/python-essential-training-18764650/handling-exceptions?u=76281980&t=216)** So [[Python (Programming Language)|Python]] will try the first one.
 >
 > **[3:37](https://www.linkedin.com/learning/python-essential-training-18764650/handling-exceptions?u=76281980&t=217)** Say, does this match type error?
 >
@@ -5438,15 +5395,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** handleexception (3), causeerror (2), raiseerror (1), raiseerrors (1)
 > **CLI Commands:** make (5), python (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** http (2)
 > **Speakers:** - [instructor] (1)
 
-#### Custom exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/custom-exceptions?u=76281980)
+#### [Custom exceptions](https://www.linkedin.com/learning/python-essential-training-18764650/custom-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5518,7 +5474,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), web (1)
 > **Code Identifiers:** statuscode (3), causeerror (2), raiseservererror (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (2)
@@ -5526,14 +5481,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Bad arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980)
+#### [Solution: Bad arguments](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=0)** - [Instructor] Custom annotations work really well with exception handling.
 >
-> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=3)** It's one of my favorite Python tricks for writing clean enterprise code.
+> **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=3)** It's one of my favorite [[Python (Programming Language)|Python]] tricks for writing clean enterprise code.
 >
 > **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=7)** For this challenge, you needed to write a new custom exception called NonIntArgumentException.
 >
@@ -5543,7 +5497,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=23)** We just need it defined.
 >
-> **[0:24](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=24)** Then you want to fill in the rest of this wrapper function under here.
+> **[0:24](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=24)** Then you want to fill in the [[Representational State Transfer (REST)|rest]] of this wrapper function under here.
 >
 > **[0:29](https://www.linkedin.com/learning/python-essential-training-18764650/solution-bad-arguments?u=76281980&t=29)** As you can see, the function sum down here takes in three arguments, but I opted to make the wrapper handle any number of arguments just by iterating through the args tub here.
 >
@@ -5571,8 +5525,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to threads and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980)
+#### [Intro to threads and processes](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5640,7 +5593,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980&t=131)** A process can have multiple threads and execute code at the same time in parallel.
 >
-> **[2:17](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980&t=137)** Everything we've been doing in Python so far has been inside a single thread, inside a single process.
+> **[2:17](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980&t=137)** Everything we've been doing in [[Python (Programming Language)|Python]] so far has been inside a single thread, inside a single process.
 >
 > **[2:23](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980&t=143)** That is we compute each statement sequentially.
 >
@@ -5650,14 +5603,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - i (1)
 
-#### Multithreading
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980)
+#### [Multithreading](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5683,7 +5635,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=44)** This is obviously a fairly contrived example, but these situations often arise in programming.
 >
-> **[0:49](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=49)** For instance, waiting to fetch data back from a remote server.
+> **[0:49](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=49)** For instance, waiting to [[Fetch]] data back from a remote server.
 >
 > **[0:53](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=53)** Your code is just sitting around doing nothing, waiting for that data to come back, and this is where threads come in handy.
 >
@@ -5705,7 +5657,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=88)** And let's copy this and put it there.
 >
-> **[1:32](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=92)** Okay, now I'm putting a comma after this, just to show Python that it's a tuple and not a random variable with parentheses around it.
+> **[1:32](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=92)** Okay, now I'm putting a comma after this, just to show [[Python (Programming Language)|Python]] that it's a tuple and not a random variable with parentheses around it.
 >
 > **[1:41](https://www.linkedin.com/learning/python-essential-training-18764650/multithreading?u=76281980&t=101)** If you only have one value in the tuple, sometimes that's necessary.
 >
@@ -5765,19 +5717,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1), [[Fetch]] (1), parallel (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Code Identifiers:** longsquare (3)
 > **Definitions:** is called (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/multiprocessing?u=76281980)
+#### [Multiprocessing](https://www.linkedin.com/learning/python-essential-training-18764650/multiprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/multiprocessing?u=76281980&t=0)** - [Instructor] You're probably great at multi-processing and Python already and don't even know it.
+> **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/multiprocessing?u=76281980&t=0)** - [Instructor] You're probably great at multi-processing and [[Python (Programming Language)|Python]] already and don't even know it.
 >
 > **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/multiprocessing?u=76281980&t=5)** Here, I'll show you.
 >
@@ -5887,7 +5838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), parallel (3), next (2), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (1), pip (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** install (2)
@@ -5901,12 +5852,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Opening, reading, and writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980)
+#### [Opening, reading, and writing](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=1)** - Watching output being printed to the screen is all well and great, but often as programmers we're asked to produce something real, you know, something tangible, usually for those management types that want to see a physical file they can attach to email or open in Excel or whatever it is they do with files.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=1)** - Watching output being printed to the screen is all well and great, but often as programmers we're asked to produce something real, you know, something tangible, usually for those management types that want to see a physical file they can attach to email or open in [[Microsoft Excel|Excel]] or whatever it is they do with files.
 >
 > **[0:18](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=18)** Sometimes they give you files and they want your program to read them.
 >
@@ -5914,7 +5864,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=26)** Let's go to the code.
 >
-> **[0:28](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=28)** The first thing you need to know about working with files in Python is that it's not quite as simple as when you double-click an icon on your desktop.
+> **[0:28](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=28)** The first thing you need to know about working with files in [[Python (Programming Language)|Python]] is that it's not quite as simple as when you double-click an icon on your desktop.
 >
 > **[0:35](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=35)** We're working a little more directly with the operating system and so there are some things that you need to manage.
 >
@@ -6034,13 +5984,13 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=378)** However, if I tried to do something like this, f.write, PS, I forgot some stuff, we get an I/O error or an input/output error because this file is already closed for writing.
 >
-> **[6:34](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=394)** So file this away in your brain because we're going to be reading and writing, although no arithmetic, throughout the rest of this chapter.
+> **[6:34](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=394)** So file this away in your brain because we're going to be reading and writing, although no arithmetic, throughout the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[6:42](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980&t=402)** Ugh, more of these.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), management (1), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (2)
 > **File Paths:** 10_01_file.txt (2), output.txt (1)
 > **UI Navigation:** go to (1), double-click (1)
@@ -6049,12 +5999,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - watching (1)
 
-#### CSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/csv?u=76281980)
+#### [CSV](https://www.linkedin.com/learning/python-essential-training-18764650/csv?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/csv?u=76281980&t=1)** - [Lecturer] It's time to look at the CSV module and Python.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/csv?u=76281980&t=1)** - [Lecturer] It's time to look at the CSV module and [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/python-essential-training-18764650/csv?u=76281980&t=3)** No need to install anything.
 >
@@ -6182,7 +6131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (4), [[Python (Programming Language)|Python]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** csv (12)
 > **CLI Commands:** python (3), make (1)
 > **File Paths:** 10_02_us.csv (2), ma_prime.csv (1)
@@ -6191,14 +6140,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [lecturer] (1)
 
-#### JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980)
+#### [JSON](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=1)** - [Instructor] Previously, we've been focusing a lot on reading and writing files to and from the disk.
 >
-> **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=6)** JSON files with the .json extension are common, of course, and you might regularly be working with them.
+> **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=6)** [[JSON]] files with the .json extension are common, of course, and you might regularly be working with them.
 >
 > **[0:12](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=12)** But for now, we'll mostly be focusing with JSON strings.
 >
@@ -6212,7 +6160,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=38)** Okay.
 >
-> **[0:39](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=39)** Something to keep in mind, JSON is not Python.
+> **[0:39](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=39)** Something to keep in mind, JSON is not [[Python (Programming Language)|Python]].
 >
 > **[0:44](https://www.linkedin.com/learning/python-essential-training-18764650/json?u=76281980&t=44)** This JSON formatted string looks a lot like a Python dictionary, but it's not.
 >
@@ -6298,7 +6246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (33), [[Python (Programming Language)|Python]] (6), data (1)
+> **Frameworks & Libraries:** [[JSON]] (33), [[Python (Programming Language)|Python]] (6)
 > **Env Vars:** json (24)
 > **CLI Commands:** python (6), make (2), cat (2), find (1)
 > **Code Identifiers:** pythondict (2), jsonstring (1)
@@ -6307,8 +6255,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Compressing ASCII art
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/solution-compressing-ascii-art?u=76281980)
+#### [Solution: Compressing ASCII art](https://www.linkedin.com/learning/python-essential-training-18764650/solution-compressing-ascii-art?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6322,7 +6269,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-essential-training-18764650/solution-compressing-ascii-art?u=76281980&t=30)** So if you do find something cool, let me know.
 >
-> **[0:34](https://www.linkedin.com/learning/python-essential-training-18764650/solution-compressing-ascii-art?u=76281980&t=34)** So the first thing I did was take that JSON blob from encode string and then just write it to a file.
+> **[0:34](https://www.linkedin.com/learning/python-essential-training-18764650/solution-compressing-ascii-art?u=76281980&t=34)** So the first thing I did was take that [[JSON]] blob from encode string and then just write it to a file.
 >
 > **[0:40](https://www.linkedin.com/learning/python-essential-training-18764650/solution-compressing-ascii-art?u=76281980&t=40)** And then with decode file, we can open that file name again, read the JSON blob, and then run it through decode string.
 >
@@ -6374,7 +6321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JSON]] (4), next (2)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Env Vars:** json (4), asci (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1), we discussed (1)
@@ -6385,12 +6332,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Command-line arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980)
+#### [Command-line arguments](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=1)** - [Instructor] When we run a Python program from the terminal, we type python and then the name of the file we want to run, for example, example.py.
+> **[0:01](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=1)** - [Instructor] When we run a [[Python (Programming Language)|Python]] program from the terminal, we type python and then the name of the file we want to run, for example, example.py.
 >
 > **[0:09](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=9)** But you can also pass in a number of what's called command-line arguments after that.
 >
@@ -6400,7 +6346,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=23)** And if you run it, it usually prints out some documentation about the program along with available commands.
 >
-> **[0:29](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=29)** Or you can do a longer word proceeded by two dashes, like --help which might do the same thing as -h.
+> **[0:29](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=29)** Or you can do a longer [[Microsoft Word|word]] proceeded by two dashes, like --help which might do the same thing as -h.
 >
 > **[0:38](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980&t=38)** And these command-line arguments can also take values.
 >
@@ -6507,8 +6453,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** go back to (1)
 
-#### Creating modules and packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980)
+#### [Creating modules and packages](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6522,9 +6467,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980&t=11)** Okay, let's get this out of the way right up front.
 >
-> **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980&t=13)** There's no real formal definition of a library in python.
+> **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980&t=13)** There's no real formal definition of a library in [[Python (Programming Language)|python]].
 >
-> **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980&t=17)** It's more of a general computer science word.
+> **[0:17](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980&t=17)** It's more of a general computer science [[Microsoft Word|word]].
 >
 > **[0:19](https://www.linkedin.com/learning/python-essential-training-18764650/creating-modules-and-packages?u=76281980&t=19)** It just means imported files.
 >
@@ -6732,14 +6677,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrap up
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980)
+#### [Wrap up](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=0)** - So long, Farewell, auf wiedersehen, adieu.
 >
-> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=5)** If you enjoyed this course, please leave a review, and if you didn't enjoy the course, well, hey, at least you know Python now, right?
+> **[0:05](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=5)** If you enjoyed this course, please leave a review, and if you didn't enjoy the course, well, hey, at least you know [[Python (Programming Language)|Python]] now, right?
 >
 > **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=13)** From here, your journey depends on what skills you're trying to acquire.
 >
@@ -6747,19 +6691,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=24)** See what you get.
 >
-> **[0:25](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=25)** To show off and track your changes, host it on GitHub.
+> **[0:25](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=25)** To show off and track your changes, host it on [[GitHub]].
 >
 > **[0:29](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=29)** If you're pretty comfortable with what you've learned here, what do you need?
 >
-> **[0:32](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=32)** Data science, web apps, automation?
+> **[0:32](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=32)** [[Data Science]], web apps, automation?
 >
 > **[0:35](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=35)** Python has you covered.
 >
 > **[0:37](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=37)** There's no better data science library than scikit=learn.
 >
-> **[0:40](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=40)** Combine it with data structures from Pandas or the [[Python Data Analysis]] Library, and you'll be a professional data wizard \in no time.
+> **[0:40](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=40)** Combine it with [[Data Structures]] from [[Pandas (Software)|Pandas]] or the [[Python Data Analysis]] Library, and you'll be a professional data wizard \in no time.
 >
-> **[0:48](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=48)** If you want to build the next big app, Flask makes it fast and easy to build scalable rest APIs.
+> **[0:48](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=48)** If you want to build the next big app, Flask makes it fast and easy to build scalable [[Representational State Transfer (REST)|rest]] APIs.
 >
 > **[0:54](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=54)** The project is very intuitive and well-documented and they make it really easy to plug in with other libraries to build enterprise code.
 >
@@ -6767,9 +6711,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=65)** Python is, in my opinion, the best language for building powerful scrapers and bots to trawl the internet.
 >
-> **[1:11](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=71)** The Python request Library's one of the best, easiest HTTP request libraries I've found, and Python's ability to integrate with web browser drivers like Selenium is unparalleled.
+> **[1:11](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=71)** The Python request Library's one of the best, easiest HTTP request libraries I've found, and Python's ability to integrate with web browser drivers like [[Selenium]] is unparalleled.
 >
-> **[1:22](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=82)** For information on LinkedIn courses that cover these libraries, see my course recommendations guide in the exercise files.
+> **[1:22](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=82)** For information on [[LinkedIn]] courses that cover these libraries, see my course recommendations guide in the exercise files.
 >
 > **[1:29](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980&t=89)** All of these libraries and projects I've mentioned are ones I've used and continue to use, sometimes on a daily basis myself.
 >
@@ -6781,7 +6725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (5), web (3), [[GitHub]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Data Science]] (2), [[GitHub]] (1), [[Data Structures]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (8), make (1)
 > **Env Vars:** http (1)
 > **Tools:** github (1)
@@ -6789,8 +6733,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - so (1)
 
-#### Python challenge project
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?u=76281980)
+#### [Python challenge project](https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6804,7 +6747,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?u=76281980&t=6)** You did it, congratulations.
 >
-> **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?u=76281980&t=7)** (audience cheers) You want more essential training in the Python programming language?
+> **[0:07](https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?u=76281980&t=7)** (audience cheers) You want more essential training in the [[Python (Programming Language)|Python]] programming language?
 >
 > **[0:13](https://www.linkedin.com/learning/python-essential-training-18764650/python-challenge-project?u=76281980&t=13)** Well, okay, fine.
 >
@@ -6824,7 +6767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Env Vars:** ide (1)
 > **Tools:** command line (1)

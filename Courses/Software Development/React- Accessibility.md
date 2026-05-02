@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility in React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980)
+#### [Accessibility in React](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=0)** - [Instructor] React is one of the most popular JavaScript front-end frameworks.
+> **[0:00](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=0)** - [Instructor] [[React.js|React]] is one of the most popular [[JavaScript]] front-end frameworks.
 >
 > **[0:04](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=4)** It has almost 3 million users and a massive developer community.
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=29)** My name is Kiara Contreras, and I'm a front-end developer with experience in React.
 >
-> **[0:34](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=34)** I've been fascinated by creating the best user experience possible.
+> **[0:34](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=34)** I've been fascinated by creating the best [[User Experience (UX)|user experience]] possible.
 >
 > **[0:37](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980&t=37)** And that curiosity has led me down a path of building more accessible experiences so that all users can interact with websites.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), front-end (2), [[JavaScript]] (1), web (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - [instructor] (2), - [announcer] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -114,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980)
+#### [The need for accessibility](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,30 +125,29 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=14)** The internet is a staple in our lives, and is a primary source for information.
 >
-> **[0:18](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=18)** We use it to pay bills, catch up on news, watch TV, do our banking, apply for loans, shop for groceries, and more.
+> **[0:18](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=18)** We use it to pay bills, catch up on news, watch TV, do our [[Banking]], apply for loans, shop for groceries, and more.
 >
 > **[0:27](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=27)** Just like a business' physical location being required to comply with physical accessibility laws, so too must our websites.
 >
 > **[0:35](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=35)** In 2015, there were nearly 56.7 million Americans with a disability, that's 19% of the population, or nearly one in five people.
 >
-> **[0:45](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=45)** We don't want anyone leaving a website because a disability prevents them from having the best user experience possible.
+> **[0:45](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=45)** We don't want anyone leaving a website because a disability prevents them from having the best [[User Experience (UX)|user experience]] possible.
 >
-> **[0:51](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=51)** In this course, we will learn how to implement accessibility features, specifically into a React application.
+> **[0:51](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980&t=51)** In this course, we will learn how to implement accessibility features, specifically into a [[React.js|React]] application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), business (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1), application (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (2)
 > **Versions:** 56.7 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Semantic HTML: The foundation of web accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980)
+#### [Semantic HTML: The foundation of web accessibility](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=0)** - [Instructor] We'll learn about Semantic HTML and how it can be used to provide accessibility features from the moment we start coding our websites.
+> **[0:00](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=0)** - [Instructor] We'll learn about Semantic [[HTML]] and how it can be used to provide accessibility features from the moment we start coding our websites.
 >
 > **[0:08](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=8)** What is a semantic element?
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=32)** When a screen reader scans web page, it gets information about the DOM or the HTML structure of the page.
 >
-> **[0:39](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=39)** No styles or JavaScript will be read by the screen reader.
+> **[0:39](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=39)** No styles or [[JavaScript]] will be read by the screen reader.
 >
 > **[0:42](https://www.linkedin.com/learning/react-accessibility/semantic-html-the-foundation-of-web-accessibility?u=76281980&t=42)** While div with an ID of navbar may be an option, the more semantic option would be to use the nav tag.
 >
@@ -182,21 +179,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (2), dom (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1)
 > **Env Vars:** html (4), dom (1), html5 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Semantic React tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980)
+#### [Semantic React tags](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=0)** - [Instructor] We'll learn about semantic tags used in React and how they can be used to provide accessibility features.
+> **[0:00](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=0)** - [Instructor] We'll learn about semantic tags used in [[React.js|React]] and how they can be used to provide accessibility features.
 >
-> **[0:07](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=7)** In the previous video, we reviewed that semantic HTML tags are an element that clearly describes this meaning to both the browser and the developer.
+> **[0:07](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=7)** In the previous video, we reviewed that semantic [[HTML]] tags are an element that clearly describes this meaning to both the browser and the developer.
 >
 > **[0:16](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=16)** A common way of wrapping code in HTML would be to use a div tag.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=138)** The second way to do this is to import fragments.
 >
-> **[2:24](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=144)** And we can remove the React dot notation, so that only the word fragment is within a tag.
+> **[2:24](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=144)** And we can remove the React dot notation, so that only the [[Microsoft Word|word]] fragment is within a tag.
 >
 > **[2:31](https://www.linkedin.com/learning/react-accessibility/semantic-react-tags?u=76281980&t=151)** I'll return to my homepage just to be sure that the div is still not there, and to be sure that there isn't an obvious fragment tag.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), [[HTML]] (4), dom (4), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[HTML]] (4), [[Microsoft Word|Word]] (2)
 > **Env Vars:** html (4), jsx (1)
 > **File Paths:** index.js (1)
 > **CLI Commands:** find (1)
@@ -275,8 +271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing keyboard focus in React components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980)
+#### [Managing keyboard focus in React components](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=49)** Each of the links is highlighted with a blue border.
 >
-> **[0:53](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=53)** Why is adding keyboard focus important in a React app?
+> **[0:53](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=53)** Why is adding keyboard focus important in a [[React.js|React]] app?
 >
 > **[0:57](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=57)** When a new element or component renders in a single page application, screen readers are silent to the page changes.
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=93)** Exit Chrome. Two Trees Olive Oil.
 >
-> **[1:35](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=95)** Google Chrome window.
+> **[1:35](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=95)** [[Google]] Chrome window.
 >
 > **[1:37](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980&t=97)** Enter your email. Edit text has keyboard focus.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), hit (3), web (2), application (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Google]] (1)
 > **Speakers:** - [instructor] (4), - [text (3)
 > **Code Identifiers:** successmessage (1), createref (1), componentdidupdate (1)
 > **CLI Commands:** make (2)
@@ -400,8 +395,7 @@ created: 2026-05-02
 > **Env Vars:** dom (1)
 > **Analogies:** imagine (1)
 
-#### Skipping page content
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/skipping-page-content?u=76281980)
+#### [Skipping page content](https://www.linkedin.com/learning/react-accessibility/skipping-page-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/react-accessibility/skipping-page-content?u=76281980&t=68)** We'll be sure to add an href and this href will look for an ID available on the page that we will add to a different component.
 >
-> **[1:16](https://www.linkedin.com/learning/react-accessibility/skipping-page-content?u=76281980&t=76)** For now, add a pound sign or hashtag, and the word products.
+> **[1:16](https://www.linkedin.com/learning/react-accessibility/skipping-page-content?u=76281980&t=76)** For now, add a pound sign or hashtag, and the [[Microsoft Word|word]] [[Microsoft Products|products]].
 >
 > **[1:23](https://www.linkedin.com/learning/react-accessibility/skipping-page-content?u=76281980&t=83)** This signifies that when this anchor tag is clicked, it will look for an item that has the ID of products attached to it.
 >
@@ -459,12 +453,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Implementing focus and skipping content
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/challenge-implementing-focus-and-skipping-content?u=76281980)
+#### [Challenge: Implementing focus and skipping content](https://www.linkedin.com/learning/react-accessibility/challenge-implementing-focus-and-skipping-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,13 +477,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Implementing focus and skipping content
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/solution-implementing-focus-and-skipping-content?u=76281980)
+#### [Solution: Implementing focus and skipping content](https://www.linkedin.com/learning/react-accessibility/solution-implementing-focus-and-skipping-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +507,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), hit (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -526,8 +516,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility issues with mouse and pointer events
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980)
+#### [Accessibility issues with mouse and pointer events](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980&t=8)** Why worry about adding accessibility features to mouse and pointer events?
 >
-> **[0:12](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980&t=12)** For people navigating a website using the keyboard, mouse pointer events can block elements on a page or provide a limited user experience.
+> **[0:12](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980&t=12)** For people navigating a website using the keyboard, mouse pointer events can block elements on a page or provide a limited [[User Experience (UX)|user experience]].
 >
 > **[0:20](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980&t=20)** Our goal is to ensure that all interactive elements can be accessed.
 >
@@ -559,14 +548,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[User Experience (UX)|User experience]] (1), application (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to ensure events are accessible by keyboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/how-to-ensure-events-are-accessible-by-keyboard?u=76281980)
+#### [How to ensure events are accessible by keyboard](https://www.linkedin.com/learning/react-accessibility/how-to-ensure-events-are-accessible-by-keyboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,7 +666,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), next (2), hit (1)
 > **UI Navigation:** dropdown (17), click on (2), open the (1), toggle (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
@@ -691,8 +678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why test your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980)
+#### [Why test your work](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,7 +694,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980&t=25)** The second, it is more work to fix problems discovered late in a process than to do things right from the start, because code will have to be refactored and can break other features.
 >
-> **[0:37](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980&t=37)** To ensure quality and save time and money, accessibility testing should start right at the beginning of product design, all iterations of the project through to delivery.
+> **[0:37](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980&t=37)** To ensure quality and save time and money, accessibility testing should start right at the beginning of [[Product Design]], all iterations of the project through to delivery.
 >
 > **[0:47](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980&t=47)** There are some things we should know about before starting a project.
 >
@@ -728,17 +714,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
+> **Frameworks & Libraries:** [[Product Design]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing accessibility with your keyboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/testing-accessibility-with-your-keyboard?u=76281980)
+#### [Testing accessibility with your keyboard](https://www.linkedin.com/learning/react-accessibility/testing-accessibility-with-your-keyboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-accessibility/testing-accessibility-with-your-keyboard?u=76281980&t=0)** - [Instructor] In this lesson, we'll talk about how to test websites with your keyboard.
 >
-> **[0:05](https://www.linkedin.com/learning/react-accessibility/testing-accessibility-with-your-keyboard?u=76281980&t=5)** Keyboard accessibility allows for users to access and move between links, buttons, forms, and other controls using keystrokes.
+> **[0:05](https://www.linkedin.com/learning/react-accessibility/testing-accessibility-with-your-keyboard?u=76281980&t=5)** Keyboard accessibility allows for users to access and move between links, buttons, [[Forms]], and other controls using keystrokes.
 >
 > **[0:13](https://www.linkedin.com/learning/react-accessibility/testing-accessibility-with-your-keyboard?u=76281980&t=13)** Because so many different kinds of people use the internet, having a site that requires mouse use, would leave out users and create a negative experience.
 >
@@ -774,21 +759,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Cross-References:** next video (2)
 > **Analogies:** such as (2)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using browser features for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980)
+#### [Using browser features for testing](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=0)** - [Instructor] In this lesson, we'll talk about how to test accessibility with browser tools.
 >
-> **[0:05](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=5)** I'll be using the browser Google Chrome in order to use one of my favorite tools made for developers: Lighthouse.
+> **[0:05](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=5)** I'll be using the browser [[Google]] Chrome in order to use one of my favorite tools made for developers: Lighthouse.
 >
 > **[0:12](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=12)** Lighthouse is an open source automated tool for improving the quality of web pages.
 >
@@ -856,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=216)** I'm going to change it to black.
 >
-> **[3:40](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=220)** The next thing that I'll do is go to the products.js component.
+> **[3:40](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=220)** The next thing that I'll do is go to the [[Microsoft Products|products]].js component.
 >
 > **[3:44](https://www.linkedin.com/learning/react-accessibility/using-browser-features-for-testing?u=76281980&t=224)** And in this component, we have the image that does not have an alternate tag.
 >
@@ -906,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Google]] (2), seo (2), hit (2), node (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (3), click on (2), navigate to (1), dropdown (1), scroll down (1)
 > **Tools:** chrome devtools (6)
 > **Definitions:** is a  (3), is an  (1)
@@ -915,8 +899,7 @@ created: 2026-05-02
 > **CLI Commands:** node (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing with a screen reader
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/testing-with-a-screen-reader?u=76281980)
+#### [Testing with a screen reader](https://www.linkedin.com/learning/react-accessibility/testing-with-a-screen-reader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/react-accessibility/testing-with-a-screen-reader?u=76281980&t=20)** It's a built-in option for Mac users that can be activated in the system preferences.
 >
-> **[0:25](https://www.linkedin.com/learning/react-accessibility/testing-with-a-screen-reader?u=76281980&t=25)** For Windows users, you can install a free screen reader called NVDA.
+> **[0:25](https://www.linkedin.com/learning/react-accessibility/testing-with-a-screen-reader?u=76281980&t=25)** For [[Windows]] users, you can install a free screen reader called NVDA.
 >
 > **[0:30](https://www.linkedin.com/learning/react-accessibility/testing-with-a-screen-reader?u=76281980&t=30)** It can be downloaded from [nvaccess.org/download](https://nvaccess.org/download).
 >
@@ -972,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Speakers:** - [instructor] (3), - [instructor (2)
 > **Env Vars:** nvda (3)
 > **URLs:** [nvaccess.org](https://nvaccess.org) (1)
@@ -983,14 +966,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resources for web accessibility guidelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980)
+#### [Resources for web accessibility guidelines](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980&t=0)** - [Kiara] And we did it.
 >
-> **[0:01](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980&t=1)** Together, in this series, we learned how accessibility can be implemented in websites built in React.
+> **[0:01](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980&t=1)** Together, in this series, we learned how accessibility can be implemented in websites built in [[React.js|React]].
 >
 > **[0:07](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980&t=7)** We've covered semantic tags, keyboard focus, mouse and pointer events, testing, and more.
 >

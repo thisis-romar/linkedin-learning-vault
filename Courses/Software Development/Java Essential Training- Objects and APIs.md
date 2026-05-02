@@ -114,12 +114,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Java objects and APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980)
+#### [Java objects and APIs](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980&t=0)** - [Angie] Java is one of the world's most popular programming languages.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980&t=0)** - [Angie] [[Java]] is one of the world's most popular programming languages.
 >
 > **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980&t=4)** It's a highly sought after skill for enterprise developers because Java runs on billions of devices all over the world.
 >
@@ -133,22 +132,21 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980&t=35)** I'm Angie Jones, a certified Java developer and Java champion.
 >
-> **[0:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980&t=40)** Join me in this LinkedIn Learning course as we dive into core Java programming.
+> **[0:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980&t=40)** Join me in this [[LinkedIn]] Learning course as we dive into core Java programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[LinkedIn]] (1)
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, there are a few things you should already know.
 >
-> **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=4)** You should know how to create and use classes, methods, and variables within a Java program.
+> **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=4)** You should know how to create and use classes, methods, and variables within a [[Java]] program.
 >
 > **[0:10](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=10)** You should be familiar with decision structures, such as if-else statements.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=34)** The first course covers Java basics, such as syntax, variables, decision and repetition structures, objects, and other foundational knowledge you'll need to be successful in this course.
 >
-> **[0:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=47)** If you already have experience writing programs in Java or another object-oriented programming language, you should be ready to jump into this course.
+> **[0:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/what-you-should-know?u=76281980&t=47)** If you already have experience writing programs in Java or another [[Object-Oriented Programming (OOP)|object-oriented programming]] language, you should be ready to jump into this course.
 
 > [!info]- Semantic Content
 >
@@ -172,8 +170,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/coderpad-tour?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:22](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/coderpad-tour?u=76281980&t=30)** The code challenge has four areas, instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** showexpectedresults (1), showhints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -236,8 +233,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inheritance between classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980)
+#### [Inheritance between classes](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,9 +257,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=69)** Here, we have an Employee class that we'd like to inherit from the Person class.
 >
-> **[1:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=74)** To inherit from another class you use the reserved word extends within the subclass's header.
+> **[1:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=74)** To inherit from another class you use the reserved [[Microsoft Word|word]] extends within the subclass's header.
 >
-> **[1:22](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=82)** Extends forms an inheritance relationship.
+> **[1:22](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=82)** Extends [[Forms]] an inheritance relationship.
 >
 > **[1:26](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=86)** After the extends reserved word, you specify the class that you want to inherit from.
 >
@@ -307,23 +303,22 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=227)** Only protected and public fields and methods can be inherited.
 >
-> **[3:52](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=232)** Inheritance is one of the pillars of object-oriented programming.
+> **[3:52](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=232)** Inheritance is one of the pillars of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[3:57](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=237)** It's particularly useful for reusing code between related classes.
 >
-> **[4:02](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=242)** Great job learning about this important concept in Java.
+> **[4:02](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980&t=242)** Great job learning about this important concept in [[Java]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (1), [[Forms]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Forms]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **Code Identifiers:** employeeid (2)
 > **Definitions:** known as (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constructors in inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980)
+#### [Constructors in inheritance](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,13 +360,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=112)** We'll say name is set.
 >
-> **[1:56](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=116)** Inside of the employee constructor, we can explicitly make a call to any of the superclass's constructors by using the word super.
+> **[1:56](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=116)** Inside of the employee constructor, we can explicitly make a call to any of the superclass's constructors by using the [[Microsoft Word|word]] super.
 >
 > **[2:07](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=127)** If we call super without anything in parenthesis, this will call the default constructor of the superclass which is person.
 >
 > **[2:16](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=136)** However, if we wanted to call into any of the other constructors, we would just pass the required arguments.
 >
-> **[2:24](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=144)** So let's pass a name to the super and Java will know to call the superclass's constructor passing in a string.
+> **[2:24](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=144)** So let's pass a name to the super and [[Java]] will know to call the superclass's constructor passing in a string.
 >
 > **[2:34](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/constructors-in-inheritance?u=76281980&t=154)** Now let's run our inheritance checker.
 >
@@ -413,8 +408,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overriding and overloading inherited methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980)
+#### [Overriding and overloading inherited methods](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,11 +448,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=92)** The formula to calculate the perimeter of a square is sides times length.
 >
-> **[1:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=100)** Notice I didn't declare sides or length anywhere in the square class, but I inherited them from the rectangle class because these fields are declared as protected It's encouraged to use the override annotation which is the @ symbol followed by the word override.
+> **[1:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=100)** Notice I didn't declare sides or length anywhere in the square class, but I inherited them from the rectangle class because these fields are declared as protected It's encouraged to use the override annotation which is the @ symbol followed by the [[Microsoft Word|word]] override.
 >
 > **[2:02](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=122)** This is not required, but is strongly encouraged.
 >
-> **[2:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=125)** This lets Java know that your intention is to override the method that you inherited from your super class.
+> **[2:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=125)** This lets [[Java]] know that your intention is to override the method that you inherited from your super class.
 >
 > **[2:12](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/overriding-and-overloading-inherited-methods?u=76281980&t=132)** Without this override annotation, you could mistakenly think that you are overriding a method.
 >
@@ -505,12 +499,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chain of inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/chain-of-inheritance?u=76281980)
+#### [Chain of inheritance](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/chain-of-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/chain-of-inheritance?u=76281980&t=0)** - [Instructor] A Java class can only directly inherit from one superclass.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/chain-of-inheritance?u=76281980&t=0)** - [Instructor] A [[Java]] class can only directly inherit from one superclass.
 >
 > **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/chain-of-inheritance?u=76281980&t=5)** However, a superclass can also inherit from another class, thus forming a chain of inheritance where the subclass inherits from their ancestor classes as well.
 >
@@ -550,8 +543,7 @@ created: 2026-05-02
 > **Code Identifiers:** mycar (5), setcolor (1), getcolor (1), getdoors (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limiting access in inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/limiting-access-in-inheritance?u=76281980)
+#### [Limiting access in inheritance](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/limiting-access-in-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/limiting-access-in-inheritance?u=76281980&t=10)** All the public and protected methods and fields in a superclass, those are indeed inherited, but the private methods and fields are not.
 >
-> **[0:19](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/limiting-access-in-inheritance?u=76281980&t=19)** Also, if there are any final methods, meaning methods that have the word final in the header, these are inherited but cannot be overridden.
+> **[0:19](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/limiting-access-in-inheritance?u=76281980&t=19)** Also, if there are any final methods, meaning methods that have the [[Microsoft Word|word]] final in the header, these are inherited but cannot be overridden.
 >
 > **[0:27](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/limiting-access-in-inheritance?u=76281980&t=27)** Final is a non access modifier that indicates that this is the final implementation for this method, and it cannot be changed by any subclasses.
 >
@@ -608,12 +600,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sealed classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980)
+#### [Sealed classes](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=0)** - [Instructor] Not only do Java classes have control over which of its members can be inherited, but they can also restrict inheritance altogether to certain sub-classes.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=0)** - [Instructor] Not only do [[Java]] classes have control over which of its members can be inherited, but they can also restrict inheritance altogether to certain sub-classes.
 >
 > **[0:10](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=10)** Classes that restrict inheritance to specific classes are known as sealed classes.
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=39)** Here, we have four classes; shape, circle, rectangle, and square.
 >
-> **[0:45](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=45)** To make shape a sealed class, we write the reserved word sealed before the word class.
+> **[0:45](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=45)** To make shape a sealed class, we write the reserved [[Microsoft Word|word]] sealed before the word class.
 >
 > **[0:52](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sealed-classes?u=76281980&t=52)** And then, before the open and curly brace, we must add the reserved word permits, and within a comma-delimited list, specify which classes are allowed to inherit from this sealed class.
 >
@@ -665,8 +656,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Cake! Cake! Cake!
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-cake-cake-cake?u=76281980)
+#### [Code Solution: Cake! Cake! Cake!](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-cake-cake-cake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,14 +694,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Polymorphism with objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980)
+#### [Polymorphism with objects](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=0)** - [Instructor] A core pillar of Object-Oriented Programming is Polymorphism.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=0)** - [Instructor] A core pillar of [[Object-Oriented Programming (OOP)|Object-Oriented Programming]] is Polymorphism.
 >
-> **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=5)** Polymorphism is the ability to take multiple forms, specifically in Object-Oriented Programming, Polymorphism is where a subclass can define their own unique behaviors and yet share some of the same behaviors of their superclass.
+> **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=5)** Polymorphism is the ability to take multiple [[Forms]], specifically in Object-Oriented Programming, Polymorphism is where a subclass can define their own unique behaviors and yet share some of the same behaviors of their superclass.
 >
 > **[0:23](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=23)** An example of Polymorphism is where an object has a superclass type but is an instance of a subclass.
 >
@@ -723,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=54)** In the animal class there's a simple method called makeSound which prints a generic message, dog inherits from animal and overrides its makeSound method to print a sound that's specific to a dog.
 >
-> **[1:09](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=69)** In addition to the inherited makeSound method, there's also a fetch method.
+> **[1:09](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=69)** In addition to the inherited makeSound method, there's also a [[Fetch]] method.
 >
 > **[1:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=74)** Cat also inherits from animal and overrides the makeSound method, it also contains a scratch method.
 >
@@ -759,20 +748,19 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=209)** So let's say sasha.makeSound, and we'll print again and notice when Sasha was a dog, it made the woof sound, when we changed Sasha to a cat, it made the meow sound.
 >
-> **[3:48](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=228)** Polymorphism is a really powerful tool within Java, here are the key points to remember.
+> **[3:48](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=228)** Polymorphism is a really powerful tool within [[Java]], here are the key points to remember.
 >
 > **[3:54](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980&t=234)** On object can have a superclass type in a subclass instance and if a method is overwritten by the subclass, the polymorphic object will execute the overwritten method at runtime.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (4), [[Programming]] (1), [[Forms]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), generic (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Forms]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **Code Identifiers:** makesound (9)
 > **Definitions:** is an  (5), is a  (2), defined as (1)
 > **CLI Commands:** cat (5), make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Object typecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/object-typecasting?u=76281980)
+#### [Object typecasting](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/object-typecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/object-typecasting?u=76281980&t=41)** For example, even though the object dog is an instance of the Dog class, its type is Animal.
 >
-> **[0:49](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/object-typecasting?u=76281980&t=49)** So this object cannot reference members that are specific to the Dog class, such as fetch.
+> **[0:49](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/object-typecasting?u=76281980&t=49)** So this object cannot reference members that are specific to the Dog class, such as [[Fetch]].
 >
 > **[0:56](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/object-typecasting?u=76281980&t=56)** In order for this object to access methods from the subclass, we'd need to explicitly down cast it to type Dog.
 >
@@ -843,12 +831,11 @@ created: 2026-05-02
 > **Code Identifiers:** sashathedog (1)
 > **Speakers:** - [instructor] (1)
 
-#### instanceof operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instanceof-operator?u=76281980)
+#### [instanceof operator](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instanceof-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instanceof-operator?u=76281980&t=0)** - [Instructor] Java provides a handy operator that allows you to check whether or not an object is an instance of a specific class.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instanceof-operator?u=76281980&t=0)** - [Instructor] [[Java]] provides a handy operator that allows you to check whether or not an object is an instance of a specific class.
 >
 > **[0:08](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instanceof-operator?u=76281980&t=8)** This operator is fittingly known as instanceof.
 >
@@ -921,8 +908,7 @@ created: 2026-05-02
 > **CLI Commands:** cat (8)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Employee report
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-employee-report?u=76281980)
+#### [Code Solution: Employee report](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-employee-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,16 +936,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Abstract classes and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980)
+#### [Abstract classes and methods](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980&t=0)** - [Narrator] Abstraction is a core principle of object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980&t=0)** - [Narrator] Abstraction is a core principle of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980&t=5)** Abstraction is defined as something that exists in theory but does not have a concrete existence.
 >
-> **[0:11](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980&t=11)** In Java, we have the reserved word abstract which is a non access modifier that can be used on classes and methods.
+> **[0:11](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980&t=11)** In [[Java]], we have the reserved [[Microsoft Word|word]] abstract which is a non access modifier that can be used on classes and methods.
 >
 > **[0:19](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980&t=19)** It is used when you want to define a template for a class or a method, but do not intend for it to be used as is.
 >
@@ -1034,8 +1019,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Inheriting from abstract classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheriting-from-abstract-classes?u=76281980)
+#### [Inheriting from abstract classes](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheriting-from-abstract-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,8 +1063,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating objects with abstract types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-objects-with-abstract-types?u=76281980)
+#### [Creating objects with abstract types](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-objects-with-abstract-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1091,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-objects-with-abstract-types?u=76281980&t=80)** The key points to remember are abstract classes and methods are templates that are meant to be implemented by their subclasses.
 >
-> **[1:28](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-objects-with-abstract-types?u=76281980&t=88)** The classes and methods are declared abstract by using the abstract reserved word.
+> **[1:28](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-objects-with-abstract-types?u=76281980&t=88)** The classes and methods are declared abstract by using the abstract reserved [[Microsoft Word|word]].
 >
 > **[1:33](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-objects-with-abstract-types?u=76281980&t=93)** If a subclass inherits from an abstract class, it must implement its abstract methods or the class itself must be declared as abstract.
 >
@@ -1128,8 +1111,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Orchestra concert
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-orchestra-concert?u=76281980)
+#### [Code Solution: Orchestra concert](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-orchestra-concert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,8 +1139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980)
+#### [Creating an interface](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,7 +1153,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=29)** Let's create an interface to represent a product.
 >
-> **[0:33](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=33)** To create an interface, you create a Java class, but you can select interface as the kind of class.
+> **[0:33](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=33)** To create an interface, you create a [[Java]] class, but you can select interface as the kind of class.
 >
 > **[0:43](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=43)** Then give your interface a name.
 >
@@ -1180,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=52)** If you forget to choose interface, that's perfectly okay.
 >
-> **[0:55](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=55)** You can simply change the word class to interface.
+> **[0:55](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=55)** You can simply change the [[Microsoft Word|word]] class to interface.
 >
 > **[1:03](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980&t=63)** One trait that every product has is a name.
 >
@@ -1222,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Java]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3), means that (1)
 > **Exercise Files:** template (2)
 > **Analogies:** similar to (1), just like (1)
@@ -1230,8 +1211,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980)
+#### [Implementing interfaces](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=9)** Let's have this Book class implement the Product interface.
 >
-> **[0:12](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=12)** We're not going to use the "extends" reserved word, because only interfaces are allowed to extend other interfaces.
+> **[0:12](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=12)** We're not going to use the "extends" reserved [[Microsoft Word|word]], because only interfaces are allowed to extend other interfaces.
 >
 > **[0:20](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=20)** Classes must implement an interface.
 >
@@ -1261,7 +1241,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=113)** While a class can only extend one class, it can implement multiple interfaces.
 >
-> **[1:59](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=119)** This is how to achieve multiple inheritance in Java.
+> **[1:59](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=119)** This is how to achieve multiple inheritance in [[Java]].
 >
 > **[2:03](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/implementing-interfaces?u=76281980&t=123)** To implement multiple interfaces, the class header must specify a comma delimited list of names of all of the interfaces that it would like to implement.
 >
@@ -1273,15 +1253,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Java]] (1)
 > **Env Vars:** isbn (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard keys clicking) (1)
 
-#### Instantiating objects with interface types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instantiating-objects-with-interface-types?u=76281980)
+#### [Instantiating objects with interface types](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/instantiating-objects-with-interface-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,14 +1284,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** setname (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Default and static methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/default-and-static-methods?u=76281980)
+#### [Default and static methods](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/default-and-static-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/default-and-static-methods?u=76281980&t=85)** This enables you to ensure backward compatibility in implementing classes when changes are made to the interface state implements.
 >
-> **[1:35](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/default-and-static-methods?u=76281980&t=95)** To indicate that the method is a default method, we write the word default at the beginning of the methods header, and we give it a body.
+> **[1:35](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/default-and-static-methods?u=76281980&t=95)** To indicate that the method is a default method, we write the [[Microsoft Word|word]] default at the beginning of the methods header, and we give it a body.
 >
 > **[1:45](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/default-and-static-methods?u=76281980&t=105)** Same for set price.
 >
@@ -1402,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** defined as (2), is a  (1), means that (1)
 > **Code Identifiers:** getprice (2)
 > **Analogies:** for example (1)
@@ -1410,8 +1387,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Shirt product
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-shirt-product?u=76281980)
+#### [Code Solution: Shirt product](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-shirt-product?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1403,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1436,14 +1411,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collections framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980)
+#### [Collections framework](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=0)** - [Instructor] A collection is an object that holds references to other objects.
 >
-> **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=5)** Collections are considered data structures and the objects within a collection are known as elements.
+> **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=5)** Collections are considered [[Data Structures]] and the objects within a collection are known as elements.
 >
 > **[0:12](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=12)** There are various types of collections.
 >
@@ -1451,7 +1425,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=21)** Some collections are ordered while others are not.
 >
-> **[0:24](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=24)** Java provides a collections framework which consists of interfaces, classes, and methods to store and manipulate these groups of objects.
+> **[0:24](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=24)** [[Java]] provides a collections framework which consists of interfaces, classes, and methods to store and manipulate these groups of objects.
 >
 > **[0:35](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=35)** All of the interfaces and classes for the collections framework can be found in the java.util package.
 >
@@ -1497,7 +1471,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=159)** And the value would be the actual transaction object.
 >
-> **[2:43](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=163)** Data structures and algorithms go hand in hand.
+> **[2:43](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=163)** Data structures and [[Algorithms]] go hand in hand.
 >
 > **[2:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980&t=167)** In addition to the collections themselves, Java also provides a collections class which contains common algorithms that are needed to work with the data structures.
 >
@@ -1509,13 +1483,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), data (4), [[Algorithms]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Data Structures]] (3), [[Algorithms]] (2)
 > **Definitions:** is a  (4), is an  (2), known as (1)
 > **Code Identifiers:** binarysearch (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sets?u=76281980)
+#### [Sets](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1500,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sets?u=76281980&t=15)** Some implementations of set are hash set, linked hash set, and tree sets.
 >
-> **[0:21](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sets?u=76281980&t=21)** If you'd like to learn more about these implementations, be sure to review the Java document.
+> **[0:21](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sets?u=76281980&t=21)** If you'd like to learn more about these implementations, be sure to review the [[Java]] document.
 >
 > **[0:27](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/sets?u=76281980&t=27)** For this example, let's use hash set.
 >
@@ -1626,8 +1599,7 @@ created: 2026-05-02
 > **Warnings:** important note (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/lists?u=76281980)
+#### [Lists](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1635,7 +1607,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/lists?u=76281980&t=4)** Some implementations of lists are array lists, link lists, stack, and vector.
 >
-> **[0:11](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/lists?u=76281980&t=11)** To review these implementations in greater detail, check out the Java doc.
+> **[0:11](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/lists?u=76281980&t=11)** To review these implementations in greater detail, check out the [[Java]] doc.
 >
 > **[0:16](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/lists?u=76281980&t=16)** For this demonstration, we'll instantiate fruits as an array list.
 >
@@ -1743,14 +1715,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/queues?u=76281980)
+#### [Queues](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/queues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/queues?u=76281980&t=0)** - [Instructor] A queue is a collection that is designed to hold items that need to be processed.
 >
-> **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/queues?u=76281980&t=5)** The most common implementations of queue are linked lists and priority queue, which you can read more about in the Java docs.
+> **[0:05](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/queues?u=76281980&t=5)** The most common implementations of queue are linked lists and priority queue, which you can read more about in the [[Java]] docs.
 >
 > **[0:12](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/queues?u=76281980&t=12)** Let's use a linked list.
 >
@@ -1814,13 +1785,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980)
+#### [Maps](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,13 +1798,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=4)** Here's a map of various fruits and their calories.
 >
-> **[0:07](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=7)** Popular implementations of the Map interface are HashMap, TreeMap and LinkedHashMap, which you can read more about in the Java docs.
+> **[0:07](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=7)** Popular implementations of the Map interface are HashMap, TreeMap and LinkedHashMap, which you can read more about in the [[Java]] docs.
 >
 > **[0:16](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=16)** In this example, we instantiated our map with HashMap.
 >
 > **[0:21](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=21)** A map is not technically a collection, meaning it does not inherit from the collection interface but it's still considered part of the collection's framework.
 >
-> **[0:30](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=30)** Map does not have access to the add method that we've seen in the other data structures.
+> **[0:30](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=30)** Map does not have access to the add method that we've seen in the other [[Data Structures]].
 >
 > **[0:36](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/maps?u=76281980&t=36)** Map has a put method which is used to add the elements.
 >
@@ -1924,19 +1894,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Data Structures]] (1)
 > **Code Identifiers:** fruitcalories (3), putifabsent (3), keyset (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/iterators?u=76281980)
+#### [Iterators](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/iterators?u=76281980&t=0)** - [Instructor] A common task in Java is to loop through the elements of a collection.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/iterators?u=76281980&t=0)** - [Instructor] A common task in [[Java]] is to loop through the elements of a collection.
 >
 > **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/iterators?u=76281980&t=4)** One way to do this is with iterators.
 >
@@ -1978,15 +1947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** hasnext (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhanced for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/enhanced-for-loops?u=76281980)
+#### [Enhanced for loops](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/enhanced-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1998,7 +1966,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/enhanced-for-loops?u=76281980&t=13)** Let's iterate through this list of fruits and print each one of them.
 >
-> **[0:18](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/enhanced-for-loops?u=76281980&t=18)** Just like with the normal for loop, we start the statement with the word for and a set of parentheses.
+> **[0:18](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/enhanced-for-loops?u=76281980&t=18)** Just like with the normal for loop, we start the statement with the [[Microsoft Word|word]] for and a set of parentheses.
 >
 > **[0:24](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/enhanced-for-loops?u=76281980&t=24)** Inside of the parentheses, we declare the current element we're working with.
 >
@@ -2046,14 +2014,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### forEach() and lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/foreach-and-lambdas?u=76281980)
+#### [forEach() and lambdas](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/foreach-and-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,21 +2116,20 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/foreach-and-lambdas?u=76281980&t=281)** Great, we see that it printed the key: and then the value.
 >
-> **[4:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/foreach-and-lambdas?u=76281980&t=287)** ForEach is the most modern approach to iterating over Java collections.
+> **[4:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/foreach-and-lambdas?u=76281980&t=287)** ForEach is the most modern approach to iterating over [[Java]] collections.
 >
 > **[4:52](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/foreach-and-lambdas?u=76281980&t=292)** So be sure to practice this with your own collections.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), express (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** foreach (8), fruitcalories (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Gradebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-gradebook?u=76281980)
+#### [Code Solution: Gradebook](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-gradebook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2186,14 +2152,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980)
+#### [Functional interfaces](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980&t=0)** - [Instructor] Functional programming is another style of developing software that uses mathematical functions on an input set to produce an output set.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980&t=0)** - [Instructor] [[Functional Programming]] is another style of developing software that uses mathematical functions on an input set to produce an output set.
 >
-> **[0:09](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980&t=9)** While Java is an object-oriented programming language, it does provide the java.util.function package, which hosts several functional interfaces.
+> **[0:09](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980&t=9)** While [[Java]] is an [[Object-Oriented Programming (OOP)|object-oriented programming]] language, it does provide the java.util.function package, which hosts several functional interfaces.
 >
 > **[0:20](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980&t=20)** A functional interface is an interface with just one abstract method.
 >
@@ -2265,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (9), [[Java]] (8), [[Functional Programming]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Functional Programming]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** stands for (3), is an  (2), is a  (1)
 > **Code Identifiers:** foreach (3), andthen (1)
 > **Analogies:** such as (1), for example (1)
@@ -2273,12 +2238,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980)
+#### [Streams](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980&t=0)** - [Instructor] In addition to the java.util.function package, Java also provides the java.util.stream package for your functional programming needs.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980&t=0)** - [Instructor] In addition to the [[Java]].util.function package, Java also provides the java.util.stream package for your [[Functional Programming]] needs.
 >
 > **[0:10](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980&t=10)** A stream represents a sequence of elements from a collection, array or other input source.
 >
@@ -2298,17 +2262,16 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980&t=66)** Notice the output of this run is no longer sequential and is likely to vary every time this code is executed.
 >
-> **[1:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980&t=74)** The stream API is a powerful tool for data processing.
+> **[1:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/streams?u=76281980&t=74)** The stream API is a powerful tool for [[Data Processing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), data (2), api (2), [[Functional Programming]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Functional Programming]] (1), [[Data Processing]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common stream operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/common-stream-operations?u=76281980)
+#### [Common stream operations](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/common-stream-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,7 +2291,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/common-stream-operations?u=76281980&t=40)** Given this list of vegetables, let's look at examples of a few of the most common stream operations.
 >
-> **[0:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/common-stream-operations?u=76281980&t=47)** Let's see if there are any veggies that are more than one word.
+> **[0:47](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/common-stream-operations?u=76281980&t=47)** Let's see if there are any veggies that are more than one [[Microsoft Word|word]].
 >
 > **[0:51](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/common-stream-operations?u=76281980&t=51)** To do so, we can use the anyMatch operation.
 >
@@ -2424,7 +2387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), api (2), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** anymatch (5), allmatch (1), foreach (1), touppercase (1)
 > **Tools:** terminal (7)
 > **Definitions:** is a  (3), is an  (1), known as (1)
@@ -2433,8 +2396,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Color filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-color-filter?u=76281980)
+#### [Code Solution: Color filter](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-color-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,8 +2423,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try and catch blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980)
+#### [Try and catch blocks](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2482,7 +2443,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=33)** Let's write a program that creates a file on the file system and handles any exceptions that may occur.
 >
-> **[0:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=40)** We're going to use the file class from Java to create a file object, and we'll give it a path that does not exist.
+> **[0:40](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=40)** We're going to use the file class from [[Java]] to create a file object, and we'll give it a path that does not exist.
 >
 > **[0:48](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=48)** We'll say resources/nonexistent.txt.
 >
@@ -2526,7 +2487,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=169)** While we're simply printing a message here, you could do anything, such as creating the directory that's needed and then re-executing the code.
 >
-> **[2:58](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=178)** As you can imagine, exception handling gives us greater control over the user experience of our applications.
+> **[2:58](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980&t=178)** As you can imagine, exception handling gives us greater control over the [[User Experience (UX)|user experience]] of our applications.
 
 > [!info]- Semantic Content
 >
@@ -2537,8 +2498,7 @@ created: 2026-05-02
 > **File Paths:** resources/nonexistent.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack trace and exception message
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/stack-trace-and-exception-message?u=76281980)
+#### [Stack trace and exception message](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/stack-trace-and-exception-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2578,7 +2538,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/stack-trace-and-exception-message?u=76281980&t=96)** This points to line 11, which is the File.createNewFile method.
 >
-> **[1:43](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/stack-trace-and-exception-message?u=76281980&t=103)** The next entry is in Java's file class.
+> **[1:43](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/stack-trace-and-exception-message?u=76281980&t=103)** The next entry is in [[Java]]'s file class.
 >
 > **[1:46](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/stack-trace-and-exception-message?u=76281980&t=106)** Clicking this entry takes us inside of the create new file method to see exactly which line of that method leads us to trouble.
 >
@@ -2594,13 +2554,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Code Identifiers:** getmessage (3), printstacktrace (1), createnewfile (1), createfileexclusively (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checked vs. unchecked exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/checked-vs-unchecked-exceptions?u=76281980)
+#### [Checked vs. unchecked exceptions](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/checked-vs-unchecked-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2644,8 +2603,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling multiple exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/handling-multiple-exceptions?u=76281980)
+#### [Handling multiple exceptions](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/handling-multiple-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2657,7 +2615,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/handling-multiple-exceptions?u=76281980&t=18)** When handling exceptions, you can use a super class, as a way to catch broader exceptions.
 >
-> **[0:25](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/handling-multiple-exceptions?u=76281980&t=25)** If we look at the Java doc for the rate index out of bound exception, we see that it inherits from a chain of other exceptions, with the top level exception class being exception.
+> **[0:25](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/handling-multiple-exceptions?u=76281980&t=25)** If we look at the [[Java]] doc for the rate index out of bound exception, we see that it inherits from a chain of other exceptions, with the top level exception class being exception.
 >
 > **[0:36](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/handling-multiple-exceptions?u=76281980&t=36)** All exceptions inherit from the exception class.
 >
@@ -2731,15 +2689,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** filereader (2), createnewfile (1), hasnext (1), nextdouble (1)
 > **File Paths:** numbers.txt (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finally block
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/finally-block?u=76281980)
+#### [Finally block](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/finally-block?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2757,7 +2714,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/finally-block?u=76281980&t=48)** A finally clause can optionally be added below any catch clauses.
 >
-> **[0:54](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/finally-block?u=76281980&t=54)** After all of the catch clauses, we type the word finally.
+> **[0:54](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/finally-block?u=76281980&t=54)** After all of the catch clauses, we type the [[Microsoft Word|word]] finally.
 >
 > **[0:58](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/finally-block?u=76281980&t=58)** This clause does not have parentheses, but it does have a set of curly braces.
 >
@@ -2775,8 +2732,7 @@ created: 2026-05-02
 > **Code Identifiers:** filereader (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try with resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980)
+#### [Try with resources](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2788,9 +2744,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980&t=23)** Try-with-resources allows you to declare resources that will be used within the try block.
 >
-> **[0:29](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980&t=29)** And Java will automatically close them for you after the execution of the block.
+> **[0:29](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980&t=29)** And [[Java]] will automatically close them for you after the execution of the block.
 >
-> **[0:35](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980&t=35)** To try-with-resources we use a set of parentheses after the word try, and inside we declare and initialize the resource.
+> **[0:35](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980&t=35)** To try-with-resources we use a set of parentheses after the [[Microsoft Word|word]] try, and inside we declare and initialize the resource.
 >
 > **[0:43](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-with-resources?u=76281980&t=43)** So let's say scanner we'll call this file reader and we'll set it equal to new scanner and pass in our input file.
 >
@@ -2822,13 +2778,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - when (1)
 
-#### Throwing exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980)
+#### [Throwing exceptions](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2840,13 +2795,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=14)** However, perhaps your application doesn't allow for overtime which is anything more than 40 hours.
 >
-> **[0:20](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=20)** There's no Java exception that will be automatically thrown for such a thing as this is only an error from the programmer's perspective.
+> **[0:20](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=20)** There's no [[Java]] exception that will be automatically thrown for such a thing as this is only an error from the programmer's perspective.
 >
 > **[0:29](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=29)** So you can throw the exception yourself.
 >
 > **[0:32](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=32)** Let's add a condition that checks if ours is more than 40.
 >
-> **[0:37](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=37)** So we'll say, if ours is greater than 40, then to throw an exception, we write the word throw followed by an instantiation of an existing exception.
+> **[0:37](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=37)** So we'll say, if ours is greater than 40, then to throw an exception, we write the [[Microsoft Word|word]] throw followed by an instantiation of an existing exception.
 >
 > **[0:53](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/throwing-exceptions?u=76281980&t=53)** You can throw one of the many exceptions provided by the Java language or you can even create a new exception class for your needs.
 >
@@ -2914,14 +2869,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2), application (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rethrowing exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/rethrowing-exceptions?u=76281980)
+#### [Rethrowing exceptions](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/rethrowing-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2937,7 +2891,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/rethrowing-exceptions?u=76281980&t=37)** This means our method will not handle the thrown exception and instead will pass the burden on to any method that calls this one.
 >
-> **[0:45](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/rethrowing-exceptions?u=76281980&t=45)** To rethrow the exception, within the method signature we add the word throws followed by the exception that we're not catching.
+> **[0:45](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/rethrowing-exceptions?u=76281980&t=45)** To rethrow the exception, within the method signature we add the [[Microsoft Word|word]] throws followed by the exception that we're not catching.
 >
 > **[0:56](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/rethrowing-exceptions?u=76281980&t=56)** In our case, that's the IOException.
 >
@@ -2973,8 +2927,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Unauthorized user
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-unauthorized-user?u=76281980)
+#### [Code Solution: Unauthorized user](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/code-solution-unauthorized-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3006,8 +2959,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3015,13 +2967,13 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=1)** You've made it to the end of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=4)** You've learned quite a lot about Java programming.
+> **[0:04](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=4)** You've learned quite a lot about [[Java]] programming.
 >
 > **[0:06](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=6)** But building projects really helps to cement your newfound knowledge.
 >
 > **[0:11](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=11)** I encourage you to create a new program of your own and add it to your portfolio.
 >
-> **[0:16](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=16)** If you need some ideas, consider a banking system that allows a user to create a new checking or savings account, and deposit, withdraw, and check the balance of their account.
+> **[0:16](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=16)** If you need some ideas, consider a [[Banking]] system that allows a user to create a new checking or savings account, and deposit, withdraw, and check the balance of their account.
 >
 > **[0:29](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=29)** Or a car reservation system that keeps an inventory of cars, shows a potential customer which cars are available for rental, and allows them to place a reservation.
 >
@@ -3029,7 +2981,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=51)** As you work on your project, consider revisiting the course videos as you implement each concept.
 >
-> **[0:58](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=58)** If you're ready for another course, there are some great options here on LinkedIn Learning.
+> **[0:58](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=58)** If you're ready for another course, there are some great options here on [[LinkedIn]] Learning.
 >
 > **[1:03](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980&t=63)** Just search Java in the top bar.
 >
@@ -3039,7 +2991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), game (2), [[LinkedIn]] (2), [[Programming]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (2), [[Banking]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [angie] (1)
 

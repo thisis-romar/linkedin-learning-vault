@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusive workplace basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/inclusive-workplace-basics?u=76281980)
+#### [Inclusive workplace basics](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/inclusive-workplace-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - as (1)
 
 
@@ -112,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pillars of success
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980)
+#### [Pillars of success](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980&t=181)** So just like a wheelchair needs a ramp, it's helpful to have guidelines, standards and practices that help you communicate with a wide range of people.
 >
-> **[3:11](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980&t=191)** And the good news is there are great resources out there as you work to improve accessibility at your office.
+> **[3:11](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980&t=191)** And the good news is there are great resources out there as you work to improve accessibility at your [[Microsoft Office|office]].
 >
 > **[3:17](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980&t=197)** You can visit [section508.gov](https://section508.gov) or go to the World Wide Web Consortium website where you'll find a wealth of information.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** it's like (1), just like (1)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -199,8 +196,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - do (1)
 
-#### Fundamental content needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/fundamental-content-needs?u=76281980)
+#### [Fundamental content needs](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/fundamental-content-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,14 +256,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Analogies:** similar to (1), such as (1)
 > **Env Vars:** pdf (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - many (1)
 
-#### Vision considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/vision-considerations?u=76281980)
+#### [Vision considerations](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/vision-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +287,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/vision-considerations?u=76281980&t=65)** You'll want to become familiar with the accessibility tools available in your operating system.
 >
-> **[1:10](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/vision-considerations?u=76281980&t=70)** For example, those who use Microsoft Windows can go to the settings gear and look for the ease of use tile to change the size of different elements on the screen.
+> **[1:10](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/vision-considerations?u=76281980&t=70)** For example, those who use [[Microsoft]] [[Windows]] can go to the settings gear and look for the ease of use tile to change the size of different elements on the screen.
 >
 > **[1:20](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/vision-considerations?u=76281980&t=80)** There are settings specifically for vision, where you can go to display to change the size of the text on your screen.
 >
@@ -303,15 +297,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Microsoft]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - anyone (1)
 
-#### Hearing considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/hearing-considerations?u=76281980)
+#### [Hearing considerations](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/hearing-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/hearing-considerations?u=76281980&t=79)** These all refer to the text usually displayed at the bottom of the screen that translates or transcribes the dialogue from a film, television show and now meetings.
 >
-> **[1:28](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/hearing-considerations?u=76281980&t=88)** A lot of meeting software, like Zoom, Teams or Google Meet, allows you to enable live captions to assist others in following along with the dialogue.
+> **[1:28](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/hearing-considerations?u=76281980&t=88)** A lot of meeting software, like [[Zoom]], Teams or [[Google]] Meet, allows you to enable live captions to assist others in following along with the dialogue.
 >
 > **[1:37](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/hearing-considerations?u=76281980&t=97)** I encourage you to specifically call out this feature at the top of the meeting to ensure that everyone can stay on the same page.
 >
@@ -373,13 +366,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Zoom]] (1), teams (1), [[Google]] (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Google]] (1)
 > **Env Vars:** asl (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Learning and neurodiversity
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/learning-and-neurodiversity?u=76281980)
+#### [Learning and neurodiversity](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/learning-and-neurodiversity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/learning-and-neurodiversity?u=76281980&t=65)** Screen readers are one type of digital tool that can benefit people with learning disabilities or on the autism spectrum.
 >
-> **[1:13](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/learning-and-neurodiversity?u=76281980&t=73)** Both Windows and Mac computers have built-in tools that can read documents, emails, webpages and reports aloud.
+> **[1:13](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/learning-and-neurodiversity?u=76281980&t=73)** Both [[Windows]] and Mac computers have built-in tools that can read documents, emails, webpages and reports aloud.
 >
 > **[1:22](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/learning-and-neurodiversity?u=76281980&t=82)** To access the feature on a PC go to the Ease of Use settings and turn on the narrator.
 >
@@ -433,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), select the (1)
 > **Env Vars:** adhd (1)
@@ -444,8 +436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Formatting matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980)
+#### [Formatting matters](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +454,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980&t=41)** More importantly, tagging text with preset headings or other style tags enables screen readers to interpret the different elements of your document, and not just read everything as plain text.
 >
-> **[0:54](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980&t=54)** Let me show you how to transform a sample report I made with the Cupcake Ipsum generator, demonstrating how to use Microsoft Word style tags.
+> **[0:54](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980&t=54)** Let me show you how to transform a sample report I made with the Cupcake Ipsum generator, demonstrating how to use [[Microsoft Word]] style tags.
 >
 > **[1:03](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980&t=63)** First, I'll select the words "Cupcake Ipsum Report."
 >
@@ -511,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1)
 > **UI Navigation:** select the (5), right-click (1)
 > **Analogies:** such as (3), similar to (1)
 > **CLI Commands:** make (3)
@@ -519,8 +510,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)
 
-#### Images and links
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/images-and-links?u=76281980)
+#### [Images and links](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/images-and-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +552,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/images-and-links?u=76281980&t=102)** Next, add alternative text called alt text to the image.
 >
-> **[1:48](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/images-and-links?u=76281980&t=108)** In the Microsoft Office or Google applications, simply right click the image and select the Edit Alt text or Alt Text command from the menu.
+> **[1:48](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/images-and-links?u=76281980&t=108)** In the [[Microsoft Office]] or [[Google]] applications, simply right click the image and select the Edit Alt text or Alt Text command from the menu.
 >
 > **[1:57](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/images-and-links?u=76281980&t=117)** When you select the command, a dialogue box will pop up allowing you to add a description.
 >
@@ -614,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office]] (2), next (1), [[Google]] (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Office]] (2), [[Google]] (1)
 > **UI Navigation:** select the (3), click on (2)
 > **Analogies:** picture (2), imagine (1), such as (1), for instance (1)
 > **CLI Commands:** find (2), make (2)
@@ -622,8 +612,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - let (1)
 
-#### Texture vs. color
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/texture-vs-color?u=76281980)
+#### [Texture vs. color](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/texture-vs-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/texture-vs-color?u=76281980&t=39)** For example, you might use a pie chart to show the percentage of the total budget allocated to different categories.
 >
-> **[0:46](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/texture-vs-color?u=76281980&t=46)** Microsoft Excel allows you to auto-generate charts that create visual representations of a dataset.
+> **[0:46](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/texture-vs-color?u=76281980&t=46)** [[Microsoft Excel]] allows you to auto-generate charts that create visual representations of a dataset.
 >
 > **[0:52](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/texture-vs-color?u=76281980&t=52)** But to assist anyone who is colorblind or has low vision to draw the same conclusions as everyone else from your presentation requires a few extra steps.
 >
@@ -671,13 +660,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - are (1)
 
-#### Spreadsheet tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980)
+#### [Spreadsheet tips](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=24)** You punched in these numbers and the machine spit out a little strip of paper with calculations on it.
 >
-> **[0:29](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=29)** Fast forward to the 21st century and an abacus is used less for calculation and more for decoration and an adding machine is obsolete because now we have spreadsheets like Microsoft Excel and Google Sheets.
+> **[0:29](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=29)** Fast forward to the 21st century and an abacus is used less for calculation and more for decoration and an adding machine is obsolete because now we have spreadsheets like [[Microsoft Excel]] and [[Google]] Sheets.
 >
 > **[0:44](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=44)** In this lesson, I'll walk you through simple accessibility tips you can implement right away that will make a big difference to your entire audience.
 >
@@ -721,7 +709,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=146)** To share your data, turn a table into a preset chart.
 >
-> **[2:30](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=150)** Excel allows you to display information in different formats such as a bar, a line, a pie chart with just a few clicks.
+> **[2:30](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=150)** [[Microsoft Excel|Excel]] allows you to display information in different formats such as a bar, a line, a pie chart with just a few clicks.
 >
 > **[2:38](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/spreadsheet-tips?u=76281980&t=158)** Here's how.
 >
@@ -747,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2), such as (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
@@ -760,8 +748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agenda and materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980)
+#### [Agenda and materials](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,9 +772,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=66)** You could add an agenda right in the body of the invite or attach the agenda as a file.
 >
-> **[1:12](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=72)** For those working in cloud applications like Google and Microsoft Office.
+> **[1:12](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=72)** For those working in cloud applications like [[Google]] and [[Microsoft Office]].
 >
-> **[1:16](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=76)** Rather than attach a file, you can add a link to a shared Google Doc or a file in SharePoint.
+> **[1:16](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=76)** Rather than attach a file, you can add a link to a shared Google Doc or a file in [[SharePoint]].
 >
 > **[1:22](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=82)** You can also create agenda or meeting notes in tools like Wikis or electronic notebooks if your organization provides them.
 >
@@ -797,13 +784,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=106)** This allows everyone to participate at a higher level and increases their engagement.
 >
-> **[1:52](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=112)** I'm a big fan of using electronic notebooks like OneNote and Wikis.
+> **[1:52](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=112)** I'm a big fan of using electronic notebooks like [[OneNote]] and Wikis.
 >
 > **[1:57](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=117)** These allow you the flexibility to group and move notes around quickly.
 >
 > **[2:02](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=122)** You can also control who has access to the notes and restrict access when necessary.
 >
-> **[2:08](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=128)** Imagine a team meeting where representatives from every regional or global office in your organization can access the same file and work on it in real time during a meeting or call.
+> **[2:08](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=128)** Imagine a team meeting where representatives from every regional or global [[Microsoft Office|office]] in your organization can access the same file and work on it in real time during a meeting or call.
 >
 > **[2:19](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980&t=139)** No more wasting time trying to figure out who has the most updated version.
 >
@@ -819,12 +806,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Google]] (2), [[Microsoft Office]] (1), [[SharePoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Office]] (1), [[SharePoint]] (1), [[OneNote]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
-#### Creating descriptive introductions
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/creating-descriptive-introductions?u=76281980)
+#### [Creating descriptive introductions](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/creating-descriptive-introductions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,20 +854,19 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/creating-descriptive-introductions?u=76281980&t=121)** When you introduce yourself this way for the first time, you might feel awkward.
 >
-> **[2:06](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/creating-descriptive-introductions?u=76281980&t=126)** One of my favorite authors, Brene Brown, signs off her newsletters with the phrase, "Stay awkward, brave and kind."
+> **[2:06](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/creating-descriptive-introductions?u=76281980&t=126)** One of my favorite authors, Brene Brown, signs off her [[Newsletters]] with the phrase, "Stay awkward, brave and kind."
 >
 > **[2:13](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/creating-descriptive-introductions?u=76281980&t=133)** Feeling a little awkward to help another person get to know you is both brave and kind, and it definitely gets easier over time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1)
 > **Analogies:** picture (1), imagine (1), such as (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
-#### Using webcams
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/using-webcams?u=76281980)
+#### [Using webcams](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/using-webcams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,14 +914,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - you (1)
 
-#### Live captioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980)
+#### [Live captioning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,11 +931,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=26)** In this lesson, I'll walk you through when and how to use live captioning and related tools to engage a wider audience in your meetings and presentations.
 >
-> **[0:36](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=36)** You can enable captions to display for everyone in Microsoft PowerPoint and Google Slides.
+> **[0:36](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=36)** You can enable captions to display for everyone in [[Microsoft PowerPoint]] and [[Google]] Slides.
 >
 > **[0:42](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=42)** Everyone will be able to view these captions.
 >
-> **[0:45](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=45)** To enable this in PowerPoint, go to the slideshow tab.
+> **[0:45](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=45)** To enable this in [[Microsoft PowerPoint|PowerPoint]], go to the slideshow tab.
 >
 > **[0:50](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=50)** In the captions and subtitles group, check the box to always use subtitles.
 >
@@ -986,7 +969,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=145)** This command can be found in the toolbar of your meeting platform.
 >
-> **[2:28](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=148)** In Microsoft Teams, select the ellipses, or three dots, to locate the transcription command.
+> **[2:28](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=148)** In [[Microsoft Teams]], select the ellipses, or three dots, to locate the transcription command.
 >
 > **[2:34](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/live-captioning?u=76281980&t=154)** To enable transcriptions in Google Meet requires an extension.
 >
@@ -1008,13 +991,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft PowerPoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft PowerPoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (4), dropdown (2), select the (2), toggle (1), in the toolbar (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### Reading order
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980)
+#### [Reading order](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1008,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=17)** A third touched a knee and described the elephant as a tree and so on.
 >
-> **[0:22](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=22)** It's amazing that this poem, written in 1873 by John Godfrey Saxe, still captures our imaginations today.
+> **[0:22](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=22)** It's amazing that this poem, written in 1873 by [[John the Ripper|John]] Godfrey Saxe, still captures our imaginations today.
 >
 > **[0:29](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=29)** Clearly, each person had a different experience of the elephant based on where they were standing.
 >
@@ -1036,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=57)** In this lesson, you'll learn to arrange content logically in emails, files, spreadsheets, and presentations so that everyone gets the same message.
 >
-> **[1:06](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=66)** First, remember to use preset commands in emails and files created in Word or Google Docs to enable screen readers to interpret content correctly.
+> **[1:06](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=66)** First, remember to use preset commands in emails and files created in [[Microsoft Word|Word]] or [[Google]] Docs to enable screen readers to interpret content correctly.
 >
 > **[1:17](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=77)** Let's say I type a bunch of paragraphs and I bold some of the texts to create my own headings.
 >
@@ -1068,7 +1050,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=178)** Reading order is especially critical in presentations.
 >
-> **[3:01](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=181)** The Microsoft PowerPoint Accessibility Checker tool reviews your slides and shows you the order a screen reader will read the information.
+> **[3:01](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=181)** The [[Microsoft PowerPoint]] Accessibility Checker tool reviews your slides and shows you the order a screen reader will read the information.
 >
 > **[3:10](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/reading-order?u=76281980&t=190)** To turn on the Accessibility Checker, on the Review tab, select the Check Accessibility tile, then select Check Accessibility from the dropdown menu.
 >
@@ -1094,7 +1076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), [[Google]] (1), next (1), [[Microsoft PowerPoint]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Microsoft PowerPoint]] (1)
 > **UI Navigation:** select the (2), dropdown (2), click on (1), drag and drop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1), is a  (1)
@@ -1103,8 +1085,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - an (1)
 
-#### Chat and reactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/chat-and-reactions?u=76281980)
+#### [Chat and reactions](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/chat-and-reactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1133,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), web (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (2)
 > **Speakers:** - have (1)
@@ -1162,8 +1142,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review and assess
-> [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980)
+#### [Review and assess](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,11 +1178,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=81)** Those who lead accessibility efforts at their organization or perhaps want to, should check out the IAAP or International Association of Accessibility Professionals at [accessibilityassociation.org](https://accessibilityassociation.org) for certifications, conferences, and much more.
 >
-> **[1:37](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=97)** I also find Microsoft's accessibility terms style guide to be a helpful reference to standardize how you refer to your colleagues and customers with disabilities.
+> **[1:37](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=97)** I also find [[Microsoft]]'s accessibility terms style guide to be a helpful reference to standardize how you refer to your colleagues and customers with disabilities.
 >
 > **[1:47](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=107)** I'd love to connect with you and answer any questions on digital inclusion, collaboration tools or technology adoption in general.
 >
-> **[1:54](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=114)** You're welcome to connect with me on LinkedIn or visit my website at [jessicacwilliams.com](https://jessicacwilliams.com).
+> **[1:54](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=114)** You're welcome to connect with me on [[LinkedIn]] or visit my website at [jessicacwilliams.com](https://jessicacwilliams.com).
 >
 > **[2:01](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980&t=121)** The first time you convert a presentation or report or use live captions or transcripts, you might have great success or you might fail.
 >

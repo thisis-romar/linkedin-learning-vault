@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install the power of freedom with Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980)
+#### [Install the power of freedom with Linux](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980&t=0)** - [Grant] With the advent of cloud computing and mobile devices, companies like Google, Amazon, Facebook and Twitter are turning to Linux to provide their services.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980&t=0)** - [Grant] With the advent of [[Cloud Computing]] and mobile devices, companies like [[Google]], Amazon, Facebook and Twitter are turning to [[Linux]] to provide their services.
 >
 > **[0:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980&t=8)** Welcome to Linux Overview and Installation.
 >
@@ -115,16 +114,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), cloud (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Cloud Computing]] (1), [[Google]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [grant] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, you'll learn how to use Enterprise Linux version 8.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, you'll learn how to use Enterprise [[Linux]] version 8.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=4)** If you have access to Red Hat Enterprise Linux version 8, that would be fine, but it's not necessary to complete this course.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=32)** In this course, we'll install Enterprise Linux in a virtual machine running inside the VirtualBox hypervisor, running on a host operating system.
 >
-> **[0:40](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=40)** VirtualBox is available for Mac OS, Windows, and Linux host operating systems, so use the host OS which you prefer.
+> **[0:40](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=40)** VirtualBox is available for Mac OS, [[Windows]], and Linux host operating systems, so use the host OS which you prefer.
 >
 > **[0:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=47)** Using VirtualBox, you can install one or more guest VMs depending on your available system resources.
 >
@@ -160,13 +158,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=101)** If you're using windows as your host OS, you may need 8 to 16 gigabytes of free system memory.
 >
-> **[1:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=107)** If you have more memory, then it will allow you to run more complex configurations with multiple virtual machines operating at the same time.
+> **[1:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=107)** If you have more memory, then it will allow you to run more complex configurations with multiple [[Virtual Machines]] operating at the same time.
 >
 > **[1:53](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-you-should-know?u=76281980&t=113)** This is useful, for example, when you want to learn networking or server client configuration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (14), [[Virtualization]] (3), [[Windows]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Linux]] (14), [[Windows]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** amd (3), cpu (1), bios (1), iso (1)
 > **Prerequisites:** install (2), you'll need (2)
 > **Versions:** version 8 (3)
@@ -178,32 +176,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Linux?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980)
+#### [What is Linux?](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=0)** - [Instructor] What is Linux?
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=0)** - [Instructor] What is [[Linux]]?
 >
 > **[0:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=3)** What if I told you that a college student going to school in Finland created an operating system that is now the most popular in the world, is used on 1.3 billion devices, and he gave it away to the world for free?
 >
 > **[0:16](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=16)** You may not be familiar with Linux, but it's very likely that you already use it in some form, or another.
 >
-> **[0:22](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=22)** Android, the world's most popular operating system is based on Linux, and Apple's iOS is based on BSD Unix, a close cousin.
+> **[0:22](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=22)** [[Android]], the world's most popular operating system is based on Linux, and Apple's iOS is based on BSD Unix, a close cousin.
 >
 > **[0:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=31)** Samsung's mobile operating system, Tizen, used in their smartwatches, smart TVs, and some smart phones is Linux.
 >
 > **[0:39](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=39)** Amazon's Fire OS, used on their Fire Tablets is Linux.
 >
-> **[0:44](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=44)** Jolla's Sailfish OS mobile operating system is Linux, as is Google's Chrome OS used on Chromebooks built by many different manufacturers.
+> **[0:44](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=44)** Jolla's Sailfish OS mobile operating system is Linux, as is [[Google]]'s Chrome OS used on Chromebooks built by many different manufacturers.
 >
 > **[0:55](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=55)** The majority of all websites in the world are run on Linux and open source, including all of the top 10 most popular websites.
 >
-> **[1:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=63)** The most popular scripting languages, including PHP, Python and Ruby are open source, and also come with Linux.
+> **[1:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=63)** The most popular scripting languages, including [[PHP]], [[Python (Programming Language)|Python]] and Ruby are open source, and also come with Linux.
 >
 > **[1:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=70)** Cloud-based services such as Google, Amazon, Twitter and Facebook rely on data centers full of Linux servers to provide their services.
 >
-> **[1:19](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=79)** Many companies use Linux as the basis for their products, including Roku, Amazon, and TiVo media players, Linksys, Buffalo, and NETGEAR routers, Amazon, Barnes & Noble and Kobo eReaders, Google's Chromebooks and most in-car interactive displays are Linux.
+> **[1:19](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=79)** Many companies use Linux as the basis for their [[Microsoft Products|products]], including Roku, Amazon, and TiVo media players, Linksys, Buffalo, and NETGEAR routers, Amazon, Barnes & Noble and Kobo eReaders, Google's Chromebooks and most in-car interactive displays are Linux.
 >
 > **[1:36](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=96)** Most people use Linux-based devices directly or interact with Linux every day without even knowing it.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=108)** Is it a kernel?
 >
-> **[1:49](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=109)** Is it a software development platform?
+> **[1:49](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=109)** Is it a [[Software Development]] platform?
 >
 > **[1:52](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980&t=112)** Is it a philosophy?
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (14), [[Google]] (3), [[Android]] (1), [[Scripting]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Linux]] (14), [[Google]] (3), [[Android]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** php (1), python (1), ruby (1), find (1)
 > **Env Vars:** bsd (1), php (1), netgear (1)
 > **Code Identifiers:** ios (1), ereaders (1)
@@ -229,12 +226,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The origins of Linux and your future
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980)
+#### [The origins of Linux and your future](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=0)** - [Instructor] Where did Linux come from?
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=0)** - [Instructor] Where did [[Linux]] come from?
 >
 > **[0:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=3)** In the late 1960s, AT&T created a commercial server operating system called Unix.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=129)** The Linux Kernel combined with software from other projects, including the GNU Project, is known as a distribution.
 >
-> **[2:16](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=136)** One of the first commercial distributions was Red Hat Linux, which was released in 1994.
+> **[2:16](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=136)** One of the first commercial distributions was [[Red Hat Linux]], which was released in 1994.
 >
 > **[2:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=141)** Red Hat went on to become a billion-dollar corporation.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=153)** This is fantastic for learners like you, because it allows you to download as many different operating systems as you want without costing you money.
 >
-> **[2:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=161)** With a plethora of included software, Linux is ideal for learning and building servers and specialized products, both software- and hardware-based.
+> **[2:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=161)** With a plethora of included software, Linux is ideal for learning and building servers and specialized [[Microsoft Products|products]], both software- and [[Hardware]]-based.
 >
 > **[2:49](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-origins-of-linux-and-your-future?u=76281980&t=169)** With Linux, you could design a custom solution for a difficult problem without starting from scratch.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), [[Hardware]] (2), application (1), [[Red Hat Linux]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Hardware]] (2), [[Red Hat Linux]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gnu (11)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **URLs:** [distrowatch.com](https://distrowatch.com) (1)
@@ -316,8 +312,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open-source software
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/open-source-software?u=76281980)
+#### [Open-source software](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/open-source-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/open-source-software?u=76281980&t=126)** Do not make the mistake of confusing freedom with price.
 >
-> **[2:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/open-source-software?u=76281980&t=130)** Because Linux is open source, it has a rich community of contributors who are free to add and improve it, resulting in many different software patches and Linux distributions.
+> **[2:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/open-source-software?u=76281980&t=130)** Because [[Linux]] is open source, it has a rich community of contributors who are free to add and improve it, resulting in many different software patches and Linux distributions.
 >
 > **[2:19](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/open-source-software?u=76281980&t=139)** Many open source licenses pattern themselves on the GNU General Public License, or GPL.
 >
@@ -432,12 +427,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Choosing a Linux distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980)
+#### [Choosing a Linux distribution](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=0)** - [Presenter] When the Linux kernel is combined with supporting drivers, tools and applications and packaged in a distributable format it's called a distribution.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=0)** - [Presenter] When the [[Linux]] kernel is combined with supporting drivers, tools and applications and packaged in a distributable format it's called a distribution.
 >
 > **[0:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=9)** There are many different distributions available.
 >
@@ -465,11 +459,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=89)** As distribution popularity is difficult to ascertain, I'm going to focus on the four branches of Linux which most other distributions are created from.
 >
-> **[1:37](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=97)** First in chronological order is Slack where which came into existence in July of 1993.
+> **[1:37](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=97)** First in chronological order is [[Slack]] where which came into existence in July of 1993.
 >
 > **[1:44](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=104)** It has historically been aimed at advanced users.
 >
-> **[1:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=107)** Slackware uses the pkgtools package management system.
+> **[1:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=107)** Slackware uses the pkgtools [[Package Management]] system.
 >
 > **[1:51](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=111)** Distributions in the Slackware of branch includes Slackware self, VectorLinux and SUSE.
 >
@@ -493,11 +487,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=170)** It's easy to create spinoffs of Debian so it's a very popular base for new distributions.
 >
-> **[2:55](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=175)** Distributions based on Debian include Ubuntu, Linux Mint and Kali, a security focus distribution.
+> **[2:55](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=175)** Distributions based on Debian include [[Ubuntu]], Linux Mint and Kali, a security focus distribution.
 >
 > **[3:02](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=182)** In fact, over half of the top 10 most popular distributions on [distrowatch.com](https://distrowatch.com) are based on Debian and Linux.
 >
-> **[3:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=189)** Red Hat Linux was one of the earliest commercial distributions and was released in November of 1994.
+> **[3:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=189)** [[Red Hat Linux]] was one of the earliest commercial distributions and was released in November of 1994.
 >
 > **[3:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=195)** In 1999, Red Hat went public achieving the eighth biggest first day gain in the history of Wall Street.
 >
@@ -529,11 +523,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=272)** It doesn't hurt to be familiar with both Debian and Red Hat based distributions if employment is your goal.
 >
-> **[4:38](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=278)** Keep in mind that there's nothing wrong with switching versions of Linux on a whim as long as your personal data is backed up in a web drive like Dropbox or Google Drive.
+> **[4:38](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/choosing-a-linux-distribution?u=76281980&t=278)** Keep in mind that there's nothing wrong with switching versions of Linux on a whim as long as your personal data is backed up in a web drive like Dropbox or [[Google Drive]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), [[Package Management]] (4), web (3), [[Security]] (2), [[Red Hat Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Package Management]] (4), [[Red Hat Linux]] (2), [[Slack]] (1), [[Ubuntu]] (1)
 > **Env Vars:** rpm (2), suse (1), susa (1), apt (1)
 > **URLs:** [distrowatch.com](https://distrowatch.com) (3), [distrowash.com](https://distrowash.com) (1)
 > **Warnings:** note that (2), keep in mind (1)
@@ -542,12 +536,11 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Speakers:** - [presenter] (1)
 
-#### The state of Enterprise Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980)
+#### [The state of Enterprise Linux](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=1)** - [Instructor] There are various operating systems that fit into the classification of Enterprise Linux.
+> **[0:01](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=1)** - [Instructor] There are various operating systems that fit into the classification of Enterprise [[Linux]].
 >
 > **[0:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=5)** It may be advantageous to understand how Enterprise Linux was created to bring clarity to recent changes in the available choices.
 >
@@ -557,7 +550,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=22)** A Fedora is a low, soft felt hat with a curl, which may make sense, as the Fedora Project was created by the Red Hat corporation.
 >
-> **[0:30](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=30)** In 2003, Red Hat chose to split Red Hat Linux into Red Hat Linux Advanced Server for the commercial market and Fedora Core for individuals.
+> **[0:30](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=30)** In 2003, Red Hat chose to split [[Red Hat Linux]] into Red Hat Linux Advanced Server for the commercial market and Fedora Core for individuals.
 >
 > **[0:39](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=39)** Later releases were renamed Red Hat Enterprise Linux and Fedora.
 >
@@ -587,7 +580,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=117)** It is free but is provided without support.
 >
-> **[2:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=120)** I've used CentOS as the basis for nearly all of my courses in the LinkedIn Learning library.
+> **[2:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=120)** I've used CentOS as the basis for nearly all of my courses in the [[LinkedIn]] Learning library.
 >
 > **[2:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/the-state-of-enterprise-linux?u=76281980&t=125)** It is common to have Red Hat Enterprise Linux servers on the frontline, backed by paid Red Hat tech support and many CentOS servers in the background, managed by in-house personnel.
 >
@@ -651,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (30), [[Red Hat Linux]] (2), next (2), product (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Linux]] (30), [[Red Hat Linux]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), curl (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -664,8 +657,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is virtualization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980)
+#### [What is virtualization?](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=2)** At a low level, it's replacing real physical resources with virtual ones that only exist in software.
 >
-> **[0:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=9)** Virtualization is creating a virtual version of something specifically computer hardware, storage devices and network resources.
+> **[0:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=9)** Virtualization is creating a virtual version of something specifically computer [[Hardware]], storage devices and network resources.
 >
 > **[0:17](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=17)** If you want to virtualize a computer you would have a hypervisor that creates a software layer to intercept software requests for hardware.
 >
@@ -681,13 +673,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=34)** This would be the guest operating system.
 >
-> **[0:36](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=36)** In our case, Enterprise Linux 8.
+> **[0:36](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=36)** In our case, Enterprise [[Linux]] 8.
 >
 > **[0:38](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=38)** The guest OS, would request a resource from the virtual machine provided by VirtualBox.
 >
-> **[0:44](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=44)** The hypervisor and VirtualBox would make the request to the host operating system which was VirtualBox can be windows, Mac OS, Linux or Solaris, which then allocates the real physical resource.
+> **[0:44](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=44)** The hypervisor and VirtualBox would make the request to the host operating system which was VirtualBox can be [[Windows]], Mac OS, Linux or Solaris, which then allocates the real physical resource.
 >
-> **[0:54](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=54)** This process is followed for all requests by virtual machines for real physical resources.
+> **[0:54](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=54)** This process is followed for all requests by [[Virtual Machines]] for real physical resources.
 >
 > **[1:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=60)** In this course we're using VirtualBox to virtualize Enterprise Linux.
 >
@@ -695,7 +687,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=74)** The guest operating system doesn't even know is running inside a virtual machine until you add VirtualBox guest additions.
 >
-> **[1:20](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=80)** Virtualization is an important element in cloud computing and more importantly for you, it's invaluable for learning.
+> **[1:20](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=80)** Virtualization is an important element in [[Cloud Computing]] and more importantly for you, it's invaluable for learning.
 >
 > **[1:27](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980&t=87)** Using virtualization, it is easy to set up lab environments for installing and configuring operating systems and learning networking.
 >
@@ -703,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (4), [[Hardware]] (3), [[Linux]] (3), application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Linux]] (3), [[Windows]] (1), [[Virtual Machines]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** cpu (1), bios (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -711,14 +703,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Install VirtualBox on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980)
+#### [Install VirtualBox on Windows](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=0)** - [Instructor] This video shows how to install VirtualBox in Windows.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=0)** - [Instructor] This video shows how to install VirtualBox in [[Windows]].
 >
-> **[0:04](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=4)** If you're using Linux as your host operating system, you can skip this video.
+> **[0:04](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=4)** If you're using [[Linux]] as your host operating system, you can skip this video.
 >
 > **[0:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=8)** We're going to be installing Linux in a virtual machine to give us the ability to run one operating system inside of another without needing a separate physical computer.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=132)** Now, click on Next to start the install process.
 >
-> **[2:17](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=137)** We'll take the defaults for the rest of the installer questions.
+> **[2:17](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=137)** We'll take the defaults for the [[Representational State Transfer (REST)|rest]] of the installer questions.
 >
 > **[2:20](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-windows?u=76281980&t=140)** Click on Next and then Next again.
 >
@@ -810,7 +801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (5), next (3), [[Virtualization]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (13), go to (2), scroll down (1), in the toolbar (1)
 > **Prerequisites:** install (12)
 > **Env Vars:** usb (2), ram (1), iso (1), pci (1), pxe (1)
@@ -819,14 +810,13 @@ created: 2026-05-02
 > **Code Identifiers:** macos (2)
 > **Exercise Files:** download the (2)
 
-#### Install VirtualBox on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980)
+#### [Install VirtualBox on Linux](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=0)** - [Instructor] If you happen to be using Linux as your host OS, you'll want to install Virtual Box for that operating system.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=0)** - [Instructor] If you happen to be using [[Linux]] as your host OS, you'll want to install Virtual Box for that operating system.
 >
-> **[0:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=7)** If you're using Windows for your host OS, you can skip this video.
+> **[0:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=7)** If you're using [[Windows]] for your host OS, you can skip this video.
 >
 > **[0:11](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=11)** We will be installing Virtual Box, but also installing a Virtual Box extension pack.
 >
@@ -932,7 +922,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=243)** It just installs the programs.
 >
-> **[4:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=247)** After the packages are installed, it tells us that in order to create virtual machines, our user needs to be in the Vbox users operating system group.
+> **[4:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=247)** After the packages are installed, it tells us that in order to create [[Virtual Machines]], our user needs to be in the Vbox users operating system group.
 >
 > **[4:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=255)** This is for security reasons as Virtual Box needs access to low level resources.
 >
@@ -968,7 +958,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=325)** If you don't do this now, you'll get notified later when attempting to use Virtual Box.
 >
-> **[5:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=331)** To ensure that installation and modification of the system configuration went well, reboot your Linux host by going to the top right hand menu, click on the power button, and then click on restart.
+> **[5:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=331)** To ensure that installation and modification of the [[System Configuration]] went well, reboot your Linux host by going to the top right hand menu, click on the power button, and then click on restart.
 >
 > **[5:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-virtualbox-on-linux?u=76281980&t=341)** The extension pack adds additional functionality to Virtual Box.
 >
@@ -1004,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), hit (6), application (2), [[Security]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Windows]] (1), [[Virtual Machines]] (1), [[System Configuration]] (1)
 > **Prerequisites:** install (14), configure (1)
 > **CLI Commands:** dnf (4), sudo (4), make (2), ls (2), cd (1)
 > **UI Navigation:** click on (10), go to (1), scroll down (1)
@@ -1013,8 +1003,7 @@ created: 2026-05-02
 > **URLs:** [virtualbox.org](https://virtualbox.org) (2)
 > **Warnings:** note that (2)
 
-#### Manage VirtualBox with the GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980)
+#### [Manage VirtualBox with the GUI](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=7)** Your menu options may differ a little depending on which host operating system you're using.
 >
-> **[0:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=12)** I'll be using VirtualBox on Linux for this video.
+> **[0:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=12)** I'll be using VirtualBox on [[Linux]] for this video.
 >
 > **[0:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=15)** We'll start by selecting the file menu and then preferences.
 >
@@ -1080,7 +1069,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=157)** Let's close this dialog and move on to the import and export menu items.
 >
-> **[2:42](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=162)** What these allow us to do is import and export Virtual Machines.
+> **[2:42](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=162)** What these allow us to do is import and export [[Virtual Machines]].
 >
 > **[2:46](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/manage-virtualbox-with-the-gui?u=76281980&t=166)** If you want to back up your Virtual Machine, you can select export appliance and it will save it in the file.
 >
@@ -1100,7 +1089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Virtualization]] (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Linux]] (1)
 > **Analogies:** for instance (2), picture (1), it's like (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -1112,12 +1101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980)
+#### [Creating a virtual machine](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=0)** - [Instructor] Before we can install Linux in a VM, we need to make one.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=0)** - [Instructor] Before we can install [[Linux]] in a VM, we need to make one.
 >
 > **[0:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=3)** Make sure the VirtualBox GUI is running on your host, and then click on the New icon.
 >
@@ -1129,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=19)** And then click on Next.
 >
-> **[0:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=21)** These settings just changed the preset defaults in the rest of the configuration wizard, so don't worry too much about them.
+> **[0:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=21)** These settings just changed the preset defaults in the [[Representational State Transfer (REST)|rest]] of the configuration wizard, so don't worry too much about them.
 >
 > **[0:26](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=26)** Although enterprise Linux will run with less than one gigabyte of memory, things go smoother with two.
 >
@@ -1197,7 +1185,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=167)** Choose a hypervisor.
 >
-> **[2:49](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=169)** If you're on Windows, then HyperV is the best option to choose.
+> **[2:49](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=169)** If you're on [[Windows]], then HyperV is the best option to choose.
 >
 > **[2:52](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=172)** If you're on Linux, then KVM may be the best option.
 >
@@ -1239,7 +1227,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=243)** If you hover your mouse over it, you'll see a label with add new storage attachment.
 >
-> **[4:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=248)** This means that this VM will have access to the local network, but your host PC and other computers on the local network will not be able to access your VM, meaning they will not be able to access services on it like web servers.
+> **[4:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=248)** This means that this VM will have access to the local network, but your host PC and other computers on the local network will not be able to access your VM, meaning they will not be able to access services on it like [[Web Servers]].
 >
 > **[4:18](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980&t=258)** If you want your VM to appear as any normal computer on your network.
 >
@@ -1251,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), next (4), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), [[Web Servers]] (1)
 > **UI Navigation:** click on (14)
 > **Env Vars:** cpu (4), gui (1), vdi (1), kvm (1), sata (1)
 > **Prerequisites:** install (4), configure (1), you'll need (1)
@@ -1260,8 +1248,7 @@ created: 2026-05-02
 > **Warnings:** note that (3), be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing your virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980)
+#### [Optimizing your virtual machine](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,17 +1274,17 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=42)** In the same tab, enable PAE/NX.
 >
-> **[0:46](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=46)** PAE allows 32-bit virtual machines to access more than four gigabytes of RAM.
+> **[0:46](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=46)** PAE allows 32-bit [[Virtual Machines]] to access more than four gigabytes of RAM.
 >
 > **[0:51](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=51)** If you're installing a 32-bit guest OS, then you definitely want to enable this feature.
 >
-> **[0:56](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=56)** We're going to be installing a 64-bit version of Enterprise Linux.
+> **[0:56](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=56)** We're going to be installing a 64-bit version of Enterprise [[Linux]].
 >
 > **[0:59](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=59)** So we don't actually need this, but it doesn't hurt.
 >
 > **[1:02](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=62)** On the Acceleration tab, choose a hypervisor.
 >
-> **[1:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=65)** If you're on Windows, than hyper-V is your best option to choose.
+> **[1:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=65)** If you're on [[Windows]], than hyper-V is your best option to choose.
 >
 > **[1:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=69)** If you're on Linux, then KVM may be your best option.
 >
@@ -1349,7 +1336,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=167)** This means that this VM will have access to the local network, but your host PC and other physical computers on the local network will not be able to access your VM.
 >
-> **[2:56](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=176)** Meaning, you will not be able to run services on it, like web servers.
+> **[2:56](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=176)** Meaning, you will not be able to run services on it, like [[Web Servers]].
 >
 > **[2:59](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/optimizing-your-virtual-machine?u=76281980&t=179)** If you want your VM to appear as a normal computer on your network so other computers can access it, you will need to change the setting to bridged adapter.
 >
@@ -1359,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Virtual Machines]] (1), feature (1), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Virtual Machines]] (1), [[Windows]] (1), [[Web Servers]] (1)
 > **Env Vars:** cpu (3), pae (2), nat (2), apic (1), ram (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (1)
@@ -1367,12 +1354,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Before installing
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/before-installing?u=76281980)
+#### [Before installing](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/before-installing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/before-installing?u=76281980&t=0)** - [Instructor] There are a couple things we need to think about before installing Linux.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/before-installing?u=76281980&t=0)** - [Instructor] There are a couple things we need to think about before installing [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/before-installing?u=76281980&t=4)** You can install it two different ways.
 >
@@ -1408,19 +1394,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), cd (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** dvd (9), iso (5), usb (1), rom (1)
 > **Prerequisites:** install (12)
 > **CLI Commands:** make (1), cd (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Linux from DVD ISO
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980)
+#### [Install Linux from DVD ISO](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=1)** - [Instructor] To install Enterprise Linux from the full DVD, we need to download an ISO image from the distribution's website.
+> **[0:01](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=1)** - [Instructor] To install Enterprise [[Linux]] from the full DVD, we need to download an ISO image from the distribution's website.
 >
 > **[0:06](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=6)** For this course, I'll install CentOS but you can use any other Enterprise Linux clone.
 >
@@ -1516,7 +1501,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=202)** The installer wants to create a small partition accessible as /boot where our Linux kernel and other boot files are stored using the XFS file system.
 >
-> **[3:30](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=210)** Next, it wants to create a much larger root partition where the rest of the operating system is stored, again, using the XFS file system.
+> **[3:30](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=210)** Next, it wants to create a much larger root partition where the [[Representational State Transfer (REST)|rest]] of the operating system is stored, again, using the XFS file system.
 >
 > **[3:37](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=217)** It also wants to create a smaller swap partition used for virtual memory.
 >
@@ -1564,7 +1549,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=313)** Now click begin installation.
 >
-> **[5:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=315)** The install will take between 20 minutes and an hour, depending on your host computer's hardware.
+> **[5:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=315)** The install will take between 20 minutes and an hour, depending on your host computer's [[Hardware]].
 >
 > **[5:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=321)** As soon as the install is finished, you'll be able to click on reboot to reboot into your new VM.
 >
@@ -1596,7 +1581,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=369)** Again, I'll choose the default and click on next again.
 >
-> **[6:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=372)** Next, we can choose our privacy settings.
+> **[6:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=372)** Next, we can choose our [[Privacy]] settings.
 >
 > **[6:14](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-linux-from-dvd-iso-14933592?u=76281980&t=374)** By default, location settings are on.
 >
@@ -1620,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (12), next (8), hit (2), [[Representational State Transfer (REST)|Rest]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Linux]] (12), [[Representational State Transfer (REST)|Rest]] (2), [[Hardware]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (22), select the (2), go to (1)
 > **Env Vars:** iso (8), dvd (3), gui (3), xfs (2), dvd1 (1)
 > **Prerequisites:** install (10), configure (2), you'll need (2), getting started (2), set up (1)
@@ -1629,8 +1614,7 @@ created: 2026-05-02
 > **Versions:** 8.5.2111 (1), version 8 (1), 5.2111 (1)
 > **Best Practices:** recommended (1), it's best to (1)
 
-#### Reconfigure or migrate CentOS 8
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/reconfigure-or-migrate-centos-8?u=76281980)
+#### [Reconfigure or migrate CentOS 8](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/reconfigure-or-migrate-centos-8?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1682,7 +1666,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/reconfigure-or-migrate-centos-8?u=76281980&t=206)** To migrate CentOS eight to AlmaLinux OS, point your web browser to [almalinux.org](https://almalinux.org) and then click on the migrate button.
 >
-> **[3:38](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/reconfigure-or-migrate-centos-8?u=76281980&t=218)** This will take you to their GitHub page, about halfway down the page there is almaLinux-deploy.sh link, click on it and then click on raw and then right click and select save page as, choose your downloads directory and click on save.
+> **[3:38](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/reconfigure-or-migrate-centos-8?u=76281980&t=218)** This will take you to their [[GitHub]] page, about halfway down the page there is almaLinux-deploy.sh link, click on it and then click on raw and then right click and select save page as, choose your downloads directory and click on save.
 >
 > **[4:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/reconfigure-or-migrate-centos-8?u=76281980&t=240)** Once that's downloaded go to your terminal and change the downloads directory.
 >
@@ -1710,7 +1694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), cd (4), web (2), [[GitHub]] (2), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (12), go to (1)
 > **URLs:** [centos.org](https://centos.org) (5), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -1719,8 +1703,7 @@ created: 2026-05-02
 > **File Paths:** almalinux-deploy.sh (2), migrate2rocky.sh (2)
 > **Env Vars:** url (2)
 
-#### Virtual machine snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/virtual-machine-snapshots?u=76281980)
+#### [Virtual machine snapshots](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/virtual-machine-snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1854,7 +1837,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), web (1)
 > **UI Navigation:** click on (15), select the (1), checkbox (1)
 > **Prerequisites:** install (7), configure (1), you'll need (1)
 > **CLI Commands:** make (1)
@@ -1866,8 +1848,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Update system software
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980)
+#### [Update system software](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,7 +1862,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=27)** Let's look at the various ways we can update all systems software.
 >
-> **[0:30](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=30)** One of these software updates may be the Linux kernel so we'll want to reboot when we're done.
+> **[0:30](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=30)** One of these software updates may be the [[Linux]] kernel so we'll want to reboot when we're done.
 >
 > **[0:35](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=35)** Linux doesn't often need to reboot after system software updates unless there's a new kernel.
 >
@@ -1923,7 +1904,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=129)** The root user is the administrator in Linux.
 >
-> **[2:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=132)** This a similar to the run as administrator menu in Windows.
+> **[2:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=132)** This a similar to the run as administrator menu in [[Windows]].
 >
 > **[2:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980&t=135)** In order for this to work, we had to check the box during install that made our first user an administrator.
 >
@@ -1963,7 +1944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), application (2), [[Windows]] (1), hit (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (1)
 > **Env Vars:** dvd (4), gui (2), gbg (2), iso (1), dnf (1)
 > **UI Navigation:** click on (6), select the (3)
 > **Tools:** terminal (4), command line (3), firefox (1)
@@ -1972,8 +1953,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Install Guest Additions in Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980)
+#### [Install Guest Additions in Linux](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,7 +1967,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=29)** Before installing VirtualBox Guest Additions, there are a few prerequisites.
 >
-> **[0:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=34)** All Linux operating systems software has to be up to date.
+> **[0:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=34)** All [[Linux]] operating systems software has to be up to date.
 >
 > **[0:38](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=38)** After the OS is updated, it needs to be rebooted so we're using the latest kernel from the OS update.
 >
@@ -2027,7 +2007,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=137)** Now type in sudo space, dnf space, group space, install space, -y space, double quote development space tools, double quote, and hit enter, and enter your password when prompted.
 >
-> **[2:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=154)** This installs the software development tools group.
+> **[2:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=154)** This installs the [[Software Development]] tools group.
 >
 > **[2:37](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-guest-additions-in-linux?u=76281980&t=157)** With Enterprise Linux 8, we also need to install one more package.
 >
@@ -2065,7 +2045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Linux]] (2), cd (2), [[Software Development]] (1), dns (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Software Development]] (1)
 > **CLI Commands:** sudo (5), dnf (4), cd (2)
 > **UI Navigation:** click on (5)
 > **Tools:** terminal (4)
@@ -2074,12 +2054,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Warnings:** note that (1)
 
-#### Configure basic system settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980)
+#### [Configure basic system settings](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=0)** - [Instructor] After installing Enterprise Linux, we might want to configure a few things.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=0)** - [Instructor] After installing Enterprise [[Linux]], we might want to configure a few things.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=4)** I will be using my VM in full-screen mode with Guest Additions installed.
 >
@@ -2121,7 +2100,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=91)** Click the back arrow for the main configuration items.
 >
-> **[1:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=94)** You can configure the Wi-Fi connections, desktop background images, notifications, system search, region and language, universal access, and even online accounts for cloud storage and communication as well as privacy settings.
+> **[1:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=94)** You can configure the Wi-Fi connections, desktop background images, notifications, system search, region and language, universal access, and even online accounts for [[Cloud Storage]] and communication as well as [[Privacy]] settings.
 >
 > **[1:54](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/configure-basic-system-settings?u=76281980&t=114)** If you scroll down a bit, you can see settings for the sound devices, power management and of course network, which we just looked at and physical devices, including keyboard and mouse as well as printers and removable media.
 >
@@ -2159,7 +2138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), hit (3), next (2), power (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Cloud Storage]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (11), go to (1), scroll down (1)
 > **Prerequisites:** configure (6), install (2), you'll need (1)
 > **URLs:** [x.org](https://x.org) (2), [localnet.com](https://localnet.com) (1), [custom.com](https://custom.com) (1)
@@ -2168,12 +2147,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize GNOME 3 desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980)
+#### [Customize GNOME 3 desktop](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=0)** - [Instructor] For configuring Enterprise Linux 8, the standard system settings GUI does a good job.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=0)** - [Instructor] For configuring Enterprise [[Linux]] 8, the standard system settings GUI does a good job.
 >
 > **[0:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=5)** But it does not manage the look and feel of the GNOME interface outside of allowing you to change the background image.
 >
@@ -2253,7 +2231,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=182)** Click the slider at the top of the window so it says off.
 >
-> **[3:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=185)** This will make a difference in how fast applications react and how fast windows open.
+> **[3:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=185)** This will make a difference in how fast applications [[React.js|react]] and how fast [[Windows]] open.
 >
 > **[3:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=190)** We can modify a few items in the top bar of the desktop by clicking on the top bar item in the left pane.
 >
@@ -2301,7 +2279,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=295)** This is my favorite way of going between workspaces.
 >
-> **[4:58](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=298)** One common strategy is to place multiple applications of a similar type on one workspace, such as development tools, and applications of another type such as office applications on another workspace.
+> **[4:58](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=298)** One common strategy is to place multiple applications of a similar type on one workspace, such as development tools, and applications of another type such as [[Microsoft Office|office]] applications on another workspace.
 >
 > **[5:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop-8544131?u=76281980&t=309)** This allows us to bounce between tasks easily.
 >
@@ -2311,7 +2289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (3), hit (1), application (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (3), [[React.js|React]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (12), go to (1), dropdown (1), select the (1)
 > **Env Vars:** gnome (7), gui (2)
 > **CLI Commands:** make (3), tar (1)
@@ -2320,12 +2298,11 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Cross-References:** go back to (1)
 
-#### Installing GNOME 3 extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-gnome-3-extensions?u=76281980)
+#### [Installing GNOME 3 extensions](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-gnome-3-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-gnome-3-extensions?u=76281980&t=0)** - [Instructor] GNOME 3, the version that is included with Enterprise Linux 8, allows you to install additional extensions.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-gnome-3-extensions?u=76281980&t=0)** - [Instructor] GNOME 3, the version that is included with Enterprise [[Linux]] 8, allows you to install additional extensions.
 >
 > **[0:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-gnome-3-extensions?u=76281980&t=7)** These extensions allow you to modify the functionality of the GNOME desktop.
 >
@@ -2399,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), web (2), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** gnome (11), cpu (1)
 > **UI Navigation:** click on (6)
 > **Prerequisites:** install (6)
@@ -2413,12 +2390,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing common software in CentOS 8
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980)
+#### [Installing common software in CentOS 8](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=0)** - After you have Enterprise Linux installed and the user experience configured the way you like it, you may want to install some common software from the software repositories.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=0)** - After you have Enterprise [[Linux]] installed and the [[User Experience (UX)|user experience]] configured the way you like it, you may want to install some common software from the software repositories.
 >
 > **[0:09](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=9)** You have two ways of doing this.
 >
@@ -2448,7 +2424,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=74)** Once this has finished, run it by clicking on activities and typing in gimp, and hitting enter.
 >
-> **[1:23](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=83)** By default gimp comes up in multi window mode but I like using it in single window mode to get that click on windows and then select single window mode.
+> **[1:23](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=83)** By default gimp comes up in multi window mode but I like using it in single window mode to get that click on [[Windows]] and then select single window mode.
 >
 > **[1:33](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=93)** Note that if your gimp interface has missing icons, then your GUI LAN server is not disabled.
 >
@@ -2456,7 +2432,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=106)** Let's install some other software now.
 >
-> **[1:48](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=108)** Most users need an office suite.
+> **[1:48](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=108)** Most users need an [[Microsoft Office|office]] suite.
 >
 > **[1:50](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=110)** We will install Libra office a forklift of Oracle's open office.
 >
@@ -2472,7 +2448,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=154)** You should see four possible applications.
 >
-> **[2:36](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=156)** Libre office calc the spreadsheet, Libra office draw the structure drawing program, Libre office writer the word processor and Libre office impress the presentation program.
+> **[2:36](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=156)** Libre office calc the spreadsheet, Libra office draw the structure drawing program, Libre office writer the [[Microsoft Word|word]] processor and Libre office impress the presentation program.
 >
 > **[2:48](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980&t=168)** Click on one to start it up.
 >
@@ -2494,7 +2470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), hit (5), [[Linux]] (3), cd (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Linux]] (3), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (11), you'll need (1)
 > **Env Vars:** gui (4), dnf (3), lan (1)
 > **CLI Commands:** dnf (3), cd (2), find (1), apache (1)
@@ -2503,12 +2479,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), note that (1)
 
-#### Install software from third-party repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980)
+#### [Install software from third-party repositories](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=0)** - [Instructor] The standard enterprise Linux software repositories contain a lot of server packages, but not many GUI programs.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=0)** - [Instructor] The standard enterprise [[Linux]] software repositories contain a lot of server packages, but not many GUI programs.
 >
 > **[0:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=7)** To add more desktop-centric software, you'll need to add some third-party software repositories.
 >
@@ -2522,7 +2497,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=28)** The default web browser and enterprise Linux is Firefox.
 >
-> **[0:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=31)** And even though Firefox works well, you may also want to try the world's most popular web browser Google Chrome to install Chrome, open, Firefox and search for Google Chrome.
+> **[0:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=31)** And even though Firefox works well, you may also want to try the world's most popular web browser [[Google]] Chrome to install Chrome, open, Firefox and search for Google Chrome.
 >
 > **[0:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=41)** Then click on download Chrome today and then click on download Chrome.
 >
@@ -2552,7 +2527,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=110)** Enter the letter Y to continue.
 >
-> **[1:54](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=114)** Once it has installed check to make sure it added the software repository type in clear to clear the screen and then type in sudo space DNF space repo list, one word and hit enter.
+> **[1:54](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=114)** Once it has installed check to make sure it added the software repository type in clear to clear the screen and then type in sudo space DNF space repo list, one [[Microsoft Word|word]] and hit enter.
 >
 > **[2:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=127)** If successful, you should see a Google Chrome repository.
 >
@@ -2604,7 +2579,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=321)** We'll install VLC type in clear and then type in sudo space DNF space, install space dash Y space VLC and hit enter.
 >
-> **[5:33](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=333)** Now we have a couple of graphic image editors and office suite audio editing software and a video player that will play almost anything. It may be advantageous to turn on the applications menu Can-Am extension now.
+> **[5:33](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=333)** Now we have a couple of graphic image editors and [[Microsoft Office|office]] suite audio editing software and a video player that will play almost anything. It may be advantageous to turn on the applications menu Can-Am extension now.
 >
 > **[5:45](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-software-from-third-party-repositories?u=76281980&t=345)** To turn on the applications, menu, Gnome extension you can close the terminal, then click on activities and then type in tweaks and hit enter.
 >
@@ -2624,7 +2599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Linux]] (9), [[Google]] (5), web (2), power (2)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Google]] (5), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rpm (11), dnf (9), epel (5), vlc (4), gui (1)
 > **CLI Commands:** sudo (9), dnf (9), make (2)
 > **Prerequisites:** install (19), you'll need (1)
@@ -2633,8 +2608,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), be careful (1), caution (1)
 > **Definitions:** is a  (2)
 
-#### Install non-RPM software
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980)
+#### [Install non-RPM software](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2646,7 +2620,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=16)** There has been a movement to create one package type that works on all distributions.
 >
-> **[0:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=21)** In true Linux fashion, there have been multiple computing efforts to do this, resulting in not one, but two distribution diagnostic package formats, namely, Snap and Flatpak packages.
+> **[0:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=21)** In true [[Linux]] fashion, there have been multiple computing efforts to do this, resulting in not one, but two distribution diagnostic package formats, namely, Snap and Flatpak packages.
 >
 > **[0:33](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=33)** Snap and Flatpak packages work on all distributions.
 >
@@ -2682,7 +2656,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=124)** We also created a shortcut linking one location to another.
 >
-> **[2:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=128)** Now that we have the Snap package management system installed, we need to log out.
+> **[2:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=128)** Now that we have the Snap [[Package Management]] system installed, we need to log out.
 >
 > **[2:12](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-non-rpm-software?u=76281980&t=132)** Go to your top right menu, select user1 and click on Log Out and then click on Log Out again.
 >
@@ -2734,7 +2708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (2), application (2), [[Package Management]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Package Management]] (1)
 > **CLI Commands:** snap (21), sudo (5), dnf (2), systemctl (1)
 > **Prerequisites:** install (13), set up (1)
 > **Env Vars:** rpm (4), epel (1), gui (1), gnome (1)
@@ -2743,12 +2717,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 
-#### Explore GNOME 3 desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980)
+#### [Explore GNOME 3 desktop](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=0)** - There are many different desktop environments in Linux.
+> **[0:00](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=0)** - There are many different desktop environments in [[Linux]].
 >
 > **[0:03](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=3)** Red Hat historically used the GNOME 2 desktop.
 >
@@ -2788,7 +2761,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=107)** In this dialogue, we can see the 'Overview Shortcut'.
 >
-> **[1:50](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=110)** Here, we can decide if we want to use the left or right super keys, super keys being the windows keys on a PC keyboard.
+> **[1:50](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=110)** Here, we can decide if we want to use the left or right super keys, super keys being the [[Windows]] keys on a PC keyboard.
 >
 > **[1:58](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/explore-gnome-3-desktop?u=76281980&t=118)** Let's go back into overview mode by clicking on 'Activities' or pressing the super key.
 >
@@ -2838,15 +2811,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[Linux]] (3), hit (2), [[Virtualization]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (1)
 > **Env Vars:** gnome (17), mate (2)
 > **UI Navigation:** click on (4)
 > **Analogies:** just like (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Customize GNOME 3 desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980)
+#### [Customize GNOME 3 desktop](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2856,7 +2828,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=6)** In many other operating systems, there would be a window list at the bottom of the screen to allow you to switch between running applications.
 >
-> **[0:13](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=13)** Gnome 3 uses the overview mode to switch between applications, so the extra space at the bottom of the screen can be used to make program windows larger.
+> **[0:13](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=13)** Gnome 3 uses the overview mode to switch between applications, so the extra space at the bottom of the screen can be used to make program [[Windows]] larger.
 >
 > **[0:21](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=21)** Gnome 3 uses every last millimeter of screen space for applications.
 >
@@ -2896,7 +2868,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=127)** This works well with multiple workspaces.
 >
-> **[2:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=130)** Speaking of workspaces, Linux desktops provide more than one.
+> **[2:10](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=130)** Speaking of workspaces, [[Linux]] desktops provide more than one.
 >
 > **[2:14](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=134)** This may be a new concept to you if you're used to other operating systems.
 >
@@ -2928,7 +2900,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=211)** You can drag and drop applications from one workspace to another.
 >
-> **[3:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=214)** For instance, on workspace one, I'll have my web browsers, on workspace two, I'd have my software development tools and on workspace three, I'd have my running office suite.
+> **[3:34](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=214)** For instance, on workspace one, I'll have my web browsers, on workspace two, I'd have my [[Software Development]] tools and on workspace three, I'd have my running [[Microsoft Office|office]] suite.
 >
 > **[3:44](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/customize-gnome-3-desktop?u=76281980&t=224)** I can switch between tasks and workspaces easily using keyboard shortcuts.
 >
@@ -2956,7 +2928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), application (3), feature (1), [[Linux]] (1), web (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Linux]] (1), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3), navigate to (1), drag and drop (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), imagine (1)
@@ -2969,8 +2941,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2978,7 +2949,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=5)** I hope you enjoyed this course and learned a lot.
 >
-> **[0:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=8)** We talked a bit about the origins of Linux, how open source works, and the differences between Linux distributions.
+> **[0:08](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=8)** We talked a bit about the origins of [[Linux]], how open source works, and the differences between Linux distributions.
 >
 > **[0:15](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=15)** In the process of installing enterprise Linux, we also installed common desktop software and modified GNOME 3 using extensions.
 >
@@ -2992,7 +2963,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=41)** I encourage you to continue on with the next course, with becoming a Linux system administrator as your goal.
 >
-> **[0:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=47)** If you have any questions or suggestions, please feel free to contact me on LinkedIn.
+> **[0:47](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=47)** If you have any questions or suggestions, please feel free to contact me on [[LinkedIn]].
 >
 > **[0:52](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980&t=52)** My name is Grant McWilliams.
 >
@@ -3002,7 +2973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), next (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[LinkedIn]] (1)
 > **Env Vars:** gnome (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [grant] (1)

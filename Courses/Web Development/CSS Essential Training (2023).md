@@ -161,16 +161,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980)
+#### [Getting started with CSS](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=0)** - CSS is a fundamental part of web design because it controls how your webpages look.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=0)** - CSS is a fundamental part of [[Web Design]] because it controls how your webpages look.
 >
 > **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=5)** Without it, websites would only display text on white backgrounds.
 >
-> **[0:10](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=10)** Use CSS to take your plain HTML websites to the next level.
+> **[0:10](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=10)** Use CSS to take your plain [[HTML]] websites to the next level.
 >
 > **[0:14](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=14)** Whether you're just trying to customize your Squarespace page or contemplating a career switch, learning the essentials of CSS from the ground up gives you the ability to do everything from tweaking existing CSS to writing your own.
 >
@@ -178,37 +177,35 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=30)** An online portfolio and resume page.
 >
-> **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=33)** I'm Christina Truong, and I invite you to join me from my course on LinkedIn Learning where I'll cover the foundations of CSS.
+> **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=33)** I'm Christina Truong, and I invite you to join me from my course on [[LinkedIn]] Learning where I'll cover the foundations of CSS.
 >
 > **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980&t=41)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), web (1), [[HTML]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[HTML]] (1), [[LinkedIn]] (1)
 > **Env Vars:** css (5), html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - css (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/css-essential-training-2023/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/what-you-should-know?u=76281980&t=0)** - [Instructor] We'll be learning about CSS from the ground up, so you don't need any prior knowledge.
 >
-> **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/what-you-should-know?u=76281980&t=5)** However, having a basic understanding of HTML and being comfortable with general computer tasks such as creating files and folders or using multiple apps simultaneously, will help you get the most out of this course.
+> **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/what-you-should-know?u=76281980&t=5)** However, having a basic understanding of [[HTML]] and being comfortable with general computer tasks such as creating files and folders or using multiple apps simultaneously, will help you get the most out of this course.
 >
 > **[0:18](https://www.linkedin.com/learning/css-essential-training-2023/what-you-should-know?u=76281980&t=18)** If at any point you have any questions about HTML, I'd encourage you to check out our "[[HTML Essential Training]]" course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), css (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to complete the exercises
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/how-to-complete-the-exercises?u=76281980)
+#### [How to complete the exercises](https://www.linkedin.com/learning/css-essential-training-2023/how-to-complete-the-exercises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/how-to-complete-the-exercises?u=76281980&t=5)** The first will be small code samples.
 >
-> **[0:07](https://www.linkedin.com/learning/css-essential-training-2023/how-to-complete-the-exercises?u=76281980&t=7)** I'll be using an online tool called CodePen, which is great for experimenting and seeing the output right away.
+> **[0:07](https://www.linkedin.com/learning/css-essential-training-2023/how-to-complete-the-exercises?u=76281980&t=7)** I'll be using an online tool called [[CodePen]], which is great for experimenting and seeing the output right away.
 >
 > **[0:14](https://www.linkedin.com/learning/css-essential-training-2023/how-to-complete-the-exercises?u=76281980&t=14)** All of the CodePen exercises will be included in my CSS Essential Training collection.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (3), css (1)
+> **Frameworks & Libraries:** [[CodePen]] (3)
 > **Exercise Files:** exercise files (2), download the (1), starter files (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **Env Vars:** css (1)
@@ -253,12 +250,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HTML and CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980)
+#### [HTML and CSS](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980&t=0)** - In this course we'll be focusing on the fundamentals of CSS, but we'll also have discussions about HTML because these two languages work closely together.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980&t=0)** - In this course we'll be focusing on the fundamentals of CSS, but we'll also have discussions about [[HTML]] because these two languages work closely together.
 >
 > **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980&t=9)** HTML was originally created for sharing research documents.
 >
@@ -282,20 +278,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), css (4)
+> **Frameworks & Libraries:** [[HTML]] (7)
 > **Env Vars:** html (7), css (4)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Working with website files
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980)
+#### [Working with website files](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=0)** - The web started out as digital copies of text-based research documents, but has since grown into a lot more and can be viewed on a variety of devices.
 >
-> **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=9)** Websites can be designed as a single page with content divided into sections within the same HTML page.
+> **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=9)** Websites can be designed as a single page with content divided into sections within the same [[HTML]] page.
 >
 > **[0:16](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=16)** For multi-page websites related content is spread out over multiple HTML pages.
 >
@@ -325,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=94)** Spaces and symbols should be avoided, with the exception of underscores and hyphens, which can be used to separate words.
 >
-> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=101)** Just note that Google's Search Engine Optimization Guide recommends separating words with hyphens.
+> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=101)** Just note that [[Google]]'s [[Search Engine Optimization (SEO)|Search Engine Optimization]] Guide recommends separating words with hyphens.
 >
 > **[1:47](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=107)** Some servers will also interpret different letter casing as different names, so skip the unnecessary headaches and keep it consistent by using all lowercase letters.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=161)** Each project is automatically assigned a unique URL, which anyone can view.
 >
-> **[2:46](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=166)** We'll also be using a another online editor, CodePen, for smaller exercises.
+> **[2:46](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=166)** We'll also be using a another online editor, [[CodePen]], for smaller exercises.
 >
 > **[2:52](https://www.linkedin.com/learning/css-essential-training-2023/working-with-website-files?u=76281980&t=172)** This will allow us to focus on individual concepts.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[HTML]] (6), css (3), [[Google]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Google]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[CodePen]] (1)
 > **Env Vars:** html (6), css (3), seo (1), url (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
@@ -364,8 +359,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - the (1)
 
-#### Writing code with a text editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/writing-code-with-a-text-editor?u=76281980)
+#### [Writing code with a text editor](https://www.linkedin.com/learning/css-essential-training-2023/writing-code-with-a-text-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/css-essential-training-2023/writing-code-with-a-text-editor?u=76281980&t=90)** Then close this start page by clicking the X in the tab.
 >
-> **[1:35](https://www.linkedin.com/learning/css-essential-training-2023/writing-code-with-a-text-editor?u=76281980&t=95)** Now let's open the example HTML file located in the exercise files in the 01_03 folder.
+> **[1:35](https://www.linkedin.com/learning/css-essential-training-2023/writing-code-with-a-text-editor?u=76281980&t=95)** Now let's open the example [[HTML]] file located in the exercise files in the 01_03 folder.
 >
 > **[1:44](https://www.linkedin.com/learning/css-essential-training-2023/writing-code-with-a-text-editor?u=76281980&t=104)** Let's strike the whole folder into the editor.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **UI Navigation:** click on (3), open the (2), in the tab (1), navigate to (1), go to (1)
 > **Tools:** vs code (4), visual studio (1), firefox (1)
 > **Cross-References:** go back to (3)
@@ -458,8 +452,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **File Paths:** index.html (1)
 
-#### Customizing your text editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980)
+#### [Customizing your text editor](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=57)** Now we can see the text size in the file has changed but the UI elements remain the same.
 >
-> **[1:04](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=64)** Another setting I always turn on is word wrap so I don't have to scroll horizontally to see the content that goes beyond the width of the editor.
+> **[1:04](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=64)** Another setting I always turn on is [[Microsoft Word|word]] wrap so I don't have to scroll horizontally to see the content that goes beyond the width of the editor.
 >
 > **[1:12](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=72)** Back in the settings, scroll down to editor word wrap and select an option from the dropdown menu.
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=137)** Another useful feature is syntax highlighting which uses different colors to help differentiate between different parts of the code.
 >
-> **[2:24](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=144)** For example, HTML tags are colored differently from the content and the different parts of the markup like the brackets and attributes are also colored differently.
+> **[2:24](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=144)** For example, [[HTML]] tags are colored differently from the content and the different parts of the markup like the brackets and attributes are also colored differently.
 >
 > **[2:36](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=156)** Also by clicking on a tag it will highlight the corresponding opening and closing tag making it easier to see matching pairs.
 >
@@ -533,11 +526,11 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=200)** These are just a few features to get you started.
 >
-> **[3:22](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=202)** To see what else is available, check out the editor's documentation or take a look through the rest of the preference settings.
+> **[3:22](https://www.linkedin.com/learning/css-essential-training-2023/customizing-your-text-editor?u=76281980&t=202)** To see what else is available, check out the editor's documentation or take a look through the [[Representational State Transfer (REST)|rest]] of the preference settings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), feature (2), [[Search]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** in the sidebar (2), dropdown (2), click on (2), scroll down (1), switch to (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (2)
@@ -546,8 +539,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Analogies:** for example (1)
 
-#### Project: Overview and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980)
+#### [Project: Overview and setup](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=16)** While you can build out the design as you go along, it's easier to have an idea of what the finished website will look like to use as a guide.
 >
-> **[0:24](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=24)** In web design and development, this is called a mockup.
+> **[0:24](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=24)** In [[Web Design]] and development, this is called a mockup.
 >
 > **[0:27](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=27)** They can be simple sketches or more detailed designs.
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=69)** And remember to use all lower case letters and don't include any spaces.
 >
-> **[1:15](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=75)** Now, we'll add the HTML files, which can be found in the starter files folder in the exercise files.
+> **[1:15](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=75)** Now, we'll add the [[HTML]] files, which can be found in the starter files folder in the exercise files.
 >
 > **[1:23](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=83)** Since this isn't a course on HTML specifically, I've created a template.
 >
@@ -609,7 +601,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=146)** And when you've done the project, just delete the ones you're not using.
 >
-> **[2:30](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=150)** I'll add just the files I'll be using from my project, which is the BG home office studio, and the icons.
+> **[2:30](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=150)** I'll add just the files I'll be using from my project, which is the BG home [[Microsoft Office|office]] studio, and the icons.
 >
 > **[2:38](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=158)** Copy these files and paste them into my images folder.
 >
@@ -641,7 +633,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=246)** In the intro section, update the H1 and H2 with your name and tagline as well.
 >
-> **[4:12](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=252)** In the rest of the HTML, I've added comments to organize and include instructions for customizing the content.
+> **[4:12](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=252)** In the [[Representational State Transfer (REST)|rest]] of the HTML, I've added comments to organize and include instructions for customizing the content.
 >
 > **[4:19](https://www.linkedin.com/learning/css-essential-training-2023/project-overview-and-setup?u=76281980&t=259)** In the about section, you can add your bio here.
 >
@@ -713,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), css (4), next (4), web (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[HTML]] (13), [[Web Design]] (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (10), css (4)
 > **Exercise Files:** template (3), exercise files (2), starter files (2)
 > **CLI Commands:** make (5), find (1)
@@ -722,8 +714,7 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1), in the sidebar (1), click on (1)
 > **Best Practices:** make sure to (2), remember to (1)
 
-#### Where to find images
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/where-to-find-images?u=76281980)
+#### [Where to find images](https://www.linkedin.com/learning/css-essential-training-2023/where-to-find-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +766,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** make sure to (1), it's best to (1)
@@ -783,9 +773,9 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
+> **Warnings:** note that (1)
 
-#### Optimizing images for the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/optimizing-images-for-the-web?u=76281980)
+#### [Optimizing images for the web](https://www.linkedin.com/learning/css-essential-training-2023/optimizing-images-for-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +809,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/css-essential-training-2023/optimizing-images-for-the-web?u=76281980&t=97)** To support screens with different pixel densities, use one image file for standard screens and another image file that's at least twice the size for screens with higher pixel densities.
 >
-> **[1:48](https://www.linkedin.com/learning/css-essential-training-2023/optimizing-images-for-the-web?u=76281980&t=108)** HTML can then be used to deliver the correct image file using the source attribute for the standard size image and the source set attribute for the larger image.
+> **[1:48](https://www.linkedin.com/learning/css-essential-training-2023/optimizing-images-for-the-web?u=76281980&t=108)** [[HTML]] can then be used to deliver the correct image file using the source attribute for the standard size image and the source set attribute for the larger image.
 >
 > **[1:57](https://www.linkedin.com/learning/css-essential-training-2023/optimizing-images-for-the-web?u=76281980&t=117)** The 2x descriptor indicates that the larger image is for displays with a 2x resolution.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1), data (1), [[HTML]] (1), express (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), ppi (1), html (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
@@ -862,8 +852,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Relative and absolute paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/relative-and-absolute-paths?u=76281980)
+#### [Relative and absolute paths](https://www.linkedin.com/learning/css-essential-training-2023/relative-and-absolute-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/css-essential-training-2023/relative-and-absolute-paths?u=76281980&t=21)** In the course project, the link to the resume page from the homepage uses a relative path.
 >
-> **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/relative-and-absolute-paths?u=76281980&t=28)** Since the HTML files are in the same folder, the file path is just the file name.
+> **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/relative-and-absolute-paths?u=76281980&t=28)** Since the [[HTML]] files are in the same folder, the file path is just the file name.
 >
 > **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/relative-and-absolute-paths?u=76281980&t=35)** To link to a file contained in a folder, start the file path with the folder name followed by a slash and the file name.
 >
@@ -917,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (2), css (1), html (1)
 > **Analogies:** such as (3)
 > **Best Practices:** recommended (1), make sure to (1)
@@ -926,14 +915,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Project: Adding images and icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980)
+#### [Project: Adding images and icons](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=0)** - [Instructor] In this project update, let's take what we've learned about working with images and file paths and add the thumbnail images to the resume page and the icons to the footer.
 >
-> **[0:13](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=13)** Back in the editor, let's start with updating the images in the project section in the resume.html file.
+> **[0:13](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=13)** Back in the editor, let's start with updating the images in the project section in the resume.[[HTML]] file.
 >
 > **[0:21](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=21)** To see your image files from within the text editor, click the arrow in the sidebar to expand the folder.
 >
@@ -953,7 +941,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=76)** When there's a list of options, you can use the up or down arrow keys to navigate to the correct file.
 >
-> **[1:22](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=82)** Then press enter, or return to auto complete the rest of the file name or you can just click on the file that you wish to add.
+> **[1:22](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=82)** Then press enter, or return to auto complete the [[Representational State Transfer (REST)|rest]] of the file name or you can just click on the file that you wish to add.
 >
 > **[1:29](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-images-and-icons?u=76281980&t=89)** For me, it's project decoded YouTube 500 pixels.png.
 >
@@ -1073,7 +1061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), feature (6), [[Representational State Transfer (REST)|Rest]] (4), css (3), functional (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Representational State Transfer (REST)|Rest]] (4)
 > **Env Vars:** css (3), html (3), img (1), w3c (1)
 > **CLI Commands:** make (5)
 > **File Paths:** resume.html (3), index.html (1)
@@ -1082,12 +1070,11 @@ created: 2026-05-02
 > **Documentation:** w3c (1)
 > **Tools:** vs code (1)
 
-#### Referencing CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/referencing-css?u=76281980)
+#### [Referencing CSS](https://www.linkedin.com/learning/css-essential-training-2023/referencing-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/referencing-css?u=76281980&t=0)** - [Instructor] Before we get into writing CSS, let's discuss three ways to add CSS to the HTML: inline, internal, and external.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/referencing-css?u=76281980&t=0)** - [Instructor] Before we get into writing CSS, let's discuss three ways to add CSS to the [[HTML]]: inline, internal, and external.
 >
 > **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/referencing-css?u=76281980&t=9)** The inline method uses a style attribute added to the opening HTML tag.
 >
@@ -1141,19 +1128,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (14), [[HTML]] (9)
+> **Frameworks & Libraries:** [[HTML]] (9)
 > **Env Vars:** css (14), html (9)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Creating a CSS file
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980)
+#### [Project: Creating a CSS file](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=0)** - [Instructor] Now that we've completed all the project prep and HTML updates, the next step is to create a CSS file.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=0)** - [Instructor] Now that we've completed all the project prep and [[HTML]] updates, the next step is to create a CSS file.
 >
 > **[0:07](https://www.linkedin.com/learning/css-essential-training-2023/project-creating-a-css-file?u=76281980&t=7)** In the editor, go to File, New File, or use the keyboard shortcut Command or Control + N.
 >
@@ -1221,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (13), [[HTML]] (3), next (2)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (11), html (1)
 > **File Paths:** index.html (1), resume.html (1)
 > **UI Navigation:** go to (1), in the tab (1)
@@ -1234,8 +1220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS specifications and the W3C
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980)
+#### [CSS specifications and the W3C](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980&t=23)** So needless to say, I didn't finish it.
 >
-> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980&t=26)** But just like any other reference manual, you don't need to read it word for word.
+> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980&t=26)** But just like any other reference manual, you don't need to read it [[Microsoft Word|word]] for word.
 >
 > **[0:30](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980&t=30)** You just need to know how to find what you're looking for, and how to read the documentation.
 >
@@ -1303,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (15), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** css (15), w3c (5), css3 (1)
 > **Documentation:** w3c (5), specification (2), the documentation (1), spec (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -1311,8 +1296,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - when (1)
 
-#### CSS syntax and terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-syntax-and-terminology?u=76281980)
+#### [CSS syntax and terminology](https://www.linkedin.com/learning/css-essential-training-2023/css-syntax-and-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1312,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/css-essential-training-2023/css-syntax-and-terminology?u=76281980&t=23)** It may contain one or more style rules enclosed in curly brackets.
 >
-> **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/css-syntax-and-terminology?u=76281980&t=28)** A selector specifies which HTML element or elements to apply the style to.
+> **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/css-syntax-and-terminology?u=76281980&t=28)** A selector specifies which [[HTML]] element or elements to apply the style to.
 >
 > **[0:34](https://www.linkedin.com/learning/css-essential-training-2023/css-syntax-and-terminology?u=76281980&t=34)** CSS style rules are called declarations and use property value pairs to provide instructions to the browser on how to style a specific HTML element.
 >
@@ -1402,7 +1386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (11), html (3)
 > **Analogies:** for example (3), such as (2), similar to (1)
 > **CLI Commands:** make (1)
@@ -1410,8 +1394,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - learning (1)
 
-#### CSS values and units
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980)
+#### [CSS values and units](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1410,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=31)** In CSS documentation, value types, also referred to as data types, are usually written with angled brackets to distinguish them from properties.
 >
-> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=41)** Although angled brackets are also used with HTML, these value types are not HTML, this is just the writing convention for the specifications.
+> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=41)** Although angled brackets are also used with [[HTML]], these value types are not HTML, this is just the writing convention for the specifications.
 >
 > **[0:51](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=51)** Let's start with an overview of numeric data types.
 >
@@ -1451,7 +1434,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=118)** Absolute length units are fixed, and based on a physical measurement.
 >
-> **[2:03](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=123)** Pixels are used for web development, since screens are measured in pixels The other units are typically used for print designs.
+> **[2:03](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=123)** Pixels are used for [[Web Development]], since screens are measured in pixels The other units are typically used for print designs.
 >
 > **[2:10](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=130)** Relative units define a length based on another length.
 >
@@ -1461,7 +1444,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=149)** Vw represents the width of the viewport, vh represents the height of the viewport, vmin and vmax are based on the smaller and larger dimensions of the viewport, respectively.
 >
-> **[2:42](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=162)** A key word is a textual data type, we used one in our first CSS exercise to set the background color of the webpage.
+> **[2:42](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=162)** A key [[Microsoft Word|word]] is a textual data type, we used one in our first CSS exercise to set the background color of the webpage.
 >
 > **[2:50](https://www.linkedin.com/learning/css-essential-training-2023/css-values-and-units?u=76281980&t=170)** Keywords are predefined values, and will vary based on the property.
 >
@@ -1479,15 +1462,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), css (6), [[HTML]] (3), [[Web Development]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Web Development]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (6), html (3), mdn (2), w3c (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Analogies:** such as (4), for example (1)
 > **Documentation:** mdn (2), w3c (1)
 > **Speakers:** - [narrator] (1)
 
-#### The color property and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-color-property-and-values?u=76281980)
+#### [The color property and values](https://www.linkedin.com/learning/css-essential-training-2023/the-color-property-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1589,7 +1571,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), web (1), next (1)
 > **Env Vars:** rgb (6), mdn (2), hex (1), rgba (1), f00 (1)
 > **Documentation:** mdn (2), the documentation (1)
 > **Analogies:** such as (2), for example (1)
@@ -1597,9 +1578,9 @@ created: 2026-05-02
 > **URLs:** [neilorangepeel.com](https://neilorangepeel.com) (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
+> **Warnings:** note that (1)
 
-#### Creating a color palette
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/creating-a-color-palette?u=76281980)
+#### [Creating a color palette](https://www.linkedin.com/learning/css-essential-training-2023/creating-a-color-palette?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1615,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/css-essential-training-2023/creating-a-color-palette?u=76281980&t=27)** Picking a color palette can take some time so let's look at some tools that can help.
 >
-> **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/creating-a-color-palette?u=76281980&t=33)** One option is Canva, which offers a variety of tools.
+> **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/creating-a-color-palette?u=76281980&t=33)** One option is [[Canva]], which offers a variety of tools.
 >
 > **[0:37](https://www.linkedin.com/learning/css-essential-training-2023/creating-a-color-palette?u=76281980&t=37)** You can upload an image into their Color Palette Generator or just try one of their demo images.
 >
@@ -1644,12 +1625,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type and universal selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980)
+#### [Type and universal selectors](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=0)** - [Instructor] In CSS, selectors are used to select specific HTML elements and apply styles to them.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=0)** - [Instructor] In CSS, selectors are used to select specific [[HTML]] elements and apply styles to them.
 >
 > **[0:07](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=7)** Different types of selectors are used to determine which element the style should be applied to.
 >
@@ -1667,9 +1647,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=56)** There are some special use cases which we'll discuss in more detail later in the course.
 >
-> **[1:02](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=62)** Let's practice using selectors with a CodePen exercise.
+> **[1:02](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=62)** Let's practice using selectors with a [[CodePen]] exercise.
 >
-> **[1:06](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=66)** The default layout of the CodePen editor shows three panels at the top of the page, but since we'll only be writing HTML and CSS, I'll minimize the JavaScript panel.
+> **[1:06](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=66)** The default layout of the CodePen editor shows three panels at the top of the page, but since we'll only be writing HTML and CSS, I'll minimize the [[JavaScript]] panel.
 >
 > **[1:18](https://www.linkedin.com/learning/css-essential-training-2023/type-and-universal-selectors?u=76281980&t=78)** To maximize the space, I also like to put the panels on the side.
 >
@@ -1723,7 +1703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (4), [[HTML]] (3), css (2), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[CodePen]] (4), [[HTML]] (3), [[JavaScript]] (1)
 > **Env Vars:** html (3), css (2)
 > **Cross-References:** later in (1), in the next (1)
 > **UI Navigation:** select the (1), in the menu (1)
@@ -1731,8 +1711,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### ID selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980)
+#### [ID selectors](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=29)** If you want to separate multiple words, use in underscore or dash.
 >
-> **[0:34](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=34)** Camel case where each new word is capitalized is also valid.
+> **[0:34](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=34)** Camel case where each new [[Microsoft Word|word]] is capitalized is also valid.
 >
 > **[0:37](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=37)** But using lowercase letters is a more common writing style in CSS.
 >
@@ -1758,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=50)** For example, an ID name like Global Header implies that the styles are for a header used throughout the website.
 >
-> **[0:58](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=58)** Let's open another CodePen example.
+> **[0:58](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=58)** Let's open another [[CodePen]] example.
 >
 > **[1:01](https://www.linkedin.com/learning/css-essential-training-2023/id-selectors?u=76281980&t=61)** To add a style to just the first paragraph, let's add an ID attribute to the opening tag.
 >
@@ -1796,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Microsoft Word|Word]] (1), [[CodePen]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[CodePen]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1805,8 +1784,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Class selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/class-selectors?u=76281980)
+#### [Class selectors](https://www.linkedin.com/learning/css-essential-training-2023/class-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1816,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/class-selectors?u=76281980&t=5)** The class selector, which matches to one or more elements based on the class attribute value.
 >
-> **[0:11](https://www.linkedin.com/learning/css-essential-training-2023/class-selectors?u=76281980&t=11)** Similar to IDs, to use a class, it must first be added to the HTML tag and just like IDs, the value is defined by you.
+> **[0:11](https://www.linkedin.com/learning/css-essential-training-2023/class-selectors?u=76281980&t=11)** Similar to IDs, to use a class, it must first be added to the [[HTML]] tag and just like IDs, the value is defined by you.
 >
 > **[0:20](https://www.linkedin.com/learning/css-essential-training-2023/class-selectors?u=76281980&t=20)** But when used as a CSS selector, it starts with a period.
 >
@@ -1874,18 +1852,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (5), html (2)
 > **Analogies:** similar to (1), just like (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Descendant combinators and selector lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980)
+#### [Descendant combinators and selector lists](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=0)** - [Instructor] When writing HTML, tags are nested inside of other tags, which creates a hierarchy known as the Document Object Model or DOM for short.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=0)** - [Instructor] When writing [[HTML]], tags are nested inside of other tags, which creates a hierarchy known as the [[Document Object Model (DOM)|Document Object Model]] or DOM for short.
 >
 > **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=9)** Elements nested at the first level create a parent-child relationship.
 >
@@ -1899,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=33)** For example, section, space, p will select only paragraphs inside of a section element.
 >
-> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=41)** Let's open up a CodePen example to see the different ways we can use a descendant combinator.
+> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=41)** Let's open up a [[CodePen]] example to see the different ways we can use a descendant combinator.
 >
 > **[0:47](https://www.linkedin.com/learning/css-essential-training-2023/descendant-combinators-and-selector-lists?u=76281980&t=47)** Let's start by uncommenting the color value in the a selector.
 >
@@ -1945,7 +1922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[Document Object Model (DOM)|Document object model]] (1), dom (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[CodePen]] (1)
 > **Env Vars:** css (2), html (1), dom (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2)
@@ -1953,8 +1930,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1), make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The background property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-background-property?u=76281980)
+#### [The background property](https://www.linkedin.com/learning/css-essential-training-2023/the-background-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,7 +1946,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/css-essential-training-2023/the-background-property?u=76281980&t=31)** If it's for presentation only, we can use the background property.
 >
-> **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/the-background-property?u=76281980&t=35)** If it's part of the content, like the project thumbnails, then it should be added to the HTML with the IMG tag.
+> **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/the-background-property?u=76281980&t=35)** If it's part of the content, like the project thumbnails, then it should be added to the [[HTML]] with the IMG tag.
 >
 > **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/the-background-property?u=76281980&t=41)** Otherwise, we can use the background-image property.
 >
@@ -2056,8 +2032,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Prepping the CSS file
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-prepping-the-css-file?u=76281980)
+#### [Project: Prepping the CSS file](https://www.linkedin.com/learning/css-essential-training-2023/project-prepping-the-css-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2099,7 +2074,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/css-essential-training-2023/project-prepping-the-css-file?u=76281980&t=96)** For example, the resume page contains various sections that can also be grouped.
 >
-> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/project-prepping-the-css-file?u=76281980&t=101)** For these comment blocks, I'll use regular letter casing for the profile, projects, work experience, and education sections and add them in the order that they appear in the HTML.
+> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/project-prepping-the-css-file?u=76281980&t=101)** For these comment blocks, I'll use regular letter casing for the profile, projects, work experience, and education sections and add them in the order that they appear in the [[HTML]].
 >
 > **[1:54](https://www.linkedin.com/learning/css-essential-training-2023/project-prepping-the-css-file?u=76281980&t=114)** As the project progresses, we'll be adding the corresponding CSS styles into these groupings.
 >
@@ -2147,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (3), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (8), html (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -2156,8 +2131,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you'll need (1)
 > **Exercise Files:** exercise files (1)
 
-#### Project: Adding background styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980)
+#### [Project: Adding background styles](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,7 +2159,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=80)** Add another forward slash and the image file name.
 >
-> **[1:24](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=84)** I'll be using the bg-home-office-studio image.
+> **[1:24](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=84)** I'll be using the bg-home-[[Microsoft Office|office]]-studio image.
 >
 > **[1:30](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=90)** End the declaration with the semicolon.
 >
@@ -2227,7 +2201,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=202)** To do this, we'll add a container element just around the content, then we'll apply the background color to the container.
 >
-> **[3:29](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=209)** Let's go back to the index.html file.
+> **[3:29](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=209)** Let's go back to the index.[[HTML]] file.
 >
 > **[3:33](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=213)** The container needs to be added around just the header and main content area.
 >
@@ -2301,7 +2275,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=425)** Also, notice that the text link is still blue.
 >
-> **[7:09](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=429)** This is the default style of links and is different from the rest of the text-based elements, so we'll need to target it more specifically, which we'll do later in the exercise.
+> **[7:09](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=429)** This is the default style of links and is different from the [[Representational State Transfer (REST)|rest]] of the text-based elements, so we'll need to target it more specifically, which we'll do later in the exercise.
 >
 > **[7:19](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-background-styles?u=76281980&t=439)** Right now, this page still needs a lot of work.
 >
@@ -2313,7 +2287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[HTML]] (2), next (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (6), rgb (6), url (1), html (1)
 > **Cross-References:** go back to (3), we talked about (1), later in (1)
 > **CLI Commands:** make (2)
@@ -2322,8 +2296,7 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **URLs:** [webfx.com](https://webfx.com) (1)
 
-#### Pseudo-classes and pseudo-elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980)
+#### [Pseudo-classes and pseudo-elements](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2339,9 +2312,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980&t=35)** They're also combined with a selector but are added with double colons followed by the keyword.
 >
-> **[0:42](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980&t=42)** Let's look at an example in CodePen.
+> **[0:42](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980&t=42)** Let's look at an example in [[CodePen]].
 >
-> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980&t=45)** A common style for online articles is to mimic the typography often seen in magazines by styling the first paragraph or first sentence differently from the rest.
+> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980&t=45)** A common style for online articles is to mimic the [[Typography]] often seen in magazines by styling the first paragraph or first sentence differently from the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:54](https://www.linkedin.com/learning/css-essential-training-2023/pseudo-classes-and-pseudo-elements?u=76281980&t=54)** Let's start by adding the first class to the first paragraph.
 >
@@ -2411,7 +2384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (1), [[Typography]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
+> **Frameworks & Libraries:** [[CodePen]] (1), [[Typography]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** mdn (1), reference guide (1)
@@ -2420,8 +2393,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inheritance and the cascade
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980)
+#### [Inheritance and the cascade](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2431,7 +2403,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=21)** This is more efficient than applying the style directly to each element.
 >
-> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=26)** Inheritable styles are mainly related to typography, like font, family, or color.
+> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=26)** Inheritable styles are mainly related to [[Typography]], like font, family, or color.
 >
 > **[0:31](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=31)** Non-inheritable styles are usually related to positioning elements or sizing, like width or height.
 >
@@ -2455,9 +2427,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=92)** You don't need to memorize all these details about each property.
 >
-> **[1:36](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=96)** Reading documentation and tutorials are a common part of doing web development.
+> **[1:36](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=96)** Reading documentation and tutorials are a common part of doing [[Web Development]].
 >
-> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=101)** Another important concept to learn about is the cascade in cascading style sheets, which refers to how style rules are applied based on the source order.
+> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=101)** Another important concept to learn about is the cascade in [[Cascading Style Sheets (CSS)|cascading style sheets]], which refers to how style rules are applied based on the source order.
 >
 > **[1:50](https://www.linkedin.com/learning/css-essential-training-2023/inheritance-and-the-cascade?u=76281980&t=110)** The browser reads style sheets from top to bottom.
 >
@@ -2471,7 +2443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[Search]] (4), [[Typography]] (1), web (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Typography]] (1), [[Web Development]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (5), mdn (2)
 > **Documentation:** mdn (2)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -2480,8 +2452,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Warnings:** common error (1)
 
-#### Specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/specificity?u=76281980)
+#### [Specificity](https://www.linkedin.com/learning/css-essential-training-2023/specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2525,7 +2496,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/css-essential-training-2023/specificity?u=76281980&t=126)** It just takes some time to practice.
 >
-> **[2:08](https://www.linkedin.com/learning/css-essential-training-2023/specificity?u=76281980&t=128)** Inheritance, cascade, and specificity all control health styles are applied to HTML and each concept applies these rules differently.
+> **[2:08](https://www.linkedin.com/learning/css-essential-training-2023/specificity?u=76281980&t=128)** Inheritance, cascade, and specificity all control health styles are applied to [[HTML]] and each concept applies these rules differently.
 >
 > **[2:17](https://www.linkedin.com/learning/css-essential-training-2023/specificity?u=76281980&t=137)** So let's do a recap.
 >
@@ -2565,7 +2536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Definitions:** refers to (1), means that (1)
 > **Cross-References:** we talked about (1)
@@ -2573,8 +2544,7 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Styling links
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-styling-links?u=76281980)
+#### [Project: Styling links](https://www.linkedin.com/learning/css-essential-training-2023/project-styling-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2640,7 +2610,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/css-essential-training-2023/project-styling-links?u=76281980&t=173)** Referring back to the final version of the resume page, the link styles in the project section are styled to look like buttons, so we'll need to create a button style.
 >
-> **[3:04](https://www.linkedin.com/learning/css-essential-training-2023/project-styling-links?u=76281980&t=184)** First, let's go back to the editor and look at the current HTML markup.
+> **[3:04](https://www.linkedin.com/learning/css-essential-training-2023/project-styling-links?u=76281980&t=184)** First, let's go back to the editor and look at the current [[HTML]] markup.
 >
 > **[3:10](https://www.linkedin.com/learning/css-essential-training-2023/project-styling-links?u=76281980&t=190)** Let's scroll down to the project section.
 >
@@ -2682,7 +2652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (3), html (1), btn (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2696,14 +2666,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to the CSS box model
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980)
+#### [Intro to the CSS box model](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980&t=0)** - Now that we've gone over some core CSS concepts let's continue to build on that understanding by exploring the CSS box model.
 >
-> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980&t=8)** An important concept that explains how HTML elements are displayed in the browser.
+> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980&t=8)** An important concept that explains how [[HTML]] elements are displayed in the browser.
 >
 > **[0:14](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980&t=14)** When we look at a webpage, we see text and images but to the browser, every single element is displayed as a rectangular box, whether it's an image, a paragraph, or even a link inside of a paragraph.
 >
@@ -2719,14 +2688,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### The box model properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-box-model-properties?u=76281980)
+#### [The box model properties](https://www.linkedin.com/learning/css-essential-training-2023/the-box-model-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2734,7 +2702,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/css-essential-training-2023/the-box-model-properties?u=76281980&t=3)** The CSS box model describes how these elements are displayed, which consists of four parts.
 >
-> **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/the-box-model-properties?u=76281980&t=9)** The content box contains the content added using the HTML tags.
+> **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/the-box-model-properties?u=76281980&t=9)** The content box contains the content added using the [[HTML]] tags.
 >
 > **[0:14](https://www.linkedin.com/learning/css-essential-training-2023/the-box-model-properties?u=76281980&t=14)** The padding box surrounds the content and adds space inside of the element.
 >
@@ -2816,14 +2784,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1), mdn (1)
 > **Analogies:** for example (2)
 > **Documentation:** mdn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Box-sizing and the box model fix
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/box-sizing-and-the-box-model-fix?u=76281980)
+#### [Box-sizing and the box model fix](https://www.linkedin.com/learning/css-essential-training-2023/box-sizing-and-the-box-model-fix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2903,7 +2870,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (2), pdf (1)
 > **Definitions:** is a  (1)
@@ -2911,12 +2877,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Inline, block, and display
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/inline-block-and-display?u=76281980)
+#### [Inline, block, and display](https://www.linkedin.com/learning/css-essential-training-2023/inline-block-and-display?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/inline-block-and-display?u=76281980&t=0)** - As we've been building out our projects and doing CodePen examples, you may have noticed that HTML elements are arranged in certain ways.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/inline-block-and-display?u=76281980&t=0)** - As we've been building out our projects and doing [[CodePen]] examples, you may have noticed that [[HTML]] elements are arranged in certain ways.
 >
 > **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/inline-block-and-display?u=76281980&t=8)** For example, why do links line up side by side while headings and paragraphs stack on top of each other?
 >
@@ -3002,15 +2967,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (2), next (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (2)
 > **Env Vars:** html (4), csss (1), css (1)
 > **Analogies:** just like (3), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Project: Footer styles and icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-footer-styles-and-icons?u=76281980)
+#### [Project: Footer styles and icons](https://www.linkedin.com/learning/css-essential-training-2023/project-footer-styles-and-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3028,7 +2992,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/css-essential-training-2023/project-footer-styles-and-icons?u=76281980&t=34)** Since the list items are block elements, right now, the footer just looks like a big block, so let's change that.
 >
-> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/project-footer-styles-and-icons?u=76281980&t=41)** Back in the editor, in the index.html file, we're going to go down to the UL tag in the footer and add a class.
+> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/project-footer-styles-and-icons?u=76281980&t=41)** Back in the editor, in the index.[[HTML]] file, we're going to go down to the UL tag in the footer and add a class.
 >
 > **[0:49](https://www.linkedin.com/learning/css-essential-training-2023/project-footer-styles-and-icons?u=76281980&t=49)** We only want to apply styles to this list so I'm going to name this socials.
 >
@@ -3098,7 +3062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (4)
 > **File Paths:** index.html (2)
 > **Cross-References:** go back to (1), later in (1)
@@ -3107,8 +3071,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Debugging with developer tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980)
+#### [Debugging with developer tools](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3118,7 +3081,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=12)** Let's go over an example.
 >
-> **[0:15](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=15)** If you'd like to follow along, open the box-model.html page in your browser.
+> **[0:15](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=15)** If you'd like to follow along, open the box-model.[[HTML]] page in your browser.
 >
 > **[0:21](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=21)** It can be found in the exercise files, in chapter three, video 03_06.
 >
@@ -3210,11 +3173,11 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=291)** We just did a quick overview of the browser developer tools, but there are more features to explore.
 >
-> **[4:56](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=296)** We'll continue to use the dev tools throughout the rest of this course, but if you would like to dive a little deeper, check out my Workflow Tools for Web Developers course.
+> **[4:56](https://www.linkedin.com/learning/css-essential-training-2023/debugging-with-developer-tools?u=76281980&t=296)** We'll continue to use the dev tools throughout the [[Representational State Transfer (REST)|rest]] of this course, but if you would like to dive a little deeper, check out my Workflow Tools for Web Developers course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (7), [[Debugging]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (8), html (6)
 > **UI Navigation:** click on (4), open the (3), select the (2), right-click (1), in the toolbar (1)
 > **Tools:** firefox (4)
@@ -3223,8 +3186,7 @@ created: 2026-05-02
 > **File Paths:** box-model.html (1)
 > **Exercise Files:** exercise files (1)
 
-#### Managing box model quirks
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/managing-box-model-quirks?u=76281980)
+#### [Managing box model quirks](https://www.linkedin.com/learning/css-essential-training-2023/managing-box-model-quirks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3236,7 +3198,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/css-essential-training-2023/managing-box-model-quirks?u=76281980&t=17)** I've added a background color to this example so we can see the space between the paragraphs, which is coming from a default margin style.
 >
-> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/managing-box-model-quirks?u=76281980&t=26)** Since HTML was created for research documents, it makes sense for paragraphs to have this default style.
+> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/managing-box-model-quirks?u=76281980&t=26)** Since [[HTML]] was created for research documents, it makes sense for paragraphs to have this default style.
 >
 > **[0:32](https://www.linkedin.com/learning/css-essential-training-2023/managing-box-model-quirks?u=76281980&t=32)** Otherwise, it would just be a big block of text.
 >
@@ -3304,7 +3266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), css (2)
 > **CLI Commands:** make (4)
 > **Non-Speech:** (keyboard typing) (2)
@@ -3312,8 +3274,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Background image update
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-background-image-update?u=76281980)
+#### [Project: Background image update](https://www.linkedin.com/learning/css-essential-training-2023/project-background-image-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3329,7 +3290,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/project-background-image-update?u=76281980&t=33)** Then click the three dots on the right of the menu bar and choose the icon to dock the tool to the right side of the browser.
 >
-> **[0:42](https://www.linkedin.com/learning/css-essential-training-2023/project-background-image-update?u=76281980&t=42)** Now we'll be able to inspect the page while the viewport is at a smaller size and have more space to view the HTML and CSS panels.
+> **[0:42](https://www.linkedin.com/learning/css-essential-training-2023/project-background-image-update?u=76281980&t=42)** Now we'll be able to inspect the page while the viewport is at a smaller size and have more space to view the [[HTML]] and CSS panels.
 >
 > **[0:51](https://www.linkedin.com/learning/css-essential-training-2023/project-background-image-update?u=76281980&t=51)** Hover over the body element in the HTML panel.
 >
@@ -3387,7 +3348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), css (4)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Env Vars:** html (6), css (4)
 > **Cross-References:** go back to (2), later in (1)
 > **CLI Commands:** make (2)
@@ -3396,8 +3357,7 @@ created: 2026-05-02
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using negative margin values
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/using-negative-margin-values?u=76281980)
+#### [Using negative margin values](https://www.linkedin.com/learning/css-essential-training-2023/using-negative-margin-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3443,7 +3403,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/css-essential-training-2023/using-negative-margin-values?u=76281980&t=135)** Negative margin values are best used to nudge elements just outside of their default position as we did with the previous inline element exercise.
 >
-> **[2:24](https://www.linkedin.com/learning/css-essential-training-2023/using-negative-margin-values?u=76281980&t=144)** If you need to move an element to a completely different location on the page, it's usually better to restructure the HTML or use a different layout technique.
+> **[2:24](https://www.linkedin.com/learning/css-essential-training-2023/using-negative-margin-values?u=76281980&t=144)** If you need to move an element to a completely different location on the page, it's usually better to restructure the [[HTML]] or use a different layout technique.
 >
 > **[2:33](https://www.linkedin.com/learning/css-essential-training-2023/using-negative-margin-values?u=76281980&t=153)** This helps to maintain the natural flow of the page as much as possible.
 >
@@ -3457,8 +3417,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Center aligning with margin
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980)
+#### [Center aligning with margin](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3466,7 +3425,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=2)** This property can also be used with the auto value to center-align block elements.
 >
-> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=8)** Let's try this out in a CodePen.
+> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=8)** Let's try this out in a [[CodePen]].
 >
 > **[0:11](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=11)** To center-align the elements, the first thing we'll do is add a width to the section element.
 >
@@ -3498,7 +3457,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=83)** This can't be coming from the margin since I set it to 0, but it's actually a default margin on the body element, which surrounds all the content.
 >
-> **[1:34](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=94)** CodePen is a tool that was created to focus on isolated concepts so you don't have to include the body element in the HTML panel.
+> **[1:34](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=94)** CodePen is a tool that was created to focus on isolated concepts so you don't have to include the body element in the [[HTML]] panel.
 >
 > **[1:42](https://www.linkedin.com/learning/css-essential-training-2023/center-aligning-with-margin?u=76281980&t=102)** It's already included in the backend of the tool.
 >
@@ -3544,14 +3503,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (2), [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[HTML]] (2)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Adding content wrappers
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980)
+#### [Project: Adding content wrappers](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3565,9 +3523,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980&t=25)** Also, the header image spans all the way across as well, but the content, which is the name and title, doesn't span all the way across.
 >
-> **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980&t=35)** So for the resume page, we'll need to create a content wrap just for the header content that is separate from the rest of the resume content.
+> **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980&t=35)** So for the resume page, we'll need to create a content wrap just for the header content that is separate from the [[Representational State Transfer (REST)|rest]] of the resume content.
 >
-> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980&t=45)** Back in the editor, let's look at the markup in the index.html file.
+> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980&t=45)** Back in the editor, let's look at the markup in the index.[[HTML]] file.
 >
 > **[0:51](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-content-wrappers?u=76281980&t=51)** If we scroll up to the top of the page, we can see that we've already added a content wrapper container in a previous exercise, but we use this with the descendant selector home to apply the background color to the text just on the homepage.
 >
@@ -3643,7 +3601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (2), css (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (2)
 > **Cross-References:** go back to (3)
 > **File Paths:** index.html (1), resume.html (1)
 > **CLI Commands:** make (2)
@@ -3652,8 +3610,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Project: Adding a header image
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-a-header-image?u=76281980)
+#### [Project: Adding a header image](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-a-header-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3767,7 +3724,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** css (4), mdn (2), url (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -3775,14 +3731,14 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** remember to (2)
 > **Analogies:** similar to (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 4. Layouts: Float and Position
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to CSS Layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-layout?u=76281980)
+#### [Intro to CSS Layout](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3804,14 +3760,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (4)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - css (1)
 
-#### Layouts with the float property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980)
+#### [Layouts with the float property](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3829,13 +3783,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=38)** Developers soon realized they could float other elements too, leading to float-based page layouts.
 >
-> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=45)** Most HTML documents are block level and are displayed at a full width, stacking on top of each other in the normal document flow.
+> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=45)** Most [[HTML]] documents are block level and are displayed at a full width, stacking on top of each other in the normal document flow.
 >
 > **[0:53](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=53)** The float property can be used to change the position of elements by floating them to the left or right side of their container.
 >
 > **[1:00](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=60)** However, this removes the floated elements from the normal flow, resulting in a change to the positioning of these surrounding elements.
 >
-> **[1:09](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=69)** Let's take a look at how this works in a CodePen example.
+> **[1:09](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=69)** Let's take a look at how this works in a [[CodePen]] example.
 >
 > **[1:13](https://www.linkedin.com/learning/css-essential-training-2023/layouts-with-the-float-property?u=76281980&t=73)** I've already added some border and background styles just to make it easier to see the boundaries of each element.
 >
@@ -3895,14 +3849,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[CodePen]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - historically (1)
 
-#### Clearing floats
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980)
+#### [Clearing floats](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3954,11 +3907,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=146)** If you want to use a different name, you can.
 >
-> **[2:28](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=148)** Like any other class name, it just needs to be consistent in both CSS and HTML.
+> **[2:28](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=148)** Like any other class name, it just needs to be consistent in both CSS and [[HTML]].
 >
 > **[2:34](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=154)** These types of fixes were often created to support older browsers, mostly old versions of Internet Explorer.
 >
-> **[2:41](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=161)** But with Microsoft's end of support for IE and a push to use their modern browser edge, supporting older browsers is now less of an issue, which leads us to the third and newest method, involving using the display property with a value of flow root.
+> **[2:41](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=161)** But with [[Microsoft]]'s end of support for IE and a push to use their modern browser edge, supporting older browsers is now less of an issue, which leads us to the third and newest method, involving using the display property with a value of flow root.
 >
 > **[2:56](https://www.linkedin.com/learning/css-essential-training-2023/clearing-floats?u=76281980&t=176)** This creates a new block formatting context or BFC for short.
 >
@@ -3968,15 +3921,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Microsoft]] (1)
 > **Env Vars:** css (3), html (1), bfc (1)
 > **Definitions:** is a  (1), is called (1), basically means (1)
 > **Analogies:** such as (1), similar to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Project: Float images and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980)
+#### [Project: Float images and text](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3986,7 +3938,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=16)** We'll also add more visual separation between the sections by adding space and a border under the H2 titles.
 >
-> **[0:24](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=24)** Let's start in the editor in the Resume HTML file.
+> **[0:24](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=24)** Let's start in the editor in the Resume [[HTML]] file.
 >
 > **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=28)** For each project section, let's add a class.
 >
@@ -4088,13 +4040,13 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=386)** We can now see better visual separation between the main sections of the resume as well as each project item.
 >
-> **[6:34](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=394)** You can adjust this to your liking, but I would recommend waiting until after the typography chapter where we'll be changing the fonts.
+> **[6:34](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=394)** You can adjust this to your liking, but I would recommend waiting until after the [[Typography]] chapter where we'll be changing the fonts.
 >
 > **[6:41](https://www.linkedin.com/learning/css-essential-training-2023/project-float-images-and-text?u=76281980&t=401)** The fonts you choose can influence how much spacing you want to add or remove.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (2), next (2), [[Typography]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Typography]] (1)
 > **Env Vars:** css (4), html (2)
 > **Cross-References:** go back to (1), later in (1)
 > **CLI Commands:** make (1)
@@ -4103,8 +4055,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The position property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-position-property?u=76281980)
+#### [The position property](https://www.linkedin.com/learning/css-essential-training-2023/the-position-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4208,14 +4159,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Position and z-index
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980)
+#### [Position and z-index](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=0)** - [Instructor] So far, we've talked about how elements can be placed along the X and Y axis, but there's actually a third axis, the Z axis.
 >
-> **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=9)** When an HTML element is added within the same container, the elements are stacked in layers on the Z axis.
+> **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=9)** When an [[HTML]] element is added within the same container, the elements are stacked in layers on the Z axis.
 >
 > **[0:17](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=17)** This is called the stacking context.
 >
@@ -4227,11 +4177,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=38)** In this example, box one and box two are in their own stacking context within the section block.
 >
-> **[0:46](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=46)** The same goes for box three and box four, but the section blocks also have a common containing element, the body tag, which then forms another stacking context.
+> **[0:46](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=46)** The same goes for box three and box four, but the section blocks also have a common containing element, the body tag, which then [[Forms]] another stacking context.
 >
 > **[0:57](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=57)** Elements stack on top of each other by default, so most of the time, it's hard to see how they're stacked on the Z index unless they overlap each other.
 >
-> **[1:06](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=66)** So let's take a look at a CodePen example.
+> **[1:06](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=66)** So let's take a look at a [[CodePen]] example.
 >
 > **[1:10](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=70)** As I mentioned before, CodePen is meant for testing smaller code snippets.
 >
@@ -4241,7 +4191,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=95)** These are always at the bottom of the stack because all other elements are nested inside of them.
 >
-> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=101)** For the rest of the demo, I'll remove the display none style one by one so we can see the default stacking order.
+> **[1:41](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=101)** For the [[Representational State Transfer (REST)|rest]] of the demo, I'll remove the display none style one by one so we can see the default stacking order.
 >
 > **[1:50](https://www.linkedin.com/learning/css-essential-training-2023/position-and-z-index?u=76281980&t=110)** After HTML and body, next in the stack are block elements in the order that they appear in the HTML.
 >
@@ -4287,7 +4237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), [[CodePen]] (2), next (2), [[Forms]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[CodePen]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (7), css (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
@@ -4295,8 +4245,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Fixed positioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980)
+#### [Project: Fixed positioning](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4310,7 +4259,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=33)** Let's switch over to the editor.
 >
-> **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=35)** Even though a fixed position to style can move an element anywhere on the page, I'm going to add the link to the top of the page in the resume.html file just after the opening body tag.
+> **[0:35](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=35)** Even though a fixed position to style can move an element anywhere on the page, I'm going to add the link to the top of the page in the resume.[[HTML]] file just after the opening body tag.
 >
 > **[0:48](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=48)** Without positioning, this link will still display first, giving the user the option to download the PDF right away.
 >
@@ -4354,7 +4303,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=169)** It still needs some more adjustments to make it look more like the button in the final version.
 >
-> **[2:53](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=173)** This will be completed in the typography chapter.
+> **[2:53](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=173)** This will be completed in the [[Typography]] chapter.
 >
 > **[2:57](https://www.linkedin.com/learning/css-essential-training-2023/project-fixed-positioning?u=76281980&t=177)** When building a website, we start with general styles and then get more specific as we build out the pages and fine tune the components.
 >
@@ -4364,7 +4313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3), feature (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Typography]] (1)
 > **Env Vars:** pdf (6), css (3), html (2)
 > **CLI Commands:** make (2)
 > **File Paths:** resume.html (1)
@@ -4378,8 +4327,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Grid and Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-grid-and-flexbox?u=76281980)
+#### [Intro to Grid and Flexbox](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-grid-and-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4409,8 +4357,7 @@ created: 2026-05-02
 >
 > **Speakers:** - flexbox (1)
 
-#### Intro to Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-flexbox?u=76281980)
+#### [Intro to Flexbox](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4454,15 +4401,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexbox: Orientation and ordering
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-orientation-and-ordering?u=76281980)
+#### [Flexbox: Orientation and ordering](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-orientation-and-ordering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4498,7 +4443,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-orientation-and-ordering?u=76281980&t=82)** However, for accessibility reasons, using reverse values should not replace the ordering of the content.
 >
-> **[1:30](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-orientation-and-ordering?u=76281980&t=90)** This should only be used for visual styles since the ordering of the HTML itself is not changed.
+> **[1:30](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-orientation-and-ordering?u=76281980&t=90)** This should only be used for visual styles since the ordering of the [[HTML]] itself is not changed.
 >
 > **[1:36](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-orientation-and-ordering?u=76281980&t=96)** Flex items are arranged on a single axis by default defined by the flex-wrap property.
 >
@@ -4534,14 +4479,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sizing with flex properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/sizing-with-flex-properties?u=76281980)
+#### [Sizing with flex properties](https://www.linkedin.com/learning/css-essential-training-2023/sizing-with-flex-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4597,7 +4541,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdn (1)
 > **Cross-References:** we covered (1)
@@ -4605,14 +4548,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexbox exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-exercise?u=76281980)
+#### [Flexbox exercise](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-exercise?u=76281980&t=0)** - [Instructor] We've just covered some general usage and syntax for various Flexbox sizing properties.
 >
-> **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-exercise?u=76281980&t=5)** Now let's take a closer look at how to use them in a CodePen example.
+> **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-exercise?u=76281980&t=5)** Now let's take a closer look at how to use them in a [[CodePen]] example.
 >
 > **[0:10](https://www.linkedin.com/learning/css-essential-training-2023/flexbox-exercise?u=76281980&t=10)** Let's start by adding display flex to define the flex container.
 >
@@ -4693,8 +4635,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Sticky footer with flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980)
+#### [Project: Sticky footer with flexbox](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4708,7 +4649,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=27)** Because the height of the content and footer as well as the browser window are not set to a specific fixed height, this is a great opportunity to use flex box for flexible sizing.
 >
-> **[0:38](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=38)** Let's go back to the editor and take a look at the current HTML structure of the homepage.
+> **[0:38](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=38)** Let's go back to the editor and take a look at the current [[HTML]] structure of the homepage.
 >
 > **[0:44](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=44)** Here's how we'll implement the sticky footer.
 >
@@ -4800,11 +4741,11 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=322)** There's the margin in the H1, and here is the margin in the paragraphs.
 >
-> **[5:30](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=330)** There are still some adjustments I'd like to make with these default margin values, but as mentioned before, we'll make these updates when we implement the typography styles later in the course.
+> **[5:30](https://www.linkedin.com/learning/css-essential-training-2023/project-sticky-footer-with-flexbox?u=76281980&t=330)** There are still some adjustments I'd like to make with these default margin values, but as mentioned before, we'll make these updates when we implement the [[Typography]] styles later in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3), next (2), [[Typography]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Typography]] (1)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3), later in (1)
@@ -4813,8 +4754,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Aligning flex items
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/aligning-flex-items?u=76281980)
+#### [Aligning flex items](https://www.linkedin.com/learning/css-essential-training-2023/aligning-flex-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4834,7 +4774,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/css-essential-training-2023/aligning-flex-items?u=76281980&t=36)** They can also be used to distribute space between and around the items.
 >
-> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/aligning-flex-items?u=76281980&t=41)** Let's look at a demo in CodePen.
+> **[0:41](https://www.linkedin.com/learning/css-essential-training-2023/aligning-flex-items?u=76281980&t=41)** Let's look at a demo in [[CodePen]].
 >
 > **[0:43](https://www.linkedin.com/learning/css-essential-training-2023/aligning-flex-items?u=76281980&t=43)** Right now, we have three list items contained in an unordered list.
 >
@@ -4889,8 +4829,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[CodePen]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Aligning elements with Flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-aligning-elements-with-flexbox?u=76281980)
+#### [Project: Aligning elements with Flexbox](https://www.linkedin.com/learning/css-essential-training-2023/project-aligning-elements-with-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4966,7 +4905,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **Env Vars:** css (2), img (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -4975,12 +4913,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intro to CSS Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-grid?u=76281980)
+#### [Intro to CSS Grid](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-grid?u=76281980&t=0)** - [Instructor] Before there was CSS Grid, grid-based layouts were a common part of web design.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-grid?u=76281980&t=0)** - [Instructor] Before there was CSS Grid, grid-based layouts were a common part of [[Web Design]].
 >
 > **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-grid?u=76281980&t=5)** Grids are divided into evenly spaced columns with gutters to add consistent spacing between them.
 >
@@ -5034,19 +4971,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The explicit grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-explicit-grid?u=76281980)
+#### [The explicit grid](https://www.linkedin.com/learning/css-essential-training-2023/the-explicit-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/the-explicit-grid?u=76281980&t=0)** - [Instructor] When using the CSS grid layout, the number of grid tracks can be defined with two properties, grid template columns and grid template rows.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/the-explicit-grid?u=76281980&t=0)** - [Instructor] When using the [[CSS Grid Layout]], the number of grid tracks can be defined with two properties, grid template columns and grid template rows.
 >
 > **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/the-explicit-grid?u=76281980&t=9)** These properties are declared in the grid container and each value is separated by a space and represents the number of grid tracks.
 >
@@ -5118,15 +5054,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), next (1)
+> **Frameworks & Libraries:** [[CSS Grid Layout]] (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The implicit grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-implicit-grid?u=76281980)
+#### [The implicit grid](https://www.linkedin.com/learning/css-essential-training-2023/the-implicit-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5174,7 +5109,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/css-essential-training-2023/the-implicit-grid?u=76281980&t=124)** Now, once the explicit row has been filled, the remaining items are placed into an implicit row.
 >
-> **[2:10](https://www.linkedin.com/learning/css-essential-training-2023/the-implicit-grid?u=76281980&t=130)** Let's hide the last three items in the HTML panel and see what happens.
+> **[2:10](https://www.linkedin.com/learning/css-essential-training-2023/the-implicit-grid?u=76281980&t=130)** Let's hide the last three items in the [[HTML]] panel and see what happens.
 >
 > **[2:17](https://www.linkedin.com/learning/css-essential-training-2023/the-implicit-grid?u=76281980&t=137)** We won't see any empty tracks because the implicit grid values will only apply when there are items placed outside of the explicit grid.
 >
@@ -5190,7 +5125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (2)
@@ -5198,12 +5133,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding gutters with the gap property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980)
+#### [Adding gutters with the gap property](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=0)** - [Instructor] In the CSS grid layout, gutters can be added between grid items using the gap property.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=0)** - [Instructor] In the [[CSS Grid Layout]], gutters can be added between grid items using the gap property.
 >
 > **[0:06](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=6)** One value adds the same amount of space between the rows and columns.
 >
@@ -5225,25 +5159,24 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=58)** We've covered many of the foundational grid concepts but CSS grid is an extensive layout module and there's more to learn.
 >
-> **[1:06](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=66)** If you want to dive deeper into CSS grid and Flexbox, there are a variety of courses available in the LinkedIn Learning library.
+> **[1:06](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=66)** If you want to dive deeper into CSS grid and Flexbox, there are a variety of courses available in the [[LinkedIn]] Learning library.
 >
 > **[1:13](https://www.linkedin.com/learning/css-essential-training-2023/adding-gutters-with-the-gap-property?u=76281980&t=73)** Although we've just scratched the surface, we now have enough knowledge to begin incorporating grid into our course project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[CSS Grid Layout]] (1), [[LinkedIn]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Adding columns with Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980)
+#### [Project: Adding columns with Grid](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=1)** - [Instructor] In this project update, we'll use CSS grid to change the Work Experience section into a two-column layout with the job details in the first column and the job summary in the second column.
 >
-> **[0:15](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=15)** Let's start in the resume.html file.
+> **[0:15](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=15)** Let's start in the resume.[[HTML]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=19)** In the Work Experience section, each job is contained within their own section block.
 >
@@ -5265,7 +5198,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=67)** Then we'll add a class.
 >
-> **[1:08](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=68)** I'll call this work-details, and the rest of the content will go into a second div.
+> **[1:08](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=68)** I'll call this work-details, and the [[Representational State Transfer (REST)|rest]] of the content will go into a second div.
 >
 > **[1:16](https://www.linkedin.com/learning/css-essential-training-2023/project-adding-columns-with-grid?u=76281980&t=76)** I'll call this one work-summary.
 >
@@ -5385,7 +5318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (9), html (3)
 > **UI Navigation:** click on (3), open the (1), right-click (1), select the (1)
 > **CLI Commands:** make (4), find (1)
@@ -5399,12 +5332,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Typography for the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980)
+#### [Typography for the web](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980&t=0)** - There are many typography related CSS properties that can be used to change the default styles.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980&t=0)** - There are many [[Typography]] related CSS properties that can be used to change the default styles.
 >
 > **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980&t=5)** Typography refers to the overall design and practice of organizing text to communicate and engage with the reader, and it starts with choosing a typeface.
 >
@@ -5464,14 +5396,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Typography]] (2), css (1)
+> **Frameworks & Libraries:** [[Typography]] (2)
 > **Definitions:** refers to (4), is a  (2)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** css (1)
 > **Speakers:** - there (1)
 
-#### Changing fonts with font-family
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/changing-fonts-with-font-family?u=76281980)
+#### [Changing fonts with font-family](https://www.linkedin.com/learning/css-essential-training-2023/changing-fonts-with-font-family?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5499,7 +5430,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/css-essential-training-2023/changing-fonts-with-font-family?u=76281980&t=67)** The system-ui keyword matches to the default operating systems font, which is usually a sans-serif typeface.
 >
-> **[1:14](https://www.linkedin.com/learning/css-essential-training-2023/changing-fonts-with-font-family?u=76281980&t=74)** For example, Macs use the San Francisco font and Windows uses Segoe UI.
+> **[1:14](https://www.linkedin.com/learning/css-essential-training-2023/changing-fonts-with-font-family?u=76281980&t=74)** For example, Macs use the San Francisco font and [[Windows]] uses Segoe UI.
 >
 > **[1:21](https://www.linkedin.com/learning/css-essential-training-2023/changing-fonts-with-font-family?u=76281980&t=81)** It can also be used as the first option in a font stack to integrate the design with the look and feel of the operating system the user is viewing the website on.
 >
@@ -5531,15 +5462,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), web (3), [[Windows]] (2), css (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Definitions:** known as (2)
 > **URLs:** [cssfontstack.com](https://cssfontstack.com) (1)
 > **Env Vars:** css (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### font-weight and font-style
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/font-weight-and-font-style?u=76281980)
+#### [font-weight and font-style](https://www.linkedin.com/learning/css-essential-training-2023/font-weight-and-font-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5581,7 +5511,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/css-essential-training-2023/font-weight-and-font-style?u=76281980&t=109)** The normal value maps to the normal font and is usually used to remove a default italic or oblique style.
 >
-> **[1:55](https://www.linkedin.com/learning/css-essential-training-2023/font-weight-and-font-style?u=76281980&t=115)** Let's try this out in a CodePen example.
+> **[1:55](https://www.linkedin.com/learning/css-essential-training-2023/font-weight-and-font-style?u=76281980&t=115)** Let's try this out in a [[CodePen]] example.
 >
 > **[1:58](https://www.linkedin.com/learning/css-essential-training-2023/font-weight-and-font-style?u=76281980&t=118)** Both of these properties are inheritable so I can add font weight bold to the header selector and all the nested elements will be bolded.
 >
@@ -5601,17 +5531,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **Env Vars:** css (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Web fonts with @font-face
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-font-face?u=76281980)
+#### [Web fonts with @font-face](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-font-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-font-face?u=76281980&t=0)** - Typography is an important part of web design and in the past, the options of available fonts were limited to a small selection of web-safe fonts.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-font-face?u=76281980&t=0)** - [[Typography]] is an important part of [[Web Design]] and in the past, the options of available fonts were limited to a small selection of web-safe fonts.
 >
 > **[0:09](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-font-face?u=76281980&t=9)** However, with the introduction of the CSS @font-face rule, our options have expanded to include web fonts.
 >
@@ -5659,7 +5588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), css (4), [[Typography]] (1), functional (1)
+> **Frameworks & Libraries:** [[Typography]] (1), [[Web Design]] (1)
 > **Env Vars:** css (4), url (3), woff (2), woff2 (2)
 > **Analogies:** just like (2), such as (2), similar to (1)
 > **Definitions:** is an  (2), means that (1)
@@ -5667,8 +5596,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - typography (1)
 
-#### Web fonts with Google Fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980)
+#### [Web fonts with Google Fonts](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5680,9 +5608,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=12)** Instead, we link directly to their CSS font files.
 >
-> **[0:18](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=18)** Adobe Font is a paid service but if you're already subscribed to other Adobe products, this is a good option because it's included with most Adobe Creative Cloud subscription plans.
+> **[0:18](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=18)** Adobe Font is a paid service but if you're already subscribed to other Adobe [[Microsoft Products|products]], this is a good option because it's included with most [[Adobe Creative Cloud]] subscription plans.
 >
-> **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=28)** But if you're looking to get started with a free service, Google Fonts is a great alternative and it's what we'll be using in our projects.
+> **[0:28](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=28)** But if you're looking to get started with a free service, [[Google]] Fonts is a great alternative and it's what we'll be using in our projects.
 >
 > **[0:36](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=36)** Note that this page design has changed a few times over the years, so it may look different from what is shown here at the time of this recording.
 >
@@ -5716,7 +5644,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=137)** Now you can choose a second font.
 >
-> **[2:19](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=139)** I'll be using a more basic font for the rest of the text in my project. I will go with Open Sans.
+> **[2:19](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=139)** I'll be using a more basic font for the [[Representational State Transfer (REST)|rest]] of the text in my project. I will go with Open Sans.
 >
 > **[2:28](https://www.linkedin.com/learning/css-essential-training-2023/web-fonts-with-google-fonts?u=76281980&t=148)** For this font family, I'll also just choose the regular weight option.
 >
@@ -5740,7 +5668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), css (2), [[Search]] (2), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Products|Products]] (1), [[Adobe Creative Cloud]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** css (2)
@@ -5749,14 +5677,13 @@ created: 2026-05-02
 > **Warnings:** note that (1), caveat (1)
 > **Speakers:** - [presenter] (1)
 
-#### Project: Google Fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980)
+#### [Project: Google Fonts](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=0)** (light music)
 >
-> **[0:03](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=3)** - [Christina] In this project update, we'll add the Google Fonts we selected in the previous lesson to our website.
+> **[0:03](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=3)** - [Christina] In this project update, we'll add the [[Google]] Fonts we selected in the previous lesson to our website.
 >
 > **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=8)** In the Selections panel, we'll see a list of fonts that we chose and the instructions for embedding the fonts.
 >
@@ -5828,11 +5755,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=231)** And they're still bold by default, even though I used a font with a regular font weight.
 >
-> **[3:56](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=236)** In the upcoming lessons, we'll go over font sizing and more typography-related properties which can be used to adjust these default styles.
+> **[3:56](https://www.linkedin.com/learning/css-essential-training-2023/project-google-fonts?u=76281980&t=236)** In the upcoming lessons, we'll go over font sizing and more [[Typography]]-related properties which can be used to adjust these default styles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[Google]] (4), generic (2), web (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Typography]] (1)
 > **Env Vars:** css (5), url (3), csss (2)
 > **CLI Commands:** make (4)
 > **Warnings:** caveat (2), note that (1)
@@ -5841,12 +5768,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** make sure you have (1)
 
-#### The font-size property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980)
+#### [The font-size property](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=0)** - [Instructor] The font-size property defines the size of HTML texts and can be used with a variety of value types.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=0)** - [Instructor] The font-size property defines the size of [[HTML]] texts and can be used with a variety of value types.
 >
 > **[0:07](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=7)** In this lesson, we'll focus on three commonly used types, pixel, em and rem.
 >
@@ -5858,7 +5784,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=42)** Headings are bigger or smaller depending on the heading level.
 >
-> **[0:46](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=46)** The em unit is named after the letter M, which was historically used in typography to measure widths.
+> **[0:46](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=46)** The em unit is named after the letter M, which was historically used in [[Typography]] to measure widths.
 >
 > **[0:53](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=53)** In CSS, em is a relative unit, sized in relation to its closest ancestor element, font-size.
 >
@@ -5876,7 +5802,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=98)** Font sizing added to any other ancestor elements won't affect the rem unit.
 >
-> **[1:45](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=105)** Let's open a CodePen example.
+> **[1:45](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=105)** Let's open a [[CodePen]] example.
 >
 > **[1:48](https://www.linkedin.com/learning/css-essential-training-2023/the-font-size-property?u=76281980&t=108)** The child element is currently displayed with the default text size of 16 pixels.
 >
@@ -5926,7 +5852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Typography]] (1), css (1), [[CodePen]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Typography]] (1), [[CodePen]] (1)
 > **Env Vars:** html (4), css (1)
 > **Definitions:** is an  (1), is a  (1), stands for (1)
 > **Analogies:** for example (2), similar to (1)
@@ -5934,14 +5860,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Font-size and accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980)
+#### [Font-size and accessibility](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=0)** - [Instructor] Setting font sizes in pixels is a common practice, but using relative sizing is often a better choice for accessibility.
 >
-> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=8)** I'm going to demonstrate how relative font sizing works in the browser using the example HTML file from exercise 01_03.
+> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=8)** I'm going to demonstrate how relative font sizing works in the browser using the example [[HTML]] file from exercise 01_03.
 >
 > **[0:17](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=17)** I'm using Firefox, but this will apply to other browsers as well.
 >
@@ -5963,7 +5888,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=79)** This will make the H1 twice as big as the default font size.
 >
-> **[1:24](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=84)** The rest of the headings are sized with M as well.
+> **[1:24](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=84)** The [[Representational State Transfer (REST)|rest]] of the headings are sized with M as well.
 >
 > **[1:26](https://www.linkedin.com/learning/css-essential-training-2023/font-size-and-accessibility?u=76281980&t=86)** The H2 is 1.5 M, and the sizes get progressively smaller the lower you go down with the heading levels.
 >
@@ -6045,7 +5970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 62.5 (4), 1.5 (2), 0.875 (2), 0.5 (1), 1.4 (1)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** make (2)
@@ -6054,8 +5979,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Text-align and text-transform
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980)
+#### [Text-align and text-transform](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6069,7 +5993,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=21)** It's also an inheritable style and used with various keyword values.
 >
-> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=26)** Let's see how these values are applied in a CodePen example.
+> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=26)** Let's see how these values are applied in a [[CodePen]] example.
 >
 > **[0:30](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=30)** For text-align, the keyword, center, is used to center align the text.
 >
@@ -6113,7 +6037,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=177)** As we can see, this is also an inheritable style, uppercase converts all the characters to uppercase.
 >
-> **[3:06](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=186)** The lowercase value will convert all the characters to lowercase, and capitalize will convert only the first letter of each word to uppercase.
+> **[3:06](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=186)** The lowercase value will convert all the characters to lowercase, and capitalize will convert only the first letter of each [[Microsoft Word|word]] to uppercase.
 >
 > **[3:17](https://www.linkedin.com/learning/css-essential-training-2023/text-align-and-text-transform?u=76281980&t=197)** We're going to be exploring a couple more text-related styles, so keep this CodePen example open.
 >
@@ -6127,8 +6051,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Line-height and letter-spacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/line-height-and-letter-spacing?u=76281980)
+#### [Line-height and letter-spacing](https://www.linkedin.com/learning/css-essential-training-2023/line-height-and-letter-spacing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6200,19 +6123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **Versions:** 1.5 (2), 1.2 (2), 1.25 (1), 0.05 (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Typography styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980)
+#### [Project: Typography styles](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=0)** - [Instructor] In this project update, we'll add the rest of the text styles.
+> **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=0)** - [Instructor] In this project update, we'll add the [[Representational State Transfer (REST)|rest]] of the text styles.
 >
 > **[0:07](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=7)** Depending on what font you chose and your design goal, you may find that the text styles and values that you need will be different from mine.
 >
@@ -6226,7 +6147,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=30)** For the font sizing, I'll be using the 62.5 method.
 >
-> **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=33)** So the first step is to declare the font size in the HTML element.
+> **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=33)** So the first step is to declare the font size in the [[HTML]] element.
 >
 > **[0:39](https://www.linkedin.com/learning/css-essential-training-2023/project-typography-styles?u=76281980&t=39)** We already have the declaration block from adding the border-box fix.
 >
@@ -6340,7 +6261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (4), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 62.5 (2), 0.85 (2), 1.5 (1), 1.4 (1), 0.9 (1)
 > **Env Vars:** css (5), html (2)
@@ -6349,8 +6270,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** caveat (1)
 
-#### Project: Buttons and spacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-buttons-and-spacing?u=76281980)
+#### [Project: Buttons and spacing](https://www.linkedin.com/learning/css-essential-training-2023/project-buttons-and-spacing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6446,7 +6366,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/css-essential-training-2023/project-buttons-and-spacing?u=76281980&t=313)** So let's go back to the editor and add these updates.
 >
-> **[5:18](https://www.linkedin.com/learning/css-essential-training-2023/project-buttons-and-spacing?u=76281980&t=318)** Looking at the HTML structure for the work items, the paragraphs in the left column is contained in the work details div.
+> **[5:18](https://www.linkedin.com/learning/css-essential-training-2023/project-buttons-and-spacing?u=76281980&t=318)** Looking at the [[HTML]] structure for the work items, the paragraphs in the left column is contained in the work details div.
 >
 > **[5:28](https://www.linkedin.com/learning/css-essential-training-2023/project-buttons-and-spacing?u=76281980&t=328)** We'll remove all the margins from these paragraphs.
 >
@@ -6514,7 +6434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (6), html (3), pdf (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (4)
@@ -6528,8 +6448,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to responsive design
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980)
+#### [Intro to responsive design](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6543,7 +6462,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=33)** Companies were starting to realize they needed to optimize for smaller screens.
 >
-> **[0:37](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=37)** In 2010, Ethan Marcotte coined the term responsive web design in his article for the publication, "A list apart."
+> **[0:37](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=37)** In 2010, Ethan Marcotte coined the term [[Responsive Web Design]] in his article for the publication, "A list apart."
 >
 > **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=45)** In the article he said, "Fluid grids, flexible images, and media queries are the three technical ingredients for responsive web design."
 >
@@ -6555,17 +6474,16 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=76)** So responsive web design can no longer be an afterthought.
 >
-> **[1:20](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=80)** By creating websites that work seamlessly on any device, we can improve the user experience and make our websites accessible to a wider audience.
+> **[1:20](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980&t=80)** By creating websites that work seamlessly on any device, we can improve the [[User Experience (UX)|user experience]] and make our websites accessible to a wider audience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsive Web Design]] (3), next (1), feature (1), web (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (3), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - when (1)
 
-#### Intro to media queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980)
+#### [Intro to media queries](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6621,7 +6539,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=151)** If you're using a media type with a media feature, the conditions are combined with logical operators.
 >
-> **[2:37](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=157)** The key word "and" combines the type and features into one query.
+> **[2:37](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=157)** The key [[Microsoft Word|word]] "and" combines the type and features into one query.
 >
 > **[2:43](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=163)** You can also create more complex queries using "and" to combine multiple media features.
 >
@@ -6647,7 +6565,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=241)** Let's say you want to create one just for mobile styles.
 >
-> **[4:04](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=244)** The style sheet is loaded into the HTML file with the link tag, just like any other CSS file, but a media attribute must also be added.
+> **[4:04](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=244)** The style sheet is loaded into the [[HTML]] file with the link tag, just like any other CSS file, but a media attribute must also be added.
 >
 > **[4:14](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-media-queries?u=76281980&t=254)** The media type and feature is added as the media value.
 >
@@ -6657,7 +6575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (15), feature (3), next (2), [[Microsoft Word|Word]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Env Vars:** css (15), mdn (2), w3c (1), html (1)
 > **Analogies:** such as (3), similar to (2), just like (2), for example (1), for instance (1)
 > **Documentation:** mdn (2), specification (1), w3c (1)
@@ -6666,8 +6584,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breakpoints and media queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/breakpoints-and-media-queries?u=76281980)
+#### [Breakpoints and media queries](https://www.linkedin.com/learning/css-essential-training-2023/breakpoints-and-media-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6675,7 +6592,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/css-essential-training-2023/breakpoints-and-media-queries?u=76281980&t=5)** A breakpoint is the point where the media query is introduced to make these changes.
 >
-> **[0:11](https://www.linkedin.com/learning/css-essential-training-2023/breakpoints-and-media-queries?u=76281980&t=11)** In responsive web design, this is often a specific width of a screen or browser view port.
+> **[0:11](https://www.linkedin.com/learning/css-essential-training-2023/breakpoints-and-media-queries?u=76281980&t=11)** In [[Responsive Web Design]], this is often a specific width of a screen or browser view port.
 >
 > **[0:18](https://www.linkedin.com/learning/css-essential-training-2023/breakpoints-and-media-queries?u=76281980&t=18)** In the early days of responsive design, it was common to use two to four breakpoints to target the width of specific device types, mobile, tablet, laptops, and desktops.
 >
@@ -6745,7 +6662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), feature (2), [[Responsive Web Design]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
@@ -6753,14 +6670,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fluid layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/fluid-layouts?u=76281980)
+#### [Fluid layouts](https://www.linkedin.com/learning/css-essential-training-2023/fluid-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-essential-training-2023/fluid-layouts?u=76281980&t=0)** - [Instructor] We've talked about how to use media queries to make changes for any viewport width, but do we always need to use a media query?
 >
-> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/fluid-layouts?u=76281980&t=8)** Remember, there are three ingredients for responsive web design: fluid layouts, flexible images, and media queries.
+> **[0:08](https://www.linkedin.com/learning/css-essential-training-2023/fluid-layouts?u=76281980&t=8)** Remember, there are three ingredients for [[Responsive Web Design]]: fluid layouts, flexible images, and media queries.
 >
 > **[0:17](https://www.linkedin.com/learning/css-essential-training-2023/fluid-layouts?u=76281980&t=17)** Building your website on a flexible foundation first means you don't need to use media queries to target every possible size.
 >
@@ -6798,15 +6714,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsive Web Design]] (1), css (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (1)
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The viewport meta tag
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980)
+#### [The viewport meta tag](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6816,13 +6731,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=17)** By default, mobile browsers would scale down the websites to fit the device screen, presenting a zoomed out version of the desktop layout.
 >
-> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=26)** With touchscreens, users can pinch and zoom in and out of different parts of the website.
+> **[0:26](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=26)** With touchscreens, users can pinch and [[Zoom]] in and out of different parts of the website.
 >
 > **[0:32](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=32)** Mobile browsers still use this default behavior today.
 >
 > **[0:36](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=36)** When adding responsive styles and media queries, we need to disable the scaling so your mobile optimized styles display as intended.
 >
-> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=45)** We can do that using an HTML tag, often referred to as the viewport meta tag because it provides the browser with information about the viewport.
+> **[0:45](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=45)** We can do that using an [[HTML]] tag, often referred to as the viewport meta tag because it provides the browser with information about the viewport.
 >
 > **[0:56](https://www.linkedin.com/learning/css-essential-training-2023/the-viewport-meta-tag?u=76281980&t=56)** The HTML template for the course project already includes this tag in the head section, so there's no need to add it again, but for reference, this is what it looks like.
 >
@@ -6842,15 +6757,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[HTML]] (2)
 > **Env Vars:** html (2), css (1)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing responsive layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/testing-responsive-layouts?u=76281980)
+#### [Testing responsive layouts](https://www.linkedin.com/learning/css-essential-training-2023/testing-responsive-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6878,7 +6792,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/css-essential-training-2023/testing-responsive-layouts?u=76281980&t=84)** I'll collapse it just to be able to have more space in the CSS panel.
 >
-> **[1:28](https://www.linkedin.com/learning/css-essential-training-2023/testing-responsive-layouts?u=76281980&t=88)** Most responsive changes tend to be based on widths, so if we hover over the body element in the HTML panel we can see the width of the viewport.
+> **[1:28](https://www.linkedin.com/learning/css-essential-training-2023/testing-responsive-layouts?u=76281980&t=88)** Most responsive changes tend to be based on widths, so if we hover over the body element in the [[HTML]] panel we can see the width of the viewport.
 >
 > **[1:39](https://www.linkedin.com/learning/css-essential-training-2023/testing-responsive-layouts?u=76281980&t=99)** This can be helpful for identifying breakpoints.
 >
@@ -6908,7 +6822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** select the (4), dropdown (2)
 > **Env Vars:** css (2), html (1)
 > **Tools:** firefox (3)
@@ -6916,8 +6830,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Breakpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-breakpoints?u=76281980)
+#### [Project: Breakpoints](https://www.linkedin.com/learning/css-essential-training-2023/project-breakpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6991,15 +6904,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Project: Media queries: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-1?u=76281980)
+#### [Project: Media queries: Part 1](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7219,7 +7130,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (2), feature (1), hit (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (5), we talked about (1), in the next (1)
 > **Env Vars:** css (5), pdf (1)
@@ -7228,8 +7138,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Media queries: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-2?u=76281980)
+#### [Project: Media queries: Part 2](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7323,7 +7232,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-2?u=76281980&t=300)** So let's see if changing the "and" to a plus symbol will give me any more space.
 >
-> **[5:06](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-2?u=76281980&t=306)** To edit the HTML in the browser dev tools right click and choose edit as HTML.
+> **[5:06](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-2?u=76281980&t=306)** To edit the [[HTML]] in the browser dev tools right click and choose edit as HTML.
 >
 > **[5:14](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-2?u=76281980&t=314)** Then change whatever you'd like.
 >
@@ -7381,7 +7290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (4), html (2), htmo (1)
 > **CLI Commands:** make (5)
 > **Versions:** 2.6 (3), 2.7 (1), 2.8 (1)
@@ -7390,8 +7299,7 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Analogies:** just like (1)
 
-#### Project: Media queries: Part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-3?u=76281980)
+#### [Project: Media queries: Part 3](https://www.linkedin.com/learning/css-essential-training-2023/project-media-queries-part-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7501,7 +7409,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (1), picture (1)
 > **Env Vars:** css (1)
@@ -7514,8 +7421,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing beyond the essentials with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/continuing-beyond-the-essentials-with-css?u=76281980)
+#### [Continuing beyond the essentials with CSS](https://www.linkedin.com/learning/css-essential-training-2023/continuing-beyond-the-essentials-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7533,7 +7439,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** css (4)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)

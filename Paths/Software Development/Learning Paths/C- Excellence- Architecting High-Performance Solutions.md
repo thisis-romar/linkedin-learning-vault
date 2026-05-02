@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/c-sharp-excellence-architecting-hig
 course_count: 6
 linkedin_topics:
   - Software Development
-louvain_cluster: 3
+louvain_cluster: 14
 tags:
   - learning-path
   - topic/software-development

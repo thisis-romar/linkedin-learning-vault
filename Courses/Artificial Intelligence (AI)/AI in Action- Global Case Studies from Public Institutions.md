@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980)
+#### [AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:12](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=12)** Artificial intelligence is transforming how societies address major global challenges.
+> **[0:12](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=12)** [[Artificial Intelligence (AI)|Artificial intelligence]] is transforming how societies address major global challenges.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=17)** At the same time, the benefits of AI are not evenly distributed.
 >
@@ -88,9 +87,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=31)** In this course, researchers from the UN University present real-world examples from around the globe to explore how AI can contribute to the Sustainable Development Goals.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=40)** The course introduces practical applications of AI across areas such as education, agriculture, urban services, public health, and disaster preparedness.
+> **[0:40](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=40)** The course introduces practical applications of AI across areas such as education, agriculture, urban services, [[Public Health]], and disaster preparedness.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=49)** It also examines topics including generative AI, AI literacy, and challenges related to bias and fairness in AI systems.
+> **[0:49](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=49)** It also examines topics including [[Generative AI]], [[AI Literacy]], and challenges related to bias and fairness in AI systems.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980&t=57)** By taking this course, you'll gain a deeper understanding of how AI can help address global challenges.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Public Health]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Public Health]] (1), [[Generative AI]] (1), [[AI Literacy]] (1)
 > **Analogies:** such as (1)
 
 
@@ -112,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-powered disease surveillance through wastewater
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980)
+#### [AI-powered disease surveillance through wastewater](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=47)** When people are infected, they shed tiny traces of viruses or bacteria into sewage.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=55)** By measuring those traces and using AI to spot patterns over time, public health teams can detect rising risk before clinics and hospitals see a surge in admissions.
+> **[0:55](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=55)** By measuring those traces and using AI to spot patterns over time, [[Public Health]] teams can detect rising risk before clinics and hospitals see a surge in admissions.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=69)** In many cities around the world during the COVID-19 pandemic, for example, wastewater signals for the coronavirus rose one to three weeks before hospital admissions increased.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=181)** In many ways, this approach echoes the origins of public health itself.
 >
-> **[3:08](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=188)** In the 1850s, John Snow, often called the father of epidemiology in the West, mapped cholera cases in London and traced them back to a single water source, the Broad Street pump.
+> **[3:08](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=188)** In the 1850s, [[John the Ripper|John]] Snow, often called the father of epidemiology in the West, mapped cholera cases in London and traced them back to a single water source, the Broad Street pump.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980&t=203)** He didn't know about bacteria yet, but he used environmental data and mapping to reveal a hidden pattern and prevent further deaths.
 >
@@ -181,13 +179,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Public Health]] (3), data (2), teams (1)
+> **Frameworks & Libraries:** [[Public Health]] (3), [[John the Ripper|John]] (1)
 > **Warnings:** warning (2)
 > **Env Vars:** covid (1)
 > **Analogies:** for example (1)
 
-#### AI-based risk mapping for water and sanitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-risk-mapping-for-water-and-sanitation?u=76281980)
+#### [AI-based risk mapping for water and sanitation](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-risk-mapping-for-water-and-sanitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-risk-mapping-for-water-and-sanitation?u=76281980&t=155)** Using spatial models and machine learning techniques, They asked, where will groundwater contamination risk increase over time if current practices continue?
 >
-> **[2:48](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-risk-mapping-for-water-and-sanitation?u=76281980&t=168)** The results were stark.
+> **[2:48](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-risk-mapping-for-water-and-sanitation?u=76281980&t=168)** The results were [[Stark (Accessibility Software)|stark]].
 >
 > **[2:51](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-risk-mapping-for-water-and-sanitation?u=76281980&t=171)** Under a business as usual scenario, the number of drinking water points at risk of microbial contamination is projected to triple by 2070.
 >
@@ -255,13 +252,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Stark (Accessibility Software)|Stark]] (1), business (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wash (1)
 > **Definitions:** known as (1)
 
-#### AI-based cholera risk forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980)
+#### [AI-based cholera risk forecasting](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=97)** Heavy rainfall and flooding, for example, increase contamination of drinking water sources, while warmer temperatures support the bacteria's survival and proliferation.
 >
-> **[1:50](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=110)** As climate change extremes increase, heavier rains, heat waves, and coastal warming, the risk of outbreak is becoming harder to predict using traditional methods alone.
+> **[1:50](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=110)** As [[Climate Change]] extremes increase, heavier rains, heat waves, and coastal warming, the risk of outbreak is becoming harder to predict using traditional methods alone.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=124)** This is where AI comes in.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=261)** The key takeaway is this.
 >
-> **[4:24](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=264)** AI is most powerful when it supports our ability to anticipate rather than just react.
+> **[4:24](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=264)** AI is most powerful when it supports our ability to anticipate rather than just [[React.js|react]].
 >
 > **[4:32](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-cholera-risk-forecasting?u=76281980&t=272)** In a warming world, the ability to act earlier, guided by environmental signals, can save lives and protect scarce water and health resources.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (2), prompt (1), [[Climate Change]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[React.js|React]] (1)
 > **Warnings:** warning (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -343,8 +339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Global Goals potential of small AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980)
+#### [The Global Goals potential of small AI](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980&t=9)** Technology can help narrow inequalities, but it also carries risks of widening existing digital divides, where there may be access, affordability, or ability constraints.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980&t=19)** Artificial intelligence is advancing at a rapid clip, offering productivity, innovation, economic, health, education, social, services, and other gains to those who can access and utilize it effectively.
+> **[0:19](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980&t=19)** [[Artificial Intelligence (AI)|Artificial intelligence]] is advancing at a rapid clip, offering productivity, innovation, economic, health, education, social, services, and other gains to those who can access and utilize it effectively.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980&t=32)** Yet the Global South is at risk of being left behind.
 >
@@ -374,12 +369,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** sdg (1)
 > **Analogies:** for example (1)
 
-#### Small AI applications in the Global South
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/small-ai-applications-in-the-global-south?u=76281980)
+#### [Small AI applications in the Global South](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/small-ai-applications-in-the-global-south?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +407,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (1), management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sms (1)
 > **Analogies:** for instance (1)
@@ -423,8 +416,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI for social services in Asia-Pacific
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980)
+#### [AI for social services in Asia-Pacific](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980&t=45)** In a rapidly aging city, AI helps reduce isolation and prevent so-called solitary deaths.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980&t=53)** Now, let's shift to a public health emergency.
+> **[0:53](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980&t=53)** Now, let's shift to a [[Public Health]] emergency.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980&t=57)** During the COVID-19 pandemic, an AI-powered chatbot called Kira was launched in several cities in the Philippines.
 >
@@ -470,12 +462,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Public Health]] (2), chatbot (1)
+> **Frameworks & Libraries:** [[Public Health]] (2)
 > **Env Vars:** covid (1)
 > **Analogies:** such as (1)
 
-#### AI for urban management and city operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980)
+#### [AI for urban management and city operations](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +478,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=15)** Take traffic management.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=16)** In Hangzhou, China, the city's CityBrain platform uses computer vision and predictive analytics to manage traffic flows in one of the country's busiest urban areas.
+> **[0:16](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=16)** In Hangzhou, China, the city's CityBrain platform uses [[Computer Vision]] and [[Predictive Analytics]] to manage traffic flows in one of the country's busiest urban areas.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=28)** AI analyzes live video feeds, adjusts traffic signals, detects accidents, and suggests alternative routes.
 >
@@ -499,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=59)** This significantly reduces energy consumption while maintaining safety.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=65)** It is a powerful example of how small, intelligent adjustments can deliver big sustainability gains.
+> **[1:05](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=65)** It is a powerful example of how small, intelligent adjustments can deliver big [[Sustainability]] gains.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=72)** And AI isn't just helping residents.
 >
@@ -513,19 +504,18 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=101)** The broader lesson is this.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=103)** AI helps cities move from reactive management to proactive data-driven decision making by optimizing traffic, energy, and services, cities can do more with limited resources, improving quality of life for residents and visitors alike.
+> **[1:43](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-urban-management-and-city-operations?u=76281980&t=103)** AI helps cities move from reactive management to proactive [[Data-driven Decision Making]] by optimizing traffic, energy, and services, cities can do more with limited resources, improving quality of life for residents and visitors alike.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), ai (6), management (2), [[Computer Vision]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Predictive Analytics]] (1), [[Sustainability]] (1), [[Data-driven Decision Making]] (1)
 > **Definitions:** is a  (1)
 
-#### AI for disaster resilience and environmental sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980)
+#### [AI for disaster resilience and environmental sustainability](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=0)** Climate change, disasters, and environmental pressures are reshaping cities nowadays.
+> **[0:00](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=0)** [[Climate Change]], disasters, and environmental pressures are reshaping cities nowadays.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=7)** In these moments, speed, accuracy, and coordination matter, and AI is becoming a tool for resilience.
 >
@@ -539,13 +529,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=39)** It also comes from citizens.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=42)** In Jakarta, Indonesia, the platform Pedah Bainkana gathers real-time disaster reports from citizens through their social media channels.
+> **[0:42](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=42)** In Jakarta, Indonesia, the platform Pedah Bainkana gathers [[Real-Time]] disaster reports from citizens through their social media channels.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=51)** AI analyzes and verifies these reports, transforming them into live maps of flooding and other hazards.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=59)** This allows emergency responders and residents to act in real-time when every minute counts.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=66)** AI also supports everyday environmental sustainability.
+> **[1:06](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=66)** AI also supports everyday [[Environmental Sustainability]].
 >
 > **[1:10](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-disaster-resilience-and-environmental-sustainability?u=76281980&t=70)** In Yokohama, Japan, the EO chatbot helps residents correctly sort and dispose waste.
 >
@@ -559,23 +549,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Real-Time]] (2), [[Climate Change]] (1), data (1), [[Environmental Sustainability]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Climate Change]] (1), [[Environmental Sustainability]] (1)
 
 
 ### 4. Youth Perspectives on Generative AI
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI use among young adults
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980)
+#### [Generative AI use among young adults](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=5)** If you were to pick a young person at random in a context where they have ready access to technology, it's highly likely that they will have used generative AI tools, and an increasingly large number of them will use these tools multiple times a day.
+> **[0:05](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=5)** If you were to pick a young person at random in a context where they have ready access to technology, it's highly likely that they will have used [[Generative AI Tools]], and an increasingly large number of them will use these tools multiple times a day.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=19)** But it's also highly likely that your first assumptions about how and why they use these tools won't be entirely accurate.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=26)** It's true that young adults are usually the first to embrace new technologies, and generative AI is no exception, but they don't do this without meaning.
+> **[0:26](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=26)** It's true that young adults are usually the first to embrace new technologies, and [[Generative AI]] is no exception, but they don't do this without meaning.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=35)** So do we really know how and why young adults use AI tools?
 >
@@ -607,25 +596,24 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=122)** And young people need critical skills to support them in the healthy ways to use these tools.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=129)** So AI literacy isn't just about technical skills, it's about empowering and preparing young people for an AI-driven future.
+> **[2:09](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980&t=129)** So [[AI Literacy]] isn't just about technical skills, it's about empowering and preparing young people for an AI-driven future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Generative AI Tools]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1), [[Generative AI]] (1), [[AI Literacy]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 
-#### Hope and concern about generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980)
+#### [Hope and concern about generative AI](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=0)** A balance of hopes and concerns about new technologies and their impacts on private and social life is a part of the human condition.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=7)** When the telegraph and telephone were first invented, there were worries about privacy and the impacts on social connection, just as there were anticipations about the economic benefits, very similarly to our thoughts and feelings about the internet and social media nowadays.
+> **[0:07](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=7)** When the telegraph and telephone were first invented, there were worries about [[Privacy]] and the impacts on social connection, just as there were anticipations about the economic benefits, very similarly to our thoughts and feelings about the internet and social media nowadays.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=24)** Therefore, it's not surprising that there's both hype and fear about generative AI, and understanding these feelings really matters because they have impacts on both the uptake and the use of these technologies.
+> **[0:24](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=24)** Therefore, it's not surprising that there's both hype and fear about [[Generative AI]], and understanding these feelings really matters because they have impacts on both the uptake and the use of these technologies.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=37)** In our research, we found that young adults feel optimistic about AI.
 >
@@ -645,25 +633,24 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=89)** How do we balance convenience and creativity?
 >
-> **[1:33](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=93)** How do we ensure fairness and accountability?
+> **[1:33](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=93)** How do we ensure fairness and [[Accountability]]?
 >
 > **[1:36](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=96)** Young people are not passive consumers of technology or AI.
 >
 > **[1:40](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=100)** They can be active participants in unlocking the benefits and reducing the risks, if they are given space to input.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=107)** They want to be part of the conversation about ethics, policy, and design.
+> **[1:47](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=107)** They want to be part of the conversation about [[Ethics]], policy, and design.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/hope-and-concern-about-generative-ai?u=76281980&t=111)** And listening to the perspectives can help create better technologies and policies that are inclusive, ethical, and empowering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Privacy]] (1), [[Generative AI]] (1), [[Accountability]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Generative AI]] (1), [[Accountability]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### AI anxieties in a broader social context
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980)
+#### [AI anxieties in a broader social context](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +660,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=13)** But we still face global conflict, health crises, increasing economic inequity and costs of living.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=21)** Generative AI has been developed during this era, but we often treat the development of technology is distinct from the context in which it is developed.
+> **[0:21](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=21)** [[Generative AI]] has been developed during this era, but we often treat the development of technology is distinct from the context in which it is developed.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=30)** Our research shows that AI anxieties don't exist in isolation.
 >
@@ -699,7 +686,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=114)** In this example, both the risks and opportunities of AI are equally valid.
 >
-> **[1:59](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=119)** This highlights why conversations around AI must include broader social issues such as justice, sustainability, and resilience.
+> **[1:59](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=119)** This highlights why conversations around AI must include broader social issues such as justice, [[Sustainability]], and resilience.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-anxieties-in-a-broader-social-context?u=76281980&t=129)** Our research finds that education and skills development in AI can reduce risks and unlock the potentials of AI for everybody.
 >
@@ -707,15 +694,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Sustainability]] (1)
 
 
 ### 5. AI and the Global Goals
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI design for the Global Goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980)
+#### [AI design for the Global Goals](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,30 +713,29 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=27)** Here at the United Nations University, in our institute in Macau, we include the Sustainable Development Goals in the way we code the tools that we design to inform decision making.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=42)** Therefore, we include the Capability Approach for Human Development that underpins the UN SDGs in the way that agents that represent people or institutions behave in simulations that inform decision-making in different areas such as digital inclusion or financial inclusion or situations in a potential pandemic or education.
+> **[0:42](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=42)** Therefore, we include the Capability Approach for Human Development that underpins the UN SDGs in the way that agents that represent people or institutions behave in simulations that inform [[Decision-Making]] in different areas such as digital inclusion or financial inclusion or situations in a potential pandemic or education.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=71)** We also use these tools to identify new indicators based on the information that people all around the world publish in social networks or the news in the media that is online.
 >
 > **[1:25](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=85)** I want to highlight that AI research happens all around the world and there is excellent research being conducted in the Global South.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=96)** Organizations such as Deep Learning Indaba, for example, need to be mentioned explicitly because they give the opportunity to researchers all across Africa to showcase their work, to be trained, to have a voice, and definitely they are a very important stakeholder in the global AI research landscape because they focus on solving problems for the local communities and across Africa, not only on publishing, but also on acting in the realities.
+> **[1:36](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=96)** Organizations such as [[Deep Learning]] Indaba, for example, need to be mentioned explicitly because they give the opportunity to researchers all across Africa to showcase their work, to be trained, to have a voice, and definitely they are a very important stakeholder in the global AI research landscape because they focus on solving problems for the local communities and across Africa, not only on publishing, but also on acting in the realities.
 >
 > **[2:11](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980&t=131)** Therefore, I think the whole world has to learn from the very good research that is happening in the global South.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Decision-Making]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Deep Learning]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
 
-#### AI-based indicators for Global Goals progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980)
+#### [AI-based indicators for Global Goals progress](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=0)** Huge AI research efforts are being dedicated to mitigating the biases in generative AI tools, namely in large language models.
+> **[0:00](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=0)** Huge AI research efforts are being dedicated to mitigating the biases in [[Generative AI Tools]], namely in [[Large Language Models (LLM)|large language models]].
 >
-> **[0:13](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=13)** This is very important because these tools are increasingly being used in high-stake domains to inform and to support decision-making in topics such as education or health or infrastructure, also in industry.
+> **[0:13](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=13)** This is very important because these tools are increasingly being used in high-stake domains to inform and to support [[Decision-Making]] in topics such as education or health or infrastructure, also in industry.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=29)** Therefore, mitigating biases is key.
 >
@@ -772,7 +757,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=115)** By tracking public opinion, we can also influence poverty through the policies.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=122)** Therefore, AI tools like generative AI are interesting tools that are being researched right now, and we are conducting this kind of research to act towards, to advance the SDGs by acting on public opinion.
+> **[2:02](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=122)** Therefore, AI tools like [[Generative AI]] are interesting tools that are being researched right now, and we are conducting this kind of research to act towards, to advance the SDGs by acting on public opinion.
 >
 > **[2:18](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-based-indicators-for-global-goals-progress?u=76281980&t=138)** And we are working on this in collaboration with institutions such as the Lucy Family Institute for Data and Society from the University of Notre Dame and the National Research Council Canada.
 >
@@ -780,11 +765,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), data (2), [[Generative AI Tools]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1), [[Generative AI]] (1)
 > **Analogies:** such as (3), for example (1)
 
-#### Digital twins and AI simulation for the Global Goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980)
+#### [Digital twins and AI simulation for the Global Goals](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,13 +780,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=33)** This is where AI comes into place.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=37)** At the United Nations University and our institute in Macau, we are conducting research with different regions of the world to use AI tools as a support for decision-making to advance the SDGs.
+> **[0:37](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=37)** At the United Nations University and our institute in Macau, we are conducting research with different regions of the world to use AI tools as a support for [[Decision-Making]] to advance the SDGs.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=50)** For example, we call it digital twins or multi-agent systems.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=54)** What we do is we reproduce a city or a region with agents that can be people or institutions to evaluate the impact of different what-if scenarios in contexts such as education or health or financial inclusion or digital inclusion.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=74)** For this, we advance research in a variety of AI topics such as agent-based modeling or reinforcement learning, or LLM agents, or the combination of these different tools.
+> **[1:14](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=74)** For this, we advance research in a variety of AI topics such as agent-based modeling or [[Reinforcement Learning]], or LLM agents, or the combination of these different tools.
 >
 > **[1:29](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/digital-twins-and-ai-simulation-for-the-global-goals?u=76281980&t=89)** So this is kind of homemade UN AI research.
 >
@@ -818,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (2), [[Decision-Making]] (1), [[Reinforcement Learning]] (1), llm (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Reinforcement Learning]] (1)
 > **Env Vars:** unesco (3), llm (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)

@@ -65,18 +65,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try your SQL programming skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980)
+#### [Try your SQL programming skills](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=0)** - [Scott] Data drives our world and SQL is the language we often use to work with that data.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=0)** - [Scott] Data drives our world and [[SQL]] is the language we often use to work with that data.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=5)** Querying databases with SQL gives us the ability to explore, analyze, and most importantly, use all kinds of data.
+> **[0:05](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=5)** Querying [[Databases]] with SQL gives us the ability to explore, analyze, and most importantly, use all kinds of data.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=12)** In this code challenge course, you can test your knowledge of window functions in SQL to build your confidence working with the various data analysis and reporting tools that many SQL-compatible relational database management systems provide.
+> **[0:12](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=12)** In this code challenge course, you can test your knowledge of window functions in SQL to build your confidence working with the various data analysis and reporting tools that many SQL-compatible relational [[Database Management]] systems provide.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=24)** I've put together five code challenges that cover commonly used SQL window functions which help form the foundation of data reporting and other data-driven tasks.
+> **[0:24](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=24)** I've put together five code challenges that cover commonly used SQL window functions which help form the foundation of [[Data Reporting]] and other data-driven tasks.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=33)** Build and test your solutions to these challenges in the built-in interactive coding environment.
 >
@@ -84,28 +83,27 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=39)** And when you finish your solution to each challenge, take a look at my solution videos to see how I solve them.
 >
-> **[0:45](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=45)** I'm Scott Simpson, senior staff instructor at LinkedIn Learning.
+> **[0:45](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=45)** I'm Scott Simpson, senior staff instructor at [[LinkedIn]] Learning.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-practice-window-functions/try-your-sql-programming-skills?u=76281980&t=48)** If you're ready to try out your SQL window function skills, let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (6), [[Databases]] (1), database (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (1), [[Database Management]] (1), [[Data Reporting]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (6)
 > **Speakers:** - [scott] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=0)** - [Narrator] In this Code Challenge course, I expect you to be familiar with using window functions in SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=0)** - [Narrator] In this Code Challenge course, I expect you to be familiar with using window functions in [[SQL]].
 >
 > **[0:05](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=5)** We'll explore a couple of common window functions that are widely used in data analysis and reporting.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=10)** The challenges start out with some fundamentals, and become more involved as the course moves on.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=15)** If you need to refresh your SQL knowledge, take a look at these courses in the LinkedIn Learning Library.
+> **[0:15](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=15)** If you need to refresh your SQL knowledge, take a look at these courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-practice-window-functions/what-you-should-know?u=76281980&t=21)** In the challenges, we provide a database that describes a small neighborhood restaurant.
 >
@@ -125,15 +123,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (2), [[LinkedIn]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (2)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explore the lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/explore-the-lab-environment?u=76281980)
+#### [Explore the lab environment](https://www.linkedin.com/learning/sql-practice-window-functions/explore-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-practice-window-functions/explore-the-lab-environment?u=76281980&t=12)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:19](https://www.linkedin.com/learning/sql-practice-window-functions/explore-the-lab-environment?u=76281980&t=19)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:19](https://www.linkedin.com/learning/sql-practice-window-functions/explore-the-lab-environment?u=76281980&t=19)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-practice-window-functions/explore-the-lab-environment?u=76281980&t=26)** The code challenge has three areas; instructions in the top left, a console for output in the bottom left, and a code editor for your answer on the right.
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -175,8 +172,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Calculate a running total
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-1-calculate-a-running-total?u=76281980)
+#### [Solution: Calculate a running total](https://www.linkedin.com/learning/sql-practice-window-functions/solution-1-calculate-a-running-total?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,13 +206,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (1)
 > **Env Vars:** sum (1), order (1)
 > **SQL:** order by (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Summarize weekly pay by department
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-2-summarize-weekly-pay-by-department?u=76281980)
+#### [Solution: Summarize weekly pay by department](https://www.linkedin.com/learning/sql-practice-window-functions/solution-2-summarize-weekly-pay-by-department?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,12 +236,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Rank department employees by pay
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-3-rank-employees-by-pay-in-their-department?u=76281980)
+#### [Solution: Rank department employees by pay](https://www.linkedin.com/learning/sql-practice-window-functions/solution-3-rank-employees-by-pay-in-their-department?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,12 +273,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Compare order totals over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-4-compare-order-totals-over-time?u=76281980)
+#### [Solution: Compare order totals over time](https://www.linkedin.com/learning/sql-practice-window-functions/solution-4-compare-order-totals-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,12 +330,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), next (1)
 > **Env Vars:** cte (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Moving average
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980)
+#### [Solution: Moving average](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +393,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=140)** And when we get to the third row, this value will be the price for the current row plus the price for the previous row plus the price for the row above that divided by three.
 >
-> **[2:28](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=148)** At this point, we have three rows in the window and this pattern will continue with a window of three rows for the rest of each customer's orders.
+> **[2:28](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=148)** At this point, we have three rows in the window and this pattern will continue with a window of three rows for the [[Representational State Transfer (REST)|rest]] of each customer's orders.
 >
 > **[2:36](https://www.linkedin.com/learning/sql-practice-window-functions/solution-5-moving-average?u=76281980&t=156)** When we reach the end of a customer's order records, we move on to the next customer and start the process again.
 >
@@ -423,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -433,22 +421,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980&t=0)** - [Scott] If you are able to solve these challenges, congratulations.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980&t=3)** And if not, take some time to refresh your knowledge of SQL Window functions and come back and try again.
+> **[0:03](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980&t=3)** And if not, take some time to refresh your knowledge of [[SQL]] Window functions and come back and try again.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980&t=9)** If you're ready to move on and solve more challenges, take a look at our other interactive SQL Code Challenge courses here on LinkedIn Learning.
+> **[0:09](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980&t=9)** If you're ready to move on and solve more challenges, take a look at our other interactive SQL Code Challenge courses here on [[LinkedIn]] Learning.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-practice-window-functions/next-steps?u=76281980&t=15)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 

@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why inclusivity matters in a tech team
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980)
+#### [Why inclusivity matters in a tech team](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,9 +80,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=3)** Today's leaders have to be inspirational and aspirational.
 >
-> **[0:06](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=6)** They need to set vision for their company, motivate people, convert skeptics into believers, find new markets, imagine new products.
+> **[0:06](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=6)** They need to set vision for their company, motivate people, convert skeptics into believers, find new markets, imagine new [[Microsoft Products|products]].
 >
-> **[0:14](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=14)** Just like John Lennon, they need to be dreamers, but they also need to make sure that they're not the only ones.
+> **[0:14](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=14)** Just like [[John the Ripper|John]] Lennon, they need to be dreamers, but they also need to make sure that they're not the only ones.
 >
 > **[0:20](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=20)** But dreams, aspirations, and ambitions do not pay the bills.
 >
@@ -137,7 +136,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=165)** In other words, inclusivity will help you scale.
 >
-> **[2:49](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=169)** Think about all the money businesses spend doing focus groups, running advertising, doing customer analysis, all of that is necessary, but those are investments.
+> **[2:49](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=169)** Think about all the money businesses spend doing focus groups, running advertising, doing [[Customer Analysis]], all of that is necessary, but those are investments.
 >
 > **[3:00](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980&t=180)** They're often meant to prevent the worst from happening or as a feel safe, just to make sure you're on the right track.
 >
@@ -149,7 +148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), feature (1), product (1), [[Customer Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[John the Ripper|John]] (1), [[Customer Analysis]] (1)
 > **CLI Commands:** make (7), find (3)
 > **Definitions:** is a  (2), in other words (2), is called (1)
 > **Analogies:** imagine (1), just like (1)
@@ -160,8 +159,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Help make you a multidimensional leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980)
+#### [Help make you a multidimensional leader](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=11)** Today's managers have to lead teams that include several different backgrounds.
 >
-> **[0:15](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=15)** They're also in charge of a roadmap and products that need to be adopted by people all over the world in order to be truly successful.
+> **[0:15](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=15)** They're also in charge of a roadmap and [[Microsoft Products|products]] that need to be adopted by people all over the world in order to be truly successful.
 >
 > **[0:22](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=22)** But let's assume you're not a manager and you have no direct authority over the people you're leading.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=68)** So how does inclusivity help in meeting this significant challenge?
 >
-> **[1:13](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=73)** The reality is that inclusivity will help you become the kind of leader that is more flexible and more agile, so you can meet these challenges that seem to come out of nowhere in the middle of a busy day, a busy week, a busy quarter and a busy year.
+> **[1:13](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=73)** The reality is that inclusivity will help you become the kind of leader that is more flexible and more [[Agile Development|agile]], so you can meet these challenges that seem to come out of nowhere in the middle of a busy day, a busy week, a busy quarter and a busy year.
 >
 > **[1:27](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=87)** Here's what you can do as a multidimensional leader.
 >
@@ -227,7 +225,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=157)** Gmail was first built just to send email.
 >
-> **[2:40](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=160)** Google Docs was built just to create productivity artifacts.
+> **[2:40](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=160)** [[Google]] Docs was built just to create productivity artifacts.
 >
 > **[2:44](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980&t=164)** You can now send Gmail from within Google Docs and you can link Google Docs within an email.
 >
@@ -253,13 +251,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (4), [[Google]] (3), teams (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Google]] (3), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bring out the entrepreneur in you
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980)
+#### [Bring out the entrepreneur in you](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=32)** Which means you essentially need to come up with ideas that will help your career and the company as a whole.
 >
-> **[0:38](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=38)** This includes what products to build, how to align those products with the core mission of the business, making sure that people actually buy into that vision, how to scale those ideas and then to make sure that those ideas remain fresh over time.
+> **[0:38](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=38)** This includes what [[Microsoft Products|products]] to build, how to align those products with the core mission of the business, making sure that people actually buy into that vision, how to scale those ideas and then to make sure that those ideas remain fresh over time.
 >
 > **[0:54](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=54)** All of this requires that you have a very entrepreneurial mindset.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=67)** You can adjust your pitch for different kinds of audiences.
 >
-> **[1:11](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=71)** And by the way, entrepreneurship is not just for managers.
+> **[1:11](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=71)** And by the way, [[Entrepreneurship]] is not just for managers.
 >
 > **[1:15](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=75)** You might, in some cases, have people reporting into you or you may be a leader in the company without any direct reports, or in some cases you may be a newcomer to the company who needs to influence people over whom you have no supervisory authority.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=103)** These leaders have to build products that will drive engagement and revenue and build customer loyalty.
 >
-> **[1:48](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=108)** Typically a product manager has to work with engineers, people in marketing, legal, finance, data science, what have you.
+> **[1:48](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=108)** Typically a product manager has to work with engineers, people in marketing, legal, finance, [[Data Science]], what have you.
 >
 > **[1:57](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=117)** A lot of these teams are spread out across the company and they report into different leadership.
 >
@@ -321,13 +318,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=160)** For example, in the 1990s, the legendary leader Bill Gates invested a significant amount of money in education in parts of the world that American businesses had typically ignored.
 >
-> **[2:50](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=170)** From those investments came a whole new generation of Microsoft customers who remain loyal to the company to this day.
+> **[2:50](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=170)** From those investments came a whole new generation of [[Microsoft]] customers who remain loyal to the company to this day.
 >
 > **[2:57](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=177)** And you could make the argument that his innovative approach, his inclusive approach, opened business opportunities for his company before anybody else saw them coming before the dot com boom of the late 1990s.
 >
 > **[3:09](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=189)** You could also include in your product planning people that have come from other backgrounds not just the tech industry.
 >
-> **[3:14](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=194)** For example, if you are building a product to make payments easier, you could identify folks who have come from the banking industry who may not have software experience but they understand the pain points of using existing payment software.
+> **[3:14](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=194)** For example, if you are building a product to make payments easier, you could identify folks who have come from the [[Banking]] industry who may not have software experience but they understand the pain points of using existing payment software.
 >
 > **[3:27](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/bring-out-the-entrepreneur-in-you?u=76281980&t=207)** Or to use a different example, if you are billing software that helps you take medical notes, you might want to seek the opinion of people who have worked in doctor's offices as doctor's assistance, because they understand what it is like to work with software that is not user-friendly.
 >
@@ -351,13 +348,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (5), business (2), career (1), [[Entrepreneurship]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Entrepreneurship]] (1), [[Data Science]] (1), [[Microsoft]] (1), [[Banking]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Helps you build trust and overcome unforeseen challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980)
+#### [Helps you build trust and overcome unforeseen challenges](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=59)** Let me delve into a specific example from my own work history.
 >
-> **[1:03](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=63)** A while ago I joined a company where we had to review products before they were shipped out the door for security risks.
+> **[1:03](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=63)** A while ago I joined a company where we had to review [[Microsoft Products|products]] before they were shipped out the door for security risks.
 >
 > **[1:09](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=69)** Historically such reviews were conducted by the company's legal department and they made sure that every product that was built was in line with applicable laws.
 >
@@ -405,7 +401,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=105)** It was a very understandable concern that there would be overlap between the legal reviews and the technical reviews and this overlap would create needless confusion.
 >
-> **[1:54](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=114)** Second, they were concerned that both reviews together would greatly increase the time the rest of the engineers would ever spend in the review process and that would add to this perception that security was slowing down to put throughout the company.
+> **[1:54](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=114)** Second, they were concerned that both reviews together would greatly increase the time the [[Representational State Transfer (REST)|rest]] of the engineers would ever spend in the review process and that would add to this perception that security was slowing down to put throughout the company.
 >
 > **[2:08](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/helps-you-build-trust-and-overcome-unforeseen-challenges?u=76281980&t=128)** Third, like many specialists, they believe that what they were doing was sufficient and no additional intervention was required.
 >
@@ -461,14 +457,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Security]] (5), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (4), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (4)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### Build your confidence as you manage expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-confidence-as-you-manage-expectations?u=76281980)
+#### [Build your confidence as you manage expectations](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-confidence-as-you-manage-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +509,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-confidence-as-you-manage-expectations?u=76281980&t=145)** Whose life will materially change if your idea falls into place?
 >
-> **[2:30](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-confidence-as-you-manage-expectations?u=76281980&t=150)** People often resist change, so making allies out of these potential skeptics is smart inclusive leadership.
+> **[2:30](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-confidence-as-you-manage-expectations?u=76281980&t=150)** People often resist change, so making allies out of these potential skeptics is smart [[Inclusive Leadership]].
 >
 > **[2:37](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-confidence-as-you-manage-expectations?u=76281980&t=157)** Then ask yourself, whose support will you need once the executive signs off?
 >
@@ -564,13 +559,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Inclusive Leadership]] (5), leadership (3), management (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (5)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
 > **Speakers:** - a (1)
 
-#### Build your empathy as you nurture new leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-empathy-as-you-nurture-new-leaders?u=76281980)
+#### [Build your empathy as you nurture new leaders](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-empathy-as-you-nurture-new-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +638,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-empathy-as-you-nurture-new-leaders?u=76281980&t=178)** The person doesn't have industry connections, the single parent who may not be able to work long hours, the person who switched careers and therefore may need a little extra help.
 >
-> **[3:08](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-empathy-as-you-nurture-new-leaders?u=76281980&t=188)** No wonder the gap between the tech sector and the rest of society keeps on growing.
+> **[3:08](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-empathy-as-you-nurture-new-leaders?u=76281980&t=188)** No wonder the gap between the tech sector and the [[Representational State Transfer (REST)|rest]] of society keeps on growing.
 >
 > **[3:13](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/build-your-empathy-as-you-nurture-new-leaders?u=76281980&t=193)** As an inclusive tech leader, again, regardless of where you stand in the org chart, you can make your start by being inclusive.
 >
@@ -676,20 +670,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (5), in other words (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Help you create a more attractive workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980)
+#### [Help you create a more attractive workplace](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=0)** - [Narrator] All leaders aspire to create an attractive workplace.
 >
-> **[0:04](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=4)** Whether you are a hiring manager or somebody on the interview panel or in human resources, you want to make sure that your company is as attractive place as possible to current employees and future candidates.
+> **[0:04](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=4)** Whether you are a hiring manager or somebody on the interview panel or in [[Human Resources (HR)|human resources]], you want to make sure that your company is as attractive place as possible to current employees and future candidates.
 >
 > **[0:14](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=14)** But here's the thing.
 >
@@ -725,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=99)** There are smart people who went to community colleges and people can learn how to write code on their own in their parent's garage.
 >
-> **[1:46](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=106)** If you went to school in one of these small town colleges like I did, in Kirksville, Missouri, population 6,000, you might want to talk to alumni office and see if they have candidates who would like to join your company.
+> **[1:46](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=106)** If you went to school in one of these small town colleges like I did, in Kirksville, Missouri, population 6,000, you might want to talk to alumni [[Microsoft Office|office]] and see if they have candidates who would like to join your company.
 >
 > **[1:59](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=119)** People often complain about how expensive California, New York and Seattle are.
 >
@@ -757,7 +750,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=217)** I'm now more open than I used to be when it comes to hiring people outside the tech hubs, and that has made our workforce much more inclusive.
 >
-> **[3:45](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=225)** This has in turn enabled me to hire people with a much more diverse set of viewpoints, and that has made our products much better.
+> **[3:45](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=225)** This has in turn enabled me to hire people with a much more diverse set of viewpoints, and that has made our [[Microsoft Products|products]] much better.
 >
 > **[3:53](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-you-create-a-more-attractive-workplace?u=76281980&t=233)** I have a friend who's an excellent engineer.
 >
@@ -781,13 +774,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Human Resources (HR)|Human resources]] (1), teams (1), [[Microsoft Office|Office]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Human Resources (HR)|Human resources]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), basically means (1), in other words (1)
 > **Speakers:** - [narrator] (1)
 
-#### Champion diversity and inclusivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980)
+#### [Champion diversity and inclusivity](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,9 +805,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=62)** It cannot be the manager only although the manager does have some important responsibilities in setting that up tone and building the right culture.
 >
-> **[1:10](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=70)** It also cannot be the one person on the team who seems to be championing diversity while the rest of the team is in different and does not participate.
+> **[1:10](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=70)** It also cannot be the one person on the team who seems to be championing diversity while the [[Representational State Transfer (REST)|rest]] of the team is in different and does not participate.
 >
-> **[1:19](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=79)** Third, it cannot be a human resources event that occurs once or twice a year with trainings and events where people get a ton of free swag and t-shirts and then nothing changes.
+> **[1:19](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=79)** Third, it cannot be a [[Human Resources (HR)|human resources]] event that occurs once or twice a year with trainings and events where people get a ton of free swag and t-shirts and then nothing changes.
 >
 > **[1:29](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=89)** Inclusivity is something that everybody in the team and the company has to own together.
 >
@@ -845,7 +837,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=162)** It is exactly in these moments that you want to make sure that inclusivity is not forgotten.
 >
-> **[2:47](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=167)** So when I compose these panels I make sure that there is somebody else from the outside of the team who has roughly the same skillset but does not share my most urgent near term goals.
+> **[2:47](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=167)** So when I [[Jetpack Compose|compose]] these panels I make sure that there is somebody else from the outside of the team who has roughly the same skillset but does not share my most urgent near term goals.
 >
 > **[2:57](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/champion-diversity-and-inclusivity?u=76281980&t=177)** This person's job is to speak for the company, the culture, the longterm shared values.
 >
@@ -879,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1), product (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (1)
@@ -890,8 +882,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusivity and the recruitment process
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980)
+#### [Inclusivity and the recruitment process](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=77)** But a different world, a better world is possible.
 >
-> **[1:21](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=81)** In the last few years, I've tried to hire engineers who may not have worked at Google, Microsoft, Facebook, LinkedIn, et cetera.
+> **[1:21](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=81)** In the last few years, I've tried to hire engineers who may not have worked at [[Google]], [[Microsoft]], Facebook, [[LinkedIn]], et cetera.
 >
 > **[1:28](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980&t=88)** Instead, I'm doubling down on hiring people who went to coding boot camps and taught themselves how to code.
 >
@@ -981,7 +972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1), product (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** in other words (3), means that (1)
 > **UI Navigation:** go to (2)
@@ -989,8 +980,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inclusivity and the interview process
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-interview-process-13999464?u=76281980)
+#### [Inclusivity and the interview process](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-interview-process-13999464?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1074,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-interview-process-13999464?u=76281980&t=251)** And this is a great lesson for all of us leaders, regardless of where we stand across our company.
 >
-> **[4:16](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-interview-process-13999464?u=76281980&t=256)** There is no textbook, no checklist that teaches us exactly how to be inclusive when it comes to interviewing or hiring in general.
+> **[4:16](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-interview-process-13999464?u=76281980&t=256)** There is no textbook, no checklist that teaches us exactly how to be inclusive when it comes to [[Interviewing]] or hiring in general.
 >
 > **[4:23](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-interview-process-13999464?u=76281980&t=263)** Sometimes you have to ask yourself questions like could something be better?
 >
@@ -1098,14 +1088,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), hit (1), management (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** svp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inclusivity and the promotion process
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-promotion-process?u=76281980)
+#### [Inclusivity and the promotion process](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-promotion-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1174,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-promotion-process?u=76281980&t=229)** If your junior employees start leaving because they detect a lack of transparency and trust, as time goes, your reputation will suffer.
 >
-> **[3:57](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-promotion-process?u=76281980&t=237)** When that happens, you will find it harder to replace them, your work will suffer, and your products will suffer as well.
+> **[3:57](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-promotion-process?u=76281980&t=237)** When that happens, you will find it harder to replace them, your work will suffer, and your [[Microsoft Products|products]] will suffer as well.
 >
 > **[4:04](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-promotion-process?u=76281980&t=244)** Or you could make a different set of choices.
 >
@@ -1195,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Programming]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** in other words (3), is a  (1)
 > **Analogies:** for example (1)
@@ -1206,8 +1195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for inclusive leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980)
+#### [Next steps for inclusive leadership](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1229,7 +1217,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980&t=42)** It makes you more responsive to organizational challenges.
 >
-> **[0:46](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980&t=46)** You can manage expectations across the company, build trust among new leaders, create new leaders, make your products more effective and customer-friendly and finally, make your workplace reflective of your best values.
+> **[0:46](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980&t=46)** You can manage expectations across the company, build trust among new leaders, create new leaders, make your [[Microsoft Products|products]] more effective and customer-friendly and finally, make your workplace reflective of your best values.
 >
 > **[0:59](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980&t=59)** All leader shared these goals.
 >
@@ -1255,7 +1243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)

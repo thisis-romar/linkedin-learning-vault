@@ -88,14 +88,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build an AI chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980)
+#### [Build an AI chatbot](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=0)** - [Ebenezer] Have you noticed how AI chatbots are transforming the way we interact with technology?
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=6)** Yet many developers still struggle to build their own, often getting stuck with chat platforms that don't offer the flexibility, user experience, or features you really want.
+> **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=6)** Yet many developers still struggle to build their own, often getting stuck with chat platforms that don't offer the flexibility, [[User Experience (UX)|user experience]], or features you really want.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=17)** That's exactly why it's worth learning how to build one yourself.
 >
@@ -103,33 +102,32 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=28)** And I've helped thousands of developers build effective AI applications.
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=33)** And in this course, we'll create a fully functional AI chatbot with Next.js and the Vercel AI SDK.
+> **[0:33](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=33)** And in this course, we'll create a fully functional AI chatbot with [[Next.js]] and the Vercel AI SDK.
 >
-> **[0:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=40)** If you are ready to add AI skills to your developer toolkit, and build impressive applications that use the latest in conversational AI, you are in the right place.
+> **[0:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=40)** If you are ready to add AI skills to your developer toolkit, and build impressive applications that use the latest in [[Conversational AI]], you are in the right place.
 >
 > **[0:51](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980&t=51)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[User Experience (UX)|User experience]] (1), functional (1), chatbot (1), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Next.js]] (1), [[Conversational AI]] (1)
 > **File Paths:** next.js (1)
 > **Env Vars:** sdk (1)
 > **Speakers:** - [ebenezer] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=0)** - [Instructor] To get the most from this course, you should have some basic JavaScript experience.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=0)** - [Instructor] To get the most from this course, you should have some basic [[JavaScript]] experience.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=6)** You'll also want some familiarity with React fundamentals.
+> **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=6)** You'll also want some familiarity with [[React.js|React]] fundamentals.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=10)** Components, props and hooks like use state and use effect will be used throughout our project.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=17)** Some understanding of clients have a architecture and experience making API requests will be helpful.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=23)** We'll use the fetch API directly for some features while other API calls will be handled by the VersaAI STK.
+> **[0:23](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=23)** We'll use the [[Fetch]] API directly for some features while other API calls will be handled by the VersaAI STK.
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=32)** Don't worry if you're not an expert in all these areas, I'll explain concepts as we go.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=45)** Now, let's talk about what you need to have ready.
 >
-> **[0:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=49)** If you are using GitHub Codespaces, you don't need a GitHub account.
+> **[0:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=49)** If you are using [[GitHub]] [[Codespaces]], you don't need a GitHub account.
 >
 > **[0:54](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-should-you-know?u=76281980&t=54)** The dev environment will be handled for you in the cloud.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), ai (2), [[GitHub]] (2), [[JavaScript]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[JavaScript]] (1), [[React.js|React]] (1), [[Fetch]] (1), [[Codespaces]] (1)
 > **Env Vars:** api (3), stk (1)
 > **Tools:** github (2), vs code (1)
 > **Prerequisites:** you need to have (1), you'll need (1)
@@ -166,8 +164,7 @@ created: 2026-05-02
 > **Versions:** version 18 (1)
 > **Speakers:** - [instructor] (1)
 
-#### What we'll be building
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980)
+#### [What we'll be building](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,13 +178,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=24)** Let's start the chat.
 >
-> **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=26)** I'll ask the AI assistant Lexi to explain the basics of React server components.
+> **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=26)** I'll ask the AI assistant Lexi to explain the basics of [[React.js|React]] server components.
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=35)** Watch how my message shows up right away in the chat once I hit Enter.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=40)** Now I see a typing indicator with the response streaming in smoothly.
 >
-> **[0:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=45)** This real-time effect comes from the Vercel AI SDK.
+> **[0:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=45)** This [[Real-Time]] effect comes from the Vercel AI SDK.
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/what-we-ll-be-building?u=76281980&t=49)** You'll also notice the formatting.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[React.js|React]] (4), hit (2), [[Real-Time]] (1), feature (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Real-Time]] (1)
 > **UI Navigation:** open the (1), in the sidebar (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sdk (1)
@@ -241,14 +238,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting your environment and Codespaces set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980)
+#### [Getting your environment and Codespaces set up](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980&t=0)** - [Instructor] Before we start building our AI chatbots, let's talk about how you can follow along with this course.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980&t=6)** A straightforward way to get started is to use GitHub Code Spaces.
+> **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980&t=6)** A straightforward way to get started is to use [[GitHub]] Code Spaces.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980&t=10)** This gives you a complete development environment, where you can check out to the start and end state of each lesson.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), ai (1), node (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3)
 > **Definitions:** stands for (2)
 > **Prerequisites:** before we start (1), you'll need (1)
@@ -295,16 +291,15 @@ created: 2026-05-02
 > **Env Vars:** lts (1)
 > **Exercise Files:** download the (1)
 
-#### Setting up the Next.js project
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980)
+#### [Setting up the Next.js project](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=0)** - [Instructor] Let's get started by setting up our Next.js project and installing all the dependencies we'll need.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=0)** - [Instructor] Let's get started by setting up our [[Next.js]] project and installing all the dependencies we'll need.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=7)** For this, you need to open the terminal on your dev environments.
 >
-> **[0:11](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=11)** If you're working in Codespaces, you'll have VS Code already open, and you can access the terminal by hitting control or command on Mac, plus Shift, plus P, and type in terminal.
+> **[0:11](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=11)** If you're working in [[Codespaces]], you'll have VS Code already open, and you can access the terminal by hitting control or command on Mac, plus Shift, plus P, and type in terminal.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=24)** Then select the Toggle Terminal option.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=67)** For task script, we'll select no to keep things simple, and for the others, we can go with the default options.
 >
-> **[1:14](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=74)** So for ESLint, Yes, yes for Tailwind. Yes, yes.
+> **[1:14](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=74)** So for [[ESLint]], Yes, yes for Tailwind. Yes, yes.
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=78)** Yes for Turbopack, no further import alias customization.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=127)** This lets us connect to open AI's models.
 >
-> **[2:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=130)** We'll also need ai-sdk/react for providing react hooks for our AI features.
+> **[2:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=130)** We'll also need ai-sdk/[[React.js|react]] for providing [[React Hooks]] for our AI features.
 >
 > **[2:19](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=139)** We need AI, the core Vercel AI SDK, and then Dexie, which is a wrapper around IndexedDB.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=249)** So back to our terminal.
 >
-> **[4:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=250)** We'll run npm run dev.
+> **[4:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=250)** We'll run [[npm]] run dev.
 >
 > **[4:14](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-next-js-project?u=76281980&t=254)** And great, our server is running successfully on local host:3001, and we can now open it in our browser to see our Next.js app running.
 >
@@ -406,7 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Next.js]] (10), [[React.js|React]] (5), [[React Hooks]] (3), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Next.js]] (10), [[React.js|React]] (5), [[React Hooks]] (3), [[Codespaces]] (2), [[ESLint]] (1)
 > **File Paths:** next.js (10), globals.css (1), layout.js (1), page.js (1)
 > **Tools:** terminal (7), vs code (1)
 > **Env Vars:** src (4), sdk (1), api (1), css (1)
@@ -415,8 +410,7 @@ created: 2026-05-02
 > **CLI Commands:** npx (1), make (1), npm (1)
 > **Ports:** :3001 (1)
 
-#### Setting up styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980)
+#### [Setting up styling](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=12)** Because we want to focus on functionality in this course, we won't be walking through every line of CSS.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=19)** To get the CSS files, check out the starting branch of this lesson in the course GitHub repository.
+> **[0:19](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=19)** To get the CSS files, check out the starting branch of this lesson in the course [[GitHub]] repository.
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=27)** We'll need two files, which are in the src/styles directory.
 >
@@ -444,11 +438,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=92)** Remember, the complete CSS files are available in the starting branch of this lesson, so you can copy and paste them into your project.
 >
-> **[1:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=101)** The visual aspects of our chatbots are important for creating a great user experience.
+> **[1:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-styling?u=76281980&t=101)** The visual aspects of our chatbots are important for creating a great [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), application (3), ai (2), [[GitHub]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (5)
 > **File Paths:** page.css (2), sidebar.css (2)
 > **CLI Commands:** find (1)
@@ -462,8 +456,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Vercel AI SDK and GitHub models
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980)
+#### [Setting up Vercel AI SDK and GitHub models](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,7 +468,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=23)** It takes care of things, like token streaming and model connections, so we don't have to write all that boilerplate code ourselves.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=31)** For this course, we are using GitHub models, which are AI models who started on Azure with GitHub token authentication.
+> **[0:31](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=31)** For this course, we are using [[GitHub]] models, which are AI models who started on [[Microsoft Azure|Azure]] with GitHub token authentication.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=40)** This is good because it's free to use for development purposes, and we can easily swap GitHub models to directly use Open AI or other providers when we need to.
 >
@@ -483,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=57)** If not, you can get an API key by opening your GitHub account, and then the settings page.
 >
-> **[1:07](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=67)** On the left side bar of the setting page, scroll to developer settings, click it, and then click personal access tokens.
+> **[1:07](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=67)** On the left side bar of the setting page, scroll to developer settings, click it, and then click personal access [[Tokens]].
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=75)** Here, select fine-grained tokens, and in the fine-grained tokens page, you'll see a generate new token button.
 >
@@ -501,15 +494,15 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=131)** Now, we set it to the token we just created.
 >
-> **[2:16](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=136)** Remember to not commit your .env file to version control as it contains sensitive information.
+> **[2:16](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=136)** Remember to not commit your .env file to [[Version Control]] as it contains sensitive information.
 >
 > **[2:22](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=142)** That's all we need to do to get started with the Vercel AI SDK and GitHub module.
 >
-> **[2:28](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=148)** With a setup, you can easily use other AI providers, like Anthropic or Hugging Face, but for this course, we'll focus on OpenAI modules.
+> **[2:28](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980&t=148)** With a setup, you can easily use other AI providers, like Anthropic or [[Hugging Face]], but for this course, we'll focus on OpenAI modules.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[GitHub]] (6), next (3), [[Tokens]] (3), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Tokens]] (3), [[Microsoft Azure|Azure]] (1), [[Version Control]] (1), [[Hugging Face]] (1)
 > **Env Vars:** sdk (4), api (2)
 > **Tools:** github (6)
 > **Prerequisites:** set up (1), setup (1)
@@ -517,8 +510,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - we (1)
 
-#### Creating a test AI route
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980)
+#### [Creating a test AI route](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=55)** We'll use this to generate AI text.
 >
-> **[0:58](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=58)** We also need the response helper from Next.js, and we'll do that on line three by importing Next Response from 'next/server.'
+> **[0:58](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=58)** We also need the response helper from [[Next.js]], and we'll do that on line three by importing Next Response from 'next/server.'
 >
 > **[1:09](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=69)** Let's set the runtime to edge using export const runtime = 'edge.'
 >
@@ -560,15 +552,15 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=92)** And right here we'll call the createOpenAI function, and in it, we'll add the configuration for our client.
 >
-> **[1:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=98)** And we'll start with a baseURL of '[https://models.inference.ai.azure.com](https://models.inference.ai.azure.com).'
+> **[1:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=98)** And we'll start with a baseURL of '[https://models.inference.ai.[[Microsoft Azure|azure]].com](https://models.inference.ai.azure.com).'
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=110)** This tells the OpenAI client to use the Azure OpenAI model endpoint.
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=116)** Our client config also needs an API key.
 >
-> **[1:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=119)** We'll use the GitHub token environment variable, and we can get that by typing process.env.GITHUB_TOKEN.
+> **[1:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=119)** We'll use the [[GitHub]] token environment variable, and we can get that by typing process.env.GITHUB_TOKEN.
 >
-> **[2:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=130)** If you're using Codespaces, this environment variable is already set.
+> **[2:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=130)** If you're using [[Codespaces]], this environment variable is already set.
 >
 > **[2:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=135)** If not, this reference will use the GITHUB_TOKEN and variable we set earlier in the envelope local file.
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=255)** It's just a fixed prompt to test things out.
 >
-> **[4:18](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=258)** Now let's return the AI's response as JSON.
+> **[4:18](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=258)** Now let's return the AI's response as [[JSON]].
 >
 > **[4:22](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=262)** And on line 20, we'll type return NextResponse.json,
 >
@@ -636,7 +628,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=333)** Since our app is already running, we can just go to our appsurl/api/test.
 >
-> **[5:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=338)** Or if it's not running already, go back to the terminal and npm run dev.
+> **[5:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=338)** Or if it's not running already, go back to the terminal and [[npm]] run dev.
 >
 > **[5:44](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-a-test-ai-route?u=76281980&t=344)** Our app is now running on localhost 3000, and we can take this route and /api/test to see what we get.
 >
@@ -656,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), api (7), next (5), [[JSON]] (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Microsoft Azure|Azure]] (2), [[Next.js]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** api (4), github_token (2), sdk (2), json (1)
 > **Code Identifiers:** createopenai (4), generatetext (3), baseurl (1)
 > **File Paths:** nextresponse.json (2), route.js (1), next.js (1), process.env (1)
@@ -665,8 +657,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1), go back to (1)
 > **Tools:** github (1), terminal (1)
 
-#### Implement the AI chat route
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980)
+#### [Implement the AI chat route](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +677,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=40)** This time around we'll import streamText and smoothStream from AI.
 >
-> **[0:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=50)** streamText will allow us to stream the AI's response to the client and smoothStream is a function that makes the response more natural by sending tokens in small chunks rather than in bulk.
+> **[0:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=50)** streamText will allow us to stream the AI's response to the client and smoothStream is a function that makes the response more natural by sending [[Tokens]] in small chunks rather than in bulk.
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=63)** We'll see more about this as we use it.
 >
@@ -708,11 +699,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=122)** This will include both the user's current message and any previous message in the conversation.
 >
-> **[2:08](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=128)** We'll start with const and we're going to structure messages out of this value here, which is await req.json, and that's the request which we have on line six.
+> **[2:08](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=128)** We'll start with const and we're going to structure messages out of this value here, which is await req.[[JSON]], and that's the request which we have on line six.
 >
 > **[2:21](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=141)** Next we need to set up our connection to the AI model and we'll do that by defining an OpenAI variable, which is for the OpenAI clients and then creates OpenAI and then it will start with baseURL again.
 >
-> **[2:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=161)** And let's set this to [https://models.inference.ai.azure.com](https://models.inference.ai.azure.com)
+> **[2:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=161)** And let's set this to [https://models.inference.ai.[[Microsoft Azure|azure]].com](https://models.inference.ai.azure.com)
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/implement-the-ai-chat-route?u=76281980&t=170)** and we have our API key as process.env.GITHUB_TOKEN.
 >
@@ -744,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), api (5), next (2), [[Tokens]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[JSON]] (1), [[Microsoft Azure|Azure]] (1)
 > **Code Identifiers:** streamtext (4), smoothstream (4), todatastream (2), createopenai (1), maxduration (1)
 > **Env Vars:** api (5), github_token (1)
 > **File Paths:** route.js (1), req.json (1), process.env (1)
@@ -758,8 +749,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding IndexedDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980)
+#### [Understanding IndexedDB](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980&t=75)** It also has no built-in way to search data and is typically limited to 5 to 10 MB of storage.
 >
-> **[1:24](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980&t=84)** IndexedDB solves this by letting you store JavaScript objects directly, create indexes for fast searching, use much more storage space, and perform complex data operations safely.
+> **[1:24](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980&t=84)** IndexedDB solves this by letting you store [[JavaScript]] objects directly, create indexes for fast searching, use much more storage space, and perform complex data operations safely.
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980&t=98)** In our app, we'll be using Dexie.js, a lightweight library that simplifies working with IndexedDB.
 >
@@ -809,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (4), application (2), web (2), api (2)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **File Paths:** dexie.js (2)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -817,8 +807,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - before (1)
 
-#### Setting up the database with Dexie.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-database-with-dexie-js?u=76281980)
+#### [Setting up the database with Dexie.js](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-database-with-dexie-js?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,15 +857,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), application (1), next (1), ai (1)
 > **Code Identifiers:** createdat (3), chatapp (2), chatid (2)
 > **File Paths:** db.js (2), dexie.js (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving and retrieving data from the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/saving-and-retrieving-data-from-the-database?u=76281980)
+#### [Saving and retrieving data from the database](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/saving-and-retrieving-data-from-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,13 +1007,13 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/saving-and-retrieving-data-from-the-database?u=76281980&t=457)** That completes our database module.
 >
-> **[7:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/saving-and-retrieving-data-from-the-database?u=76281980&t=460)** In our chat app, we'll integrate this database with our React components.
+> **[7:40](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/saving-and-retrieving-data-from-the-database?u=76281980&t=460)** In our chat app, we'll integrate this database with our [[React.js|React]] components.
 >
 > **[7:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/saving-and-retrieving-data-from-the-database?u=76281980&t=465)** This database layer is important for our chat application as it allows us to maintain chat history and provide a seamless experience for users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (3), application (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** chatid (14), createdat (4), createchat (2), toisostring (2), getchat (1)
 > **File Paths:** db.js (1)
 > **CLI Commands:** find (1)
@@ -1039,8 +1026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building the ChatThread component
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980)
+#### [Building the ChatThread component](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=56)** At the top of the file we need to import some components.
 >
-> **[0:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=59)** First, we'll import User from lucide-react.
+> **[0:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=59)** First, we'll import User from lucide-[[React.js|react]].
 >
 > **[1:04](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=64)** This gives us the user icon that we'll use for the user avatar.
 >
@@ -1196,7 +1182,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=352)** Messages is the way of chat messages, status the current status like streaming or idle, and chatThreadref a reference for scrolling.
 >
-> **[6:02](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=362)** To improve the user experience when there are no messages yet, let's define a welcome message.
+> **[6:02](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=362)** To improve the [[User Experience (UX)|user experience]] when there are no messages yet, let's define a welcome message.
 >
 > **[6:08](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980&t=368)** So on line 31 we have const welcomeMessage.
 >
@@ -1304,7 +1290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[React.js|React]] (6), next (3), api (1), ux (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** classname (9), chatthreadref (5), strokewidth (2), welcomemessage (2), usechat (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sdk (2), src (2), api (1)
@@ -1313,8 +1299,7 @@ created: 2026-05-02
 > **File Paths:** chatthreads.jsx (1)
 > **Versions:** 1.5 (1)
 
-#### Setting up the chat logic and state management
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980)
+#### [Setting up the chat logic and state management](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,13 +1315,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=38)** But first we'll start by adding use client at the top of the file to mark it as a client component.
 >
-> **[0:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=45)** And next, let's import all the React hooks we'll need.
+> **[0:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=45)** And next, let's import all the [[React Hooks]] we'll need.
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=48)** So we'll import useState, we also need useEffect, useCallback, and useRef.
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=61)** We'll add the useChathook from the ai-sdk, which is the core of our chat functionality, and we'll do that on line 4.
 >
-> **[1:09](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=69)** We'll import useChat from @ai-sdk/react.
+> **[1:09](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=69)** We'll import useChat from @ai-sdk/[[React.js|react]].
 >
 > **[1:13](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=73)** Now let's import all our database functions from the module we created earlier.
 >
@@ -1346,7 +1331,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=101)** And we're importing this from ../lib/db.
 >
-> **[1:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=109)** We'll also need the Next.js router for navigation, and Dexie's useLiveQuery hook for reactive database queries.
+> **[1:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=109)** We'll also need the [[Next.js]] router for navigation, and Dexie's useLiveQuery hook for reactive [[Database Queries]].
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=116)** So on line 14, we'll import useRouter from next/navigation instead of next/router.
 >
@@ -1382,7 +1367,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=217)** We have currentChatId, and setCurrentChatId, and that's equal to useState with an initial value of null as well.
 >
-> **[3:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=229)** Now we'll use Dexie's useLiveQuery hook to fetch our chats from the database.
+> **[3:49](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=229)** Now we'll use Dexie's useLiveQuery hook to [[Fetch]] our chats from the database.
 >
 > **[3:54](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-the-chat-logic-and-state-management?u=76281980&t=234)** This will automatically update our UI when the database changes.
 >
@@ -1506,7 +1491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), next (6), ai (4), [[React.js|React]] (3), [[React Hooks]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[React Hooks]] (1), [[Next.js]] (1), [[Database Queries]] (1), [[Fetch]] (1)
 > **Code Identifiers:** chatid (9), fetchedchats (6), usecallback (5), uselivequery (5), currentchatid (5)
 > **UI Navigation:** navigate to (5), open the (1)
 > **File Paths:** page.js (2), src/app/page.js (1), next.js (1), styles/page.css (1)
@@ -1515,8 +1500,7 @@ created: 2026-05-02
 > **Env Vars:** url (2)
 > **CLI Commands:** make (1)
 
-#### Building the chat interface and user interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-interface-and-user-interactions?u=76281980)
+#### [Building the chat interface and user interactions](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-interface-and-user-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1742,7 +1726,7 @@ created: 2026-05-02
 >
 > **[12:07](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-interface-and-user-interactions?u=76281980&t=727)** Let's see what we've built so far and show your app is running.
 >
-> **[12:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-interface-and-user-interactions?u=76281980&t=730)** If it's not, you can use your terminal and run the command npm run dev.
+> **[12:10](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-interface-and-user-interactions?u=76281980&t=730)** If it's not, you can use your terminal and run the command [[npm]] run dev.
 >
 > **[12:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-interface-and-user-interactions?u=76281980&t=735)** And with that, we can go over to the browser.
 >
@@ -1764,7 +1748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), ai (5), database (2), [[Search]] (1), css (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Code Identifiers:** currentchatid (7), chatthreadref (4), loadedmessages (3), setactivechat (2), loadchatmessages (2)
 > **CLI Commands:** make (2), npm (1)
 > **Env Vars:** url (1), css (1)
@@ -1773,8 +1757,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
 
-#### Building the chat sidebar component
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-sidebar-component?u=76281980)
+#### [Building the chat sidebar component](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-sidebar-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,7 +1771,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-sidebar-component?u=76281980&t=29)** Next, we need to import the necessary modules.
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-sidebar-component?u=76281980&t=33)** Let's import use states from react.
+> **[0:33](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-sidebar-component?u=76281980&t=33)** Let's import use states from [[React.js|react]].
 >
 > **[0:37](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chat-sidebar-component?u=76281980&t=37)** We'll also need link from next/link for client side navigation.
 >
@@ -2140,7 +2123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), next (7), css (3), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Env Vars:** jsx (6), css (2), url (1)
 > **UI Navigation:** toggle (2), scroll up (1), click on (1), go to (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2154,8 +2137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the chat title generation API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980)
+#### [Creating the chat title generation API](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2183,7 +2165,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=75)** And finally, on line three, let's import { NextResponse } from 'next/server'.
 >
-> **[1:24](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=84)** We'll use this to create API responses in our Next.js API route.
+> **[1:24](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=84)** We'll use this to create API responses in our [[Next.js]] API route.
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=88)** So this is going to be very similar to what we did in this test route.
 >
@@ -2193,7 +2175,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=112)** So one line seven, const openai = createOpenAI.
 >
-> **[1:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=119)** And for the configuration, let's have our baseURL as the Azure endpoint, so [https://models.inference.ai.azure.com](https://models.inference.ai.azure.com).
+> **[1:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=119)** And for the configuration, let's have our baseURL as the [[Microsoft Azure|Azure]] endpoint, so [https://models.inference.ai.azure.com](https://models.inference.ai.azure.com).
 >
 > **[2:15](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=135)** And we'll add a comma right there so that we can also add the apiKey, and just like what we did before, process.env.GITHUB_TOKEN.
 >
@@ -2207,7 +2189,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=171)** So const and with the structure message.
 >
-> **[2:54](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=174)** And then for its value, await req.json(), and let's call that.
+> **[2:54](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=174)** And then for its value, await req.[[JSON]](), and let's call that.
 >
 > **[2:59](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980&t=179)** This will be the user's first message in a conversation, which we'll use to generate the title.
 >
@@ -2281,7 +2263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), api (7), next (5), [[JSON]] (4), prompt (3)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Microsoft Azure|Azure]] (2), [[Next.js]] (1)
 > **Env Vars:** api (5), post (2), github_token (1), gpt (1), json (1)
 > **Code Identifiers:** generatetext (5), createopenai (2), baseurl (1), apikey (1)
 > **File Paths:** route.js (2), nextresponse.json (2), next.js (1), process.env (1), req.json (1)
@@ -2290,8 +2272,7 @@ created: 2026-05-02
 > **URLs:** [https://models.inference.ai.azure.com](https://models.inference.ai.azure.com) (1)
 > **API Endpoints:** post  (1)
 
-#### Integrating chat title generation in the UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980)
+#### [Integrating chat title generation in the UI](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2309,7 +2290,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=42)** So try, now inside the try block, we'll make a post request to our title generation API.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=48)** On line 78 comes response equal to await fetch and we'll fetch/API/Generate-title, which is what we named it.
+> **[0:48](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=48)** On line 78 comes response equal to await [[Fetch]] and we'll fetch/API/Generate-title, which is what we named it.
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=61)** Next, we'll configure the request with the appropriate method, headers and body.
 >
@@ -2321,7 +2302,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=79)** And for the value of headers, we have content-type.
 >
-> **[1:25](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=85)** And this is going to be application/json.
+> **[1:25](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=85)** And this is going to be application/[[JSON]].
 >
 > **[1:30](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=90)** We'll also add body, and for its value, JSON.stringify.
 >
@@ -2413,7 +2394,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=335)** Let's try the same thing with these other chats.
 >
-> **[5:37](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=337)** So this has chat ID of six, and I'll just say, tell me about next.js.
+> **[5:37](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=337)** So this has chat ID of six, and I'll just say, tell me about [[Next.js]].
 >
 > **[5:45](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/integrating-chat-title-generation-in-the-ui?u=76281980&t=345)** Awesome.
 >
@@ -2423,7 +2404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[JSON]] (4), next (3), database (3), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Fetch]] (2), [[Next.js]] (2)
 > **Env Vars:** api (5), json (2)
 > **File Paths:** page.js (2), next.js (2), response.json (1)
 > **Code Identifiers:** chatid (2), getchatmessages (1), isfirstmessage (1)
@@ -2437,8 +2418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing features and course conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980)
+#### [Testing features and course conclusion](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2462,7 +2442,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=72)** If a user confirms, then the chat and all of each messages are deleted from the database, and you can see how the UI has updated to show a new chat.
 >
-> **[1:22](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=82)** This flow provides an easy to use user experience with real time updates, persistent storage, and automatic organization through generated titles.
+> **[1:22](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=82)** This flow provides an easy to use [[User Experience (UX)|user experience]] with real time updates, persistent storage, and automatic organization through generated titles.
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=92)** It's also important that our application is mobile responsive so that users can easily use it on their mobile devices.
 >
@@ -2488,11 +2468,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=162)** I look forward to seeing what awesome AI applications you build next.
 >
-> **[2:47](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=167)** If you need any help or have any questions, don't hesitate to reach out to me on LinkedIn or Twitter.
+> **[2:47](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980&t=167)** If you need any help or have any questions, don't hesitate to reach out to me on [[LinkedIn]] or Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), ai (5), application (2), next (2), api (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (1), url (1), sdk (1)
 > **UI Navigation:** click on (1), in the sidebar (1)
 > **Speakers:** - [instructor] (1)

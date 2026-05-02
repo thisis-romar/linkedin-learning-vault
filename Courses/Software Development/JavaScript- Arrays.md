@@ -86,14 +86,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### So many ways to work with arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980)
+#### [So many ways to work with arrays](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980&t=0)** - [Jamie] One of the beautiful things about programming is how it is constantly evolving.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980&t=5)** JavaScript is no exception.
+> **[0:05](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980&t=5)** [[JavaScript]] is no exception.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980&t=7)** Over time, JavaScript has grown and many aspects have been added, including array methods.
 >
@@ -113,16 +112,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), [[Programming]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6)
 > **CLI Commands:** make (1)
 > **Speakers:** - [jamie] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=0)** - [Instructor] This course provides a beginner to intermediate level overview of JavaScript array methods.
+> **[0:00](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=0)** - [Instructor] This course provides a beginner to intermediate level overview of [[JavaScript]] array methods.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=6)** You absolutely do not need to be an expert or senior level developer, but this course does require a basic understanding of JavaScript.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=66)** It does not have to be VS Code.
 >
-> **[1:09](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=69)** In order to run the code we will be writing, you will need to install Node.js on your machine if it is not already installed.
+> **[1:09](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=69)** In order to run the code we will be writing, you will need to install [[Node.js]] on your machine if it is not already installed.
 >
 > **[1:17](https://www.linkedin.com/learning/javascript-arrays/what-you-should-know?u=76281980&t=77)** For more information on how to get set up with Node.js, please go to [nodejs.org/en/download](https://nodejs.org/en/download).
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), node (3), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Node.js]] (2)
 > **Tools:** terminal (5), vs code (2), visual studio (1)
 > **CLI Commands:** node (5), make (1)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
@@ -178,8 +176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arrays overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980)
+#### [Arrays overview](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980&t=8)** Arrays are flexible, list-like objects.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980&t=11)** They are used frequently in JavaScript and can be transformed in a number of different ways.
+> **[0:11](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980&t=11)** They are used frequently in [[JavaScript]] and can be transformed in a number of different ways.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980&t=17)** Arrays have built in properties and methods to allow us to utilize them as needed.
 >
@@ -219,12 +216,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Length property and direct assignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/length-property-and-direct-assignment?u=76281980)
+#### [Length property and direct assignment](https://www.linkedin.com/learning/javascript-arrays/length-property-and-direct-assignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-arrays/length-property-and-direct-assignment?u=76281980&t=13)** If we apply the length property to the array, it will return a numerical value that represents the length of the array.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-arrays/length-property-and-direct-assignment?u=76281980&t=22)** Additionally, arrays in JavaScript are zero based.
+> **[0:22](https://www.linkedin.com/learning/javascript-arrays/length-property-and-direct-assignment?u=76281980&t=22)** Additionally, arrays in [[JavaScript]] are zero based.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-arrays/length-property-and-direct-assignment?u=76281980&t=26)** This means that the index position of the first element of the array starts with zero.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JavaScript]] (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Tools:** terminal (2), vs code (1)
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is a  (1), means that (1)
@@ -301,12 +297,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 
-#### forEach for ease and readability
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/foreach-for-ease-and-readability?u=76281980)
+#### [forEach for ease and readability](https://www.linkedin.com/learning/javascript-arrays/foreach-for-ease-and-readability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-arrays/foreach-for-ease-and-readability?u=76281980&t=0)** - [Instructor] Iterating over arrays is critical to working with JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-arrays/foreach-for-ease-and-readability?u=76281980&t=0)** - [Instructor] Iterating over arrays is critical to working with [[JavaScript]].
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-arrays/foreach-for-ease-and-readability?u=76281980&t=4)** For many of us, when we first started learning JavaScript, we were taught how to use a for Loop to iterate over each item in an array.
 >
@@ -391,8 +386,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Basic array methods 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-basic-array-methods-1?u=76281980)
+#### [Solution: Basic array methods 1](https://www.linkedin.com/learning/javascript-arrays/solution-basic-array-methods-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,8 +419,7 @@ created: 2026-05-02
 > **Speakers:** - [instruction] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Basic array methods 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-basic-array-methods-2?u=76281980)
+#### [Solution: Basic array methods 2](https://www.linkedin.com/learning/javascript-arrays/solution-basic-array-methods-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,8 +463,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Order arrays with sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/order-arrays-with-sort?u=76281980)
+#### [Order arrays with sort](https://www.linkedin.com/learning/javascript-arrays/order-arrays-with-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,8 +552,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [teacher] (1)
 
-#### Reverse array order with reverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/reverse-array-order-with-reverse?u=76281980)
+#### [Reverse array order with reverse](https://www.linkedin.com/learning/javascript-arrays/reverse-array-order-with-reverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,14 +606,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find a single element with find and findIndex
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/find-a-single-element-with-find-and-findindex?u=76281980)
+#### [Find a single element with find and findIndex](https://www.linkedin.com/learning/javascript-arrays/find-a-single-element-with-find-and-findindex?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,14 +681,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (13)
 > **Code Identifiers:** findindex (6), thisarg (1)
 > **Tools:** terminal (2)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Working with ordered data 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-1?u=76281980)
+#### [Solution: Working with ordered data 1](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,14 +714,13 @@ created: 2026-05-02
 > **Speakers:** - [trainer] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Working with ordered data 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-2?u=76281980)
+#### [Solution: Working with ordered data 2](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-2?u=76281980&t=0)** - [Instructor] In this challenge, we want to check an array and see if a particular item can be found in that array.
 >
-> **[0:13](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-2?u=76281980&t=13)** So if we look at our products here, we can see we have a couple of objects, wireless mouse, mechanical keyboard, USB, Bluetooth speaker, and the particular product that we're looking for is actually the wireless mouse.
+> **[0:13](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-2?u=76281980&t=13)** So if we look at our [[Microsoft Products|products]] here, we can see we have a couple of objects, wireless mouse, mechanical keyboard, USB, Bluetooth speaker, and the particular product that we're looking for is actually the wireless mouse.
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-arrays/solution-working-with-ordered-data-2?u=76281980&t=28)** So the first thing we want to do is I'm going to go ahead and write my return statement, but I'm going to spell it correctly, and I'm going to write out my array that I'm going to reference for this particular challenge because we want to find the first match for the wireless mouse, we're going to reach for the array method find, and we're going to need to pass a value here because it's going to loop over the array and look for the value that we're trying to find.
 >
@@ -770,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - [instructor] (1)
@@ -781,8 +767,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Does the array Include an element?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/does-the-array-include-an-element?u=76281980)
+#### [Does the array Include an element?](https://www.linkedin.com/learning/javascript-arrays/does-the-array-include-an-element?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +819,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Code Identifiers:** fromindex (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
@@ -842,8 +826,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do elements pass a test?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/do-elements-pass-a-test?u=76281980)
+#### [Do elements pass a test?](https://www.linkedin.com/learning/javascript-arrays/do-elements-pass-a-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -933,15 +916,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** just like (2)
 > **Tools:** terminal (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Evaluating single value 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-evaluating-single-value-1?u=76281980)
+#### [Solution: Evaluating single value 1](https://www.linkedin.com/learning/javascript-arrays/solution-evaluating-single-value-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,8 +956,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Evaluating single value 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-evaluating-single-value-2?u=76281980)
+#### [Solution: Evaluating single value 2](https://www.linkedin.com/learning/javascript-arrays/solution-evaluating-single-value-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1022,7 +1002,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** tsk (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1035,8 +1014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The end: Push and pop data
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/the-end-push-and-pop-data?u=76281980)
+#### [The end: Push and pop data](https://www.linkedin.com/learning/javascript-arrays/the-end-push-and-pop-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,14 +1102,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), career (1), next (1)
 > **Code Identifiers:** popedvalue (1), poppedvalue (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The beginning: Unshift and shift data
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/the-beginning-unshift-and-shift-data?u=76281980)
+#### [The beginning: Unshift and shift data](https://www.linkedin.com/learning/javascript-arrays/the-beginning-unshift-and-shift-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,13 +1179,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - a (1)
 
-#### Solution: Implementing stacks and queues 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-implementing-stacks-and-queues-1?u=76281980)
+#### [Solution: Implementing stacks and queues 1](https://www.linkedin.com/learning/javascript-arrays/solution-implementing-stacks-and-queues-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1243,8 +1217,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Implementing stacks and queues 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-implementing-stacks-and-queues-2?u=76281980)
+#### [Solution: Implementing stacks and queues 2](https://www.linkedin.com/learning/javascript-arrays/solution-implementing-stacks-and-queues-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,8 +1256,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reformat data with map
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/reformat-data-with-map?u=76281980)
+#### [Reformat data with map](https://www.linkedin.com/learning/javascript-arrays/reformat-data-with-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,7 +1406,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Code Identifiers:** thisarg (1)
 > **Cross-References:** go back to (1)
@@ -1442,8 +1413,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter data with filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980)
+#### [Filter data with filter](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=19)** Now that we have the array method filter, this accomplishes this for us much more elegantly.
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=27)** Filter is a JavaScript array method that creates a new array based on whether or not elements pass a test provided by a function.
+> **[0:27](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=27)** Filter is a [[JavaScript]] array method that creates a new array based on whether or not elements pass a test provided by a function.
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=37)** If we look at the syntax, we see that it is the same as map and several other array methods that we've learned.
 >
@@ -1503,7 +1473,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=151)** Either way, we start by creating this new variable and we start with our existing array and applying filter.
 >
-> **[2:40](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=160)** So here we'll call our current value "item", and remember, you can call this whatever you'd like, and then we'll set up the rest of our function syntax.
+> **[2:40](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=160)** So here we'll call our current value "item", and remember, you can call this whatever you'd like, and then we'll set up the [[Representational State Transfer (REST)|rest]] of our function syntax.
 >
 > **[2:51](https://www.linkedin.com/learning/javascript-arrays/filter-data-with-filter?u=76281980&t=171)** Because we're explicitly returning, that means we have to have this return statement.
 >
@@ -1537,7 +1507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cat (1)
 > **Code Identifiers:** thisarg (1)
 > **Tools:** terminal (1)
@@ -1545,8 +1515,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single values with reduce
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/single-values-with-reduce?u=76281980)
+#### [Single values with reduce](https://www.linkedin.com/learning/javascript-arrays/single-values-with-reduce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,7 +1615,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** acc (1)
 > **Versions:** 24.25 (1)
 > **Cross-References:** go back to (1)
@@ -1654,8 +1622,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flat + map = flatMap
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/3144066?u=76281980)
+#### [Flat + map = flatMap](https://www.linkedin.com/learning/javascript-arrays/3144066?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,7 +1662,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/javascript-arrays/3144066?u=76281980&t=112)** Let's try another example in the code.
 >
-> **[1:55](https://www.linkedin.com/learning/javascript-arrays/3144066?u=76281980&t=115)** Here we have an array of words that we want to use to create a word jumble.
+> **[1:55](https://www.linkedin.com/learning/javascript-arrays/3144066?u=76281980&t=115)** Here we have an array of words that we want to use to create a [[Microsoft Word|word]] jumble.
 >
 > **[2:00](https://www.linkedin.com/learning/javascript-arrays/3144066?u=76281980&t=120)** We want to take this array and split it into a new flat array of individual letters.
 >
@@ -1728,8 +1695,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Advanced methods 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-advanced-methods-1?u=76281980)
+#### [Solution: Advanced methods 1](https://www.linkedin.com/learning/javascript-arrays/solution-advanced-methods-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1780,8 +1746,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Advanced methods 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/solution-advanced-methods-2?u=76281980)
+#### [Solution: Advanced methods 2](https://www.linkedin.com/learning/javascript-arrays/solution-advanced-methods-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1895,7 +1860,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** good practice (1)
@@ -1907,12 +1871,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=0)** - [Jamie] Thank you so much for joining me for this course on JavaScript array methods.
+> **[0:00](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=0)** - [Jamie] Thank you so much for joining me for this course on [[JavaScript]] array methods.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=4)** I hope this has reinforced your understanding of array methods, and how you can incorporate them into your code more often.
 >
@@ -1924,7 +1887,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=19)** If you're working as a developer or software engineer, there are ways to incorporate these array methods into your current projects.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=25)** Check out other LinkedIn Learning courses on JavaScript, as well as JavaScript frameworks, like Angular, React, and Vue.
+> **[0:25](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=25)** Check out other [[LinkedIn]] Learning courses on JavaScript, as well as JavaScript frameworks, like [[Angular]], [[React.js|React]], and [[Vue.js|Vue]].
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980&t=32)** I hope that you found this course to be valuable.
 >

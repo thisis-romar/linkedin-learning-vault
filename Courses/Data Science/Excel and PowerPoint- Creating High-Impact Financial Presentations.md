@@ -107,14 +107,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating compelling finance presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980)
+#### [Creating compelling finance presentations](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980&t=0)** - [Narrator] Every day, millions of Excel users around the world analyze data and create visualizations and tables to be shared with others.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980&t=0)** - [Narrator] Every day, millions of [[Microsoft Excel|Excel]] users around the world analyze data and create visualizations and tables to be shared with others.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980&t=10)** The analysis is usually done in Excel, but the presentation is done in PowerPoint.
+> **[0:10](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980&t=10)** The analysis is usually done in Excel, but the presentation is done in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:17](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980&t=17)** However, when the business data behind those presentations changes, the presentations also need to change.
 >
@@ -124,20 +123,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (4), [[Microsoft PowerPoint|Powerpoint]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### What to know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980)
+#### [What to know before starting](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=0)** - [Instructor] Before we get started on our deep dive into the world of financial presentations in Excel and PowerPoint, I'd like to give a quick overview of some things that you should know to get the most out of this course.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=0)** - [Instructor] Before we get started on our deep dive into the world of financial presentations in [[Microsoft Excel|Excel]] and [[Microsoft PowerPoint|PowerPoint]], I'd like to give a quick overview of some things that you should know to get the most out of this course.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=14)** First, you'll need to have a recent version of both PowerPoint and Excel so that you can try out the techniques as we go through.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=23)** Ideally, you'll be using either Microsoft 365 or 2021 as we'll touch on a couple of the newer features such as dynamic arrays, which are not available in previous versions.
+> **[0:23](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=23)** Ideally, you'll be using either [[Microsoft 365]] or 2021 as we'll touch on a couple of the newer features such as dynamic arrays, which are not available in previous versions.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=36)** If you're using an older version, that's fine, but there might be a couple of features you won't have access to.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=68)** You should know how to navigate in Excel and how to create a basic chart.
 >
-> **[1:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=73)** There are also some references to some more advanced Excel tools, which have been used in the examples, and there are plenty of other courses in the LinkedIn Learning Library you can take if you wish to explore those areas further.
+> **[1:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=73)** There are also some references to some more advanced Excel tools, which have been used in the examples, and there are plenty of other courses in the [[LinkedIn]] Learning Library you can take if you wish to explore those areas further.
 >
 > **[1:28](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/what-to-know-before-starting?u=76281980&t=88)** In PowerPoint, you should be able to create a basic presentation.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft 365]] (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -172,24 +170,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How financial and nonfinancial data differs in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980)
+#### [How financial and nonfinancial data differs in Excel](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=0)** - [Instructor] Excel is very, very good at calculating numbers.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is very, very good at calculating numbers.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=3)** So from a technical perspective, Excel formulas will work on any type of data, whether financial or nonfinancial, they are just numbers.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=14)** So there isn't much of a difference between working with financial or nonfinancial data in Excel.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=20)** But there are just a few things that we need to consider when presenting financial data.
+> **[0:20](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=20)** But there are just a few things that we need to consider when presenting [[Financial Data]].
 >
 > **[0:27](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=27)** Financial data differs in at least three ways.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=31)** The types of data, the timing, and the purpose.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=37)** These each can affect the way that you analyze and present the data in Excel, and then in PowerPoint.
+> **[0:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=37)** These each can affect the way that you analyze and present the data in Excel, and then in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:45](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=45)** Financial data typically involves monetary values such as revenue or expenses, profits, investments.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=95)** And lastly, the purpose.
 >
-> **[1:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=97)** Financial data is primarily used for financial analysis, budgeting, forecasting, and decision-making processes.
+> **[1:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=97)** Financial data is primarily used for [[Financial Analysis]], budgeting, [[Forecasting]], and [[Decision-Making]] processes.
 >
 > **[1:45](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980&t=105)** So it's really important to include the context in the presentation.
 >
@@ -219,13 +216,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Financial Data]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (1), [[Financial Analysis]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicating finance concepts to your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/communicating-finance-concepts-to-your-audience?u=76281980)
+#### [Communicating finance concepts to your audience](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/communicating-finance-concepts-to-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/communicating-finance-concepts-to-your-audience?u=76281980&t=95)** Part of your skill is to summarize without dumbing it down, and this is where knowing your audience comes in.
 >
-> **[1:43](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/communicating-finance-concepts-to-your-audience?u=76281980&t=103)** And a great way to do this is to use visuals such as graphs or tables or infographics to visualize the data and make it easier to digest and compare.
+> **[1:43](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/communicating-finance-concepts-to-your-audience?u=76281980&t=103)** And a great way to do this is to use visuals such as graphs or tables or [[Infographics]] to visualize the data and make it easier to digest and compare.
 >
 > **[1:54](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/communicating-finance-concepts-to-your-audience?u=76281980&t=114)** And lastly, try to focus on the story behind the data and how it relates to your audience.
 >
@@ -269,47 +265,45 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Infographics]] (1), business (1)
+> **Frameworks & Libraries:** [[Infographics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for preparing and presenting financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980)
+#### [Tools for preparing and presenting financial data](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=0)** - [Instructor] Let's discuss some of the tools that you'll need for preparing and presenting financial data.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=0)** - [Instructor] Let's discuss some of the tools that you'll need for preparing and presenting [[Financial Data]].
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=9)** Excel is the go-to tool that we are generally the most familiar with, and if your data is already quite clean and comes to you already in an Excel format, Excel is perhaps all you need to prepare your data.
+> **[0:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=9)** [[Microsoft Excel|Excel]] is the go-to tool that we are generally the most familiar with, and if your data is already quite clean and comes to you already in an Excel format, Excel is perhaps all you need to prepare your data.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=25)** If however, you need to bring your data into Excel from another system, manipulate it or clean it, then Power Query is definitely going to be useful for you.
+> **[0:25](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=25)** If however, you need to bring your data into Excel from another system, manipulate it or clean it, then [[Microsoft Power Query|Power Query]] is definitely going to be useful for you.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=37)** We'll touch just a little bit on how to use Power Query a little bit later on in this course.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=42)** You can use Power Query in Excel, or it's very similar to use it in Power BI.
+> **[0:42](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=42)** You can use Power Query in Excel, or it's very similar to use it in [[Microsoft Power BI|Power BI]].
 >
-> **[0:49](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=49)** But if you need to present or share the output of your financial analysis, then Power BI or PowerPoint are better tools than Excel for presentations.
+> **[0:49](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=49)** But if you need to present or share the output of your [[Financial Analysis]], then Power BI or [[Microsoft PowerPoint|PowerPoint]] are better tools than Excel for presentations.
 >
 > **[1:03](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tools-for-preparing-and-presenting-financial-data?u=76281980&t=63)** In this course, we will focus mostly on performing our analysis in Excel and then presenting it in PowerPoint.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (3), [[Microsoft Power Query|Power query]] (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Power Query|Power query]] (3), [[Microsoft Power BI|Power bi]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Financial Data]] (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing between Excel and PowerPoint for presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980)
+#### [Choosing between Excel and PowerPoint for presentations](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980&t=0)** - [Instructor] Although Excel is generally not considered a Presentation Tool, there are some instances where it might be most appropriate to present the outcomes of your analysis directly in Excel without exporting to PowerPoint first.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980&t=0)** - [Instructor] Although [[Microsoft Excel|Excel]] is generally not considered a Presentation Tool, there are some instances where it might be most appropriate to present the outcomes of your analysis directly in Excel without exporting to [[Microsoft PowerPoint|PowerPoint]] first.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980&t=17)** Now, they may not be particularly interested in seeing the model itself, but your team might like to see live and changing scenarios.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980&t=26)** And if the model is built correctly, you'll be able to make a single change to the input assumptions and the audience will be able to see the effects of these changing inputs in real-time.
+> **[0:26](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980&t=26)** And if the model is built correctly, you'll be able to make a single change to the input assumptions and the audience will be able to see the effects of these changing inputs in [[Real-Time]].
 >
 > **[0:39](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-between-excel-and-powerpoint-for-presentations?u=76281980&t=39)** So here we have a one page model, which would be kind of difficult to show in PowerPoint.
 >
@@ -363,15 +357,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), [[Real-Time]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), [[Real-Time]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing a chart or a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-a-chart-or-a-table?u=76281980)
+#### [Choosing a chart or a table](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-a-chart-or-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-a-chart-or-a-table?u=76281980&t=80)** It would be much better if we did it like this, but I hear you say: We are losing precision. I can't see the numbers.
 >
-> **[1:28](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-a-chart-or-a-table?u=76281980&t=88)** Let's take a look at a few options to make it even better in Excel now.
+> **[1:28](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-a-chart-or-a-table?u=76281980&t=88)** Let's take a look at a few options to make it even better in [[Microsoft Excel|Excel]] now.
 >
 > **[1:35](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/choosing-a-chart-or-a-table?u=76281980&t=95)** So here we've got the original raw data.
 >
@@ -411,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -419,8 +412,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the right chart to communicate your message
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/selecting-the-right-chart-to-communicate-your-message?u=76281980)
+#### [Selecting the right chart to communicate your message](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/selecting-the-right-chart-to-communicate-your-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +428,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/selecting-the-right-chart-to-communicate-your-message?u=76281980&t=27)** Point in time or over time?
 >
-> **[0:30](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/selecting-the-right-chart-to-communicate-your-message?u=76281980&t=30)** The use of AI in Excel, such as recommended charts, can help determine the best visual to display data, but you need to be able to ensure the visual makes sense and aligns with the message.
+> **[0:30](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/selecting-the-right-chart-to-communicate-your-message?u=76281980&t=30)** The use of AI in [[Microsoft Excel|Excel]], such as recommended charts, can help determine the best visual to display data, but you need to be able to ensure the visual makes sense and aligns with the message.
 >
 > **[0:44](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/selecting-the-right-chart-to-communicate-your-message?u=76281980&t=44)** Let's do a practical example together now.
 >
@@ -534,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), ai (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), select the (1)
 > **Best Practices:** recommended (4)
@@ -547,12 +539,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Charting with tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980)
+#### [Charting with tables](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980&t=0)** - [Educator] Tables are an optional feature of Excel and they can be very useful tools when you need to create dynamic charts with changing data.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980&t=0)** - [Educator] Tables are an optional feature of [[Microsoft Excel|Excel]] and they can be very useful tools when you need to create dynamic charts with changing data.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980&t=12)** Let me show you what I mean.
 >
@@ -584,13 +575,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [educator] (1)
 
-#### Summarizing data with PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/summarising-data-with-pivottables?u=76281980)
+#### [Summarizing data with PivotTables](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/summarising-data-with-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,15 +656,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gbp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Charting with Pivots
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-pivots?u=76281980)
+#### [Charting with Pivots](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-pivots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,21 +700,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning up data with Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980)
+#### [Cleaning up data with Power Query](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=0)** - [Presenter] Sometimes the data we are given, is not in a format that we can easily analyze.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=6)** We're going to take a quick look now at cleaning up some data using Power Query.
+> **[0:06](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=6)** We're going to take a quick look now at cleaning up some data using [[Microsoft Power Query|Power Query]].
 >
 > **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=12)** Bear in mind though, that this is a huge topic, and there are plenty of other courses you can take to learn more about this fantastic tool.
 >
@@ -750,7 +736,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=66)** So I can use a, what looks like a filter, but it's going to actually remove it completely from my data.
 >
-> **[1:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=74)** So if I hit close and load, now that's going to take me back into Excel, and it's created a copy of my data.
+> **[1:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=74)** So if I hit close and load, now that's going to take me back into [[Microsoft Excel|Excel]], and it's created a copy of my data.
 >
 > **[1:23](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/cleaning-up-data-with-basic-powerquery?u=76281980&t=83)** This is the output of my query, and you can see that the total has disappeared.
 >
@@ -798,19 +784,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Power Query|Power query]] (4), hit (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Manipulating data with unpivot in Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980)
+#### [Manipulating data with unpivot in Power Query](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=0)** - [Instructor] Let's look at another useful feature of Power Query that you can use to get your data into a format that you can use in your presentations.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=0)** - [Instructor] Let's look at another useful feature of [[Microsoft Power Query|Power Query]] that you can use to get your data into a format that you can use in your presentations.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=10)** So let's have a look at some data.
 >
@@ -840,7 +825,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=109)** And we can see that these are all steps that have been created in Power Query.
 >
-> **[1:55](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=115)** So let's go back and close and load and see how that looks now in Excel.
+> **[1:55](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=115)** So let's go back and close and load and see how that looks now in [[Microsoft Excel|Excel]].
 >
 > **[2:02](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/manipulating-data-with-unpivot-in-powerquery?u=76281980&t=122)** So we can see that it's created a separate column for the month and profit.
 >
@@ -878,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), data (5), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -889,8 +874,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building charts based on formulas vs. PivotCharts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/building-charts-based-on-formulas-vs-pivotcharts?u=76281980)
+#### [Building charts based on formulas vs. PivotCharts](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/building-charts-based-on-formulas-vs-pivotcharts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,7 +920,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (1)
 > **Env Vars:** unique (2), sumif (2), ctrl (1), sumifs (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **UI Navigation:** go to (1)
@@ -944,8 +927,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making charts dynamic with dynamic arrays and named ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/making-charts-dynamic-with-dynamic-arrays-and-named-ranges?u=76281980)
+#### [Making charts dynamic with dynamic arrays and named ranges](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/making-charts-dynamic-with-dynamic-arrays-and-named-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,18 +1017,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** cat (3), make (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Slicing and filtering data for presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980)
+#### [Slicing and filtering data for presentations](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=0)** - [Instructor] A couple of the more useful features of pivot tables, slices and timelines.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=0)** - [Instructor] A couple of the more useful features of [[Pivot Tables]], slices and timelines.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=7)** So let's take a look at how to add these to our pivot chart and then how to add a similar functionality to our dynamic array formulas.
 >
@@ -1080,7 +1060,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=101)** We are going to create a little different-colored cell, and that is going to contain a dropdown box.
 >
-> **[1:49](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=109)** We're going to use a data validation dropdown box to select the location.
+> **[1:49](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=109)** We're going to use a [[Data Validation]] dropdown box to select the location.
 >
 > **[1:55](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/slicing-and-filtering-data-for-presentations?u=76281980&t=115)** But before we do that, we just need to create a list of all of the possible locations.
 >
@@ -1150,7 +1130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2), [[Pivot Tables]] (1)
 > **Env Vars:** unique (3), vic (1), sort (1), sumifs (1)
 > **UI Navigation:** dropdown (4), select the (1), go to (1)
 > **CLI Commands:** make (3)
@@ -1158,8 +1138,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deciding between formulas and PivotCharts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/deciding-between-formulas-and-pivotcharts?u=76281980)
+#### [Deciding between formulas and PivotCharts](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/deciding-between-formulas-and-pivotcharts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1166,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
@@ -1199,12 +1177,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing data with a combo chart on two axes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980)
+#### [Comparing data with a combo chart on two axes](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980&t=0)** - [Instructor] Now we are going to take a look at how to build some of the most simple but effective charts in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980&t=0)** - [Instructor] Now we are going to take a look at how to build some of the most simple but effective charts in [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980&t=8)** We'll start by creating a Combo Chart where we can compare two different units of data.
 >
@@ -1242,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** such as (1), for example (1)
@@ -1250,8 +1227,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Show changes over time with a waterfall chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/show-changes-over-time-with-a-waterfall-chart?u=76281980)
+#### [Show changes over time with a waterfall chart](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/show-changes-over-time-with-a-waterfall-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,19 +1263,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 4.1 (2), 16.2 (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying model sensitivities with a tornado chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980)
+#### [Displaying model sensitivities with a tornado chart](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=0)** - [Instructor] Sensitivity analysis is an important part of financial modeling.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=0)** - [Instructor] Sensitivity analysis is an important part of [[Financial Modeling]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=6)** And when you've finished building your financial model, a great way to display its sensitivities is with a tornado chart.
 >
@@ -1315,7 +1289,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=63)** Or if the building cost is higher, our margin is only 6%.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=69)** The drivers of this chart sensitivity tables, which can be built using data tables in Excel.
+> **[1:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=69)** The drivers of this chart sensitivity tables, which can be built using data tables in [[Microsoft Excel|Excel]].
 >
 > **[1:17](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/tracking-progress-with-a-gantt-chart?u=76281980&t=77)** Now I won't spend too much time on how to build a data table, but I'll take you through it briefly as we build it.
 >
@@ -1415,13 +1389,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Modeling]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a project schedule visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/showing-data-distribution-with-a-histogram?u=76281980)
+#### [Building a project schedule visual](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/showing-data-distribution-with-a-histogram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,19 +1502,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Displaying progress with a Gantt chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/displaying-model-sensitivities-with-a-tornado-chart?u=76281980)
+#### [Displaying progress with a Gantt chart](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/displaying-model-sensitivities-with-a-tornado-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/displaying-model-sensitivities-with-a-tornado-chart?u=76281980&t=0)** - [Instructor] Gantt charts are popular in project management and can be quite effective in showing the progress of a project, which may need to be included in your finance presentations.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/displaying-model-sensitivities-with-a-tornado-chart?u=76281980&t=13)** Now, there isn't a standard Gantt chart in Excel, but we can manipulate a bar chart to look like this with a few simple steps.
+> **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/displaying-model-sensitivities-with-a-tornado-chart?u=76281980&t=13)** Now, there isn't a standard Gantt chart in [[Microsoft Excel|Excel]], but we can manipulate a bar chart to look like this with a few simple steps.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/displaying-model-sensitivities-with-a-tornado-chart?u=76281980&t=22)** Let's go ahead and build one together.
 >
@@ -1597,7 +1568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1606,8 +1577,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Illustrating trends with sparklines
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980)
+#### [Illustrating trends with sparklines](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1615,7 +1585,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980&t=9)** We want to get our message across without clutter.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980&t=13)** Sparklines in Excel are really easy to add to your reports and are a great space-saving alternative to building multiple charts.
+> **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980&t=13)** Sparklines in [[Microsoft Excel|Excel]] are really easy to add to your reports and are a great space-saving alternative to building multiple charts.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980&t=23)** So here we have a whole lot of ratios.
 >
@@ -1637,15 +1607,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping geospatial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/mapping-geospatial-data?u=76281980)
+#### [Mapping geospatial data](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/mapping-geospatial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/mapping-geospatial-data?u=76281980&t=0)** - [Instructor] If you're using Excel for Microsoft 365, mapping geospatial data with map charts can be quite simple to build and an effective presentation tool.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/mapping-geospatial-data?u=76281980&t=0)** - [Instructor] If you're using [[Microsoft Excel|Excel]] for [[Microsoft 365]], mapping geospatial data with map charts can be quite simple to build and an effective presentation tool.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/mapping-geospatial-data?u=76281980&t=11)** So let's take a look at an example of how you might use map charts.
 >
@@ -1699,14 +1668,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding images and icons in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980)
+#### [Adding images and icons in Excel](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,7 +1682,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=9)** There are quite a few ways of doing this, so let's take a look at a couple of options.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=16)** So here we've used the stock history function to calculate the weekly open and close of the Microsoft stock.
+> **[0:16](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=16)** So here we've used the stock history function to calculate the weekly open and close of the [[Microsoft]] stock.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=27)** And then we've just calculated the movement to see how much it's moved during the week.
 >
@@ -1752,7 +1720,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=158)** So I can go in and replace my up and down.
 >
-> **[2:43](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=163)** If I go into my windows, full stop, I could replace it with a thumbs up.
+> **[2:43](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=163)** If I go into my [[Windows]], full stop, I could replace it with a thumbs up.
 >
 > **[2:54](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-images-and-icons-in-excel?u=76281980&t=174)** There we go, and I could replace the down windows full stop again with a search for the thumb, thumb down.
 >
@@ -1762,16 +1730,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding emojis in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-emojis-in-excel?u=76281980)
+#### [Adding emojis in Excel](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-emojis-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-emojis-in-excel?u=76281980&t=0)** - [Instructor] Emojis are quite popular nowadays, and you can easily add them in Excel and other programs by holding down the Windows key and pressing the full stop.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-emojis-in-excel?u=76281980&t=0)** - [Instructor] Emojis are quite popular nowadays, and you can easily add them in [[Microsoft Excel|Excel]] and other programs by holding down the [[Windows]] key and pressing the full stop.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-emojis-in-excel?u=76281980&t=12)** Now I don't recommend that you go over the top with these.
 >
@@ -1815,8 +1782,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding meaning to tables with color scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980)
+#### [Adding meaning to tables with color scales](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1836,7 +1802,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980&t=56)** And if you do that, you can remove the legend, because the legend is already showing on your data table here.
 >
-> **[1:04](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980&t=64)** And if you are going to accompany this with an Excel spreadsheet, then I would say that it's not a bad idea to perhaps add some color scales using some conditional formatting.
+> **[1:04](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980&t=64)** And if you are going to accompany this with an [[Microsoft Excel|Excel]] spreadsheet, then I would say that it's not a bad idea to perhaps add some color scales using some conditional formatting.
 >
 > **[1:19](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980&t=79)** So you can go to here, and I am not going to go with the whole red and green color scheme here.
 >
@@ -1868,20 +1834,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding and drawing attention to anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/finding-and-drawing-attention-to-anomalies?u=76281980)
+#### [Finding and drawing attention to anomalies](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/finding-and-drawing-attention-to-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/finding-and-drawing-attention-to-anomalies?u=76281980&t=0)** - [Instructor] When preparing data for a presentation, we really need to find the story in the data, figure out what's going on, and then present it in a way that gets the meaning across.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/finding-and-drawing-attention-to-anomalies?u=76281980&t=13)** When we receive data in Excel, using formatting and color can help to find and draw attention to anomalies which might otherwise be difficult to spot.
+> **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/finding-and-drawing-attention-to-anomalies?u=76281980&t=13)** When we receive data in [[Microsoft Excel|Excel]], using formatting and color can help to find and draw attention to anomalies which might otherwise be difficult to spot.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/finding-and-drawing-attention-to-anomalies?u=76281980&t=25)** So in this example, we've got a download from the system, and without the formatting, it's quite difficult to see what's going on.
 >
@@ -1953,14 +1918,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Giving numbers meaning with data bars
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/giving-numbers-meaning-with-data-bars?u=76281980)
+#### [Giving numbers meaning with data bars](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/giving-numbers-meaning-with-data-bars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1968,7 +1932,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/giving-numbers-meaning-with-data-bars?u=76281980&t=10)** As we discussed earlier in the course, this is a key decision when putting together your presentation, and data bars can be a good alternative.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/giving-numbers-meaning-with-data-bars?u=76281980&t=21)** Let's have a look at how to add these in Excel using conditional formatting.
+> **[0:21](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/giving-numbers-meaning-with-data-bars?u=76281980&t=21)** Let's have a look at how to add these in [[Microsoft Excel|Excel]] using conditional formatting.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/giving-numbers-meaning-with-data-bars?u=76281980&t=27)** So here we have a simple dashboard.
 >
@@ -1992,7 +1956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **CLI Commands:** make (1)
@@ -2000,14 +1964,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a heatmap with color scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-a-heatmap-with-color-scales?u=76281980)
+#### [Creating a heatmap with color scales](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-a-heatmap-with-color-scales?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-a-heatmap-with-color-scales?u=76281980&t=0)** - [Instructor] Color Scales are another type of conditional formatting that can also add a heat map style overlay, which adds meaning to your data presentation.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-a-heatmap-with-color-scales?u=76281980&t=12)** Just as an example, here we have some random numbers that have been created in Excel and you can see that they keep changing.
+> **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-a-heatmap-with-color-scales?u=76281980&t=12)** Just as an example, here we have some random numbers that have been created in [[Microsoft Excel|Excel]] and you can see that they keep changing.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-a-heatmap-with-color-scales?u=76281980&t=20)** And if I were to add some color scales over the top, you can see that every time I hit the F9, the colors and the numbers are changing.
 >
@@ -2043,14 +2006,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an actual vs. budget variance report
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980)
+#### [Creating an actual vs. budget variance report](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2094,7 +2056,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=154)** So whether it's positive or negative, it doesn't matter.
 >
-> **[2:39](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=159)** And then we'll go in and say if the absolute value is greater than or equal to the 10%, we'll go in and put in our windows full stop, which will bring up our emojis.
+> **[2:39](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=159)** And then we'll go in and say if the absolute value is greater than or equal to the 10%, we'll go in and put in our [[Windows]] full stop, which will bring up our emojis.
 >
 > **[2:57](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=177)** And let's do a warning.
 >
@@ -2104,7 +2066,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=191)** So we can just copy that down and center it.
 >
-> **[3:15](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=195)** Okay, so we can see that there are just two of these products which sit outside the 10% tolerance.
+> **[3:15](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=195)** Okay, so we can see that there are just two of these [[Microsoft Products|products]] which sit outside the 10% tolerance.
 >
 > **[3:25](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-an-actual-vs-budget-variance-report?u=76281980&t=205)** We could go in and add some formatting over the top of that, and we'll say if it is in fact a warning, we can change the color.
 >
@@ -2118,7 +2080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Windows]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (3)
 > **Definitions:** is a  (1)
@@ -2129,16 +2091,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying Office themes in PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980)
+#### [Applying Office themes in PowerPoint](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=0)** - [Instructor] Now that we've looked at how to clean, analyze your data, and prepare your visuals in Excel, let's move on now to PowerPoint and have a look at how to best put together a finance presentation using your analysis from Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=0)** - [Instructor] Now that we've looked at how to clean, analyze your data, and prepare your visuals in [[Microsoft Excel|Excel]], let's move on now to [[Microsoft PowerPoint|PowerPoint]] and have a look at how to best put together a finance presentation using your analysis from Excel.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=16)** The first thing we need to address, though, is the Office themes, because these can cause a bit of frustration if we don't use them properly.
+> **[0:16](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=16)** The first thing we need to address, though, is the [[Microsoft Office|Office]] themes, because these can cause a bit of frustration if we don't use them properly.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=25)** Every Office document, whether it's in Excel, Word, PowerPoint, or even Outlook, has a theme applied.
+> **[0:25](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=25)** Every Office document, whether it's in Excel, [[Microsoft Word|Word]], PowerPoint, or even [[Microsoft Outlook|Outlook]], has a theme applied.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=32)** In Excel, there's one theme for all of the sheets in a workbook.
 >
@@ -2148,7 +2109,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=49)** So moving over into Excel now, we can see here on the Page Layout tab, here are those three attributes: Colors, Fonts, and Effects.
 >
-> **[1:04](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=64)** For many years, the standard font for Microsoft products was Calibri, but fairly recently, Microsoft updated its theme, so the standard font used is Aptos.
+> **[1:04](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=64)** For many years, the standard font for [[Microsoft Products]] was Calibri, but fairly recently, [[Microsoft]] updated its theme, so the standard font used is Aptos.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980&t=77)** This came out in a 2023 release, but most people only got access to it in 2024.
 >
@@ -2188,18 +2149,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft Office|Office]] (6), [[Microsoft Word|Word]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft Office|Office]] (6), [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Options for copying and pasting from Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/options-for-copy-pasting-from-excel?u=76281980)
+#### [Options for copying and pasting from Excel](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/options-for-copy-pasting-from-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/options-for-copy-pasting-from-excel?u=76281980&t=0)** - [Narrator] Although it might seem straightforward, there are several ways of copying and pasting from Excel into PowerPoint and you'll get a different effect depending on which option you select.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/options-for-copy-pasting-from-excel?u=76281980&t=0)** - [Narrator] Although it might seem straightforward, there are several ways of copying and pasting from [[Microsoft Excel|Excel]] into [[Microsoft PowerPoint|PowerPoint]] and you'll get a different effect depending on which option you select.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/options-for-copy-pasting-from-excel?u=76281980&t=13)** Let's go back into Excel now and we've got a little table that we'd like to display in PowerPoint and we can see that we are still using our dividend theme because if I want to add my headings, I can see that all of my theme options are available here.
 >
@@ -2283,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft PowerPoint|Powerpoint]] (6), data (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft PowerPoint|Powerpoint]] (6)
 > **Analogies:** picture (8)
 > **CLI Commands:** make (5)
 > **Warnings:** be aware (2), be careful (1)
@@ -2291,12 +2251,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Linking and embedding visuals from Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/linking-and-embedding-visuals-from-excel?u=76281980)
+#### [Linking and embedding visuals from Excel](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/linking-and-embedding-visuals-from-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/linking-and-embedding-visuals-from-excel?u=76281980&t=0)** - [Instructor] Let's take a look at embedding and linking your data from Excel into PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/linking-and-embedding-visuals-from-excel?u=76281980&t=0)** - [Instructor] Let's take a look at embedding and linking your data from [[Microsoft Excel|Excel]] into [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:07](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/linking-and-embedding-visuals-from-excel?u=76281980&t=7)** So here we have some Excel data that I want to embed into my PowerPoint slide.
 >
@@ -2356,18 +2315,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft PowerPoint|Powerpoint]] (8), data (7), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft PowerPoint|Powerpoint]] (8)
 > **UI Navigation:** double-click (4), go to (1), right-click (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating charts and tables natively in PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980)
+#### [Creating charts and tables natively in PowerPoint](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=0)** - [Instructor] Instead of creating visuals in Excel and importing them into PowerPoint, as we've discussed so far, you may decide to create native visuals directly in PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=0)** - [Instructor] Instead of creating visuals in [[Microsoft Excel|Excel]] and importing them into [[Microsoft PowerPoint|PowerPoint]], as we've discussed so far, you may decide to create native visuals directly in PowerPoint.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=12)** The advantage of doing it like this is that your data doesn't live anywhere else except in the PowerPoint document, which does make things a little simpler.
 >
@@ -2383,7 +2341,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=70)** And here I've got the functionality as if I were in Excel, so I could go in and do the sequence, and that will give me the functionality like that.
 >
-> **[1:20](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=80)** I could put, let's say the Top 5 Products, and I could add Product One, and then I could use Control + E just as if I were in Excel to use Flash Fill.
+> **[1:20](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=80)** I could put, let's say the Top 5 [[Microsoft Products|Products]], and I could add Product One, and then I could use Control + E just as if I were in Excel to use Flash Fill.
 >
 > **[1:36](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-charts-and-tables-natively-in-powerpoint?u=76281980&t=96)** And if I go back into PowerPoint, you can see it's really not that interesting.
 >
@@ -2415,16 +2373,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[Microsoft PowerPoint|Powerpoint]] (11), data (5), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[Microsoft PowerPoint|Powerpoint]] (11), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a Power BI report into PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-a-power-bi-report-into-powerpoint?u=76281980)
+#### [Adding a Power BI report into PowerPoint](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-a-power-bi-report-into-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-a-power-bi-report-into-powerpoint?u=76281980&t=0)** - [Narrator] If your organization uses Power BI, you can also add Power BI reports directly into a PowerPoint slide.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-a-power-bi-report-into-powerpoint?u=76281980&t=0)** - [Narrator] If your organization uses [[Microsoft Power BI|Power BI]], you can also add Power BI reports directly into a [[Microsoft PowerPoint|PowerPoint]] slide.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-a-power-bi-report-into-powerpoint?u=76281980&t=8)** To access published reports such as the one I'll demonstrate now, you can go to app.[powerbi.com](https://powerbi.com).
 >
@@ -2444,7 +2401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), power (3), bi (3)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** go to (3)
 > **Env Vars:** url (2)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
@@ -2456,12 +2413,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pasting Excel content into PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980)
+#### [Pasting Excel content into PowerPoint](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=0)** - [Instructor] Now that we've created our visuals in Excel, we'll use a few different paste and linking options to create a PowerPoint slide deck based on the visuals we've built during the course.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=0)** - [Instructor] Now that we've created our visuals in [[Microsoft Excel|Excel]], we'll use a few different paste and linking options to create a [[Microsoft PowerPoint|PowerPoint]] slide deck based on the visuals we've built during the course.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=14)** In most cases, we'll create a link from PowerPoint to the Excel file.
 >
@@ -2503,7 +2459,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=118)** Now if I want to have the title at the top of each slide, I just need to go to the Slide Master.
 >
-> **[2:07](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=127)** And at the top here, Financial Modeling Project Outcomes.
+> **[2:07](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=127)** And at the top here, [[Financial Modeling]] Project Outcomes.
 >
 > **[2:15](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=135)** And if I add that there, it's going to appear at the top of each page, which might be useful and save me a little bit of time.
 >
@@ -2605,7 +2561,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=390)** And I can just go into the link and I can just change this here and say, Go to financial model.
 >
-> **[6:44](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=404)** And it's also nice to do Windows full stop, and we could do a little emoji there, which might make it look a little more enticing.
+> **[6:44](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=404)** And it's also nice to do [[Windows]] full stop, and we could do a little emoji there, which might make it look a little more enticing.
 >
 > **[6:52](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980&t=412)** So you can just pop that down the below.
 >
@@ -2617,19 +2573,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Microsoft Excel|Excel]] (6), next (3), [[Financial Modeling]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Microsoft Excel|Excel]] (6), [[Financial Modeling]] (1), [[Windows]] (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the PowerPoint Designer
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/using-the-powerpoint-designer?u=76281980)
+#### [Using the PowerPoint Designer](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/using-the-powerpoint-designer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/using-the-powerpoint-designer?u=76281980&t=0)** - [Narrator] If you've been using PowerPoint for any length of time, you've probably noticed that the Designer is a quick and easy way to format a slide in PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/using-the-powerpoint-designer?u=76281980&t=0)** - [Narrator] If you've been using [[Microsoft PowerPoint|PowerPoint]] for any length of time, you've probably noticed that the Designer is a quick and easy way to format a slide in PowerPoint.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/using-the-powerpoint-designer?u=76281980&t=12)** So let's go back to our presentation that we just completed, and if we go to the first page and click on Designer, you can see that it uses the words to come up with a few different options here, and if you don't like any of those, you can click on See More Ideas, and it comes up with a whole lot of different ideas here.
 >
@@ -2653,20 +2608,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3)
 > **UI Navigation:** go to (2), click on (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Animating a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-chart?u=76281980)
+#### [Animating a chart](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-chart?u=76281980&t=0)** - [Instructor] Animations add interest to a live presentation, and are particularly effective when added to a chart.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-chart?u=76281980&t=9)** Let's go back to our Excel file now, and we're going to add another chart to the slide deck that we can add some animation to.
+> **[0:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-chart?u=76281980&t=9)** Let's go back to our [[Microsoft Excel|Excel]] file now, and we're going to add another chart to the slide deck that we can add some animation to.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-chart?u=76281980&t=18)** So we'll go to here, we'll hit Ctrl + C to copy it onto the clipboard.
 >
@@ -2708,7 +2662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -2716,8 +2670,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Animating a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980)
+#### [Animating a table](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2727,7 +2680,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=17)** This is more appropriate for a report, not a live presentation, but if you really wanted to include all of this information, if you want to give the audience a feel for how many ratios are available, you could add some animation, so let's have a look at how to do that.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=37)** So let's jump over into Excel and grab a copy of all of those ratios, and let's go back to our final presentation that we've been working on, and we will add a new slide, and I'm going to just paste it in.
+> **[0:37](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=37)** So let's jump over into [[Microsoft Excel|Excel]] and grab a copy of all of those ratios, and let's go back to our final presentation that we've been working on, and we will add a new slide, and I'm going to just paste it in.
 >
 > **[0:53](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=53)** Again, I'm going to use a paste link in case the data changes, and I just want to get rid of these background.
 >
@@ -2743,7 +2696,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=108)** I think that it would look a lot nicer without them, so I'll just flick over into Excel.
 >
-> **[1:54](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=114)** I'll remove the grid lines, and if I come back into PowerPoint, you can see that the grid lines have suddenly disappeared, and that's because I have linked, so any changes I make in Excel are going to be reflected in the PowerPoint as well.
+> **[1:54](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=114)** I'll remove the grid lines, and if I come back into [[Microsoft PowerPoint|PowerPoint]], you can see that the grid lines have suddenly disappeared, and that's because I have linked, so any changes I make in Excel are going to be reflected in the PowerPoint as well.
 >
 > **[2:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/animating-a-table?u=76281980&t=129)** All right, let's preview it.
 >
@@ -2755,7 +2708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (3), [[Microsoft PowerPoint|Powerpoint]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2764,12 +2717,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing your finalized presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980)
+#### [Sharing your finalized presentation](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=0)** - [Instructor] When you've finished your presentation, you can simply share the PowerPoint document with those who need to view it.
+> **[0:00](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=0)** - [Instructor] When you've finished your presentation, you can simply share the [[Microsoft PowerPoint|PowerPoint]] document with those who need to view it.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=8)** But if you are sending it externally, or you don't want people to make changes, it's more polished and professional to send it out as a PDF.
 >
@@ -2787,7 +2739,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=61)** So, you can see that the link that I have created there does not work when I've printed it.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=69)** Let's have a look at the rest of it, and you can see that half of my ratios are missing.
+> **[1:09](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=69)** Let's have a look at the [[Representational State Transfer (REST)|rest]] of it, and you can see that half of my ratios are missing.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/sharing-your-finalized-presentation?u=76281980&t=74)** I do need to create a different version of this document so that I can see the rest of my ratios.
 >
@@ -2832,8 +2784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2845,13 +2796,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=17)** Before I go, I'd like to mention a couple of resources.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=21)** As I said, there are a few areas of technical Excel expertise that we covered only very briefly during the course, and you might like to dive into these areas further.
+> **[0:21](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=21)** As I said, there are a few areas of technical [[Microsoft Excel|Excel]] expertise that we covered only very briefly during the course, and you might like to dive into these areas further.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=32)** These include Power Query, Power BI, dynamic arrays and data tables.
+> **[0:32](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=32)** These include [[Microsoft Power Query|Power Query]], [[Microsoft Power BI|Power BI]], dynamic arrays and data tables.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=38)** And if you are new to PivotTables, there are a lot of additional features you might find useful.
 >
-> **[0:43](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=43)** There are lots of other courses in the LinkedIn Learning library that you can take if you wish to explore these topics further.
+> **[0:43](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=43)** There are lots of other courses in the [[LinkedIn]] Learning library that you can take if you wish to explore these topics further.
 >
 > **[0:50](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=50)** Congratulations, and well done for making it through to the very end of this course.
 >
@@ -2859,13 +2810,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=62)** While you're there, make sure you follow me on LinkedIn.
 >
-> **[1:05](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=65)** As a Microsoft MVP, I'm always sharing content about using Excel and finance presentations.
+> **[1:05](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=65)** As a [[Microsoft]] MVP, I'm always sharing content about using Excel and finance presentations.
 >
-> **[1:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=74)** Thanks again for taking this course, and I wish you all the very best for your journey in the world of using Excel and PowerPoint to create high-impact financial presentations.
+> **[1:14](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980&t=74)** Thanks again for taking this course, and I wish you all the very best for your journey in the world of using Excel and [[Microsoft PowerPoint|PowerPoint]] to create high-impact financial presentations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (3), [[Microsoft Power Query|Power query]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (3), [[Microsoft Power Query|Power query]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** mvp (1)
 > **Cross-References:** we covered (1)

@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Big data in the age of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980)
+#### [Big data in the age of AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=0)** Several years ago we were deep in the big data revolution when the volume, velocity, and variety of data overwhelmed the systems used to store, manipulate, and analyze it.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=0)** Several years ago we were deep in the [[Big Data]] revolution when the volume, velocity, and variety of data overwhelmed the systems used to store, manipulate, and analyze it.
 >
-> **[0:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=12)** Now we're in the artificial intelligence revolution.
+> **[0:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=12)** Now we're in the [[Artificial Intelligence (AI)|artificial intelligence]] revolution.
 >
-> **[0:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=15)** First predictive AI, then generative AI, and now agentic AI.
+> **[0:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=15)** First [[Predictive AI]], then [[Generative AI]], and now agentic AI.
 >
 > **[0:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980&t=19)** But it's important to remember that big data hasn't gone away and it hasn't become irrelevant.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (4), data (4), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 
@@ -129,12 +128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The volume, velocity, and variety of big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980)
+#### [The volume, velocity, and variety of big data](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=0)** - [Narrator] The one thing we know for sure about big data is that, well, it's big.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=0)** - [Narrator] The one thing we know for sure about [[Big Data]] is that, well, it's big.
 >
 > **[0:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=5)** I mean, it's really big.
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=179)** Or, things like GPS coordinators.
 >
-> **[3:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=180)** Or, social network connections, which require different kinds of databases to store them.
+> **[3:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=180)** Or, social network connections, which require different kinds of [[Databases]] to store them.
 >
 > **[3:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=185)** All of these are things that go beyond the standard rows and columns of a usual spreadsheet.
 >
@@ -226,7 +224,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=227)** But the problem is that the data that's available has expanded even more so.
 >
-> **[3:54](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=234)** Now, I want to give you a little bit of background and talk about the relative popularity of big data as a search term on Google.
+> **[3:54](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=234)** Now, I want to give you a little bit of background and talk about the relative popularity of big data as a search term on [[Google]].
 >
 > **[4:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980&t=242)** Here's the last 14 years from 2010 to 2024.
 >
@@ -260,26 +258,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (15), data (15), [[Databases]] (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (15), [[Databases]] (1), [[Google]] (1)
 > **Env Vars:** ram (1), gps (1)
 > **Analogies:** for example (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Machine learning and predictive AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980)
+#### [Machine learning and predictive AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=0)** - [Speaker] When people think about advanced data work these days, their minds are immediately drawn to artificial intelligence and machine learning, the way the mind was automatically drawn to big data and other procedures a few years ago.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=0)** - [Speaker] When people think about advanced data work these days, their minds are immediately drawn to [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning, the way the mind was automatically drawn to [[Big Data]] and other procedures a few years ago.
 >
 > **[0:14](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=14)** But to understand the connection between big data and these other fields, it's worth reminding ourselves about what they all mean.
 >
-> **[0:23](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=23)** So to begin with machine learning, well that's a collection of algorithms or computer programs that can find patterns and data to predict outcomes.
+> **[0:23](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=23)** So to begin with machine learning, well that's a collection of [[Algorithms]] or computer programs that can find patterns and data to predict outcomes.
 >
 > **[0:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=32)** And the idea is that those algorithms and prediction will improve over time.
 >
-> **[0:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=36)** Now, they range from the very simple regression, which in certain cases can be done by hand with a piece of paper and a pencil to the extraordinarily complex, such as deep learning neural networks.
+> **[0:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=36)** Now, they range from the very simple regression, which in certain cases can be done by hand with a piece of paper and a pencil to the extraordinarily complex, such as [[Deep Learning]] [[Neural Networks]].
 >
 > **[0:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=49)** And there are hundreds of other approaches in between those that fall into the general category of algorithms that computers can use to find patterns or ways that the machines can learn from the data.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=76)** So for instance, when computers learned how to play, go and even beat the world's best players, and one important distinction I want to draw is between predictive and generative methods for artificial intelligence.
 >
-> **[1:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=88)** Before two years ago when people talked about AI, they were talking about predictive AI, and these were methods for classifying and categorizing items.
+> **[1:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=88)** Before two years ago when people talked about AI, they were talking about [[Predictive AI]], and these were methods for classifying and categorizing items.
 >
 > **[1:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=99)** So for instance, what is this a photo of?
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=131)** And I want to show you how things have changed over time in the relative popularity.
 >
-> **[2:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=135)** What I'm using here is data from Google Trends.
+> **[2:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=135)** What I'm using here is data from [[Google]] Trends.
 >
 > **[2:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=138)** That's a free service that Google makes it.
 >
@@ -339,7 +336,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=202)** That is when deep learning neural networks first became prominent and were in the news, and then it went away for a while.
 >
-> **[3:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=211)** And then at 2022, well, that's when ChatGPT was released and when the general public was introduced to AI, specifically generative AI as a tool.
+> **[3:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=211)** And then at 2022, well, that's when [[ChatGPT]] was released and when the general public was introduced to AI, specifically [[Generative AI]] as a tool.
 >
 > **[3:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=221)** Now I want to think about the accomplishments of these different fields of machine learning, of AI.
 >
@@ -355,7 +352,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=264)** Number one is AI requires massive amounts of data, the exact things that the field of big data was created to handle.
 >
-> **[4:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=271)** It uses data that streams constantly, and it involves all sorts of novel forms of data like photographs and videos, AI and machine learning build on big data.
+> **[4:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=271)** It uses data that streams constantly, and it involves all sorts of novel [[Forms]] of data like photographs and videos, AI and machine learning build on big data.
 >
 > **[4:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/machine-learning-and-predictive-ai?u=76281980&t=282)** They could never have happened without it.
 >
@@ -367,20 +364,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Big Data]] (9), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[Big Data]] (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Algorithms]] (3), [[Deep Learning]] (3), [[Neural Networks]] (3)
 > **CLI Commands:** find (2)
 > **Analogies:** for instance (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [speaker] (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=0)** - [Instructor] Possibly the biggest change in the tech world in recent years is the development of generative AI.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=0)** - [Instructor] Possibly the biggest change in the tech world in recent years is the development of [[Generative AI]].
 >
-> **[0:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=6)** This is AI that does more than categorize or classify things, like predictive AI.
+> **[0:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=6)** This is AI that does more than categorize or classify things, like [[Predictive AI]].
 >
 > **[0:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=11)** It's now making things.
 >
@@ -390,9 +386,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=24)** Now, I want to show a pretty clear timeline for the change.
 >
-> **[0:29](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=29)** We looked before at Google Trends data on the relative popularity of the search term artificial intelligence, and you can see a spike in 2012, when deep learning neural networks first became available to professional researchers.
+> **[0:29](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=29)** We looked before at [[Google]] Trends data on the relative popularity of the search term [[Artificial Intelligence (AI)|artificial intelligence]], and you can see a spike in 2012, when [[Deep Learning]] [[Neural Networks]] first became available to professional researchers.
 >
-> **[0:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=43)** But then you see this huge jump after OpenAI released ChatGPT to the public on November 30th of 2022.
+> **[0:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=43)** But then you see this huge jump after OpenAI released [[ChatGPT]] to the public on November 30th of 2022.
 >
 > **[0:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=52)** You know, then you can look at things like GPT, a term that really wasn't even in the lexicon until that time, or of course, ChatGPT in orange we can see above that.
 >
@@ -410,11 +406,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=96)** So they're based on deep learning, which is the same approach that is used in the predictive AIs, but it goes about it a different way.
 >
-> **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=104)** And interestingly, transformers were developed to understand computer vision.
+> **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=104)** And interestingly, transformers were developed to understand [[Computer Vision]].
 >
 > **[1:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=109)** What is the program looking at when it decides this is a cat or this is a dog?
 >
-> **[1:54](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=114)** Then it got extended and applied to natural language processing, or NLP, which is another major data science topic.
+> **[1:54](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=114)** Then it got extended and applied to [[Natural Language Processing (NLP)|natural language processing]], or NLP, which is another major [[Data Science]] topic.
 >
 > **[2:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=122)** And interestingly, it outperformed the current state of the art, which then was recurrent neural networks, or RNNs.
 >
@@ -426,7 +422,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=158)** And transformer means the specific attention-based approach used to create the models.
 >
-> **[2:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=164)** Now there are also large language models, or LLMs.
+> **[2:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=164)** Now there are also [[Large Language Models (LLM)|large language models]], or LLMs.
 >
 > **[2:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=168)** These are models that typically, but not necessarily, use transformers to generate language, although they can be used for many other tasks.
 >
@@ -438,7 +434,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=205)** It's interpreting what's there, but it does rely on the same transformers that generative approaches use.
 >
-> **[3:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=212)** Now the thing is, big data is what makes generative AI possible, and it makes it take all the information you have available and create something new, like this image of a library which was created by generative AI.
+> **[3:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=212)** Now the thing is, [[Big Data]] is what makes generative AI possible, and it makes it take all the information you have available and create something new, like this image of a library which was created by generative AI.
 >
 > **[3:47](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=227)** Now, to be a little more explicit about the process, I want to give you some information about what went into making the previous version of OpenAI's GPT.
 >
@@ -464,7 +460,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=317)** They haven't published the information, but we do have some indications that it is 10 times larger.
 >
-> **[5:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=324)** It's estimated to have 1.8 trillion parameters or maybe 13 trillion tokens or fractions of words that it was trained on.
+> **[5:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=324)** It's estimated to have 1.8 trillion parameters or maybe 13 trillion [[Tokens]] or fractions of words that it was trained on.
 >
 > **[5:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/generative-ai?u=76281980&t=333)** And those came from sources like Common Crawl and RefinedWeb, which are both publicly accessible corpora for building AI models.
 >
@@ -478,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Generative AI]] (4), ai (4), [[ChatGPT]] (4), [[Big Data]] (4)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (4), [[Big Data]] (4), [[Deep Learning]] (3), [[Neural Networks]] (2)
 > **Env Vars:** gpt (5), nlp (1), bert (1)
 > **Definitions:** is a  (3), stands for (1), means that (1)
 > **CLI Commands:** cat (1)
@@ -486,8 +482,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980)
+#### [Agentic AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,9 +490,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=10)** So for instance, we started with the first kind of AI really not that long ago.
 >
-> **[0:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=15)** And that was predictive AI or AI that could be used to make predictive analytics, try to forecast what's going to happen in the future, you're trying to predict something, what is going to happen.
+> **[0:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=15)** And that was [[Predictive AI]] or AI that could be used to make [[Predictive Analytics]], try to forecast what's going to happen in the future, you're trying to predict something, what is going to happen.
 >
-> **[0:27](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=27)** a couple of years ago, we had the next step in that, which was generative AI, where instead of simply predicting something, the AI is making something.
+> **[0:27](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=27)** a couple of years ago, we had the next step in that, which was [[Generative AI]], where instead of simply predicting something, the AI is making something.
 >
 > **[0:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=37)** It's creating text, it's making a picture, it's making audio or video.
 >
@@ -557,7 +552,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=221)** And of course, as with anything that AI does, verify the results, see what's going on, do a little reality check.
 >
-> **[3:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=228)** And then also, as we have with AI, it's going to be important to assess the ethics and the practical implications of the work it does.
+> **[3:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=228)** And then also, as we have with AI, it's going to be important to assess the [[Ethics]] and the practical implications of the work it does.
 >
 > **[3:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/agentic-ai?u=76281980&t=238)** That said, there is enormous process with the growth of agentic AI, that as AI develops, it can take over more and more of the repetitive or automatable tasks to allow us to focus more on the things where we as humans can bring our more distinctive value.
 >
@@ -565,17 +560,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Generative AI]] (2), [[Predictive AI]] (1), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Predictive AI]] (1), [[Ethics]] (1)
 > **Analogies:** for instance (1), picture (1), think of it as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** led (1)
 
-#### Social media and the Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980)
+#### [Social media and the Internet of Things](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=0)** - [Presenter] The big data revolution has happened because data has grown, but it hasn't happened in a gradual process like a little sprout coming up out of the ground.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=0)** - [Presenter] The [[Big Data]] revolution has happened because data has grown, but it hasn't happened in a gradual process like a little sprout coming up out of the ground.
 >
 > **[0:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=9)** I mean, that would be an example of what's called linear growth.
 >
@@ -615,7 +609,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=98)** And there are a couple of major contributors to this explosive growth.
 >
-> **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=104)** The first major candidate for this explosive growth is social media, and the second one is the internet of things.
+> **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=104)** The first major candidate for this explosive growth is social media, and the second one is the [[IoT|internet of things]].
 >
 > **[1:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=111)** Now, there are many others, but these really play a starring role in the extraordinary growth of the big data world.
 >
@@ -631,7 +625,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=136)** That post gets liked.
 >
-> **[2:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=138)** Each like is an additional piece of data with a fair amount of metadata that goes with it.
+> **[2:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=138)** Each like is an additional piece of data with a fair amount of [[Metadata]] that goes with it.
 >
 > **[2:23](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=143)** Somebody puts an image online, that image gets tagged and it gets shared with anybody who's in it and it gets put into forums that use the same tags.
 >
@@ -641,7 +635,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=169)** It's not just that it's doubling, it's the X to the X kind of growth that just goes absolutely through the roof with social media.
 >
-> **[2:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=178)** Now, another one is the internet of things, that's IoT.
+> **[2:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=178)** Now, another one is the internet of things, that's [[IoT]].
 >
 > **[3:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-media-and-the-internet-of-things?u=76281980&t=183)** And the classical examples of internet of things include things like smart homes.
 >
@@ -691,14 +685,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Big Data]] (4), [[Internet of Things (IoT)|Internet of things]] (4), power (2), traffic (2)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[IoT|Internet of things]] (4), [[Metadata]] (1), [[IoT]] (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Data warehouses, data lakes, and the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980)
+#### [Data warehouses, data lakes, and the cloud](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=31)** But so often, the data did and frequently still does exist as a local file on one person's own computer, where it may not be able to do much good, except for that one person's desktop.
 >
-> **[0:46](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=46)** Organizations have always been trying to find ways to get the message out, and several developments in data storage have helped with that goal and helped deal with the massive quantities of data that are part and parcel of big data.
+> **[0:46](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=46)** Organizations have always been trying to find ways to get the message out, and several developments in [[Data Storage]] have helped with that goal and helped deal with the massive quantities of data that are part and parcel of [[Big Data]].
 >
 > **[1:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=62)** The first solution, the first step in this direction was the creation of data warehouses, a data warehouse is a unified place to keep an organization's data sets.
 >
@@ -754,15 +747,15 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=193)** And so it's potentially available to whoever needs it.
 >
-> **[3:16](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=196)** And really, it's the existence of data lakes through things like Hadoop that made the big data revolution possible.
+> **[3:16](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=196)** And really, it's the existence of [[Data Lakes]] through things like [[Hadoop]] that made the big data revolution possible.
 >
 > **[3:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=205)** But just as with data warehouses, there are some potential risks with data lakes.
 >
 > **[3:30](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=210)** And that is you can end up with a data swamp.
 >
-> **[3:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=213)** If the data lake isn't well maintained, if mistakes in the data aren't fixed, if adequate metadata isn't provided, if multiple but different versions of the same data are coexisting, if formats aren't adapted to the software use, you run the risk of getting this swamp like situation, which can be a dangerous place to get lost and really becomes a place where data go to die.
+> **[3:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=213)** If the data lake isn't well maintained, if mistakes in the data aren't fixed, if adequate [[Metadata]] isn't provided, if multiple but different versions of the same data are coexisting, if formats aren't adapted to the software use, you run the risk of getting this swamp like situation, which can be a dangerous place to get lost and really becomes a place where data go to die.
 >
-> **[3:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=237)** On the other hand, a more recent hybrid solution known as the lake house, that's a portmanteau of data lake and warehouse, combine some of the advantages of each approach, including the ability to work with both structured and unstructured data with less risk of developing into the swamp.
+> **[3:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=237)** On the other hand, a more recent hybrid solution known as the lake house, that's a portmanteau of data lake and warehouse, combine some of the advantages of each approach, including the ability to work with both structured and [[Unstructured Data]] with less risk of developing into the swamp.
 >
 > **[4:16](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=256)** Then again, that leads us into the most common solution today, which is the cloud.
 >
@@ -772,7 +765,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=276)** It doesn't rely on local maintenance of the equipment because it's off somewhere else.
 >
-> **[4:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=282)** I mean, this is when you use things like Amazon Web Services, better known as AWS or Microsoft Azure or Google Cloud, among others.
+> **[4:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=282)** I mean, this is when you use things like [[Amazon Web Services (AWS)|Amazon Web Services]], better known as AWS or [[Microsoft Azure]] or [[Google Cloud Platform (GCP)|Google Cloud]], among others.
 >
 > **[4:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=291)** And also because it's fully online, it's more accessible and truthfully, it's more adaptable.
 >
@@ -796,9 +789,9 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=359)** One is the multi-Cloud, also called Polynimbus.
 >
-> **[6:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=363)** This is using several different Cloud storage and computing providers simultaneously.
+> **[6:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=363)** This is using several different [[Cloud Storage]] and computing providers simultaneously.
 >
-> **[6:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=369)** You might use both Microsoft Azure and Google Cloud, and use some IBM Cloud computing resources.
+> **[6:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=369)** You might use both Microsoft Azure and Google Cloud, and use some IBM [[Cloud Computing]] resources.
 >
 > **[6:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=378)** The point here is you actually can integrate them so they're in a single heterogeneous environment.
 >
@@ -806,7 +799,7 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=388)** Now, that's one popular approach because it lets you use the strengths of each of these providers.
 >
-> **[6:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=394)** There's also hybrid Cloud.
+> **[6:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=394)** There's also [[Hybrid Cloud]].
 >
 > **[6:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-warehouses-data-lakes-and-the-cloud-31649038?u=76281980&t=396)** This is where you're using both a public Cloud like AWS, and you're using a secure private Cloud.
 >
@@ -860,15 +853,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (53), cloud (16), [[Big Data]] (5), [[Security]] (3), next (2)
+> **Frameworks & Libraries:** [[Big Data]] (5), [[Data Lakes]] (2), [[Microsoft Azure]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Hybrid Cloud]] (2)
 > **CLI Commands:** aws (2), find (1), make (1)
 > **Definitions:** is a  (2), known as (2)
 > **Env Vars:** aws (2), ibm (1)
 > **Analogies:** for instance (2), think of it as (1)
 > **UI Navigation:** go to (1)
 
-#### Edge computing, fog computing, and local computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980)
+#### [Edge computing, fog computing, and local computing](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,9 +872,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=34)** And when it comes to helping people, you can engage in a giant, newsworthy, grand gesture, or you can focus on 1,000 small acts of kindness.
 >
-> **[0:45](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=45)** You have a similar strategic choice in big data.
+> **[0:45](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=45)** You have a similar strategic choice in [[Big Data]].
 >
-> **[0:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=49)** You can either put all of your data and all of your processing hardware in a single massive server farm or other central location.
+> **[0:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=49)** You can either put all of your data and all of your processing [[Hardware]] in a single massive server farm or other central location.
 >
 > **[0:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=58)** Or you can spread out the work to many, many small processors.
 >
@@ -896,7 +888,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=88)** But in edge computing, those devices on the edge, the ones on the periphery, can also store and even process data, taking some of the workload away from the central computer.
 >
-> **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=104)** Another name for this is fog computing, and this comes from the idea that you have the cloud for data storage and data processing, which is large online servers.
+> **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=104)** Another name for this is fog computing, and this comes from the idea that you have the cloud for [[Data Storage]] and [[Data Processing]], which is large online servers.
 >
 > **[1:56](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=116)** But fog is the same kind of cloud, but now it's on the ground and it's all around you.
 >
@@ -910,7 +902,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=144)** And obviously, if you have poor connectivity, this is a good way of dealing with it, because you don't necessarily have to connect to get the information or to do the processing.
 >
-> **[2:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=153)** There can be reduced server load at the central location, but probably one of the most important ones for a lot of consumers is privacy.
+> **[2:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=153)** There can be reduced server load at the central location, but probably one of the most important ones for a lot of consumers is [[Privacy]].
 >
 > **[2:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/edge-computing-fog-computing-and-local-computing?u=76281980&t=162)** If the identifying or private information never leaves your phone, if it never leaves your watch, if it never leaves your laptop, if it always stays with you, then you don't have the same kind of privacy concerns that might happen when everything's stored in a single central location.
 >
@@ -944,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (5), [[Big Data]] (4), [[Privacy]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Privacy]] (2), [[Hardware]] (1), [[Data Storage]] (1), [[Data Processing]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -955,8 +947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Big data for competitive advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980)
+#### [Big data for competitive advantage](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,7 +993,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=123)** At best, you would keep even with them, but it won't put you ahead.
 >
-> **[2:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=127)** You need a competitive advantage, and this is where big data comes in.
+> **[2:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=127)** You need a competitive advantage, and this is where [[Big Data]] comes in.
 >
 > **[2:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=133)** Remember, big data is data that's characterized by its unusual volume, its high velocity, and its astounding variety of formats and sources.
 >
@@ -1020,23 +1011,23 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=170)** This is a cell.
 >
-> **[2:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=171)** I know some local companies that do amazing work on biological experiments, conducting hundreds of thousands per week, then using microscopes to take photos of the cells, and then using artificial intelligence to process those photos.
+> **[2:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=171)** I know some local companies that do amazing work on biological experiments, conducting hundreds of thousands per week, then using microscopes to take photos of the cells, and then using [[Artificial Intelligence (AI)|artificial intelligence]] to process those photos.
 >
 > **[3:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=186)** It's a novel data source.
 >
 > **[3:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=187)** It's extremely high-quality data, and it's actually allowing them to get a huge advantage in the pharmaceutical market.
 >
-> **[3:14](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=194)** Also, the intelligent use of big data through data science, machine learning, and artificial intelligence allows you to adapt dynamically in real time, not just quarterly or monthly or yearly.
+> **[3:14](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=194)** Also, the intelligent use of big data through [[Data Science]], machine learning, and artificial intelligence allows you to adapt dynamically in real time, not just quarterly or monthly or yearly.
 >
 > **[3:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=208)** It allows you to identify new trends and new markets and then jump on, rephrase, and start engaging with them immediately.
 >
-> **[3:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=216)** You can become an agile organization through the proper use of big data.
+> **[3:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=216)** You can become an [[Agile Development|agile]] organization through the proper use of big data.
 >
 > **[3:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=221)** Now, let me say just a little bit more about each of these.
 >
-> **[3:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=223)** With the new patterns, big data brings in with it a whole new suite of new algorithms, new ways of processing.
+> **[3:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=223)** With the new patterns, big data brings in with it a whole new suite of new [[Algorithms]], new ways of processing.
 >
-> **[3:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=231)** It's true that a lot of traditional methods, like linear regression, can be extraordinarily effective with the proper data, but sometimes your questions go beyond that and you do need the algorithms that come with the big data revolution.
+> **[3:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=231)** It's true that a lot of traditional methods, like [[Linear Regression]], can be extraordinarily effective with the proper data, but sometimes your questions go beyond that and you do need the algorithms that come with the big data revolution.
 >
 > **[4:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=245)** You can focus on exceptional cases, and especially 'cause you're going to have a lot of data.
 >
@@ -1058,7 +1049,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=290)** Social media posts are a tremendous way of getting unfiltered and unprompted data from your potential audience.
 >
-> **[4:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=299)** You're going to want to look at product reviews, both on big e-commerce sites and also things like bloggers who review things for their own audience.
+> **[4:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=299)** You're going to want to look at product reviews, both on big [[E-Commerce]] sites and also things like bloggers who review things for their own audience.
 >
 > **[5:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980&t=308)** That's going to give you amazing insight.
 >
@@ -1088,15 +1079,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Big Data]] (13), business (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Big Data]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), [[Data Science]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** crm (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Big data for change detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980)
+#### [Big data for change detection](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1140,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=125)** Number one is missed opportunities.
 >
-> **[2:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=127)** If there is, in fact, a genuine change in the market or the environment you're dealing with and you don't react to it, you might miss a change in market conditions, audience dynamics, something that could potentially bring value to the work that you do.
+> **[2:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=127)** If there is, in fact, a genuine change in the market or the environment you're dealing with and you don't [[React.js|react]] to it, you might miss a change in market conditions, audience dynamics, something that could potentially bring value to the work that you do.
 >
 > **[2:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=142)** On the other hand, the flip side of that is being overreactive, and that's the risk of making expensive, unnecessary changes.
 >
@@ -1180,7 +1170,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=227)** They're in the dataset, and maybe they happen more than once, but you don't have an explanation and you're not able to build a model, at least not using standard methods, to capture the variation of that idiosyncratic point or group of points.
 >
-> **[4:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=243)** And this is where big data comes to the rescue.
+> **[4:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=243)** And this is where [[Big Data]] comes to the rescue.
 >
 > **[4:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=247)** Now, big data, among other things, is big, and what it allows you is more detail.
 >
@@ -1188,7 +1178,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=257)** Big data gives you more patterns that you can see, and in greater detail.
 >
-> **[4:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=262)** You can zoom way in, and still have the resolution you need to do effective modeling.
+> **[4:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=262)** You can [[Zoom]] way in, and still have the resolution you need to do effective modeling.
 >
 > **[4:27](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=267)** I mean, there are more cases.
 >
@@ -1218,7 +1208,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=332)** And you can test your model on them.
 >
-> **[5:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=334)** Now, this is very common procedure in machine learning and data science, and places where you have large data sets.
+> **[5:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=334)** Now, this is very common procedure in machine learning and [[Data Science]], and places where you have large data sets.
 >
 > **[5:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-change-detection?u=76281980&t=343)** It is not common procedure in other fields like mine, which is experimental social psychology, where data sets are measured in one or 200 cases.
 >
@@ -1232,18 +1222,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Big Data]] (6), hit (1), [[React.js|React]] (1), bi (1)
+> **Frameworks & Libraries:** [[Big Data]] (6), [[React.js|React]] (1), [[Zoom]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Big data as proxy data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980)
+#### [Big data as proxy data](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=0)** - [Instructor] Now, this may seem a little odd in the context of a course on big data where we're trying to find ways to benefit from the enormous quantities of data that are now available, but I'm actually a huge fan of taking the three Rs that we know so well from the physical world, reduce, reuse and recycle, and applying them in the data world too.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=0)** - [Instructor] Now, this may seem a little odd in the context of a course on [[Big Data]] where we're trying to find ways to benefit from the enormous quantities of data that are now available, but I'm actually a huge fan of taking the three Rs that we know so well from the physical world, reduce, reuse and recycle, and applying them in the data world too.
 >
 > **[0:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=22)** Now, there's a couple of reasons for that.
 >
@@ -1255,7 +1244,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=52)** Second, there are costs of preparing data.
 >
-> **[0:54](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=54)** There's the common truism that in a data science project, 80% of your time is spent preparing the data for analysis, and the remaining 20 is spent on analyzing it, or interpreting it, or doing other things.
+> **[0:54](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=54)** There's the common truism that in a [[Data Science]] project, 80% of your time is spent preparing the data for analysis, and the remaining 20 is spent on analyzing it, or interpreting it, or doing other things.
 >
 > **[1:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=66)** If there were some way to reduce the costs of gathering data and the costs of preparing data, and in fact, have them approach zero, wouldn't that be a fabulous thing?
 >
@@ -1263,7 +1252,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=79)** Now, number one, you do have the option of gathering passive data.
 >
-> **[1:23](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=83)** Anytime somebody gets on a social media platform or an e-commerce site, there is data gathered of some kind, and a little information about where they're located, what device they were using, how long they were there.
+> **[1:23](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=83)** Anytime somebody gets on a social media platform or an [[E-Commerce]] site, there is data gathered of some kind, and a little information about where they're located, what device they were using, how long they were there.
 >
 > **[1:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=96)** And so there is that passive data.
 >
@@ -1279,7 +1268,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=138)** And there's a related method of meta-analysis.
 >
-> **[2:21](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=141)** This is where you take the results of several published studies, and without ever even having the raw data, but looking at the results that they posted, their summary statistics, you can then combine them into a larger-scale result along with modeling some of the things about each study that might push their results one way or another.
+> **[2:21](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=141)** This is where you take the results of several published studies, and without ever even having the raw data, but looking at the results that they posted, their summary [[Statistics]], you can then combine them into a larger-scale result along with modeling some of the things about each study that might push their results one way or another.
 >
 > **[2:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=163)** In the social sciences, my field, this is a wonderful approach.
 >
@@ -1291,7 +1280,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=188)** And it allows you to reuse existing data, recycle it in new ways, and get some insights.
 >
-> **[3:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=195)** On the other hand, over the last couple of years, with the advent of generally available generative AI, one other interesting possibility has come up, and that is the ability to generate proxy data from generative AI.
+> **[3:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=195)** On the other hand, over the last couple of years, with the advent of generally available [[Generative AI]], one other interesting possibility has come up, and that is the ability to generate proxy data from generative AI.
 >
 > **[3:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-as-proxy-data?u=76281980&t=211)** Literally, this is where you're telling your large language model, "Tell me how people would respond to these questions," or, "Tell me how people would respond under these different situations."
 >
@@ -1329,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Generative AI]] (4), prompt (2), [[Big Data]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Big Data]] (1), [[Data Science]] (1), [[E-Commerce]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1339,14 +1328,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Big data and privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980)
+#### [Big data and privacy](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=0)** - [Instructor] Most tech companies would think that their wildest dreams had all come true if they could bring in $5 billion of revenue.
 >
-> **[0:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=10)** But to lose $5 billion because you didn't adequately protect people's privacy, well, that would be about your worst nightmare.
+> **[0:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=10)** But to lose $5 billion because you didn't adequately protect people's [[Privacy]], well, that would be about your worst nightmare.
 >
 > **[0:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=18)** And that's something that Facebook gets to deal with at this exact moment because of a landmark fine for violating the privacy requirements of the European Union's General Data Protection Regulation, or GDPR.
 >
@@ -1366,7 +1354,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=72)** So we are seeing how the GDPR gets interpreted and how it plays out.
 >
-> **[1:17](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=77)** And then there's things like the California Consumer Privacy Act, which will be enforced in 2020, rephrase, which will be enforced in 2020, shares many of the same elements as the GDPR and many states, and most countries, have their own versions of privacy regulations, which unfortunately don't always mesh.
+> **[1:17](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=77)** And then there's things like the California Consumer Privacy Act, which will be enforced in 2020, rephrase, which will be enforced in 2020, shares many of the same elements as the GDPR and many states, and most countries, have their own versions of privacy regulations, which unfortunately don't always [[Mesh]].
 >
 > **[1:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=96)** And so it makes working in an international environment, which is what people on the internet do, a little more challenging.
 >
@@ -1434,24 +1422,23 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=317)** It's going to have to depend on, among other things, the field that you're working in, the kind of data that you have available to you, and of course your local laws and regulations.
 >
-> **[5:27](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=327)** And if you want more information about some of these challenges and some potential solutions, we have another course available, AI Accountability Essential Training, which will be a great introduction to these topics for anybody working in big data, data science, machine learning, and artificial intelligence.
+> **[5:27](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=327)** And if you want more information about some of these challenges and some potential solutions, we have another course available, AI [[Accountability]] Essential Training, which will be a great introduction to these topics for anybody working in [[Big Data]], [[Data Science]], machine learning, and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[5:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980&t=344)** That way you can start doing your work and you can do it in a way that is productive, that is useful, that provides something of value for your clients and your customers, without running afoul of the laws, the regulations, and the social practices that you're dealing with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Privacy]] (6), [[Mesh]] (1), web (1), ai (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Mesh]] (1), [[Accountability]] (1), [[Big Data]] (1), [[Data Science]] (1)
 > **Env Vars:** gdpr (7)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intellectual property, corporate data, and generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980)
+#### [Intellectual property, corporate data, and generative AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=0)** - [Narrator] Big data doesn't get any bigger than the data that goes into training generative AI.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=0)** - [Narrator] [[Big Data]] doesn't get any bigger than the data that goes into training [[Generative AI]].
 >
 > **[0:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=6)** In a sense, each company that develops a model is using some industrial commercial vacuum to suck up all the data that they possibly can.
 >
@@ -1483,7 +1470,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=144)** Many organizations have issued really strict policies that nothing that is considered private corporate data should ever be uploaded to an AI because it becomes unclear what's going to happen with it.
 >
-> **[2:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=159)** There are solutions to this and that is that certain models or certain versions of models come with a guarantee to not share your data, and so it's going to be on you to figure out exactly which ones have the level of confidentiality, of privacy and protection that you want.
+> **[2:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=159)** There are solutions to this and that is that certain models or certain versions of models come with a guarantee to not share your data, and so it's going to be on you to figure out exactly which ones have the level of confidentiality, of [[Privacy]] and protection that you want.
 >
 > **[3:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/intellectual-property-corporate-data-and-generative-ai?u=76281980&t=180)** Then there's a third one where there's really no good way of getting around it, and that is when people upload unlicensed data.
 >
@@ -1501,23 +1488,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Generative AI]] (5), ai (5), [[Privacy]] (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Privacy]] (2), [[Big Data]] (1)
 > **Warnings:** be careful (2), caution (1), be aware (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Environmental impact of big data and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980)
+#### [Environmental impact of big data and AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=0)** If there's one thing that's for certain about both big data and generative AI, it's they use a colossal amount of energy and natural resources in the computing, in the development of models, and in the distribution of models.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=0)** If there's one thing that's for certain about both [[Big Data]] and [[Generative AI]], it's they use a colossal amount of energy and natural resources in the computing, in the development of models, and in the distribution of models.
 >
 > **[0:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=15)** Now the energy and the resources go into two main things.
 >
-> **[0:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=19)** One of course is electricity to power all the machines, and it uses just an absolutely astronomical amount of energy to train the machines, train the algorithms, which can take months of huge
+> **[0:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=19)** One of course is electricity to power all the machines, and it uses just an absolutely astronomical amount of energy to train the machines, train the [[Algorithms]], which can take months of huge
 >
 > **[0:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=35)** ensembles working nonstop to develop the algorithms behind the AI programs, and
 >
@@ -1535,7 +1521,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=86)** That's a phenomenal amount of energy that is necessary for using in generative and agentic AI.
 >
-> **[1:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=94)** To give you a good idea of what this really all works to, think about Microsoft has entered a deal to reopen Three Mile Island.
+> **[1:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=94)** To give you a good idea of what this really all works to, think about [[Microsoft]] has entered a deal to reopen Three Mile Island.
 >
 > **[1:45](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=105)** that's the nuclear reactor in Pennsylvania in the US that had a partial meltdown in 1979.
 >
@@ -1551,9 +1537,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=146)** I actually do have a calculator, not this one, I have a calculator on my desk.
 >
-> **[2:30](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=150)** And sometimes I'll use that instead of firing up, you know, ChatGPT or something like that to answer a question.
+> **[2:30](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=150)** And sometimes I'll use that instead of firing up, you know, [[ChatGPT]] or something like that to answer a question.
 >
-> **[2:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=158)** Simple models, especially when it comes to analyzing data, think about linear regression or a decision tree.
+> **[2:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=158)** Simple models, especially when it comes to analyzing data, think about [[Linear Regression]] or a decision tree.
 >
 > **[2:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=164)** models are easier to set up than a generative AI model.
 >
@@ -1565,7 +1551,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=185)** Think about the simple methods and whether they're going to be adequate for what it is you're trying to do.
 >
-> **[3:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=192)** Also, in terms of the companies that develop the AI models, well, maybe instead of developing an all new monster model from scratch, how about fine tuning models, this is a way of taking an existing model, making relatively small changes on it to increase its performance and its generalizability.
+> **[3:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=192)** Also, in terms of the companies that develop the AI models, well, maybe instead of developing an all new monster model from scratch, how about [[Fine Tuning]] models, this is a way of taking an existing model, making relatively small changes on it to increase its performance and its generalizability.
 >
 > **[3:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/environmental-impact-of-big-data-and-ai-31644610?u=76281980&t=212)** And just to keep in mind, it's one thing if there were only one major AI model out there, but there's tons.
 >
@@ -1583,17 +1569,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), power (5), [[Generative AI]] (3), [[Microsoft]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Microsoft]] (3), [[Algorithms]] (2), [[Big Data]] (1), [[ChatGPT]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Social impact of big data and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980)
+#### [Social impact of big data and AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=0)** - [Instructor] Big data and AI don't just have technical impact or environmental impact, they also have a social impact, in a way that could be a little harder to capture than the others.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=0)** - [Instructor] [[Big Data]] and AI don't just have technical impact or environmental impact, they also have a social impact, in a way that could be a little harder to capture than the others.
 >
 > **[0:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=11)** It's still real and it still has real impact on people, but it operates in a different way.
 >
@@ -1651,7 +1636,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=173)** And there have been a few instances where the attempts to counteract bias can be, to say the very least, awkward.
 >
-> **[3:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=181)** So for instance, people found that some generative AI programs simply refused to draw people who were in very well-known historic social groups, instead tried to insert a lot of variety where there wouldn't have been any.
+> **[3:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=181)** So for instance, people found that some [[Generative AI]] programs simply refused to draw people who were in very well-known historic social groups, instead tried to insert a lot of variety where there wouldn't have been any.
 >
 > **[3:17](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=197)** Introducing variety is an important goal, and it's something that needs to happen moving forward.
 >
@@ -1665,7 +1650,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=236)** And so it tends to be a very stable, reliable voice.
 >
-> **[3:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=239)** I actually appreciate the voice that something like ChatGPT has, but I also know it's not an individual voice.
+> **[3:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=239)** I actually appreciate the voice that something like [[ChatGPT]] has, but I also know it's not an individual voice.
 >
 > **[4:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=247)** And consequently, individuality, the thing that makes a person unique, and the voice that that person has, can be lost in the process.
 >
@@ -1673,11 +1658,11 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=268)** Now, there's a lot more to be said about it.
 >
-> **[4:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=271)** I'm very brief here, because there are several entire courses, as well as individual videos on, "LinkedIn Learning," that can tell you more about that.
+> **[4:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=271)** I'm very brief here, because there are several entire courses, as well as individual videos on, "[[LinkedIn]] Learning," that can tell you more about that.
 >
-> **[4:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=278)** For instance, I have a course called, "AI Accountability Essential Training."
+> **[4:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=278)** For instance, I have a course called, "AI [[Accountability]] Essential Training."
 >
-> **[4:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=282)** There are several courses on, "Data Ethics," and there are courses and individual videos on, "Social Justice and Data Science."
+> **[4:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=282)** There are several courses on, "[[Data Ethics]]," and there are courses and individual videos on, "Social Justice and [[Data Science]]."
 >
 > **[4:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/social-impact-of-big-data-and-ai?u=76281980&t=290)** And I strongly encourage you to spend a little bit of time exploring these topics, 'cause they tell you a lot more than I can say in this short video.
 >
@@ -1685,19 +1670,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (8), [[Big Data]] (6), [[Generative AI]] (3), power (1)
+> **Frameworks & Libraries:** [[Big Data]] (6), [[Generative AI]] (3), [[ChatGPT]] (1), [[LinkedIn]] (1), [[Accountability]] (1)
 > **Analogies:** for instance (5)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Laws affecting big data and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980)
+#### [Laws affecting big data and AI](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=0)** We all know that wonderful, amazing, and even delightful things can happen as a result of the work in big data and AI.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=0)** We all know that wonderful, amazing, and even delightful things can happen as a result of the work in [[Big Data]] and AI.
 >
 > **[0:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=9)** And those things can happen because those systems are amazingly powerful.
 >
@@ -1709,13 +1693,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=31)** The first one is laws for big data.
 >
-> **[0:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=33)** And they address things like how the data is collected and privacy, confidentiality, and the nature of algorithmic decisions, especially when they affect people in meaningful ways.
+> **[0:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=33)** And they address things like how the data is collected and [[Privacy]], confidentiality, and the nature of algorithmic decisions, especially when they affect people in meaningful ways.
 >
-> **[0:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=44)** There are also more recent laws that are specific to AI that address issues about trust and safety and accountability.
+> **[0:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=44)** There are also more recent laws that are specific to AI that address issues about trust and safety and [[Accountability]].
 >
 > **[0:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=53)** want to address each of these in a little more detail.
 >
-> **[0:56](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=56)** First off, when it comes to laws for big data, one of the big categories is data collection, is the data collected from these various online sources with your consent.
+> **[0:56](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=56)** First off, when it comes to laws for big data, one of the big categories is [[Data Collection]], is the data collected from these various online sources with your consent.
 >
 > **[1:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=67)** And that's why you get these opt in boxes where you check to have your data made available.
 >
@@ -1755,9 +1739,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=185)** And we have entire courses that talk in more detail about these principles.
 >
-> **[3:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=190)** So I want to go past those ones right now and get more specifically to laws for AI and especially generative AI.
+> **[3:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=190)** So I want to go past those ones right now and get more specifically to laws for AI and especially [[Generative AI]].
 >
-> **[3:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=199)** And now ChatGPT, the most well known and most commonly used version of generative AI was released in the end of November of 2022.
+> **[3:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=199)** And now [[ChatGPT]], the most well known and most commonly used version of generative AI was released in the end of November of 2022.
 >
 > **[3:29](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=209)** So it's really important to look at laws that came in after that time, because they are going to specifically address issues of generative AI.
 >
@@ -1783,7 +1767,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=292)** And they'll place special restrictions on high risk applications.
 >
-> **[4:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=297)** Now, obviously, that includes military, but it can include a lot of other things like banking and finance, it can include a city's or country's infrastructure, their transportation systems, their power, good, their utilities, and so on.
+> **[4:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=297)** Now, obviously, that includes military, but it can include a lot of other things like [[Banking]] and finance, it can include a city's or country's infrastructure, their transportation systems, their power, good, their utilities, and so on.
 >
 > **[5:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=311)** Everything that's connected to the internet, and everything that runs digitally is potentially at risk.
 >
@@ -1809,7 +1793,7 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=394)** It works in mysterious ways.
 >
-> **[6:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=395)** And that's true about deep learning neural networks, which are often used with big data as well.
+> **[6:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=395)** And that's true about [[Deep Learning]] [[Neural Networks]], which are often used with big data as well.
 >
 > **[6:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=401)** Now, the picture I have here is a flowchart of yes, no decisions at many levels.
 >
@@ -1817,7 +1801,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=411)** But there are situations in which simple flowcharts just yes, no things have been shown to be approximately as effective as neural networks, while being infinitely more understandable, and easy to interpret and easy to troubleshoot.
 >
-> **[7:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=427)** Many laws also ask for independent oversight over algorithms.
+> **[7:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=427)** Many laws also ask for independent oversight over [[Algorithms]].
 >
 > **[7:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=432)** So not asking the developers to police themselves, but having other organizations that are in charge of auditing, checking how well these things work.
 >
@@ -1829,11 +1813,11 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=455)** Everybody has some role in keeping things responsible and under control.
 >
-> **[7:40](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=460)** Now, in terms of global AI legislation, probably the most significant is the European Union's Artificial Intelligence Act of 2024.
+> **[7:40](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=460)** Now, in terms of global AI legislation, probably the most significant is the European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act of 2024.
 >
 > **[7:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=470)** But there are similar ones, the Council of Europe, there are measures in China and Dubai, the African Union and Brazil.
 >
-> **[7:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=478)** The United States has had proposals for nationwide regulations, but those are still in flux and remains to be determined how that will play out within the United States.
+> **[7:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=478)** The United States has had proposals for nationwide regulations, but those are still in [[Flux]] and remains to be determined how that will play out within the United States.
 >
 > **[8:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/laws-affecting-big-data-and-ai-31631657?u=76281980&t=489)** Now, these are not all of the regulations, there are some of the big ones, there are a lot of others that are being developed.
 >
@@ -1845,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (13), [[Big Data]] (5), [[Privacy]] (3), [[Accountability]] (3)
+> **Frameworks & Libraries:** [[Big Data]] (5), [[Privacy]] (3), [[Accountability]] (3), [[Data Collection]] (2), [[Generative AI]] (2)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), picture (1)
@@ -1853,8 +1837,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** troubleshoot (1)
 
-#### Data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980)
+#### [Data governance](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1866,7 +1849,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=22)** They just can't do anything with it.
 >
-> **[0:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=24)** It's actually an example of data governance gone wrong.
+> **[0:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=24)** It's actually an example of [[Data Governance]] gone wrong.
 >
 > **[0:29](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=29)** Data governance is a lot like taking care of your dance videos or maybe your garden.
 >
@@ -1882,7 +1865,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=65)** I think all of us have had an example of losing the data file, having it be gone for good, or opening a file, or trying to open a file and having it be corrupted.
 >
-> **[1:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=75)** Well, it's exponentially more complicated when you have big data, for several reasons.
+> **[1:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=75)** Well, it's exponentially more complicated when you have [[Big Data]], for several reasons.
 >
 > **[1:20](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=80)** Number one, there's more people, there's more hands in the data, there's more people working who may not be communicating well, and that dramatically increases the risk of working at cross purposes.
 >
@@ -1890,7 +1873,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=95)** Instead of a single laptop, you've got server, or collections of servers, or who knows what out there in the cloud.
 >
-> **[1:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=101)** And so you have a lot of different hardware and potentially different software involved.
+> **[1:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=101)** And so you have a lot of different [[Hardware]] and potentially different software involved.
 >
 > **[1:47](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=107)** And then you have more formats for your data.
 >
@@ -1924,7 +1907,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=175)** There's actually a fair amount of work still done in Fortran, but you're going to have to work a little harder to find somebody who is very comfortable working in that.
 >
-> **[3:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=182)** Or is metadata available?
+> **[3:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=182)** Or is [[Metadata]] available?
 >
 > **[3:04](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=184)** Is there something that describes where the data comes from, how it was collected, who the sample was, what the variables mean, and what the values mean?
 >
@@ -1988,13 +1971,13 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=346)** That way you can guarantee at least the short term longevity of your data.
 >
-> **[5:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=351)** And the whole thing makes it easier to manage and to govern the data that is used in your data science projects over time.
+> **[5:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=351)** And the whole thing makes it easier to manage and to govern the data that is used in your [[Data Science]] projects over time.
 >
 > **[5:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-governance?u=76281980&t=359)** So, you can get both more insight, more meaning, and, truthfully, more value out of your project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Big Data]] (4), [[Security]] (3), [[Programming]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Big Data]] (4), [[Metadata]] (2), [[Hardware]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (2)
@@ -2006,8 +1989,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structured, semi-structured, and unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980)
+#### [Structured, semi-structured, and unstructured data](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2035,15 +2017,15 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=68)** Spreadsheets are a perfect example of structured data provided that each row is a case and each column is a variable or field.
 >
-> **[1:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=79)** Relational databases are also a perfect example of structured data.
+> **[1:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=79)** [[Relational Databases]] are also a perfect example of structured data.
 >
 > **[1:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=85)** Things are well-defined, you know where things are, you know how they connect, and it makes analysis very easy.
 >
-> **[1:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=91)** On the other hand, here in the data science world, we get to deal a lot with semistructured data.
+> **[1:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=91)** On the other hand, here in the [[Data Science]] world, we get to deal a lot with semistructured data.
 >
 > **[1:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=97)** Now this involves variables that are defined, but they're defined on a one-on-one basis and marked with tags, and those tags can vary freely.
 >
-> **[1:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=108)** Good examples of this are HTML, that's the hyper text markup language that creates webpage, or XML, extensible markup language, and JSON, the JavaScript object notation, and all of these are used extensively on the web.
+> **[1:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=108)** Good examples of this are [[HTML]], that's the hyper text markup language that creates webpage, or XML, extensible markup language, and [[JSON]], the [[JavaScript]] object notation, and all of these are used extensively on the web.
 >
 > **[2:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=123)** And what you see here on the right is some data that I've used in other examples, but saved not as a CSV file 'cause it's normally in a spreadsheet, but I've saved it as a JSON file.
 >
@@ -2051,13 +2033,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=152)** Now, these have consistent names, but they can vary from one document or one case to another.
 >
-> **[2:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=157)** And then finally, there's unstructured data.
+> **[2:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=157)** And then finally, there's [[Unstructured Data]].
 >
 > **[2:40](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=160)** This is when the variables or the fields are not labeled or identified.
 >
 > **[2:45](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=165)** Instead, you have a lot of information there that you have to figure out what it is.
 >
-> **[2:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=170)** Free text as an example, if you import the text of a book or you take photos or videos or audio waves like we have right here, those are extremely common forms of data, but they're not used traditionally a lot in analysis because they're not structured, they're not labeled, they're not processed in a way to make analysis easy.
+> **[2:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=170)** Free text as an example, if you import the text of a book or you take photos or videos or audio waves like we have right here, those are extremely common [[Forms]] of data, but they're not used traditionally a lot in analysis because they're not structured, they're not labeled, they're not processed in a way to make analysis easy.
 >
 > **[3:14](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=194)** And that gets at a little paradox here.
 >
@@ -2091,7 +2073,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=312)** You can do it yourself, you can hire other people to do it, you can wait for users to label their own photographs, or what's shown itself to be really useful these days is to use machine learning to create and apply the labels.
 >
-> **[5:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=325)** This has been one of the great benefits of deep learning neural networks.
+> **[5:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=325)** This has been one of the great benefits of [[Deep Learning]] [[Neural Networks]].
 >
 > **[5:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=328)** They take messy, unstructured data like audio, video, MRI scans, and so on.
 >
@@ -2099,11 +2081,11 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=340)** So it's one way of dealing with this mismatch between the ease of analysis and the quantity of the data available.
 >
-> **[5:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=348)** But what it lets you know overall is that there are these different kinds of data that the structured is easy and ready to go, semistructured is pretty common, unstructured is an enormous untapped resource, and that's one of the major challenges of big data and by extension, data science and machine learning and artificial intelligence to take that unstructured data and get the value and the meaning out of it.
+> **[5:48](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980&t=348)** But what it lets you know overall is that there are these different kinds of data that the structured is easy and ready to go, semistructured is pretty common, unstructured is an enormous untapped resource, and that's one of the major challenges of [[Big Data]] and by extension, data science and machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] to take that unstructured data and get the value and the meaning out of it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Unstructured Data]] (6), [[JSON]] (2), [[Relational Databases]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (6), [[Data Science]] (2), [[JSON]] (2), [[Relational Databases]] (1), [[HTML]] (1)
 > **Env Vars:** json (2), zip (1), html (1), xml (1), csv (1)
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -2111,8 +2093,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch processing vs. stream processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980)
+#### [Batch processing vs. stream processing](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2126,11 +2107,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=34)** There's an analogy between this, between improvisation and composition in music and in data.
 >
-> **[0:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=42)** In jazz, the improvisation, the coming up in the stream of the moment versus the composition where the work has to be done ahead of time and you got to put a bow on it before you move on, that's a lot like in data, what is called stream processing, where you're processing the data as it comes in, live in real time, versus batch processing, where you take data that's been wrapped up and put a bow on it, it's in a data set, it's set, and you run with it.
+> **[0:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=42)** In jazz, the improvisation, the coming up in the stream of the moment versus the composition where the work has to be done ahead of time and you got to put a bow on it before you move on, that's a lot like in data, what is called stream processing, where you're processing the data as it comes in, live in real time, versus [[Batch Processing]], where you take data that's been wrapped up and put a bow on it, it's in a data set, it's set, and you run with it.
 >
 > **[1:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=72)** Now, let's take a quick look at this.
 >
-> **[1:14](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=74)** Batch processing is data at rest, meaning it's static, it's stationary.
+> **[1:14](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=74)** Batch processing is data at [[Representational State Transfer (REST)|rest]], meaning it's static, it's stationary.
 >
 > **[1:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=82)** Now, I'm not trying to talk it down.
 >
@@ -2156,7 +2137,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=147)** Everybody likes to have an organization that operates efficiently and responds well to changing situations.
 >
-> **[2:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=153)** That's one reason why agile development and management are so popular.
+> **[2:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=153)** That's one reason why [[Agile Development|agile]] development and management are so popular.
 >
 > **[2:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=158)** And so there may be an automatic preference for a data approach that seems speedy and responsive, and maybe agile too.
 >
@@ -2168,7 +2149,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=177)** Streaming data and streaming analysis often relies on the different infrastructure.
 >
-> **[3:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=181)** You use different kinds of storage systems, you have different kinds of databases.
+> **[3:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=181)** You use different kinds of storage systems, you have different kinds of [[Databases]].
 >
 > **[3:05](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=185)** You have different ways of incorporating the data.
 >
@@ -2188,21 +2169,20 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=233)** There are two different paths, and depending on the purposes of your organization, you'll want one or the other.
 >
-> **[4:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=241)** But generally, it's important to remember that they serve different goals, use different methods, and so it's a decision that you need to consult with the people on your data science team.
+> **[4:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=241)** But generally, it's important to remember that they serve different goals, use different methods, and so it's a decision that you need to consult with the people on your [[Data Science]] team.
 >
-> **[4:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=250)** And when you're doing your big data projects, you need to think about it carefully and see how well that matches up with the goals of your organization.
+> **[4:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/batch-processing-vs-stream-processing?u=76281980&t=250)** And when you're doing your [[Big Data]] projects, you need to think about it carefully and see how well that matches up with the goals of your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Batch Processing]] (5), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (5), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributed storage and processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980)
+#### [Distributed storage and processing](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2218,13 +2198,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=28)** That's the same thing about data.
 >
-> **[0:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=31)** Big data, of course, is big.
+> **[0:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=31)** [[Big Data]], of course, is big.
 >
 > **[0:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=34)** Often because of the extraordinary volume of the data, you can't fit it all on a single file or a single drive or a single computer, nor can you process it that way.
 >
 > **[0:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=44)** Instead, you frequently have to turn to distributed computing and processing.
 >
-> **[0:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=49)** Now, several years ago, Apache Hadoop was the first major solution to distributed storage, and it really ushered in the big data age.
+> **[0:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=49)** Now, several years ago, Apache [[Hadoop]] was the first major solution to distributed storage, and it really ushered in the big data age.
 >
 > **[0:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=59)** And for that reason, Hadoop became synonymous with big data.
 >
@@ -2240,15 +2220,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=88)** And so Hadoop, while it initiated the big data age through the distributed storage and certain kinds of distributed processing, it really was a foundation and not the ultimate solution.
 >
-> **[1:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=102)** So for instance, right now we're in the age of cloud services.
+> **[1:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=102)** So for instance, right now we're in the age of [[Cloud Services]].
 >
 > **[1:45](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=105)** This is where you have cloud-based or online internet-based storage and processing.
 >
-> **[1:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=112)** So for instance, you put your data in AWS, that's Amazon Web Services, or Google Cloud or Microsoft Azure or any of network providers, they will both store the data and give you a mechanism to analyze the data.
+> **[1:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=112)** So for instance, you put your data in AWS, that's [[Amazon Web Services (AWS)|Amazon Web Services]], or [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure]] or any of network providers, they will both store the data and give you a mechanism to analyze the data.
 >
 > **[2:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=126)** And if you create an app that runs on big data, you can have what's called a multi-platform container.
 >
-> **[2:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=133)** So something like Docker, which is a Linux container engine that allows you to create the app that, like the containers on a container ship, you load 'em in what you want there.
+> **[2:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=133)** So something like Docker, which is a [[Linux]] container engine that allows you to create the app that, like the containers on a container ship, you load 'em in what you want there.
 >
 > **[2:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/distributed-storage-and-processing?u=76281980&t=144)** It's super flexible, load it on whatever boat, get it out of there, it moves.
 >
@@ -2260,7 +2240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (9), data (5), [[Hadoop]] (5), cloud (3), next (2)
+> **Frameworks & Libraries:** [[Big Data]] (9), [[Hadoop]] (5), [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** apache (1), aws (1), docker (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** aws (1)
@@ -2268,8 +2248,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### An evolving data landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980)
+#### [An evolving data landscape](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2285,15 +2264,15 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=18)** I've mentioned elsewhere how the changes in the data world, as anywhere, build on one another, like climbing stairs.
 >
-> **[0:26](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=26)** Data science led to big data, which led to machine learning, which led to artificial intelligence as we now know it, and so on, up and up, step by step.
+> **[0:26](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=26)** [[Data Science]] led to [[Big Data]], which led to machine learning, which led to [[Artificial Intelligence (AI)|artificial intelligence]] as we now know it, and so on, up and up, step by step.
 >
-> **[0:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=37)** And one implication of that is that anything I could tell you about specific technologies or practices, like Docker containers or Kubernetes, will almost inevitably be obsolete within just a few years.
+> **[0:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=37)** And one implication of that is that anything I could tell you about specific technologies or practices, like Docker containers or [[Kubernetes]], will almost inevitably be obsolete within just a few years.
 >
 > **[0:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=53)** But this is not a cry of hopelessness, rather, it's a call to action.
 >
 > **[1:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=62)** The idea here is that there will always, always be new technology.
 >
-> **[1:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=68)** There will be new hardware and new software that can be used for collecting data, processing data, storing and analyzing data.
+> **[1:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=68)** There will be new [[Hardware]] and new software that can be used for collecting data, processing data, storing and analyzing data.
 >
 > **[1:16](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=76)** And it becomes really a critical test to not just know what those new, better, wonderful, shinier things are, but to integrate those innovations with your current systems.
 >
@@ -2303,7 +2282,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=119)** Similarly, there will always be new methods.
 >
-> **[2:04](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=124)** For instance, there have been extraordinary developments, really groundbreaking work, with deep learning neural networks.
+> **[2:04](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=124)** For instance, there have been extraordinary developments, really groundbreaking work, with [[Deep Learning]] [[Neural Networks]].
 >
 > **[2:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/an-evolving-data-landscape?u=76281980&t=130)** They've accomplished things that I personally never would've thought were possible.
 >
@@ -2345,7 +2324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Big Data]] (7), [[Hardware]] (2), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (7), [[Data Science]] (3), [[Hardware]] (2), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Tools:** bash (1), terminal (1)
 > **Analogies:** for instance (2)
@@ -2358,8 +2337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenges with data preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980)
+#### [Challenges with data preparation](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2367,7 +2345,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=4)** But either way, it takes a fair amount of work before they're turned into this.
 >
-> **[0:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=9)** Everybody knows that food prep is an important, although time consuming and frequently tedious, part of cooking, there's a similar principle in any big data project.
+> **[0:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=9)** Everybody knows that food prep is an important, although time consuming and frequently tedious, part of cooking, there's a similar principle in any [[Big Data]] project.
 >
 > **[0:21](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=21)** The rule of thumb is that about 80% of the time on a big data project is spent preparing the data.
 >
@@ -2425,7 +2403,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=175)** And when you're preparing your data, you have to go through these and be thorough in getting them all in the same format, with the same meaning and interpretation all the way through.
 >
-> **[3:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=186)** And of course, that's to say nothing of the amount of processing required for dealing with unstructured data like cell phone videos.
+> **[3:06](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=186)** And of course, that's to say nothing of the amount of processing required for dealing with [[Unstructured Data]] like cell phone videos.
 >
 > **[3:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=193)** And it gets to an interesting question, where's the return on investment and where's the balance point?
 >
@@ -2439,7 +2417,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=243)** They figured out this would be the most cost effective and research informative method of gathering data to get it.
 >
-> **[4:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=251)** They did the math and realized that gathering their own data with their own proprietary methods, so they could then feed it into their algorithms for analyzing the data would be the best way to reach their goals as opposed to trying to clean the wild caught data.
+> **[4:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=251)** They did the math and realized that gathering their own data with their own proprietary methods, so they could then feed it into their [[Algorithms]] for analyzing the data would be the best way to reach their goals as opposed to trying to clean the wild caught data.
 >
 > **[4:26](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980&t=266)** And so it becomes a trade off.
 >
@@ -2453,7 +2431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Big Data]] (4), [[Unstructured Data]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Unstructured Data]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 10.7 (2), 2.7 (1)
@@ -2462,8 +2440,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/visualizing-big-data?u=76281980)
+#### [Visualizing big data](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/visualizing-big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2483,7 +2460,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/visualizing-big-data?u=76281980&t=57)** It is always a matter of simplification.
 >
-> **[1:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/visualizing-big-data?u=76281980&t=61)** That's the purpose of data analysis in big data projects, and that's one of the major things you can do with data visualization.
+> **[1:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/visualizing-big-data?u=76281980&t=61)** That's the purpose of data analysis in [[Big Data]] projects, and that's one of the major things you can do with data visualization.
 >
 > **[1:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/visualizing-big-data?u=76281980&t=69)** Now, in terms of how you frame things, it's important to remember who is making and implementing the final decision.
 >
@@ -2559,7 +2536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Big Data]] (5), product (1)
+> **Frameworks & Libraries:** [[Big Data]] (5)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), picture (1)
@@ -2567,8 +2544,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980)
+#### [Data mining](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2578,13 +2554,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=11)** It was backbreaking and lung-blackening work that I'm grateful I would never have to do.
 >
-> **[0:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=18)** But to be perfectly clear, that's not what we're talking about when we're talking about data mining.
+> **[0:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=18)** But to be perfectly clear, that's not what we're talking about when we're talking about [[Data Mining]].
 >
 > **[0:23](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=23)** Rather, data mining is the practice of working with large data sets to find potentially valuable insight.
 >
 > **[0:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=32)** Think of it this way.
 >
-> **[0:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=33)** Computer algorithms, especially deep learning neural networks, are able to go through millions of images and automatically identify all of the pictures with cats in them and show you where the cats are.
+> **[0:33](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=33)** Computer [[Algorithms]], especially [[Deep Learning]] [[Neural Networks]], are able to go through millions of images and automatically identify all of the pictures with cats in them and show you where the cats are.
 >
 > **[0:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=44)** They draw the frame around them.
 >
@@ -2622,7 +2598,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=142)** A person can flip 10 heads in a row.
 >
-> **[2:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=144)** It doesn't happen very often, but there's a known probability for that.
+> **[2:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=144)** It doesn't happen very often, but there's a known [[Probability]] for that.
 >
 > **[2:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=148)** And it's important to always know what is the normal variation and maybe slightly beyond that to say, "This is normal."
 >
@@ -2632,7 +2608,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=167)** That's the double-checking, that's seeing if your pattern holds up in a different dataset.
 >
-> **[2:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=173)** That's why it's common in data science to break up your original dataset into what's called a training dataset and a testing or validation dataset, to control for these tendencies towards false positives.
+> **[2:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=173)** That's why it's common in [[Data Science]] to break up your original dataset into what's called a training dataset and a testing or validation dataset, to control for these tendencies towards false positives.
 >
 > **[3:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=187)** But if you can do that, there's some great insights you can get out of data mining.
 >
@@ -2644,13 +2620,13 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=212)** There are things like market basket analysis where you can say that any time a person buys this and this, there's an increased probability they will also buy this.
 >
-> **[3:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=219)** So, if you're doing e-commerce, you show them that extra item online or you give them an incentive to buy it.
+> **[3:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=219)** So, if you're doing [[E-Commerce]], you show them that extra item online or you give them an incentive to buy it.
 >
 > **[3:45](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=225)** And then, there's a whole separate category of time series mining, where you're looking for events that happen over time, or the closely-related sequence mining where you're not saying when they happen, just that it happened before this and after that.
 >
 > **[4:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=241)** Both of those can be enormously useful in predicting trends with the interactions you have with businesses or customers.
 >
-> **[4:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=250)** Now, if you'd like more information on this, we have another course called Data Science Foundations Data Mining, which gives you some concrete examples of how each of these kinds of analyses can be worked and how the results can be interpreted and put into effect.
+> **[4:10](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=250)** Now, if you'd like more information on this, we have another course called [[Data Science Foundations]] Data Mining, which gives you some concrete examples of how each of these kinds of analyses can be worked and how the results can be interpreted and put into effect.
 >
 > **[4:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/data-mining?u=76281980&t=264)** But the basic idea here is the same.
 >
@@ -2658,14 +2634,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Probability]] (2), product (2), [[Algorithms]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (7), [[Probability]] (2), [[Algorithms]] (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980)
+#### [Text analytics](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2675,11 +2650,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=26)** But you know, if you're working in the online world, then you know that that sort of unstructured text information can come in much, much faster than even student papers.
 >
-> **[0:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=39)** Dealing with that fire hose of feedback is a huge challenge for anyone, and that's the entire point of text analytics in big data.
+> **[0:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=39)** Dealing with that fire hose of feedback is a huge challenge for anyone, and that's the entire point of text analytics in [[Big Data]].
 >
 > **[0:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=50)** Now, there are a few major challenges that prompt all of this.
 >
-> **[0:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=53)** Number one, text is unstructured data.
+> **[0:53](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=53)** Number one, text is [[Unstructured Data]].
 >
 > **[0:56](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=56)** It's, you know, it's there, it's in sentences and paragraphs and words.
 >
@@ -2703,7 +2678,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=106)** And you do get to know that through social media.
 >
-> **[1:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=109)** You also frequently get the metadata.
+> **[1:49](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=109)** You also frequently get the [[Metadata]].
 >
 > **[1:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=112)** So when a person posts a tweet, they don't just have the text, you get to know where they were, the time of day.
 >
@@ -2739,23 +2714,22 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=179)** But you can look at some great examples of this.
 >
-> **[3:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=182)** For instance, back in the early '60s, Frederick Mosteller and David Wallace pioneered this statistical analysis of text and a project to determine the authorship of several disputed federalist papers from the 1700s, which led to the founding of the United States.
+> **[3:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=182)** For instance, back in the early '60s, Frederick Mosteller and David Wallace pioneered this [[Statistical Analysis]] of text and a project to determine the authorship of several disputed federalist papers from the 1700s, which led to the founding of the United States.
 >
 > **[3:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=198)** They did this by looking at how common particular words and punctuation were in the papers that they knew who wrote them and used it to compare it with the other ones.
 >
-> **[3:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=211)** Now, more recently, Tahir Hemphill and the Rap Research Lab created the hip hop word count, one of my very favorite free text projects, and that allowed them to explore the ways that concepts as revealed in hip hop music evolve both across time and across geography.
+> **[3:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=211)** Now, more recently, Tahir Hemphill and the Rap Research Lab created the hip hop [[Microsoft Word|word]] count, one of my very favorite free text projects, and that allowed them to explore the ways that concepts as revealed in hip hop music evolve both across time and across geography.
 >
 > **[3:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/text-analytics?u=76281980&t=231)** It's a fascinating sociological study that builds on the idea of text analytics using these very general principles within a big data environment, and using any of these general principles, you can start getting some of the great insights analysis from your unprompted, unstructured, and truly massive troves of data that are available to you through the analysis of unstructured text.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (3), [[Big Data]] (2), prompt (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Unstructured Data]] (1), [[Metadata]] (1), [[Statistical Analysis]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), for instance (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Sentiment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980)
+#### [Sentiment analysis](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2775,7 +2749,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=41)** Taking that feedback, the content, the affective valence of the content, and then what can you do about it?
 >
-> **[0:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=50)** Now the easiest way to do sentiment analysis is to use a package for a language like Python or R that has a well-tested dictionary of affective or emotional terms.
+> **[0:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=50)** Now the easiest way to do sentiment analysis is to use a package for a language like [[Python (Programming Language)|Python]] or R that has a well-tested dictionary of affective or emotional terms.
 >
 > **[1:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=62)** And so you feed the content into it and it will actually create a score for the sentiment value, positive, negative, ambivalent, and then you can use that as the data that guides you in your decisions.
 >
@@ -2787,7 +2761,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=91)** But does it indicate something that they are planning or intending to do?
 >
-> **[1:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=97)** And there's also Contextual Semantic Search or CSS, and are they talking about the product's quality?
+> **[1:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=97)** And there's also Contextual [[Semantic Search]] or CSS, and are they talking about the product's quality?
 >
 > **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=104)** Are they talking about its price?
 >
@@ -2829,7 +2803,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=247)** Then they use those critiques of chess play to reinforce the chess playing algorithm.
 >
-> **[4:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=253)** So that sentiment becomes a guiding principle in setting up their machine learning and artificial intelligence to guide them in the development of their product.
+> **[4:13](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=253)** So that sentiment becomes a guiding principle in setting up their machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] to guide them in the development of their product.
 >
 > **[4:24](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/sentiment-analysis?u=76281980&t=264)** And this is something that can be adapted in so many different circumstances where you take that affective label, that sentiment, and then you use that to guide your analysis and guide your implementations.
 >
@@ -2837,13 +2811,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), data (4), product (4), business (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Semantic Search]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980)
+#### [Predictive analytics](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2855,9 +2828,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=21)** Really, all you need is more insight and better predictions than you might have had otherwise.
 >
-> **[0:29](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=29)** And this is where we come into the field of predictive analytics.
+> **[0:29](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=29)** And this is where we come into the field of [[Predictive Analytics]].
 >
-> **[0:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=32)** But first I want to mention that there are two different meanings to the word predict and predictive analytics.
+> **[0:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=32)** But first I want to mention that there are two different meanings to the [[Microsoft Word|word]] predict and predictive analytics.
 >
 > **[0:39](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=39)** The first is to use the standard one, that is to look into the future, say what's going to happen at some later point in time.
 >
@@ -2871,13 +2844,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=63)** Could the algorithm predict what a person would do in the same situation?
 >
-> **[1:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=68)** And you'll find that some of the algorithms are used more frequently for the looking into the future, whereas others are looked more often for the alternative, what would a human do in this situation?
+> **[1:08](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=68)** And you'll find that some of the [[Algorithms]] are used more frequently for the looking into the future, whereas others are looked more often for the alternative, what would a human do in this situation?
 >
 > **[1:20](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=80)** Now, in terms of predicting values, you might try to predict future quantitative or categorical outcomes.
 >
 > **[1:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=88)** So you might want to predict something like the value of future purchases by a particular client or the likelihood of remission of a disease in a patient.
 >
-> **[1:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=98)** In these cases, regression or linear regression is a flexible and easy-to-interpret approach.
+> **[1:38](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=98)** In these cases, regression or [[Linear Regression]] is a flexible and easy-to-interpret approach.
 >
 > **[1:44](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=104)** Here you see a picture of a scatterplot.
 >
@@ -2905,13 +2878,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=170)** And there are different methods there.
 >
-> **[2:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=172)** There's k-means clustering, where K is the number of groups that you want to create.
+> **[2:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=172)** There's [[k-means clustering]], where K is the number of groups that you want to create.
 >
 > **[2:58](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=178)** There's also k-nearest neighbors, where you put a photo into a category based on what the other photos that are similar to it are in.
 >
-> **[3:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=187)** There are decision trees and in their plural the random forests.
+> **[3:07](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=187)** There are [[Decision Trees]] and in their plural the random forests.
 >
-> **[3:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=192)** And there are neural networks and many variations and especially deep learning neural networks.
+> **[3:12](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=192)** And there are [[Neural Networks]] and many variations and especially [[Deep Learning]] neural networks.
 >
 > **[3:18](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=198)** And all of those allow you to estimate how a human would classify this if they had enough time to go through all of the data or at times to predict what would happen in the future.
 >
@@ -2925,22 +2898,21 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=240)** That is the goal.
 >
-> **[4:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=242)** That's the reason for being of predictive analytics in the big data world.
+> **[4:02](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/predictive-analytics?u=76281980&t=242)** That's the reason for being of predictive analytics in the [[Big Data]] world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (4), data (2), [[Neural Networks]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), [[Neural Networks]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1), [[Linear Regression]] (1)
 > **Analogies:** picture (2), for instance (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anomaly detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980)
+#### [Anomaly detection](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=0)** - [Narrator] Sometimes when you're working with big data, you get to play the part of the detective putting together the clues and drawing the connections between them.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=0)** - [Narrator] Sometimes when you're working with [[Big Data]], you get to play the part of the detective putting together the clues and drawing the connections between them.
 >
 > **[0:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=9)** Anomaly detection is one place where this practice is absolutely critical.
 >
@@ -2972,11 +2944,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=94)** And both approaches, looking for curious anomalies and cases that fit known fraud can be very useful for anomaly detection and fraud detection.
 >
-> **[1:46](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=106)** In terms of the actual algorithms, you have the standard list of choices.
+> **[1:46](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=106)** In terms of the actual [[Algorithms]], you have the standard list of choices.
 >
-> **[1:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=110)** You can do things like regression, classification trees and decision trees.
+> **[1:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=110)** You can do things like regression, classification trees and [[Decision Trees]].
 >
-> **[1:55](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=115)** You can use neural networks.
+> **[1:55](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=115)** You can use [[Neural Networks]].
 >
 > **[1:57](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/anomaly-detection?u=76281980&t=117)** Any of these would work for identifying both outliers and cases that fit known patterns of fraud.
 >
@@ -3016,14 +2988,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (5), data (4), product (1), [[Algorithms]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (5), [[Algorithms]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gps (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Retrieval-augmented generation (RAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980)
+#### [Retrieval-augmented generation (RAG)](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3035,7 +3006,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=37)** The warehouse may be enormous, but it's still a single building in a single place.
 >
-> **[0:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=43)** In a similar way, generative AI models, because they are very expensive and very time-consuming to train, to make them work in the first place.
+> **[0:43](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=43)** In a similar way, [[Generative AI]] models, because they are very expensive and very time-consuming to train, to make them work in the first place.
 >
 > **[0:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=52)** you know, you can't just make a new one every time something happens.
 >
@@ -3069,9 +3040,9 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=148)** And also when it does that it is able to cite the sources and it can also specifically limit itself to those sources.
 >
-> **[2:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=156)** And that kind of focus and a form of accountability makes a very big difference.
+> **[2:36](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=156)** And that kind of focus and a form of [[Accountability]] makes a very big difference.
 >
-> **[2:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=162)** So it can do things like go to products that your company has and look up the product specifications from your own data.
+> **[2:42](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=162)** So it can do things like go to [[Microsoft Products|products]] that your company has and look up the product specifications from your own data.
 >
 > **[2:51](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/retrieval-augmented-generation-rag?u=76281980&t=171)** It can look at policies, it can find and quote relevant policies about reimbursement or travel, or expenses from your own policies.
 >
@@ -3101,19 +3072,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), data (5), ai (2), [[Search]] (2), rag (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Accountability]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 99.9 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Using big data to make small data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980)
+#### [Using big data to make small data](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=0)** - [Host] One of the great paradoxes of big data is that sometimes all of the technological wizardry, all the equipment, all the huge amount of effort that goes into it is put into motion to help with something as theoretically simple as choosing whether to go left or right at the fork in the road.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=0)** - [Host] One of the great paradoxes of [[Big Data]] is that sometimes all of the technological wizardry, all the equipment, all the huge amount of effort that goes into it is put into motion to help with something as theoretically simple as choosing whether to go left or right at the fork in the road.
 >
 > **[0:19](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=19)** The idea here is that big data is frequently used to create small data, the small amount of information, the direction, the couple of restaurant recommendations that the end user wants.
 >
@@ -3129,7 +3099,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=92)** Now, think about directions just for example, in terms of big data, what you're doing is you're bringing in things like GPS coordinates for where the person is, where they want to go.
 >
-> **[1:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=101)** You're bringing in map data, so information about the roads, the shape files that show the map you're bringing in traffic conditions, historical patterns, and real-time estimates.
+> **[1:41](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=101)** You're bringing in map data, so information about the roads, the shape files that show the map you're bringing in traffic conditions, historical patterns, and [[Real-Time]] estimates.
 >
 > **[1:52](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/using-big-data-to-make-small-data?u=76281980&t=112)** You're getting user preferences.
 >
@@ -3183,7 +3153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (12), data (9), [[Search]] (2), traffic (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (12), [[Real-Time]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** gps (1)
@@ -3194,12 +3164,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=0)** - [Barton] So we've just spent a fair amount of time together talking about big data and AI, how the two connect, and other important data topics.
+> **[0:00](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=0)** - [Barton] So we've just spent a fair amount of time together talking about [[Big Data]] and AI, how the two connect, and other important data topics.
 >
 > **[0:09](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=9)** I hope it's clear, though, that this is not the end of the discussion.
 >
@@ -3207,11 +3176,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=15)** Rather, it's a pointer showing you the direction for other grander possibilities, and you can choose the path that makes the most sense for you.
 >
-> **[0:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=25)** Fortunately, we have an embarrassment of riches here at LinkedIn Learning, with courses on a range of topics that can help you build on what you've learned here.
+> **[0:25](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=25)** Fortunately, we have an embarrassment of riches here at [[LinkedIn]] Learning, with courses on a range of topics that can help you build on what you've learned here.
 >
-> **[0:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=35)** So for example, there are courses on big data, on AI, and on data science, both the technical aspects, the conceptual aspects, and all of those are going to build on the general principles that we covered in this course.
+> **[0:35](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=35)** So for example, there are courses on big data, on AI, and on [[Data Science]], both the technical aspects, the conceptual aspects, and all of those are going to build on the general principles that we covered in this course.
 >
-> **[0:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=50)** In addition, there are courses on data literacy or statistical analysis or how to actually interpret, how to ask the right questions and what to do with the results.
+> **[0:50](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=50)** In addition, there are courses on [[Data Literacy]] or [[Statistical Analysis]] or how to actually interpret, how to ask the right questions and what to do with the results.
 >
 > **[1:01](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980&t=61)** Those are going to be important for making sense of the results from your analyses.
 >
@@ -3231,7 +3200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Big Data]] (4), ai (4), [[LinkedIn]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Data Science]] (2), [[LinkedIn]] (1), [[Data Literacy]] (1), [[Statistical Analysis]] (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [barton] (1)

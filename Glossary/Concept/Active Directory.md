@@ -63,12 +63,12 @@ created: 2026-05-02
 > 30. [[Windows Server 2022- Installation and Configuration]] — 8 mentions
 > 31. [[AWS Security Best Practices for Developers]] — 7 mentions
 > 32. [[Windows 10- Supporting Users Essential Training]] — 6 mentions
-> 33. [[Azure Networking and Security for Beginners- Tools and Services]] — 6 mentions
-> 34. [[AWS Essential Training for Architects]] — 6 mentions
-> 35. [[Azure Storage Essential Training (2021)]] — 6 mentions
-> 36. [[Microsoft 365 Essential Training for Administrators]] — 5 mentions
-> 37. [[IT Support for a Hybrid Workforce]] — 5 mentions
-> 38. [[Azure Understanding The Big Picture]] — 5 mentions
+> 33. [[Azure Understanding The Big Picture]] — 6 mentions
+> 34. [[Azure Networking and Security for Beginners- Tools and Services]] — 6 mentions
+> 35. [[AWS Essential Training for Architects]] — 6 mentions
+> 36. [[Azure Storage Essential Training (2021)]] — 6 mentions
+> 37. [[Microsoft 365 Essential Training for Administrators]] — 5 mentions
+> 38. [[IT Support for a Hybrid Workforce]] — 5 mentions
 > 39. [[Windows 10- Security]] — 4 mentions
 > 40. [[Design a Cloud Migration Strategy]] — 4 mentions
 > 41. [[Cybersecurity with Cloud Computing]] — 4 mentions
@@ -91,40 +91,40 @@ created: 2026-05-02
 > 58. [[Amazon EC2 Essential Training]] — 2 mentions
 > 59. [[Cisco Network Security- Secure Routing and Switching]] — 2 mentions
 > 60. [[Putting ITIL® into Practice- Problem Management Techniques]] — 2 mentions
-> 61. [[Azure Spark Databricks Essential Training]] — 2 mentions
-> 62. [[Windows 10 Configure And Support Core Services]] — 2 mentions
-> 63. [[Introduction to Identity and Access Management]] — 1 mentions
-> 64. [[Transitioning to a Career in Cybersecurity]] — 1 mentions
-> 65. [[Cybersecurity Careers and Certifications]] — 1 mentions
-> 66. [[Cloud Security Concepts- Services and Compliance]] — 1 mentions
-> 67. [[Static Application Security Testing]] — 1 mentions
-> 68. [[Hybrid Multicloud Networking- Practical Concepts]] — 1 mentions
-> 69. [[Ethical Hacking- Sniffers]] — 1 mentions
-> 70. [[Microsoft 365- Administration]] — 1 mentions
-> 71. [[Configure and Manage OneDrive]] — 1 mentions
-> 72. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
-> 73. [[Cloud Architecture- Design Decisions]] — 1 mentions
-> 74. [[Vulnerability Management with Nessus]] — 1 mentions
-> 75. [[Web Security- OAuth and OpenID Connect]] — 1 mentions
-> 76. [[Azure Data Lake for Developers]] — 1 mentions
-> 77. [[Dependency Mapping for Cloud Migration]] — 1 mentions
-> 78. [[Introduction to IT Automation]] — 1 mentions
-> 79. [[Leveraging Cloud Computing for IoT]] — 1 mentions
-> 80. [[PowerShell for Microsoft 365 Administration]] — 1 mentions
-> 81. [[Cybersecurity Foundations- Security Architecture]] — 1 mentions
-> 82. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 1 mentions
-> 83. [[Planning a Multicloud Solution (2022)]] — 1 mentions
-> 84. [[Database Foundations- Administration]] — 1 mentions
-> 85. [[Learning SharePoint Online]] — 1 mentions
-> 86. [[Network Forensics]] — 1 mentions
-> 87. [[Node- Authentication]] — 1 mentions
-> 88. [[Learning PowerShell]] — 1 mentions
-> 89. [[Manage Storage in Azure]] — 1 mentions
-> 90. [[Controlling Cost with Azure Management and Billing]] — 1 mentions
-> 91. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
-> 92. [[Aws Essential Training For Developers]] — 1 mentions
-> 93. [[Learning Spring 6 With Spring Boot]] — 1 mentions
-> 94. [[SQL Server 2022 Administration]] — 1 mentions
+> 61. [[SQL Server 2022 Administration]] — 2 mentions
+> 62. [[Azure Spark Databricks Essential Training]] — 2 mentions
+> 63. [[Windows 10 Configure And Support Core Services]] — 2 mentions
+> 64. [[Introduction to Identity and Access Management]] — 1 mentions
+> 65. [[Transitioning to a Career in Cybersecurity]] — 1 mentions
+> 66. [[Cybersecurity Careers and Certifications]] — 1 mentions
+> 67. [[Cloud Security Concepts- Services and Compliance]] — 1 mentions
+> 68. [[Static Application Security Testing]] — 1 mentions
+> 69. [[Hybrid Multicloud Networking- Practical Concepts]] — 1 mentions
+> 70. [[Ethical Hacking- Sniffers]] — 1 mentions
+> 71. [[Microsoft 365- Administration]] — 1 mentions
+> 72. [[Configure and Manage OneDrive]] — 1 mentions
+> 73. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
+> 74. [[Cloud Architecture- Design Decisions]] — 1 mentions
+> 75. [[Vulnerability Management with Nessus]] — 1 mentions
+> 76. [[Web Security- OAuth and OpenID Connect]] — 1 mentions
+> 77. [[Azure Data Lake for Developers]] — 1 mentions
+> 78. [[Dependency Mapping for Cloud Migration]] — 1 mentions
+> 79. [[Introduction to IT Automation]] — 1 mentions
+> 80. [[Leveraging Cloud Computing for IoT]] — 1 mentions
+> 81. [[PowerShell for Microsoft 365 Administration]] — 1 mentions
+> 82. [[Cybersecurity Foundations- Security Architecture]] — 1 mentions
+> 83. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 1 mentions
+> 84. [[Planning a Multicloud Solution (2022)]] — 1 mentions
+> 85. [[Database Foundations- Administration]] — 1 mentions
+> 86. [[Learning SharePoint Online]] — 1 mentions
+> 87. [[Network Forensics]] — 1 mentions
+> 88. [[Node- Authentication]] — 1 mentions
+> 89. [[Learning PowerShell]] — 1 mentions
+> 90. [[Manage Storage in Azure]] — 1 mentions
+> 91. [[Controlling Cost with Azure Management and Billing]] — 1 mentions
+> 92. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
+> 93. [[Aws Essential Training For Developers]] — 1 mentions
+> 94. [[Learning Spring 6 With Spring Boot]] — 1 mentions
 > 95. [[IT Service Management Foundations- Problem Management]] — 1 mentions
 > 96. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
 > 97. [[Jira- Basic Administration]] — 1 mentions
@@ -144,7 +144,7 @@ created: 2026-05-02
 7. [[Identity and Access Management in Azure]] — 77 total mentions
 8. [[Explore a Career in IT Support]] — 72 total mentions
 9. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 71 total mentions
-10. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 68 total mentions
+10. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 69 total mentions
 
 ---
 

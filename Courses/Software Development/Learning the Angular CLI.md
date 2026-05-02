@@ -97,20 +97,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maximize productivity with Angular CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980)
+#### [Maximize productivity with Angular CLI](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=0)** - [Victor] Angular has truly been a game changer for developing feature-rich, client-set applications.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=0)** - [Victor] [[Angular]] has truly been a game changer for developing feature-rich, client-set applications.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=4)** Developers love it because it enables them to be productive while skaling the web applications.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=9)** Another reason developers love Angular is because of the amazing tooling available.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=13)** One of those tools is the Angular command-line interface, The CLI.
+> **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=13)** One of those tools is the Angular command-line interface, The [[CLI]].
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=17)** Hi, I'm Victor Mejia and welcome to this course on learning the Angular CLI.
+> **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=17)** Hi, I'm Victor Mejia and welcome to this course on learning the [[Angular CLI]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980&t=22)** In this course, I'll be guiding you through the amazing features that the CLI provides for you and how you can use it to be productive building your Angular applications.
 >
@@ -124,18 +123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[CLI]] (3), application (2), game (1), feature (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[CLI]] (3), [[Angular CLI]] (1)
 > **Env Vars:** cli (4)
 > **Speakers:** - [victor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=0)** - [Instructor] This course will assume a basic understanding of Angular.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=0)** - [Instructor] This course will assume a basic understanding of [[Angular]].
 >
-> **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=3)** The Angular CLI assumes that you have Node, NPM, and Git installed on your system.
+> **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=3)** The [[Angular CLI]] assumes that you have Node, [[npm]], and [[Git]] installed on your system.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=8)** We will be using Node to install packages, and is needed for the Angular CLI.
 >
@@ -149,11 +147,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=28)** If you're on a Mac, I recommend downloading and installing iTerm2 Version 3 and using a shell like Zsh and the Oh My Zsh framework, as it provides you with tooling that will make you more productive at your terminal.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=41)** If you're on a Windows machine, I highly recommend you check out Cmder as an alternative to the command prompt.
+> **[0:41](https://www.linkedin.com/learning/learning-the-angular-cli/what-you-should-know?u=76281980&t=41)** If you're on a [[Windows]] machine, I highly recommend you check out Cmder as an alternative to the command prompt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[npm]] (3), [[Angular CLI]] (2), [[Angular]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Angular CLI]] (2), [[Angular]] (1), [[Git]] (1), [[Windows]] (1)
 > **CLI Commands:** node (3), npm (3), git (1), make (1)
 > **Tools:** terminal (2), zsh (2), visual studio (1), command prompt (1)
 > **Env Vars:** npm (3), cli (2)
@@ -162,18 +160,17 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Prerequisites:** install (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=0)** - [Male Narrator] In the exercise files for this course you will find a few folders.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=4)** The first project that you see here will be used in the second chapter where I will show you how to take an existing application and update it to the latest version of angular.
+> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=4)** The first project that you see here will be used in the second chapter where I will show you how to take an existing application and update it to the latest version of [[Angular]].
 >
-> **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=13)** The folders: zero three dash zero three and zero three dash zero six contain asset files you'll need as we test things out using the angular CLI.
+> **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=13)** The folders: zero three dash zero three and zero three dash zero six contain asset files you'll need as we test things out using the [[Angular CLI]].
 >
-> **[0:23](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=23)** In chapter seven, I will show you how to run your test suite using the CLI.
+> **[0:23](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=23)** In chapter seven, I will show you how to run your test suite using the [[CLI]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-exercise-files?u=76281980&t=28)** And I have provided a sample application that already contains a number of unit tests.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Angular]] (1), [[Angular CLI]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (1), [[Angular CLI]] (1), [[CLI]] (1)
 > **Env Vars:** cli (2), url (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -209,18 +206,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the Angular CLI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980)
+#### [What is the Angular CLI?](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=0)** - This course is all about the official Angular CLI, which stands for command line interface.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=0)** - This course is all about the official [[Angular CLI]], which stands for command line interface.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=5)** Developed by the Angular team as a command line tool that you install on your system.
+> **[0:05](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=5)** Developed by the [[Angular]] team as a command line tool that you install on your system.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=9)** It makes it easy for you to create new anchor applications, serve them for development and easily generate Angular application code like components, services and directives.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=19)** The CLI also configures pipelines for important things like unit and end to end testing and bundling your code for production.
+> **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=19)** The [[CLI]] also configures pipelines for important things like unit and end to end testing and bundling your code for production.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980&t=25)** The Angular CLI is a recommended way to work on your Angular projects and is actively maintained and new features are released constantly.
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), [[CLI]] (3), [[Angular CLI]] (2), application (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[CLI]] (3), [[Angular CLI]] (2)
 > **Env Vars:** cli (5)
 > **Tools:** command line (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -237,22 +233,21 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - this (1)
 
-#### Installing the CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980)
+#### [Installing the CLI](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=0)** - You will first need to have Node.js installed in your system.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=0)** - You will first need to have [[Node.js]] installed in your system.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=3)** We will be using the latest LTS which is currently at 12.19.0 at the time of this recording, and you will need, at least version six of NPM, which comes bundled with Node.
+> **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=3)** We will be using the latest LTS which is currently at 12.19.0 at the time of this recording, and you will need, at least version six of [[npm]], which comes bundled with Node.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=13)** I recommend you use Volta to install Node.js on your system.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=16)** It is a great tool you can use to install JavaScript tools and packages.
+> **[0:16](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=16)** It is a great tool you can use to install [[JavaScript]] tools and packages.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=20)** If you're on a Mac or a Unix system, you can use Quarrel along with the provider command here.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=25)** If you're on Windows an installer is also provided.
+> **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=25)** If you're on [[Windows]] an installer is also provided.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=28)** Let's check our Volta installation, set to our terminal and type in Volta-V.
 >
@@ -268,11 +263,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=52)** Node dash dash version and NPM dash dash version.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=59)** Let's install the Angular CLI now.
+> **[0:59](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=59)** Let's install the [[Angular CLI]] now.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=61)** We can use Volta with Volta install @angular/cli and we'll be working with version 10 of the Angular CLI.
+> **[1:01](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=61)** We can use Volta with Volta install @[[Angular]]/[[CLI]] and we'll be working with version 10 of the Angular CLI.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=71)** let's say, enter, this we'll go ahead and fetch the necessary dependencies from NPM in order to install the tool globally on your machine.
+> **[1:11](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=71)** let's say, enter, this we'll go ahead and [[Fetch]] the necessary dependencies from NPM in order to install the tool globally on your machine.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-the-angular-cli/installing-the-cli?u=76281980&t=78)** This will take a few moments.
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (4), node (4), [[Angular CLI]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (4), [[Angular CLI]] (2), [[JavaScript]] (1), [[Windows]] (1)
 > **CLI Commands:** node (8), npm (4)
 > **Env Vars:** npm (4), lts (2), cli (2)
 > **Prerequisites:** install (7)
@@ -293,12 +288,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (1)
 
-#### Using the CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980)
+#### [Using the CLI](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=0)** - [Instructor] Once you've installed the CLI you don't have to be in a particular directory in order to use the ng command.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=0)** - [Instructor] Once you've installed the [[CLI]] you don't have to be in a particular directory in order to use the ng command.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=6)** It's been added to your global path in order to make it easy for you to use it.
 >
@@ -314,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=40)** And that will output all the configuration flags available to you for building your applications.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=47)** Also, keep in mind that certain commands only work inside an Angular project.
+> **[0:47](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=47)** Also, keep in mind that certain commands only work inside an [[Angular]] project.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-cli?u=76281980&t=50)** For instance, ng build--help will output an error here.
 >
@@ -322,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (2), application (2), [[Angular]] (2)
+> **Frameworks & Libraries:** [[CLI]] (2), [[Angular]] (2)
 > **Env Vars:** cli (2)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -335,18 +329,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Angular Update Guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980)
+#### [Using the Angular Update Guide](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=0)** - [Instructor] During this chapter, we will be working on updating an existing Angular application to the latest version of Angular.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=0)** - [Instructor] During this chapter, we will be working on updating an existing [[Angular]] application to the latest version of Angular.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=6)** We'll be taking a look at this particular project, which is a project built in another one of my courses where we work with Angular and Firebase.
+> **[0:06](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=6)** We'll be taking a look at this particular project, which is a project built in another one of my courses where we work with Angular and [[Firebase]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=13)** I highly recommend you check that out.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=15)** Taking a look at the package.json, we can see that version 8 of Angular is being used, while the latest stable version is 10.
+> **[0:15](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=15)** Taking a look at the package.[[JSON]], we can see that version 8 of Angular is being used, while the latest stable version is 10.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980&t=25)** The easiest way to get started in updating an existing Angular project is to head over to the official Angular Update Guide at update.[angular.io](https://angular.io).
 >
@@ -370,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), application (1), [[Firebase]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[Firebase]] (1), [[JSON]] (1)
 > **Versions:** version 8 (2), version 9 (1), version 10 (1)
 > **Definitions:** is a  (2)
 > **File Paths:** package.json (1)
@@ -379,12 +372,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** recommended (1)
 
-#### Using ng update: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980)
+#### [Using ng update: Part 1](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=0)** - Let's go ahead now and update the existing project by first cloning it and running npm install.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=0)** - Let's go ahead now and update the existing project by first cloning it and running [[npm]] install.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=5)** We'll first update from version 8 to version 9.
 >
@@ -400,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=22)** But if you are, make sure you are using dynamic imports.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=26)** The @angular/platform-webworker doesn't apply here.
+> **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=26)** The @[[Angular]]/platform-webworker doesn't apply here.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=30)** Nor does a web tracing framework.
 >
@@ -438,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=115)** Let's take a look at some of the changes.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=118)** Taking a look at our package.json, we can see that our dependencies were updated to version 9.
+> **[1:58](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=118)** Taking a look at our package.[[JSON]], we can see that our dependencies were updated to version 9.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=128)** In the angular.json file we can also see that ahead of time compilation is enabled by default.
 >
@@ -458,7 +450,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=158)** Go ahead and run npm install @angular/fire in order to get the latest version.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=165)** The next two bullet points tell us other updates the @angular/cli did We aren't using ModuleWithProviders so that doesn't apply here.
+> **[2:45](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=165)** The next two bullet points tell us other updates the @angular/[[CLI]] did We aren't using ModuleWithProviders so that doesn't apply here.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=177)** Nor are we using the ngForm selector.
 >
@@ -472,13 +464,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=197)** In particular, look at the entryComponents bullet point along with the necessary change of using TestBed.inject instead of TestBed.get.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=210)** The rest is more information.
+> **[3:30](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=210)** The [[Representational State Transfer (REST)|rest]] is more information.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-1?u=76281980&t=211)** So we are good there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), [[JSON]] (3), [[npm]] (2), node (2), next (2)
+> **Frameworks & Libraries:** [[Angular]] (10), [[JSON]] (3), [[npm]] (2), [[CLI]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** version 9 (4), version 8 (1), 8.2.4 (1), 8.2.14 (1), 3.8 (1)
 > **CLI Commands:** npm (2), make (2), node (2)
 > **File Paths:** package.json (1), angular.json (1), tsconfig.app.json (1), typings.d.ts (1)
@@ -487,8 +479,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **URLs:** [tsconfig.app](https://tsconfig.app) (1)
 
-#### Using ng update: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980)
+#### [Using ng update: Part 2](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=24)** Again, this will all depends on the size of this specific app you're updating.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=28)** My goal here is to show you how to use this angular update guide in the most general sense so that you can be successful in updating your own applications.
+> **[0:28](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=28)** My goal here is to show you how to use this [[Angular]] update guide in the most general sense so that you can be successful in updating your own applications.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=38)** We previously took care of the first two items, including updating to the latest angular file library, and we don't use angular localize.
 >
@@ -518,13 +509,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=80)** Let's go ahead and copy that update command.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=84)** ng update, angular core and angular CLI.
+> **[1:24](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=84)** ng update, angular core and [[Angular CLI]].
 >
 > **[1:36](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=96)** Once that is complete, let's take a look at the changes that happened.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=102)** We first see that the browser list file has been renamed.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=106)** Figure to look at the package.json, our dependencies have now been updated to angular 10 and it's compatible dependencies.
+> **[1:46](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=106)** Figure to look at the package.[[JSON]], our dependencies have now been updated to angular 10 and it's compatible dependencies.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=116)** Our tsconfig.json file was also updated along with our tslint.json file.
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=161)** Allowed CommonJS dependencies.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=169)** Let's go ahead and add firebase/app and also add firebase/firestore.
+> **[2:49](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=169)** Let's go ahead and add [[Firebase]]/app and also add firebase/firestore.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=180)** Let's try to build our application again.
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=211)** We can see that a request was made and we get back an API error, which was expected.
 >
-> **[3:36](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=216)** What I am looking for is for any run time errors or JavaScript errors that may be due to our angular update.
+> **[3:36](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=216)** What I am looking for is for any run time errors or [[JavaScript]] errors that may be due to our angular update.
 >
 > **[3:44](https://www.linkedin.com/learning/learning-the-angular-cli/using-ng-update-part-2?u=76281980&t=224)** But it looks like there are none.
 >
@@ -574,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (11), application (6), [[JSON]] (4), [[Firebase]] (3), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (11), [[JSON]] (4), [[Firebase]] (3), [[Angular CLI]] (1), [[JavaScript]] (1)
 > **Versions:** angular 10 (4), version 10 (2), version 9 (1), angular 9 (1)
 > **File Paths:** package.json (1), tsconfig.json (1), tslint.json (1), angular.json (1)
 > **Env Vars:** cli (1), cpi (1), api (1)
@@ -586,12 +577,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The ng new command
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980)
+#### [The ng new command](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=0)** - [Instructor] Let's start using the CLI to scaffold a new sample application.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=0)** - [Instructor] Let's start using the [[CLI]] to scaffold a new sample application.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=4)** We won't be developing a full application but our goal on this course, is to fully learn all that the CLI has to offer.
 >
@@ -601,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=23)** It will first ask you a couple of questions.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=26)** Do we want angular routing?
+> **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=26)** Do we want [[Angular]] [[Routing]]?
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=27)** Let's say yes.
 >
@@ -611,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=37)** How do we run this without the dry-run flag?
 >
-> **[0:40](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=40)** This would have scaffolded a new project for me and started installing dependencies, generating a package of JSON, config files for TypeScript testing and running and building the application.
+> **[0:40](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=40)** This would have scaffolded a new project for me and started installing dependencies, generating a package of [[JSON]], config files for TypeScript testing and running and building the application.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980&t=50)** Along with an application module, bootstrapped and ready to go.
 >
@@ -671,27 +661,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Routing]] (9), [[CLI]] (4), [[Angular]] (3), hit (2)
+> **Frameworks & Libraries:** [[Routing]] (9), [[CLI]] (4), [[Angular]] (3), [[JSON]] (1)
 > **Env Vars:** sas (5), cli (4), scss (4), abc (3), css (2)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** main.ts (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the config files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980)
+#### [Understanding the config files](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=0)** - [Instructor] Let`s take a look at the configuration files that the cli generate for us.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=0)** - [Instructor] Let`s take a look at the configuration files that the [[CLI]] generate for us.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=5)** To start with package dot Jason.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=7)** Any javascript application should have a package dot Jason to describe projects and its dependencies.
+> **[0:07](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=7)** Any [[JavaScript]] application should have a package dot Jason to describe projects and its dependencies.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=12)** We can see that we have the latest version of angular along with angular`s dependencies, and development tools that the cli uses to do things like building, serving and testing our application.
+> **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=12)** We can see that we have the latest version of [[Angular]] along with angular`s dependencies, and development tools that the cli uses to do things like building, serving and testing our application.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=29)** We can also see that a few npm scripts were configured for us.
+> **[0:29](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=29)** We can also see that a few [[npm]] scripts were configured for us.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=32)** In the terminal, any of these scripts can be run using npm run.
 >
@@ -705,9 +694,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=54)** The angular dot Jason file is a Jason file describing several aspects of your cli application.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=60)** The angular cli uses this to know additional information when running specific commands.
+> **[1:00](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=60)** The [[Angular CLI]] uses this to know additional information when running specific commands.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=65)** The project`s object contains metadata in configuration about the different applications in this project.
+> **[1:05](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=65)** The project`s object contains [[Metadata]] in configuration about the different applications in this project.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-the-angular-cli/understanding-the-config-files?u=76281980&t=71)** Looking at the architect object we can see that there are configurations for building, serving, testing, linting and running your end to end tests.
 >
@@ -769,7 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), application (7), [[CLI]] (5), [[npm]] (5), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[CLI]] (5), [[npm]] (5), [[JavaScript]] (1), [[Angular CLI]] (1)
 > **CLI Commands:** npm (5)
 > **Definitions:** is a  (5)
 > **Documentation:** spec (1)
@@ -778,14 +767,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding application assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980)
+#### [Adding application assets](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=0)** - [Narrator] Let's take a look now at adding application assets in libraries.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=3)** Head over to the angular.json file and inspect the assets array.
+> **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=3)** Head over to the [[Angular]].[[JSON]] file and inspect the assets array.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=7)** Here we connect files or folders that we want to copy during a build of our application.
 >
@@ -797,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=28)** We can go ahead and grab the sample image from the exercise files and simply drag it in.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=33)** Let's grab the LinkedIn logo that PNG file and drag it to the assets folder.
+> **[0:33](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=33)** Let's grab the [[LinkedIn]] logo that PNG file and drag it to the assets folder.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=38)** Let's run a build of our application now.
 >
@@ -807,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=55)** This is really useful because you only need to use one path for your assets, and that will not change your production build.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=63)** Let's head over to app.component.html and go ahead and delete the placeholder content.
+> **[1:03](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=63)** Let's head over to app.component.[[HTML]] and go ahead and delete the placeholder content.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=72)** To add an asset to your application, you can reference the assets path.
 >
@@ -819,7 +807,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=100)** For demonstration purposes, let's go ahead and install the weather underground icons module.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=106)** NPM install, weather dash underground dash icons.
+> **[1:46](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=106)** [[npm]] install, weather dash underground dash icons.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=114)** If we take a peek at the node modules all the way down to weather underground icons, the raw images are in the disc folder in the icons folder.
 >
@@ -857,13 +845,13 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=226)** You didn't have to write any code to do this.
 >
-> **[3:49](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=229)** The CLI handles it all for you.
+> **[3:49](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=229)** The [[CLI]] handles it all for you.
 >
 > **[3:50](https://www.linkedin.com/learning/learning-the-angular-cli/adding-application-assets?u=76281980&t=230)** In the next video we'll take a look at adding global scripts to our application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Angular]] (2), [[JSON]] (2), [[LinkedIn]] (2), node (2)
+> **Frameworks & Libraries:** [[Angular]] (2), [[JSON]] (2), [[LinkedIn]] (2), [[HTML]] (1), [[npm]] (1)
 > **Env Vars:** png (1), mpm (1), npm (1), cli (1)
 > **File Paths:** angular.json (2), app.component.html (1)
 > **CLI Commands:** node (2), npm (1)
@@ -872,20 +860,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding a CSS framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980)
+#### [Adding a CSS framework](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=0)** - [Instructor] A common need often involves the usage of a CSS framework like Bootstrap.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=4)** Using the CLI to add a CSS framework as a global style is actually quite simple.
+> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=4)** Using the [[CLI]] to add a CSS framework as a global style is actually quite simple.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=9)** Let's first install Bootstrap.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=12)** npm install boostrap and we'll be using version 4.5.2.
+> **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=12)** [[npm]] install boostrap and we'll be using version 4.5.2.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=17)** Once that is installed, head over to angular.json and add in the path for the bootstrap CSS file in the styles array.
+> **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=17)** Once that is installed, head over to [[Angular]].[[JSON]] and add in the path for the bootstrap CSS file in the styles array.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=26)** This will be a node.modules/bootstrap/dist/css
 >
@@ -893,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=40)** Now, when you run a build of your application the bootstrap CSS file will be added as a global style sheet to your application.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=47)** You won't see this injected as a link tag in the index.html file, but they will indeed be added to your application.
+> **[0:47](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=47)** You won't see this injected as a link tag in the index.[[HTML]] file, but they will indeed be added to your application.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-the-angular-cli/adding-a-css-framework?u=76281980&t=54)** These styles will be loaded when the Angular app first loads.
 >
@@ -901,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), application (3), [[Angular]] (2), [[CLI]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[CLI]] (1), [[npm]] (1), [[JSON]] (1), [[HTML]] (1)
 > **Env Vars:** css (4), cli (1)
 > **File Paths:** angular.json (1), bootstrap.min.css (1), index.html (1)
 > **CLI Commands:** npm (1), node (1), make (1)
@@ -909,26 +896,25 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Adding JavaScript libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980)
+#### [Challenge: Adding JavaScript libraries](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=0)** - [Instructor] In addition to adding application assets or CSS libraries, you can also easily add JavaScript libraries.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=0)** - [Instructor] In addition to adding application assets or CSS libraries, you can also easily add [[JavaScript]] libraries.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=13)** This is useful in situations where you have legacy libraries, libraries written in ES5 that have not been ported to ES modules, and libraries that add their namespace to the global scope.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=25)** In this challenge, I would like you to add this library to your Angular application.
+> **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=25)** In this challenge, I would like you to add this library to your [[Angular]] application.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=30)** You will see that the usage of this library requires you to globally load the particle.js file.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=38)** Take a look at the Angular CLI documentation at this URL to see how you can do that.
+> **[0:38](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=38)** Take a look at the [[Angular CLI]] documentation at this URL to see how you can do that.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-adding-javascript-libraries?u=76281980&t=44)** The library is available on MPM, so can install it and have it available in your node modules.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), css (1), [[JavaScript]] (1), [[Angular]] (1), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Angular]] (1), [[Angular CLI]] (1)
 > **Env Vars:** css (1), es5 (1), cli (1), url (1), mpm (1)
 > **File Paths:** particle.js (1)
 > **CLI Commands:** node (1)
@@ -936,16 +922,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Adding JavaScript libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980)
+#### [Solution: Adding JavaScript libraries](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=0)** - [Instructor] Let's take a look again at the angular.json file and now at the script array.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=0)** - [Instructor] Let's take a look again at the [[Angular]].[[JSON]] file and now at the script array.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=12)** Any file placed here will be added to your application's global scope, similar to loading the file using a script tag.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=19)** The particles.JS libraries on NPM.
+> **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=19)** The particles.JS libraries on [[npm]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=22)** So let's first install it and NPM install particles.JS.
 >
@@ -963,7 +948,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=61)** The particles.JS library uses the configuration file.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=64)** Go ahead and grab this file from the exercise files for this video and drag it to the assets folder Head over now to the app.component.HTML file and this go ahead and add a div with an ID of particles
+> **[1:04](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=64)** Go ahead and grab this file from the exercise files for this video and drag it to the assets folder Head over now to the app.component.[[HTML]] file and this go ahead and add a div with an ID of particles
 >
 > **[1:25](https://www.linkedin.com/learning/learning-the-angular-cli/solution-adding-javascript-libraries?u=76281980&t=85)** and then heading over to the component class.
 >
@@ -995,7 +980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (5), application (2), node (2), [[Angular]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[Angular]] (1), [[JSON]] (1), [[HTML]] (1)
 > **File Paths:** particles.js (7), angular.json (1), modules/particles.js/particles.js (1), app.component.html (1)
 > **CLI Commands:** npm (5), node (2), find (1)
 > **Env Vars:** npm (5), html (1), css (1)
@@ -1009,14 +994,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The ng serve command
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980)
+#### [The ng serve command](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=0)** - [instructor] The Angular CLI does a really great job tailoring to developer experience.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=0)** - [instructor] The [[Angular CLI]] does a really great job tailoring to developer experience.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=4)** Aside from scaffolding an entire application for you, the CLI makes it easy for you to serve your app for development.
+> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=4)** Aside from scaffolding an entire application for you, the [[CLI]] makes it easy for you to serve your app for development.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=10)** Let's continue with the sample that we previously generated.
 >
@@ -1034,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=45)** Let's make a change now to our app component.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=47)** Heading over to App.component.html, let's go ahead and add a header.
+> **[0:47](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=47)** Heading over to App.component.[[HTML]], let's go ahead and add a header.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980&t=54)** Let's give that a save, head over back to our browser, and our application has automatically reloaded in our browser.
 >
@@ -1048,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[CLI]] (2), feature (2), [[Angular CLI]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[Angular CLI]] (1), [[HTML]] (1)
 > **Env Vars:** cli (3)
 > **File Paths:** app.component.html (1)
 > **CLI Commands:** make (1)
@@ -1057,8 +1041,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Exercise Files:** template (1)
 
-#### Customizing the development server
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980)
+#### [Customizing the development server](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,7 +1069,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=69)** I am on a Mac.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=70)** For instructions on updating your host file on a Windows machine, please refer to the link on the screen.
+> **[1:10](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=70)** For instructions on updating your host file on a [[Windows]] machine, please refer to the link on the screen.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=77)** Let me go ahead and kill the server here.
 >
@@ -1106,9 +1089,9 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=136)** Now with all of this configuration, it may be a little tedious to type it all out.
 >
-> **[2:21](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=141)** That is where npm scripts come in handy.
+> **[2:21](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=141)** That is where [[npm]] scripts come in handy.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=143)** In our application, head over to package.json.
+> **[2:23](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=143)** In our application, head over to package.[[JSON]].
 >
 > **[2:26](https://www.linkedin.com/learning/learning-the-angular-cli/customizing-the-development-server?u=76281980&t=146)** There are some scripts here, that have been pre-configured for you but let's add a new script.
 >
@@ -1120,7 +1103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[npm]] (3), api (1), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Windows]] (1), [[JSON]] (1)
 > **URLs:** [company.com](https://company.com) (5), [localhost.dev](https://localhost.dev) (3)
 > **CLI Commands:** npm (3)
 > **Ports:** port 8000 (2), port 4200 (1)
@@ -1134,16 +1117,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating new code with schematics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980)
+#### [Creating new code with schematics](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980&t=0)** - [Instructor] Now that we have learned how to create new Angular applications and serving them for development, we will learn now how to easily create Angular application code using the schematics from the Angular CLI.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980&t=0)** - [Instructor] Now that we have learned how to create new [[Angular]] applications and serving them for development, we will learn now how to easily create Angular application code using the schematics from the [[Angular CLI]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980&t=11)** What do I mean by schematics?
 >
-> **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980&t=12)** With the CLI, you can generate the different entities used for building your application.
+> **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980&t=12)** With the [[CLI]], you can generate the different entities used for building your application.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980&t=17)** In your terminal, type in ng generate --help.
 >
@@ -1155,14 +1137,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Angular]] (2), [[Angular CLI]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[Angular CLI]] (1), [[CLI]] (1)
 > **Env Vars:** cli (2)
 > **Tools:** terminal (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating components and modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980)
+#### [Generating components and modules](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,7 +1169,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=68)** We see a new folder that's generated here.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=71)** We open that up, we have an HTML file, an empty file for styles a spec file and a component file.
+> **[1:11](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=71)** We open that up, we have an [[HTML]] file, an empty file for styles a spec file and a component file.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=83)** It's also important to note that our applications module was modified.
 >
@@ -1200,7 +1181,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=104)** And we see that we have a new folder here with a new shared module here.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=109)** From the root directory we can instruct the CLI to generate a new component inside this new shared folder, and also be contained in a shared module.
+> **[1:49](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=109)** From the root directory we can instruct the [[CLI]] to generate a new component inside this new shared folder, and also be contained in a shared module.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-the-angular-cli/generating-components-and-modules?u=76281980&t=119)** ng generate component, shared, and the name of our component will be avatar.
 >
@@ -1219,8 +1200,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating directives
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/generating-directives?u=76281980)
+#### [Generating directives](https://www.linkedin.com/learning/learning-the-angular-cli/generating-directives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/generating-directives?u=76281980&t=12)** At the terminal, we can simply type in ng generate directive and we will be placing this in the shared module as well, inside a directives folder.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-the-angular-cli/generating-directives?u=76281980&t=23)** In this case, let's explicitly tell the CLI the declaring model.
+> **[0:23](https://www.linkedin.com/learning/learning-the-angular-cli/generating-directives?u=76281980&t=23)** In this case, let's explicitly tell the [[CLI]] the declaring model.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-the-angular-cli/generating-directives?u=76281980&t=31)** And we can do that by specifying the --module=shared.
 >
@@ -1246,8 +1226,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - generating (1)
 
-#### Generating pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/generating-pipes?u=76281980)
+#### [Generating pipes](https://www.linkedin.com/learning/learning-the-angular-cli/generating-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,29 +1240,28 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-angular-cli/generating-pipes?u=76281980&t=24)** If we take a look at the generated pipe file, a boilerplate class and test file were created.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/generating-pipes?u=76281980&t=32)** Pipes in Angular must implement the pipe transform interface and has one method, the transform method that must be implemented.
+> **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/generating-pipes?u=76281980&t=32)** Pipes in [[Angular]] must implement the pipe transform interface and has one method, the transform method that must be implemented.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-the-angular-cli/generating-pipes?u=76281980&t=41)** From here, you can modify in order to implement the correct logic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Angular]] (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [victor] (1)
 
-#### Generating route guards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980)
+#### [Generating route guards](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=0)** - [Instructor] In Angular applications, we can protect routes using what is called a route guard.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=0)** - [Instructor] In [[Angular]] applications, we can protect routes using what is called a route guard.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=4)** A route guard is used to perform certain checks when the route is being requested, and it can decide whether or not to continue with the navigation.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=12)** In our particular case, we wish to lock certain routes, so that the user can't see data on this data logged in.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=18)** Let's generate a new guard using the CLI; ng generate guard, and we will call this route guard auth.
+> **[0:18](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=18)** Let's generate a new guard using the [[CLI]]; ng generate guard, and we will call this route guard auth.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=27)** It will ask us which interface we would like to implement.
 >
@@ -1293,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=42)** If false is returned, it will stop navigation.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=46)** Now in the app routing module, we will first need to import this guard; import from /auth.guard.
+> **[0:46](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=46)** Now in the app [[Routing]] module, we will first need to import this guard; import from /auth.guard.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-the-angular-cli/generating-route-guards?u=76281980&t=60)** And let's go ahead and import our guard here.
 >
@@ -1317,19 +1295,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[CLI]] (2), [[Angular]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[Angular]] (1), [[Routing]] (1)
 > **Env Vars:** cli (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding libraries using schematics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980)
+#### [Adding libraries using schematics](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=0)** - [Instructor] The Angular CLI provides us with an easy way to add an npm package for a published library and can also configure our application and modify files so that it is ready to go.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=0)** - [Instructor] The [[Angular CLI]] provides us with an easy way to add an [[npm]] package for a published library and can also configure our application and modify files so that it is ready to go.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=11)** For example, let's say we want to use Angular Material in our application.
+> **[0:11](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=11)** For example, let's say we want to use [[Angular]] Material in our application.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=15)** The Angular Material team has created a schematic that we can easily use.
 >
@@ -1339,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=30)** It will ask us a couple of questions.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=32)** This case I will go with the first option here and I will choose yes to set up global Angular Material typography.
+> **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=32)** This case I will go with the first option here and I will choose yes to set up global Angular Material [[Typography]].
 >
 > **[0:39](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=39)** Set up browser animations?
 >
@@ -1347,13 +1324,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=42)** And once the questions are done it will install the necessary packages and also modify any files.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=49)** Taking a look at the changes, you can see that it not only modify my package.json file but it also modified my application code with necessary changes.
+> **[0:49](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=49)** Taking a look at the changes, you can see that it not only modify my package.[[JSON]] file but it also modified my application code with necessary changes.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-the-angular-cli/adding-libraries-using-schematics?u=76281980&t=60)** Just a quick note, you should first look at a specific library's documentation page to see if it provides angular CLI schematic support.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), application (3), [[Angular CLI]] (2), [[npm]] (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[Angular CLI]] (2), [[npm]] (1), [[Typography]] (1), [[JSON]] (1)
 > **Prerequisites:** set up (2), configure (1), install (1)
 > **Env Vars:** cli (2)
 > **File Paths:** package.json (1)
@@ -1361,14 +1338,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating custom library
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980)
+#### [Generating custom library](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=0)** - [Instructor] In some projects you will come across a need to develop your own custom Angular library to be shared across teams in your organization.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=0)** - [Instructor] In some projects you will come across a need to develop your own custom [[Angular]] library to be shared across teams in your organization.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=8)** The Angular CLI makes it really easy for you to do this.
+> **[0:08](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=8)** The [[Angular CLI]] makes it really easy for you to do this.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=11)** We can do that by using ng generate library and the name for our library.
 >
@@ -1376,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=21)** It goes ahead and generates files and also installs additional, necessary packages.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=26)** We can go ahead and inspect our Augular.JSON file and we can see that a new project was added to our configuration.
+> **[0:26](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=26)** We can go ahead and inspect our Augular.[[JSON]] file and we can see that a new project was added to our configuration.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-the-angular-cli/generating-custom-library?u=76281980&t=39)** This means that our library has its own builder targets.
 >
@@ -1398,19 +1374,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), teams (1), [[Angular CLI]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Angular CLI]] (1), [[JSON]] (1)
 > **Env Vars:** cli (1), json (1)
 > **File Paths:** augular.json (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Generating services
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-generating-services?u=76281980)
+#### [Challenge: Generating services](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-generating-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-generating-services?u=76281980&t=0)** - [Victor] Data fetching and processing in Angular should be handled by services and a CLI allows you to easily create them.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-generating-services?u=76281980&t=0)** - [Victor] Data fetching and processing in [[Angular]] should be handled by services and a [[CLI]] allows you to easily create them.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/challenge-generating-services?u=76281980&t=13)** For this challenge, I want you to suppose that we are generating an Angular service called API and we would like to place a service in a services folder under the source and then under the app folder here.
 >
@@ -1418,13 +1393,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (2), [[CLI]] (2), data (1), api (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[CLI]] (2)
 > **Env Vars:** cli (2), api (1)
 > **Speakers:** - [victor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generating services
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/solution-generating-services?u=76281980)
+#### [Solution: Generating services](https://www.linkedin.com/learning/learning-the-angular-cli/solution-generating-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,11 +1410,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/solution-generating-services?u=76281980&t=20)** And just like that, we have a services folder created along with the API service and the spec file.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-the-angular-cli/solution-generating-services?u=76281980&t=31)** An important thing to note is that by default, services are registered with the root injector, and so angular creates a single shared instance of the generator service across our application.
+> **[0:31](https://www.linkedin.com/learning/learning-the-angular-cli/solution-generating-services?u=76281980&t=31)** An important thing to note is that by default, services are registered with the root injector, and so [[Angular]] creates a single shared instance of the generator service across our application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Angular]] (1), application (1)
+> **Frameworks & Libraries:** [[Angular]] (1)
 > **Env Vars:** api (2)
 > **Documentation:** spec (1)
 > **Tools:** terminal (1)
@@ -1453,12 +1427,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A build pipeline for an Angular app
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980)
+#### [A build pipeline for an Angular app](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=0)** - [Instructor] There are many steps involved in building an Angular application.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=0)** - [Instructor] There are many steps involved in building an [[Angular]] application.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=3)** Since Angular apps are written in TypeScript in ES6 and beyond, the build pipeline is quite involved.
 >
@@ -1468,7 +1441,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=25)** We need to compile from Sass to CSS, inlining CSS, dealing with scoped styles, and copying or inlining images.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=32)** As you can see, the process is very involved, but the CLI takes care of all with a simple command: ng build.
+> **[0:32](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=32)** As you can see, the process is very involved, but the [[CLI]] takes care of all with a simple command: ng build.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980&t=40)** As you may have guessed, there are also several options for the build command.
 >
@@ -1476,12 +1449,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Angular]] (2), application (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[CLI]] (1)
 > **Env Vars:** css (3), es6 (2), cli (1)
 > **Speakers:** - [instructor] (1)
 
-#### The ng build command
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980)
+#### [The ng build command](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,23 +1473,22 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980&t=34)** Since this is transpired with code, the source map helps for debugging purposes since you can debug using the original TypeScript code.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980&t=41)** Taking a look at our custom library, ng build also took care of building that for us in a format that can be published to mpm and imported into your Angular application.
+> **[0:41](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980&t=41)** Taking a look at our custom library, ng build also took care of building that for us in a format that can be published to mpm and imported into your [[Angular]] application.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980&t=52)** Lastly, if we take a look at index.HTML, We can see that the build system has automatically injected script text for us referencing those script files.
+> **[0:52](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-build-command?u=76281980&t=52)** Lastly, if we take a look at index.[[HTML]], We can see that the build system has automatically injected script text for us referencing those script files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[Debugging]] (1), [[Angular]] (1), application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Angular]] (1), [[HTML]] (1)
 > **Env Vars:** css (1), url (1), html (1)
 > **File Paths:** index.html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring different build options
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980)
+#### [Configuring different build options](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=0)** - [Narrator] It is important to know that by default, the JavaScript bundles are not optimized.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=0)** - [Narrator] It is important to know that by default, the [[JavaScript]] bundles are not optimized.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=5)** What I mean by that is that they are not minified nor uglified for performance.
 >
@@ -1541,7 +1512,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=69)** - -source-map.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=73)** In order to see what this production configuration entails, We can take a look at the angular.json file.
+> **[1:13](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=73)** In order to see what this production configuration entails, We can take a look at the [[Angular]].[[JSON]] file.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-the-angular-cli/configuring-different-build-options?u=76281980&t=82)** Under the build, build a target.
 >
@@ -1553,23 +1524,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), [[Angular]] (1), [[JSON]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Angular]] (1), [[JSON]] (1)
 > **File Paths:** angular.json (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Setting up build scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980)
+#### [Setting up build scripts](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=0)** - [Instructor] Previously, we generated a build with the following configuration, ng build dash dash configuration equals production.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=8)** You may want a reusable command to be used in continuous integration and delivery environments, and sometimes, it may be a little long to type in.
+> **[0:08](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=8)** You may want a reusable command to be used in [[Continuous Integration (CI)|continuous integration]] and delivery environments, and sometimes, it may be a little long to type in.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=16)** We can easily set up an npm script for this.
+> **[0:16](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=16)** We can easily set up an [[npm]] script for this.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=19)** Open up the package.json file and let's update the build npm script.
+> **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=19)** Open up the package.[[JSON]] file and let's update the build npm script.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-angular-cli/setting-up-build-scripts?u=76281980&t=24)** We can add here dash dash configuration equals production and we can change the name of this npm script to build colon prod.
 >
@@ -1583,33 +1553,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (6), [[Continuous Integration (CI)|Continuous integration]] (1), [[JSON]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[Continuous Integration (CI)|Continuous integration]] (1), [[JSON]] (1)
 > **CLI Commands:** npm (6), make (1)
 > **File Paths:** package.json (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying with the Angular CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980)
+#### [Deploying with the Angular CLI](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=0)** - [Instructor] The Angular CLI allows you to deploy to third party services using one simple command: ng deploy.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=0)** - [Instructor] The [[Angular CLI]] allows you to deploy to third party services using one simple command: ng deploy.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=7)** However, this only works for packages that have implemented deployment functionality to specific platforms.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=13)** You can find a list of such packages at this URL.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=17)** For our use case, we will be deploying to Firebase.
+> **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=17)** For our use case, we will be deploying to [[Firebase]].
 >
-> **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=20)** Head over to the Firebase console at console.firebase.[google.com](https://google.com).
+> **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=20)** Head over to the Firebase console at console.firebase.[[[Google]].com](https://google.com).
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=25)** You will need to create a Firebase account.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=27)** Let's go ahead and add a project.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=29)** I will call my project CLI Deploy.
+> **[0:29](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=29)** I will call my project [[CLI]] Deploy.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=33)** Click continue, I don't want to use Google Analytics at this moment.
 >
@@ -1619,7 +1588,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=43)** And head it back to your project directory.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=46)** In your terminal, go ahead and run ng add @angular/fire.
+> **[0:46](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=46)** In your terminal, go ahead and run ng add @[[Angular]]/fire.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=53)** The command will go ahead and install any necessary dependencies.
 >
@@ -1633,7 +1602,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=78)** Once that is done, we can see that it has modified our application in order to support deployment.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=86)** Take another look at the package.json.
+> **[1:26](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=86)** Take another look at the package.[[JSON]].
 >
 > **[1:28](https://www.linkedin.com/learning/learning-the-angular-cli/deploying-with-the-angular-cli?u=76281980&t=88)** Dependencies have been added.
 >
@@ -1649,7 +1618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (8), [[CLI]] (3), [[Angular]] (3), application (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (8), [[CLI]] (3), [[Angular]] (3), [[Google]] (2), [[JSON]] (2)
 > **Env Vars:** cli (4), url (2)
 > **File Paths:** package.json (1), angular.json (1)
 > **Tools:** terminal (2)
@@ -1663,16 +1632,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Built-in test runner
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980)
+#### [Built-in test runner](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=0)** - [Instructor] We will now be learning about how to run your tests using the CLI.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=0)** - [Instructor] We will now be learning about how to run your tests using the [[CLI]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=4)** Go ahead and open the sample application provided in the exercise files called ng-sample-unit-tests.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=11)** Or you can clone the GitHub repository at this URL and make sure you run NPM install.
+> **[0:11](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=11)** Or you can clone the [[GitHub]] repository at this URL and make sure you run [[npm]] install.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=17)** When you generate an application using the CLI, a testing pipeline is already set up for you.
 >
@@ -1682,7 +1650,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=39)** Additional setup can be seen in source, test.ts.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=44)** Essentially, this provides additional setup to initialize the angular testing environment.
+> **[0:44](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=44)** Essentially, this provides additional setup to initialize the [[Angular]] testing environment.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980&t=49)** You can write your test entire script and the CLI will take care of transpiring that for you.
 >
@@ -1690,7 +1658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (3), application (2), [[GitHub]] (1), [[npm]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[CLI]] (3), [[GitHub]] (1), [[npm]] (1), [[Angular]] (1)
 > **Env Vars:** cli (3), url (1), npm (1)
 > **Prerequisites:** set up (2), setup (2), install (1)
 > **CLI Commands:** make (1), npm (1)
@@ -1699,8 +1667,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** open the (1)
 
-#### The ng test command
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-test-command?u=76281980)
+#### [The ng test command](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-test-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1733,8 +1700,7 @@ created: 2026-05-02
 > **Documentation:** spec (2)
 > **Speakers:** - [victor] (1)
 
-#### Test run options
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980)
+#### [Test run options](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,7 +1714,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=15)** In this case, our test will only run once and then exit.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=20)** In continuous integration environments, this will be needed.
+> **[0:20](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=20)** In [[Continuous Integration (CI)|continuous integration]] environments, this will be needed.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=24)** I would also recommend to generate code coverage reports when running your tests.
 >
@@ -1758,7 +1724,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=42)** When that is done, you'll see that we have a new coverage folder here.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=45)** In particular, we're interested in viewing index.html.
+> **[0:45](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=45)** In particular, we're interested in viewing index.[[HTML]].
 >
 > **[0:49](https://www.linkedin.com/learning/learning-the-angular-cli/test-run-options?u=76281980&t=49)** Go ahead and open that up in your browser.
 >
@@ -1778,8 +1744,7 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980)
+#### [Testing workflow](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1790,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=125)** And at the end we get a code coverage summary.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=130)** As I mentioned in previous videos, it is a great idea to abstract long commands into a simple to use NPM scripts.
+> **[2:10](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=130)** As I mentioned in previous videos, it is a great idea to abstract long commands into a simple to use [[npm]] scripts.
 >
 > **[2:16](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=136)** Let's go ahead and update the test script.
 >
@@ -1837,13 +1802,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=158)** The sample application also includes an example of an end-to-end test.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=163)** The CLI currently sets a protractor for you to write and run your end to end test.
+> **[2:43](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=163)** The [[CLI]] currently sets a protractor for you to write and run your end to end test.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-the-angular-cli/testing-workflow?u=76281980&t=169)** To run your end to end tests, you can simply run ng e2e and we can see that our test runs and passes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), application (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[CLI]] (1)
 > **Documentation:** spec (4)
 > **Env Vars:** npm (2), cli (1)
 > **Tools:** terminal (3)
@@ -1857,16 +1822,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=0)** - [Instructor] Thanks for joining me on this course and I hope you enjoyed learning about the angular CLI.
+> **[0:00](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=0)** - [Instructor] Thanks for joining me on this course and I hope you enjoyed learning about the [[Angular CLI]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=4)** The CLI is truly a great tool that will allow you to be productive building angular applications.
+> **[0:04](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=4)** The [[CLI]] is truly a great tool that will allow you to be productive building [[Angular]] applications.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=10)** I recommend subscribing to notifications on this github repository as it will allow you to keep up to date with new features and be notified of new releases.
+> **[0:10](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=10)** I recommend subscribing to notifications on this [[GitHub]] repository as it will allow you to keep up to date with new features and be notified of new releases.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980&t=19)** And of course, continue to browse our library for anything angular related.
 >

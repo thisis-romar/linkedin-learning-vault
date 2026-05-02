@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power up with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980)
+#### [Power up with ChatGPT](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,23 +94,22 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=4)** Navigating increasingly complex challenges and being asked to do more in less time, we need help.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=11)** Thankfully, that help has arrived in the form of ChatGPT.
+> **[0:11](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=11)** Thankfully, that help has arrived in the form of [[ChatGPT]].
 >
-> **[0:15](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=15)** Whether you're a seasoned analyst seeking to enhance your toolkit or a newcomer eager to harness the latest in AI technology, you'll be equipped with the skills and knowledge you need to excel.
+> **[0:15](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=15)** Whether you're a seasoned analyst seeking to enhance your toolkit or a newcomer eager to harness the latest in AI technology, you'll be equipped with the skills and knowledge you need to [[Microsoft Excel|excel]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=27)** Hi, I'm Vince Mirabelli, and I'll be your guide throughout this course, sharing some of the best strategies and tactics you can use in working with ChatGPT to unleash its and your superpowers.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=40)** Ready to learn more?
 >
-> **[0:42](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=42)** Then let's get started here on LinkedIn Learning.
+> **[0:42](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980&t=42)** Then let's get started here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), business (1), ai (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [vincent] (1)
 
-#### Are you in the best place to start?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980)
+#### [Are you in the best place to start?](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=31)** All that is to say, before we dive too deep, it's important to be sure you're in the right place.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=38)** This course builds on the foundations of Generative AI for Business Analysts, where we begin to explore the vast potential of generative AI in the business context.
+> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=38)** This course builds on the foundations of [[Generative AI]] for Business Analysts, where we begin to explore the vast potential of generative AI in the business context.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=49)** While it's not 100% mandatory, I do highly recommend checking out that course first.
 >
@@ -141,9 +139,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=70)** Once you've completed that foundational course, come back here to continue this one.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=75)** We'll explore practical applications, advanced techniques, and strategies to maximize the effectiveness of ChatGPT in your professional toolkit.
+> **[1:15](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=75)** We'll explore practical applications, advanced techniques, and strategies to maximize the effectiveness of [[ChatGPT]] in your professional toolkit.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=86)** I might reference other relevant courses in the LinkedIn Learning catalog throughout this course.
+> **[1:26](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=86)** I might reference other relevant courses in the [[LinkedIn]] Learning catalog throughout this course.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/are-you-in-the-best-place-to-start?u=76281980&t=92)** Some of these are my own, while others are carefully chosen to complement and reinforce the learning experience.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), business (3), [[ChatGPT]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (2), [[LinkedIn]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
@@ -166,14 +164,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ChatGPT?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980)
+#### [What is ChatGPT?](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980&t=0)** - [Instructor] Imagine having a conversation with a computer that understands you, learns from what you say, and can respond with relevant responses.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980&t=10)** That's ChatGPT in a nutshell.
+> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980&t=10)** That's [[ChatGPT]] in a nutshell.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980&t=12)** It's like your super smart digital buddy, or digital assistant.
 >
@@ -203,21 +200,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), data (2), business (2), ai (1), llm (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7)
 > **CLI Commands:** snap (1), make (1)
 > **Analogies:** imagine (1), it's like (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the ChatGPT interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980)
+#### [Using the ChatGPT interface](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=0)** - [Instructor] When you fire up the interface after logging in, you'll see a sleek and simple chat box.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=7)** If you're using ChatGPT for the first time, you'll have to create or link an account, but only the first time.
+> **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=7)** If you're using [[ChatGPT]] for the first time, you'll have to create or link an account, but only the first time.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=14)** Once you've logged in, here's where the magic happens.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=35)** You're not just limited to text.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=38)** You can also feed ChatGPT images, code, or even unstructured data.
+> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=38)** You can also feed ChatGPT images, code, or even [[Unstructured Data]].
 >
 > **[0:45](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/using-the-chatgpt-interface?u=76281980&t=45)** It's like having a Swiss Army knife for your data analysis needs.
 >
@@ -253,17 +249,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (1), [[Unstructured Data]] (1), data (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Unstructured Data]] (1)
 > **Analogies:** it's like (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and security concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980)
+#### [Privacy and security concerns](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=0)** - [Instructor] Privacy and security are super important, especially when you're dealing with AI like ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=0)** - [Instructor] [[Privacy]] and security are super important, especially when you're dealing with AI like [[ChatGPT]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=7)** So let's talk about how to keep your data safe and sound while you're working with this powerful tool.
 >
@@ -281,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=48)** This adds an extra layer of security to your accounts and keeps unwanted visitors out.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=54)** There are several videos on LinkedIn Learning about this topic.
+> **[0:54](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=54)** There are several videos on [[LinkedIn]] Learning about this topic.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/privacy-and-security-concerns?u=76281980&t=57)** So search strong passwords like I did, and take your pick.
 >
@@ -315,17 +310,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (5), [[ChatGPT]] (5), [[Privacy]] (4), ai (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Privacy]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### What ChatGPT is and isn't good for
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-chatgpt-is-and-isn-t-good-for?u=76281980)
+#### [What ChatGPT is and isn't good for](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-chatgpt-is-and-isn-t-good-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-chatgpt-is-and-isn-t-good-for?u=76281980&t=0)** - [Instructor] Let's break down what ChatGPT is good for and what it's not so good for.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-chatgpt-is-and-isn-t-good-for?u=76281980&t=0)** - [Instructor] Let's break down what [[ChatGPT]] is good for and what it's not so good for.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-chatgpt-is-and-isn-t-good-for?u=76281980&t=6)** First off, ChatGPT shines when it comes to tasks like generating text, answering questions, and providing creative solutions.
 >
@@ -379,18 +373,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), next (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and using synthetic data in ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980)
+#### [Creating and using synthetic data in ChatGPT](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=0)** - [Instructor] Let's talk about creating and using synthetic data with ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=0)** - [Instructor] Let's talk about creating and using synthetic data with [[ChatGPT]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=5)** What is synthetic data?
 >
@@ -400,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=18)** Well, for starters, it's a game-changer When you're working with limited or sensitive data.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=24)** Instead of using actual customer data or proprietary information, you can generate synthetic data that closely resembles the real deal without risking privacy or security.
+> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=24)** Instead of using actual customer data or proprietary information, you can generate synthetic data that closely resembles the real deal without risking [[Privacy]] or security.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/creating-and-using-synthetic-data-in-chatgpt?u=76281980&t=37)** Creating synthetic data for ChatGPT involves feeding it a bunch of examples and letting it learn from them.
 >
@@ -424,7 +417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[ChatGPT]] (5), game (1), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Privacy]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
@@ -434,20 +427,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gaining insights from the output of elicitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980)
+#### [Gaining insights from the output of elicitation](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=0)** - [Instructor] Getting insights from the output of elicitation is all about analyzing and synthesizing the information you've gathered.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=7)** Here's how you can do it with ChatGPT.
+> **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=7)** Here's how you can do it with [[ChatGPT]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=11)** Before you can work with the tool, gather all of the information you've elicited from stakeholders or different sources.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=17)** This could include transcripts of interviews, notes from meetings, or any other documentation you've collected.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=24)** This is also why I recommended in the course Generative AI for Business Analysts that you use AI to record and transcribe stakeholder interviews.
+> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=24)** This is also why I recommended in the course [[Generative AI]] for Business Analysts that you use AI to record and transcribe stakeholder interviews.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=34)** After you've done that, head over to your preferred platform or interface where you interact with ChatGPT.
 >
@@ -485,24 +477,23 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=158)** Finally, share your findings with relevant stakeholders or team members.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=163)** Encourage discussion and collaboration around the insights gained from ChatGPT and use them to inform decision-making and project planning.
+> **[2:43](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=163)** Encourage discussion and collaboration around the insights gained from ChatGPT and use them to inform [[Decision-Making]] and project planning.
 >
 > **[2:52](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980&t=172)** By leveraging ChatGPT to analyze and gain insights from elicitation output, you can unlock valuable knowledge and drive informed decision-making in your projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), data (3), [[Decision-Making]] (2), [[Generative AI]] (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Decision-Making]] (2), [[Generative AI]] (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980)
+#### [Analyzing data](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=0)** - [Instructor] Analyzing data with ChatGPT can be a breeze, and it's not that different from analyzing requirements.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=0)** - [Instructor] Analyzing data with [[ChatGPT]] can be a breeze, and it's not that different from analyzing requirements.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=7)** So if you've skipped the previous video, Gaining Insights From the Output of Elicitation, check that out first.
 >
@@ -524,20 +515,19 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=75)** That look of wow on my colleagues' faces is something I never get tired of, but it's not all about me.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=83)** Take these insights and use them to inform your decision-making and strategy.
+> **[1:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=83)** Take these insights and use them to inform your [[Decision-Making]] and strategy.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-data?u=76281980&t=89)** By leveraging ChatGPT to analyze your data, you can gain valuable insights and make more informed decisions in your business or project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[ChatGPT]] (5), [[Decision-Making]] (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Market scans
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/market-scans?u=76281980)
+#### [Market scans](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/market-scans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/market-scans?u=76281980&t=19)** Having clear objectives will guide your approach.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/market-scans?u=76281980&t=23)** In ChatGPT, craft a clear and concise query that outlines the parameters of your market scan.
+> **[0:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/market-scans?u=76281980&t=23)** In [[ChatGPT]], craft a clear and concise query that outlines the parameters of your market scan.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/market-scans?u=76281980&t=30)** Specify the industry or market segment you're interested in as well as any specific topics or keywords you want to focus on.
 >
@@ -582,8 +572,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Making decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980)
+#### [Making decisions](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,9 +584,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=20)** Collect all necessary data and information that will inform your decision.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=24)** This might include reports, statistics, expert opinions, and historical data.
+> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=24)** This might include reports, [[Statistics]], expert opinions, and historical data.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=30)** Once you've uploaded or inserted all of your data and attachments into ChatGPT, you're ready to go.
+> **[0:30](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=30)** Once you've uploaded or inserted all of your data and attachments into [[ChatGPT]], you're ready to go.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=38)** To start, we can prompt something like, "Summarize the key points "from this report on market trends," or, "What are the pros and cons "of adopting a new technology, like AI, "based on recent studies?"
 >
@@ -623,7 +612,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=152)** Based on the analysis, evaluations, and feedback, we can now make a decision.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=158)** You can use ChatGPT to help summarize the information and support your decision-making process.
+> **[2:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=158)** You can use ChatGPT to help summarize the information and support your [[Decision-Making]] process.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/making-decisions?u=76281980&t=164)** You could prompt, "Can you provide a summary "of the pros and cons of each option "to help with the final decision?"
 >
@@ -635,19 +624,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), data (3), prompt (3), [[Decision-Making]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Decision-Making]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Process definition and optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980)
+#### [Process definition and optimization](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=0)** - [Instructor] Process definition and optimization are crucial for improving efficiency, reducing costs, and enhancing overall organizational performance.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=10)** Here's how to leverage ChatGPT to define and optimize processes.
+> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=10)** Here's how to leverage [[ChatGPT]] to define and optimize processes.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=15)** Start by selecting the process you need to define.
 >
@@ -691,7 +679,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=172)** You could prompt, how should I structure a process document for clarity and completeness or what sections should be included in the process documentation?
 >
-> **[3:08](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=188)** And as always, when working with generative AI, check your work.
+> **[3:08](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=188)** And as always, when working with [[Generative AI]], check your work.
 >
 > **[3:13](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/process-definition-and-optimization?u=76281980&t=193)** Share the process documentation with stakeholders for review and validation.
 >
@@ -739,15 +727,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), data (3), business (1), prompt (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Generative AI]] (1)
 > **Env Vars:** sop (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk assessments and mitigations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980)
+#### [Risk assessments and mitigations](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,9 +744,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=14)** Determine what aspects of your business or project you're evaluating, such as operations, finance, IT, or a specific project.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=24)** Use ChatGPT to help identify potential risks, by providing context and specifics about your business or project to generate those relevant risks.
+> **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=24)** Use [[ChatGPT]] to help identify potential risks, by providing context and specifics about your business or project to generate those relevant risks.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=35)** For example, you could prompt, "What are some common risks in a software development project?"
+> **[0:35](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=35)** For example, you could prompt, "What are some common risks in a [[Software Development]] project?"
 >
 > **[0:41](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=41)** Or, "What financial risks should a small retail business be aware of?"
 >
@@ -773,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=101)** With our risk register complete, we can now shift to developing mitigations.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=106)** Brainstorm potential mitigation actions to minimize or eliminate the impact by prompting, "What are some effective mitigation strategies for data security risks?"
+> **[1:46](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=106)** Brainstorm potential mitigation actions to minimize or eliminate the impact by prompting, "What are some effective mitigation strategies for [[Data Security]] risks?"
 >
 > **[1:56](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/risk-assessments-and-mitigations?u=76281980&t=116)** Or, "How can we mitigate the risks associated with supply chain disruptions?"
 >
@@ -793,25 +780,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), business (4), [[Security]] (2), prompt (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Software Development]] (1), [[Data Security]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building training material
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980)
+#### [Building training material](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=0)** - [Instructor] Creating effective training materials is essential for educating and empowering your audience.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=6)** Here's how you can make that task easier using ChatGPT.
+> **[0:06](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=6)** Here's how you can make that task easier using [[ChatGPT]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=11)** Start by defining the objectives of your training.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=14)** What do you want your audience to learn?
 >
-> **[0:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=17)** Whether it's a new software, process. or concept, clear objectives will guide the content creation.
+> **[0:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=17)** Whether it's a new software, process. or concept, clear objectives will guide the [[Content Creation]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/building-training-material?u=76281980&t=24)** List the key topics and subtopics that need to be covered to achieve your training objectives.
 >
@@ -857,19 +843,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Content Creation]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Content Creation]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing customer feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980)
+#### [Analyzing customer feedback](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=0)** - [Narrator] Analyzing customer feedback is crucial for understanding customer needs, improving products or services, and enhancing customer satisfaction.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=0)** - [Narrator] Analyzing customer feedback is crucial for understanding customer needs, improving [[Microsoft Products|products]] or services, and enhancing customer satisfaction.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=10)** Start by collecting feedback from various sources such as surveys, reviews, social media, customer service interactions, and direct feedback forms.
+> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=10)** Start by collecting feedback from various sources such as surveys, reviews, social media, customer service interactions, and direct feedback [[Forms]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=19)** Ensure you have a comprehensive data set.
 >
@@ -879,7 +864,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=35)** Now you can analyze the sentiment of the feedback.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=38)** You can do this by either manually feeding all comments into ChatGPT, or by attaching a file.
+> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=38)** You can do this by either manually feeding all comments into [[ChatGPT]], or by attaching a file.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/analyzing-customer-feedback?u=76281980&t=48)** With our data in the tool, we can now begin to ask questions about the dataset.
 >
@@ -907,13 +892,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), data (3), prompt (3), [[Microsoft Products|Products]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft Products|Products]] (2), [[Forms]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Requirement prioritization and categorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980)
+#### [Requirement prioritization and categorization](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,9 +907,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=17)** We'll start with an initial set of requirements elicited from your various stakeholders.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=22)** In the resource file, there's a set of draft requirements created with the help of ChatGPT.
+> **[0:22](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=22)** In the resource file, there's a set of draft requirements created with the help of [[ChatGPT]].
 >
-> **[0:28](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=28)** To see how I got them, check out the video, "Drafting Business Analysis Requirements in Gen AI" in the course Generative AI for Business Analysts.
+> **[0:28](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=28)** To see how I got them, check out the video, "Drafting Business Analysis Requirements in Gen AI" in the course [[Generative AI]] for Business Analysts.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/requirement-prioritization-and-categorization?u=76281980&t=38)** You can first ask ChatGPT to assist in categorizing each requirement.
 >
@@ -969,20 +953,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[ChatGPT]] (6), prompt (3), functional (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980)
+#### [Use case generation](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=0)** - [Narrator] Developing use cases is essential for defining the requirements and functionalities of a system or product.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=7)** Gather all requirements from stakeholders through user interviews, documentation, and any other sources.
+> **[0:07](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=7)** Gather all requirements from stakeholders through [[User Interviews]], documentation, and any other sources.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=14)** Organize the requirements into categories or themes to facilitate the use-case development process.
 >
@@ -992,7 +975,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=32)** Focus on describing each scenario's sequence of events, user actions, system responses, and outcomes.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=40)** We can pose questions to ChatGPT to clarify requirements, refine use-case scenarios, or explore alternative approaches.
+> **[0:40](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=40)** We can pose questions to [[ChatGPT]] to clarify requirements, refine use-case scenarios, or explore alternative approaches.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/use-case-generation?u=76281980&t=49)** For example, you could ask ChatGPT to suggest use-case scenarios based on specific user roles or system functionalities.
 >
@@ -1016,14 +999,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), product (1), [[User Interviews]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[User Interviews]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** previous video (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 
-#### Test case generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/test-case-generation?u=76281980)
+#### [Test case generation](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/test-case-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/test-case-generation?u=76281980&t=43)** Again, we're using the ones from the previous video, if you don't want to use any from your current project.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/test-case-generation?u=76281980&t=49)** Pose questions to ChatGPT to brainstorm test case ideas or explore alternative testing approaches.
+> **[0:49](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/test-case-generation?u=76281980&t=49)** Pose questions to [[ChatGPT]] to brainstorm test case ideas or explore alternative testing approaches.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/test-case-generation?u=76281980&t=56)** For example, you might prompt ChatGPT to suggest test scenarios based on the specific use case scenarios or requirements.
 >
@@ -1065,23 +1047,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), product (1), prompt (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** previous video (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [presenter] (1)
 
-#### Customer support and website FAQs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980)
+#### [Customer support and website FAQs](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=0)** - [Presenter] Building a robust customer support system and a comprehensive FAQ section for your website, using the power of Chat-GPT helps enhance the user experience and reduces support requests, a key ask of business analysis professionals, I'll show you exactly how I did that using one of my own training programs.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=0)** - [Presenter] Building a robust [[Customer Support]] system and a comprehensive FAQ section for your website, using the power of Chat-GPT helps enhance the [[User Experience (UX)|user experience]] and reduces support requests, a key ask of business analysis professionals, I'll show you exactly how I did that using one of my own training programs.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=23)** As an example, start by gathering common questions and issues from various sources, such as customer support tickets, emails, live chat logs, social media, and customer feedback forms.
+> **[0:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=23)** As an example, start by gathering common questions and issues from various sources, such as customer support tickets, emails, live chat logs, social media, and customer feedback [[Forms]].
 >
-> **[0:35](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=35)** For me, it primarily came as LinkedIn comments and direct inquiries from my website.
+> **[0:35](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=35)** For me, it primarily came as [[LinkedIn]] comments and direct inquiries from my website.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/customer-support-and-website-faqs?u=76281980&t=41)** I categorized the collected data into themes such as product information, account management, troubleshooting, pricing and billing, and general inquiries.
 >
@@ -1101,14 +1082,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (5), [[User Experience (UX)|User experience]] (2), power (1), business (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (5), [[User Experience (UX)|User experience]] (2), [[Forms]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (4), faq (2)
 > **Analogies:** such as (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [presenter] (1)
 
-#### Scenario planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/scenario-planning?u=76281980)
+#### [Scenario planning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/scenario-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1112,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/scenario-planning?u=76281980&t=60)** This background information will provide a foundation for generating plausible scenarios.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/scenario-planning?u=76281980&t=66)** Load all of this into ChatGPT to get going.
+> **[1:06](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/scenario-planning?u=76281980&t=66)** Load all of this into [[ChatGPT]] to get going.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/scenario-planning?u=76281980&t=70)** Use ChatGPT to brainstorm and generate a list of potential scenario themes based on the key drivers.
 >
@@ -1168,21 +1148,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), data (2), ai (2), next (2), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** pestel (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Improve requirements quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-requirements-quality?u=76281980)
+#### [Improve requirements quality](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-requirements-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-requirements-quality?u=76281980&t=0)** - [Instructor] Improving requirements quality is key to ensuring that a product or project meets its objectives and satisfied stakeholder needs.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-requirements-quality?u=76281980&t=9)** Leverage ChatGPT to dial your requirements up to 11.
+> **[0:09](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-requirements-quality?u=76281980&t=9)** Leverage [[ChatGPT]] to dial your requirements up to 11.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-requirements-quality?u=76281980&t=14)** Gather all detailed information about your requirements, including your user needs, functional specifications, and nonfunctional requirements, as well as any constraints or dependencies, and drop those into the interface.
 >
@@ -1220,22 +1199,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), product (1), functional (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improve metrics and measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980)
+#### [Improve metrics and measures](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=0)** - [Presenter] Improving metrics and measures is essential for accurately tracking performance, identifying areas for improvement, and making informed decisions.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=10)** Here's a step-by-step guide on how to use ChatGPT to enhance your metrics and measures effectively.
+> **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=10)** Here's a step-by-step guide on how to use [[ChatGPT]] to enhance your metrics and measures effectively.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=17)** Start by determining the primary goals and objectives of your project or your business.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=23)** Clearly define what success looks like for different areas such as sales, customer service, product development, et cetera.
+> **[0:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=23)** Clearly define what success looks like for different areas such as sales, customer service, [[Product Development]], et cetera.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/improve-metrics-and-measures?u=76281980&t=33)** Ensure that your metrics directly align with your business objectives.
 >
@@ -1265,12 +1243,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), business (3), prompt (2), [[Product Development]] (1), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Product Development]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Team building exercises
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980)
+#### [Team building exercises](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1278,11 +1255,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=10)** They are essential in fostering collaboration, improving communication, and strengthening relationships within a team.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=18)** Here's a how-to for executing effective team-building exercises using ChatGPT to assist with ideas, planning, and execution.
+> **[0:18](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=18)** Here's a how-to for executing effective team-building exercises using [[ChatGPT]] to assist with ideas, planning, and execution.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=29)** Start by determining what you aim to achieve with your team-building exercises.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=34)** Do you want to focus on improving communication, enhancing problem-solving skills, building trust, or boosting morale?
+> **[0:34](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=34)** Do you want to focus on improving communication, enhancing problem-solving skills, [[Building Trust]], or boosting morale?
 >
 > **[0:41](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/team-building-exercises?u=76281980&t=41)** This will be useful context when writing your prompt.
 >
@@ -1306,19 +1283,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (2), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Building Trust]] (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [presenter] (1)
 
-#### Certification prep
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980)
+#### [Certification prep](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=0)** - [Instructor] Preparing for certifications is a smart move to boost your career prospects and showcase your expertise in a particular field.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=8)** But did you know you can use ChatGPT to aid in your certification preparation?
+> **[0:08](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=8)** But did you know you can use [[ChatGPT]] to aid in your certification preparation?
 >
 > **[0:13](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=13)** It's easy.
 >
@@ -1326,11 +1302,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=16)** Start by identifying the certification exam your preparing for.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=20)** Knowing the exams content and requirements is crucial in project management, data science, IT or any other field.
+> **[0:20](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=20)** Knowing the exams content and requirements is crucial in project management, [[Data Science]], IT or any other field.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=28)** Since we're talking about using ChatGPT for business analysis, let's say we want to study for our Certified Business Analysis Professional or CBAP exam.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=39)** Check out 'Studying for the CBAP Exam' on LinkedIn Learning for general tips on passing the exam.
+> **[0:39](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=39)** Check out 'Studying for the CBAP Exam' on [[LinkedIn]] Learning for general tips on passing the exam.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/certification-prep?u=76281980&t=48)** Craft specific questions related to the exam content or topics you're studying, framing your focus on areas where you need clarification or additional insights to reinforce your understanding.
 >
@@ -1370,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), business (2), career (1), management (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cbap (3), babok (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1381,12 +1357,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### We're just getting started with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980)
+#### [We're just getting started with ChatGPT](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=0)** - [Instructor] Like many of you, when I first started using ChatGPT, I saw it as a toy.
+> **[0:00](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=0)** - [Instructor] Like many of you, when I first started using [[ChatGPT]], I saw it as a toy.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=6)** Write me a funny poem or some dad jokes to tell my kids were some of my earliest prompts.
 >
@@ -1394,11 +1369,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=17)** In fact, before long, I no longer saw a toy, but a tool, and a powerful one at that.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=25)** Over time, I've improved my prompt engineering skills and increased the utility of ChatGPT for myself.
+> **[0:25](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=25)** Over time, I've improved my [[Prompt Engineering]] skills and increased the utility of ChatGPT for myself.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=33)** I now teach others to do the same, this course being an example of that.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=38)** Generative AI tools like ChatGPT have the power to augment your skills and capabilities.
+> **[0:38](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=38)** [[Generative AI Tools]] like ChatGPT have the power to augment your skills and capabilities.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=45)** Take some of the mundane and free up your time to focus on stuff that matters, like building relationships with stakeholders or thinking strategically, or working on your career and professional development.
 >
@@ -1408,17 +1383,17 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=77)** But we're not done.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=79)** In fact, when it comes to generative AI, things move so fast.
+> **[1:19](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=79)** In fact, when it comes to [[Generative AI]], things move so fast.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=83)** There will always be new things to learn, new use cases, and new platforms and applications.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=89)** So I encourage you to stay curious and embrace that mindset of continuous learning and discovery.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=96)** One of the best ways to do that is connect with me on LinkedIn so you're the first to know about new courses, articles, and newsletters.
+> **[1:36](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=96)** One of the best ways to do that is connect with me on [[LinkedIn]] so you're the first to know about new courses, articles, and [[Newsletters]].
 >
 > **[1:46](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=106)** You can also check out some of the helpful resources I've got available at [vincentmirabelli.com](https://vincentmirabelli.com).
 >
-> **[1:52](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=112)** I also speak and write about business analysis, organizational culture, and topics affecting the whole organization.
+> **[1:52](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=112)** I also speak and write about business analysis, [[Organizational Culture]], and topics affecting the whole organization.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980&t=119)** So stop by and say hi.
 >
@@ -1430,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), career (2), [[Prompt Engineering]] (1), [[Generative AI Tools]] (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Prompt Engineering]] (1), [[Generative AI Tools]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **URLs:** [vincentmirabelli.com](https://vincentmirabelli.com) (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)

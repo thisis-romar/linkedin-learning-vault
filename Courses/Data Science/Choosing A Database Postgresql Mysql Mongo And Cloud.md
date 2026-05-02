@@ -79,32 +79,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right data platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980)
+#### [Choosing the right data platform](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=0)** - [Amataverna] Data privacy, governance, analysis, and storage are important to a business in any industry.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=0)** - [Amataverna] [[Data Privacy]], governance, analysis, and storage are important to a business in any industry.
 >
 > **[0:06](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=6)** And finding an effective way to scale data infrastructure is an important part of a company's growth.
 >
-> **[0:11](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=11)** Since there's not enough time to cover all of them, I've chosen to focus on Mongo, MySQL, and Postgres.
+> **[0:11](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=11)** Since there's not enough time to cover all of them, I've chosen to focus on Mongo, [[MySQL]], and [[PostgreSQL|Postgres]].
 >
-> **[0:18](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=18)** I'll also provide an overview of some cloud-based options such as snowflake, AWS, and GCP.
+> **[0:18](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=18)** I'll also provide an overview of some cloud-based options such as [[Snowflake]], AWS, and GCP.
 >
 > **[0:24](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=24)** Each data platform is great in its own way.
 >
 > **[0:26](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=26)** It stores the data differently which is important to understand to find one that is right for you.
 >
-> **[0:32](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=32)** We'll cover querying the data and how SQL dialects can vary from data platform to data platform.
+> **[0:32](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=32)** We'll cover querying the data and how [[SQL]] dialects can vary from data platform to data platform.
 >
 > **[0:37](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=37)** And how they have their own set of unique features to choose from.
 >
 > **[0:41](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=41)** We'll also look at the business reasons for picking a certain data of platform.
 >
-> **[0:45](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=45)** While we focus more on data warehouses, we'll look at what these products offer as a data platform as a whole.
+> **[0:45](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=45)** While we focus more on data warehouses, we'll look at what these [[Microsoft Products|products]] offer as a data platform as a whole.
 >
-> **[0:51](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=51)** What does their data lakes, business intelligence, and Gooey tools look like?
+> **[0:51](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=51)** What does their [[Data Lakes]], [[Business Intelligence (BI)|business intelligence]], and Gooey tools look like?
 >
 > **[0:56](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980&t=56)** Hi, my name is Amataverna Lee.
 >
@@ -118,15 +117,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (2), [[Privacy]] (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1), [[Snowflake]] (1), [[SQL]] (1)
 > **CLI Commands:** mongo (1), mysql (1), aws (1), find (1)
 > **Env Vars:** aws (1), gcp (1), sql (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [amataverna] (1)
 
-#### Comparing database options
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980)
+#### [Comparing database options](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,13 +134,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=9)** Relational and non-relational data models.
 >
-> **[0:12](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=12)** In the industry a non-relational database is sometimes called a NoSQL database.
+> **[0:12](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=12)** In the industry a non-relational database is sometimes called a [[NoSQL]] database.
 >
-> **[0:17](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=17)** NoSQL is standing for Not only SQL.
+> **[0:17](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=17)** NoSQL is standing for Not only [[SQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=20)** Although it is called a non-relational database it does store relational data sets.
 >
-> **[0:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=25)** As data becomes more sophisticated and less structured, NoSQL databases provide more flexibility for developers to store data as they see fit.
+> **[0:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=25)** As data becomes more sophisticated and less structured, NoSQL [[Databases]] provide more flexibility for developers to store data as they see fit.
 >
 > **[0:35](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=35)** There are four main types.
 >
@@ -150,23 +148,23 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=40)** Document and key-value are more well know.
 >
-> **[0:43](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=43)** In this course we'll be looking at MongoDB.
+> **[0:43](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=43)** In this course we'll be looking at [[MongoDB]].
 >
 > **[0:45](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=45)** Which is a document database.
 >
 > **[0:48](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=48)** And here's an example of something we'll see later in the Mongo section.
 >
-> **[0:52](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=52)** This is not to discount relational databases.
+> **[0:52](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=52)** This is not to discount [[Relational Databases]].
 >
 > **[0:55](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=55)** Or also know as, SQL databases.
 >
-> **[0:57](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=57)** And this is a screenshot of something we'll be looking at in the Postgres section.
+> **[0:57](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=57)** And this is a screenshot of something we'll be looking at in the [[PostgreSQL|Postgres]] section.
 >
 > **[1:02](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=62)** An older and still extremely popular data model, relational databases uses SQL to make accessing easy and organized.
 >
 > **[1:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=70)** Since data is stored in fixed tables in columns.
 >
-> **[1:13](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=73)** The fixed structure is very good for data integrity.
+> **[1:13](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=73)** The fixed structure is very good for [[Data Integrity]].
 >
 > **[1:16](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/comparing-database-options?u=76281980&t=76)** Although it leaves less flexibility for scaling horizontally.
 >
@@ -182,19 +180,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), [[NoSQL]] (3), [[SQL]] (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[SQL]] (3), [[Databases]] (3), [[Relational Databases]] (2), [[MongoDB]] (1)
 > **CLI Commands:** mongo (1), make (1), find (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Setting up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980)
+#### [Setting up the environment](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=0)** - [Instructor] So now I'm going to show you how you can set up an environment to follow along and write SQL queries in.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=0)** - [Instructor] So now I'm going to show you how you can set up an environment to follow along and write [[SQL]] queries in.
 >
 > **[0:06](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=6)** So there are a couple of different applications you can use for this.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=41)** We really only cover very few things in this course.
 >
-> **[0:46](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=46)** But let's go ahead and click Postgres just because that's the next thing we're going to do in this course.
+> **[0:46](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=46)** But let's go ahead and click [[PostgreSQL|Postgres]] just because that's the next thing we're going to do in this course.
 >
 > **[0:51](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/setting-up-the-environment?u=76281980&t=51)** And it automatically sets up Postgres to the local hosts.
 >
@@ -276,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), data (4), database (4), [[SQL]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), [[SQL]] (2)
 > **Env Vars:** sql (2), url (2)
 > **CLI Commands:** mongo (2)
 > **Definitions:** is called (1)
@@ -288,23 +285,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PostgreSQL explore
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-explore-21050360?u=76281980)
+#### [PostgreSQL explore](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-explore-21050360?u=76281980)
 
-#### PostgreSQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980)
+#### [PostgreSQL commands](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=0)** - [Instructor] Let's review some of the fundamentals of using Postgres.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=0)** - [Instructor] Let's review some of the fundamentals of using [[PostgreSQL|Postgres]].
 >
-> **[0:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=3)** If you're familiar with SQL in general most of this will be similar information but we will note some differences in the syntax of Postgres.
+> **[0:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=3)** If you're familiar with [[SQL]] in general most of this will be similar information but we will note some differences in the syntax of Postgres.
 >
 > **[0:12](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=12)** Postgres offers other commands in the query that are useful to know.
 >
 > **[0:16](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=16)** We're going to go through them fairly quickly.
 >
-> **[0:19](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=19)** First, we're going to look at the fetch statement.
+> **[0:19](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=19)** First, we're going to look at the [[Fetch]] statement.
 >
 > **[0:22](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=22)** The fetch is similar to a limit clause, which in my experience is used more often, but limit is actually not considered SQL standard so Postgres allows both.
 >
@@ -378,7 +373,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=233)** Next we're going to look at checking constraints.
 >
-> **[3:56](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=236)** So let's create a fake table and we're going to call this table Christmas products.
+> **[3:56](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=236)** So let's create a fake table and we're going to call this table Christmas [[Microsoft Products|products]].
 >
 > **[4:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=249)** We're going to put an ID for the product ID, call it a text.
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=422)** you can also use true or false.
 >
-> **[7:04](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=424)** Some databases only take true or false.
+> **[7:04](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=424)** Some [[Databases]] only take true or false.
 >
 > **[7:06](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-commands?u=76281980&t=426)** You can do yes or no here.
 >
@@ -478,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[PostgreSQL|Postgres]] (4), [[Fetch]] (3), next (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[PostgreSQL|Postgres]] (4), [[Fetch]] (3), [[SQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2), xyz (1)
 > **Analogies:** similar to (2), it's like (1)
 > **CLI Commands:** make (2)
@@ -486,12 +481,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inheritance and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980)
+#### [Inheritance and data types](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=0)** - [Instructor] Postgres is known for being very feature-rich and we don't have the time to go over many of the things that makes Postgres so advanced.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=0)** - [Instructor] [[PostgreSQL|Postgres]] is known for being very feature-rich and we don't have the time to go over many of the things that makes Postgres so advanced.
 >
 > **[0:07](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=7)** So, right now we're going to take a look at two quick examples of these features: Inheritance and Advanced Phenotypes.
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=26)** It's useful if you are creating many similar tables but don't want to write out the same attributes multiple times.
 >
-> **[0:32](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=32)** And, we're going to do a quick example of this right now by creating a dessert table that inherits the products table, and the product is food, by the way.
+> **[0:32](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=32)** And, we're going to do a quick example of this right now by creating a dessert table that inherits the [[Microsoft Products|products]] table, and the product is food, by the way.
 >
 > **[0:45](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=45)** So, let's do create table desserts.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=86)** You can see up here, we didn't specifically list out every single column and if we scroll to end you can see we have chocolate at the end, which is what we did list out.
 >
-> **[1:38](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=98)** Now, we're going to take a look at JSON objects and I picked this one just cause we kind of go over this a lot in the Mongo sections.
+> **[1:38](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=98)** Now, we're going to take a look at [[JSON]] objects and I picked this one just cause we kind of go over this a lot in the Mongo sections.
 >
 > **[1:45](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/inheritance-and-data-types?u=76281980&t=105)** So I figured it'd be helpful to see now.
 >
@@ -581,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (7), [[JSON]] (5), [[PostgreSQL|Postgres]] (4), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[JSON]] (5), [[PostgreSQL|Postgres]] (4)
 > **Code Identifiers:** json_build_object (2), product_json (2), product_names (1)
 > **Env Vars:** json (4)
 > **Analogies:** just like (1), similar to (1)
@@ -590,20 +584,19 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Features
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980)
+#### [Features](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=0)** - [Instructor] In this video we're going to look at creating a function within Postgres.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=0)** - [Instructor] In this video we're going to look at creating a function within [[PostgreSQL|Postgres]].
 >
 > **[0:05](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=5)** Postgres offers the ability to write stored procedures in different programming languages.
 >
-> **[0:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=10)** While all databases covered can distort procedures with their own specific languages, Postgres offers the most such as pgSQL, TCL, Perl and Python, and more that is not within its main distribution.
+> **[0:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=10)** While all [[Databases]] covered can distort procedures with their own specific languages, Postgres offers the most such as pgSQL, TCL, Perl and [[Python (Programming Language)|Python]], and more that is not within its main distribution.
 >
 > **[0:23](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=23)** This offers a lot of flexibility for developers who are more comfortable in a certain programming language and/or companies who want to use the same language everywhere to write procedures for Postgres.
 >
-> **[0:34](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=34)** So, because we are predominantly using SQL here we are going to use SQL to create our function.
+> **[0:34](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=34)** So, because we are predominantly using [[SQL]] here we are going to use SQL to create our function.
 >
 > **[0:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/features?u=76281980&t=40)** So, we're going to create a really simple function and it's just going to add two numbers.
 >
@@ -653,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[SQL]] (4), [[Programming]] (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[SQL]] (4), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (4), tcl (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
@@ -667,24 +660,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MySQL explore
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980)
+#### [MySQL explore](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=0)** - [Narrator] MySQL is a well know open source relational database.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=0)** - [Narrator] [[MySQL]] is a well know open source relational database.
 >
 > **[0:04](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=4)** Built by Oracle, it's an open source product know for being a top choice for web applications since it is a standard in the LAMP stack.
 >
 > **[0:11](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=11)** The LAMP stack is a term used for a set of open source software used for websites and other web applications.
 >
-> **[0:18](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=18)** It includes Linux, Apache, MySQL, and PHP.
+> **[0:18](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=18)** It includes [[Linux]], Apache, MySQL, and [[PHP]].
 >
-> **[0:22](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=22)** MySQL is know for being reliable and having fast performance speeds compared to other databases.
+> **[0:22](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=22)** MySQL is know for being reliable and having fast performance speeds compared to other [[Databases]].
 >
 > **[0:27](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=27)** And of course, it's free.
 >
-> **[0:30](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=30)** Unlike Mongo, which is a non-relational database, and Postgres, which is an object relational database.
+> **[0:30](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=30)** Unlike Mongo, which is a non-relational database, and [[PostgreSQL|Postgres]], which is an object relational database.
 >
 > **[0:36](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=36)** MySQL is purely a relational database with it's sole advantages and disadvantages.
 >
@@ -694,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=50)** Or tables.
 >
-> **[0:51](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=51)** Because relational databases are designed to be more simple and naturally does not have as many features as Postgres.
+> **[0:51](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=51)** Because [[Relational Databases]] are designed to be more simple and naturally does not have as many features as Postgres.
 >
 > **[0:58](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980&t=58)** Some features that Postgres has, MySQL doesn't support.
 >
@@ -704,27 +696,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[MySQL]] (5), [[PostgreSQL|Postgres]] (4), data (3), web (2)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[PostgreSQL|Postgres]] (4), [[Linux]] (1), [[PHP]] (1), [[Databases]] (1)
 > **CLI Commands:** mysql (5), apache (1), php (1), mongo (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** lamp (2), php (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dialect nuances in MySQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980)
+#### [Dialect nuances in MySQL](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=0)** - [Amata] Now, we're going to review some fundamentals of using SQL.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=0)** - [Amata] Now, we're going to review some fundamentals of using [[SQL]].
 >
 > **[0:04](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=4)** We're going to look at CRUD statements which is create, read, update, and delete.
 >
-> **[0:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=10)** We are doing this in MySQL even though this is something you can do in every database.
+> **[0:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=10)** We are doing this in [[MySQL]] even though this is something you can do in every database.
 >
 > **[0:16](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=16)** Once again, MySQL was built for simplicity and speed unless you are planning to do advanced query work in your database, the loss functionality may not even be that relevant.
 >
-> **[0:28](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=28)** After we go over the CRUD statements, we will also go over two things that MySQL does that not all data warehouses cannot do, so Postgres can not do this thing.
+> **[0:28](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=28)** After we go over the CRUD statements, we will also go over two things that MySQL does that not all data warehouses cannot do, so [[PostgreSQL|Postgres]] can not do this thing.
 >
 > **[0:38](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=38)** We're going to look at the if null statement and look at case sensitive.
 >
@@ -792,7 +783,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=316)** You don't want to be having one thing that's capitalized and something that's not capitalized and you end up pulling the wrong data.
 >
-> **[5:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=325)** Another thing that MySQL does that not all of the different databases do is if null statements.
+> **[5:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=325)** Another thing that MySQL does that not all of the different [[Databases]] do is if null statements.
 >
 > **[5:35](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=335)** So what is an if null statement?
 >
@@ -810,7 +801,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=393)** and we'll call the column first name.
 >
-> **[6:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=400)** And we get the same results, we have the three errors here and we have the rest of the first names.
+> **[6:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=400)** And we get the same results, we have the three errors here and we have the [[Representational State Transfer (REST)|rest]] of the first names.
 >
 > **[6:47](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances-in-mysql?u=76281980&t=407)** So again, this is really just to highlight that there are differences when you're using a SQL dialect to another dialect.
 >
@@ -820,33 +811,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (6), database (5), data (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (6), [[Databases]] (2), [[PostgreSQL|Postgres]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (8), mongo (1)
 > **Env Vars:** sql (6), crud (3)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [amata] (1)
 
-#### MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980)
+#### [MySQL Workbench](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=0)** - [Instructor] While Postgres has pgAdmin as its own GUI tool, created by the pgAdmin development team, MySQL has the MySQL Workbench.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=0)** - [Instructor] While [[PostgreSQL|Postgres]] has pgAdmin as its own GUI tool, created by the pgAdmin development team, [[MySQL]] has the MySQL Workbench.
 >
 > **[0:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=10)** The MySQL Workbench like the MySQL database was developed by Oracle.
 >
 > **[0:15](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=15)** It is generally considered to be a much easier to use GUI tool than pgAdmin.
 >
-> **[0:20](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=20)** Both pgAdmin and MySQL only support their respective SQL dialects.
+> **[0:20](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=20)** Both pgAdmin and MySQL only support their respective [[SQL]] dialects.
 >
-> **[0:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=25)** Unlike other tools we'll see you later on in this course, MySQL and Postgres don't support their own BI tools or business intelligence tools.
+> **[0:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=25)** Unlike other tools we'll see you later on in this course, MySQL and Postgres don't support their own BI tools or [[Business Intelligence (BI)|business intelligence]] tools.
 >
 > **[0:34](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=34)** Newer data platforms have since realized the need for data visualization and try to accommodate more reporting needs.
 >
 > **[0:41](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=41)** However, since MySQL and Postgres have been around for a very long time, relatively speaking, in the database world, it really doesn't matter that they don't have their own data visualization tools.
 >
-> **[0:52](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=52)** There are many universal database managers such as DataGrip, Dbeaver, and JetBrains, that allow you to connect to multiple databases at once.
+> **[0:52](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=52)** There are many universal database managers such as DataGrip, Dbeaver, and JetBrains, that allow you to connect to multiple [[Databases]] at once.
 >
 > **[1:02](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=62)** In fact, most of the query writing we've seen done in this course was done in DataGrip.
 >
@@ -854,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=77)** The create read, update and delete statements we reviewed in the last section we'll go over again here so you can see how you can use MySQL to make these changes without needing to write out the queries.
 >
-> **[1:29](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=89)** MySQL has visual modules for SQL development, data modeling and server administration.
+> **[1:29](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=89)** MySQL has visual modules for SQL development, [[Data Modeling]] and server administration.
 >
 > **[1:36](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=96)** However, we're only going to take a look at the SQL development part.
 >
@@ -866,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=112)** And we're doing this on a Mac operating system.
 >
-> **[1:55](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=115)** It'll look a little different in Linux and other OS.
+> **[1:55](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=115)** It'll look a little different in [[Linux]] and other OS.
 >
 > **[1:59](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-workbench?u=76281980&t=119)** The local instance which I created for dummy data is right over here.
 >
@@ -934,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (12), database (7), [[SQL]] (6), data (6), [[PostgreSQL|Postgres]] (4)
+> **Frameworks & Libraries:** [[MySQL]] (12), [[SQL]] (6), [[PostgreSQL|Postgres]] (4), [[Databases]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** mysql (12), make (2), find (1)
 > **Env Vars:** sql (6), gui (3)
 > **Code Identifiers:** pgadmin (4)
@@ -948,16 +938,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mongo explore
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980)
+#### [Mongo explore](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=0)** - [Instructor] Mongo DB is a NoSQL database with its own query language.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=0)** - [Instructor] Mongo DB is a [[NoSQL]] database with its own query language.
 >
 > **[0:05](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=5)** Again, this query language is not sequel.
 >
-> **[0:08](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=8)** There are many other NoSQL databases that we won't be covering such as Redis, Cassandra, Amazon, DynamoDB, and much more.
+> **[0:08](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=8)** There are many other NoSQL [[Databases]] that we won't be covering such as [[Redis]], Cassandra, Amazon, DynamoDB, and much more.
 >
 > **[0:18](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=18)** We are focused specifically on Mongo in this chapter because it is of the most widely used NoSQL databases.
 >
@@ -965,17 +954,17 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=33)** Within the category of NoSQL, there are different types of NoSQL databases, documented models, graph model, and key-value models.
 >
-> **[0:43](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=43)** Instead of using tables and columns like relational data management systems, a document model uses a document storage model, usually JSON, which stands for JavaScript object notation.
+> **[0:43](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=43)** Instead of using tables and columns like relational [[Data Management]] systems, a document model uses a document storage model, usually [[JSON]], which stands for [[JavaScript]] object notation.
 >
 > **[0:55](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=55)** The structure is similar to object oriented programming which some developers may prefer.
 >
-> **[1:01](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=61)** MongoDB is a document model using BSON which is binary JSON, which makes it more flexible to use.
+> **[1:01](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=61)** [[MongoDB]] is a document model using BSON which is binary JSON, which makes it more flexible to use.
 >
 > **[1:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=70)** However, you can think of it as a JSON database since anything in JSON can be natively stored and retrieved in Mongo.
 >
 > **[1:17](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=77)** You can also think of documents as a superset of all data models because you can use that to later structured the data into the other models, explain next and more.
 >
-> **[1:27](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=87)** The graph models uses data modes, edges, properties and other data structures.
+> **[1:27](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=87)** The graph models uses data modes, edges, properties and other [[Data Structures]].
 >
 > **[1:32](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=92)** The advantage being it is easier to create relationships between other parts of an application.
 >
@@ -989,21 +978,21 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=117)** However, it may cause Cray complexity if you're trying to do complicated queries.
 >
-> **[2:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=123)** Overall compared to relational databases, the main advantage of using a NoSQL database, is that it is much easier to scale.
+> **[2:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=123)** Overall compared to [[Relational Databases]], the main advantage of using a NoSQL database, is that it is much easier to scale.
 >
-> **[2:11](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=131)** NoSQL works better in distributed systems and it is easier to maintain given that all the data structures in relational databases such as tables and views that we went through in the Postgres section, we don't need to manage here.
+> **[2:11](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=131)** NoSQL works better in distributed systems and it is easier to maintain given that all the data structures in relational databases such as tables and views that we went through in the [[PostgreSQL|Postgres]] section, we don't need to manage here.
 >
-> **[2:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=145)** While PostgreSQL supports ACID transactions like we went over previously, most NoSQL databases don't support ACID by nature.
+> **[2:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=145)** While [[PostgreSQL]] supports ACID transactions like we went over previously, most NoSQL databases don't support ACID by nature.
 >
 > **[2:35](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=155)** However, Mongo has achieved multi document ACID transactions in 2018 when it released a version four.
 >
 > **[2:42](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=162)** Mongo and other NoSQL databases can be thought of being built on the CAP theorem.
 >
-> **[2:49](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=169)** The CAP theorem concept is primarily for distributed database systems and CAP stands for consistency, which means you are able to keep the same information in any of the nodes.
+> **[2:49](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=169)** The CAP theorem concept is primarily for distributed [[Database Systems]] and CAP stands for consistency, which means you are able to keep the same information in any of the nodes.
 >
 > **[3:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=183)** Availability, anyone can quickly pull up the data or at least get a response from the system even if the data is not they're outdated and partition tolerance, if there is a failure in one of the nodes, it will create a partition between nodes but the user should still be able to access the same data from another node.
 >
-> **[3:24](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=204)** So CAP emphasizes data accessibility over data integrity, data accessibility, focusing on how the data is stored and accessed instead of making sure the data is correct.
+> **[3:24](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=204)** So CAP emphasizes data accessibility over [[Data Integrity]], data accessibility, focusing on how the data is stored and accessed instead of making sure the data is correct.
 >
 > **[3:35](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980&t=215)** When it's not necessarily better than the other but it is important to know what it's more important for your or your company's specific needs.
 >
@@ -1025,21 +1014,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[NoSQL]] (9), database (7), [[Databases]] (6), [[JSON]] (4)
+> **Frameworks & Libraries:** [[NoSQL]] (9), [[Databases]] (6), [[JSON]] (4), [[Data Structures]] (2), [[Relational Databases]] (2)
 > **Env Vars:** cap (5), json (4), acid (3), bson (1), gui (1)
 > **CLI Commands:** mongo (10), node (1)
 > **Definitions:** is a  (3), stands for (2)
 > **Analogies:** such as (2), similar to (1), think of it as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dialect nuances
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980)
+#### [Dialect nuances](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980&t=0)** - [Instructor] As mentioned, MongoDB is a document oriented database.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980&t=0)** - [Instructor] As mentioned, [[MongoDB]] is a document oriented database.
 >
-> **[0:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980&t=3)** It does not use a SQL because there would be no actual data types tables to join on.
+> **[0:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980&t=3)** It does not use a [[SQL]] because there would be no actual data types tables to join on.
 >
 > **[0:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/dialect-nuances?u=76281980&t=9)** Everything is stored in (indistinct) considered a semi-structured data type.
 >
@@ -1175,7 +1163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (3), database (3), data (3), [[SQL]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[SQL]] (1)
 > **CLI Commands:** mongo (4), find (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
@@ -1183,27 +1171,24 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mongo tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-tools-21053178?u=76281980)
+#### [Mongo tools](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-tools-21053178?u=76281980)
 
 
 ### 4. Cloud-Based Databases
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowflake-21046906?u=76281980)
+#### [Snowflake](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowflake-21046906?u=76281980)
 
-#### Snowsight by Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980)
+#### [Snowsight by Snowflake](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=0)** - [Instructor] So, this is Snowflake.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=0)** - [Instructor] So, this is [[Snowflake]].
 >
 > **[0:03](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=3)** We are inside our data platform right now.
 >
-> **[0:06](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=6)** And we're actually on Google Chrome, as you can see.
+> **[0:06](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=6)** And we're actually on [[Google]] Chrome, as you can see.
 >
 > **[0:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=9)** So, this is all done online.
 >
@@ -1223,11 +1208,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=28)** You can leave comments here.
 >
-> **[0:30](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=30)** One of the great things about Snowflake is that it's very easy to share databases and queries across other Snowflake users.
+> **[0:30](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=30)** One of the great things about Snowflake is that it's very easy to share [[Databases]] and queries across other Snowflake users.
 >
 > **[0:39](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=39)** You can create a table.
 >
-> **[0:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=40)** You can create a new table with the same metadata.
+> **[0:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=40)** You can create a new table with the same [[Metadata]].
 >
 > **[0:43](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=43)** You can clone the table.
 >
@@ -1251,7 +1236,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=90)** And of course, Snowflake has its own staging area.
 >
-> **[1:33](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=93)** You can use the other popular ones such as S3 buckets, Azure, Google Cloud platform.
+> **[1:33](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=93)** You can use the other popular ones such as S3 buckets, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[1:41](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=101)** You can also clone staging areas, edit, drop, all the same things as before.
 >
@@ -1265,7 +1250,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=122)** You can upload it into the public schema name.
 >
-> **[2:07](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=127)** Oh, actually I think it'd be cool for you to see the SQL.
+> **[2:07](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=127)** Oh, actually I think it'd be cool for you to see the [[SQL]].
 >
 > **[2:11](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=131)** So let's call it test.
 >
@@ -1381,7 +1366,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=349)** And you can just quickly grab a link.
 >
-> **[5:50](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=350)** It's like sharing a document on Google drive.
+> **[5:50](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=350)** It's like sharing a document on [[Google Drive]].
 >
 > **[5:53](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=353)** And, you know, literally mail that to someone.
 >
@@ -1393,7 +1378,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=365)** My worksheets, you can create folders to organize.
 >
-> **[6:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=369)** You can create dashboards so you can have multiple worksheets with multiple queries on it and the different charts.
+> **[6:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=369)** You can create [[Dashboards]] so you can have multiple worksheets with multiple queries on it and the different charts.
 >
 > **[6:15](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowsight-by-snowflake?u=76281980&t=375)** And you can turn it into a dashboard here.
 >
@@ -1417,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Snowflake]] (6), database (3), [[Databases]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Databases]] (2), [[Google]] (1), [[Metadata]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), similar to (1), it's like (1)
 > **Prerequisites:** set up (3)
@@ -1426,24 +1411,23 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Cross-References:** go back to (1)
 
-#### Amazon Web Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980)
+#### [Amazon Web Services](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=0)** - [Instructor] AWS, also known as Amazon Web Services has increased in popularity since its launch in 2006.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=0)** - [Instructor] AWS, also known as [[Amazon Web Services (AWS)|Amazon Web Services]] has increased in popularity since its launch in 2006.
 >
 > **[0:07](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=7)** An infrastructure platform that only exists in the cloud.
 >
 > **[0:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=10)** That has a pay plan in which you pay as you go.
 >
-> **[0:13](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=13)** Meaning you pay for the data storage inquiries you've used and doesn't include upfront fees or long contracts.
+> **[0:13](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=13)** Meaning you pay for the [[Data Storage]] inquiries you've used and doesn't include upfront fees or long contracts.
 >
 > **[0:19](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=19)** While many other platforms have similar pay plans, AWS probably offers the most in terms of resources, making it highly scalable and elastic.
 >
 > **[0:28](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=28)** AWS has many services including many data warehouse options and applications STEM make it flexible.
 >
-> **[0:34](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=34)** Therefore, if you are considering moving your data to AWS you can likely use the same programming and SQL languages you already use.
+> **[0:34](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=34)** Therefore, if you are considering moving your data to AWS you can likely use the same programming and [[SQL]] languages you already use.
 >
 > **[0:42](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=42)** Being cloud-based allows you to quickly get set up with AWS and start the point on hundreds of servers.
 >
@@ -1455,11 +1439,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=67)** Unlike the other Amazon's hosted database Amazon RDS, Redshift is designed to handle analytic workloads on petabytes of data.
 >
-> **[1:15](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=75)** A level up from terabytes which is commonly used to talk about big data.
+> **[1:15](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=75)** A level up from terabytes which is commonly used to talk about [[Big Data]].
 >
 > **[1:19](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=79)** You can create the data warehouse on nodes which they call clusters that are easily manageable online through the command line or programmatically.
 >
-> **[1:27](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=87)** It's most important use case is where business analytics such as fast query performance on your BI tools and operational analytics where you can see how your other data warehouses and applications are performing.
+> **[1:27](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=87)** It's most important use case is where [[Business Analytics]] such as fast query performance on your BI tools and operational analytics where you can see how your other data warehouses and applications are performing.
 >
 > **[1:40](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-web-services?u=76281980&t=100)** Amazon S3 stands for Amazon Simple Storage Service and it's really just a place for a developer to store and protect the data.
 >
@@ -1471,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), aws (7), cloud (3), database (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Data Storage]] (1), [[SQL]] (1), [[Big Data]] (1), [[Business Analytics]] (1)
 > **Env Vars:** aws (7), stem (1), sql (1), rds (1)
 > **CLI Commands:** aws (7), make (1)
 > **Definitions:** known as (2), stands for (1)
@@ -1480,8 +1464,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Amazon Redshift and S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980)
+#### [Amazon Redshift and S3](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,7 +1508,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=66)** And here you can see the different buckets.
 >
-> **[1:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=70)** And I have one called LinkedIn restaurant delivery which is just the data I have from LinkedIn and in it, the different objects are the CSV files that I have gotten to upload the data, and that's the data you've been seeing throughout this course.
+> **[1:10](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=70)** And I have one called [[LinkedIn]] restaurant delivery which is just the data I have from LinkedIn and in it, the different objects are the CSV files that I have gotten to upload the data, and that's the data you've been seeing throughout this course.
 >
 > **[1:25](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=85)** So it's pretty easy here to upload data.
 >
@@ -1557,7 +1540,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=146)** And we can see the time it takes.
 >
-> **[2:29](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=149)** I will say this does move slower than the other databases we have been using but that's okay.
+> **[2:29](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=149)** I will say this does move slower than the other [[Databases]] we have been using but that's okay.
 >
 > **[2:36](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=156)** Cool, we have our customer's table.
 >
@@ -1603,7 +1586,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=262)** Alright, if we want to see this now, so let's check in our data.
 >
-> **[4:26](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=266)** (keyboard clicking) The SQL is pretty standard here.
+> **[4:26](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=266)** (keyboard clicking) The [[SQL]] is pretty standard here.
 >
 > **[4:36](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/amazon-redshift-and-s3?u=76281980&t=276)** So we can just do that.
 >
@@ -1651,7 +1634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[LinkedIn]] (2), [[Databases]] (2), web (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Databases]] (2), [[SQL]] (1)
 > **Env Vars:** csv (2), url (1), aws (1), sql (1)
 > **CLI Commands:** aws (1), node (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1660,26 +1643,25 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Google Cloud Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980)
+#### [Google Cloud Platform](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=0)** - [Instructor] Google Cloud Platform, or GCP, is similar to Amazon Web Services in that it's a dominant suite of cloud computing services with over 100 products.
+> **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=0)** - [Instructor] [[Google Cloud Platform (GCP)|Google Cloud Platform]], or GCP, is similar to [[Amazon Web Services (AWS)|Amazon Web Services]] in that it's a dominant suite of [[Cloud Computing]] services with over 100 [[Microsoft Products|products]].
 >
-> **[0:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=9)** The third major player, Microsoft Azure, we won't be covering in this course, although it was referenced a few times.
+> **[0:09](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=9)** The third major player, [[Microsoft Azure]], we won't be covering in this course, although it was referenced a few times.
 >
-> **[0:16](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=16)** GCP is the youngest out of these three and considered pricier, but obviously with the Google brand name and reputation for modern innovation, it's still a strong competitor compared to the other two.
+> **[0:16](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=16)** GCP is the youngest out of these three and considered pricier, but obviously with the [[Google]] brand name and reputation for modern innovation, it's still a strong competitor compared to the other two.
 >
-> **[0:29](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=29)** We'll be looking specifically at Google BigQuery which uses ANSI SQL.
+> **[0:29](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=29)** We'll be looking specifically at Google BigQuery which uses ANSI [[SQL]].
 >
 > **[0:34](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=34)** If you recall from the first video, ANSI stands for the American National Standards Institute, which sets the SQL standard.
 >
-> **[0:41](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=41)** They also have Cloud SQL, which provides services from MySQL, Postgres, and other relational databases we have gone over.
+> **[0:41](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=41)** They also have Cloud SQL, which provides services from [[MySQL]], [[PostgreSQL|Postgres]], and other [[Relational Databases]] we have gone over.
 >
-> **[0:49](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=49)** BigQuery argues that it ultimately has a lower three-year total cost of ownership compared to the other platforms mentioned, AWS and Snowflake.
+> **[0:49](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=49)** BigQuery argues that it ultimately has a lower three-year total cost of ownership compared to the other platforms mentioned, AWS and [[Snowflake]].
 >
-> **[0:58](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=58)** Its key features include BigQuery Machine Learning, BigQuery Geographic Information Systems, BigQuery Business Intelligence Engine, and Connected Sheets.
+> **[0:58](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=58)** Its key features include BigQuery Machine Learning, BigQuery [[Geographic Information Systems (GIS)|Geographic Information Systems]], BigQuery [[Business Intelligence (BI)|Business Intelligence]] Engine, and Connected Sheets.
 >
 > **[1:07](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/google-cloud-platform?u=76281980&t=67)** All these features help connect BigQuery to other platforms and analytic tools to maximize its offerings.
 >
@@ -1689,39 +1671,37 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Google]] (3), gcp (2), cloud (2), data (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Google]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** sql (4), gcp (2), ansi (2), aws (1)
 > **CLI Commands:** mysql (1), aws (1)
 > **Definitions:** stands for (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/microsoft-azure?u=76281980)
+#### [Microsoft Azure](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/microsoft-azure?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980)
+#### [Recap](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=0)** - [Instructor] This concludes our course on choosing a data platform.
 >
-> **[0:04](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=4)** We've talked about some of the factors that go into selecting one, such as price, usability, storage, and database design.
+> **[0:04](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=4)** We've talked about some of the factors that go into selecting one, such as price, usability, storage, and [[Database Design]].
 >
-> **[0:13](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=13)** We've talked about what it would take to actually use the database, specifically what its SQL dialect would entail and the different features that are included.
+> **[0:13](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=13)** We've talked about what it would take to actually use the database, specifically what its [[SQL]] dialect would entail and the different features that are included.
 >
-> **[0:22](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=22)** And finally, we looked at some examples of different databases, some which have been standard for a while, such as Postgres and Mongo, and some which are newer, such as Snowflake.
+> **[0:22](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=22)** And finally, we looked at some examples of different [[Databases]], some which have been standard for a while, such as [[PostgreSQL|Postgres]] and Mongo, and some which are newer, such as [[Snowflake]].
 >
 > **[0:33](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=33)** There is no one database as the best option.
 >
 > **[0:36](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=36)** It really depends on what is important to you as a developer.
 >
-> **[0:39](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=39)** Is it accessibility, query performance, data integrity, certain data storage?
+> **[0:39](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=39)** Is [[IT Accessibility]], query performance, [[Data Integrity]], certain [[Data Storage]]?
 >
 > **[0:46](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980&t=46)** As a developer, a data platform is likely not the top priority.
 >
@@ -1741,7 +1721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (4), [[SQL]] (2), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Database Design]] (1), [[Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Snowflake]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** mongo (1), make (1)
 > **Env Vars:** sql (2)

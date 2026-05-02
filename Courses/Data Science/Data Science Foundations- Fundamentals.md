@@ -128,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,19 +136,19 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=4)** So what can you do in this brave new world of data that affects everything we do?
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=10)** The key to that is data science.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=10)** The key to that is [[Data Science]].
 >
-> **[0:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=13)** You'll learn how you can thrive in the new world of data, regardless of your technical background, and we'll see how data science provides a foundation for generative AI and how it has evolved in response to it.
+> **[0:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=13)** You'll learn how you can thrive in the new world of data, regardless of your technical background, and we'll see how data science provides a foundation for [[Generative AI]] and how it has evolved in response to it.
 >
 > **[0:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=27)** All you need is curiosity and a desire to make your work more meaningful.
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=32)** I'm Barton Poulson, and in this course we'll explore some of the ways that data science allows us to ask and answer new and exciting questions.
 >
-> **[0:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=41)** And so let's get started, "Data Science Foundations: Fundamentals."
+> **[0:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980&t=41)** And so let's get started, "[[Data Science Foundations]]: Fundamentals."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Generative AI]] (1), [[Data Science Foundations]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Generative AI]] (1), [[Data Science Foundations]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [barton] (1)
 
@@ -158,8 +157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supply and demand for data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980)
+#### [Supply and demand for data science](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,11 +165,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=8)** I mean, it was before machine learning was common vocabulary.
 >
-> **[0:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=11)** It was before deep learning entered the collective unconscious.
+> **[0:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=11)** It was before [[Deep Learning]] entered the collective unconscious.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=15)** And it was a full ten years before the AI revolution that took over the world.
 >
-> **[0:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=20)** Back in 2012, Thomas Davenport and DJ Patil published an article in "Harvard Business Review," in which they famously claimed that data science of all things was, quote, "The sexiest job of the 21st century."
+> **[0:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=20)** Back in 2012, Thomas Davenport and DJ Patil published an article in "Harvard Business Review," in which they famously claimed that [[Data Science]] of all things was, quote, "The sexiest job of the 21st century."
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=36)** Now, that's a bold claim.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=71)** First, the rare qualities.
 >
-> **[1:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=73)** Data science enables people to find order, meaning, and value in unstructured data.
+> **[1:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=73)** Data science enables people to find order, meaning, and value in [[Unstructured Data]].
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=79)** Unstructured data is enormously difficult to work with, and that's been one of the best examples of the power of data science.
 >
@@ -217,7 +215,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=182)** Now, you tend to think of just tech companies, but there's a lot more than that.
 >
-> **[3:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=188)** Some of the best jobs in data science are in the banking and finance industries, and in healthcare, and medicine, but also the automotive industry, media and entertainment, cybersecurity and retail.
+> **[3:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=188)** Some of the best jobs in data science are in the [[Banking]] and finance industries, and in healthcare, and medicine, but also the automotive industry, media and entertainment, [[Cybersecurity]] and retail.
 >
 > **[3:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980&t=200)** All of these have had enormous growth for data science-specific skill sets applied in those domains.
 >
@@ -255,14 +253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), ai (2), [[Unstructured Data]] (2), [[Deep Learning]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (14), [[Unstructured Data]] (2), [[Deep Learning]] (1), [[Banking]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 2.6 (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### The data science Venn diagram revisited
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980)
+#### [The data science Venn diagram revisited](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,13 +267,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=7)** Take for instance, music.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=8)** You take John, and Paul, and George, and Ringo, all wonderful musicians in their own rights.
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=8)** You take [[John the Ripper|John]], and Paul, and George, and Ringo, all wonderful musicians in their own rights.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=14)** But put them together, and you have The Beatles and you have revolutionized popular culture.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=21)** Or take the fact that everybody has a circle of friends, and basically everybody has the internet now, and you have created social networks and you have revolutionized the computing world.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=33)** Or in 2013, Drew Conway proposed the combination of hacking skills, that's computer programming, and math and statistics, and substantive or topical domain expertise, together give you data science, a new field that has revolutionized both the technology and the business world.
+> **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=33)** Or in 2013, Drew Conway proposed the combination of hacking skills, that's computer programming, and math and [[Statistics]], and substantive or topical domain expertise, together give you [[Data Science]], a new field that has revolutionized both the technology and the business world.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=53)** And I want to talk a little more about why each of those three elements in the Venn diagram of data science are so important.
 >
@@ -294,29 +291,29 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=96)** Now, in terms of actual computer programming skills, there's a few things that are very useful in data science.
 >
-> **[1:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=102)** The ability to work with a language like Python or R.
+> **[1:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=102)** The ability to work with a language like [[Python (Programming Language)|Python]] or R.
 >
-> **[1:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=105)** These are programming languages that are very frequently used for data manipulation and modeling.
+> **[1:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=105)** These are programming languages that are very frequently used for [[Data Manipulation]] and modeling.
 >
-> **[1:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=111)** There's C, and C++, and Java.
+> **[1:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=111)** There's C, and C++, and [[Java]].
 >
 > **[1:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=114)** These are general-purpose languages that are used for the backend, the foundational elements of data science, and they provide maximum speed.
 >
-> **[2:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=122)** There's SQL, or SQL.
+> **[2:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=122)** There's [[SQL]], or SQL.
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=124)** That stands for structured query language.
 >
-> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=126)** This is the language for working with relational databases to do queries and data manipulation.
+> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=126)** This is the language for working with [[Relational Databases]] to do queries and data manipulation.
 >
-> **[2:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=133)** And then there are packages you can use in other languages, like TensorFlow.
+> **[2:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=133)** And then there are packages you can use in other languages, like [[TensorFlow]].
 >
-> **[2:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=137)** This is an open source library that's used for deep learning that has revolutionized the way that data science is performed right now.
+> **[2:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=137)** This is an open source library that's used for [[Deep Learning]] that has revolutionized the way that data science is performed right now.
 >
 > **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=147)** And then there's the mathematical elements of data science.
 >
-> **[2:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=150)** First off, there are several forms of mathematics that are particularly useful in data science.
+> **[2:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=150)** First off, there are several [[Forms]] of mathematics that are particularly useful in data science.
 >
-> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=155)** There's probability, and linear algebra, and calculus, and regression, and I'll talk about some of each of these.
+> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=155)** There's [[Probability]], and [[Linear Algebra]], and [[Calculus]], and regression, and I'll talk about some of each of these.
 >
 > **[2:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=162)** But they allow you to do something important.
 >
@@ -336,7 +333,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=217)** This is each domain or topic area has its own goals, methods, and constraints.
 >
-> **[3:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=223)** If you're working in social media marketing, you're going to have a very different set of goals and methods than if you're working in biomedical informatics.
+> **[3:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=223)** If you're working in [[Social Media Marketing]], you're going to have a very different set of goals and methods than if you're working in biomedical informatics.
 >
 > **[3:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=232)** And you need to know what constitutes value in the particular domain you're working in.
 >
@@ -352,13 +349,13 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=279)** Other important skills include communication, the ability to understand exactly what it is your stakeholders are asking for, and to communicate the results effectively to them and to work well with your team.
 >
-> **[4:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=291)** Decision-making is a separate thing.
+> **[4:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=291)** [[Decision-Making]] is a separate thing.
 >
 > **[4:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=295)** When you do your analysis, ideally, you would end with specific actionable insights that can be carried out by your stakeholder.
 >
 > **[5:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=304)** That means that you need to be comfortable making a decision and telling them what the single best plan of action is.
 >
-> **[5:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=312)** And then always and forever, ethics constitute an important separate skill that overrides every element of data science, understanding the impact of gathering your data and processing it, and the effects that your decisions can have on other people.
+> **[5:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=312)** And then always and forever, [[Ethics]] constitute an important separate skill that overrides every element of data science, understanding the impact of gathering your data and processing it, and the effects that your decisions can have on other people.
 >
 > **[5:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-data-science-venn-diagram-revisited?u=76281980&t=328)** If you do those throughout, if you incorporate them, you will be able to have a greater impact that has a greater lasting productive impact.
 >
@@ -366,19 +363,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Programming]] (4), [[Data Manipulation]] (2), [[SQL]] (2), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (14), [[Data Manipulation]] (2), [[SQL]] (2), [[Decision-Making]] (2), [[Ethics]] (2)
 > **Definitions:** is an  (2), stands for (1), is a  (1), means that (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### The evolution of data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980)
+#### [The evolution of data science](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=0)** - [Instructor] Compared to fields like say mathematics or art, which go back thousands of years, data science doesn't have a very long family history.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=0)** - [Instructor] Compared to fields like say mathematics or art, which go back thousands of years, [[Data Science]] doesn't have a very long family history.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=9)** But even in the past 30 years, there have been important developments that have changed the field.
 >
@@ -388,19 +384,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=24)** This is my own personal take, but I think that most people in the field would agree that it covers some of the biggest developments.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=30)** I'm calling them, one, descriptive analysis, two, big data, three, predictive analytics, and four, generative AI.
+> **[0:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=30)** I'm calling them, one, descriptive analysis, two, [[Big Data]], three, [[Predictive Analytics]], and four, [[Generative AI]].
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=40)** I'll say a little bit about each of these in turn.
 >
 > **[0:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=43)** First, descriptive analysis, you can think of this as pre-data science because it's something that people have been doing for as long as there's been data, and a lot of it is done by hand on a piece of paper with a pen and a calculator.
 >
-> **[0:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=58)** Think about statistical analysis, especially when your data are nicely formatted, they fit into the rows and columns of a spreadsheet.
+> **[0:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=58)** Think about [[Statistical Analysis]], especially when your data are nicely formatted, they fit into the rows and columns of a spreadsheet.
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=66)** You are able to get important, valuable insights from the data, but you don't need all of the extra work that goes into adapting the data that goes into data science.
 >
-> **[1:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=77)** Think about things like "Exploratory Data Analysis," which John Tukey wrote the book for this back in the '70s.
+> **[1:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=77)** Think about things like "Exploratory Data Analysis," which [[John the Ripper|John]] Tukey wrote the book for this back in the '70s.
 >
-> **[1:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=84)** And think about apps like Excel and SPSS.
+> **[1:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=84)** And think about apps like [[Microsoft Excel|Excel]] and SPSS.
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=88)** And one way to think about descriptive analysis in general is it's trying to describe what has already happened and what's in front of you.
 >
@@ -416,7 +412,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=132)** And one of the big adaptations was distributed storage and processing 'cause you had a data set that was too big to fit in a single file or even on a single computer, and it required too much memory for anyone, and so you had to be able to split it up.
 >
-> **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=147)** And this is where we get technologies like Hadoop, which for a while was synonymous with big data, or MapReduce and NoSQL or not only or non-structured query language databases.
+> **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=147)** And this is where we get technologies like [[Hadoop]], which for a while was synonymous with big data, or MapReduce and [[NoSQL]] or not only or non-structured query language [[Databases]].
 >
 > **[2:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=163)** So lot of very creative work starting a little over a decade ago.
 >
@@ -432,7 +428,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=198)** So for instance, classifying photos or transcribing speech, things that weren't really possible for most computers have become routine.
 >
-> **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=207)** And this gave rise to technologies like machine learning, like deep learning, and even predictive AI.
+> **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=207)** And this gave rise to technologies like machine learning, like [[Deep Learning]], and even [[Predictive AI]].
 >
 > **[3:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=214)** And that specifically refers to AI that is doing something that would normally require a human to do it in terms of classifying what would a human do in this particular situation?
 >
@@ -442,17 +438,17 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=235)** Now, generative AI experienced a massive surge in late 2022.
 >
-> **[4:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=240)** In fact, it was November 30th, 2022 when ChatGPT was released to the public.
+> **[4:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=240)** In fact, it was November 30th, 2022 when [[ChatGPT]] was released to the public.
 >
-> **[4:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=246)** And these are algorithms that don't just classify or predict, but create new content that do something novel.
+> **[4:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=246)** And these are [[Algorithms]] that don't just classify or predict, but create new content that do something novel.
 >
-> **[4:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=255)** And you can get images with Midjourney or DALL-E, or Stable Diffusion, text and code with ChatGPT, [Claude.ai](https://Claude.ai), or others.
+> **[4:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=255)** And you can get images with [[Midjourney]] or [[DALL-E]], or [[Stable Diffusion]], text and code with ChatGPT, [Claude.ai](https://Claude.ai), or others.
 >
 > **[4:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=265)** And this is the new context that we're dealing in.
 >
 > **[4:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=267)** And each of these has built on the previous.
 >
-> **[4:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=271)** Generative AI wouldn't be here without the work that went into predictive analytics, that wouldn't be here without the work that went into big data, that wouldn't be here without the work that went into descriptive statistics and analyses.
+> **[4:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=271)** Generative AI wouldn't be here without the work that went into predictive analytics, that wouldn't be here without the work that went into big data, that wouldn't be here without the work that went into descriptive [[Statistics]] and analyses.
 >
 > **[4:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-data-science?u=76281980&t=283)** All of them build upon one another.
 >
@@ -470,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Generative AI]] (5), [[Big Data]] (4), [[Predictive Analytics]] (3), ai (3)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[Generative AI]] (5), [[Big Data]] (4), [[Predictive Analytics]] (3), [[Statistical Analysis]] (2)
 > **Env Vars:** spss (1), dall (1)
 > **CLI Commands:** make (1)
 > **URLs:** [claude.ai](https://claude.ai) (1)
@@ -479,8 +475,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### The CRISP-DM framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980)
+#### [The CRISP-DM framework](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=14)** But we all know that the composting approach to organization makes your data projects a lot harder, which is why some very smart people have spent a lot of time thinking about how to better organize data projects more effectively.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=33)** And one of the most common approaches in the data mining world is something called CRISP-DM, which is short for cross-industry standard process for data mining.
+> **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=33)** And one of the most common approaches in the [[Data Mining]] world is something called [[CRISP-DM]], which is short for cross-industry standard process for data mining.
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=48)** So, this is a great way of thinking about how to organize data projects, not just in data mining, but really anywhere.
 >
@@ -508,9 +503,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=92)** The next step is the data understanding.
 >
-> **[1:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=95)** So, you collect the initial data, you describe the data, you explore it, you verify the data quality, an important step that if you don't perform adequately, everything else can go straight out the window as you're going.
+> **[1:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=95)** So, you collect the initial data, you describe the data, you explore it, you verify the [[Data Quality]], an important step that if you don't perform adequately, everything else can go straight out the window as you're going.
 >
-> **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=110)** And then you have data preparation.
+> **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=110)** And then you have [[Data Preparation]].
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=113)** So, you get your data set and you select data and you clean the data and you construct the data by, for instance, creating indicators or factor scores or features that you're going to be using to build your models.
 >
@@ -550,25 +545,24 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=279)** It includes addressing infrastructure, specifically project management, deployment, documentation, and workflow detail.
 >
-> **[4:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=285)** And most importantly, for a lot of people, it specifically incorporates elements of agile methodology, that's going to make it fit really well within the project management framework that's adopted by a lot of major organizations.
+> **[4:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=285)** And most importantly, for a lot of people, it specifically incorporates elements of [[Agile Development|agile]] methodology, that's going to make it fit really well within the project management framework that's adopted by a lot of major organizations.
 >
 > **[5:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-crisp-dm-framework?u=76281980&t=301)** But whichever method you use, the best thing that you can do is make a plan for your project, get everybody on the same page, and use it so you can work effectively and efficiently and reach the goals of actionable insights and impact for your project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[CRISP-DM]] (4), business (3), next (2), management (2)
+> **Frameworks & Libraries:** [[Data Mining]] (6), [[CRISP-DM]] (4), [[Data Quality]] (1), [[Data Preparation]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** crisp (4), asum (2), ibm (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), short for (1), known as (1), stands for (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Roles, teams, and tools in modern data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980)
+#### [Roles, teams, and tools in modern data science](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=1)** - [Instructor] Data science is fundamentally a team sport.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=1)** - [Instructor] [[Data Science]] is fundamentally a team sport.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=4)** There are so many different skills and so many different elements involved in a data science project that you're going to need people from all sorts of different backgrounds and with different techniques to contribute to the overall success of the project.
 >
@@ -576,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=22)** The first one is the data engineers.
 >
-> **[0:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=25)** These are the developers and the system architects, the people who focus on the hardware and the software that make data science possible.
+> **[0:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=25)** These are the developers and the system architects, the people who focus on the [[Hardware]] and the software that make data science possible.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=33)** They provide the foundation for all of the other analyses.
 >
@@ -586,13 +580,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=47)** These are people who have extensive work in computer science and in mathematics.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=51)** They work in deep learning, they work in artificial intelligence, and they're the ones who have the intimate understanding of the algorithms and understand exactly how they're working with the data to produce the results that you're looking for.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=51)** They work in [[Deep Learning]], they work in [[Artificial Intelligence (AI)|artificial intelligence]], and they're the ones who have the intimate understanding of the [[Algorithms]] and understand exactly how they're working with the data to produce the results that you're looking for.
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=66)** In an entirely different vein are people who are researchers, and by that I mean topical researchers.
 >
 > **[1:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=72)** They focus on domain-specific research, like for instance, physics and genetics are common, so is astrophysics, so is medicine, so is psychology.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=82)** And these kinds of researchers, while they connect with data science, they are usually better versed in the design of research within their particular field and doing common statistical analysis.
+> **[1:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=82)** And these kinds of researchers, while they connect with data science, they are usually better versed in the design of research within their particular field and doing common [[Statistical Analysis]].
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=94)** That's where their expertise lies, but they connect with data science in that they're trying to find the answers to some of these big picture questions that data scientists can also contribute to.
 >
@@ -600,11 +594,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=110)** These are people who do the day-to-day data tasks that are necessary for any business to run efficiently.
 >
-> **[1:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=117)** Those include things like web analytics and SQL, that's SQL or structured query language, data visualizations and the reports that go into business intelligence.
+> **[1:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=117)** Those include things like [[Web Analytics]] and [[SQL]], that's SQL or structured query language, data visualizations and the reports that go into [[Business Intelligence (BI)|business intelligence]].
 >
 > **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=126)** These allow people to make decisions.
 >
-> **[2:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=129)** It's for good business decision-making that lets you see how you're performing, where you need to reorient, and how you can better reach your goals.
+> **[2:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=129)** It's for good business [[Decision-Making]] that lets you see how you're performing, where you need to reorient, and how you can better reach your goals.
 >
 > **[2:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=141)** Then there are the managers.
 >
@@ -620,7 +614,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=182)** Now, there are people who are entrepreneurs, and in this case you might have a data-based startup.
 >
-> **[3:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=189)** The trick here is you often need all of the skills, including the business acumen, to make the business run well.
+> **[3:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=189)** The trick here is you often need all of the skills, including the [[Business Acumen]], to make the business run well.
 >
 > **[3:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/roles-teams-and-tools-in-modern-data-science?u=76281980&t=196)** You also need some great creativity in planning your projects and the execution that get you towards your entrepreneurial goals.
 >
@@ -640,15 +634,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), business (7), [[SQL]] (2), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[SQL]] (2), [[Hardware]] (1), [[Deep Learning]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** picture (2), for instance (1)
 > **Env Vars:** sql (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The central role of questions in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980)
+#### [The central role of questions in data science](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=20)** But chances are, if you've been at this for a while, it's a question that you've been asked before, and the answer you've given is closely related to the answers that you have also given before.
 >
-> **[0:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=34)** But one of the strange things about life, including data science, is that the real value isn't always in the answers.
+> **[0:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=34)** But one of the strange things about life, including [[Data Science]], is that the real value isn't always in the answers.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=42)** For example, here's something from Esther Dyson, a forward-looking investor and philanthropist.
 >
@@ -680,7 +673,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=86)** So it might be helpful, for instance, to think of the tools that you use.
 >
-> **[1:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=90)** If you think of some of the most common tools used when working with data, things that you've probably used hundreds or even thousands of times, things like T-tests, regression, classification, principal component analysis, probability values among lots of others.
+> **[1:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=90)** If you think of some of the most common tools used when working with data, things that you've probably used hundreds or even thousands of times, things like T-tests, regression, classification, principal component analysis, [[Probability]] values among lots of others.
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=107)** The big question here is what exactly do these procedures do compared to how are they interpreted?
 >
@@ -710,7 +703,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=204)** You're not telling people the same stuff they've had before.
 >
-> **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=207)** I understand the value of predictability in dashboards, which are very useful for getting a idea of a constant process.
+> **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=207)** I understand the value of predictability in [[Dashboards]], which are very useful for getting a idea of a constant process.
 >
 > **[3:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-central-role-of-questions-in-data-science?u=76281980&t=217)** But again, data science, you're usually being asked to do something novel.
 >
@@ -734,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (2), [[Probability]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[Probability]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** for example (2), for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -744,14 +737,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980)
+#### [Artificial intelligence](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=0)** - [Lecturer] The human mind seems to work in mysterious ways, and sometimes conceptually and empirically distinct phenomena seem to occupy the same cognitive space, and as a result can get muddled up in the process.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=15)** That seems to be the case for data science and for artificial intelligence, which are sometimes treated as synonyms.
+> **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=15)** That seems to be the case for [[Data Science]] and for [[Artificial Intelligence (AI)|artificial intelligence]], which are sometimes treated as synonyms.
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=22)** But before I compare and contrast the two fields, 'cause there are differences, I want to mention a few things about the nature of categories and definitions.
 >
@@ -813,11 +805,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=202)** Now, what's interesting about that is these two elements, whatever a computer can't do and tests that require humans, those definitions really kind of go back to the '50s at the first major boom of artificial intelligence, when researchers were trying many different approaches to have computers do the work of humans.
 >
-> **[3:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=222)** Many of those approaches were based on extensive coding of expert knowledge and decision paths, think of enormous decision trees, that more recently became known as Good Old-Fashioned Artificial Intelligence, or G-O-F-A-I or GOFAI.
+> **[3:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=222)** Many of those approaches were based on extensive coding of expert knowledge and decision paths, think of enormous [[Decision Trees]], that more recently became known as Good Old-Fashioned Artificial Intelligence, or G-O-F-A-I or GOFAI.
 >
 > **[3:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=239)** The approach was promising for a little while, but it ultimately faded when the magnitude of the task became apparent, and also realizing that the work that they had done didn't have the flexibility needed for what the researchers were hoping for, which is some sort of true general intelligence.
 >
-> **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=258)** And so more recently, artificial intelligence has come to refer to programs, or algorithms, or sequences of equations, or computer code that can learn from the data.
+> **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=258)** And so more recently, artificial intelligence has come to refer to programs, or [[Algorithms]], or sequences of equations, or computer code that can learn from the data.
 >
 > **[4:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=272)** Now, some of these are very simple approaches and some of them are extraordinarily sophisticated, but they allow the computers to do things that, again, normally humans would've done, and the computers can get better and better at it.
 >
@@ -825,7 +817,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=303)** And so this last one, that is a program that can learn from data is probably the best working definition of artificial intelligence.
 >
-> **[5:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=313)** And while it can include very simple models, a regression model for example, it usually refers to two approaches in particular, machine learning algorithms as a general category and deep learning neural networks as a particular instance.
+> **[5:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=313)** And while it can include very simple models, a regression model for example, it usually refers to two approaches in particular, machine learning algorithms as a general category and [[Deep Learning]] [[Neural Networks]] as a particular instance.
 >
 > **[5:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=332)** I'm going to say more about each of those elsewhere, but I did want to bring up one more important distinction when talking about AI.
 >
@@ -841,11 +833,11 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=380)** It turned out that this focus, this specificity, is what made the explosive growth of AI possible.
 >
-> **[6:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=388)** But that explosive growth was really here for predictive AI or AI models that were good at replicating the things that humans could do, again, mostly on specific tasks.
+> **[6:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=388)** But that explosive growth was really here for [[Predictive AI]] or AI models that were good at replicating the things that humans could do, again, mostly on specific tasks.
 >
-> **[6:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=400)** Things changed dramatically in 2022, specifically ChatGPT was released to the general public on the 30th of November, 2022.
+> **[6:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=400)** Things changed dramatically in 2022, specifically [[ChatGPT]] was released to the general public on the 30th of November, 2022.
 >
-> **[6:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=410)** And while generative AI had existed before that, this is when it just kind of exploded onto the scene.
+> **[6:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=410)** And while [[Generative AI]] had existed before that, this is when it just kind of exploded onto the scene.
 >
 > **[6:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=419)** And that changed a lot of other elements, especially about how AI is interpreted and how it applies to data science in general.
 >
@@ -891,7 +883,7 @@ created: 2026-05-02
 >
 > **[9:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=567)** We have data science here, we have machine learning here, and we have artificial intelligence AI here.
 >
-> **[9:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=574)** At the connection between data science and machine learning, that might be a good place to put predictive analytics because that is work that was there before the AI, especially the generative AI revolution of using data that you had to work hard to get it ready and machine learning to find the patterns in it to make specific predictions.
+> **[9:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=574)** At the connection between data science and machine learning, that might be a good place to put [[Predictive Analytics]] because that is work that was there before the AI, especially the generative AI revolution of using data that you had to work hard to get it ready and machine learning to find the patterns in it to make specific predictions.
 >
 > **[9:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=595)** At the intersection between data science and AI, well, that might be an example of expert systems.
 >
@@ -899,7 +891,7 @@ created: 2026-05-02
 >
 > **[10:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=613)** This doesn't involve the automated elements of machine learning.
 >
-> **[10:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=617)** And then if we go to AI and machine learning, well, reinforcement learning is one possible example of the interaction between those two without necessarily involving the elements of data science.
+> **[10:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=617)** And then if we go to AI and machine learning, well, [[Reinforcement Learning]] is one possible example of the interaction between those two without necessarily involving the elements of data science.
 >
 > **[10:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980&t=630)** But take them all together, and that intersection between the three is one way of thinking about the foundation of generative AI.
 >
@@ -907,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), ai (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (12), [[Generative AI]] (6), [[Algorithms]] (5)
+> **Frameworks & Libraries:** [[Data Science]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (12), [[Generative AI]] (6), [[Algorithms]] (5), [[Neural Networks]] (2)
 > **Definitions:** is a  (3), is called (1), stands for (1), refers to (1)
 > **CLI Commands:** find (2), cat (1), make (1)
 > **Env Vars:** gofai (1), gpt (1), bert (1)
@@ -916,8 +908,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980)
+#### [Machine learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -931,11 +922,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=24)** It's supposed to learn about you, and how you like your clothes, and it's supposed to adjust its functions according to its sensors, and it's supposed to send you a gentle message on your phone when it's all done taking care of everything.
 >
-> **[0:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=37)** This is a big change, not just for washing machines, but for so many other machines, and for data science processes as well.
+> **[0:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=37)** This is a big change, not just for washing machines, but for so many other machines, and for [[Data Science]] processes as well.
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=49)** This gets to the issue of machine learning.
 >
-> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=52)** And a very simple definition of that is the ability of algorithms to learn from data, and to learn in such a way that they can improve their function in the future.
+> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=52)** And a very simple definition of that is the ability of [[Algorithms]] to learn from data, and to learn in such a way that they can improve their function in the future.
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=67)** Now, learning is a pretty universal thing.
 >
@@ -1015,19 +1006,19 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=296)** It means that it can find things that humans don't.
 >
-> **[4:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=298)** But it also can react in strange ways occasionally.
+> **[4:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=298)** But it also can [[React.js|react]] in strange ways occasionally.
 >
 > **[5:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=302)** But once you take all this training, you give your algorithm millions of labels and examples, and it starts classifying things.
 >
 > **[5:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=311)** Well, then you want to use something like a neural network, which has been responsible for the major growth in machine learning and data science in the past five years or so.
 >
-> **[5:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=323)** These diagrams here are different layouts of possible neural networks that go from the left to the right.
+> **[5:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=323)** These diagrams here are different layouts of possible [[Neural Networks]] that go from the left to the right.
 >
 > **[5:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=331)** Some of them circle around, or they return back to where they were.
 >
 > **[5:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=335)** But all of these are different ways of taking the information and processing it.
 >
-> **[5:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=339)** Now, the theory of neural networks or artificial neural networks has existed for years.
+> **[5:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=339)** Now, the theory of neural networks or [[Artificial Neural Networks]] has existed for years.
 >
 > **[5:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=345)** The theory is not new.
 >
@@ -1041,7 +1032,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=392)** Data science can definitely be done without machine learning.
 >
-> **[6:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=397)** Any traditional classification task, logistic regression, decision tree, that's not usually machine learning, and it's very effective data science.
+> **[6:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=397)** Any traditional classification task, [[Logistic Regression]], decision tree, that's not usually machine learning, and it's very effective data science.
 >
 > **[6:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=407)** Most predictive models, or even something like a sentiment analysis of social media texts.
 >
@@ -1057,7 +1048,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=436)** And that just brings up one more thing I want to say.
 >
-> **[7:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=439)** The neural networks, and the deep learning neural networks in particular that have been responsible for nearly all of these amazing developments in machine learning are a little bit of a black box, which means it's hard to know exactly what the algorithm is looking at, or how it's processing the data.
+> **[7:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=439)** The neural networks, and the [[Deep Learning]] neural networks in particular that have been responsible for nearly all of these amazing developments in machine learning are a little bit of a black box, which means it's hard to know exactly what the algorithm is looking at, or how it's processing the data.
 >
 > **[7:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning?u=76281980&t=455)** And one result of that is it kind of limits your ability to interpret what's going on, even though the predictions and classifications can be amazingly accurate.
 >
@@ -1065,14 +1056,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Neural Networks]] (5), [[Algorithms]] (4), power (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[Neural Networks]] (5), [[Algorithms]] (4), [[React.js|React]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** find (3), cat (2), make (1)
 > **Definitions:** is a  (5), means that (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [narrator] (1)
 
-#### Deep learning and neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980)
+#### [Deep learning and neural networks](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,11 +1078,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=20)** And when you have a whole bunch of switches, say 100 billion of them like the neurons in your head, and you get them all connected, then amazing things can happen, like love and consciousness.
 >
-> **[0:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=32)** And in data science, an artificial neural network where the functioning is loosely inspired by our biological neural networks can also give rise to surprising things.
+> **[0:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=32)** And in [[Data Science]], an artificial neural network where the functioning is loosely inspired by our biological [[Neural Networks]] can also give rise to surprising things.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=42)** Examples of this include autonomous cars that can drive themselves safely, or medical diagnostics where it can help diagnose diseases in MRIs and EKGs, or the ability to find photos without you ever tagging them.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=61)** In fact, neural networks and deep learning neural networks in particular have been so successful and used in so many ways over the last few years that we're going through a period of development and expansion right now that's been called the new Cambrian explosion in AI 'cause there are so many new variations coming out.
+> **[1:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=61)** In fact, neural networks and [[Deep Learning]] neural networks in particular have been so successful and used in so many ways over the last few years that we're going through a period of development and expansion right now that's been called the new Cambrian explosion in AI 'cause there are so many new variations coming out.
 >
 > **[1:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=81)** But to get back to our original question, what exactly is a deep learning neural network?
 >
@@ -1114,7 +1104,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=188)** The networks can potentially have millions of neurons and even more connections in between them.
 >
-> **[3:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=193)** In fact, work is progressing on what is called GPT-4 right now.
+> **[3:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=193)** In fact, work is progressing on what is called [[GPT-4]] right now.
 >
 > **[3:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=199)** This is a proposed neural network that would have 100 trillion parameters in it.
 >
@@ -1136,13 +1126,13 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=263)** Now what's funny about that is sometimes you end up using the same methods as psychological researchers trying to understand what's going on in a person's mind.
 >
-> **[4:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=271)** It also explains why there's a lot of work right now going on in what's called explainable artificial intelligence or XAI as a critical element in the implementation and the trustworthiness of AI.
+> **[4:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=271)** It also explains why there's a lot of work right now going on in what's called explainable [[Artificial Intelligence (AI)|artificial intelligence]] or XAI as a critical element in the implementation and the trustworthiness of AI.
 >
 > **[4:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=286)** Also, there are important legal issues involved in deep learning neural networks.
 >
 > **[4:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=292)** So for instance, the European Union has their General Data Protection Regulation or GDPR.
 >
-> **[4:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=297)** There is also the California Consumer Privacy Act or CCPA.
+> **[4:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=297)** There is also the California Consumer [[Privacy]] Act or CCPA.
 >
 > **[5:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=302)** And both of these are very significant laws that have requirements, for example, for transparency, meaning when an algorithm makes a decision that affects somebody, they have to know how it got there and explainability, so they know how it reached the process.
 >
@@ -1170,7 +1160,7 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=449)** And then that might be related to what is also called liquid neural networks.
 >
-> **[7:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=454)** And these are flexible algorithms that keep developing in response to new data, not just the training data where they first learned how to do things because most deep learning neural networks are kind of set in stone once they've been trained.
+> **[7:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=454)** And these are flexible [[Algorithms]] that keep developing in response to new data, not just the training data where they first learned how to do things because most deep learning neural networks are kind of set in stone once they've been trained.
 >
 > **[7:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/deep-learning-and-neural-networks?u=76281980&t=467)** They just kind of operate after that.
 >
@@ -1182,15 +1172,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (17), data (10), [[Deep Learning]] (8), ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (17), [[Deep Learning]] (8), [[Data Science]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[GPT-4]] (1)
 > **Analogies:** for example (2), for instance (2), imagine (1), picture (1), just like (1)
 > **Definitions:** is a  (4), is called (1), refers to (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** gpt (1), xai (1), gdpr (1), ccpa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformers and attention for generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980)
+#### [Transformers and attention for generative AI](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,11 +1187,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=5)** Now, it's the same road and it's all connected, but things can change dramatically.
 >
-> **[0:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=12)** And this is where we start talking about generative AI.
+> **[0:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=12)** And this is where we start talking about [[Generative AI]].
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=16)** Now, like the other approaches we've talked about, generative AI is still based on data.
 >
-> **[0:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=22)** It still uses neural networks and it can be used for analyzing text, images and so on.
+> **[0:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=22)** It still uses [[Neural Networks]] and it can be used for analyzing text, images and so on.
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=28)** But it uses a dramatically different approach and gives dramatically different results.
 >
@@ -1216,11 +1205,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=55)** And the calculations at point A only influence things at point B.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=61)** So for example, a recurrent neural network that was trying to write a sentence would go forward one word at a time without ever changing or going back to look again at earlier words.
+> **[1:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=61)** So for example, a recurrent neural network that was trying to write a sentence would go forward one [[Microsoft Word|word]] at a time without ever changing or going back to look again at earlier words.
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=73)** On the other hand, there are times when the meaning of one word will depend on context, including things that can come later in a sentence.
 >
-> **[1:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=81)** If I were to talk about Python in this course, you could reasonably assume that I'm talking about a programming language, unless I suddenly start talking about snake skin.
+> **[1:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=81)** If I were to talk about [[Python (Programming Language)|Python]] in this course, you could reasonably assume that I'm talking about a programming language, unless I suddenly start talking about snake skin.
 >
 > **[1:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=90)** When that happens, well, it lets you know that it changes your initial impression of what I mentioned earlier.
 >
@@ -1278,25 +1267,25 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=239)** Or long short-term memory models, that's LTSM.
 >
-> **[4:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=244)** Or convolutional neural networks, CNNs.
+> **[4:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=244)** Or [[Convolutional Neural Networks (CNN)|convolutional neural networks]], CNNs.
 >
-> **[4:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=247)** Those are primarily used, CNNs, for visual processing, but they can also be applied to natural language processing.
+> **[4:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=247)** Those are primarily used, CNNs, for visual processing, but they can also be applied to [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[4:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=253)** So there are some huge advantages.
 >
 > **[4:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=255)** And really the big one is that all of this makes generative AI possible.
 >
-> **[4:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=262)** Now, to be clear, there are forms of generative AI that don't rely on transformers, but the vast majority of models use transformers and this attention mechanism.
+> **[4:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=262)** Now, to be clear, there are [[Forms]] of generative AI that don't rely on transformers, but the vast majority of models use transformers and this attention mechanism.
 >
-> **[4:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=272)** And fortunately, the LinkedIn Learning Library has many courses to give you a lot more detail and a lot more on applications of generative AI and how you can use it in different settings.
+> **[4:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=272)** And fortunately, the [[LinkedIn]] Learning Library has many courses to give you a lot more detail and a lot more on applications of generative AI and how you can use it in different settings.
 >
-> **[4:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=283)** And we'll be referring to it in this course as we go through data science.
+> **[4:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=283)** And we'll be referring to it in this course as we go through [[Data Science]].
 >
 > **[4:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/transformers-and-attention-for-generative-ai?u=76281980&t=287)** But this is just the very beginning outline of how it differs from some of the other approaches and how it can influence the data work that you do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Generative AI]] (6), data (5), [[Neural Networks]] (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Generative AI]] (6), [[Neural Networks]] (3), [[Python (Programming Language)|Python]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** lstm (1), rnn (1), ltsm (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** later in (1), earlier in (1)
@@ -1304,12 +1293,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980)
+#### [Big data](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=1)** - [Instructor] There was a time just a few years ago when data science and big data were practically synonymous terms as were semi magical words like Hadoop that brought up all the amazing things happening in data science.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=1)** - [Instructor] There was a time just a few years ago when [[Data Science]] and [[Big Data]] were practically synonymous terms as were semi magical words like [[Hadoop]] that brought up all the amazing things happening in data science.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=15)** But things are a little different now, so it's important to distinguish between the two fields.
 >
@@ -1329,7 +1317,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=55)** Things like customer transactions at the grocery store.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=59)** The databases that track these transactions and compile them, and consumer loyalty programs have hundreds of billions of rows of data on purchases.
+> **[0:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=59)** The [[Databases]] that track these transactions and compile them, and consumer loyalty programs have hundreds of billions of rows of data on purchases.
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=70)** GPS data from phone includes information from billions of people constantly throughout the day.
 >
@@ -1377,7 +1365,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=219)** Now, it is possible to distinguish big data and data science.
 >
-> **[3:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=222)** For instance, you can do big data without necessarily requiring the full toolkit of data science, which includes computer programming, math, and statistics and domain expertise.
+> **[3:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=222)** For instance, you can do big data without necessarily requiring the full toolkit of data science, which includes computer programming, math, and [[Statistics]] and domain expertise.
 >
 > **[3:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/big-data?u=76281980&t=233)** So, for instance, you might have a large data set, but if it's structured and very consistent, maybe you don't have to do any special programming.
 >
@@ -1415,15 +1403,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Big Data]] (16), [[Programming]] (3), [[Hadoop]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (16), [[Data Science]] (8), [[Hadoop]] (2), [[Databases]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** gps (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980)
+#### [Predictive analytics](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1450,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=94)** And so when a judge is trying to make a decision, this is one thing they can keep in mind in trying to predict a particular outcome.
 >
-> **[1:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=101)** Now, in the world of predictive analytics where you're using data to try to predict outcomes, the restorative justice is a very simple one based on simple analyses within data science and predictive analytics, you'll see more complicated things like for instance, whether a person is more likely to click on a particular button or make a purchase based on a particular offer.
+> **[1:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=101)** Now, in the world of [[Predictive Analytics]] where you're using data to try to predict outcomes, the restorative justice is a very simple one based on simple analyses within [[Data Science]] and predictive analytics, you'll see more complicated things like for instance, whether a person is more likely to click on a particular button or make a purchase based on a particular offer.
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=124)** You're going to see medical researchers looking at things that can predict the risk of a disease, as well as the responsiveness of particular treatments.
 >
@@ -1509,7 +1496,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=305)** And the algorithm is able to estimate that with a high-degree of accuracy.
 >
-> **[5:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=310)** And then the most complex at this exact moment are the generative AI methods, which can be used to make predictions, but there's a whole other level of inscrutability about them.
+> **[5:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=310)** And then the most complex at this exact moment are the [[Generative AI]] methods, which can be used to make predictions, but there's a whole other level of inscrutability about them.
 >
 > **[5:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/predictive-analytics?u=76281980&t=323)** Use the method that is best suited to your particular use case.
 >
@@ -1517,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Predictive Analytics]] (4), web (1), next (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), [[Data Science]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for instance (2)
@@ -1525,8 +1512,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [speaker] (1)
 
-#### Prescriptive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980)
+#### [Prescriptive analytics](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,11 +1522,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=15)** His reasoning was that before you could get all the way to point B, you first had to get halfway there.
 >
-> **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=21)** And before you could get the rest of the way, you had to go halfway again.
+> **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=21)** And before you could get the [[Representational State Transfer (REST)|rest]] of the way, you had to go halfway again.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=25)** The process of getting halfway would occur an infinite number of times, which Zeno said was impossible, so you could never get to point B.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=35)** Now, aside from the fact that Zeno didn't know that you could solve an infinite series problem with calculus, the obvious answer is that people walk from one part of the room to the other all the time.
+> **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=35)** Now, aside from the fact that Zeno didn't know that you could solve an infinite series problem with [[Calculus]], the obvious answer is that people walk from one part of the room to the other all the time.
 >
 > **[0:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=47)** So the theoretically impossible task was obviously possible and accomplished frequently.
 >
@@ -1584,11 +1570,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=136)** Now, let me go back and compare what I'm talking about here with cause and effect to something we've seen previously.
 >
-> **[2:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=142)** I've spoken about predictive analytics.
+> **[2:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=142)** I've spoken about [[Predictive Analytics]].
 >
 > **[2:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=145)** That is where you're focusing on correlations, because correlations are adequate for saying, "if this happens, then this will probably happen as well."
 >
-> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=155)** And there's a huge amount of work in data science on predictive analytics, and really amazing things have come out of that.
+> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=155)** And there's a huge amount of work in [[Data Science]] on predictive analytics, and really amazing things have come out of that.
 >
 > **[2:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=163)** On the other hand, prescriptive analytics is about causation.
 >
@@ -1608,7 +1594,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=207)** And so the theory is nice and clean, but the practice can be really difficult.
 >
-> **[3:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=212)** There is one major exception to that, and that's A/B testing for web design, where, for instance, you set up your software to have one offer on this version and another offer on another version of your website, and you see which one gets more clicks.
+> **[3:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=212)** There is one major exception to that, and that's A/B testing for [[Web Design]], where, for instance, you set up your software to have one offer on this version and another offer on another version of your website, and you see which one gets more clicks.
 >
 > **[3:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=227)** That can be automated, and it is an experimental design and it's randomized.
 >
@@ -1650,7 +1636,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=347)** Iteration is critical.
 >
-> **[5:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=349)** You may be familiar with this chart, which comes from the agile design process.
+> **[5:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=349)** You may be familiar with this chart, which comes from the [[Agile Development|agile]] design process.
 >
 > **[5:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=353)** You design, you develop, you try something out once.
 >
@@ -1666,13 +1652,13 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=378)** That's the result that you're looking for.
 >
-> **[6:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=381)** But the ready availability of generative AI has also had an impact on causal inference, and by extension, prescriptive analytics.
+> **[6:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=381)** But the ready availability of [[Generative AI]] has also had an impact on [[Causal Inference]], and by extension, prescriptive analytics.
 >
 > **[6:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=390)** As an example, here's a collection of papers on generative AI and causal inference that have been published on arXiv, a research paper repository.
 >
-> **[6:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=400)** They include general causal inference, causal EGM, causal representation, learning large language models, and causal inference and collaboration.
+> **[6:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=400)** They include general causal inference, causal EGM, causal representation, learning [[Large Language Models (LLM)|large language models]], and causal inference and collaboration.
 >
-> **[6:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=409)** And all of these have were published subsequent to the release of ChatGPT in November of 2022.
+> **[6:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=409)** And all of these have were published subsequent to the release of [[ChatGPT]] in November of 2022.
 >
 > **[6:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=416)** There's a huge amount of work going on right there.
 >
@@ -1682,7 +1668,7 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=441)** It also allows for the generation of synthetic data that matches higher dimensional structure.
 >
-> **[7:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=448)** It allows for simulation abilities.
+> **[7:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=448)** It allows for [[Simulation]] abilities.
 >
 > **[7:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=450)** So you can take something that might have a low dimensional form, like a two dimensional object, and use it to give you an idea of a larger, higher dimensional representation, like portraying a story with shadow puppets.
 >
@@ -1700,13 +1686,13 @@ created: 2026-05-02
 >
 > **[8:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=509)** So with prescriptive analytics, as with everything else, keep your wits about you.
 >
-> **[8:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=515)** And remember that critical thinking still matters, even when you have these very powerful algorithms doing a lot of the grunt work for you.
+> **[8:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=515)** And remember that critical thinking still matters, even when you have these very powerful [[Algorithms]] doing a lot of the grunt work for you.
 >
 > **[8:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/prescriptive-analytics?u=76281980&t=525)** And to get back to our original point, causality may be theoretically philosophically impossible, but prescriptive analytics can get you close enough for practical purposes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (5), [[Generative AI]] (5), [[Causal Inference]] (4), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Causal Inference]] (4), [[Predictive Analytics]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Calculus]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** egm (2), rct (1)
 > **Analogies:** for instance (2), for example (1)
@@ -1715,8 +1701,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The evolution of business intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980)
+#### [The evolution of business intelligence](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,13 +1719,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=50)** It's there to serve a particular purpose.
 >
-> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=52)** And I think the same thing is true about data and data science in general.
+> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=52)** And I think the same thing is true about data and [[Data Science]] in general.
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=57)** In fact, I like to say data is for doing.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=60)** The whole point of gathering data, the whole point of doing the analysis is to get some insight that's going to allow us to do something better.
 >
-> **[1:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=68)** And truthfully, business intelligence is the one field that epitomizes this goal.
+> **[1:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=68)** And truthfully, [[Business Intelligence (BI)|business intelligence]] is the one field that epitomizes this goal.
 >
 > **[1:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=76)** Business intelligence, or BI, is all about getting the insight to do something better in your business.
 >
@@ -1748,7 +1733,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=89)** They are designed to emphasize speed and accessibility and insight right there.
 >
-> **[1:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=95)** You can do them on your tablet, you can do them on your phone, and they often rely on structured dashboards like these graphs that you see.
+> **[1:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=95)** You can do them on your tablet, you can do them on your phone, and they often rely on structured [[Dashboards]] like these graphs that you see.
 >
 > **[1:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=104)** Maybe you do a social media campaign and you can go and see the analytics dashboard or you have videos on YouTube or Vimeo or someplace.
 >
@@ -1782,13 +1767,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=218)** Even if the user-facing element is a very simple set of graphs on a tablet, the data science goes into the preparation and the offering of the information.
 >
-> **[3:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=232)** Now, there have also been really important developments in generative AI in terms of how they relate to business intelligence or AI in BI.
+> **[3:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=232)** Now, there have also been really important developments in [[Generative AI]] in terms of how they relate to business intelligence or AI in BI.
 >
 > **[4:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=241)** One of these has to do with integrated AI.
 >
-> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=245)** So for instance, Microsoft Copilot is in the Fabric apps, Power BI, Synapse Data Science, Data Factory, and so on.
+> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=245)** So for instance, [[Microsoft Copilot]] is in the Fabric apps, [[Microsoft Power BI|Power BI]], Synapse Data Science, Data Factory, and so on.
 >
-> **[4:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=253)** Salesforce has Tableau Agent and Tableau Pulse, and there are many others.
+> **[4:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=253)** Salesforce has [[Tableau]] Agent and Tableau Pulse, and there are many others.
 >
 > **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-evolution-of-business-intelligence?u=76281980&t=258)** What's really helpful here is that these particular AIs are tightly integrated with the software itself.
 >
@@ -1806,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Business Intelligence (BI)|Business intelligence]] (10), bi (5), business (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (11), [[Business Intelligence (BI)|Business intelligence]] (10), [[Generative AI]] (2), [[Tableau]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for instance (3), picture (1)
 > **Definitions:** is a  (1)
@@ -1817,8 +1802,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980)
+#### [Bias](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1812,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=3)** You got good code, and anyhow, sometimes things just glitch and things fall apart, and it just kind of explodes on you.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=10)** Things can go wrong in data science like they can everywhere else, and there are really too many examples to list.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=10)** Things can go wrong in [[Data Science]] like they can everywhere else, and there are really too many examples to list.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=20)** There are social media bots that start behaving very badly, very quickly.
 >
@@ -1836,7 +1820,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=29)** There are credit, loan, and financial applications that get processed by machine learning and seem to exacerbate some of the inequities in life.
 >
-> **[0:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=41)** And there are issues of social representation in social media and other forms of data science that really kind of get problematic.
+> **[0:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=41)** And there are issues of social representation in social media and other [[Forms]] of data science that really kind of get problematic.
 >
 > **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=51)** Now, some of these are due to technical issues.
 >
@@ -1862,7 +1846,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=111)** And that varies from person to person, but it also varies from one culture or group to another.
 >
-> **[1:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=119)** And there's the failure to use more flexible algorithms.
+> **[1:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=119)** And there's the failure to use more flexible [[Algorithms]].
 >
 > **[2:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=123)** It can look not just at large-scale, macro, overall patterns, but at the more micro, nuanced, individual subgroups and exceptional cases.
 >
@@ -1886,9 +1870,9 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=195)** And of course, include diversity, not just demographic diversity and cultural diversity, but lots of different methods, lots of different ways of looking at the data, and evaluating the impact of your work.
 >
-> **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=207)** Now, this is all true for predictive AI, which is generally trying to predict how a human would act in the same situation.
+> **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=207)** Now, this is all true for [[Predictive AI]], which is generally trying to predict how a human would act in the same situation.
 >
-> **[3:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=214)** But generative AI introduces even greater risks.
+> **[3:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=214)** But [[Generative AI]] introduces even greater risks.
 >
 > **[3:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=219)** So for instance, when making images or writing texts, there's the risk of either overrepresenting or underrepresenting different groups.
 >
@@ -1914,16 +1898,15 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=300)** And that kind of trust is very difficult to rebuild, so be cautious with what you do.
 >
-> **[5:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=308)** And if you want to learn more about this, we have another course here at the LinkedIn Learning Library on AI accountability essential training that addresses a lot of the issues that come up in data science and AI, and how you can better anticipate them, prepare for them, and respond to them, so you can then use AI in a more effective way to get the insight you need from your work without bringing in new, unexpected, and potentially troublesome difficulties.
+> **[5:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980&t=308)** And if you want to learn more about this, we have another course here at the [[LinkedIn]] Learning Library on AI [[Accountability]] essential training that addresses a lot of the issues that come up in data science and AI, and how you can better anticipate them, prepare for them, and respond to them, so you can then use AI in a more effective way to get the insight you need from your work without bringing in new, unexpected, and potentially troublesome difficulties.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), ai (4), [[Generative AI]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Science]] (3), [[Generative AI]] (2), [[Forms]] (1), [[Predictive AI]] (1)
 > **Analogies:** for instance (2), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980)
+#### [Security and privacy](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1941,7 +1924,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=42)** Let you do all the data gathering, let you do all the calculating, and they'll just get the final product.
 >
-> **[0:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=49)** Any one of these is a major security risk to a data science project.
+> **[0:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=49)** Any one of these is a major [[Security Risk]] to a [[Data Science]] project.
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=55)** And it's frustrating enough when it's thing like trying to predict what the weather's going to be.
 >
@@ -1957,13 +1940,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=99)** Now, there are several people who will do this, and not all of them are bad guys.
 >
-> **[1:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=104)** So, for one thing, there are privacy activists.
+> **[1:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=104)** So, for one thing, there are [[Privacy]] activists.
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=107)** These are people who work with machine learning the same way you do when you, like, maybe turn on the privacy protections on your phone or on your web browser.
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=116)** There are also people who are trying to conceal illegal or unethical behavior, or maybe frame somebody else, or maybe they're trying to interfere with a competitor's performance, or gain an advantage.
 >
-> **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=127)** Or maybe they're trying to get past security settings and access users like a spam messages or turning your computer into a spambot or a blockchain zombie.
+> **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=127)** Or maybe they're trying to get past security settings and access users like a spam messages or turning your computer into a spambot or a [[Blockchain]] zombie.
 >
 > **[2:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=138)** Or maybe they're trying to hack into the system and steal or possibly worse manipulate data, which in and of itself can be an act of cyber terrorism.
 >
@@ -1997,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=228)** It bakes in the mistakes into the algorithm.
 >
-> **[3:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=232)** And the problem here is that algorithms that are frequently updated and which therefore are less susceptible to evasion attacks are in fact more susceptible to poisoning attacks.
+> **[3:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=232)** And the problem here is that [[Algorithms]] that are frequently updated and which therefore are less susceptible to evasion attacks are in fact more susceptible to poisoning attacks.
 >
 > **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=245)** And so security becomes a major issue, especially when you're dealing with significant outcomes.
 >
@@ -2005,7 +1988,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=259)** It's going to make a very big difference there.
 >
-> **[4:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=262)** And then there are some special issues that are associated with generative AI.
+> **[4:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=262)** And then there are some special issues that are associated with [[Generative AI]].
 >
 > **[4:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/security-and-privacy?u=76281980&t=266)** So, for instance, your data might be incorporated into AI training datasets without your awareness.
 >
@@ -2059,18 +2042,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Security]] (6), [[Algorithms]] (3), [[Generative AI]] (3), ai (3)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Generative AI]] (3), [[Data Science]] (2), [[Privacy]] (2), [[Security Risk]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for instance (4), think of it as (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Legal
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980)
+#### [Legal](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=0)** - [Instructor] Data science can make you feel like a superhero who's here to save the world, or at least your business world.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=0)** - [Instructor] [[Data Science]] can make you feel like a superhero who's here to save the world, or at least your business world.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=8)** But an alarming amount of data work can also end up in court or on the wrong side of a protest.
 >
@@ -2078,11 +2060,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=24)** The first thing is to be aware of legal issues.
 >
-> **[0:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=27)** Now, there are a collection of state-level privacy laws.
+> **[0:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=27)** Now, there are a collection of state-level [[Privacy]] laws.
 >
-> **[0:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=31)** In the United States as of late 2024, nearly half of the states had laws specifically addressing data privacy, and that will continue to expand.
+> **[0:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=31)** In the United States as of late 2024, nearly half of the states had laws specifically addressing [[Data Privacy]], and that will continue to expand.
 >
-> **[0:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=41)** In the United States, there are laws like HIPAA and FERPA: the Health Insurance Portability and Accountability Act, and the Family Education Rights and Privacy Act, which have a lot to do with records that can be used in your analysis, information that can be shared.
+> **[0:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=41)** In the United States, there are laws like HIPAA and FERPA: the Health Insurance Portability and [[Accountability]] Act, and the Family Education Rights and Privacy Act, which have a lot to do with records that can be used in your analysis, information that can be shared.
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=58)** There was also the proposed American Privacy Rights Act, which would be a nationwide privacy law; it was proposed in '24, but didn't pass.
 >
@@ -2094,7 +2076,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=111)** Next, there are the ethical issues; this is separate from legal.
 >
-> **[1:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=115)** It has to do with forms of fairness, so equity, equality, and need, which all refer to different ways of sharing things among people and making decisions.
+> **[1:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=115)** It has to do with [[Forms]] of fairness, so equity, equality, and need, which all refer to different ways of sharing things among people and making decisions.
 >
 > **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=126)** There are forms of distributed justice, procedural justice, and interactional justice, all of which need to be respected to have the proper impact that you want.
 >
@@ -2114,19 +2096,18 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=174)** Now, I gave you just a very quick overview of some of the potential issues.
 >
-> **[2:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=179)** If you want more information on these, better examples, and how to work through them, another course here on LinkedIn Learning is AI Accountability Essential Training, which addresses these issues in greater depth and will help you keep your work on the right side of the law on ethical issues and social issues.
+> **[2:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/legal?u=76281980&t=179)** If you want more information on these, better examples, and how to work through them, another course here on [[LinkedIn]] Learning is AI Accountability Essential Training, which addresses these issues in greater depth and will help you keep your work on the right side of the law on ethical issues and social issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (5), ai (5), [[Accountability]] (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Science]] (3), [[Accountability]] (2), [[Forms]] (2), [[Data Privacy]] (1)
 > **Env Vars:** hipaa (1), ferpa (1), gdpr (1), dsa (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980)
+#### [Explainable AI](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,7 +2131,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=42)** And so in one sense, when the chips are everywhere and we don't even know where they are and what they're doing, maybe they have taken over.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=51)** Now the same general principle applies to artificial intelligence or AI.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=51)** Now the same general principle applies to [[Artificial Intelligence (AI)|artificial intelligence]] or AI.
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=57)** It's everywhere. It's ubiquitous.
 >
@@ -2160,7 +2141,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=79)** Now, there's a trick about this, and that is AI, artificial intelligence, is often opaque.
 >
-> **[1:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=86)** Modern AI relies heavily on versions of neural networks, especially deep learning neural networks.
+> **[1:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=86)** Modern AI relies heavily on versions of [[Neural Networks]], especially [[Deep Learning]] neural networks.
 >
 > **[1:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=92)** They do amazing things, but it can be difficult or even impossible to trace the data flow through the network.
 >
@@ -2172,9 +2153,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=115)** But basically nobody knows exactly what's happening in there with the data.
 >
-> **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=121)** And that gives us some really serious challenges, especially when you look at things, laws like the CCPA, that's the California Consumer Privacy Act, and the GDPR, that's the European Union's General Data Protection Regulation, those are very significant laws that require at least some level of explainability from algorithmic decisions.
+> **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=121)** And that gives us some really serious challenges, especially when you look at things, laws like the CCPA, that's the California Consumer [[Privacy]] Act, and the GDPR, that's the European Union's General Data Protection Regulation, those are very significant laws that require at least some level of explainability from algorithmic decisions.
 >
-> **[2:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=146)** Also, if businesses are going to use or expand their use of AI procedures, they need to have some confidence in the algorithms and have some idea how they will function in new situations.
+> **[2:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=146)** Also, if businesses are going to use or expand their use of AI procedures, they need to have some confidence in the [[Algorithms]] and have some idea how they will function in new situations.
 >
 > **[2:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=158)** And finally, the people who benefit from all of this, the people like us who use their computers to make decisions, we need to have a certain level of trust if we're actually going to use the computers.
 >
@@ -2196,7 +2177,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=243)** Next is interpretability.
 >
-> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=245)** This is the ability to identify the underlying basis for decision-making in a way that's understandable to humans.
+> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=245)** This is the ability to identify the underlying basis for [[Decision-Making]] in a way that's understandable to humans.
 >
 > **[4:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=254)** It's also been described as the ability to determine cause and effect from machine learning models.
 >
@@ -2220,13 +2201,13 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=318)** One, for instance, is the use of algorithms that are more transparent.
 >
-> **[5:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=323)** So things like linear regression, that's usually easily interpretable, or a decision tree like we see here, or maybe collections of decision trees.
+> **[5:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=323)** So things like [[Linear Regression]], that's usually easily interpretable, or a decision tree like we see here, or maybe collections of [[Decision Trees]].
 >
 > **[5:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=333)** Those are things that people can understand better, and they are still often very effective.
 >
 > **[5:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=340)** There's also research in developing what you can call parallel algorithms in that you have one algorithm that is doing the main work, but next to it and at the same time you have another algorithm that is working to explain and follow the process what's going on in there.
 >
-> **[5:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=358)** Think of it as an explainable version of generative adversarial networks where you have two networks working simultaneously to produce a particular outcome.
+> **[5:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=358)** Think of it as an explainable version of [[Generative Adversarial Networks (GANs)|generative adversarial networks]] where you have two networks working simultaneously to produce a particular outcome.
 >
 > **[6:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=368)** And then there's also the general approach of what's called variable importance, and a lot of measures use that.
 >
@@ -2242,7 +2223,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=417)** That's a nice way of thinking about it.
 >
-> **[6:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=419)** And not surprisingly, there are similar offerings from other cloud computing providers.
+> **[6:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=419)** And not surprisingly, there are similar offerings from other [[Cloud Computing]] providers.
 >
 > **[7:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/explainable-ai?u=76281980&t=423)** This is a very hot market.
 >
@@ -2290,23 +2271,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (9), [[Algorithms]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Neural Networks]] (3)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Neural Networks]] (3), [[Deep Learning]] (2), [[Privacy]] (1)
 > **Env Vars:** xai (3), compas (2), ccpa (1), gdpr (1), ibm (1)
 > **Definitions:** is a  (3), means that (1), refers to (1), is an  (1)
 > **Analogies:** for instance (3), imagine (1), think of it as (1), for example (1)
 > **CLI Commands:** node (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agency of algorithms and decision-makers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980)
+#### [Agency of algorithms and decision-makers](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=1)** - [Instructor] When we think about artificial intelligence, and how it works, and how it might make decisions, and act on its own, we tend to think of things like this.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=1)** - [Instructor] When we think about [[Artificial Intelligence (AI)|artificial intelligence]], and how it works, and how it might make decisions, and act on its own, we tend to think of things like this.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=9)** You've got the robot holding a computer right next to you, but the fact is, most of the time when we're dealing with artificial intelligence, it's something a lot closer to this.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=19)** Nevertheless, I want to suggest at least four ways that work in data science can contribute to the interplay of human and artificial intelligence of personal and machine agency.
+> **[0:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=19)** Nevertheless, I want to suggest at least four ways that work in [[Data Science]] can contribute to the interplay of human and artificial intelligence of personal and machine agency.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=33)** The first is what I call simple recommendations, and then there's human-in-the-loop decision making, then human-accessible decisions, and then machine-centric processing and action.
 >
@@ -2336,7 +2316,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=124)** Next is human-in-the-loop decision making.
 >
-> **[2:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=128)** And this is where advanced algorithms can make and even implement their own decisions, as with self-driving cars, and I remember the first time my car turned a steering wheel on its own, but humans are usually at the ready to take over if needed.
+> **[2:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=128)** And this is where advanced [[Algorithms]] can make and even implement their own decisions, as with self-driving cars, and I remember the first time my car turned a steering wheel on its own, but humans are usually at the ready to take over if needed.
 >
 > **[2:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=143)** Another example might be something as simple as spam filters.
 >
@@ -2344,7 +2324,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=149)** So it can do it on its own, but you need to be there to take over just in case.
 >
-> **[2:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=156)** A third kind of decision-making in the interplay between the algorithm and the human is what I call human accessible decision making.
+> **[2:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=156)** A third kind of [[Decision-Making]] in the interplay between the algorithm and the human is what I call human accessible decision making.
 >
 > **[2:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=165)** Many algorithmic decisions are made automatically and even implemented automatically, but they're designed such that humans can at least understand what happened in them, such as, for instance, with an online mortgage application, you put the information in and it can tell you immediately whether you're accepted or rejected.
 >
@@ -2352,7 +2332,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=204)** And then finally, there's machine-centric, and this is when machines are talking to other machines.
 >
-> **[3:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=210)** And the best example of this is the Internet of Things, and that can include things like wearables.
+> **[3:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=210)** And the best example of this is the [[IoT|Internet of Things]], and that can include things like wearables.
 >
 > **[3:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=216)** My smartwatch talks to my phone, which talks to the internet, which talks to my car, and sharing and processing data at each point.
 >
@@ -2360,11 +2340,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=233)** And there's smart grids, which allows, for example, for two-way communication between maybe a power utility and the houses or businesses they serve.
 >
-> **[4:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=241)** It lets them have more efficient routing of power recovery from blackouts, integration with consumer-generated power and so on.
+> **[4:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=241)** It lets them have more efficient [[Routing]] of power recovery from blackouts, integration with consumer-generated power and so on.
 >
 > **[4:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=248)** The important thing about this one is this last category, the machine-centric decisions or the Internet of Things is starting to constitute an enormous amount of the data that's available for data science work.
 >
-> **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=259)** And that's to say nothing about the progress that's happened with generative AI, where it really is taking charge and acting like an agent.
+> **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=259)** And that's to say nothing about the progress that's happened with [[Generative AI]], where it really is taking charge and acting like an agent.
 >
 > **[4:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/agency-of-algorithms-and-decision-makers?u=76281980&t=268)** So think about, for instance, AI-generated content, articles that you might read online or potentially reviews of items, they should be written by humans, but are sometimes by AI.
 >
@@ -2408,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), power (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Data Science]] (3), [[Algorithms]] (3), [[Generative AI]] (3), [[IoT|Internet of things]] (2)
 > **Analogies:** for instance (3), such as (2), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1)
@@ -2421,14 +2401,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980)
+#### [Data preparation](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=1)** - [Instructor] Anybody who's cooked knows how time-consuming food prep can be, and that doesn't say anything about actually going to the market, finding the ingredients, putting things together in bowls and sorting them, let alone cooking the food.
 >
-> **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=14)** And it turns out there's a similar kind of thing that happens in data science, and that's the data preparation part.
+> **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=14)** And it turns out there's a similar kind of thing that happens in [[Data Science]], and that's the [[Data Preparation]] part.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=21)** The rule of thumb is that 80% of the time on any data science project is typically spent just getting the data ready.
 >
@@ -2442,7 +2421,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=56)** The information you're going to get from your analysis is only as good as the information that you put into it.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=63)** And if you want to put in really starker terms, there's a wonderful phrase from Twitter that says, "Most people who think that they want machine learning or AI really just need linear regression on cleaned up data."
+> **[1:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=63)** And if you want to put in really starker terms, there's a wonderful phrase from Twitter that says, "Most people who think that they want machine learning or AI really just need [[Linear Regression]] on cleaned up data."
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=78)** Linear regression is a very basic, simple, and useful procedure, and it lets you know, just as a rule of thumb, if your data is properly prepared, then the analysis can be something that is quick and clean and easy, and easy to interpret.
 >
@@ -2454,7 +2433,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=134)** Also, you should have one sheet per file.
 >
-> **[2:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=137)** If you have an Excel sheet, you can have lots of different sheets in it, but a CSV file has only one sheet.
+> **[2:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=137)** If you have an [[Microsoft Excel|Excel]] sheet, you can have lots of different sheets in it, but a CSV file has only one sheet.
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=144)** And also that each file should have just one level of observation.
 >
@@ -2488,7 +2467,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=243)** And then there's a question of what to do with outliers.
 >
-> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=245)** And then there's metadata, things like, where did the data come from?
+> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=245)** And then there's [[Metadata]], things like, where did the data come from?
 >
 > **[4:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980&t=249)** Who's the sample? How is it processed?
 >
@@ -2514,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Linear Regression]] (2), ai (1), [[Microsoft Excel|Excel]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Data Preparation]] (3), [[Linear Regression]] (2), [[Microsoft Excel|Excel]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Env Vars:** gigo (1), csv (1)
 > **Analogies:** for instance (1), just like (1)
@@ -2522,8 +2501,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Labeling data for supervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/labeling-data-for-supervised-learning?u=76281980)
+#### [Labeling data for supervised learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/labeling-data-for-supervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2647,7 +2625,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/labeling-data-for-supervised-learning?u=76281980&t=455)** And when that happens, those labels that go into the machine learning algorithm, they can be biased in a way that makes the algorithm less useful for those other group of people or potentially outright misleading.
 >
-> **[7:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/labeling-data-for-supervised-learning?u=76281980&t=467)** And so the idea is that social judgements that happen at the labeling stage can get baked into the algorithms.
+> **[7:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/labeling-data-for-supervised-learning?u=76281980&t=467)** And so the idea is that social judgements that happen at the labeling stage can get baked into the [[Algorithms]].
 >
 > **[7:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/labeling-data-for-supervised-learning?u=76281980&t=474)** They become part of it.
 >
@@ -2665,7 +2643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), database (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** for instance (6), just like (1), kind of like (1), for example (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), you need to have (1)
@@ -2674,12 +2652,11 @@ created: 2026-05-02
 > **Versions:** 3.2 (1)
 > **UI Navigation:** select the (1)
 
-#### In-house data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980)
+#### [In-house data](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=0)** - [Instructor] Data science projects can feel like massive overwhelming undertakings like epic expeditions.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=0)** - [Instructor] [[Data Science]] projects can feel like massive overwhelming undertakings like epic expeditions.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=6)** But sometimes you can get started right here, right now.
 >
@@ -2689,7 +2666,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=23)** Also, restrictions may not apply.
 >
-> **[0:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=26)** A lot of the things about like GDPR, and FERPA and privacy regulations.
+> **[0:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=26)** A lot of the things about like GDPR, and FERPA and [[Privacy]] regulations.
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=32)** Well, if the data's being used exclusively within the organization that gathered it for their own purposes, maybe some of those regulations don't apply, which means you have a little more flexibility in what you're able to do.
 >
@@ -2729,7 +2706,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=149)** And so let me explain a little bit what I mean by dark data.
 >
-> **[2:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=154)** One estimate from a 2019 report by Splunk reported the following statistics from a survey of more than 1,300 business managers, and IT leaders from around the globe.
+> **[2:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=154)** One estimate from a 2019 report by Splunk reported the following [[Statistics]] from a survey of more than 1,300 business managers, and IT leaders from around the globe.
 >
 > **[2:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=164)** When asked about their data, they said approximately 12% of their data was actively used.
 >
@@ -2757,13 +2734,13 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=256)** The flip side of that is, they've got too much data.
 >
-> **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=259)** They are so overwhelmed with the big data fire hose coming in, and they don't have enough analytics or the ability to work with it.
+> **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=259)** They are so overwhelmed with the [[Big Data]] fire hose coming in, and they don't have enough analytics or the ability to work with it.
 >
 > **[4:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=266)** 39% of people gave that as a reason.
 >
-> **[4:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=270)** Next is that they simply couldn't use the unstructured data.
+> **[4:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=270)** Next is that they simply couldn't use the [[Unstructured Data]].
 >
-> **[4:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=274)** Remember things like text, free text, the things that people put on social media or the reviews they put on an e-commerce site, that's valuable, but it is difficult to process, especially if you're working in Excel.
+> **[4:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=274)** Remember things like text, free text, the things that people put on social media or the reviews they put on an [[E-Commerce]] site, that's valuable, but it is difficult to process, especially if you're working in [[Microsoft Excel|Excel]].
 >
 > **[4:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/in-house-data?u=76281980&t=289)** And then finally, there is the ever present risk that the data is dark because it's missing or incomplete, and simply not in a standard to be usable.
 >
@@ -2777,7 +2754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), [[Privacy]] (1), [[Statistics]] (1), business (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Privacy]] (1), [[Statistics]] (1), [[Big Data]] (1), [[Unstructured Data]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** gdpr (1), ferpa (1), rot (1)
@@ -2785,8 +2762,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980)
+#### [Open data](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2794,7 +2770,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=7)** It's a beautiful building.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=8)** It has desks by a wall of windows looking out over the Wasatch Mountains.
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=8)** It has desks by a wall of [[Windows]] looking out over the Wasatch Mountains.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=11)** It's a great place to be.
 >
@@ -2804,7 +2780,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=28)** I love to browse the shelves, find something unexpected and beautiful, go by the windows, and enjoy it.
 >
-> **[0:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=36)** Open data is like the public library of data science.
+> **[0:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=36)** Open data is like the public library of [[Data Science]].
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=40)** It's where you can get beautiful things that you might not be able to gather or process on your own, and it's all for the public benefit.
 >
@@ -2820,7 +2796,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=74)** In the United States, the biggest and most obvious one is [data.gov](https://data.gov), which is home of open data from the US federal government, where you can find an enormous amount of datasets on anything from consumer spending, to local government, to finance, a wide range of topics that would be really useful for data science.
 >
-> **[1:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=95)** For example, you can look up the Housing Affordability Data System, which is going to actually have a big impact on where you can employ people to work for you and where potential customers are for your products and services.
+> **[1:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=95)** For example, you can look up the Housing Affordability Data System, which is going to actually have a big impact on where you can employ people to work for you and where potential customers are for your [[Microsoft Products|products]] and services.
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=110)** If you're in the United Kingdom, then [data.gov](https://data.gov).uk is going to be the major choice.
 >
@@ -2846,9 +2822,9 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=188)** So many opportunities to upload data, to find data, to download and share it, and then share your results with other people.
 >
-> **[3:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=196)** And then in social data, one of the favorite ones is Google Trends, where you can look at national trends on search terms.
+> **[3:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=196)** And then in social data, one of the favorite ones is [[Google]] Trends, where you can look at national trends on search terms.
 >
-> **[3:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=203)** So for instance, here's one that is looking at the relative popularity over time of the terms data science, machine learning, and artificial intelligence.
+> **[3:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=203)** So for instance, here's one that is looking at the relative popularity over time of the terms data science, machine learning, and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[3:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/open-data?u=76281980&t=214)** And then, Yahoo Finance is one of the great sources for stock market information.
 >
@@ -2862,7 +2838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Windows]] (2), [[Search]] (2), [[Microsoft Products|Products]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Windows]] (2), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (4)
 > **URLs:** [data.gov](https://data.gov) (2), [utah.gov](https://utah.gov) (1)
 > **Analogies:** for example (1), for instance (1), it's like (1)
@@ -2870,8 +2846,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980)
+#### [APIs](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2889,7 +2864,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=38)** And so I've gone to this website that has what's called the JSONPlaceholder.
 >
-> **[0:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=43)** JSON stands for JavaScript Object Notation.
+> **[0:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=43)** [[JSON]] stands for [[JavaScript]] Object Notation.
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=46)** It's a data format.
 >
@@ -2899,13 +2874,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=64)** If you want to go to just this web address directly, you can, and there's the same data.
 >
-> **[1:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=71)** You can include this information in a Python script or an R script or some other web application that you're developing.
+> **[1:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=71)** You can include this information in a [[Python (Programming Language)|Python]] script or an R script or some other web application that you're developing.
 >
 > **[1:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=78)** It brings it in and it allows you to get up and running very, very quickly.
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=83)** Now, APIs can be used for a million different things.
 >
-> **[1:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=87)** Three very common categories include social APIs that allow you to access data from Facebook or a Bluesky or other sources, as well as use them as logins for your own sites; utilities, things like Dropbox and Google Maps, so you can include that information in your own apps; or commerce: Stripe for processing payments or MailChimp for email marketing or things like Slack or a million other applications.
+> **[1:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=87)** Three very common categories include social APIs that allow you to access data from Facebook or a Bluesky or other sources, as well as use them as logins for your own sites; utilities, things like Dropbox and [[Google]] Maps, so you can include that information in your own apps; or commerce: Stripe for processing payments or MailChimp for [[Email Marketing]] or things like [[Slack]] or a million other applications.
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=110)** The data can be open, which means all you need is the address to get it, or it may be proprietary.
 >
@@ -2913,7 +2888,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=121)** You include this bit of code and it brings the data in and gets you up and running.
 >
-> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=126)** You can then use that data in data analysis, so it becomes one step of a data science project, or maybe you're creating an app.
+> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=126)** You can then use that data in data analysis, so it becomes one step of a [[Data Science]] project, or maybe you're creating an app.
 >
 > **[2:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/apis?u=76281980&t=136)** You can make a commercial application that relies on data that it pulls from any of several different APIs like Weather and Directions.
 >
@@ -2923,7 +2898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), application (3), api (2), [[JSON]] (2), web (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Data Science]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **Env Vars:** api (2), json (2)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **CLI Commands:** python (1), make (1)
@@ -2932,8 +2907,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
 
-#### Scraping data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980)
+#### [Scraping data](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2941,15 +2915,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=21)** The towers are a testament to what a creative and persistent person can do with the things that they find all around them.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=29)** Data scraping is, in a sense, the found art of data science.
+> **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=29)** Data scraping is, in a sense, the found art of [[Data Science]].
 >
 > **[0:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=34)** It's when you take the data that's around you, tables on pages and graphs in newspapers, and integrate that information into your data science work.
 >
-> **[0:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=43)** Unlike the data that's available with APIs, or application programming interfaces, which is specifically designed for sharing, data scraping is for data that isn't necessarily created with that integration in mind, but I need to immediately make a quick statement about ethics and data science.
+> **[0:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=43)** Unlike the data that's available with APIs, or [[Application Programming Interfaces (API)|application programming interfaces]], which is specifically designed for sharing, data scraping is for data that isn't necessarily created with that integration in mind, but I need to immediately make a quick statement about [[Ethics]] and data science.
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=62)** Even though it's possible to scrape data from digital and print sources, there's still legal and ethical constraints that you need to be aware of.
 >
-> **[1:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=71)** For instance, you need to respect people's privacy.
+> **[1:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=71)** For instance, you need to respect people's [[Privacy]].
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=74)** If the data is private, you still need to maintain that privacy.
 >
@@ -2963,7 +2937,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=116)** Here is a list of dance companies, and you can actually copy and paste this information, but you can also use some very, very simple tools for scraping.
 >
-> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=126)** In fact, if you want to put it into a Google Sheet, there's even a function that's designed specifically for that.
+> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=126)** In fact, if you want to put it into a [[Google]] Sheet, there's even a function that's designed specifically for that.
 >
 > **[2:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=133)** All you need to do is open up a Google Sheet, and then you use this function, IMPORTHTML.
 >
@@ -2977,7 +2951,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=162)** Some other kinds of data that you might be interested in scraping might include things like reviews online and ranking data.
 >
-> **[2:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=169)** You can use specialized apps for scraping consistently structured data, or you can use packages in programming languages like Python and R.
+> **[2:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=169)** You can use specialized apps for scraping consistently structured data, or you can use packages in programming languages like [[Python (Programming Language)|Python]] and R.
 >
 > **[2:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=178)** Now, one interesting version of this is taking something like a heat map, or a choropleth, it's actually called, in this particular case.
 >
@@ -2995,13 +2969,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=219)** It's not an enormous amount of work, and it is a way of recovering the data that was used to create a map like this.
 >
-> **[3:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=227)** If you want to see a really good example of data scraping after a manner where you're taking image data and getting something useful out of it, here at [publicintelligence.net](https://publicintelligence.net), they're reporting on a project that's done with Syrian refugee camps, and what they're using here are satellite photos, and then they're using a machine learning algorithm to count the number of tents within the camp, and that's important because, you see, as it goes over time, it gets much, much larger, and this can be used to assess the severity of a humanitarian crisis and really, how well you can respond to it, but it's the same basic principles of data scraping, taking something that was created in one way, just an image, but then using the computer algorithms
+> **[3:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=227)** If you want to see a really good example of data scraping after a manner where you're taking image data and getting something useful out of it, here at [publicintelligence.net](https://publicintelligence.net), they're reporting on a project that's done with Syrian refugee camps, and what they're using here are satellite photos, and then they're using a machine learning algorithm to count the number of tents within the camp, and that's important because, you see, as it goes over time, it gets much, much larger, and this can be used to assess the severity of a humanitarian crisis and really, how well you can respond to it, but it's the same basic principles of data scraping, taking something that was created in one way, just an image, but then using the computer [[Algorithms]]
 >
 > **[4:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/scraping-data?u=76281980&t=276)** to extract some information out of it and give you the ability to get some extra insight and figure out what your next steps in your project need to be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Google]] (4), [[Privacy]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Google]] (4), [[Privacy]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Ethics]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Analogies:** for instance (3), just like (1)
 > **Definitions:** is a  (3)
@@ -3010,8 +2984,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Warnings:** be aware (1)
 
-#### Synthetic data and simulation environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980)
+#### [Synthetic data and simulation environments](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3025,9 +2998,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=25)** And again, maybe Mae West.
 >
-> **[0:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=27)** Well, it turns out that in data science and AI, especially for AI, too much data is pretty much just right.
+> **[0:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=27)** Well, it turns out that in [[Data Science]] and AI, especially for AI, too much data is pretty much just right.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=35)** That is the mechanisms that make AI possible, both predictive and especially generative AI require truly unprecedented monumental amounts of data, and there's never been a situation of having too much data.
+> **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=35)** That is the mechanisms that make AI possible, both predictive and especially [[Generative AI]] require truly unprecedented monumental amounts of data, and there's never been a situation of having too much data.
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=52)** So they can start with the available datasets.
 >
@@ -3053,15 +3026,15 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=117)** Sometimes the available data is not enough for your training purposes.
 >
-> **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=121)** There may be privacy restrictions where if you have medical data with personally-identifiable information, you just can't use that, there are laws that prevent that.
+> **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=121)** There may be [[Privacy]] restrictions where if you have medical data with personally-identifiable information, you just can't use that, there are laws that prevent that.
 >
 > **[2:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=130)** And there are edge cases, there are rare situations that may constitute only a very small percentage of the overall dataset, but that's the group that you're mostly interested in.
 >
-> **[2:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=141)** And so you have one option that is to generate new data via either synthesis or simulation.
+> **[2:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=141)** And so you have one option that is to generate new data via either synthesis or [[Simulation]].
 >
 > **[2:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=149)** And I'll talk a little bit about each of these.
 >
-> **[2:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=151)** Now, I do want to mention that this is more than just missing data and the imputation practices that are common in statistical analysis, those are ones where you try to say, "Well, a person skipped this question on a survey and we can find a way to fill in a likely answer."
+> **[2:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=151)** Now, I do want to mention that this is more than just missing data and the imputation practices that are common in [[Statistical Analysis]], those are ones where you try to say, "Well, a person skipped this question on a survey and we can find a way to fill in a likely answer."
 >
 > **[2:48](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=168)** It's more than that.
 >
@@ -3069,7 +3042,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=189)** Simulation, on the other hand, you are simulating new environments.
 >
-> **[3:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=193)** You're modeling processes in a virtual environment like running a weather simulation or often used for reinforcement learning where you're trying to teach an algorithm how to navigate an intersection, or a robot, how to run through a maze.
+> **[3:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=193)** You're modeling processes in a virtual environment like running a weather simulation or often used for [[Reinforcement Learning]] where you're trying to teach an algorithm how to navigate an intersection, or a robot, how to run through a maze.
 >
 > **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=207)** These are for things that are very intricate, interdependent, and difficult to predict.
 >
@@ -3103,7 +3076,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=333)** So one AI is throwing out a bunch of fake data along with real data, and when it gets to the point that the discriminator is no longer able to tell the difference, well, then you have managed to create some very convincing content.
 >
-> **[5:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=349)** It's how movies like the, quote-unquote, "live-action" "Lion King" were made by using the generative adversarial networks to get digital images that looked and moved like real animals.
+> **[5:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=349)** It's how movies like the, quote-unquote, "live-action" "Lion King" were made by using the [[Generative Adversarial Networks (GANs)|generative adversarial networks]] to get digital images that looked and moved like real animals.
 >
 > **[6:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/synthetic-data-and-simulation-environments?u=76281980&t=362)** And it's really effective in a lot of ways of getting past some of the obvious limitations of AI.
 >
@@ -3121,14 +3094,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), ai (16), [[Generative AI]] (5), [[Simulation]] (4), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Simulation]] (4), [[Data Science]] (3), [[Privacy]] (3), [[Statistical Analysis]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passive collection of training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980)
+#### [Passive collection of training data](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3140,7 +3112,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=24)** You only have to do it once to get it ingrained into your behavior.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=29)** But if you're working in data science, and especially if you're training a machine learning algorithm, you're going to need a lot more than one trial for learning.
+> **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=29)** But if you're working in [[Data Science]], and especially if you're training a machine learning algorithm, you're going to need a lot more than one trial for learning.
 >
 > **[0:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=37)** You're going to need an enormous amount of labeled training data to get your algorithm up and working properly.
 >
@@ -3148,7 +3120,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=55)** In certain respects, you can just sit there and wait for it to come to you.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=59)** That's the beauty of passive data collection.
+> **[0:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=59)** That's the beauty of passive [[Data Collection]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/passive-collection-of-training-data?u=76281980&t=64)** Now, there are a few examples of this that are pretty common.
 >
@@ -3202,21 +3174,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Data Collection]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data vendors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980)
+#### [Data vendors](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=0)** - [Instructor] When a dentist buys or sells their practice, the office location and the technical equipment is often included, but the real value comes in getting the accumulated list of customers, the patients, and hopefully their continued patronage.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=0)** - [Instructor] When a dentist buys or sells their practice, the [[Microsoft Office|office]] location and the technical equipment is often included, but the real value comes in getting the accumulated list of customers, the patients, and hopefully their continued patronage.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=18)** After all, everybody knows that the hardest part of any business is building your customer base, and that is where data vendors come in for data science.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=18)** After all, everybody knows that the hardest part of any business is building your customer base, and that is where data vendors come in for [[Data Science]].
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=29)** Now, a data vendor is a third-party organization that sells data.
 >
@@ -3288,7 +3259,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=227)** Second, there is the question of accuracy.
 >
-> **[3:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=230)** Now, data vendors are going to go out of their way to make sure that their data is useful, but it is something that you are going to have to verify before you go ahead with the rest of your project.
+> **[3:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=230)** Now, data vendors are going to go out of their way to make sure that their data is useful, but it is something that you are going to have to verify before you go ahead with the [[Representational State Transfer (REST)|rest]] of your project.
 >
 > **[4:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=240)** You need to know how they calculated things.
 >
@@ -3296,7 +3267,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=252)** And then finally, a very, very big one.
 >
-> **[4:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=255)** There's the issue of privacy.
+> **[4:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=255)** There's the issue of [[Privacy]].
 >
 > **[4:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-vendors?u=76281980&t=257)** Data vendors usually get their data without people necessarily knowing that they have it.
 >
@@ -3316,21 +3287,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Privacy]] (3), business (2), product (2), web (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Microsoft Office|Office]] (1), [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### New data from surveys and experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980)
+#### [New data from surveys and experiments](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=1)** - [Instructor] Sometimes you need something special, something that's not already there.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=5)** In the data science world, there's a lot of data you can get from in-house data, open data, APIs, and even data scraping.
+> **[0:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=5)** In the [[Data Science]] world, there's a lot of data you can get from in-house data, open data, APIs, and even data scraping.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=12)** But if you still can't get the data you need to answer the questions you care about, then you can go the DIY route and get your own data.
 >
@@ -3404,7 +3374,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=193)** Now I come from a background in experimental social psychology.
 >
-> **[3:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=197)** The experiments are very time-consuming, very labor intensive, but that's not what we're talking about in the e-commerce and the tech world.
+> **[3:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=197)** The experiments are very time-consuming, very labor intensive, but that's not what we're talking about in the [[E-Commerce]] and the tech world.
 >
 > **[3:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=206)** Usually here we're referring to what's called A/B testing, where for instance, you prepare two different versions of a website or a landing page, and you see how many people click on things as a result of those two different versions.
 >
@@ -3416,7 +3386,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=239)** Simpler is better, more focused is more efficient, and you're going to be better able to interpret it to get useful next steps out of the whole thing.
 >
-> **[4:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=251)** I also want to mention two elements of research ethics that are especially important when you are gathering new data.
+> **[4:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=251)** I also want to mention two elements of research [[Ethics]] that are especially important when you are gathering new data.
 >
 > **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=258)** Number one is informed consent.
 >
@@ -3426,7 +3396,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=275)** This is something that needs to be their own free choice.
 >
-> **[4:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=278)** The second one, which can be expressed in many different ways is privacy.
+> **[4:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=278)** The second one, which can be expressed in many different ways is [[Privacy]].
 >
 > **[4:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/new-data-from-surveys-and-experiments?u=76281980&t=283)** Also, sometimes confidentiality or anonymity.
 >
@@ -3446,7 +3416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Privacy]] (2), express (1), [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Science]] (1), [[E-Commerce]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (3), picture (1)
 > **Env Vars:** diy (1)
@@ -3455,8 +3425,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980)
+#### [Data ethics](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3464,7 +3433,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=3)** If your data project ends with everybody screaming at you, then something has gone wrong.
 >
-> **[0:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=9)** And when it comes to data ethics, things can go very wrong very quickly.
+> **[0:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=9)** And when it comes to [[Data Ethics]], things can go very wrong very quickly.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=15)** Now, let me give you just a different perspective for a moment.
 >
@@ -3496,7 +3465,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=87)** Confidentiality means, regardless of whether the data is anonymous or not, that people know you're not going to freely share the data that is going to stay in certain tight bounds.
 >
-> **[1:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=96)** I have a locked filing cabinet in my locked office, which is where I'm required to keep the data that I've gathered.
+> **[1:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=96)** I have a locked filing cabinet in my locked [[Microsoft Office|office]], which is where I'm required to keep the data that I've gathered.
 >
 > **[1:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=103)** It is very tight.
 >
@@ -3504,11 +3473,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=116)** That's the academic research world.
 >
-> **[1:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=118)** On the other hand, in the data science world, there's an unfortunate history of anything goes.
+> **[1:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=118)** On the other hand, in the [[Data Science]] world, there's an unfortunate history of anything goes.
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=125)** There was a time not that long ago when it seemed that the governing rule was, do whatever you want, that included scraping private or copyrighted data from the web or social media being sneaky about using cookies on people's web browsers, selling private information, and a host of other potential dumpster fires in the tech world.
 >
-> **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=147)** Now I'm just talking about gathering data, not how it might be used in machine learning algorithms, which is a different set of significant issues.
+> **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=147)** Now I'm just talking about gathering data, not how it might be used in machine learning [[Algorithms]], which is a different set of significant issues.
 >
 > **[2:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=156)** On the other hand, I have mentioned elsewhere, more than once, about the changes in the regulatory environment, the single most important of which is the GDPR, the European Union's General Data Protection Regulation, a very serious piece of legislation that completely alters the way that data is gathered.
 >
@@ -3516,7 +3485,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=179)** It's why companies now have to specifically ask you for permission to gather data and to share it with others.
 >
-> **[3:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=186)** And here in the United States, there's the California Consumer Privacy Act, which has spawned a whole host of changes, not just in California but around the country.
+> **[3:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=186)** And here in the United States, there's the California Consumer [[Privacy]] Act, which has spawned a whole host of changes, not just in California but around the country.
 >
 > **[3:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=196)** And so these laws and ones similar to them are changing the environment in which people gather data and they're giving some very specific guidelines for data ethics.
 >
@@ -3540,7 +3509,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=255)** And then there's the development of privacy.
 >
-> **[4:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=257)** First hardware, like cell phones and their operating systems, they give people much tighter control on privacy or software like the browser or the search engine that you use may be a privacy first piece of software.
+> **[4:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=257)** First [[Hardware]], like cell phones and their operating systems, they give people much tighter control on privacy or software like the browser or the search engine that you use may be a privacy first piece of software.
 >
 > **[4:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-ethics?u=76281980&t=271)** And so all of these are creating a very different environment in which the data science world operates.
 >
@@ -3554,7 +3523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Privacy]] (6), [[Ethics]] (4), web (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Ethics]] (4), [[Data Science]] (3), [[Microsoft Office|Office]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -3567,12 +3536,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applications for data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980)
+#### [Applications for data analysis](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=1)** - [Instructor] When people think about data science, machine learning, and artificial intelligence, the talk turns almost immediately to tools, things like programming languages and sophisticated computer setups.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=1)** - [Instructor] When people think about [[Data Science]], machine learning, and [[Artificial Intelligence (AI)|artificial intelligence]], the talk turns almost immediately to tools, things like programming languages and sophisticated computer setups.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=13)** But remember, the tools are simply a means to an end, and even then, only part of it.
 >
@@ -3598,7 +3566,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=96)** The rows and columns are very familiar to a very large number of people, and they know how to explore the data and access it using those tools.
 >
-> **[1:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=106)** The most common by far is Microsoft Excel and it's many versions, Google Sheets is also extremely common, and there are others.
+> **[1:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=106)** The most common by far is [[Microsoft Excel]] and it's many versions, [[Google]] Sheets is also extremely common, and there are others.
 >
 > **[1:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=114)** The great thing about spreadsheets is they're good for browsing.
 >
@@ -3614,9 +3582,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=142)** You can do what you want in between, but that spreadsheet is going to serve as the common ground.
 >
-> **[2:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=148)** Another very common data tool, even though it's not really an application, but a language, is SQL or "sequel," which stands for Structured Query Language.
+> **[2:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=148)** Another very common data tool, even though it's not really an application, but a language, is [[SQL]] or "sequel," which stands for Structured Query Language.
 >
-> **[2:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=160)** This is a way of accessing data stored in databases, usually relational databases, where you select the data, ya specify the criteria you want, you can combine it and reformat it in ways that best work.
+> **[2:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=160)** This is a way of accessing data stored in [[Databases]], usually [[Relational Databases]], where you select the data, ya specify the criteria you want, you can combine it and reformat it in ways that best work.
 >
 > **[2:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=173)** You only need maybe a dozen or so commands in SQL to accomplish the majority of tasks that you need.
 >
@@ -3624,9 +3592,9 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=187)** And then there are the dedicated apps for visualization.
 >
-> **[3:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=191)** That includes things like Tableau, both the desktop and the public, and the server version, and Qlik.
+> **[3:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=191)** That includes things like [[Tableau]], both the desktop and the public, and the server version, and Qlik.
 >
-> **[3:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=198)** What these do is they facilitate data integration, that's one of their great things.
+> **[3:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=198)** What these do is they facilitate [[Data Integration]], that's one of their great things.
 >
 > **[3:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980&t=202)** They bring in data from lots of different sources and formats, and put it together in a pretty seamless way.
 >
@@ -3652,7 +3620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[SQL]] (3), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[SQL]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Excel]] (1), [[Google]] (1)
 > **Env Vars:** sql (3), jasp (2), csv (1), spss (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -3660,8 +3628,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Languages for data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980)
+#### [Languages for data science](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3677,7 +3644,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=30)** You have to be a musical polyglot.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=35)** I mentioned this because one of the most common questions in data science is whether you should work in Python or in R, two very common languages for working with data.
+> **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=35)** I mentioned this because one of the most common questions in [[Data Science]] is whether you should work in [[Python (Programming Language)|Python]] or in R, two very common languages for working with data.
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=46)** The reason this question comes up is because programming languages give you immense control over your work in data science.
 >
@@ -3713,7 +3680,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=151)** So those languages can include both Python and R.
 >
-> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=155)** They can include SQL or Structured Query Language, or Java or Julia, or Scala or MATLAB.
+> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=155)** They can include [[SQL]] or Structured Query Language, or [[Java]] or Julia, or [[Scala]] or MATLAB.
 >
 > **[2:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=163)** Really, all of these serve different purposes.
 >
@@ -3725,7 +3692,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=198)** And often, it's the packages that are more influential than the actual language.
 >
-> **[3:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=204)** So things like TensorFlow, which make it so easy to do deep learning, neural networks.
+> **[3:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=204)** So things like [[TensorFlow]], which make it so easy to do [[Deep Learning]], [[Neural Networks]].
 >
 > **[3:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/languages-for-data-science?u=76281980&t=209)** You can use that in Python or in R and it's going to facilitate your work.
 >
@@ -3733,7 +3700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (9), [[Programming]] (5), [[SQL]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Data Science]] (7), [[SQL]] (1), [[Java]] (1), [[Scala]] (1)
 > **CLI Commands:** python (9), find (1), make (1)
 > **Env Vars:** sql (1), matlab (1)
 > **Definitions:** is a  (1)
@@ -3741,8 +3708,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alternatives to programming: Low-code, no-code, and AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980)
+#### [Alternatives to programming: Low-code, no-code, and AutoML](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3752,15 +3718,15 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=15)** And that certainly matches with my own experience.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=18)** I mean, in terms of data preparation, that includes things like converting categorical features and dealing with missing data and maybe rescaling data or feature engineering extraction and selection to name some of the tasks.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=18)** I mean, in terms of [[Data Preparation]], that includes things like converting categorical features and dealing with missing data and maybe rescaling data or [[Feature Engineering]] extraction and selection to name some of the tasks.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=33)** And then there's the issue of hyperparameters in your model.
 >
-> **[0:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=36)** Now, for linear regression, that might just be the alpha rate or the false positive rate in hypothesis testing.
+> **[0:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=36)** Now, for [[Linear Regression]], that might just be the alpha rate or the false positive rate in hypothesis testing.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=42)** For K nearest neighbors, it's the number of neighbors to consider.
 >
-> **[0:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=45)** But for algorithms like deep learning, there can be many, many more.
+> **[0:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=45)** But for [[Algorithms]] like [[Deep Learning]], there can be many, many more.
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=49)** Like the number of hidden layers, the number of units per layer, the learning rate, the dropout rate, the number of epics and so on.
 >
@@ -3786,7 +3752,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=110)** So instead of typing lines of code, it's dragging and dropping boxes and connections between them for visual programming and drawing the flow of the data through it.
 >
-> **[2:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=122)** Examples include DataRobot or Google's teachable machine as ways to set up data science flows with no typing and programming whatsoever.
+> **[2:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=122)** Examples include DataRobot or [[Google]]'s teachable machine as ways to set up [[Data Science]] flows with no typing and programming whatsoever.
 >
 > **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=134)** There are also low-code solutions.
 >
@@ -3794,15 +3760,15 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=142)** It's like putting your sticky notes with notes on them.
 >
-> **[2:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=146)** These are programs where you have a visual interface, but they also allow for coding in, say, Python or R as needed.
+> **[2:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=146)** These are programs where you have a visual interface, but they also allow for coding in, say, [[Python (Programming Language)|Python]] or R as needed.
 >
-> **[2:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=154)** RapidMiner and KNIME are two common examples, and if you've ever done statistical analysis in SPSS, you know you can do everything with the dropdown menus, but you also have the option of writing syntax, the SPSS built in programming.
+> **[2:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=154)** RapidMiner and [[Knime]] are two common examples, and if you've ever done [[Statistical Analysis]] in SPSS, you know you can do everything with the dropdown menus, but you also have the option of writing syntax, the SPSS built in programming.
 >
 > **[2:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=170)** And you can use R and Python in SPSS as well.
 >
 > **[2:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=175)** So that would be another example of a low code solution.
 >
-> **[2:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=179)** And then finally, overlapping with this, there is the category of Auto-ML for automated machine learning.
+> **[2:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=179)** And then finally, overlapping with this, there is the category of Auto-ML for [[Automated Machine Learning (AutoML)|automated machine learning]].
 >
 > **[3:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=187)** And this includes no-code ML, so Google AutoML as an example.
 >
@@ -3818,7 +3784,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=244)** AutoGluon is open source toolkit developed by Amazon.
 >
-> **[4:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=248)** And Microsoft's Neural NetworkIintelligence, or NNI, it's an open source toolkit that performs efficient neural network search and hyper parameter tuning.
+> **[4:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=248)** And [[Microsoft]]'s Neural NetworkIintelligence, or NNI, it's an open source toolkit that performs efficient neural network search and hyper parameter tuning.
 >
 > **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/alternatives-to-programming-low-code-no-code-and-automl?u=76281980&t=258)** So there are other options as well.
 >
@@ -3828,7 +3794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (4), [[Programming]] (3), [[Algorithms]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (3), [[Algorithms]] (2), [[Google]] (2), [[Data Preparation]] (1)
 > **CLI Commands:** python (4), make (3)
 > **Env Vars:** spss (3), knime (1), h2o (1), nni (1)
 > **Analogies:** for example (1), for instance (1), it's like (1)
@@ -3837,8 +3803,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980)
+#### [MLOps](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3852,13 +3817,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=23)** And if you're trying to produce thousands of rugs or thousands of yards of fabric, you need to scale up to a well developed and largely automated approach, so you can both meet the demand and ensure quality at that level of output.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=39)** In the software world, the corresponding approach that aims to get products out at scale and with constant improvement is known as DevOps, which is a combination of development or the programming part and operations, which is the information technology part that supports the lifecycle of the product.
+> **[0:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=39)** In the software world, the corresponding approach that aims to get [[Microsoft Products|products]] out at scale and with constant improvement is known as [[DevOps]], which is a combination of development or the programming part and operations, which is the information technology part that supports the lifecycle of the product.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=60)** A similar approach is used for products like social media sites and consumer data products.
 >
 > **[1:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=65)** Think, for instance, of fitness trackers or online chatbots that are data products, meaning they rely on incoming data in order to produce the outcome.
 >
-> **[1:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=75)** In this case, the approach is referred to as MLOps or machine learning operations.
+> **[1:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=75)** In this case, the approach is referred to as [[MLOps]] or machine learning operations.
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=83)** Now, the beautiful thing about this approach is that it really facilitates integration.
 >
@@ -3866,13 +3831,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=106)** In addition, there's the technical aspect.
 >
-> **[1:48](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=108)** Maybe you have onsite computing and maybe you have cloud computing systems, and maybe you even have edge or on-device machine learning on a person's phone or in sensors, and you need to integrate both the programming for these and the data coming in from each of them to make your algorithms work well.
+> **[1:48](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=108)** Maybe you have onsite computing and maybe you have [[Cloud Computing]] systems, and maybe you even have edge or on-device machine learning on a person's phone or in sensors, and you need to integrate both the programming for these and the data coming in from each of them to make your [[Algorithms]] work well.
 >
 > **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=127)** MLOps makes this much easier.
 >
-> **[2:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=132)** MLOps also addresses quality by looking at continuous integration, or CI, and continuous deployment, or CD.
+> **[2:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=132)** MLOps also addresses quality by looking at [[Continuous Integration (CI)|continuous integration]], or CI, and continuous deployment, or CD.
 >
-> **[2:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=141)** Not surprisingly, if you're familiar with Agile methodologies, that's a big part of what goes into both DevOps and into MLOps.
+> **[2:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=141)** Not surprisingly, if you're familiar with [[Agile Development|Agile]] methodologies, that's a big part of what goes into both DevOps and into MLOps.
 >
 > **[2:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=151)** It makes it easier, for instance, to be responsive to changes in the regulations and consumer preferences and behaviors, the competitive environment, staffing, any number of issues.
 >
@@ -3888,7 +3853,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=203)** And in addition to that, if you have a lot of different containers, then you're going to need a method of orchestrating or organizing the work between the containers.
 >
-> **[3:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=211)** And a very common one is Kubernetes, which coordinates the deployment, the scaling, and the management of container-based systems in MLOps, the same way it does in DevOps.
+> **[3:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=211)** And a very common one is [[Kubernetes]], which coordinates the deployment, the scaling, and the management of container-based systems in MLOps, the same way it does in DevOps.
 >
 > **[3:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=223)** The beautiful thing about all of this is it makes it so that your systems, instead of being 1% at a time, can be automated as much as possible.
 >
@@ -3898,19 +3863,18 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=251)** And it makes it easier to develop systems that are explainable because you have this consistency and you understand better what's going into things, and the collaboration between the different people is much clearer and more organized.
 >
-> **[4:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=265)** It gives you a better high-quality product, and so when you're working in a large scale development environment with a lot of people, and you're working with many different systems, these very basic concepts from DevOps as adapted to data science and machine learning operations can be a wonderful way to organize your projects and get things running up quickly at scale and at high quality.
+> **[4:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/mlops?u=76281980&t=265)** It gives you a better high-quality product, and so when you're working in a large scale development environment with a lot of people, and you're working with many different systems, these very basic concepts from DevOps as adapted to [[Data Science]] and machine learning operations can be a wonderful way to organize your projects and get things running up quickly at scale and at high quality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (8), data (7), [[Microsoft Products|Products]] (4), [[DevOps]] (4), product (3)
+> **Frameworks & Libraries:** [[MLOps]] (8), [[Microsoft Products|Products]] (4), [[DevOps]] (4), [[Algorithms]] (2), [[Agile Development|Agile]] (2)
 > **CLI Commands:** docker (2), make (1), cd (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** for instance (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning and AI as a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980)
+#### [Machine learning and AI as a service](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3934,33 +3898,33 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=45)** And before you know it, you are running your billion dollar tech company from your cell phone.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=51)** Now, one of the most important developments in the internet area has been SaaS or software-as-a-service.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=51)** Now, one of the most important developments in the internet area has been [[SaaS]] or software-as-a-service.
 >
-> **[0:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=58)** Just think of anytime you've used an online application like Excel Online, instead of an application installed locally on your own computer, like the regular version of Excel.
+> **[0:58](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=58)** Just think of anytime you've used an online application like [[Microsoft Excel|Excel]] Online, instead of an application installed locally on your own computer, like the regular version of Excel.
 >
-> **[1:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=69)** And now, not surprisingly, similar revolutions are happening in the data science, machine learning, and AI world.
+> **[1:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=69)** And now, not surprisingly, similar revolutions are happening in the [[Data Science]], machine learning, and AI world.
 >
-> **[1:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=75)** So for instance, you have MLaaS, machine learning as a service, and this is where you're taking your machine learning processes and making them as products to be sold to businesses or to end user consumers.
+> **[1:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=75)** So for instance, you have MLaaS, machine learning as a service, and this is where you're taking your machine learning processes and making them as [[Microsoft Products|products]] to be sold to businesses or to end user consumers.
 >
 > **[1:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=91)** And there's a related approach, at least linguistically, of AIaaS.
 >
-> **[1:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=96)** This is artificial intelligence as a service.
+> **[1:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=96)** This is [[Artificial Intelligence (AI)|artificial intelligence]] as a service.
 >
 > **[1:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=99)** The difference here is that AIaaS is usually not targeted towards the end consumer, but is used as something within the organization in their development environment.
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=109)** That said, both of these terms started showing up on Google Trends as search terms right around 2016 and have increased since then.
+> **[1:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=109)** That said, both of these terms started showing up on [[Google]] Trends as search terms right around 2016 and have increased since then.
 >
-> **[1:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=119)** Not surprisingly, AIaaS has exploded in popularity since late 2022 when ChatGPT came out.
+> **[1:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=119)** Not surprisingly, AIaaS has exploded in popularity since late 2022 when [[ChatGPT]] came out.
 >
 > **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=127)** And no doubt, both of them will continue to grow and be adapted both for the business models and for the consumer models.
 >
 > **[2:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=136)** And as you might guess, every major cloud data provider has their offerings for machine learning as a service and/or artificial intelligence as a service.
 >
-> **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=147)** These included Microsoft Azure, AWS, Google Chrome, IBM Watson.
+> **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=147)** These included [[Microsoft Azure]], AWS, Google Chrome, IBM Watson.
 >
 > **[2:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=152)** And really, these are all collections of services.
 >
-> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=155)** So for example, Amazon AWS includes SageMaker for machine learning, Rekognition with a K for computer vision, Comprehend for natural language processing.
+> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=155)** So for example, Amazon AWS includes SageMaker for machine learning, Rekognition with a K for [[Computer Vision]], Comprehend for [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[2:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=166)** And the same is true for each of these collections of offerings.
 >
@@ -3972,13 +3936,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=194)** All of these providers have developed ready-made, prepackaged systems that make it possible for you to simply integrate this into your website, integrate it into your software, and get it up and running for final consumers in a very quick timeframe.
 >
-> **[3:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=210)** And needless to say, in addition to these machine learning offerings, there's the entire revolution of generative AI where each provider is trying to put together pre-packaged solutions that can be used by people to do generative AI within their different contexts and with their different audiences.
+> **[3:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=210)** And needless to say, in addition to these machine learning offerings, there's the entire revolution of [[Generative AI]] where each provider is trying to put together pre-packaged solutions that can be used by people to do generative AI within their different contexts and with their different audiences.
 >
 > **[3:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=231)** And there are a lot of advantages to all of these approaches.
 >
-> **[3:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=235)** Number one, they put the analysis, they put the algorithms, they put the modeling right where the data is stored so you don't have to copy and move things around.
+> **[3:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=235)** Number one, they put the analysis, they put the [[Algorithms]], they put the modeling right where the data is stored so you don't have to copy and move things around.
 >
-> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=245)** Also, because these are almost always based on cloud computing, they have very flexible computing requirements.
+> **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=245)** Also, because these are almost always based on [[Cloud Computing]], they have very flexible computing requirements.
 >
 > **[4:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/machine-learning-and-ai-as-a-service?u=76281980&t=252)** You only pay for as much storage as you use.
 >
@@ -3996,7 +3960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (3), application (2), [[Microsoft Excel|Excel]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (2), [[Generative AI]] (2), [[SaaS]] (1)
 > **CLI Commands:** aws (2), make (2)
 > **Env Vars:** aws (2), eniac (1), ibm (1)
 > **Analogies:** for instance (2), for example (1), picture (1)
@@ -4008,14 +3972,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sampling and probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980)
+#### [Sampling and probability](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=0)** - [Instructor] AI and data science are amazing, but things don't always go as expected.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=0)** - [Instructor] AI and [[Data Science]] are amazing, but things don't always go as expected.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=7)** Algorithms crash or can produce severely biased results that lead to very embarrassing PR problems for your organization.
+> **[0:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=7)** [[Algorithms]] crash or can produce severely biased results that lead to very embarrassing PR problems for your organization.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=15)** And part of this problem, especially with bias, can be traced to sampling issues.
 >
@@ -4023,7 +3986,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=34)** And the easiest way, at least in theory, to get a representative sample is through simple random sampling, which is not to be confused with haphazard or convenience sampling.
 >
-> **[0:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=46)** A simple random sample draws from a large population, say for example, a complete list of customer transactions or social media followers, and draws from that list with an equal probability for every case.
+> **[0:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=46)** A simple random sample draws from a large population, say for example, a complete list of customer transactions or social media followers, and draws from that list with an equal [[Probability]] for every case.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=60)** This is done repeatedly until you have the number of observations that you need for whatever procedure.
 >
@@ -4061,7 +4024,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=235)** All of this should serve as a reminder that the results of any analysis or model are inherently probabilistic.
 >
-> **[4:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=244)** They are not guaranteed to be exactly the same, except maybe in the case of a highly controlled simulation, but that's not what you were looking for in the first place.
+> **[4:04](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=244)** They are not guaranteed to be exactly the same, except maybe in the case of a highly controlled [[Simulation]], but that's not what you were looking for in the first place.
 >
 > **[4:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980&t=254)** Every model is an approximation of reality.
 >
@@ -4077,7 +4040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Probability]] (4), ai (1), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Data Science]] (3), [[Algorithms]] (1), [[Simulation]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -4085,8 +4048,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Algebra
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980)
+#### [Algebra](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4094,7 +4056,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=16)** In that case, you need a more flexible approach, and this is where algebra can come to the rescue.
 >
-> **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=24)** There are two reasons that it's important to understand algebra and data science.
+> **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=24)** There are two reasons that it's important to understand algebra and [[Data Science]].
 >
 > **[0:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=27)** Number one is it allows you to scale up.
 >
@@ -4112,7 +4074,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=66)** An algebraic equation looks like this.
 >
-> **[1:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=69)** This in fact is a linear regression equation, but what we're doing is we're using letters to stand in for numbers.
+> **[1:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=69)** This in fact is a [[Linear Regression]] equation, but what we're doing is we're using letters to stand in for numbers.
 >
 > **[1:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=75)** That actually is an interesting thing because a lot of people think that people who work in mathematics and work in data work with numbers all the time.
 >
@@ -4140,7 +4102,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=159)** That's how your computer likes to see math and how it processes it.
 >
-> **[2:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=164)** This is what's known as linear algebra.
+> **[2:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=164)** This is what's known as [[Linear Algebra]].
 >
 > **[2:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=167)** It works with matrices and vectors.
 >
@@ -4216,7 +4178,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=352)** Now, one of the neat things about matrix notation is that it's like packing a suitcase.
 >
-> **[5:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=357)** You can go from lots of different individual things into a much more compact and maneuverable and agile package.
+> **[5:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=357)** You can go from lots of different individual things into a much more compact and maneuverable and [[Agile Development|agile]] package.
 >
 > **[6:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=366)** This is matrix notation, and what it is here is this is the same information that I showed you just a moment ago, except now you see how it's in bold.
 >
@@ -4234,7 +4196,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=416)** Number one is it allows you to choose procedures well.
 >
-> **[7:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=420)** You can note which algorithms will work best with the data that you currently have to answer the questions that motivated your project in the first place.
+> **[7:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=420)** You can note which [[Algorithms]] will work best with the data that you currently have to answer the questions that motivated your project in the first place.
 >
 > **[7:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/algebra?u=76281980&t=430)** And the second one is it can help you resolve problems.
 >
@@ -4242,21 +4204,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (6), [[Linear Algebra]] (2), [[Linear Regression]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Linear Algebra]] (2), [[Linear Regression]] (1), [[Agile Development|Agile]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (9), is an  (2), stands for (2), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Calculus
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/calculus?u=76281980)
+#### [Calculus](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/calculus?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/calculus?u=76281980&t=1)** - [Instructor] You may have the best product or service in the world, but if you want to get paid, you've got to make the sale and you've got to do it in a way that's profitable for you.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/calculus?u=76281980&t=10)** Surprisingly, calculus may be one of the things to help you do just that.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/calculus?u=76281980&t=10)** Surprisingly, [[Calculus]] may be one of the things to help you do just that.
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/calculus?u=76281980&t=16)** The idea here is that calculus is involved any time you're trying to do a maximization and minimization when you're trying to find the balance between these disparate demands.
 >
@@ -4350,15 +4311,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Calculus]] (5), product (1), next (1)
+> **Frameworks & Libraries:** [[Calculus]] (5)
 > **CLI Commands:** find (4), make (2)
 > **Versions:** 22.5 (2), 1.225 (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimization and the combinatorial explosion
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980)
+#### [Optimization and the combinatorial explosion](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4408,13 +4368,13 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=157)** There are a few simple ways of approaching this.
 >
-> **[2:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=159)** Number one is just to go into Excel.
+> **[2:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=159)** Number one is just to go into [[Microsoft Excel|Excel]].
 >
 > **[2:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=161)** If you can estimate a basic function, you can use trial and error to modeling the function and look for a local maximum.
 >
 > **[2:48](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=168)** Excel also has what if functions and scenarios that help you do that.
 >
-> **[2:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=173)** You can also use calculus for simple functions.
+> **[2:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=173)** You can also use [[Calculus]] for simple functions.
 >
 > **[2:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=176)** You can use a calculus based approach that I've demonstrated elsewhere.
 >
@@ -4472,11 +4432,11 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=347)** This is a way of reaching a conclusion about the optimal way of allocating your time, maybe even recruiting a team without having to go through billions and billions of possibilities.
 >
-> **[5:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=359)** That's one of the beauties of data analysis and data science to help you cut through the mess and find the most direct way to the goals that are important to you.
+> **[5:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/optimization-and-the-combinatorial-explosion?u=76281980&t=359)** That's one of the beauties of data analysis and [[Data Science]] to help you cut through the mess and find the most direct way to the goals that are important to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Calculus]] (2), [[Programming]] (2), data (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Calculus]] (2), [[Data Science]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **Prerequisites:** you need to have (1), set up (1)
@@ -4485,8 +4445,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bayes' theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980)
+#### [Bayes' theorem](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4494,9 +4453,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980&t=3)** You put in a lifetime of training, weeks of preparation for an event, and even when you've done the very best, you can never be completely certain that everything is going to work out exactly the way you wanted it to.
 >
-> **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980&t=14)** There's a certain element of luck or probability associated with it.
+> **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980&t=14)** There's a certain element of luck or [[Probability]] associated with it.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980&t=18)** It's the same thing in data science.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980&t=18)** It's the same thing in [[Data Science]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bayes-theorem?u=76281980&t=21)** No matter how big your dataset, no matter how sophisticated your analysis and the resources available to your organization, there's still an inescapable element of probability.
 >
@@ -4588,7 +4547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), data (6), next (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Data Science]] (3)
 > **Versions:** 4.5 (4), 9.5 (2), 32.1 (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -4599,16 +4558,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supervised, unsupervised, and reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980)
+#### [Supervised, unsupervised, and reinforcement learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=0)** - [Instructor] People can be very enthusiastic about data science, and sometimes a little too enthusiastic, and they sometimes seems to confuse data science with magic.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=0)** - [Instructor] People can be very enthusiastic about [[Data Science]], and sometimes a little too enthusiastic, and they sometimes seems to confuse data science with magic.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=11)** But as it turns out, data science doesn't involve genies in a bottle, it doesn't involve fairy dust.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=17)** Instead, it involves algorithms and machine learning.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=17)** Instead, it involves [[Algorithms]] and machine learning.
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=23)** Algorithms are just a series of decisions, not too different from this flowchart.
 >
@@ -4618,7 +4576,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=57)** And for our purposes, I want to briefly introduce three versions of machine learning, three general categories.
 >
-> **[1:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=66)** The first is supervised learning.
+> **[1:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=66)** The first is [[Supervised Learning]].
 >
 > **[1:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=68)** This is where you are classifying new cases into pre-existing labeled categories.
 >
@@ -4628,7 +4586,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=98)** So you have a defined category or outcome.
 >
-> **[1:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=102)** And supervised learning can involve methods as simple as regression, logistic regression, or linear regression, or something as complicated as a deep learning neural network.
+> **[1:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=102)** And supervised learning can involve methods as simple as regression, [[Logistic Regression]], or [[Linear Regression]], or something as complicated as a [[Deep Learning]] neural network.
 >
 > **[1:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=114)** Next is unsupervised learning.
 >
@@ -4638,13 +4596,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=125)** You're just putting like with like, like sorting fruit, put the same kind with each other.
 >
-> **[2:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=131)** So good examples of this are the various forms of clustering methods or dimensionality reduction, where you have a lot of different variables in your dataset and you're trying to reduce it to a smaller composite amount to make your life a little easier.
+> **[2:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=131)** So good examples of this are the various [[Forms]] of clustering methods or dimensionality reduction, where you have a lot of different variables in your dataset and you're trying to reduce it to a smaller composite amount to make your life a little easier.
 >
 > **[2:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=145)** Also, anomaly detection.
 >
 > **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=147)** Finding things that stick out from the pattern, possibly as something going wrong with the system or maybe as an indicator of a niche, where there might be more value that you haven't explored.
 >
-> **[2:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=159)** And then the third general category is reinforcement learning.
+> **[2:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=159)** And then the third general category is [[Reinforcement Learning]].
 >
 > **[2:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980&t=164)** And these are algorithms that help computers to play Go.
 >
@@ -4656,13 +4614,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), [[Supervised Learning]] (3), [[Reinforcement Learning]] (2), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Algorithms]] (4), [[Supervised Learning]] (3), [[Reinforcement Learning]] (2), [[Logistic Regression]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Descriptive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980)
+#### [Descriptive analytics](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4676,7 +4633,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=23)** On the other hand, they're not very good at spotting general patterns in data.
 >
-> **[0:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=26)** There are some ways around that, but it's not one of the strong points of algorithms.
+> **[0:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=26)** There are some ways around that, but it's not one of the strong points of [[Algorithms]].
 >
 > **[0:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=31)** Human decision makers, on the other hand, are very good at finding patterns and connecting the data to outside situations.
 >
@@ -4692,7 +4649,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=60)** It's a little like cleaning up the mess in your data to find clarity in the meaning of what you have.
 >
-> **[1:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=67)** And I like to think that there are three very general steps to descriptive statistics.
+> **[1:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=67)** And I like to think that there are three very general steps to descriptive [[Statistics]].
 >
 > **[1:11](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=71)** Number one, visualize your data.
 >
@@ -4710,9 +4667,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=94)** I'm not trying to teach you all of the details of every procedure.
 >
-> **[1:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=97)** Rather, I'm trying to give you a map, an overview, of what's involved in data science.
+> **[1:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=97)** Rather, I'm trying to give you a map, an overview, of what's involved in [[Data Science]].
 >
-> **[1:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=103)** We have excellent resources here at LinkedIn Learning, and when you find something that looks like it's going to be useful for you, I encourage you to go find some of the other resources that can give you the step-by-step detail you need.
+> **[1:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=103)** We have excellent resources here at [[LinkedIn]] Learning, and when you find something that looks like it's going to be useful for you, I encourage you to go find some of the other resources that can give you the step-by-step detail you need.
 >
 > **[1:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=115)** Right now, we're trying to get a feel for what is possible and what sorts of things you can integrate.
 >
@@ -4726,9 +4683,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=150)** The bell curve, which is high in the middle, tapers off nicely to each side, It doesn't have any big outliers.
 >
-> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=155)** It is a common occurrence, and it forms the basis of a lot of methods for analyzing data.
+> **[2:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=155)** It is a common occurrence, and it [[Forms]] the basis of a lot of methods for analyzing data.
 >
-> **[2:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=162)** On the other hand, if you're working with something like financial data, you're going to have a lot of positively skewed distributions.
+> **[2:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=162)** On the other hand, if you're working with something like [[Financial Data]], you're going to have a lot of positively skewed distributions.
 >
 > **[2:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=169)** Most of the numbers are at the low end and a very small number go very, very high up.
 >
@@ -4776,7 +4733,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=258)** If you put these as actual boxes on a seesaw, the mean is where it's going to balance, and in this case, it's exactly at 4.
 >
-> **[4:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=266)** It's going to rest flat at that point.
+> **[4:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=266)** It's going to [[Representational State Transfer (REST)|rest]] flat at that point.
 >
 > **[4:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/descriptive-analytics?u=76281980&t=269)** And so these are very common procedures.
 >
@@ -4812,7 +4769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Statistics]] (3), business (1), [[Algorithms]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data Science]] (2), [[Algorithms]] (1), [[LinkedIn]] (1), [[Forms]] (1)
 > **CLI Commands:** find (5), make (2)
 > **Analogies:** imagine (1), for instance (1), such as (1)
 > **Definitions:** is a  (2)
@@ -4821,8 +4778,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Clustering techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980)
+#### [Clustering techniques](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4886,9 +4842,9 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=207)** And these are different ways of thinking about the kinds of things that people think about in the way that they behave.
 >
-> **[3:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=214)** Now, you could use psychological characteristics or maybe you could group states by, for instance, how they search for things online, which might be more relevant if you're doing e-commerce.
+> **[3:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=214)** Now, you could use psychological characteristics or maybe you could group states by, for instance, how they search for things online, which might be more relevant if you're doing [[E-Commerce]].
 >
-> **[3:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=224)** So I went to Google Correlate and I chose a dozen search terms that I thought might roughly correspond to the big five personality factors.
+> **[3:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=224)** So I went to [[Google]] Correlate and I chose a dozen search terms that I thought might roughly correspond to the big five personality factors.
 >
 > **[3:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=232)** And what the data tells you is the relative popularity of each search term on a state-by-state basis.
 >
@@ -4918,13 +4874,13 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=316)** Mostly, I want you to be aware that these alternatives exist and they can be useful in different situations for putting your data together.
 >
-> **[5:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=326)** And it's worth mentioning also the transformer-based methods, that is, generative AI methods have also influenced clustering abilities.
+> **[5:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=326)** And it's worth mentioning also the transformer-based methods, that is, [[Generative AI]] methods have also influenced clustering abilities.
 >
 > **[5:34](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=334)** One of the most interesting things about that is they are able to act like they have an understanding of the context.
 >
 > **[5:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=341)** So transformers work with high-dimensional embeddings.
 >
-> **[5:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=344)** They work with thousands or millions of variables at once, and they can work at long range longer than other algorithms can.
+> **[5:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=344)** They work with thousands or millions of variables at once, and they can work at long range longer than other [[Algorithms]] can.
 >
 > **[5:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/clustering-techniques?u=76281980&t=352)** One interesting thing about that is they can build associations between cases, not just on the raw data, but on the semantics, the meaning and the concepts.
 >
@@ -4946,15 +4902,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (3), next (1), [[E-Commerce]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Google]] (1), [[Generative AI]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dimensionality reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980)
+#### [Dimensionality reduction](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4966,7 +4921,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=26)** That's enough people, enough instruments to fill all the sonic regions without overwhelming with too much information and resulting in cacophony.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=38)** Jumping way ahead in time, there's a similar problem in data science.
+> **[0:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=38)** Jumping way ahead in time, there's a similar problem in [[Data Science]].
 >
 > **[0:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=43)** We think of data coming down in a matrix-like stream here as really cool, but it's hard to get meaning out of it, and it's hard to know what to do as a result of it.
 >
@@ -5034,7 +4989,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=247)** And not surprisingly, AI approaches work into dimension reduction as well.
 >
-> **[4:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=252)** Generative AI approaches, as I've mentioned elsewhere, thrive on high-dimensional data.
+> **[4:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=252)** [[Generative AI]] approaches, as I've mentioned elsewhere, thrive on high-dimensional data.
 >
 > **[4:18](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=258)** Again, not just dozens or hundreds, but potentially billions of variables or fields.
 >
@@ -5058,7 +5013,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=336)** and that allows them to, again, use things like multimedia images, audio, video, and not just text or numbers.
 >
-> **[5:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=345)** Also, they're able to do probabilistic models where they're able to transform each of the individual data points from just a point in a multidimensional space to a probability distribution, which allows it to do an entirely different way of measuring the overlap between points and finding the common dimensions between them.
+> **[5:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=345)** Also, they're able to do probabilistic models where they're able to transform each of the individual data points from just a point in a multidimensional space to a [[Probability]] distribution, which allows it to do an entirely different way of measuring the overlap between points and finding the common dimensions between them.
 >
 > **[6:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/dimensionality-reduction?u=76281980&t=366)** But remember a few things.
 >
@@ -5094,15 +5049,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (4), [[Generative AI]] (2), power (2), feature (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Generative AI]] (2), [[Probability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pca (1), gpt (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anomaly detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980)
+#### [Anomaly detection](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5120,7 +5074,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=46)** It's also an example of serendipity or the unexpected insight that can come along.
 >
-> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=52)** Well-known examples of serendipity include Silly Putty, Velcro, popsicles, and of course, the Post-it notes that every office has.
+> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=52)** Well-known examples of serendipity include Silly Putty, Velcro, popsicles, and of course, the Post-it notes that every [[Microsoft Office|office]] has.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=60)** You can think about these as trying to find anomalies, unusual things, and latching onto them.
 >
@@ -5142,13 +5096,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=115)** Any of these can be ways of identifying these anomalies and responding appropriately to them.
 >
-> **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=121)** And when you do that, it brings up the usual suspects, the usual methods for analyzing data and data science, things like regression.
+> **[2:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=121)** And when you do that, it brings up the usual suspects, the usual methods for analyzing data and [[Data Science]], things like regression.
 >
 > **[2:09](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=129)** Does this particular observation fit well with the prediction or is there a large error?
 >
-> **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=134)** You can do Bayesian analysis to get a posterior probability that this is a fraudulent transaction.
+> **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=134)** You can do Bayesian analysis to get a posterior [[Probability]] that this is a fraudulent transaction.
 >
-> **[2:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=140)** You can do hierarchical clustering or even do neural networks as a way of finding how well the data fits these known patterns.
+> **[2:20](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=140)** You can do hierarchical clustering or even do [[Neural Networks]] as a way of finding how well the data fits these known patterns.
 >
 > **[2:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=148)** And if it doesn't, you may have an anomaly.
 >
@@ -5164,7 +5118,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=181)** The second thing is difficult data.
 >
-> **[3:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=183)** You may not be dealing just with a nice SQL database.
+> **[3:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=183)** You may not be dealing just with a nice [[SQL]] database.
 >
 > **[3:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=186)** You may have biometrics data, you may have multimedia data.
 >
@@ -5184,9 +5138,9 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=245)** The mode of transportation they're on by getting the vibration through the accelerometer, or an interesting one is a signature of their name, or a person trying to find the cursor on their computer is in fact a signature that can be measured and stored and new data can be compared against that.
 >
-> **[4:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=261)** And of course, generative AI methods have also had an impact on these problems as well.
+> **[4:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=261)** And of course, [[Generative AI]] methods have also had an impact on these problems as well.
 >
-> **[4:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=267)** So for instance, transformer-based methods, which are at the heart of generative AI, and, specifically, variational autoencoders, that's VAEs, and generative adversarial networks, GANs or GANs, they excel at finding multidimensional patterns, and that's one of the major things we're dealing with right here.
+> **[4:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=267)** So for instance, transformer-based methods, which are at the heart of generative AI, and, specifically, variational autoencoders, that's VAEs, and [[Generative Adversarial Networks (GANs)|generative adversarial networks]], GANs or GANs, they [[Microsoft Excel|excel]] at finding multidimensional patterns, and that's one of the major things we're dealing with right here.
 >
 > **[4:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=289)** Also, they can work with unlabeled data.
 >
@@ -5196,7 +5150,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=302)** But AI methods are often able to infer labels all on their own and kind of get up and running immediately.
 >
-> **[5:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=310)** In addition, these generative methods can synthesize data that is make new additional data that resembles the rest for rare cases and for rare events, that allows it to do the same kind of analysis on things that maybe there wasn't enough data beforehand.
+> **[5:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=310)** In addition, these generative methods can synthesize data that is make new additional data that resembles the [[Representational State Transfer (REST)|rest]] for rare cases and for rare events, that allows it to do the same kind of analysis on things that maybe there wasn't enough data beforehand.
 >
 > **[5:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=329)** And it can come up with a good synthesized version of the data to give you the amount of data you need for the models to run.
 >
@@ -5204,7 +5158,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=339)** Number one is these generative methods are very flexible and very powerful, and they can incorporate data about context because they're able to get all the information, what's going on, and they're able to make inferences about that.
 >
-> **[5:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=353)** Also, they can support a version of causal inference, meaning they have enough understanding about what a causal relationship looks like, and they have enough data available to them that they can make, again, reasonable estimates of whether there is a cause and effect relationship and the nature that's there.
+> **[5:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=353)** Also, they can support a version of [[Causal Inference]], meaning they have enough understanding about what a causal relationship looks like, and they have enough data available to them that they can make, again, reasonable estimates of whether there is a cause and effect relationship and the nature that's there.
 >
 > **[6:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=372)** In addition, they can generate natural language explanations.
 >
@@ -5214,21 +5168,20 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=390)** And then finally, the large foundation models, ThinkGPT, because they are already trained on a vast amount of data in a vast amount of situations, are able to get launched immediately, and can spot what are called zero-day attacks, the first time the attack shows up, it can identify that anomaly.
 >
-> **[6:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=410)** Needless to say, fraud detection's a cat and mouse game, so there's constant research and progress in data science to deal with new methods of fraud and harnessing the evolving capabilities of machines and algorithms.
+> **[6:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=410)** Needless to say, fraud detection's a cat and mouse game, so there's constant research and progress in data science to deal with new methods of fraud and harnessing the evolving capabilities of machines and [[Algorithms]].
 >
 > **[7:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/anomaly-detection?u=76281980&t=421)** And that means that you'll want to stay in touch with the resources available here to learn the specific details about the latest and greatest methods in data science for things like fraud detection and any kind of anomaly detection, including the potential for new discoveries via serendipity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Generative AI]] (2), [[Microsoft Office|Office]] (1), [[Probability]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Generative AI]] (2), [[Microsoft Office|Office]] (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (5), find (2), cat (1)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trend analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980)
+#### [Trend analysis](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5270,7 +5223,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=127)** You can also have logarithmic trends that rise rapidly at first, but slow down as it approaches a ceiling, like operating at 100% capacity if the initial growth is fast.
 >
-> **[2:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=139)** Or a sigmoid, a logistic function, which is used in a number of algorithms.
+> **[2:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=139)** Or a sigmoid, a logistic function, which is used in a number of [[Algorithms]].
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=144)** It starts slowly, it accelerates, then tapers off as limits are reached, such as markets reaching saturation for a new product.
 >
@@ -5280,7 +5233,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=169)** And there's several options for looking at these variations in trend analysis.
 >
-> **[2:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=174)** They include methods like time-series decomposition, ARIMA models, and even neural networks, where you're looking for substantial and perhaps even qualitative changes over time, like a flock of birds that's moving, perching, moving, and so on.
+> **[2:54](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=174)** They include methods like time-series decomposition, ARIMA models, and even [[Neural Networks]], where you're looking for substantial and perhaps even qualitative changes over time, like a flock of birds that's moving, perching, moving, and so on.
 >
 > **[3:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=190)** But let's look at this first method where we're going to try to break things down into their elements to see what's happening with your data over time.
 >
@@ -5310,7 +5263,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=265)** Now, there are certain situations where this is going to make a lot of sense.
 >
-> **[4:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=268)** It depends on what this stock market is actually looking at and how things react in terms of how interpretable this method is, but you can see that there is a seasonal element to it.
+> **[4:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=268)** It depends on what this stock market is actually looking at and how things [[React.js|react]] in terms of how interpretable this method is, but you can see that there is a seasonal element to it.
 >
 > **[4:39](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=279)** And then the last one is the random element that says once you take this smooth general trend and you take the seasonal trend, this is what's left over, and you can see it goes from about 1,000 points down to about 1,000 points up.
 >
@@ -5352,7 +5305,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=444)** So when you're working with time-series data, some variation of an ARIMA model is almost guaranteed to be part of your approach to understanding what's happening with that data.
 >
-> **[7:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=455)** On the other hand, you can also use neural networks, a tool of choice in the data science world these days.
+> **[7:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=455)** On the other hand, you can also use neural networks, a tool of choice in the [[Data Science]] world these days.
 >
 > **[7:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=461)** When you're working with time-series data, two of the most common choices are a recurrent neural network, an RNN, or a multi-layer perceptron, an MLP, and because they're neural networks, you have an input layer, you have one or more hidden layers, and you have an output layer that says what the predicted values are going to be for that point in time.
 >
@@ -5364,21 +5317,21 @@ created: 2026-05-02
 >
 > **[9:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=542)** Then again, data science is a very fast moving field, and especially when you're trying to do something like predict stock market prices, a lot of people are going to spend a lot of effort trying to get just a little bit more advantage.
 >
-> **[9:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=553)** And so even though neural networks have been developed over the last few years, and they're enormously powerful, there are also generative AI methods that have been enormously influential in the last couple of years.
+> **[9:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=553)** And so even though neural networks have been developed over the last few years, and they're enormously powerful, there are also [[Generative AI]] methods that have been enormously influential in the last couple of years.
 >
 > **[9:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=564)** Specifically, these are transformer-based models and they can build on the foundational models.
 >
-> **[9:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=571)** Think again, massive general purpose models like GPT-4 or Llama or Claude that are good with multiple timelines and can learn from just a few examples of the current data, because they already have this huge data store.
+> **[9:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=571)** Think again, massive general purpose models like [[GPT-4]] or [[LLaMA]] or Claude that are good with multiple timelines and can learn from just a few examples of the current data, because they already have this huge data store.
 >
 > **[9:46](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=586)** Now, the two methods that are most common for doing time-series analysis with transformers are not, surprisingly, one called the time-series transformer, or a TST model, and another one is a temporal fusion transformer, or TFT.
 >
 > **[10:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=603)** These are models that have been specifically trained for time-series data, but they're also good at dealing with temporal dependencies and dealing with missing data and some of the other things that can complicate a regular analysis.
 >
-> **[10:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=616)** Also, because generative AI and transforming methods are so good at having these really long contexts, really big windows that they're focusing on, these methods, the TSTs and the TFTs, are also good for really long sequences.
+> **[10:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=616)** Also, because generative AI and transforming methods are so good at having these really long contexts, really big [[Windows]] that they're focusing on, these methods, the TSTs and the TFTs, are also good for really long sequences.
 >
 > **[10:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=631)** So if you have a list that's miles long, it's going to be able to help you sort through that, even if it's piling all over the floor.
 >
-> **[10:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=641)** In addition, even though causality is philosophically not possible with 100% certainty, there are attempts to use transformer-based models for causal inference, often by specifically incorporating counterfactual reasoning in the models.
+> **[10:41](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=641)** In addition, even though causality is philosophically not possible with 100% certainty, there are attempts to use transformer-based models for [[Causal Inference]], often by specifically incorporating counterfactual reasoning in the models.
 >
 > **[10:56](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/trend-analysis?u=76281980&t=656)** That is, if we were to change this thing over here just a little bit, would we get the same outcome, or if we change this thing here, trying a little bit of if/then modifications to see how it affects the model.
 >
@@ -5404,7 +5357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Neural Networks]] (6), next (2), [[Generative AI]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), [[Data Science]] (2), [[Generative AI]] (2), [[Algorithms]] (1), [[React.js|React]] (1)
 > **Env Vars:** arima (12), mlp (2), arma (1), sarima (1), ceramax (1)
 > **Definitions:** is a  (7), means that (2), stands for (1)
 > **CLI Commands:** make (4)
@@ -5413,8 +5366,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
 
-#### Aggregating models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980)
+#### [Aggregating models](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5434,13 +5386,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=70)** And that was true in our situation.
 >
-> **[1:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=74)** This is sometimes called the wisdom of the crowds, although in statistics, it's a function of something called the central limit theorem and the way sampling distributions behave.
+> **[1:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=74)** This is sometimes called the wisdom of the crowds, although in [[Statistics]], it's a function of something called the central limit theorem and the way sampling distributions behave.
 >
 > **[1:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=84)** But the idea is that combining information is nearly always better than individual bits and pieces of information.
 >
-> **[1:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=93)** In data science, the wisdom of the crowd comes in the form of combining the results of several different models of the same dataset trying to predict the same outcome, like maybe a linear regression and a lasso regression and a decision tree and a neural network, again, all using the same data and all predicting the same outcome.
+> **[1:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=93)** In [[Data Science]], the wisdom of the crowd comes in the form of combining the results of several different models of the same dataset trying to predict the same outcome, like maybe a [[Linear Regression]] and a lasso regression and a decision tree and a neural network, again, all using the same data and all predicting the same outcome.
 >
-> **[1:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=113)** Now, one reason why it can be helpful to combine estimates is because just as some people will underestimate the number of coins in a jar like I did, and some people overestimate like my wife did, machine learning algorithms can also miss the mark in a few ways.
+> **[1:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=113)** Now, one reason why it can be helpful to combine estimates is because just as some people will underestimate the number of coins in a jar like I did, and some people overestimate like my wife did, machine learning [[Algorithms]] can also miss the mark in a few ways.
 >
 > **[2:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=128)** There can be underfitting or bias, and that's where your model is too simple and it loses key detail in the data.
 >
@@ -5516,7 +5468,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=428)** All three of these approaches, bagging, boosting, and stacking, have proven to be very effective under different circumstances for combining different predictions to get the wisdom of the crowd in data science.
 >
-> **[7:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=444)** And when it comes to integrating generative AI models, well, you've got some choices there too.
+> **[7:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=444)** And when it comes to integrating [[Generative AI]] models, well, you've got some choices there too.
 >
 > **[7:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=450)** One interesting one is contextual merging.
 >
@@ -5534,7 +5486,7 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=505)** And then there's always the perk of foundational models.
 >
-> **[8:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=508)** These models, again, like GPT-4, have broad contextual awareness.
+> **[8:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=508)** These models, again, like [[GPT-4]], have broad contextual awareness.
 >
 > **[8:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/aggregating-models?u=76281980&t=513)** I mean, again, they basically know everything that's available on the internet for rare cases for small groups, and they're able to explain their choices.
 >
@@ -5560,7 +5512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Algorithms]] (3), [[Linear Regression]] (2), prompt (2), ai (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Algorithms]] (3), [[Linear Regression]] (2), [[Statistics]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (1), it's like (1), for example (1)
 > **CLI Commands:** find (2)
@@ -5568,8 +5520,7 @@ created: 2026-05-02
 > **Versions:** 642.50 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980)
+#### [Validating models](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5585,7 +5536,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=33)** And by the way, that's not to be confused with the identical looking, but functionally distinct umlaut, which softens the sound of a vowel or indicates that you are a heavy metal band.
 >
-> **[0:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=45)** Now, it turns out that there are still a lot of web forms out there that don't like non-ASCII characters, and will tell you that you've entered invalid data.
+> **[0:45](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=45)** Now, it turns out that there are still a lot of web [[Forms]] out there that don't like non-ASCII characters, and will tell you that you've entered invalid data.
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=55)** Well, there are other people whose names have caused problems.
 >
@@ -5607,7 +5558,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=122)** So problems come up, and the systems break down.
 >
-> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=126)** So it's important to check your work, or as it applies to data science and machine learning, it's important to see how well your model works with data that you didn't use to build the model.
+> **[2:06](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=126)** So it's important to check your work, or as it applies to [[Data Science]] and machine learning, it's important to see how well your model works with data that you didn't use to build the model.
 >
 > **[2:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=137)** Donald Knuth, Emeritus Professor of Computer Science from Stanford and the author of "The Art of Computer Programming," put it this way.
 >
@@ -5623,7 +5574,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=195)** And then you take four of the parts to model what might be happening with the fifth one, and then you rotate through.
 >
-> **[3:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=203)** And so every section of the training data has a chance to be the outcome that the rest of them are trying to predict.
+> **[3:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=203)** And so every section of the training data has a chance to be the outcome that the [[Representational State Transfer (REST)|rest]] of them are trying to predict.
 >
 > **[3:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=210)** This is considered a very good strategy.
 >
@@ -5641,7 +5592,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=242)** And when you think you've gotten something that hits the mark, you test it on the holdout data, and that gives you the best impression of how well your model will generalize to new situations.
 >
-> **[4:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=254)** You can also think of in the bag and out of the bag data, which is something that applies in certain algorithms.
+> **[4:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=254)** You can also think of in the bag and out of the bag data, which is something that applies in certain [[Algorithms]].
 >
 > **[4:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=261)** So, in the bag data is the data that is used to build a model.
 >
@@ -5649,7 +5600,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=268)** And in bagging algorithms, or bootstrapped aggregates, these are randomly selected cases from your overall data that you used to build the model.
 >
-> **[4:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=276)** And it's often used with random forest models or collections of decision trees.
+> **[4:36](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=276)** And it's often used with random forest models or collections of [[Decision Trees]].
 >
 > **[4:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/validating-models?u=76281980&t=282)** So, in the bag data is the data that is used to build the current model.
 >
@@ -5667,7 +5618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Algorithms]] (2), web (1), [[Forms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Algorithms]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Decision Trees]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for instance (3), think of it as (1)
 > **Env Vars:** ascii (1), oob (1)
@@ -5678,8 +5629,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative Adversarial Networks (GANs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980)
+#### [Generative Adversarial Networks (GANs)](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5737,7 +5687,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=183)** Now, there are a number of use cases, and I'll start with what you might call the legitimate use cases.
 >
-> **[3:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=190)** And that is, you can use these generative adversarial networks, or GANs, to upscale images and videos.
+> **[3:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=190)** And that is, you can use these [[Generative Adversarial Networks (GANs)|generative adversarial networks]], or GANs, to upscale images and videos.
 >
 > **[3:17](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=197)** Say you got a low-resolution photo or a low-resolution digital video, it can fill in the details enough to make it so everything is high resolutions 4K.
 >
@@ -5745,7 +5695,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=215)** I don't even know if these are real shoes.
 >
-> **[3:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=217)** A GAN could create products that look real and images that look real.
+> **[3:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=217)** A GAN could create [[Microsoft Products|products]] that look real and images that look real.
 >
 > **[3:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=224)** They're also useful for creating realistic animated movies.
 >
@@ -5783,7 +5733,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=359)** For that reason, as productive as GANs have been, people have tried to apply some other generative models.
 >
-> **[6:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=368)** So for instance, the transformer models that are central to GPT.
+> **[6:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=368)** So for instance, the [[Transformer Models]] that are central to GPT.
 >
 > **[6:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=374)** Now, these models have found to be more stable and more consistent because they don't use the adversarial approach of GANs.
 >
@@ -5813,7 +5763,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=446)** Another approach is diffusion models.
 >
-> **[7:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=450)** If you think about DALL-E, Midjourney, and Stable Diffusion that are used to generate AI images like this, they work through this unusual process of taking the original data, and they kind of go backwards.
+> **[7:30](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=450)** If you think about [[DALL-E]], [[Midjourney]], and [[Stable Diffusion]] that are used to generate AI images like this, they work through this unusual process of taking the original data, and they kind of go backwards.
 >
 > **[7:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=463)** They add a lot of noise to the data until it's pure noise, and then they try to remove noise gradually to get back to something that looks identifiable.
 >
@@ -5839,7 +5789,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=539)** That doesn't mean we shouldn't have GANs.
 >
-> **[9:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=541)** GANs are able to do so much of the magic of data science.
+> **[9:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=541)** GANs are able to do so much of the magic of [[Data Science]].
 >
 > **[9:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980&t=545)** And I like to think that with great promise, the ability to have computers do things that we just didn't even think were possible, comes great risk and a great need to be mindful of how this is used.
 >
@@ -5849,15 +5799,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Transformer Models]] (5), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (3), ai (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Transformer Models]] (5), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (3), [[Microsoft Products|Products]] (1), [[DALL-E]] (1), [[Midjourney]] (1)
 > **Definitions:** is a  (4), is called (2), is an  (2), means that (1)
 > **Analogies:** for instance (4), picture (1), kind of like (1)
 > **Env Vars:** gan (1), gpt (1), dall (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980)
+#### [Reinforcement learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5867,13 +5816,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=14)** It's a moment that is incredible, both for its technical accomplishments as well as for its ability to make me feel even more discoordinated than usual.
 >
-> **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=24)** But reinforcement learning is the key to a whole realm of extraordinary accomplishments in data science.
+> **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=24)** But [[Reinforcement Learning]] is the key to a whole realm of extraordinary accomplishments in [[Data Science]].
 >
 > **[0:31](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=31)** So for instance, when a computer algorithm is able to play chess and go, games that people thought were way too complicated for computers, and not only did they learn to play it, but they beat the best people in the world.
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=44)** Or self-driving cars that can keep themselves between the lanes and get you across the country.
 >
-> **[0:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=50)** Or stock market trading, where algorithms are designed to find optimal times to buy and sell certain stocks at certain amounts to maximize the overall profit.
+> **[0:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=50)** Or stock market trading, where [[Algorithms]] are designed to find optimal times to buy and sell certain stocks at certain amounts to maximize the overall profit.
 >
 > **[1:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=61)** Or one of the more interesting applications, because it's life and death, is healthcare where reinforcement learning can be used to determine dosages for medication, dynamic treatment regimes, or DTRs, for chronic illness, planning and conducting clinical trials and a whole host of other outcomes.
 >
@@ -5893,7 +5842,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=119)** And if you can have that reward function, then you can then put the algorithm into play.
 >
-> **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=127)** And what you're trying to do is create what's called a policy map, where that's the probability of taking a particular action when in a given state or condition.
+> **[2:07](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=127)** And what you're trying to do is create what's called a policy map, where that's the [[Probability]] of taking a particular action when in a given state or condition.
 >
 > **[2:16](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/reinforcement-learning?u=76281980&t=136)** And then you have these twin ideas of exploration, which means the algorithm is going to try lots and lots of different possible behaviors, make lots of different choices at each given point, go in every direction and see how well it works.
 >
@@ -5951,7 +5900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (11), data (4), [[Algorithms]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (11), [[Data Science]] (3), [[Algorithms]] (1), [[Probability]] (1)
 > **Definitions:** is called (2), is a  (2), stands for (1), is an  (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (3), for example (1)
@@ -5964,8 +5913,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of interpretability in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980)
+#### [The importance of interpretability in AI](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5975,7 +5923,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=21)** Who's using the results and the insights that you got from your analysis because you have a couple of choices.
 >
-> **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=29)** One is maybe you're developing something that is for the benefit and use of algorithms.
+> **[0:29](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=29)** One is maybe you're developing something that is for the benefit and use of [[Algorithms]].
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=35)** This is, for instance, a recommendation system, which automatically puts something in front of people or a mortgage application system, which processes it immediately while people are still on the website.
 >
@@ -5993,7 +5941,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=98)** They can reason from the data to apply it to new situations.
 >
-> **[1:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=103)** It's the principles that are going to be important, and so you're going to have to be able to explain that to them as a result of your work in data science.
+> **[1:43](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=103)** It's the principles that are going to be important, and so you're going to have to be able to explain that to them as a result of your work in [[Data Science]].
 >
 > **[1:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=112)** Now, the trick is some results are easy to interpret.
 >
@@ -6017,7 +5965,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=148)** It's enormously complicated by regular human standards.
 >
-> **[2:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=152)** You have kind of a hard time following through with this, and algorithms that are made in data science, like with deep learning, are infinitely more complex than this, and so you're going to have a hard time explaining to somebody else how this works and why it's set up the way it is and what they can do with it.
+> **[2:32](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=152)** You have kind of a hard time following through with this, and algorithms that are made in data science, like with [[Deep Learning]], are infinitely more complex than this, and so you're going to have a hard time explaining to somebody else how this works and why it's set up the way it is and what they can do with it.
 >
 > **[2:51](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980&t=171)** The point of all this is that in your analysis, interpretability is critical.
 >
@@ -6027,15 +5975,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), application (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Data Science]] (3), [[Deep Learning]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Techniques for creating interpretable models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980)
+#### [Techniques for creating interpretable models](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6055,15 +6002,15 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=44)** You can't just improvise your way to a chocolate souffle even when you have a pretty good understanding of kitchen chemistry.
 >
-> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=52)** Baking is inherently a more opaque process than most kinds of stovetop cooking, and, as you might guess, there is an analogy here to do the science, specifically when it comes to choosing algorithms to use in your projects.
+> **[0:52](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=52)** Baking is inherently a more opaque process than most kinds of stovetop cooking, and, as you might guess, there is an analogy here to do the science, specifically when it comes to choosing [[Algorithms]] to use in your projects.
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=70)** Some are easier to interpret.
 >
-> **[1:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=73)** That includes methods like contingency tables with the rows and columns that simply give the frequencies or the means for different combinations, or t-tests that are used in the A/B testing that's really common in web design.
+> **[1:13](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=73)** That includes methods like contingency tables with the rows and columns that simply give the frequencies or the means for different combinations, or t-tests that are used in the A/B testing that's really common in [[Web Design]].
 >
-> **[1:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=85)** You're simply comparing the means of two different groups or correlation coefficients or linear regression where you say for each point on this variable, add X number of points, subtract this number for this, and so on and so forth.
+> **[1:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=85)** You're simply comparing the means of two different groups or correlation coefficients or [[Linear Regression]] where you say for each point on this variable, add X number of points, subtract this number for this, and so on and so forth.
 >
-> **[1:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=102)** And then for decision trees, all of these are easy, at least in theory, to understand and to interpret, and you can usually have a pretty good idea of how it's going to work out.
+> **[1:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=102)** And then for [[Decision Trees]], all of these are easy, at least in theory, to understand and to interpret, and you can usually have a pretty good idea of how it's going to work out.
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=113)** It makes me think of this single tree out on the hill.
 >
@@ -6075,11 +6022,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=125)** Now that said, linear regression decision trees can get enormous and very complex, but the theory behind them is pretty straightforward.
 >
-> **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=134)** On the other hand, there are other algorithms in data science that are a little more like jungles or rainforests and they are harder to interpret.
+> **[2:14](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=134)** On the other hand, there are other algorithms in [[Data Science]] that are a little more like jungles or rainforests and they are harder to interpret.
 >
 > **[2:23](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=143)** That includes, for instance, regression with interactions where you no longer know immediately how it's going to affect things, or random forests, that is, large collections of decision trees, where you could visualize an individual tree, but knowing how they're all going to act is a little more complicated.
 >
-> **[2:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=164)** Or machine learning algorithms like support vector machines, and then, of course, neural networks is our really best possible example of a complex and opaque, difficult-to-understand procedure, but one that works very, very well.
+> **[2:44](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=164)** Or machine learning algorithms like support vector machines, and then, of course, [[Neural Networks]] is our really best possible example of a complex and opaque, difficult-to-understand procedure, but one that works very, very well.
 >
 > **[3:00](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=180)** Now, what I'm saying here in that some are easier to interpret and some are harder to interpret, it's not exactly the same thing as Occam's Razor, where the simplest explanation is taken as the one that's most likely to be true, and that is a theory that I strongly support, and I encourage people to use the simplest method wherever possible.
 >
@@ -6095,7 +6042,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=250)** And so when a clear method and easy-to-interpret one works, there should be a preference for that.
 >
-> **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=259)** And, of course, one of the really intriguing benefits of using generative AI models in any kind of data science work is that even though the method itself might be very complex and opaque, the generative AI is able to offer a narrative that explains itself.
+> **[4:19](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=259)** And, of course, one of the really intriguing benefits of using [[Generative AI]] models in any kind of data science work is that even though the method itself might be very complex and opaque, the generative AI is able to offer a narrative that explains itself.
 >
 > **[4:38](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/techniques-for-creating-interpretable-models?u=76281980&t=278)** It actually can write it out in paragraphs, it can talk to you out loud, and it's able to offer an explanation that draws on its knowledge of the very broad context in which it's operating, and that opens new possibilities for interpretability.
 >
@@ -6109,14 +6056,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (4), [[Decision Trees]] (3), [[Linear Regression]] (2), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Decision Trees]] (3), [[Linear Regression]] (2), [[Data Science]] (2), [[Neural Networks]] (2)
 > **Definitions:** is a  (4), refers to (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delivering actionable insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980)
+#### [Delivering actionable insights](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6126,7 +6072,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=25)** His point is that human cognition is designed to fulfill goals to help us reach particular ends.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=33)** And I like to summarize that and apply it towards data science with this thought, that data and data science is for doing.
+> **[0:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=33)** And I like to summarize that and apply it towards [[Data Science]] with this thought, that data and data science is for doing.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=42)** It exists to help us do things.
 >
@@ -6178,13 +6124,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=147)** The data science project is designed to fulfill all of these requirements in a way that the benefits will be visible to the client as you help them find an answer to their question.
 >
-> **[2:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=160)** And if you can get that done, then you've done exactly what you meant to do when you started in data science, and that is worthy of an office celebration.
+> **[2:40](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=160)** And if you can get that done, then you've done exactly what you meant to do when you started in data science, and that is worthy of an [[Microsoft Office|office]] celebration.
 >
 > **[2:50](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/delivering-actionable-insights?u=76281980&t=170)** So congratulations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)
@@ -6196,12 +6142,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=1)** - [Narrator] This may be the end of this course, but it's just a beginning for you, and so it's time for you to start making plans on how you're going to produce your own data science revolution.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=1)** - [Narrator] This may be the end of this course, but it's just a beginning for you, and so it's time for you to start making plans on how you're going to produce your own [[Data Science]] revolution.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=15)** I want you to remember that this course is designed to be a foundation.
 >
@@ -6209,15 +6154,15 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=24)** I haven't been able to go into detail on these topics, but that's okay.
 >
-> **[0:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=28)** Right here at LinkedIn Learning you have a wealth of additional courses that can give you the step-by-step instruction that you need.
+> **[0:28](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=28)** Right here at [[LinkedIn]] Learning you have a wealth of additional courses that can give you the step-by-step instruction that you need.
 >
-> **[0:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=37)** Consider learning new things like for instance, how to program in Python or R, or how to work with open data, or how to build algorithms for machine learning and artificial intelligence.
+> **[0:37](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=37)** Consider learning new things like for instance, how to program in [[Python (Programming Language)|Python]] or R, or how to work with open data, or how to build [[Algorithms]] for machine learning and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=49)** Any of these would be fantastically useful tools and approaches in data science.
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=55)** Also, learn how to apply the things that you've worked with.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=59)** Get some courses on data-driven decision-making in business settings.
+> **[0:59](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=59)** Get some courses on data-driven [[Decision-Making]] in business settings.
 >
 > **[1:05](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=65)** Get more information on business strategy and how the information you use can help any organization make better decisions in their own operations.
 >
@@ -6237,7 +6182,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=128)** Both of these meet in multiple locations throughout the year.
 >
-> **[2:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=132)** There's one that's going to be near you that you can go to, or maybe you have a specialized topic like for instance, I've gone to the Marketing Analytics and Data Science or MADS conference, which very specifically focuses on data science within this particular marketing realm, or where you live, you may have local events.
+> **[2:12](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=132)** There's one that's going to be near you that you can go to, or maybe you have a specialized topic like for instance, I've gone to the [[Marketing Analytics]] and Data Science or MADS conference, which very specifically focuses on data science within this particular marketing realm, or where you live, you may have local events.
 >
 > **[2:33](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980&t=153)** I'm in Utah and each year we have the Silicon Slopes Tech Summit, which has tracks focused on artificial intelligence, machine learning, and data science.
 >
@@ -6247,7 +6192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (2), business (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for instance (2), for example (1)
 > **CLI Commands:** python (1), make (1)

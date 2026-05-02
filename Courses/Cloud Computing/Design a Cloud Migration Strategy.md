@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning a cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980)
+#### [Planning a cloud migration](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,15 +113,14 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980&t=32)** I'm Brien Posey, and besides being a commercial astronaut candidate, I also have 30 years of IT experience.
 >
-> **[0:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980&t=39)** So, if you're ready to learn all about your options for migrating a workload to the Cloud, then come join me in my LinkedIn learning course on Cloud Migration.
+> **[0:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980&t=39)** So, if you're ready to learn all about your options for migrating a workload to the Cloud, then come join me in my [[LinkedIn]] learning course on Cloud Migration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [brien] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,13 +128,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-you-should-know?u=76281980&t=6)** In this course you'll learn some of the migration paths that may be available to you and I'll point out some of the aspects of the migration process that you might not have thought of.
 >
-> **[0:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-you-should-know?u=76281980&t=14)** A basic knowledge of cloud services will be helpful as you watch this course, but it isn't a firm requirement.
+> **[0:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-you-should-know?u=76281980&t=14)** A basic knowledge of [[Cloud Services]] will be helpful as you watch this course, but it isn't a firm requirement.
 >
 > **[0:20](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-you-should-know?u=76281980&t=20)** Since this is a conceptual course rather than a hands on course there aren't any prerequisites to worry about.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -145,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify migration goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980)
+#### [Identify migration goals](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=77)** And if those costs did go down, then you can quantify the migration process as a success, at least financially.
 >
-> **[1:26](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=86)** Another possible example of a goal might be to improve your workload scalability, but without investing in new hardware.
+> **[1:26](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=86)** Another possible example of a goal might be to improve your workload [[Scalability]], but without investing in new [[Hardware]].
 >
 > **[1:33](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=93)** One of the problems that comes from operating on-premises is that you have to purchase hardware that can service your workload when it's under its peak demand.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=227)** In IT speak, agility typically refers to having the ability to spin up new workloads on an as-needed basis, and to be able to just as easily deprovision old workloads that are no longer being used.
 >
-> **[3:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=239)** Now, certainly you can do this on-premises using server virtualization and other technologies, but doing so requires hardware resources to be consumed, and you can get into some complex capacity planning issues in the process.
+> **[3:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=239)** Now, certainly you can do this on-premises using server virtualization and other technologies, but doing so requires hardware resources to be consumed, and you can get into some complex [[Capacity Planning]] issues in the process.
 >
 > **[4:12](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980&t=252)** Conversely, the cloud provides you nearly unlimited hardware resources, and so you can spin up new workloads on an as-needed basis without having to think about the impact that those workloads are making on your available hardware.
 >
@@ -224,14 +221,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Hardware]] (9), business (2), data (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (9), [[Scalability]] (1), [[Capacity Planning]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of migrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980)
+#### [Types of migrations](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,9 +265,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980&t=109)** The third cloud migration technique that I want to talk about is replacing.
 >
-> **[1:53](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980&t=113)** Replacing involves taking an application that you're running on premises and retiring that application and adopting instead a software as a service application running in the cloud.
+> **[1:53](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980&t=113)** Replacing involves taking an application that you're running on premises and retiring that application and adopting instead a [[SaaS|software as a service]] application running in the cloud.
 >
-> **[2:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980&t=123)** One of example of this is that years ago I used to run Exchange Server on premises, but eventually I phased that out in favor of a cloud based solution, Microsoft Office 365.
+> **[2:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980&t=123)** One of example of this is that years ago I used to run Exchange Server on premises, but eventually I phased that out in favor of a cloud based solution, [[Microsoft Office]] 365.
 >
 > **[2:15](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/types-of-migrations?u=76281980&t=135)** The fourth migration technique that I want to talk about is refactoring.
 >
@@ -293,14 +289,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), application (8), database (2), generic (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (1), [[Microsoft Office]] (1)
 > **Definitions:** refers to (3), is called (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cost considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980)
+#### [Cost considerations](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=42)** There are any number of situations that may make it far less expensive to operate an application in the cloud than to run that same application on premises.
 >
-> **[0:50](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=50)** For example, migrating an application to the cloud might save you from having to purchase new server hardware or from having to purchase software licenses for a new version.
+> **[0:50](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=50)** For example, migrating an application to the cloud might save you from having to purchase new server [[Hardware]] or from having to purchase software licenses for a new version.
 >
 > **[1:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=61)** The cloud is also typically going to be cheaper for running lightly used applications and the reason behind this is simple.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=114)** The cloud can also save you money on application support.
 >
-> **[1:57](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=117)** If you happen to use a software as a service application, then support is usually included in the cost of licensing that application.
+> **[1:57](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=117)** If you happen to use a [[SaaS|software as a service]] application, then support is usually included in the cost of licensing that application.
 >
 > **[2:06](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=126)** The cloud can also make it less expensive to accommodate workload demand spikes because when you run an application on premises, you have to purchase server hardware that is powerful enough to accommodate the application when it's running at peak demand.
 >
@@ -374,7 +369,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=254)** Typically, what you'll find is that different providers charge different rates for different services.
 >
-> **[4:19](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=259)** For example, you might find that one cloud provider has a better rate for virtual machines running in the cloud whereas another cloud provider has a better rate for online databases.
+> **[4:19](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=259)** For example, you might find that one cloud provider has a better rate for [[Virtual Machines]] running in the cloud whereas another cloud provider has a better rate for online [[Databases]].
 >
 > **[4:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=269)** So what I would recommend is adopting a multicloud architecture so that that way you can get the best price for each service simply by running the service in the cloud where it's most cost effective to do so.
 >
@@ -388,26 +383,25 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=318)** Generally speaking, a software as a service cloud is going to be the less expensive option and the reason for that is simple.
 >
-> **[5:25](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=325)** Software as a service clouds typically use flat rate billing, whereas infrastructure as a service clouds generally charge you based on the resource that you use.
+> **[5:25](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=325)** Software as a service clouds typically use flat rate billing, whereas [[IaaS|infrastructure as a service]] clouds generally charge you based on the resource that you use.
 >
 > **[5:34](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=334)** But even if the software as a service cloud, doesn't come out cheaper every time, what you may find is that it's worth it to use the software as a service cloud anyway, simply because it gives you predictability with regard to your billing.
 >
 > **[5:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=346)** Your costs are going to be the same month after month whereas an infrastructure as a service cloud is going to give you a variable cost based on how heavily an application was used in a given month.
 >
-> **[5:57](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=357)** Nevermind the fact that software as a service clouds generally provide you with free technical support that you're probably not going to get if you host the application yourself.
+> **[5:57](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=357)** Nevermind the fact that software as a service clouds generally provide you with free [[Technical Support]] that you're probably not going to get if you host the application yourself.
 >
 > **[6:06](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/cost-considerations?u=76281980&t=366)** So those are just a few of the considerations to take into account with regard to cost as you're planning your cloud migration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (43), application (21), [[Hardware]] (7), [[SaaS|Software as a service]] (6), data (6)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[SaaS|Software as a service]] (6), [[IaaS|Infrastructure as a service]] (2), [[Virtual Machines]] (1), [[Databases]] (1)
 > **CLI Commands:** find (5), make (4)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The five phases of migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980)
+#### [The five phases of migration](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=84)** It's also important to document what types of security measures should be put in place to keep the application secure once it's been migrated.
 >
-> **[1:34](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=94)** Another essential pre-migration planning task is to define the workload performance requirements, and also decide what performance metrics will be used to evaluate that performance.
+> **[1:34](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=94)** Another essential pre-migration planning task is to define the workload performance requirements, and also decide what [[Performance Metrics]] will be used to evaluate that performance.
 >
 > **[1:44](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=104)** There is an old saying in the world of IT that users don't really care how something works, they just want it to work.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=139)** But in order to be able to do this, you need to decide what performance metrics you're going to use.
 >
-> **[2:24](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=144)** If you look at the slide, you can see that I've got a screen capture of the Windows Performance Monitor.
+> **[2:24](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=144)** If you look at the slide, you can see that I've got a screen capture of the [[Windows]] Performance Monitor.
 >
 > **[2:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=149)** Here I'm looking at some counters, including the percentage of processor time, the percentage of committed bytes in use, the percentage of disk read time, and the percentage of disk write time.
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=191)** How is the application used?
 >
-> **[3:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=194)** An application that's used Monday through Friday during business hours can be easily migrated on the weekend when nobody's in the office.
+> **[3:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=194)** An application that's used Monday through Friday during business hours can be easily migrated on the weekend when nobody's in the [[Microsoft Office|office]].
 >
 > **[3:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-five-phases-of-migration?u=76281980&t=201)** If, on the other hand, the application is in use 24 hours a day, seven days a week, you're going to have to use a different type of migration method that ensures that the application remains online as it's being migrated.
 >
@@ -477,14 +471,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), data (8), cloud (5), [[Security]] (2), [[Performance Metrics]] (2)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common mistakes to avoid
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/common-mistakes-to-avoid?u=76281980)
+#### [Common mistakes to avoid](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/common-mistakes-to-avoid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +559,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/common-mistakes-to-avoid?u=76281980&t=279)** Even so, it's only prudent to check with your ISP and find out if there are limits in place, before you make a major move, such as a Cloud migration, just so that you can avoid running into problems such as this one.
 >
-> **[4:53](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/common-mistakes-to-avoid?u=76281980&t=293)** Another mistake that is sometimes made when migrating to the Cloud, is neglecting to perform a feature-by-feature comparison, when switching to a software as a service application.
+> **[4:53](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/common-mistakes-to-avoid?u=76281980&t=293)** Another mistake that is sometimes made when migrating to the Cloud, is neglecting to perform a feature-by-feature comparison, when switching to a [[SaaS|software as a service]] application.
 >
 > **[5:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/common-mistakes-to-avoid?u=76281980&t=303)** This is actually a lot more important than you might realize.
 >
@@ -594,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (24), cloud (20), data (5), feature (4), [[SaaS|Software as a service]] (4)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (4)
 > **CLI Commands:** make (4), find (4)
 > **Env Vars:** isp (4)
 > **Analogies:** such as (2), imagine (1)
@@ -602,8 +595,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Infrastructure and logical considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980)
+#### [Infrastructure and logical considerations](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +639,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=132)** The first step in a virtual machine migration usually involves exporting the virtual machine.
 >
-> **[2:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=137)** The screen capture on the left for example shows Microsoft Hyper-V.
+> **[2:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=137)** The screen capture on the left for example shows [[Microsoft]] Hyper-V.
 >
 > **[2:22](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=142)** Here I'm right clicking on a virtual machine to reveal the shortcut menu.
 >
@@ -661,7 +653,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=172)** If not, then other options exist.
 >
-> **[2:54](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=174)** Amazon for instance has three options for migrating virtual machines.
+> **[2:54](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=174)** Amazon for instance has three options for migrating [[Virtual Machines]].
 >
 > **[2:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/infrastructure-and-logical-considerations?u=76281980&t=179)** There is AWS Import/Export disk which is good for up to about 16 terabytes per disk, and then there's also AWS Snowball which can accommodate a petabyte scale migration, and AWS Snowmobile which is good for exabyte scale migrations.
 >
@@ -697,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (13), application (8), aws (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Microsoft]] (1)
 > **Env Vars:** aws (3), vhd (3), vhdx (3), ovf (1), vmdk (1)
 > **CLI Commands:** find (5), aws (3)
 > **Analogies:** such as (2), for example (1), for instance (1), imagine (1)
@@ -711,8 +703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Which applications should be rehosted?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980)
+#### [Which applications should be rehosted?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=33)** Better still, there are any number of solutions available for migrating a virtual machine out of your data center and into the cloud.
 >
-> **[0:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=40)** If you look at the screen capture on the slide, for example, you can see Microsoft Hyper-V.
+> **[0:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=40)** If you look at the screen capture on the slide, for example, you can see [[Microsoft]] Hyper-V.
 >
 > **[0:45](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=45)** What I've done is right-click on a virtual machine, and you'll notice that there's an export option.
 >
@@ -744,7 +735,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=123)** You might also want to keep applications that are tied to your most sensitive data in-house in your own data center.
 >
-> **[2:09](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=129)** Now, having said that, the hyperscale cloud provider, such as AWS and Microsoft Azure, do tend to be secure.
+> **[2:09](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=129)** Now, having said that, the hyperscale cloud provider, such as AWS and [[Microsoft Azure]], do tend to be secure.
 >
 > **[2:16](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980&t=136)** However, a lot of organizations feel a lot more comfortable keeping their most sensitive data protected in their own data center, so that's something to think about.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (20), application (16), data (8), [[Microsoft]] (1), aws (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **Definitions:** is called (1), refers to (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** aws (1)
@@ -772,14 +763,13 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performance considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980)
+#### [Performance considerations](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=1)** - [Instructor] As you prepare to rehost an application, it's extremely important to keep performance in mind.
 >
-> **[0:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=7)** Virtual machines will almost always perform differently in the cloud than they do on premises.
+> **[0:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=7)** [[Virtual Machines]] will almost always perform differently in the cloud than they do on premises.
 >
 > **[0:11](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=11)** Even if you allocate that virtual machine with the same amount of memory and the same CPU resources as the virtual machine had on premises.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=50)** You can look at the performance before the migration versus the performance after the migration and see how it compares.
 >
-> **[0:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=59)** So, why is it that a virtual machine might perform differently in the cloud, even though it's been allocated with similar hardware to what was being used on premises?
+> **[0:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=59)** So, why is it that a virtual machine might perform differently in the cloud, even though it's been allocated with similar [[Hardware]] to what was being used on premises?
 >
 > **[1:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=67)** Well, there are a few different reasons, but one of those reasons has to do with the virtual machine's location.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=80)** And this difference in virtual networks changes the path that's used to access resources.
 >
-> **[1:27](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=87)** These resources can be everything from a DNS server, to a backend database, to possibly the microservices that the application depends on.
+> **[1:27](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=87)** These resources can be everything from a DNS server, to a backend database, to possibly the [[Microservices]] that the application depends on.
 >
 > **[1:35](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=95)** And this path change can introduce extra latency, especially where WAN tranversal is concerned, and then that latency plays directly into the application's overall performance.
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=195)** One potential reason is that the virtual machine might be running on a different hypervisor than what you were using.
 >
-> **[3:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=201)** Maybe you ran the virtual machine on Microsoft Hyper-V in-house and the cloud provider is using VM Ware or vice versa.
+> **[3:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=201)** Maybe you ran the virtual machine on [[Microsoft]] Hyper-V in-house and the cloud provider is using VM Ware or vice versa.
 >
 > **[3:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/performance-considerations?u=76281980&t=208)** Similarly, the underlying storage that the cloud provider is using might be faster or it might be slower than what you had been using on premises.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), application (11), [[Virtual Machines]] (2), [[Hardware]] (1), dns (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Hardware]] (1), [[Microservices]] (1), [[Microsoft]] (1)
 > **Env Vars:** wan (6), cpu (1), dns (1)
 > **Warnings:** note that (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -861,8 +851,7 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimating costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980)
+#### [Estimating costs](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=39)** Pricing can vary widely based on things like capacity, licenses, region and much, much more.
 >
-> **[0:45](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=45)** So I've provided a couple of screen captures from Amazon Web Services just to give you a feel for how this might work.
+> **[0:45](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=45)** So I've provided a couple of screen captures from [[Amazon Web Services (AWS)|Amazon Web Services]] just to give you a feel for how this might work.
 >
 > **[0:52](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=52)** If you look at the screen capture in the lower right portion of the slide, you can see some pricing for virtual machine instances.
 >
@@ -890,17 +879,17 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=73)** But you also have to look at things like the operating system.
 >
-> **[1:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=77)** In other words, is the instance running Linux or is it running Windows.
+> **[1:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=77)** In other words, is the instance running [[Linux]] or is it running [[Windows]].
 >
 > **[1:20](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=80)** There's going to be a difference in price depending on what you're using.
 >
 > **[1:23](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=83)** Also, some instances are provisioned with extra software.
 >
-> **[1:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=88)** The tab that is selected for example, is for windows with SQL Server Enterprise.
+> **[1:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=88)** The tab that is selected for example, is for windows with [[Microsoft SQL Server|SQL Server]] Enterprise.
 >
 > **[1:34](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=94)** If you take away the SQL Server license, the price tends to go down.
 >
-> **[1:38](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=98)** So, that's just an example of the way that virtual machines can be priced.
+> **[1:38](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=98)** So, that's just an example of the way that [[Virtual Machines]] can be priced.
 >
 > **[1:42](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=102)** Now, if you look at the screen capture on the left side of the screen, the screen capture provides some of the pricing for Amazon's EBS volume storage.
 >
@@ -912,7 +901,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=130)** So it's important to scrutinize the pricing that the cloud providers give you so that you can know what the workload is truly going to cost you once you've migrated.
 >
-> **[2:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=141)** So the takeaway is that when you run a virtual machine in the cloud, there are certain hardware resources that are allocated to that virtual machine.
+> **[2:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=141)** So the takeaway is that when you run a virtual machine in the cloud, there are certain [[Hardware]] resources that are allocated to that virtual machine.
 >
 > **[2:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=148)** And you're charged for those hardware resources, even if the virtual machines workload isn't actually using all of them.
 >
@@ -978,9 +967,9 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=323)** If you're replicating your virtual machine, to another availability zone or to another region, that replication process is going to result in extra cost, as does having a secondary copy of the virtual machine.
 >
-> **[5:36](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=336)** You'll also find that there are costs for using ancillary cloud services.
+> **[5:36](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=336)** You'll also find that there are costs for using ancillary [[Cloud Services]].
 >
-> **[5:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=340)** I'm talking about things like load balancers or a cloud based Active Directory or a backend database.
+> **[5:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=340)** I'm talking about things like load balancers or a cloud based [[Active Directory]] or a backend database.
 >
 > **[5:47](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/estimating-costs?u=76281980&t=347)** And of course, usage demand spikes can also drive up the cost.
 >
@@ -1020,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (30), [[Hardware]] (7), [[Virtual Machines]] (4), [[Windows]] (3), data (3)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Virtual Machines]] (4), [[Windows]] (3), [[Linux]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), ebs (1), iops (1), aws (1)
 > **CLI Commands:** find (1), make (1), aws (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -1028,14 +1017,13 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Is it better to migrate or rebuild?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/is-it-better-to-migrate-or-rebuild?u=76281980)
+#### [Is it better to migrate or rebuild?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/is-it-better-to-migrate-or-rebuild?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/is-it-better-to-migrate-or-rebuild?u=76281980&t=1)** - [Instructor] As you work toward migrating a virtual machine to the cloud, one of the things that you'll have to consider is whether it's better to migrate the virtual machine as is or if you should try to reconstruct the virtual machine rather than trying to migrate it.
 >
-> **[0:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/is-it-better-to-migrate-or-rebuild?u=76281980&t=14)** Sometimes virtual machines can be migrated to the cloud as is with absolutely no issues.
+> **[0:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/is-it-better-to-migrate-or-rebuild?u=76281980&t=14)** Sometimes [[Virtual Machines]] can be migrated to the cloud as is with absolutely no issues.
 >
 > **[0:20](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/is-it-better-to-migrate-or-rebuild?u=76281980&t=20)** Other times, you might find that the migration will go much more smoothly if you take the time to rebuild the virtual machine rather than simply trying to migrate it.
 >
@@ -1097,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (10), cloud (4), [[Automation]] (1), business (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (10)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -1108,8 +1096,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is replatforming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980)
+#### [What is replatforming?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,11 +1118,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=69)** Another example is abandoning an expensive web server for an open source solution that does the same thing.
 >
-> **[1:16](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=76)** For example, you might currently have a web application running on a Windows web server running Internet Information Services.
+> **[1:16](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=76)** For example, you might currently have a web application running on a [[Windows]] web server running Internet Information Services.
 >
-> **[1:22](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=82)** An example of replatforming that application might be moving the web application over to a Linux server.
+> **[1:22](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=82)** An example of replatforming that application might be moving the web application over to a [[Linux]] server.
 >
-> **[1:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=88)** Another example of replatforming might be breaking down a complex application into a series of microservices.
+> **[1:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=88)** Another example of replatforming might be breaking down a complex application into a series of [[Microservices]].
 >
 > **[1:38](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980&t=98)** Even though there are a wide variety of ways to replatform an application, there are some goals behind the replatforming process that are more or less universal.
 >
@@ -1157,15 +1144,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), database (6), cloud (4), web (2), web application (2)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Microservices]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Best Practices:** avoid doing (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages of replatforming
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980)
+#### [Advantages of replatforming](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=69)** Another possible reason for replatforming might be to reduce licensing costs.
 >
-> **[1:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=74)** If for example, you move an application off of Microsoft SQL Server and onto a Database as a Service platform in the cloud, then you don't need that SQL Server license.
+> **[1:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=74)** If for example, you move an application off of [[Microsoft SQL Server]] and onto a Database as a Service platform in the cloud, then you don't need that [[Microsoft SQL Server|SQL Server]] license.
 >
 > **[1:24](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=84)** Finally, you might choose to replatform an application as a way of reducing the management complexity.
 >
@@ -1219,21 +1205,20 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=175)** Still another possible reason for replatforming an application might be to achieve code reusability.
 >
-> **[3:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=181)** For example, you might choose to break an application down into a series of microservices that can be leveraged by other applications that you're using throughout your organization.
+> **[3:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=181)** For example, you might choose to break an application down into a series of [[Microservices]] that can be leveraged by other applications that you're using throughout your organization.
 >
 > **[3:11](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/advantages-of-replatforming?u=76281980&t=191)** And finally, you might choose to replatform an application as a way of achieving better compatibility with the management and monitoring tools that you use in your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (24), database (5), management (2), [[Microsoft SQL Server]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microservices]] (1)
 > **Analogies:** for example (5), imagine (1)
 > **Env Vars:** sql (2)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Some potential issues with replatforming
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980)
+#### [Some potential issues with replatforming](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=46)** It's just as likely that the application's performance won't change at all or that the performance will improve.
 >
-> **[0:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=51)** But the thing about transitioning to database as a service is that you don't have access to the underlying physical hardware meaning that if additional resources are required you don't necessarily have the ability to provision those resources.
+> **[0:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=51)** But the thing about transitioning to database as a service is that you don't have access to the underlying physical [[Hardware]] meaning that if additional resources are required you don't necessarily have the ability to provision those resources.
 >
 > **[1:05](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=65)** Additionally, depending on which database as a service platform you are using, you may not have the ability to optimize the database.
 >
@@ -1273,13 +1258,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=135)** One of those reasons is that database as a service sometimes lacks features that are supported by an on-premises database.
 >
-> **[2:23](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=143)** For example let's suppose that you're currently running SQL Server in order to support a particular application.
+> **[2:23](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=143)** For example let's suppose that you're currently running [[Microsoft SQL Server|SQL Server]] in order to support a particular application.
 >
-> **[2:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=149)** But you decide to replatform that application and transition to Azure SQL instead.
+> **[2:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=149)** But you decide to replatform that application and transition to [[Microsoft Azure|Azure]] [[SQL]] instead.
 >
 > **[2:35](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=155)** Well Azure SQL doesn't necessarily support the same features as SQL Server.
 >
-> **[2:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=160)** For example Azure SQL only supports Windows authentication.
+> **[2:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=160)** For example Azure SQL only supports [[Windows]] authentication.
 >
 > **[2:44](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/some-potential-issues-with-replatforming?u=76281980&t=164)** It doesn't support SQL logins.
 >
@@ -1293,14 +1278,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), database (11), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (3), [[Hardware]] (1), [[Windows]] (1)
 > **Env Vars:** sql (7), msdb (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying good candidates for replatforming
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980)
+#### [Identifying good candidates for replatforming](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1328,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=99)** Another example of an application that might benefit from being replatformed is a utilitarian application.
 >
-> **[1:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=106)** I'm talking about things like web servers, DNS servers, maybe even DHCP servers.
+> **[1:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=106)** I'm talking about things like [[Web Servers]], DNS servers, maybe even DHCP servers.
 >
 > **[1:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-good-candidates-for-replatforming?u=76281980&t=111)** Suppose for a moment that you're running a DNS server on an expensive operating system.
 >
@@ -1362,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), database (5), cloud (4), dns (3), business (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Env Vars:** dns (3), dhcp (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1), you should never (1)
@@ -1374,12 +1358,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why transition to SaaS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980)
+#### [Why transition to SaaS?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=1)** - [Instructor] Software as a service applications, or SaaS applications as they are often called, refer to applications that are available in the vendor's own cloud on a subscription basis.
+> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=1)** - [Instructor] [[SaaS|Software as a service]] applications, or [[SaaS]] applications as they are often called, refer to applications that are available in the vendor's own cloud on a subscription basis.
 >
 > **[0:11](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=11)** So these aren't applications that you would install inside of a cloud-based virtual machine.
 >
@@ -1395,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=54)** One example of such a situation is a multitier application.
 >
-> **[0:58](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=58)** Multitier applications span multiple servers or multiple virtual machines.
+> **[0:58](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=58)** Multitier applications span multiple servers or multiple [[Virtual Machines]].
 >
 > **[1:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=63)** So why might it be less expensive to operate a multitier application in a software as a service cloud?
 >
@@ -1413,7 +1396,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=92)** Another situation in which software as a service may save you money is if the provider offers a better together strategy.
 >
-> **[1:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=100)** Some software vendors create a number of products that are designed to be used in a standalone environment but that have a relationship with one another.
+> **[1:40](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=100)** Some software vendors create a number of [[Microsoft Products|products]] that are designed to be used in a standalone environment but that have a relationship with one another.
 >
 > **[1:48](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=108)** And sometimes you can achieve enhanced functionality by using several of the vendor's products in conjunction with one another.
 >
@@ -1431,7 +1414,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=170)** And there's a significant cost associated with that.
 >
-> **[2:53](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=173)** After all, you have to put hardware in place that can take over in the event that there's a problem with the hardware that the application is running on.
+> **[2:53](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=173)** After all, you have to put [[Hardware]] in place that can take over in the event that there's a problem with the hardware that the application is running on.
 >
 > **[3:00](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=180)** Well in a software as a service environment, the software vendor already has that infrastructure in place in their own cloud.
 >
@@ -1453,21 +1436,20 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=244)** Finally, the software as a service application vendor generally takes care of the application installation and making sure that the application is configured correctly.
 >
-> **[4:13](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=253)** So this means that you can rest assured that the application is installed correctly and configured in an optimal manner according to the vendor's specifications.
+> **[4:13](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980&t=253)** So this means that you can [[Representational State Transfer (REST)|rest]] assured that the application is installed correctly and configured in an optimal manner according to the vendor's specifications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (20), [[SaaS|Software as a service]] (15), cloud (8), [[Hardware]] (4), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (15), [[Hardware]] (4), [[Microsoft Products|Products]] (3), [[SaaS]] (1), [[Virtual Machines]] (1)
 > **Prerequisites:** you'll need (2), install (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The advantages of a SaaS migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980)
+#### [The advantages of a SaaS migration](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=1)** - [Instructor] Adopting a software as a service application is almost always going to be easier than running the same application inside of a cloud-based virtual machine.
+> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=1)** - [Instructor] Adopting a [[SaaS|software as a service]] application is almost always going to be easier than running the same application inside of a cloud-based virtual machine.
 >
 > **[0:09](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=9)** And the reason for this is really simple.
 >
@@ -1487,11 +1469,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=65)** This means that the billing is consistent, you always know what the application is going to cost you, regardless of how much you use the application.
 >
-> **[1:13](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=73)** In contrast, infrastructure as a service and platform as a service cloud providers typically bill their customers based on usage.
+> **[1:13](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=73)** In contrast, [[IaaS|infrastructure as a service]] and [[PaaS|platform as a service]] cloud providers typically bill their customers based on usage.
 >
 > **[1:22](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=82)** So if you happen to run an application inside of a cloud-based virtual machine, the fees that are charged for running that application are going to vary from one month to the next, depending on how much you've used the application.
 >
-> **[1:35](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=95)** But having said that, there can be ancillary charges associated with the use of those virtual machines.
+> **[1:35](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=95)** But having said that, there can be ancillary charges associated with the use of those [[Virtual Machines]].
 >
 > **[1:41](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=101)** These charges might include things like internet bandwidth consumption, storage IOPS, or data ERES fees.
 >
@@ -1507,23 +1489,22 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=162)** Additionally, the software as a service vendor monitors the application health on your behalf and takes care of any problems that occur with the application along the way.
 >
-> **[2:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=171)** They also handle things like capacity planning, application availability, and troubleshooting, meaning that you don't have to worry about handling these things yourself.
+> **[2:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-advantages-of-a-saas-migration?u=76281980&t=171)** They also handle things like [[Capacity Planning]], application availability, and troubleshooting, meaning that you don't have to worry about handling these things yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (25), [[SaaS|Software as a service]] (7), cloud (6), next (3), [[IaaS|Infrastructure as a service]] (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (7), [[IaaS|Infrastructure as a service]] (1), [[PaaS|Platform as a service]] (1), [[Virtual Machines]] (1), [[Capacity Planning]] (1)
 > **Env Vars:** iops (1), eres (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Potential disadvantages of SasS migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/potential-disadvantages-of-sass-migration?u=76281980)
+#### [Potential disadvantages of SasS migration](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/potential-disadvantages-of-sass-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/potential-disadvantages-of-sass-migration?u=76281980&t=1)** - [Instructor] Although there are numerous advantages to adopting a software as a service application, there are also some potential disadvantages that people don't generally talk about, so I want to take the opportunity to address some of those potential disadvantages.
+> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/potential-disadvantages-of-sass-migration?u=76281980&t=1)** - [Instructor] Although there are numerous advantages to adopting a [[SaaS|software as a service]] application, there are also some potential disadvantages that people don't generally talk about, so I want to take the opportunity to address some of those potential disadvantages.
 >
 > **[0:14](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/potential-disadvantages-of-sass-migration?u=76281980&t=14)** One such disadvantage is the subscription cost will eventually exceed the cost of purchasing a perpetual license.
 >
@@ -1561,16 +1542,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (18), [[SaaS|Software as a service]] (11), data (5), cloud (2)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (11)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Important considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980)
+#### [Important considerations](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=1)** - [Instructor] As you move toward adopting a software as a service application, there are some things that you should be thinking about and important questions that you should be asking yourself.
+> **[0:01](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=1)** - [Instructor] As you move toward adopting a [[SaaS|software as a service]] application, there are some things that you should be thinking about and important questions that you should be asking yourself.
 >
 > **[0:10](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=10)** One such question is, why are you adopting this particular software as a service application?
 >
@@ -1606,11 +1586,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=137)** But some applications do require the creation of DNS records.
 >
-> **[2:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=141)** If you look the screen capture shown on the right side of the screen, you can see some of the DNS records that had to be configured in order to use Microsoft Office 365.
+> **[2:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=141)** If you look the screen capture shown on the right side of the screen, you can see some of the DNS records that had to be configured in order to use [[Microsoft Office]] 365.
 >
 > **[2:32](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=152)** Microsoft Office 365 uses a variety of DNS records in order to support its various services.
 >
-> **[2:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=159)** But Office 365 isn't an isolated example.
+> **[2:39](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=159)** But [[Microsoft Office|Office]] 365 isn't an isolated example.
 >
 > **[2:42](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=162)** There are other cloud applications that require DNS records to be created.
 >
@@ -1626,7 +1606,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=205)** Yet another question to ask yourself is, does your proposed solution align well with your business model and your corporate culture?
 >
-> **[3:32](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=212)** In most cases, the answer will probably be yes, but over the years, I've occasionally run into applications that just really don't mesh well with the way that an organization does business.
+> **[3:32](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=212)** In most cases, the answer will probably be yes, but over the years, I've occasionally run into applications that just really don't [[Mesh]] well with the way that an organization does business.
 >
 > **[3:45](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/important-considerations?u=76281980&t=225)** And finally, you need to consider what your exit strategy is in case things don't work out.
 >
@@ -1650,7 +1630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), dns (9), [[SaaS|Software as a service]] (8), cloud (5), business (4)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (8), [[Microsoft Office]] (2), [[Microsoft Office|Office]] (1), [[Mesh]] (1)
 > **Env Vars:** dns (9), sla (5)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1)
@@ -1661,8 +1641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The case for application refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980)
+#### [The case for application refactoring](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1712,7 +1691,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=129)** Today's computers have far better graphics and sound than anything that was even remotely available back in 1989 when the game was released.
 >
-> **[2:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=137)** So, it only made sense for someone to pick up the game and recode it to take advantage of modern hardware.
+> **[2:17](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=137)** So, it only made sense for someone to pick up the game and recode it to take advantage of modern [[Hardware]].
 >
 > **[2:23](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=143)** But what about business applications?
 >
@@ -1732,9 +1711,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=180)** There's one organization, for example, that I know of that coded a number of applications many years ago and those applications were designed to use a database called Clipper.
 >
-> **[3:10](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=190)** Well Clipper eventually fell out of fashion, and the organization recoded those applications or refactored those applications rather, in an effort to make them work with SQL Server, thereby removing the dependency on the Clipper database.
+> **[3:10](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=190)** Well Clipper eventually fell out of fashion, and the organization recoded those applications or refactored those applications rather, in an effort to make them work with [[Microsoft SQL Server|SQL Server]], thereby removing the dependency on the Clipper database.
 >
-> **[3:25](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=205)** Finally, an organization might choose to refactor an application in order to make for a more consistent user experience.
+> **[3:25](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=205)** Finally, an organization might choose to refactor an application in order to make for a more consistent [[User Experience (UX)|user experience]].
 >
 > **[3:33](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=213)** Depending on how old an application is, an application may use an end user interface that's far different than the ones that users expect today.
 >
@@ -1744,7 +1723,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=231)** For example, you might choose to refactor an application in order to improve the end user experience and make the software easier to use.
 >
-> **[3:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=239)** I'm sure we've probably all seen examples of enterprise software that tends to be a really tedious or difficult to use.
+> **[3:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=239)** I'm sure we've probably all seen examples of [[Enterprise Software]] that tends to be a really tedious or difficult to use.
 >
 > **[4:06](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=246)** So if you have the opportunity to make things easier on the user, why not do that?
 >
@@ -1752,7 +1731,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=260)** You might also choose to refactor an application in order to make it compatible with a modern and supported operating system.
 >
-> **[4:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=268)** I've seen situations in which an organization has an older application that was originally designed to work with an ancient operating system such as Windows Vista.
+> **[4:28](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=268)** I've seen situations in which an organization has an older application that was originally designed to work with an ancient operating system such as [[Windows]] Vista.
 >
 > **[4:37](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980&t=277)** And by refactoring that application, you can make it compatible with a much newer operating system that's currently supported.
 >
@@ -1760,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), game (5), business (3), database (3), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Hardware]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Enterprise Software]] (1), [[Windows]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** ram (2), sql (1)
 > **Exercise Files:** source code (3)
@@ -1768,8 +1747,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Modernizing a refactored application
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/modernizing-a-refactored-application?u=76281980)
+#### [Modernizing a refactored application](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/modernizing-a-refactored-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,7 +1781,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), business (2)
 > **Env Vars:** cobol (2)
 > **Exercise Files:** source code (2)
 > **Analogies:** such as (1), for example (1)
@@ -1815,8 +1792,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why retiring an application may be the best option
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980)
+#### [Why retiring an application may be the best option](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1840,7 +1816,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980&t=59)** After all, there's no reason to have two applications that do the same thing when you could combine the functionality into a single application.
 >
-> **[1:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980&t=67)** Finally, You might consider retiring an application if it requires outdated hardware, or if it's meant to run on an unsupported operating system.
+> **[1:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980&t=67)** Finally, You might consider retiring an application if it requires outdated [[Hardware]], or if it's meant to run on an unsupported operating system.
 >
 > **[1:18](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980&t=78)** Another reason why you might choose to retire an application is because the application is no longer supported and/or the vendor has gone out of business.
 >
@@ -1870,14 +1846,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (27), cloud (3), [[Hardware]] (3), business (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Identifying applications that can be retired
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-applications-that-can-be-retired?u=76281980)
+#### [Identifying applications that can be retired](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-applications-that-can-be-retired?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1897,7 +1872,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-applications-that-can-be-retired?u=76281980&t=57)** If you find that certain applications are badly outdated, then there's a good chance that those applications aren't being used any longer, and might therefor be good candidates for retirement.
 >
-> **[1:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-applications-that-can-be-retired?u=76281980&t=67)** Another thing that you can do is to look at the hardware and software requirements.
+> **[1:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-applications-that-can-be-retired?u=76281980&t=67)** Another thing that you can do is to look at the [[Hardware]] and software requirements.
 >
 > **[1:11](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identifying-applications-that-can-be-retired?u=76281980&t=71)** If the application is designed to run on hardware that's no longer supported, or that might not even exist in your organization, then that might be a clear indicator that nobody's actually using the application, and that the application might be a good fit for retirement.
 >
@@ -1935,7 +1910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (24), data (9), cloud (2), [[Hardware]] (2), functional (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1945,8 +1920,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Are your goals still relevant?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/are-your-goals-still-relevant?u=76281980)
+#### [Are your goals still relevant?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/are-your-goals-still-relevant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,13 +1964,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), business (4), cloud (2), data (2)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building a plan of attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/building-a-plan-of-attack?u=76281980)
+#### [Building a plan of attack](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/building-a-plan-of-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2068,7 +2040,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/building-a-plan-of-attack?u=76281980&t=253)** And does it allow you enough time to retry the migration if something should go wrong?
 >
-> **[4:18](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/building-a-plan-of-attack?u=76281980&t=258)** Also, are you going to be limited to performing the migration during a certain time window, for example, on the weekends or late at night when nobody's in the office?
+> **[4:18](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/building-a-plan-of-attack?u=76281980&t=258)** Also, are you going to be limited to performing the migration during a certain time window, for example, on the weekends or late at night when nobody's in the [[Microsoft Office|office]]?
 >
 > **[4:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/building-a-plan-of-attack?u=76281980&t=269)** And finally, what's your contingency plan for the migration?
 >
@@ -2080,15 +2052,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), cloud (4), business (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (3), similar to (1), such as (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considerations for IT pros
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/considerations-for-it-pros?u=76281980)
+#### [Considerations for IT pros](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/considerations-for-it-pros?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2140,7 +2111,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/considerations-for-it-pros?u=76281980&t=166)** Early in my IT career, the practice was to perform large-scale IT maintenance operations, things like migrations, late at night or on the weekend.
 >
-> **[2:56](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/considerations-for-it-pros?u=76281980&t=176)** The idea was that there shouldn't be anybody in the office at that time, so there was no risk of disrupting anybody's work by doing a migration at that time.
+> **[2:56](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/considerations-for-it-pros?u=76281980&t=176)** The idea was that there shouldn't be anybody in the [[Microsoft Office|office]] at that time, so there was no risk of disrupting anybody's work by doing a migration at that time.
 >
 > **[3:04](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/considerations-for-it-pros?u=76281980&t=184)** Today, of course, things are a lot different than they used to be.
 >
@@ -2186,14 +2157,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), [[Microsoft Office|Office]] (3), cloud (2), [[Virtualization]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (10), find (1)
 > **Best Practices:** best practice (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why it is fine to leave some applications alone?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-it-is-fine-to-leave-some-applications-alone?u=76281980)
+#### [Why it is fine to leave some applications alone?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-it-is-fine-to-leave-some-applications-alone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2227,7 +2197,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-it-is-fine-to-leave-some-applications-alone?u=76281980&t=81)** If you do decide to migrate the application, it's extremely important to make sure that you have a thorough understanding of those dependencies and how they work before you attempt the migration.
 >
-> **[1:31](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-it-is-fine-to-leave-some-applications-alone?u=76281980&t=91)** You might also consider leaving an application alone if it has dependencies on specific hardware.
+> **[1:31](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-it-is-fine-to-leave-some-applications-alone?u=76281980&t=91)** You might also consider leaving an application alone if it has dependencies on specific [[Hardware]].
 >
 > **[1:37](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-it-is-fine-to-leave-some-applications-alone?u=76281980&t=97)** I saw an example of this not too long ago.
 >
@@ -2279,15 +2249,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (30), cloud (12), data (4), [[Hardware]] (3), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpu (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### What tools are available to assist with the migration?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980)
+#### [What tools are available to assist with the migration?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2301,13 +2270,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=26)** But I just wanted to give you a preview of what's available out there.
 >
-> **[0:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=29)** So as you can see, I've got Google up and I'm just going to do a quick search on cloud application migration tools.
+> **[0:29](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=29)** So as you can see, I've got [[Google]] up and I'm just going to do a quick search on cloud application migration tools.
 >
 > **[0:35](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=35)** (keyboard clacking) And so as you can see, there are a long list of cloud migration tools that are available to you.
 >
 > **[0:45](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=45)** Now, it's worth noting that there are also cloud migration tools that are provided by the individual cloud service providers.
 >
-> **[0:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=51)** So if, for example, you're using Microsoft Azure, then Microsoft provides a tool called Azure Migrate.
+> **[0:51](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=51)** So if, for example, you're using [[Microsoft Azure]], then [[Microsoft]] provides a tool called [[Microsoft Azure|Azure]] Migrate.
 >
 > **[0:58](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-tools-are-available-to-assist-with-the-migration?u=76281980&t=58)** You can see what that looks like right here.
 >
@@ -2319,15 +2288,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), application (2), [[Google]] (1), [[Search]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Azure]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [announcer] (1)
 
-#### Making the case for a trial migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/making-the-case-for-a-trial-migration?u=76281980)
+#### [Making the case for a trial migration](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/making-the-case-for-a-trial-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2337,7 +2305,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/making-the-case-for-a-trial-migration?u=76281980&t=10)** Well, there are any number of different reasons.
 >
-> **[0:12](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/making-the-case-for-a-trial-migration?u=76281980&t=12)** One of the biggest reasons is that by performing a trial migration, you can familiarize yourself and the rest of the IT staff with the migration process ahead of time.
+> **[0:12](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/making-the-case-for-a-trial-migration?u=76281980&t=12)** One of the biggest reasons is that by performing a trial migration, you can familiarize yourself and the [[Representational State Transfer (REST)|rest]] of the IT staff with the migration process ahead of time.
 >
 > **[0:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/making-the-case-for-a-trial-migration?u=76281980&t=21)** Another reason why you might want to perform a trial migration is because by doing a trial migration, you can estimate how much time the real migration is likely to take.
 >
@@ -2395,15 +2363,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), cloud (5), data (5), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/additional-considerations?u=76281980)
+#### [Additional considerations](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/additional-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2447,15 +2414,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), application (4)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** coming up (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [presenter] (1)
 
-#### Where should I begin?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/where-should-i-begin?u=76281980)
+#### [Where should I begin?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/where-should-i-begin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2487,13 +2452,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/where-should-i-begin?u=76281980&t=118)** That way you have a chance to rehearse the migration before you attempt it in real life.
 >
-> **[2:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/where-should-i-begin?u=76281980&t=123)** You might be amazed at what you will learn through this simulation.
+> **[2:03](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/where-should-i-begin?u=76281980&t=123)** You might be amazed at what you will learn through this [[Simulation]].
 >
 > **[2:07](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/where-should-i-begin?u=76281980&t=127)** So those are just a few of the things that you should think about doing before you get started with your first migration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), cloud (2), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** in other words (1)
@@ -2504,8 +2469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a cloud exit strategy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-a-cloud-exit-strategy?u=76281980)
+#### [What is a cloud exit strategy?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-a-cloud-exit-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2531,13 +2495,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), application (2), data (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do you need an exit strategy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-do-you-need-an-exit-strategy?u=76281980)
+#### [Why do you need an exit strategy?](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-do-you-need-an-exit-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2599,15 +2561,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (32), application (15), business (5), data (3), [[Security]] (2)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Essential elements to include in an exit strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/essential-elements-to-include-in-an-exit-strategy?u=76281980)
+#### [Essential elements to include in an exit strategy](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/essential-elements-to-include-in-an-exit-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,7 +2675,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (32), application (18), business (3), data (1), management (1)
 > **Definitions:** in other words (5)
 > **Cross-References:** in the last (1), previous video (1)
 > **Analogies:** for example (2)
@@ -2723,8 +2682,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Costs to consider as you develop your exit strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/costs-to-consider-as-you-develop-your-exit-strategy?u=76281980)
+#### [Costs to consider as you develop your exit strategy](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/costs-to-consider-as-you-develop-your-exit-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2750,7 +2708,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/costs-to-consider-as-you-develop-your-exit-strategy?u=76281980&t=64)** So, let's pretend for a moment that you've moved an application up to the cloud, and then a couple of years have passed and you decide for whatever reason that you need to bring that application back on site.
 >
-> **[1:15](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/costs-to-consider-as-you-develop-your-exit-strategy?u=76281980&t=75)** Well, in a situation like that, because you didn't just recently move the application, you might not necessarily have the hardware to run that application on.
+> **[1:15](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/costs-to-consider-as-you-develop-your-exit-strategy?u=76281980&t=75)** Well, in a situation like that, because you didn't just recently move the application, you might not necessarily have the [[Hardware]] to run that application on.
 >
 > **[1:23](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/costs-to-consider-as-you-develop-your-exit-strategy?u=76281980&t=83)** The hardware that you were previously using, may have been retired, or it might be running a different workload by now.
 >
@@ -2792,14 +2750,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), cloud (14), data (6), [[Hardware]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing a cloud migration strategy with an eye toward the exit
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit?u=76281980)
+#### [Designing a cloud migration strategy with an eye toward the exit](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2867,7 +2824,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit?u=76281980&t=198)** Most applications require some sort of identity provider.
 >
-> **[3:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit?u=76281980&t=201)** For example, they might need an active directory environment.
+> **[3:21](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit?u=76281980&t=201)** For example, they might need an [[Active Directory]] environment.
 >
 > **[3:25](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/designing-a-cloud-migration-strategy-with-an-eye-toward-the-exit?u=76281980&t=205)** So if you're using a single cloud right now, chances are you're using an active directory environment within that cloud or some other type of identity provider.
 >
@@ -2903,7 +2860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (21), application (17), data (4), next (3), [[Active Directory]] (3)
+> **Frameworks & Libraries:** [[Active Directory]] (3)
 > **CLI Commands:** make (13)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -2913,8 +2870,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2922,15 +2878,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980&t=4)** I hope that you've enjoyed watching the course as much as I enjoyed creating it.
 >
-> **[0:08](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980&t=8)** If your considering a Cloud Migration then you might check out some of my other Cloud related courses such as, "Hosting Virtual Machines "in a Multicloud Environment," or "Running Microsoft Workloads on AWS."
+> **[0:08](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980&t=8)** If your considering a Cloud Migration then you might check out some of my other Cloud related courses such as, "Hosting [[Virtual Machines]] "in a Multicloud Environment," or "Running [[Microsoft]] Workloads on AWS."
 >
-> **[0:19](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980&t=19)** you can find both of those in the LinkedIn Learning library of courses.
+> **[0:19](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980&t=19)** you can find both of those in the [[LinkedIn]] Learning library of courses.
 >
 > **[0:22](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980&t=22)** In any case, I wish you well with your Cloud Migration project, and again, thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Virtual Machines]] (1), [[Microsoft]] (1), aws (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

@@ -89,20 +89,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agentic AI: The future of smart AI is here!
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980)
+#### [Agentic AI: The future of smart AI is here!](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=0)** - If you don't know what agentic AI is or how it works, and you work in tech, pay attention because this technology, known as agentic AI or autonomous AI, is revolutionizing businesses and organizations throughout the world.
 >
-> **[0:14](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=14)** Hi, I'm David Linthicum, a cloud computing and AI expert, I've worked with AI systems for 30 years and have helped thousands of businesses and organizations.
+> **[0:14](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=14)** Hi, I'm David Linthicum, a [[Cloud Computing]] and AI expert, I've worked with AI systems for 30 years and have helped thousands of businesses and organizations.
 >
 > **[0:24](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=24)** This course is for developers getting started with implementing agentic AI.
 >
 > **[0:28](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=28)** Here we'll cover the fundamentals of what an agent is, internal agent architectures, and concepts like machine learning.
 >
-> **[0:37](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=37)** What the practical applications are in industries such as robotics, healthcare, and transportation, and finally, we discuss ethics and societal impacts.
+> **[0:37](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=37)** What the practical applications are in industries such as robotics, healthcare, and transportation, and finally, we discuss [[Ethics]] and societal impacts.
 >
 > **[0:47](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980&t=47)** Together, let's get started building an agentic AI solution for your organization.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), cloud (1), [[Ethics]] (1), career (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Ethics]] (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
@@ -123,8 +122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is agentic AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980)
+#### [What is agentic AI?](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=104)** Then there is learning and evolution.
 >
-> **[1:47](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=107)** We learn as humans and AI Agents learn and adapt the same way.
+> **[1:47](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=107)** We learn as humans and [[AI Agents]] learn and adapt the same way.
 >
 > **[1:52](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=112)** Agentic AI can learn from interactions, adapt to new data, and continuously improve performance.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=184)** AI Agents find and use applications and data across various domains and platforms.
 >
-> **[3:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=190)** For example, these include customer service, healthcare, retail, manufacturing, and cybersecurity.
+> **[3:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=190)** For example, these include customer service, healthcare, retail, manufacturing, and [[Cybersecurity]].
 >
 > **[3:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980&t=196)** And Agentic AI system adds value by creating personalized and proactive solutions that deal with each of these domains differently, and so more effectively.
 >
@@ -196,14 +194,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (2), [[Security]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Cybersecurity]] (1)
 > **Analogies:** for example (4), imagine (1), such as (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - agentic (1)
 
-#### Applications and use cases of agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980)
+#### [Applications and use cases of agentic AI](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,9 +210,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=9)** First, Insurance in Agentic AI.
 >
-> **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=13)** In the insurance industry, in Daba, which is a software development company, introduced an AI industry accelerator called Morpheus to address the adoption of Agentic AI for core business systems.
+> **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=13)** In the insurance industry, in Daba, which is a [[Software Development]] company, introduced an AI industry accelerator called Morpheus to address the adoption of Agentic AI for core business systems.
 >
-> **[0:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=26)** Morpheus leverages teams of AI agents to streamline and automate complex insurance processes, such as claims processing, onboarding, and data processing.
+> **[0:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=26)** Morpheus leverages teams of [[AI Agents]] to streamline and automate complex insurance processes, such as claims processing, onboarding, and [[Data Processing]].
 >
 > **[0:37](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=37)** This is an example of a multi-agent development.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=117)** In the retail industry, Agentic AI enhances personalized customer interactions.
 >
-> **[2:02](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=122)** For example, if a retail site is more aware of who you are as a customer, they're more likely to provide content that provides a better consumer experience and purchase more products.
+> **[2:02](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=122)** For example, if a retail site is more aware of who you are as a customer, they're more likely to provide content that provides a better consumer experience and purchase more [[Microsoft Products|products]].
 >
 > **[2:14](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=134)** Groups of agents interact with customers across various customer touchpoints, including email, chat, and social media.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=153)** This leads to improved customer loyalty and increased sales due to the customized shopping experience provided.
 >
-> **[2:42](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=162)** Finally, AI is revolutionizing the healthcare industry.
+> **[2:42](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=162)** Finally, AI is revolutionizing the [[Healthcare Industry]].
 >
 > **[2:45](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/applications-and-use-cases-of-agentic-ai?u=76281980&t=165)** In healthcare, Agentic AI systems provide diagnostic support.
 >
@@ -267,14 +264,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), business (5), data (4), teams (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Software Development]] (1), [[Data Processing]] (1), [[Microsoft Products|Products]] (1), [[Healthcare Industry]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
-#### Healthcare scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980)
+#### [Healthcare scenario](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,15 +292,15 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=67)** So what do these agents do?
 >
-> **[1:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=70)** The diagnostic support agents leveraged advanced machine learning algorithms to analyze radiology images, lab results, and patient histories.
+> **[1:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=70)** The diagnostic support agents leveraged advanced machine learning [[Algorithms]] to analyze radiology images, lab results, and patient histories.
 >
-> **[1:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=80)** The agents provided physicians with real-time diagnostic recommendations.
+> **[1:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=80)** The agents provided physicians with [[Real-Time]] diagnostic recommendations.
 >
 > **[1:25](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=85)** For example, the ability to find a bone spur in a patient by having an agent look at the X-ray image and recommend potential treatments to doctors.
 >
 > **[1:35](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=95)** This process was based on comprehensive data analysis and reduced diagnostic errors to improve the accuracy of complex medical evaluations.
 >
-> **[1:45](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=105)** The doctors still had the final word, but considering that they have a large workload, this assistance made diagnostic more effective.
+> **[1:45](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=105)** The doctors still had the final [[Microsoft Word|word]], but considering that they have a large workload, this assistance made diagnostic more effective.
 >
 > **[1:53](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/healthcare-scenario?u=76281980&t=113)** The use of agents to find appointment times sooner and manage the providers and patient's time better was a big part of the center success story.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (2), [[Real-Time]] (2), management (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -341,8 +337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How AI systems perceive their environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980)
+#### [How AI systems perceive their environment](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=11)** Environmental interaction involves the processes of sensing and acting where the AI agent perceives its surroundings through sensors, interprets the data, makes decisions, and then takes action to influence the environment based on those decisions.
 >
-> **[0:27](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=27)** Sources include image data, audio, video, or anything that provides comprehensive understanding of surroundings of the AI agents.
+> **[0:27](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=27)** Sources include image data, audio, video, or anything that provides comprehensive understanding of surroundings of the [[AI Agents]].
 >
 > **[0:36](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=36)** Once the data is gathered, the AI system processes and interprets it to generate insights.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=176)** This is basically two agents sharing commands, data, or anything else needed, allowing them to do their jobs as agents.
 >
-> **[3:05](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=185)** Databases are shared by agents or places where persistent data is stored and retrieved.
+> **[3:05](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=185)** [[Databases]] are shared by agents or places where persistent data is stored and retrieved.
 >
 > **[3:12](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=192)** This can be any database type and brand.
 >
@@ -414,18 +409,17 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=238)** First, the architecture that processes things within the agents, and second, mechanisms that allow the agents to talk and coordinate to work together.
 >
-> **[4:08](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=248)** Now that you understand the foundational concepts upon which all agentic AI systems are built, let's spend the rest of the course filling in some of the details.
+> **[4:08](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980&t=248)** Now that you understand the foundational concepts upon which all agentic AI systems are built, let's spend the [[Representational State Transfer (REST)|rest]] of the course filling in some of the details.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (7), application (1), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### How AI agents make decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-agents-make-decisions?u=76281980)
+#### [How AI agents make decisions](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-agents-make-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +485,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Security]] (2), business (1), next (1)
 > **Analogies:** such as (5), for instance (2)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -503,14 +496,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning for agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980)
+#### [Machine learning for agents](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=0)** - Machine learning is a result of applying algorithms to learn from data and make choices without being explicitly told to do so.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=0)** - Machine learning is a result of applying [[Algorithms]] to learn from data and make choices without being explicitly told to do so.
 >
-> **[0:09](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=9)** If this sounds a lot like artificial intelligence, you're right.
+> **[0:09](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=9)** If this sounds a lot like [[Artificial Intelligence (AI)|artificial intelligence]], you're right.
 >
 > **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=13)** Because machine learning is a form of artificial intelligence and is the foundation for most AI systems.
 >
@@ -526,9 +518,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=61)** Think of it kind of like training a classroom full of people using these different techniques.
 >
-> **[1:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=67)** There are three main machine learning models that exist, supervised, unsupervised, and reinforcement learning.
+> **[1:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=67)** There are three main machine learning models that exist, supervised, unsupervised, and [[Reinforcement Learning]].
 >
-> **[1:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=76)** Supervised learning leverages labeled data.
+> **[1:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=76)** [[Supervised Learning]] leverages labeled data.
 >
 > **[1:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=80)** Unsupervised explores hidden patterns in unlabeled data.
 >
@@ -538,11 +530,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=100)** These are needed to guide the agent in evaluating actions, optimizing goals and executing tasks autonomously.
 >
-> **[1:49](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=109)** What is critical to understand also is that AI agents with embedded machine learning are in a state of constant improvement.
+> **[1:49](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=109)** What is critical to understand also is that [[AI Agents]] with embedded machine learning are in a state of constant improvement.
 >
 > **[1:58](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=118)** For example, each time they run, they figure out something new to improve how they carry out their function.
 >
-> **[2:06](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=126)** They process new data continuously, refine performance metrics, enhance prediction accuracy, and meet challenges in dynamic context with increasing robustness.
+> **[2:06](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=126)** They process new data continuously, refine [[Performance Metrics]], enhance prediction accuracy, and meet challenges in dynamic context with increasing robustness.
 >
 > **[2:18](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980&t=138)** We function much the same way.
 >
@@ -558,19 +550,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), next (2), business (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Reinforcement Learning]] (2), [[Algorithms]] (1), [[Supervised Learning]] (1), [[AI Agents]] (1)
 > **Analogies:** such as (1), kind of like (1), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - machine (1)
 
-#### Policy frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980)
+#### [Policy frameworks](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=1)** - AI agents can make decisions autonomously.
+> **[0:01](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=1)** - [[AI Agents]] can make decisions autonomously.
 >
 > **[0:04](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=4)** But how do agents do this in a way that's consistent, predictable, and ethical?
 >
@@ -586,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=53)** If these policies are not set, the system could do less desirable things, such as sending your personal information to a requesting system without asking you or even performing illegal or unethical tasks.
 >
-> **[1:08](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=68)** Let's examine two policy frameworks: decision-making and rule-based.
+> **[1:08](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=68)** Let's examine two policy frameworks: [[Decision-Making]] and rule-based.
 >
 > **[1:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/policy-frameworks?u=76281980&t=73)** Decision-making frameworks include ethical policies to ensure that AI actions align with broader societal and legal standards, ensuring that your agentic AI system does not break the law or upset users through destructive behaviors.
 >
@@ -618,20 +609,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Decision-Making]] (5), [[Security]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (5), [[AI Agents]] (2)
 > **Analogies:** for example (4), such as (3)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ai (1)
 
-#### Utility-based frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980)
+#### [Utility-based frameworks](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=1)** - We will continue our discussion on agentic AI frameworks by exploring utility-based frameworks.
 >
-> **[0:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=7)** Remember, frameworks ensure that AI agents operate with autonomy to achieve goals.
+> **[0:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=7)** Remember, frameworks ensure that [[AI Agents]] operate with autonomy to achieve goals.
 >
 > **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=13)** Utility-based frameworks for agentic AI are conceptual structures that guide AI systems' design, deployment, and evaluation.
 >
@@ -659,7 +649,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=101)** This maximizes utility within the agentic AI system, meaning always finding the most optimal solution.
 >
-> **[1:48](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=108)** For example, the image taken by your agentic AI security camera needs to be optimized for analysis to be done before the agent makes the decision.
+> **[1:48](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=108)** For example, the image taken by your agentic [[AI Security]] camera needs to be optimized for analysis to be done before the agent makes the decision.
 >
 > **[1:59](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/utility-based-frameworks?u=76281980&t=119)** This is not to say there isn't risk involved.
 >
@@ -685,17 +675,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Security]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[AI Security]] (1)
 > **Analogies:** for example (2), such as (2), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Reinforcement learning and Q-learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980)
+#### [Reinforcement learning and Q-learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=0)** - Reinforcement learning algorithms are instrumental in developing machine learning and agentic AI.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=0)** - [[Reinforcement Learning]] [[Algorithms]] are instrumental in developing machine learning and agentic AI.
 >
 > **[0:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=7)** These algorithms find their place in numerous practical scenarios including autonomous driving, where agents learn to navigate roads, or troubleshooting a jet engine in flight, automatically finding the best and safest outcome, Reinforcement learning is all about learning by interacting with an environment.
 >
@@ -751,7 +740,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=198)** The value function helps the agent assess the long-term benefit of states and actions, much like we determine the longer term benefits of our actions, both good and bad.
 >
-> **[3:31](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=211)** With reinforcement learning, AI agents are in perpetual state of self discovery.
+> **[3:31](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=211)** With reinforcement learning, [[AI Agents]] are in perpetual state of self discovery.
 >
 > **[3:37](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/reinforcement-learning-and-q-learning?u=76281980&t=217)** They are always improving performance, becoming better and better at tackling greater and greater challenges.
 >
@@ -765,7 +754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), ai (4), [[Algorithms]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Algorithms]] (2), [[AI Agents]] (2)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -776,8 +765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agent architectures: major
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980)
+#### [Agent architectures: major](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +819,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=158)** This type incorporates relevant tools to expand its capabilities beyond its pre-program capabilities.
 >
-> **[2:44](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=164)** Examples of these tools include web search engines or image processing software.
+> **[2:44](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=164)** Examples of these tools include web search engines or [[Image Processing]] software.
 >
 > **[2:49](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=169)** Our security camera uses the internet to look up a home address to carry out an internal process, you get the idea.
 >
@@ -841,7 +829,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=190)** For example, the process of upgrading firmware may have 50 steps, but the agent can combine them into one single step.
 >
-> **[3:21](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=201)** Six, generative AI networks or GAINs for short.
+> **[3:21](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=201)** Six, [[Generative AI]] networks or GAINs for short.
 >
 > **[3:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=206)** This architecture is a form of multi-agent collaboration, whereas one agent can reach out to others to leverage specialized skills and solve problems together.
 >
@@ -849,7 +837,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=226)** Seventh and final is human-AI collaboration architectures.
 >
-> **[3:52](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=232)** These facilitate collaboration between AI agents and humans by automating routine tasks.
+> **[3:52](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=232)** These facilitate collaboration between [[AI Agents]] and humans by automating routine tasks.
 >
 > **[3:58](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980&t=238)** They allow people to engage in higher level cognitive functions like creativity and problem solving.
 >
@@ -859,13 +847,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Security]] (3), next (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Image Processing]] (1), [[Generative AI]] (1), [[AI Agents]] (1)
 > **Analogies:** for example (7), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - like (1)
 
-#### Agent architectures: minor
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-minor?u=76281980)
+#### [Agent architectures: minor](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-minor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +878,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-minor?u=76281980&t=61)** Second, emotion-based architectures are systems that simulate or incorporate emotional responses to provide human-like interactions.
 >
-> **[1:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-minor?u=76281980&t=70)** They can be thought of as humanizing AI agents such as conveying anger.
+> **[1:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-minor?u=76281980&t=70)** They can be thought of as humanizing [[AI Agents]] such as conveying anger.
 >
 > **[1:15](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-minor?u=76281980&t=75)** Finally, third, swarm intelligence architectures are used for modeling and designing systems based on collective behaviors observed in natural systems, such as ant colonies or schools of fish.
 >
@@ -901,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Cross-References:** in the last (3), we covered (1)
 > **Analogies:** such as (3)
 > **Speakers:** - in (1)
@@ -911,8 +898,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing a cooperative multiagent system
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980)
+#### [Developing a cooperative multiagent system](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,11 +928,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=87)** Set up coordination mechanisms.
 >
-> **[1:30](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=90)** For example, leader-follower structures or other ways to drive consensus between distributed AI agents.
+> **[1:30](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=90)** For example, leader-follower structures or other ways to drive consensus between distributed [[AI Agents]].
 >
 > **[1:37](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=97)** This helps organize efforts and avoid conflicts or redundant actions.
 >
-> **[1:43](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=103)** Establish decentralized decision-making.
+> **[1:43](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=103)** Establish decentralized [[Decision-Making]].
 >
 > **[1:46](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980&t=106)** Each agent should also be capable of making independent decisions based on local and external information.
 >
@@ -972,15 +958,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Decision-Making]] (2), next (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Decision-Making]] (2)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** tcp (1), rfid (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - taking (1)
 
-#### Implementing communication protocols for agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980)
+#### [Implementing communication protocols for agents](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +993,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=67)** This is critical because clear message structures prevent miscommunication and inaccurate information.
 >
-> **[1:15](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=75)** Usually, developers use structured data formats like JSON or XML.
+> **[1:15](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=75)** Usually, developers use structured data formats like [[JSON]] or XML.
 >
 > **[1:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=80)** However, really any message format can be used as long as the agents are trained to understand them.
 >
@@ -1024,9 +1009,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=129)** What about security protocols when all this information is being shared across systems?
 >
-> **[2:15](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=135)** Implementing robust security measures to authenticate agents and secure communication protects data integrity and confidentiality.
+> **[2:15](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=135)** Implementing robust security measures to authenticate agents and secure communication protects [[Data Integrity]] and confidentiality.
 >
-> **[2:24](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=144)** AI agents might exchange data related to things like our banking information or our last physical and so that data needs to be protected.
+> **[2:24](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=144)** [[AI Agents]] might exchange data related to things like our [[Banking]] information or our last physical and so that data needs to be protected.
 >
 > **[2:34](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/implementing-communication-protocols-for-agents?u=76281980&t=154)** In terms of implementation, employing cryptographic techniques such as SSL or TLS for secure data transmission is a common approach.
 >
@@ -1044,14 +1029,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (4), ai (2), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Data Integrity]] (1), [[AI Agents]] (1), [[Banking]] (1)
 > **Env Vars:** json (1), xml (1), owl (1), ssl (1), tls (1)
 > **Analogies:** such as (3), just like (1), imagine (1)
 > **Definitions:** known as (1), in other words (1), is a  (1)
 > **Speakers:** - implementing (1)
 
-#### Game theory and strategic interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980)
+#### [Game theory and strategic interaction](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=10)** Game theory is one of those.
 >
-> **[0:12](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=12)** This theory gives us the concepts to design and manage how AI agents interact, making sure they work together smoothly within a whole system.
+> **[0:12](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=12)** This theory gives us the concepts to design and manage how [[AI Agents]] interact, making sure they work together smoothly within a whole system.
 >
 > **[0:23](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=23)** But what exactly is game theory?
 >
@@ -1097,7 +1081,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=137)** Can you think of a task that defines how agents should work together?
 >
-> **[2:22](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=142)** Perhaps they need to always consider a finite amount of something in their decision-making, such as a storage budget, then define the strategies.
+> **[2:22](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=142)** Perhaps they need to always consider a finite amount of something in their [[Decision-Making]], such as a storage budget, then define the strategies.
 >
 > **[2:32](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/game-theory-and-strategic-interaction?u=76281980&t=152)** Depending on the current situation or conditions in the game, an agent strategy can be fixed, determinative, randomization, or probabilistic.
 >
@@ -1125,13 +1109,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), game (9), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[Decision-Making]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - what (1)
 
-#### Negotiation and conflict resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/negotiation-and-conflict-resolution?u=76281980)
+#### [Negotiation and conflict resolution](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/negotiation-and-conflict-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1150,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/negotiation-and-conflict-resolution?u=76281980&t=114)** These functions also help agents analyze which outcomes maximize utility.
 >
-> **[2:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/negotiation-and-conflict-resolution?u=76281980&t=120)** For example, say an agent has a predefined list of optimized outcomes for a company service that provides price recommendations for products.
+> **[2:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/negotiation-and-conflict-resolution?u=76281980&t=120)** For example, say an agent has a predefined list of optimized outcomes for a company service that provides price recommendations for [[Microsoft Products|products]].
 >
 > **[2:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/negotiation-and-conflict-resolution?u=76281980&t=130)** A utility function will help that agent analyze the most optimized outcomes to ensure that the other agents understand the agent's goals.
 >
@@ -1193,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (1), application (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), earlier in (1)
@@ -1204,8 +1187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethical frameworks and considerations in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980)
+#### [Ethical frameworks and considerations in AI](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,15 +1195,15 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=11)** That would be illegal and embarrassment for the bank, and just plain wrong.
 >
-> **[0:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=16)** Ethics needs to factor into the design, build, deployment, and operations of Agentic AI systems.
+> **[0:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=16)** [[Ethics]] needs to factor into the design, build, deployment, and operations of Agentic AI systems.
 >
-> **[0:23](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=23)** This requires that your organization define how it sees fairness, bias, transparency, accountability, privacy, and data protection.
+> **[0:23](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=23)** This requires that your organization define how it sees fairness, bias, transparency, [[Accountability]], [[Privacy]], and data protection.
 >
 > **[0:32](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=32)** Once that work is done, ethical frameworks in Agentic AI can be designed.
 >
 > **[0:38](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=38)** So how do we ensure fairness with frameworks?
 >
-> **[0:42](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=42)** Fairness frameworks help developers design systems that minimize bias within AI systems.
+> **[0:42](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=42)** Fairness frameworks help developers [[Design Systems]] that minimize bias within AI systems.
 >
 > **[0:49](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980&t=49)** These direct agents on identifying and reducing biases by ensuring data sets represent diverse, inclusive perspectives.
 >
@@ -1281,17 +1263,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (9), [[Ethics]] (3), [[Accountability]] (3), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[Accountability]] (3), [[Privacy]] (2), [[Design Systems]] (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Societal impact of autonomous agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980)
+#### [Societal impact of autonomous agents](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=0)** - Along with ethics, what impact does Agentic AI systems have on humans we live with?
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=0)** - Along with [[Ethics]], what impact does Agentic AI systems have on humans we live with?
 >
 > **[0:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=7)** What is the societal impact?
 >
@@ -1323,13 +1304,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=87)** I mean, how would they fit into the handcuffs?
 >
-> **[1:30](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=90)** Cybersecurity also plays a role in protecting AI systems from malicious attacks.
+> **[1:30](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=90)** [[Cybersecurity]] also plays a role in protecting AI systems from malicious attacks.
 >
 > **[1:35](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=95)** This means preventing them from becoming security risks and giving up protected data, or making them do the bidding of bad actors.
 >
 > **[1:44](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=104)** These concepts are core to our Agentic AI systems working well as a trusted entity that will become an asset to the end user organization.
 >
-> **[1:54](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=114)** All of these societal implications need to be considered along with ethical concepts when building and deploying AI agents.
+> **[1:54](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=114)** All of these societal implications need to be considered along with ethical concepts when building and deploying [[AI Agents]].
 >
 > **[2:02](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/societal-impact-of-autonomous-agents?u=76281980&t=122)** Again, do no harm.
 >
@@ -1337,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Ethics]] (1), [[Automation]] (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Cybersecurity]] (1), [[AI Agents]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - along (1)
@@ -1347,8 +1328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980)
+#### [Security challenges](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1358,7 +1338,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=13)** Let's review them together.
 >
-> **[0:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=16)** First, AI agents must handle many types of user inputs.
+> **[0:16](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=16)** First, [[AI Agents]] must handle many types of user inputs.
 >
 > **[0:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=20)** When they involve multiple steps, these inputs can be unpredictable.
 >
@@ -1380,7 +1360,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=70)** Not being able to identify potential risks is a common pattern we see in agentic AI development.
 >
-> **[1:18](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=78)** Also, as we covered in previous videos, the internal decision-making mechanisms AI agents follow can be highly complex and opaque.
+> **[1:18](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=78)** Also, as we covered in previous videos, the internal [[Decision-Making]] mechanisms AI agents follow can be highly complex and opaque.
 >
 > **[1:27](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980&t=87)** This complexity often makes it difficult to trace and understand the cause of unexpected behavior, errors, or security vulnerabilities.
 >
@@ -1412,21 +1392,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Security]] (9), data (3), product (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Decision-Making]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - deploying (1)
 
-#### Robustness and fault tolerance
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980)
+#### [Robustness and fault tolerance](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=0)** - Many AI agents I've built in my career have worked well.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=0)** - Many [[AI Agents]] I've built in my career have worked well.
 >
 > **[0:04](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=4)** However, a few have had reliability issues discovered during testing, allowing our team to address them before the system was deployed.
 >
-> **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=13)** If not addressed, a system that lacks reliability will lead to loss of trust in the agent's decision-making.
+> **[0:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=13)** If not addressed, a system that lacks reliability will lead to loss of trust in the agent's [[Decision-Making]].
 >
 > **[0:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=20)** This can be critical.
 >
@@ -1452,7 +1431,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=82)** I'm talking about error detection and correction.
 >
-> **[1:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=86)** Error detection algorithms and self-correction techniques allow an agent to identify mistakes in data processing and decision-making.
+> **[1:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=86)** Error detection [[Algorithms]] and self-correction techniques allow an agent to identify mistakes in [[Data Processing]] and decision-making.
 >
 > **[1:34](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=94)** Then they can adjust their actions or decisions when errors are detected.
 >
@@ -1476,9 +1455,9 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=145)** This is the same concept in Agentic AI.
 >
-> **[2:28](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=148)** We also need to consider implementing system monitoring and diagnostics.
+> **[2:28](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=148)** We also need to consider implementing [[System Monitoring]] and diagnostics.
 >
-> **[2:34](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=154)** Continuous monitoring tracks the AI agent's performance and health in real-time.
+> **[2:34](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=154)** [[Continuous Monitoring]] tracks the AI agent's performance and health in [[Real-Time]].
 >
 > **[2:40](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/robustness-and-fault-tolerance?u=76281980&t=160)** This means developing diagnostic tools to scan system behaviors to find issues.
 >
@@ -1512,7 +1491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (3), career (2), [[Decision-Making]] (2), power (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[AI Agents]] (1), [[Algorithms]] (1), [[Data Processing]] (1), [[System Monitoring]] (1)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** switch to (2)
@@ -1524,8 +1503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future role of agentic AI in industry 4.0 and beyond
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980)
+#### [The future role of agentic AI in industry 4.0 and beyond](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,7 +1515,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=21)** Agentic AI is moving towards the ability to autonomously analyze vast amounts of data to train itself.
 >
-> **[0:28](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=28)** This will enable it to make real-time decision-making, which could lead to the optimization of industrial processes, such as a manufacturing system in a factory.
+> **[0:28](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=28)** This will enable it to make [[Real-Time]] [[Decision-Making]], which could lead to the optimization of industrial processes, such as a manufacturing system in a factory.
 >
 > **[0:40](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=40)** Or automatically improving the process and decision-making of a loan application at a bank.
 >
@@ -1567,9 +1545,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=130)** That's no way to do business.
 >
-> **[2:12](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=132)** Agentic AI will optimize supply chain operations by predicting demand, automating inventory management, and streamlining logistics.
+> **[2:12](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=132)** Agentic AI will optimize [[Supply Chain Operations]] by predicting demand, automating inventory management, and streamlining logistics.
 >
-> **[2:21](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=141)** In other words, having AI agents coordinate all aspects of the supply chain using perfect information and making perfect decisions, such as the ability to understand that cars and trucks need a specific chip and automation of the coordination of obtaining that chip from any number of suppliers.
+> **[2:21](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=141)** In other words, having [[AI Agents]] coordinate all aspects of the supply chain using perfect information and making perfect decisions, such as the ability to understand that cars and trucks need a specific chip and automation of the coordination of obtaining that chip from any number of suppliers.
 >
 > **[2:42](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980&t=162)** This will enhance efficiency, reduce costs, and improve customer satisfaction through time of delivery and better resource utilization.
 >
@@ -1599,23 +1577,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Decision-Making]] (3), management (2), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[AI Agents]] (2), [[Real-Time]] (1), [[Supply Chain Operations]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.0 (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - there (1)
 
-#### Integration with other technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980)
+#### [Integration with other technologies](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=0)** - Not only do AI agents need to collaborate well with humans, but AI agents need to work and play well with other systems, platforms, applications, and humans.
+> **[0:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=0)** - Not only do [[AI Agents]] need to collaborate well with humans, but AI agents need to work and play well with other systems, platforms, applications, and humans.
 >
 > **[0:12](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=12)** Let's chat about what is likely to emerge in the next few years.
 >
-> **[0:17](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=17)** The fusion of agent AI with IoT, or the Internet of Things, enables smart, interconnected systems and devices that autonomously collect, analyze, and act on data.
+> **[0:17](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=17)** The fusion of agent AI with [[IoT]], or the [[IoT|Internet of Things]], enables smart, interconnected systems and devices that autonomously collect, analyze, and act on data.
 >
 > **[0:30](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=30)** We have aspects of this around today; most use their own smart thermostats while most don't use agent AI, it's a given that in the future most will.
 >
@@ -1623,33 +1600,33 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=47)** Also, ever heard of edge computing?
 >
-> **[0:50](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=50)** The mashup of Agentic AI and edge computing allows AI algorithms to be processed closer to the data source, reducing latency and bandwidth usage.
+> **[0:50](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=50)** The mashup of Agentic AI and edge computing allows AI [[Algorithms]] to be processed closer to the data source, reducing latency and bandwidth usage.
 >
 > **[1:00](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=60)** In our smart thermostat example, this means that the thermostat functioning as an edge device can make decisions on its own without having to transmit data back to a master computer.
 >
 > **[1:13](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=73)** This also means that when the network is down, your devices running AI agents continue to function.
 >
-> **[1:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=80)** Integration with blockchain technology also has many benefits.
+> **[1:20](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=80)** Integration with [[Blockchain]] technology also has many benefits.
 >
-> **[1:24](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=84)** This includes the ability to enhance data security, transparency, and traceability, things that blockchain is known to be good at.
+> **[1:24](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=84)** This includes the ability to enhance [[Data Security]], transparency, and traceability, things that blockchain is known to be good at.
 >
-> **[1:32](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=92)** For example, when considering supply chain management, blockchain provides better integrity by using distributed ledger systems that are tough to trick.
+> **[1:32](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=92)** For example, when considering [[Supply Chain Management]], blockchain provides better integrity by using distributed ledger systems that are tough to trick.
 >
 > **[1:41](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=101)** It also ensures the authenticity of data.
 >
 > **[1:45](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=105)** AI agents can optimize logistics and inventory processes in real time using blockchain to ensure that all things are tracked and that they are part of a settlement process.
 >
-> **[1:57](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=117)** The rise of cloud computing made Agentics possible.
+> **[1:57](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=117)** The rise of [[Cloud Computing]] made Agentics possible.
 >
 > **[2:01](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=121)** Other things that cloud computing will be handy at are enabling seamless updates and continuous learning for AI agents.
 >
-> **[2:09](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=129)** Indeed, today, cloud providers such as AWS, Microsoft, and Google have all seen the advantages of Agentic AI and have built tools for its development and operations.
+> **[2:09](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=129)** Indeed, today, cloud providers such as AWS, [[Microsoft]], and [[Google]] have all seen the advantages of Agentic AI and have built tools for its development and operations.
 >
 > **[2:21](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=141)** This relationship will likely continue well into the future.
 >
-> **[2:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=146)** Finally, the rollout of 5G networks throughout the world has provided high speed, low latency connectivity.
+> **[2:26](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=146)** Finally, the rollout of [[5G]] networks throughout the world has provided high speed, low latency connectivity.
 >
-> **[2:34](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=154)** This is on the critical path for real-time communications between Agentic AI systems and other systems or devices.
+> **[2:34](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=154)** This is on the critical path for [[Real-Time]] communications between Agentic AI systems and other systems or devices.
 >
 > **[2:41](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/integration-with-other-technologies?u=76281980&t=161)** Given that AI agents work autonomously, meaning on their own, the ability to have ubiquitous communications and 5G does just that.
 >
@@ -1659,7 +1636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (5), [[Blockchain]] (4), cloud (3), [[5G]] (3)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[Blockchain]] (4), [[5G]] (3), [[Cloud Computing]] (2), [[IoT]] (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1), aws (1)
 > **Analogies:** for example (1), such as (1)
@@ -1672,8 +1649,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,7 +1663,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=18)** There are many you can use for free or for a small fee.
 >
-> **[0:22](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=22)** Many of these are cloud-based and allow you to create AI agents.
+> **[0:22](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=22)** Many of these are cloud-based and allow you to create [[AI Agents]].
 >
 > **[0:27](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=27)** This will allow you to get some hands-on training in terms of what it's like to build and deploy a agentic AI technology.
 >
@@ -1705,7 +1681,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=62)** Most of these jobs pay well and demand continues to explode.
 >
-> **[1:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=67)** No matter what you do with this knowledge you acquired here, I hope it's clear to you now that we're standing on the brink of a new frontier, one where artificial intelligence doesn't just follow commands, but understands, anticipates, and collaborates with us.
+> **[1:07](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=67)** No matter what you do with this knowledge you acquired here, I hope it's clear to you now that we're standing on the brink of a new frontier, one where [[Artificial Intelligence (AI)|artificial intelligence]] doesn't just follow commands, but understands, anticipates, and collaborates with us.
 >
 > **[1:23](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980&t=83)** Let's embrace this incredible potential with responsibility, creativity, and deep commitment to the betterment of us all.
 >
@@ -1713,7 +1689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (2), cloud (1), [[Security]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - now (1)
 

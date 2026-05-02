@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980)
+#### [Implement Docker Compose](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980&t=1)** - Docker Compose is an incredibly powerful tool that takes the complexity out of local development in Docker.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980&t=1)** - Docker [[Jetpack Compose|Compose]] is an incredibly powerful tool that takes the complexity out of local development in Docker.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-docker-compose/implement-docker-compose?u=76281980&t=7)** It makes local development easier and simpler.
 >
@@ -95,13 +94,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), feature (1), [[Containerization]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6)
 > **CLI Commands:** docker (8), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - docker (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-docker-compose/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-compose/what-you-should-know?u=76281980&t=10)** This course covers a very specific tool in the Docker ecosystem and therefore, is not intended to be an introductory Docker course.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-docker-compose/what-you-should-know?u=76281980&t=18)** If you can't yet explain the difference between a Docker image and a Docker container, you should watch a LinkedIn Learning course on core Docker concepts before watching this course.
+> **[0:18](https://www.linkedin.com/learning/learning-docker-compose/what-you-should-know?u=76281980&t=18)** If you can't yet explain the difference between a Docker image and a Docker container, you should watch a [[LinkedIn]] Learning course on core Docker concepts before watching this course.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-docker-compose/what-you-should-know?u=76281980&t=29)** I'll be going over concepts like storage volumes and port mappings throughout the course.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** docker (6)
 > **Speakers:** - [instructor] (1)
 
@@ -130,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compose in the Docker tool ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980)
+#### [Compose in the Docker tool ecosystem](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980&t=32)** The simple steps to follow for starting one or two containers become extremely tedious or even impossible for starting hundreds of containers.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980&t=42)** That's where Docker Compose comes in.
+> **[0:42](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980&t=42)** That's where Docker [[Jetpack Compose|Compose]] comes in.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-docker-compose/compose-in-the-docker-tool-ecosystem?u=76281980&t=44)** Docker Compose is an independent tool that comes standard with most downloadable Docker distributions.
 >
@@ -168,12 +165,11 @@ created: 2026-05-02
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Docker Compose basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980)
+#### [Docker Compose basics](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=1)** - [Instructor] Understanding configuration as code is core to understanding Docker Compose.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=1)** - [Instructor] Understanding configuration as code is core to understanding Docker [[Jetpack Compose|Compose]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=5)** Configuration means all of the settings that allow the system to run, such as where persistent data lives, how to access and send messages to other internal and external services, and what environment-specific values to use.
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=99)** In general, there are several other great advantages to configuration as code, too.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=105)** A configuration file can be checked into version control, which makes it easy to revert to previous versions if the configuration ever breaks.
+> **[1:45](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=105)** A configuration file can be checked into [[Version Control]], which makes it easy to revert to previous versions if the configuration ever breaks.
 >
 > **[1:53](https://www.linkedin.com/learning/learning-docker-compose/docker-compose-basics?u=76281980&t=113)** It's also self-documenting, so you never need to worry about trying to remember that one command you ran two months ago.
 >
@@ -211,20 +207,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), data (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[Version Control]] (1)
 > **CLI Commands:** docker (10)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to use Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980)
+#### [Where to use Docker Compose](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=1)** - [Instructor] Docker Compose was designed as a tool for a single hosted server.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=1)** - [Instructor] Docker [[Jetpack Compose|Compose]] was designed as a tool for a single hosted server.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=5)** It's well suited for local development, a staging server, or a continuous integration testing environment.
+> **[0:05](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=5)** It's well suited for local development, a staging server, or a [[Continuous Integration (CI)|continuous integration]] testing environment.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=11)** It's not designed for distributed systems and has no tooling for running containers across multiple hosts.
 >
@@ -246,11 +241,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=73)** While you can use Docker Compose in production, it is designed specifically for non-production environments only.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=81)** A dedicated orchestration tool, like Docker Swarm or Kubernetes, are designed to solve these problems in production environments, they're much better suited to the task than Docker Compose.
+> **[1:21](https://www.linkedin.com/learning/learning-docker-compose/where-to-use-docker-compose?u=76281980&t=81)** A dedicated orchestration tool, like Docker Swarm or [[Kubernetes]], are designed to solve these problems in production environments, they're much better suited to the task than Docker Compose.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), traffic (3), [[Continuous Integration (CI)|Continuous integration]] (1), business (1), web (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[Continuous Integration (CI)|Continuous integration]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (6)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -260,18 +255,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing a Docker Compose configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980)
+#### [Writing a Docker Compose configuration](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=1)** - [Instructor] To get started using Docker Compose, the first step is to create a configuration file inside the application directory.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=1)** - [Instructor] To get started using Docker [[Jetpack Compose|Compose]], the first step is to create a configuration file inside the application directory.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=8)** Every Docker Compose configuration must be in a YAML file format and be saved under the file name, docker-compose.yaml.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=18)** YAML stands for yet another markup language, and is a standard syntax for data serialization.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=24)** If you're familiar with JSON, they're very similar.
+> **[0:24](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=24)** If you're familiar with [[JSON]], they're very similar.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=27)** Many other configuration as code tools use YAML syntax as well.
 >
@@ -285,7 +279,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=64)** I'll revisit the Kinetico example of an online storefront selling energy efficiency equipment.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=70)** On the backend, it relies on a MySQL database, which stores inventory data.
+> **[1:10](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=70)** On the backend, it relies on a [[MySQL]] database, which stores inventory data.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=75)** Under services, will define our first service, named storefront.
 >
@@ -305,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=119)** Under database, I'll add the keyword, image, and provide the image name MySQL as a parameter.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=126)** Docker Compose will fetch the MySQL image automatically.
+> **[2:06](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=126)** Docker Compose will [[Fetch]] the MySQL image automatically.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-docker-compose/writing-a-docker-compose-configuration?u=76281980&t=131)** Docker Compose services can be named anything.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (13), [[MySQL]] (4), database (4), next (3), application (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (13), [[MySQL]] (4), [[Fetch]] (2), [[JSON]] (1)
 > **CLI Commands:** docker (18), mysql (4)
 > **Env Vars:** yaml (5), json (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -333,12 +327,11 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core Docker Compose commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980)
+#### [Core Docker Compose commands](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=1)** - [Instructor] Docker Compose provides many commands for managing the lifecycle of Docker services, but the most common ones are up, down, stop, and restart.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=1)** - [Instructor] Docker [[Jetpack Compose|Compose]] provides many commands for managing the lifecycle of Docker services, but the most common ones are up, down, stop, and restart.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=10)** In a terminal, start by navigating to the same directory where the Docker Compose YAML file is saved.
 >
@@ -360,7 +353,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=82)** I'll cover the concept of service dependencies in a later video.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=87)** You may also have noticed an error in running the MySQL container.
+> **[1:27](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=87)** You may also have noticed an error in running the [[MySQL]] container.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-docker-compose/core-docker-compose-commands?u=76281980&t=91)** We'll go over environment variables in a later video that will fix that too.
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (20), [[MySQL]] (1), application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (20), [[MySQL]] (1)
 > **CLI Commands:** docker (22), mysql (1), rm (1)
 > **Env Vars:** yaml (2)
 > **Tools:** terminal (1)
@@ -402,8 +395,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980)
+#### [Build arguments](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=33)** If a Docker container is hosted in multiple regions, for example, it becomes easy to switch between regions while still using the same singular Docker file.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=44)** To specify a build argument in the Docker Compose YAML file I first have to change the build path syntax from the shorthand to a more explicit syntax.
+> **[0:44](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=44)** To specify a build argument in the Docker [[Jetpack Compose|Compose]] YAML file I first have to change the build path syntax from the shorthand to a more explicit syntax.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=54)** The Docker build path value, which in the previous example was simply dot, is now moved to its own attribute context, which is nested under the build parameter.
 >
@@ -447,7 +439,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=146)** This is provided that the host environment doesn't change.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=152)** The MySQL Docker image relies on several environment variables for specifying a root password, user credentials, and a database.
+> **[2:32](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=152)** The [[MySQL]] Docker image relies on several environment variables for specifying a root password, user credentials, and a database.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-docker-compose/build-arguments?u=76281980&t=160)** You may have noticed errors related to missing environment variables in the last exercise.
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[MySQL]] (3), cloud (2), aws (1), feature (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[MySQL]] (3)
 > **CLI Commands:** docker (12), mysql (3), make (1), aws (1)
 > **Code Identifiers:** runtime_env (1), env_file (1), env_vars (1)
 > **Env Vars:** aws (1), yaml (1)
@@ -472,8 +464,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mounting volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980)
+#### [Mounting volumes](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,13 +482,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=41)** Technically, we can name the target path anything.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=45)** By default, my SQL writes its data files to the directory var, lib, my SQL.
+> **[0:45](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=45)** By default, my [[SQL]] writes its data files to the directory var, lib, my SQL.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=50)** So we'll make that the destination path.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=53)** Frequently, it is also important to specify a source which is where the volume data lives on the host machine outside of any containers.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=62)** If the Docker Compose volume configuration does not specify a source, Compose will create a source volume automatically.
+> **[1:02](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=62)** If the Docker [[Jetpack Compose|Compose]] volume configuration does not specify a source, Compose will create a source volume automatically.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-docker-compose/mounting-volumes?u=76281980&t=71)** The syntax for specifying a non default source is written as source colon target.
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (8), [[Jetpack Compose|Compose]] (5), application (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Jetpack Compose|Compose]] (5)
 > **Env Vars:** sql (8), yaml (1)
 > **CLI Commands:** docker (7), make (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -540,14 +531,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Named volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980)
+#### [Named volumes](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980&t=1)** - [Instructor] If you want Compose to manage the volume life cycle alongside the container life cycle, it is recommended to use named volumes.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980&t=1)** - [Instructor] If you want [[Jetpack Compose|Compose]] to manage the volume life cycle alongside the container life cycle, it is recommended to use named volumes.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980&t=11)** In the previous example, we briefly covered mounting a nameless volume to var/lib/mysql.
+> **[0:11](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980&t=11)** In the previous example, we briefly covered mounting a nameless volume to var/lib/[[MySQL]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-docker-compose/named-volumes?u=76281980&t=17)** This would persist any database data written inside the container and store it on the host machine.
 >
@@ -575,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), data (3), database (2), [[MySQL]] (1), application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), [[MySQL]] (1)
 > **CLI Commands:** docker (5), mysql (1)
 > **Versions:** 3.2 (1)
 > **Documentation:** the documentation (1)
@@ -583,8 +573,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exposing ports
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980)
+#### [Exposing ports](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=39)** Most services have a specific port that they'll operate on by default.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=44)** Using standard Docker syntax without Compose, you would have to add port mappings when you run each container.
+> **[0:44](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=44)** Using standard Docker syntax without [[Jetpack Compose|Compose]], you would have to add port mappings when you run each container.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=50)** It can be difficult to remember which ports should be exposed for each Dockerized service cannot expose the same port twice on the same host machine.
 >
@@ -634,7 +623,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=154)** A Docker service may be performing different functions over multiple ports.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=158)** A common example I've seen is monitoring tools for collecting metrics and metadata about an application.
+> **[2:38](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=158)** A common example I've seen is monitoring tools for collecting metrics and [[Metadata]] about an application.
 >
 > **[2:45](https://www.linkedin.com/learning/learning-docker-compose/exposing-ports?u=76281980&t=165)** The storefront service is instrumented to report monitoring information on Port 443.
 >
@@ -646,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Jetpack Compose|Compose]] (4), traffic (2), [[Containerization]] (1), web (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[Metadata]] (1)
 > **Ports:** port 80 (5), port 81 (3), port 443 (1)
 > **CLI Commands:** docker (7)
 > **Env Vars:** yaml (2), tcp (1)
@@ -655,8 +644,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 
-#### Enforcing start-up order
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980)
+#### [Enforcing start-up order](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=15)** To run the application container, we need to make sure that the database container is running first.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=21)** This can be done manually with regular Docker commands, but Compose provides utilities to enforce startup order automatically using the depends on flag.
+> **[0:21](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=21)** This can be done manually with regular Docker commands, but [[Jetpack Compose|Compose]] provides utilities to enforce startup order automatically using the depends on flag.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=32)** Under a service definition in the Docker composed YAML file, Ada depends on object.
 >
@@ -694,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=112)** In fact, we can be confident that no one's service will ever have perfect 100% uptime.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=119)** All Docker containers should have resiliency when a dependency becomes unavailable.
+> **[1:59](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=119)** All Docker containers should have [[Resiliency]] when a dependency becomes unavailable.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-docker-compose/enforcing-start-up-order?u=76281980&t=125)** In the rare and specific use case that a dependent service absolutely must be running before a container can start, there are third party tools to solve for this.
 >
@@ -706,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Jetpack Compose|Compose]] (6), application (5), [[Resiliency]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[Resiliency]] (1)
 > **CLI Commands:** docker (6), make (1)
 > **Env Vars:** yaml (1)
 > **Best Practices:** recommended (1)
@@ -718,12 +706,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Named subsets of services
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980)
+#### [Named subsets of services](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=1)** - [Narrator] Docker Compose provides a utility to start named subsets of services inside a single Docker Compose YAML file.
+> **[0:01](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=1)** - [Narrator] Docker [[Jetpack Compose|Compose]] provides a utility to start named subsets of services inside a single Docker Compose YAML file.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=8)** This feature can be really helpful for a number of use cases.
 >
@@ -739,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=48)** And the scheduling group does not want the storefront containers running.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=53)** You wouldn't necessarily want separate Docker Compose files for this situation since the containers will sometimes need to be run together for things like integration testing.
+> **[0:53](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=53)** You wouldn't necessarily want separate Docker Compose files for this situation since the containers will sometimes need to be run together for things like [[Integration Testing]].
 >
 > **[1:03](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=63)** At a higher level, these are conceptually all part of one system and therefore should probably have only one configuration.
 >
@@ -747,7 +734,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=75)** Service profiles allow you to put a Docker service in one or more categories.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=80)** For the sake of this demonstration, I'll represent these with one service each, but in real life there might be several microservices each for the storefront and scheduler applications.
+> **[1:20](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=80)** For the sake of this demonstration, I'll represent these with one service each, but in real life there might be several [[Microservices]] each for the storefront and scheduler applications.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-docker-compose/named-subsets-of-services?u=76281980&t=92)** Under the storefront service, I'll use the profiles keyword, and then a list of one or more profile names.
 >
@@ -779,15 +766,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), database (5), feature (1), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (8), [[Integration Testing]] (1), [[Microservices]] (1)
 > **CLI Commands:** docker (9)
 > **Analogies:** imagine (1), just like (1)
 > **Env Vars:** yaml (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Multiple compose files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/multiple-compose-files?u=76281980)
+#### [Multiple compose files](https://www.linkedin.com/learning/learning-docker-compose/multiple-compose-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,7 +789,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-docker-compose/multiple-compose-files?u=76281980&t=41)** That's because at some point, a developer may want to run the whole system at once.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-docker-compose/multiple-compose-files?u=76281980&t=46)** By default, Docker Compose will read two configuration files, one named docker-compose.yaml, the defaults, and one named docker-compose.override.yaml.
+> **[0:46](https://www.linkedin.com/learning/learning-docker-compose/multiple-compose-files?u=76281980&t=46)** By default, Docker [[Jetpack Compose|Compose]] will read two configuration files, one named docker-compose.yaml, the defaults, and one named docker-compose.override.yaml.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-docker-compose/multiple-compose-files?u=76281980&t=57)** The override file essentially inherits from the main configuration file.
 >
@@ -841,7 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (10), ci (1), feature (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (10)
 > **CLI Commands:** docker (10)
 > **File Paths:** docker-compose.yaml (2), docker-compose.local.yaml (2), docker-compose.override.yaml (1), docker-compose.staging.yaml (1)
 > **Definitions:** means that (1), stands for (1)
@@ -849,8 +835,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980)
+#### [Environment variables](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +851,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=53)** Inside a Docker composed YAML configuration, the syntax for accessing an environment variable from the shell is dollar sign, environment variable name.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=66)** In this example, I'll make the MySQL tag configurable with dollar sign tag.
+> **[1:06](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=66)** In this example, I'll make the [[MySQL]] tag configurable with dollar sign tag.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=71)** The curly braces are optional, but help with readability.
 >
@@ -882,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=101)** In this case, I'll use latest.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=103)** Alternatively, Docker Compose will automatically read a file named .EMV in the project route directory.
+> **[1:43](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=103)** Alternatively, Docker [[Jetpack Compose|Compose]] will automatically read a file named .EMV in the project route directory.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-docker-compose/environment-variables?u=76281980&t=111)** To provide defaults for multiple environment variables, use the standard bash syntax name equals value.
 >
@@ -909,20 +894,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=1)** - [Nicole] Thanks for watching my course.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=2)** I hope you find ways to leverage Docker Compose within your organization to make local developments simpler and developers more efficient.
+> **[0:02](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=2)** I hope you find ways to leverage Docker [[Jetpack Compose|Compose]] within your organization to make local developments simpler and developers more efficient.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=10)** The Docker Docs have a dedicated section on Compose that details all of the features I've covered and more.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=16)** It will be an incredibly useful reference when you go to implement Docker Compose in your own system.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=22)** Finally, if you liked this course and want to hear more about what I'm working on, you can follow me on LinkedIn.
+> **[0:22](https://www.linkedin.com/learning/learning-docker-compose/next-steps?u=76281980&t=22)** Finally, if you liked this course and want to hear more about what I'm working on, you can follow me on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >

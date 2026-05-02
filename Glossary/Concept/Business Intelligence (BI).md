@@ -8,16 +8,16 @@ aliases:
 linkedin_topics:
   - Data Science
   - Software Development
-  - Database Management
   - Cloud Computing
+  - Database Management
   - Artificial Intelligence (AI)
 tags:
   - glossary
   - type/concept
   - topic/data-science
   - topic/software-development
-  - topic/database-management
   - topic/cloud-computing
+  - topic/database-management
   - topic/artificial-intelligence
 course_count: 94
 created: 2026-05-02
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Business Intelligence (BI)
 
-> **Type:** Concept | **Courses:** 94 | **Topics:** [[Data Science]], [[Software Development]], [[Database Management]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 94 | **Topics:** [[Data Science]], [[Software Development]], [[Cloud Computing]], [[Database Management]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -67,38 +67,38 @@ created: 2026-05-02
 > 32. [[Hands-On Introduction- Data Engineering]] — 2 mentions
 > 33. [[ETL in Python and SQL]] — 2 mentions
 > 34. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
-> 35. [[Database Design Fundamentals]] — 2 mentions
-> 36. [[Power BI- Integrating AI]] — 2 mentions
-> 37. [[Architecting Big Data Applications- Batch Mode Application Engineering]] — 2 mentions
-> 38. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 2 mentions
-> 39. [[SQL Server 2022 Administration]] — 2 mentions
-> 40. [[Preparing To Get A Job In Data Analytics]] — 2 mentions
-> 41. [[Transition from Data Science to Data Engineering]] — 2 mentions
-> 42. [[Elasticsearch Essential Training (2023)]] — 2 mentions
-> 43. [[Advanced SQL for Application Development]] — 2 mentions
-> 44. [[Cloud Storage Concepts- Services, Cost Control, and Security]] — 1 mentions
-> 45. [[Creating Your IT Strategy]] — 1 mentions
-> 46. [[Learning Design Thinking- Lead Change in Your Organization]] — 1 mentions
-> 47. [[Generative AI Approaches to Business Challenges]] — 1 mentions
-> 48. [[Agentic AI- Building Data-First AI Agents]] — 1 mentions
-> 49. [[Cloud Computing Terms Every Beginner Should Know]] — 1 mentions
-> 50. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
-> 51. [[Software Architecture- Breaking a Monolith into Microservices]] — 1 mentions
-> 52. [[Executive Guide to AutoML]] — 1 mentions
-> 53. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
-> 54. [[Using AI to Improve Ops for Your Data Organization]] — 1 mentions
-> 55. [[Migrating to Azure]] — 1 mentions
-> 56. [[Microsoft Azure Synapse for Developers]] — 1 mentions
-> 57. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
-> 58. [[What Is Business Analysis]] — 1 mentions
-> 59. [[Learning Apache Airflow]] — 1 mentions
-> 60. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
-> 61. [[Learning Power BI Desktop]] — 1 mentions
-> 62. [[Power BI Quick Tips]] — 1 mentions
-> 63. [[Using AI for Data-Driven Insights]] — 1 mentions
-> 64. [[SQL for Data Analysis]] — 1 mentions
-> 65. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 1 mentions
-> 66. [[Azure Understanding The Big Picture]] — 1 mentions
+> 35. [[Azure Understanding The Big Picture]] — 2 mentions
+> 36. [[Database Design Fundamentals]] — 2 mentions
+> 37. [[Power BI- Integrating AI]] — 2 mentions
+> 38. [[Architecting Big Data Applications- Batch Mode Application Engineering]] — 2 mentions
+> 39. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 2 mentions
+> 40. [[SQL Server 2022 Administration]] — 2 mentions
+> 41. [[Preparing To Get A Job In Data Analytics]] — 2 mentions
+> 42. [[Transition from Data Science to Data Engineering]] — 2 mentions
+> 43. [[Elasticsearch Essential Training (2023)]] — 2 mentions
+> 44. [[Advanced SQL for Application Development]] — 2 mentions
+> 45. [[Cloud Storage Concepts- Services, Cost Control, and Security]] — 1 mentions
+> 46. [[Creating Your IT Strategy]] — 1 mentions
+> 47. [[Learning Design Thinking- Lead Change in Your Organization]] — 1 mentions
+> 48. [[Generative AI Approaches to Business Challenges]] — 1 mentions
+> 49. [[Agentic AI- Building Data-First AI Agents]] — 1 mentions
+> 50. [[Cloud Computing Terms Every Beginner Should Know]] — 1 mentions
+> 51. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
+> 52. [[Software Architecture- Breaking a Monolith into Microservices]] — 1 mentions
+> 53. [[Executive Guide to AutoML]] — 1 mentions
+> 54. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
+> 55. [[Using AI to Improve Ops for Your Data Organization]] — 1 mentions
+> 56. [[Migrating to Azure]] — 1 mentions
+> 57. [[Microsoft Azure Synapse for Developers]] — 1 mentions
+> 58. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
+> 59. [[What Is Business Analysis]] — 1 mentions
+> 60. [[Learning Apache Airflow]] — 1 mentions
+> 61. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
+> 62. [[Learning Power BI Desktop]] — 1 mentions
+> 63. [[Power BI Quick Tips]] — 1 mentions
+> 64. [[Using AI for Data-Driven Insights]] — 1 mentions
+> 65. [[SQL for Data Analysis]] — 1 mentions
+> 66. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 1 mentions
 > 67. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 1 mentions
 > 68. [[Data Mesh Architecture- Core Concepts]] — 1 mentions
 > 69. [[Excel- Economic Analysis and Data Analytics]] — 1 mentions

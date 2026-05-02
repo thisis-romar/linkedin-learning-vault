@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Serving upset customers with ease
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/serving-upset-customers-with-ease?u=76281980)
+#### [Serving upset customers with ease](https://www.linkedin.com/learning/working-with-upset-customers-22154277/serving-upset-customers-with-ease?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,8 +107,7 @@ created: 2026-05-02
 >
 > **CLI Commands:** make (1)
 
-#### Exploring your upset customers learning plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980)
+#### [Exploring your upset customers learning plan](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980&t=11)** If you're a customer service leader, trainer or small business owner, this course will give you tools and techniques that you can share with your team.
 >
-> **[0:19](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980&t=19)** Now, I do want to give you one word of caution.
+> **[0:19](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980&t=19)** Now, I do want to give you one [[Microsoft Word|word]] of caution.
 >
 > **[0:23](https://www.linkedin.com/learning/working-with-upset-customers-22154277/exploring-your-upset-customers-learning-plan?u=76281980&t=23)** No matter how hard you try, there's always somebody who won't be happy. When Ben and Jerry's has their free ice cream day, a few people actually find a reason to complain.
 >
@@ -149,15 +147,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** next video (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 
-#### Helping the customer be right
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/helping-the-customer-be-right?u=76281980)
+#### [Helping the customer be right](https://www.linkedin.com/learning/working-with-upset-customers-22154277/helping-the-customer-be-right?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/working-with-upset-customers-22154277/helping-the-customer-be-right?u=76281980&t=53)** I was here two days ago, and you did the exact same thing.
 >
-> **[0:55](https://www.linkedin.com/learning/working-with-upset-customers-22154277/helping-the-customer-be-right?u=76281980&t=55)** I asked for four pumps of vanilla, and you gave me, like, maybe two.
+> **[0:55](https://www.linkedin.com/learning/working-with-upset-customers-22154277/helping-the-customer-be-right?u=76281980&t=55)** I asked for four pumps of [[Vanilla]], and you gave me, like, maybe two.
 >
 > **[0:58](https://www.linkedin.com/learning/working-with-upset-customers-22154277/helping-the-customer-be-right?u=76281980&t=58)** Okay. Well, it's not my fault your drink got messed up last time.
 >
@@ -341,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (19), next (1)
+> **Frameworks & Libraries:** [[Vanilla]] (19)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
@@ -351,8 +348,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating personal connections with rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980)
+#### [Creating personal connections with rapport](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980&t=22)** Customers are more likely to forgive a service failure or overlook problems when they're dealing with someone they know, like, and trust.
 >
-> **[0:31](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980&t=31)** Imagine a coffee shop customer who is unhappy with her vanilla latte.
+> **[0:31](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980&t=31)** Imagine a coffee shop customer who is unhappy with her [[Vanilla]] latte.
 >
 > **[0:36](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980&t=36)** She might normally get upset about something like this, but let's see what happens if the barista had established rapport with the customer from previous visits.
 >
@@ -452,14 +448,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (6), express (1), next (1)
+> **Frameworks & Libraries:** [[Vanilla]] (6)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), just like (1)
 > **Env Vars:** vip (1)
 > **Definitions:** is a  (1)
 
-#### Avoiding unpleasant surprises
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-unpleasant-surprises?u=76281980)
+#### [Avoiding unpleasant surprises](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-unpleasant-surprises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,14 +534,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), express (1), management (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
 > **Exercise Files:** download the (1)
 > **Warnings:** caveat (1)
 
-#### Using preemptive acknowledgment
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/using-preemptive-acknowledgment?u=76281980)
+#### [Using preemptive acknowledgment](https://www.linkedin.com/learning/working-with-upset-customers-22154277/using-preemptive-acknowledgment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,7 +625,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Exercise Files:** download the (1)
@@ -642,8 +634,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognizing your natural instincts
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980)
+#### [Recognizing your natural instincts](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +674,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=88)** I was here two days ago, and you did the exact same thing.
 >
-> **[1:31](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=91)** I asked for four pumps of vanilla, and you gave me, like, maybe two.
+> **[1:31](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=91)** I asked for four pumps of [[Vanilla]], and you gave me, like, maybe two.
 >
 > **[1:34](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=94)** Okay. Well, it's not my fault your drink got messed up last time.
 >
@@ -699,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=102)** The customer was angry when she approached the counter.
 >
-> **[1:45](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=105)** She used the word you to refer to the coffee shop employees in general.
+> **[1:45](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=105)** She used the [[Microsoft Word|word]] you to refer to the coffee shop employees in general.
 >
 > **[1:49](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980&t=109)** But to the barista, it felt like a personal attack.
 >
@@ -754,8 +745,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 
-#### Listening with empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/listening-with-empathy?u=76281980)
+#### [Listening with empathy](https://www.linkedin.com/learning/working-with-upset-customers-22154277/listening-with-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/working-with-upset-customers-22154277/listening-with-empathy?u=76281980&t=47)** I was here two days ago and you did the exact same thing.
 >
-> **[0:49](https://www.linkedin.com/learning/working-with-upset-customers-22154277/listening-with-empathy?u=76281980&t=49)** I asked for four pumps of vanilla, and you gave me, like, maybe two.
+> **[0:49](https://www.linkedin.com/learning/working-with-upset-customers-22154277/listening-with-empathy?u=76281980&t=49)** I asked for four pumps of [[Vanilla]], and you gave me, like, maybe two.
 >
 > **[0:52](https://www.linkedin.com/learning/working-with-upset-customers-22154277/listening-with-empathy?u=76281980&t=52)** Okay. Well, it's not my fault your drink got messed up last time.
 >
@@ -909,8 +899,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1)
 
-#### Apologizing effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980)
+#### [Apologizing effectively](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +931,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=69)** They're less likely to return.
 >
-> **[1:11](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=71)** And they can spread negative word of mouth by telling friends about their bad experience or writing negative online reviews.
+> **[1:11](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=71)** And they can spread negative [[Microsoft Word|word]] of mouth by telling friends about their bad experience or writing negative online reviews.
 >
 > **[1:19](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=79)** On the other hand, people feel better when they forgive someone.
 >
@@ -952,7 +941,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=97)** Regret that the problem occurred, responsibility for the issue, and a remedy to solve the problem.
 >
-> **[1:45](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=105)** Let's look at an example where a coffee shop barista uses all three elements to apologize to a customer who is upset her latte didn't contain enough vanilla flavoring.
+> **[1:45](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=105)** Let's look at an example where a coffee shop barista uses all three elements to apologize to a customer who is upset her latte didn't contain enough [[Vanilla]] flavoring.
 >
 > **[1:56](https://www.linkedin.com/learning/working-with-upset-customers-22154277/apologizing-effectively?u=76281980&t=116)** You guys screwed up my order again.
 >
@@ -984,12 +973,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (3), power (2), [[Microsoft Word|Word]] (2), career (1), product (1)
+> **Frameworks & Libraries:** [[Vanilla]] (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Avoiding arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980)
+#### [Avoiding arguments](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=53)** I was here two days ago, and you did the exact same thing.
 >
-> **[0:56](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=56)** I asked for four pumps of vanilla, and you gave me, like, maybe two.
+> **[0:56](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=56)** I asked for four pumps of [[Vanilla]], and you gave me, like, maybe two.
 >
 > **[0:59](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=59)** I'm sorry we didn't get it right.
 >
@@ -1079,7 +1067,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=149)** The third way to prevent arguments is to avoid trigger words.
 >
-> **[2:33](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=153)** A trigger word is a word or phrase that can sound confrontational or disempowering to an upset customer.
+> **[2:33](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=153)** A trigger [[Microsoft Word|word]] is a word or phrase that can sound confrontational or disempowering to an upset customer.
 >
 > **[2:39](https://www.linkedin.com/learning/working-with-upset-customers-22154277/avoiding-arguments?u=76281980&t=159)** Examples include words like no or you should have, that make the customer believe you are not going to solve their problem.
 >
@@ -1123,14 +1111,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (15), next (3), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Vanilla]] (15), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** go back to (1)
 
-#### Drawing the line at abusive behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/drawing-the-line-at-abusive-behavior?u=76281980)
+#### [Drawing the line at abusive behavior](https://www.linkedin.com/learning/working-with-upset-customers-22154277/drawing-the-line-at-abusive-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1186,7 +1173,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Definitions:** is a  (1)
 
 
@@ -1194,8 +1180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preserving the relationship
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980)
+#### [Preserving the relationship](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,7 +1238,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980&t=147)** Here's an example where a coffee shop barista tries to preserve the relationship with the customer.
 >
-> **[2:33](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980&t=153)** The last time the customer visited the shop, she was upset that her vanilla latte did not have enough vanilla.
+> **[2:33](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980&t=153)** The last time the customer visited the shop, she was upset that her [[Vanilla]] latte did not have enough vanilla.
 >
 > **[2:40](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980&t=160)** So the barista made a special effort to reconnect.
 >
@@ -1295,12 +1280,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (5), next (4), product (2), business (1)
+> **Frameworks & Libraries:** [[Vanilla]] (5)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1)
 
-#### Conducting an after-action review
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/conducting-an-after-action-review?u=76281980)
+#### [Conducting an after-action review](https://www.linkedin.com/learning/working-with-upset-customers-22154277/conducting-an-after-action-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1324,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/working-with-upset-customers-22154277/conducting-an-after-action-review?u=76281980&t=86)** I was 15 minutes into my first day on the job when the department manager, who was supposed to train me, went on break.
 >
-> **[1:34](https://www.linkedin.com/learning/working-with-upset-customers-22154277/conducting-an-after-action-review?u=76281980&t=94)** I hadn't met any of my coworkers and I didn't know our products.
+> **[1:34](https://www.linkedin.com/learning/working-with-upset-customers-22154277/conducting-an-after-action-review?u=76281980&t=94)** I hadn't met any of my coworkers and I didn't know our [[Microsoft Products|products]].
 >
 > **[1:37](https://www.linkedin.com/learning/working-with-upset-customers-22154277/conducting-an-after-action-review?u=76281980&t=97)** When the customer asked me if we carry Dockers, I didn't have enough experience to stop my mouth from saying exactly what my brain was thinking, I don't know.
 >
@@ -1390,12 +1374,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** download the (1)
 
-#### Sharing customer feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/sharing-customer-feedback?u=76281980)
+#### [Sharing customer feedback](https://www.linkedin.com/learning/working-with-upset-customers-22154277/sharing-customer-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1473,7 +1456,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **CLI Commands:** make (4), find (3)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -1484,8 +1466,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting the work in
-> [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/putting-the-work-in?u=76281980)
+#### [Putting the work in](https://www.linkedin.com/learning/working-with-upset-customers-22154277/putting-the-work-in?u=76281980)
 
 > [!transcript]- Transcript
 >

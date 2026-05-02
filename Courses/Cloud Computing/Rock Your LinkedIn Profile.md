@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to opportunity with LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980)
+#### [Connect to opportunity with LinkedIn](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980&t=0)** - You have a story.
 >
-> **[0:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980&t=2)** Whether you're just starting out in your career, getting ready to level up, or charting a path towards something new, your LinkedIn profile can help bring your career journey to life.
+> **[0:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980&t=2)** Whether you're just starting out in your career, getting ready to level up, or charting a path towards something new, your [[LinkedIn]] profile can help bring your career journey to life.
 >
 > **[0:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980&t=13)** In this course, I'll push you to rethink what's possible with your LinkedIn profile to help you craft a narrative that's as unique as you are.
 >
@@ -108,11 +107,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), career (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5)
 > **Speakers:** - you (1)
 
-#### What to know before getting started on LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980)
+#### [What to know before getting started on LinkedIn](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,25 +118,25 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=6)** So here's a couple of things you should know before getting started.
 >
-> **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=10)** First up, make sure you've already set up your LinkedIn profile.
+> **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=10)** First up, make sure you've already set up your [[LinkedIn]] profile.
 >
 > **[0:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=13)** If you're not there yet or need a little help getting started, check out this quick LinkedIn article to get things rolling.
 >
 > **[0:21](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=21)** Instead of spending time on the mechanics of setting up your LinkedIn profile, I'll help you learn how to use your profile to tell your story and bring your professional brand to life.
 >
-> **[0:31](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=31)** Next, take a moment to review your privacy and security settings and adjust them to your liking, as I won't be covering the ins and outs of privacy and security in this course.
+> **[0:31](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=31)** Next, take a moment to review your [[Privacy]] and security settings and adjust them to your liking, as I won't be covering the ins and outs of privacy and security in this course.
 >
 > **[0:42](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=42)** Also, don't forget to check your account settings to make sure everything is customized to fit your preferences.
 >
 > **[0:48](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=48)** You can check out the article here to get some additional help.
 >
-> **[0:52](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=52)** Lastly, get a little extra help up-leveling your profile by using AI tools such as Microsoft Copilot or ChatGPT.
+> **[0:52](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=52)** Lastly, get a little extra help up-leveling your profile by using AI tools such as [[Microsoft Copilot]] or [[ChatGPT]].
 >
 > **[1:00](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/what-to-know-before-getting-started-on-linkedin?u=76281980&t=60)** That about sums it up. Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Privacy]] (2), [[Security]] (2), next (1), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Privacy]] (2), [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** getting started (2), set up (1)
 > **Analogies:** such as (1)
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elevate your presence: Use profile to build your brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980)
+#### [Elevate your presence: Use profile to build your brand](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,11 +188,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=105)** Then you can bring your brand into your profile and stand out in your industry.
 >
-> **[1:51](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=111)** Another way to promote your brand is by sharing stories and real examples of your work on your LinkedIn profile.
+> **[1:51](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=111)** Another way to promote your brand is by sharing stories and real examples of your work on your [[LinkedIn]] profile.
 >
 > **[1:58](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=118)** Want to show off your creativity?
 >
-> **[2:00](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=120)** Think about adding videos, photos, or even PowerPoint presentations that capture your unique creative vision.
+> **[2:00](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=120)** Think about adding videos, photos, or even [[Microsoft PowerPoint|PowerPoint]] presentations that capture your unique creative vision.
 >
 > **[2:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980&t=128)** Ready to highlight your collaboration skills?
 >
@@ -220,8 +217,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - a (1)
 
-#### Transform your profile into a story that stands out
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980)
+#### [Transform your profile into a story that stands out](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,9 +229,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980&t=13)** Now, let's be real.
 >
-> **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980&t=14)** A story probably isn't the first thing that comes to mind when you think of LinkedIn.
+> **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980&t=14)** A story probably isn't the first thing that comes to mind when you think of [[LinkedIn]].
 >
-> **[0:19](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980&t=19)** Chances are, the word "resume" probably feels way more relevant in this scenario.
+> **[0:19](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980&t=19)** Chances are, the [[Microsoft Word|word]] "resume" probably feels way more relevant in this scenario.
 >
 > **[0:24](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/transform-your-profile-into-a-story-that-stands-out?u=76281980&t=24)** But hear me out.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), career (2), strengths (1), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Microsoft Word|Word]] (1)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** snap (1)
 > **Speakers:** - connection (1)
@@ -303,8 +299,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add a photo to stand out
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980)
+#### [Add a photo to stand out](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980&t=2)** You've just met Jacob at an industry conference and you hit it off while discussing the latest innovations in your field.
 >
-> **[0:09](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980&t=9)** The conversation was so good, you decide to add him to your LinkedIn network.
+> **[0:09](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980&t=9)** The conversation was so good, you decide to add him to your [[LinkedIn]] network.
 >
 > **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980&t=14)** A few days later, you go to search for him, but when you find his profile, there's a blank silhouette instead of a photo, and you see hundreds of other Jacobs with the same last name.
 >
@@ -382,15 +377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), hit (2), [[Search]] (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5)
 > **CLI Commands:** snap (2), make (2), find (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Analogies:** picture (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - picture (1)
 
-#### Get recognized with name pronunciation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recognized-with-name-pronunciation?u=76281980)
+#### [Get recognized with name pronunciation](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recognized-with-name-pronunciation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recognized-with-name-pronunciation?u=76281980&t=12)** Having people correctly pronounce your name can make a great first impression and help create a more inclusive work environment.
 >
-> **[0:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recognized-with-name-pronunciation?u=76281980&t=20)** That's why LinkedIn launched the name pronunciation feature.
+> **[0:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recognized-with-name-pronunciation?u=76281980&t=20)** That's why [[LinkedIn]] launched the name pronunciation feature.
 >
 > **[0:23](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recognized-with-name-pronunciation?u=76281980&t=23)** This lets you create a recording of how your name is pronounced and add it right to your profile.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (6), feature (3), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (6)
 > **Speakers:** - you (1), - [jahayra] (1), - [instructor] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -470,8 +464,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
 
-#### Craft an attention grabbing headline
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980)
+#### [Craft an attention grabbing headline](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=7)** Guess what?
 >
-> **[0:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=8)** This is an actual headline for a real LinkedIn profile.
+> **[0:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=8)** This is an actual headline for a real [[LinkedIn]] profile.
 >
 > **[0:12](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=12)** You guessed it, it's mine.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=26)** Your headline is that catchy one-liner that appears right under your name on your profile.
 >
-> **[0:33](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=33)** Think of it as your personal branding moment.
+> **[0:33](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=33)** Think of it as your [[Personal Branding]] moment.
 >
 > **[0:36](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=36)** So make it compelling, unique, and a true showcase of what makes you stand out.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=50)** First, what are some industry keywords that will help you get discovered by your professional community across LinkedIn?
 >
-> **[0:59](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=59)** These can be things like employee engagement, software development, B2B sales, or food and beverage service to name a few.
+> **[0:59](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=59)** These can be things like employee engagement, [[Software Development]], B2B sales, or food and beverage service to name a few.
 >
 > **[1:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=68)** Second, pinpoint exactly what you do.
 >
@@ -523,7 +516,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=124)** Or maybe you have amazing leadership skills or expert coding abilities, be sure to add those as well.
 >
-> **[2:11](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=131)** So if you're a recruiter who specializes in recruiting for the healthcare industry, this could show up as dream maker, connecting top talent to their dream jobs in healthcare.
+> **[2:11](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=131)** So if you're a recruiter who specializes in recruiting for the [[Healthcare Industry]], this could show up as dream maker, connecting top talent to their dream jobs in healthcare.
 >
 > **[2:23](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=143)** Or if you're a data center technician who has a side hustle as a photographer, maybe something like this, data center technician by day, photographer by night.
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=257)** You can also explore the profiles of your colleagues, managers, friends, and mentors to get a broader range of ideas.
 >
-> **[4:26](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=266)** Lastly, you can always turn to your AI assistants Microsoft Copilot or ChatGPT to spark some headline inspiration.
+> **[4:26](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=266)** Lastly, you can always turn to your AI assistants [[Microsoft Copilot]] or [[ChatGPT]] to spark some headline inspiration.
 >
 > **[4:36](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-an-attention-grabbing-headline?u=76281980&t=276)** Now you've got everything you need to craft a headline that'll make you stand out, elevate your brand, and truly represent who you are.
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), data (3), ai (3), [[Search]] (1), [[Personal Branding]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Personal Branding]] (1), [[Software Development]] (1), [[Healthcare Industry]] (1), [[Microsoft Copilot]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** icu (2), b2b (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -577,14 +570,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - chief (1)
 
-#### Signal that you're open to work
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980)
+#### [Signal that you're open to work](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=1)** - Did you know that members who add the #OpenToWork photo frame are 40% more likely to get in mails from recruiters, but that's not all.
 >
-> **[0:11](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=11)** They're also 20% more likely to receive messages from the LinkedIn community.
+> **[0:11](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=11)** They're also 20% more likely to receive messages from the [[LinkedIn]] community.
 >
 > **[0:17](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=17)** So what's #OpenToWork all about?
 >
@@ -608,13 +600,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=74)** In the pop-up window that appears, James can specify the types of jobs he's searching for.
 >
-> **[1:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=80)** Since he's in web design, he'll add web designer and graphic web designer for now.
+> **[1:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=80)** Since he's in [[Web Design]], he'll add web designer and graphic web designer for now.
 >
 > **[1:27](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=87)** Under location types, he can add how he wants to work.
 >
 > **[1:30](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=90)** Since he's searching for Hybrid and Remote jobs, he'll select those two.
 >
-> **[1:36](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=96)** He also has the ability to specify his preferred onsite locations if he comes into an office as well as his preferred remote location.
+> **[1:36](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=96)** He also has the ability to specify his preferred onsite locations if he comes into an [[Microsoft Office|office]] as well as his preferred remote location.
 >
 > **[1:45](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=105)** For onsite, he'll add Greater Sydney Area and for remote, he'll add the APAC region.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=160)** For James, he's going to share with all LinkedIn members.
 >
-> **[2:44](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=164)** He can also click Learn more about your privacy to see how this information gets shared.
+> **[2:44](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=164)** He can also click Learn more about your [[Privacy]] to see how this information gets shared.
 >
 > **[2:50](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/signal-that-you-re-open-to-work?u=76281980&t=170)** Last but not least, James will click Save and ta-da.
 >
@@ -646,13 +638,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), web (4), [[Search]] (2), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Web Design]] (1), [[Microsoft Office|Office]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** apac (1)
 > **Speakers:** - did (1)
 
-#### Add your pronouns to your LinkedIn profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-pronouns-to-your-linkedin-profile?u=76281980)
+#### [Add your pronouns to your LinkedIn profile](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-pronouns-to-your-linkedin-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-pronouns-to-your-linkedin-profile?u=76281980&t=7)** That's called belonging.
 >
-> **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-pronouns-to-your-linkedin-profile?u=76281980&t=10)** LinkedIn lets you show up as your authentic self, creating moments of belonging.
+> **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-pronouns-to-your-linkedin-profile?u=76281980&t=10)** [[LinkedIn]] lets you show up as your authentic self, creating moments of belonging.
 >
 > **[0:15](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-pronouns-to-your-linkedin-profile?u=76281980&t=15)** One way we do this, by giving you the option to display your gender pronouns on your profile.
 >
@@ -698,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), feature (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **UI Navigation:** scroll down (1), dropdown (1), click on (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -709,8 +700,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduce yourself with a profile summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980)
+#### [Introduce yourself with a profile summary](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980&t=13)** What do you say?
 >
-> **[0:15](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980&t=15)** Now, let's flip the scenario to LinkedIn.
+> **[0:15](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980&t=15)** Now, let's flip the scenario to [[LinkedIn]].
 >
 > **[0:18](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980&t=18)** Think of your profile summary as that virtual elevator moment.
 >
@@ -798,7 +788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1), business (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** ceo (1), stem (1)
 > **Cross-References:** in the next (1)
@@ -806,8 +796,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Craft a summary that reflects who you are
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980)
+#### [Craft a summary that reflects who you are](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,9 +808,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=24)** First, make sure your summary is over 40 words long.
 >
-> **[0:28](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=28)** This will make it easier for others to find you on LinkedIn.
+> **[0:28](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=28)** This will make it easier for others to find you on [[LinkedIn]].
 >
-> **[0:33](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=33)** In your summary, spotlight your unique skills, you know, the ones you excel at and feel totally natural doing.
+> **[0:33](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=33)** In your summary, spotlight your unique skills, you know, the ones you [[Microsoft Excel|excel]] at and feel totally natural doing.
 >
 > **[0:40](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=40)** This is your chance to stand out from the crowd.
 >
@@ -857,15 +846,15 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=126)** First, she'll click the pencil in the top right of her About section to start editing.
 >
-> **[2:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=133)** Sue's ready to take that amazing new summary she just created in Word doc on her computer and paste it directly into her profile.
+> **[2:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=133)** Sue's ready to take that amazing new summary she just created in [[Microsoft Word|Word]] doc on her computer and paste it directly into her profile.
 >
 > **[2:22](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=142)** Sue can also include her top skills right in her About section below.
 >
 > **[2:28](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=148)** Since recruiters search for these, it'll help her stand out and get noticed.
 >
-> **[2:34](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=154)** She'll add Business Operations, Customer Service,
+> **[2:34](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=154)** She'll add [[Business Operations]], Customer Service,
 >
-> **[2:44](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=164)** and Sustainability because she's implementing innovative business practices to promote a more sustainable future.
+> **[2:44](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=164)** and [[Sustainability]] because she's implementing innovative business practices to promote a more sustainable future.
 >
 > **[2:53](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=173)** Then she'll click Save.
 >
@@ -919,7 +908,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=319)** Often it's others who know you well who can help you identify key skills, experience, accomplishments, and impact.
 >
-> **[5:29](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=329)** And don't forget your AI sidekicks, such as Microsoft Copilot and ChatGPT, are always here to help fine-tune your work experience.
+> **[5:29](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=329)** And don't forget your AI sidekicks, such as [[Microsoft Copilot]] and [[ChatGPT]], are always here to help fine-tune your work experience.
 >
 > **[5:40](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/craft-a-summary-that-reflects-who-you-are?u=76281980&t=340)** You don't have to do this alone.
 >
@@ -931,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[LinkedIn]] (3), [[Sustainability]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Business Operations]] (2), [[Sustainability]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
@@ -939,14 +928,13 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - did (1)
 
-#### Highlight key achievements with featured content
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980)
+#### [Highlight key achievements with featured content](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=1)** - When you create or accomplish something you're proud of, it's natural to want to share your hard work with the world, right?
 >
-> **[0:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=7)** That's where LinkedIn's Featured section comes in.
+> **[0:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=7)** That's where [[LinkedIn]]'s Featured section comes in.
 >
 > **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=10)** It gives you the perfect spot to do just that.
 >
@@ -982,7 +970,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=92)** First, he'll click the plus on the top right to add a new piece of content.
 >
-> **[1:37](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=97)** Next, he'll scroll down and select Media because he's going to be uploading a PowerPoint.
+> **[1:37](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=97)** Next, he'll scroll down and select Media because he's going to be uploading a [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:42](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-key-achievements-with-featured-content?u=76281980&t=102)** Mateo recently presented a case study in pediatric cardiology at a conference and wants to feature it here.
 >
@@ -1060,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[LinkedIn]] (4), next (3), feature (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[LinkedIn]] (4)
 > **UI Navigation:** scroll down (2), select the (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
@@ -1071,8 +1059,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use your work experience to tell a story
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980)
+#### [Use your work experience to tell a story](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1069,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=8)** They're not just random numbers.
 >
-> **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=10)** They're LinkedIn stats that prove why keeping your work experience up-to-date on your profile is a game changer.
+> **[0:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=10)** They're [[LinkedIn]] stats that prove why keeping your work experience up-to-date on your profile is a game changer.
 >
 > **[0:17](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=17)** Curious what they mean?
 >
@@ -1092,7 +1079,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=23)** Adding at least one position to your profile can get you up to two times as many profile views.
 >
-> **[0:30](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=30)** So what does this mean for you in one word?
+> **[0:30](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=30)** So what does this mean for you in one [[Microsoft Word|word]]?
 >
 > **[0:34](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=34)** Opportunity.
 >
@@ -1172,13 +1159,13 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=240)** Everyone has a story worth telling and your work experience section is the perfect place to lean in and own it.
 >
-> **[4:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=248)** Speak to your journey, but don't forget to highlight how you drive results, create impact and lead change.
+> **[4:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=248)** Speak to your journey, but don't forget to highlight how you drive results, create impact and [[Lead Change]].
 >
 > **[4:15](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980&t=255)** I can't wait to read your story.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), business (2), game (1), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Microsoft Word|Word]] (1), [[Lead Change]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 99.9 (1)
 > **Definitions:** is a  (1)
@@ -1186,8 +1173,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - two (1)
 
-#### Add your work experience to showcase what you do best
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-work-experience-to-showcase-what-you-do-best?u=76281980)
+#### [Add your work experience to showcase what you do best](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-work-experience-to-showcase-what-you-do-best?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1317,7 +1303,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-work-experience-to-showcase-what-you-do-best?u=76281980&t=324)** By getting their perspective, you get a more holistic view of your accomplishments.
 >
-> **[5:28](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-work-experience-to-showcase-what-you-do-best?u=76281980&t=328)** And don't forget, you can always turn to your trusty AI friends, such as Microsoft Copilot or ChatGPT to expand on your current experience or spark new ideas.
+> **[5:28](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-work-experience-to-showcase-what-you-do-best?u=76281980&t=328)** And don't forget, you can always turn to your trusty AI friends, such as [[Microsoft Copilot]] or [[ChatGPT]] to expand on your current experience or spark new ideas.
 >
 > **[5:41](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-your-work-experience-to-showcase-what-you-do-best?u=76281980&t=341)** Every role you take is a step forward.
 >
@@ -1327,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (3), career (1), ai (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
 > **UI Navigation:** scroll down (3), click on (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pdf (3)
@@ -1336,8 +1322,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
 
-#### Incorporate career breaks into your LinkedIn profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980)
+#### [Incorporate career breaks into your LinkedIn profile](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1332,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=12)** You're not alone.
 >
-> **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=14)** LinkedIn introduced career breaks to flip the script and break the stigma around taking time away from traditional work.
+> **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=14)** [[LinkedIn]] introduced career breaks to flip the script and break the stigma around taking time away from traditional work.
 >
 > **[0:22](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=22)** Now, you can highlight your career breaks right in your Experience section by sharing what you did, why it mattered, and the skills you gained along the way.
 >
@@ -1371,7 +1356,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=76)** Next up, James is filling in the details by adding a description.
 >
-> **[1:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=80)** He recently made the big decision to leave his web design career and dedicate himself to full-time parenting, so he'll add that into the description.
+> **[1:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=80)** He recently made the big decision to leave his [[Web Design]] career and dedicate himself to full-time parenting, so he'll add that into the description.
 >
 > **[1:29](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/incorporate-career-breaks-into-your-linkedin-profile?u=76281980&t=89)** Then he'll highlight what he actually did during his break and add that in.
 >
@@ -1413,22 +1398,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (13), next (3), [[LinkedIn]] (1), web (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Web Design]] (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - have (1)
 
-#### Highlight social impact with volunteer experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980)
+#### [Highlight social impact with volunteer experience](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980&t=1)** - Ready to make a lasting impression on LinkedIn?
+> **[0:01](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980&t=1)** - Ready to make a lasting impression on [[LinkedIn]]?
 >
 > **[0:04](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980&t=4)** Adding volunteer experience not only highlights your skills and passions, but also shows your dedication to creating a positive change in the world.
 >
-> **[0:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980&t=13)** It also gives others a more complete view of who you are, showing not just what you do, but what you're passionate about outside the office.
+> **[0:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980&t=13)** It also gives others a more complete view of who you are, showing not just what you do, but what you're passionate about outside the [[Microsoft Office|office]].
 >
 > **[0:22](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/highlight-social-impact-with-volunteer-experience?u=76281980&t=22)** Do you volunteer with the Boys & Girls Club?
 >
@@ -1502,7 +1486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (2), [[Microsoft Office|Office]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1514,8 +1498,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Showcase your expertise with skills and endorsements
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980)
+#### [Showcase your expertise with skills and endorsements](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,7 +1512,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=16)** You have superpowers too, and they're called skills.
 >
-> **[0:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=20)** So why should you add your skills to your LinkedIn profile?
+> **[0:20](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=20)** So why should you add your skills to your [[LinkedIn]] profile?
 >
 > **[0:25](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=25)** Your skills, highlight your strengths, set you apart, and build credibility with your colleagues, recruiters, and everyone in your network.
 >
@@ -1555,7 +1538,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=99)** First, we'll scroll down to the skills section of his profile.
 >
-> **[1:43](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=103)** As you can see, he has two skills listed, graphic design and Photoshop.
+> **[1:43](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=103)** As you can see, he has two skills listed, [[Graphic Design]] and Photoshop.
 >
 > **[1:48](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=108)** James can click show all 11 skills to pull up the fullest of skills he's added to his profile.
 >
@@ -1567,7 +1550,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=133)** Now, James wants to add a new skill to round out his technical skillset.
 >
-> **[2:17](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=137)** He just learned how to use Figma, a cloud-based design tool.
+> **[2:17](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=137)** He just learned how to use [[Figma (Software)|Figma]], a cloud-based design tool.
 >
 > **[2:21](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=141)** So to add this to his profile, he'll click the plus on the top right and start typing in Figma.
 >
@@ -1577,7 +1560,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=156)** In James's case, he will check Red30 design and his freelance work.
 >
-> **[2:42](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=162)** For now, he'll leave the rest blank since he's only focusing on his work experience.
+> **[2:42](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=162)** For now, he'll leave the [[Representational State Transfer (REST)|rest]] blank since he's only focusing on his work experience.
 >
 > **[2:47](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=167)** This box, by default, is checked for him.
 >
@@ -1631,11 +1614,11 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=296)** Add a mix of industry and interpersonal skills that showcase your strengths and professional brand.
 >
-> **[5:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=302)** Are you a PowerPoint pro?
+> **[5:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=302)** Are you a [[Microsoft PowerPoint|PowerPoint]] pro?
 >
 > **[5:04](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=304)** Add it in.
 >
-> **[5:05](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=305)** Skilled in robotics or Python?
+> **[5:05](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=305)** Skilled in robotics or [[Python (Programming Language)|Python]]?
 >
 > **[5:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980&t=307)** That belongs on your profile too.
 >
@@ -1655,7 +1638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Figma (Software)|Figma]] (5), strengths (2), [[Graphic Design]] (2), career (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Figma (Software)|Figma]] (5), [[Graphic Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** drag and drop (2), click on (2), toggle (2), scroll down (1), select the (1)
 > **CLI Commands:** make (5), python (1)
 > **Tools:** figma (5)
@@ -1664,8 +1647,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** pro tip (1)
 
-#### Get recommendations to build credibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980)
+#### [Get recommendations to build credibility](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,7 +1671,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=54)** Look to colleagues, managers, executives, or industry partners, those who've seen your skills in action and can speak to your strengths, impact, and expertise firsthand.
 >
-> **[1:05](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=65)** As a best practice, I always recommend skipping LinkedIn's generic template and personalizing your request.
+> **[1:05](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=65)** As a best practice, I always recommend skipping [[LinkedIn]]'s generic template and personalizing your request.
 >
 > **[1:12](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=72)** Why?
 >
@@ -1757,7 +1739,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=230)** "Hi, Rochelle.
 >
-> **[3:52](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=232)** Having just completed and launched your brand new e-commerce website, I'd really appreciate it if you could write a recommendation for me.
+> **[3:52](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=232)** Having just completed and launched your brand new [[E-Commerce]] website, I'd really appreciate it if you could write a recommendation for me.
 >
 > **[3:59](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/get-recommendations-to-build-credibility?u=76281980&t=239)** Understanding your busy schedule, I've drafted a starting point below.
 >
@@ -1791,7 +1773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), strengths (2), [[LinkedIn]] (2), [[E-Commerce]] (2), generic (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[E-Commerce]] (2)
 > **Exercise Files:** template (3)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1800,8 +1782,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - credibility (1)
 
-#### Build trust with verifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980)
+#### [Build trust with verifications](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,7 +1792,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=7)** On average, members who are verified get 60% more profile views than those who aren't.
 >
-> **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=14)** At LinkedIn, authenticity is the foundation of meaningful connections.
+> **[0:14](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=14)** At [[LinkedIn]], authenticity is the foundation of meaningful connections.
 >
 > **[0:19](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=19)** A verification badge on your profile signals that you've confirmed key details about your account, such as your identity and workplace.
 >
@@ -1833,7 +1814,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=67)** There are several different ways to do this.
 >
-> **[1:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=70)** For example, you can use your work email, Microsoft Entra Verified ID, or even an active LinkedIn recruiter license provided by your company.
+> **[1:10](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=70)** For example, you can use your work email, [[Microsoft]] [[Microsoft Entra ID|Entra]] Verified ID, or even an active LinkedIn recruiter license provided by your company.
 >
 > **[1:19](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/build-trust-with-verifications?u=76281980&t=79)** These are just a few ways, but there's many more, and the list is always growing.
 >
@@ -1869,7 +1850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (8), next (1), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
@@ -1880,8 +1861,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for LinkedIn success
-> [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980)
+#### [Next steps for LinkedIn success](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1893,7 +1873,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=21)** Need more support?
 >
-> **[0:22](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=22)** You can always visit LinkedIn's help center for additional guidance.
+> **[0:22](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=22)** You can always visit [[LinkedIn]]'s help center for additional guidance.
 >
 > **[0:26](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=26)** Many of the articles I referenced throughout this course are available there.
 >
@@ -1907,7 +1887,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=58)** Lean on your community for support and guidance along the way.
 >
-> **[1:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=62)** And don't forget about the power of AI tools, like Microsoft Copilot and ChatGPT.
+> **[1:02](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=62)** And don't forget about the power of AI tools, like [[Microsoft Copilot]] and [[ChatGPT]].
 >
 > **[1:08](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980&t=68)** Our AI friends are great for helping you fine-tune your profile and spark new ideas.
 >
@@ -1931,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), ai (2), power (1), [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Microsoft Copilot]] (1), [[ChatGPT]] (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - congratulations (1)

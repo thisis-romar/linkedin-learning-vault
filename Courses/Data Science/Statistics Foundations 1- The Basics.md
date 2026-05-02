@@ -101,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The beginning of your statistics journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980)
+#### [The beginning of your statistics journey](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=1)** - Data-driven decision making, statistical analysis, it's all become an important part of life as we know it.
+> **[0:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=1)** - [[Data-driven Decision Making]], [[Statistical Analysis]], it's all become an important part of life as we know it.
 >
-> **[0:08](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=8)** As we navigate our world of business, science, politics, sports, and pandemics, statistics is the foundation for making good decisions built on data.
+> **[0:08](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=8)** As we navigate our world of business, science, politics, sports, and pandemics, [[Statistics]] is the foundation for making good decisions built on data.
 >
 > **[0:20](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=20)** So many people, devices, and events, the data piles up.
 >
@@ -122,13 +121,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=57)** Together, all of these tools will help you better understand your data set.
 >
-> **[1:03](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=63)** This particular course isn't complex or nuanced, but it should get you thinking in the language of statistics, and then you'll be able to turn that knowledge into decision-making ability.
+> **[1:03](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=63)** This particular course isn't complex or nuanced, but it should get you thinking in the language of statistics, and then you'll be able to turn that knowledge into [[Decision-Making]] ability.
 >
 > **[1:14](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980&t=74)** Ready to dive into some stats? Good, let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (3), [[Data-driven Decision Making]] (1), [[Statistical Analysis]] (1), business (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data-driven Decision Making]] (1), [[Statistical Analysis]] (1), [[Decision-Making]] (1)
 > **Speakers:** - data (1)
 
 
@@ -136,8 +135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data and charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980)
+#### [Introduction to data and charts](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=2)** It's everywhere, and new data are generated every second.
 >
-> **[0:06](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=6)** Every time we buy a product, Google something, vote in an election, or watch a show on Netflix, we create data.
+> **[0:06](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=6)** Every time we buy a product, [[Google]] something, vote in an election, or watch a show on Netflix, we create data.
 >
 > **[0:15](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=15)** All of that data is collected and stored, but what does it look like?
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=35)** Your favorite stories might be in novels, comic books, or movies.
 >
-> **[0:39](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=39)** In the world of statistics, stories are illustrated with charts, graphs, and tables.
+> **[0:39](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=39)** In the world of [[Statistics]], stories are illustrated with charts, graphs, and tables.
 >
 > **[0:46](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980&t=46)** They illustrate dominance. They reveal change.
 >
@@ -167,15 +165,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (2), product (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Google]] (1)
 > **Speakers:** - we (1)
 
-#### Data and chart examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980)
+#### [Data and chart examples](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980&t=0)** - [Instructor] Let's look at some statistics tools we can use to illustrate our datasets.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980&t=0)** - [Instructor] Let's look at some [[Statistics]] tools we can use to illustrate our datasets.
 >
 > **[0:04](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/data-and-chart-examples?u=76281980&t=4)** I'm in the exercise file 01_02.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -229,8 +226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The middle of your data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980)
+#### [The middle of your data set](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=89)** Where's the middle now?
 >
-> **[1:31](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=91)** In world of statistics, we often use three tools to help us understand the center of our data.
+> **[1:31](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=91)** In world of [[Statistics]], we often use three tools to help us understand the center of our data.
 >
 > **[1:38](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980&t=98)** First, the mean, which is the average of all the numbers in the data set.
 >
@@ -302,13 +298,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - every (1)
 
-#### Basic data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/basic-data-sets?u=76281980)
+#### [Basic data sets](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/basic-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,19 +381,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), next (1)
 > **CLI Commands:** find (4)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special circumstances
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980)
+#### [Special circumstances](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=0)** - [Instructor] Mean, median, and mode, they're all helpful in understanding a data set, and they're all fairly easy to find or calculate.
 >
-> **[0:07](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=7)** So, let's look at another data set to test our emerging statistics skills.
+> **[0:07](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=7)** So, let's look at another data set to test our emerging [[Statistics]] skills.
 >
 > **[0:11](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/special-circumstances?u=76281980&t=11)** Here's a bigger dataset.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Statistics]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Versions:** 75.5 (6), 10.5 (2)
 > **CLI Commands:** find (7)
 > **Cross-References:** as we saw (1)
@@ -478,8 +471,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to variability
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-variability?u=76281980)
+#### [Introduction to variability](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-variability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,13 +503,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - mean (1)
 
-#### Range
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/range?u=76281980)
+#### [Range](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,13 +569,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - look (1)
 
-#### Standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980)
+#### [Standard deviation](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=24)** For example, the dataset has a mean of 139 pounds, and a standard deviation of 41 pounds.
 >
-> **[0:34](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=34)** The data set has a pretty big data point of 231 pounds.
+> **[0:34](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=34)** The data set has a pretty [[Big Data]] point of 231 pounds.
 >
 > **[0:39](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/standard-deviation?u=76281980&t=39)** Other than saying it's a very big data point, or that it's 92 pounds above the mean, how else can we describe how big this data point is inside of this dataset?
 >
@@ -653,15 +641,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Big Data]] (2), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (2)
 > **Versions:** 2.24 (3), 0.66 (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Calculating standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/calculating-standard-deviation?u=76281980)
+#### [Calculating standard deviation](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/calculating-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,15 +702,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
 > **Versions:** 18.7 (2), 4.32 (2)
 > **CLI Commands:** find (2)
 > **Definitions:** we call this (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Big and small standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980)
+#### [Big and small standard deviation](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,16 +740,15 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980&t=77)** As you can see, standard deviation can be a very helpful tool in understanding datasets and their individual data points, and most importantly, how those data points relate to the central tendency.
 >
-> **[1:32](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980&t=92)** Standard deviation will help us generate interesting questions about the data collection methods, the entire pool of data, and even the individual points of data.
+> **[1:32](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/big-and-small-standard-deviation?u=76281980&t=92)** Standard deviation will help us generate interesting questions about the [[Data Collection]] methods, the entire pool of data, and even the individual points of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Empirical rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/empirical-rule?u=76281980)
+#### [Empirical rule](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/empirical-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,13 +812,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28)
 > **Versions:** 99.7 (3), 0.3 (1), 0.8 (1), 0.1 (1), 3.2 (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - the (1)
 
-#### Outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980)
+#### [Outliers](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=48)** I guess what I'm asking is what exactly makes something an outlier?
 >
-> **[0:53](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=53)** Most disciplines that count on statistics say that an outlier is a data point that is an abnormal distance from the other values in the dataset.
+> **[0:53](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=53)** Most disciplines that count on [[Statistics]] say that an outlier is a data point that is an abnormal distance from the other values in the dataset.
 >
 > **[1:04](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=64)** But what's abnormal?
 >
@@ -914,7 +896,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=169)** Did they use different equipment or technology?
 >
-> **[2:52](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=172)** As you encounter potential outliers in your data at the office, or even in your hobbies, ask good questions.
+> **[2:52](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=172)** As you encounter potential outliers in your data at the [[Microsoft Office|office]], or even in your hobbies, ask good questions.
 >
 > **[3:01](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/outliers?u=76281980&t=181)** Is this really an outlier?
 >
@@ -928,7 +910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - nowadays (1)
@@ -938,14 +920,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=0)** - Thank you for spending some time with me and learning a little bit more about elementary statistics.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=0)** - Thank you for spending some time with me and learning a little bit more about elementary [[Statistics]].
 >
-> **[0:06](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=6)** I want to let you know that there's a part two to this course that covers probability in depth.
+> **[0:06](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=6)** I want to let you know that there's a part two to this course that covers [[Probability]] in depth.
 >
 > **[0:11](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980&t=11)** Please check that out as well.
 >

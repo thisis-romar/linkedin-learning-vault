@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Land your dream job
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980)
+#### [Land your dream job](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980&t=0)** - You know, it's such an exciting time to be working in the field of data science.
+> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980&t=0)** - You know, it's such an exciting time to be working in the field of [[Data Science]].
 >
 > **[0:03](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/land-your-dream-job?u=76281980&t=3)** Seriously.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (1), career (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (10)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
@@ -126,14 +125,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify job types
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980)
+#### [Identify job types](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=0)** - A data scientist is one of the most interesting jobs of the 21st century.
 >
-> **[0:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=5)** With the explosion of AI and machine learning now, data science jobs are in every industry.
+> **[0:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=5)** With the explosion of AI and machine learning now, [[Data Science]] jobs are in every industry.
 >
 > **[0:10](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=10)** But filtering the deluge of job opportunities down to what you're interesting in is key.
 >
@@ -155,17 +153,17 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=44)** They're going to discover trends and insights.
 >
-> **[0:46](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=46)** They also fill reporting needs and create dashboards.
+> **[0:46](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=46)** They also fill reporting needs and create [[Dashboards]].
 >
 > **[0:49](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=49)** Next, there are machine learning engineering jobs.
 >
-> **[0:52](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=52)** These roles can involve developing machine learning models and putting them in production if you have a background in software development, this is a great option if you are looking to switch careers.
+> **[0:52](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=52)** These roles can involve developing machine learning models and putting them in production if you have a background in [[Software Development]], this is a great option if you are looking to switch careers.
 >
 > **[1:03](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=63)** The next job is a data engineer.
 >
-> **[1:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=65)** These positions develop data pipelines, implement data integration solutions and ensure data quality and reliability.
+> **[1:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=65)** These positions develop [[Data Pipelines]], implement [[Data Integration]] solutions and ensure [[Data Quality]] and reliability.
 >
-> **[1:12](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=72)** Data engineer careers often involve working heavily with databases in streaming data.
+> **[1:12](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=72)** Data engineer careers often involve working heavily with [[Databases]] in streaming data.
 >
 > **[1:16](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=76)** Another common job is a Decision Scientist.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=93)** These type of jobs highly prefer people with a PHD in quantitative fields.
 >
-> **[1:38](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=98)** This career works on cutting edge data science projects and contribute to the development of new algorithms, models and techniques.
+> **[1:38](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=98)** This career works on cutting edge data science projects and contribute to the development of new [[Algorithms]], models and techniques.
 >
 > **[1:44](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-job-types?u=76281980&t=104)** These jobs often involve a background in machine learning, AI or tool development.
 >
@@ -189,14 +187,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (2), next (2), [[Dashboards]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Dashboards]] (1), [[Software Development]] (1), [[Data Pipelines]] (1), [[Data Integration]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** phd (1)
 > **Speakers:** - a (1)
 
-#### Explore online forums
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980)
+#### [Explore online forums](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,9 +203,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=7)** Expand your job search horizons and find niche postings that you won't find anywhere else.
 >
-> **[0:13](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=13)** Because one underrated aspect of job searching is actually finding job postings.
+> **[0:13](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=13)** Because one underrated aspect of [[Job Searching]] is actually finding job postings.
 >
-> **[0:18](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=18)** So in this lesson, I'll go over how you can use online forums and tap into the connections you have to get your next data science position.
+> **[0:18](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=18)** So in this lesson, I'll go over how you can use online forums and tap into the connections you have to get your next [[Data Science]] position.
 >
 > **[0:26](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=26)** Here are a few steps you can follow in order to effectively search for jobs on forums.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=57)** Next, you should check the company websites that you're interested in.
 >
-> **[1:01](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=61)** I know you're asking yourself, "Why don't I just go to LinkedIn, Indeed, or any job posting site?"
+> **[1:01](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=61)** I know you're asking yourself, "Why don't I just go to [[LinkedIn]], Indeed, or any job posting site?"
 >
 > **[1:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=67)** Well, companies might not post everywhere.
 >
@@ -242,9 +239,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=114)** This is why when you use job listing sites, I recommend that you search for more than just the data scientist keyword.
 >
-> **[2:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=120)** Also consider looking for statistical modeling, deep learning, or data analytics.
+> **[2:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=120)** Also consider looking for statistical modeling, [[Deep Learning]], or data analytics.
 >
-> **[2:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=125)** If you want to search for jobs based on technologies like Python, PyTorch, Tableau, or SQL, you can do that too.
+> **[2:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=125)** If you want to search for jobs based on technologies like [[Python (Programming Language)|Python]], [[PyTorch]], [[Tableau]], or [[SQL]], you can do that too.
 >
 > **[2:12](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/explore-online-forums?u=76281980&t=132)** You've got this.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (5), next (4), [[Analytics]] (2), [[Job Searching]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Job Searching]] (1), [[LinkedIn]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (5), python (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
@@ -262,8 +259,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - are (1)
 
-#### Overcome gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/overcome-gaps?u=76281980)
+#### [Overcome gaps](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/overcome-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/overcome-gaps?u=76281980&t=24)** In this video, I want to walk you through some of the benefits and drawbacks of various options you have to fill in the missing skills or educational gaps.
 >
-> **[0:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/overcome-gaps?u=76281980&t=32)** The first way to add to your skills is through data science certificates.
+> **[0:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/overcome-gaps?u=76281980&t=32)** The first way to add to your skills is through [[Data Science]] certificates.
 >
 > **[0:35](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/overcome-gaps?u=76281980&t=35)** They're relatively inexpensive and allow you to quickly gain data science skills, especially if you don't have a background in data science.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), job description (1)
+> **Frameworks & Libraries:** [[Data Science]] (4)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - have (1)
@@ -335,12 +331,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Showcase your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980)
+#### [Showcase your work](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=0)** - Take your job prospects to the next level with a game-changing data science portfolio.
+> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=0)** - Take your job prospects to the next level with a game-changing [[Data Science]] portfolio.
 >
 > **[0:05](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=5)** While resumes are important, having a dynamic portfolio showcasing your skills can set you apart.
 >
@@ -362,7 +357,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=40)** Think about what kind of position that you're interested in.
 >
-> **[0:44](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=44)** For example, if you want a position in machine learning, you need to work on a machine learning project, share a code on GitHub, blog about your work, create a Kaggle kernel, or even write a research paper.
+> **[0:44](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=44)** For example, if you want a position in machine learning, you need to work on a machine learning project, share a code on [[GitHub]], blog about your work, create a Kaggle kernel, or even write a research paper.
 >
 > **[0:57](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/showcase-your-work?u=76281980&t=57)** Whatever you do, try to tailor your projects to meet the needs of a data science job that you're looking for.
 >
@@ -388,15 +383,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[GitHub]] (2), next (1), game (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (8), [[GitHub]] (2)
 > **Tools:** github (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - take (1)
 
-#### Build your projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-projects?u=76281980)
+#### [Build your projects](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-projects?u=76281980&t=2)** You're interested in a position, but you lack the necessary experience, keeping you from hearing back from the company.
 >
-> **[0:08](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-projects?u=76281980&t=8)** If you're applying for any data science job, you need to show relevant experience, even for an entry-level role.
+> **[0:08](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-projects?u=76281980&t=8)** If you're applying for any [[Data Science]] job, you need to show relevant experience, even for an entry-level role.
 >
 > **[0:15](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-projects?u=76281980&t=15)** Most companies want to have people with at least a little bit of real-life experience.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), api (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (1)
 > **Env Vars:** api (1)
@@ -463,8 +457,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - are (1)
 
-#### Build your resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980)
+#### [Build your resume](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=35)** Next, you want to pay close attention to the work experience section.
 >
-> **[0:39](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=39)** Experience is one of the most important parts of your data science resume.
+> **[0:39](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=39)** Experience is one of the most important parts of your [[Data Science]] resume.
 >
 > **[0:43](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=43)** For any job you're applying for, tailor your experience toward the job so that you can best showcase your relevant experience.
 >
@@ -506,13 +499,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=90)** List relevant coursework that's applicable to the job description.
 >
-> **[1:34](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=94)** This can include listing machine learning courses if you're applying for a machine learning job or listing natural language processing courses if you're applying for a job that mentions NLP.
+> **[1:34](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=94)** This can include listing machine learning courses if you're applying for a machine learning job or listing [[Natural Language Processing (NLP)|natural language processing]] courses if you're applying for a job that mentions NLP.
 >
 > **[1:43](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=103)** Next, be sure to include links to your data science online presence.
 >
-> **[1:48](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=108)** The most basic is a LinkedIn profile, so a recruiter or hiring manager can find out more about you.
+> **[1:48](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=108)** The most basic is a [[LinkedIn]] profile, so a recruiter or hiring manager can find out more about you.
 >
-> **[1:54](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=114)** A lot of data science is about knowledge sharing, so you can include links to your GitHub or Kaggle profile to help shelf your skills.
+> **[1:54](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=114)** A lot of data science is about knowledge sharing, so you can include links to your [[GitHub]] or Kaggle profile to help shelf your skills.
 >
 > **[2:01](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-your-resume?u=76281980&t=121)** Keep in mind, you can also include links to things like a data science blog and more.
 >
@@ -528,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), job description (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nlp (1)
 > **Tools:** github (1)
@@ -536,8 +529,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Craft your cover letter
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-cover-letter?u=76281980)
+#### [Craft your cover letter](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-cover-letter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,7 +545,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-cover-letter?u=76281980&t=28)** If an application only wants a resume, don't attach a cover letter.
 >
-> **[0:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-cover-letter?u=76281980&t=32)** If you're applying for any academic data science position at a university or national lab, it's a good idea to make one.
+> **[0:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-cover-letter?u=76281980&t=32)** If you're applying for any academic [[Data Science]] position at a university or national lab, it's a good idea to make one.
 >
 > **[0:38](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-cover-letter?u=76281980&t=38)** If you're applying to a tech company and it happens to be optional, it is still a good idea to make a cover letter that is customized to the position that you're applying for.
 >
@@ -583,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (2), next (2), generic (1), ai (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
@@ -594,14 +586,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize your LinkedIn profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
+#### [Optimize your LinkedIn profile](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=0)** - If you want more recruiters on LinkedIn to reach out to you instead of you reaching out to them, having an optimized LinkedIn profile can make that more likely to happen.
+> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=0)** - If you want more recruiters on [[LinkedIn]] to reach out to you instead of you reaching out to them, having an optimized LinkedIn profile can make that more likely to happen.
 >
-> **[0:09](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=9)** Not only that, but having a LinkedIn profile gives you the chance to share what data science topics you are specifically interested in, as well as connect you to community of other enthusiasts.
+> **[0:09](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=9)** Not only that, but having a LinkedIn profile gives you the chance to share what [[Data Science]] topics you are specifically interested in, as well as connect you to community of other enthusiasts.
 >
 > **[0:18](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=18)** This will help you network with other data scientists and industry professionals.
 >
@@ -613,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=39)** Recruiters use various keywords to find candidates.
 >
-> **[0:41](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=41)** These could be words like Python, machine learning, deep learning, et cetera.
+> **[0:41](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=41)** These could be words like [[Python (Programming Language)|Python]], machine learning, [[Deep Learning]], et cetera.
 >
 > **[0:47](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=47)** A great place to put these keywords is in the summary section of your profile.
 >
@@ -651,14 +642,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (9), data (2), [[Search]] (2), power (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (9), [[Data Science]] (1), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (6), find (1), python (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - if (1)
 
-#### Create impressive GitHub projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980)
+#### [Create impressive GitHub projects](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=11)** This can be a project or something that you are allowed to share from work.
 >
-> **[0:15](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=15)** GitHub is a great way to showcase your technical skills.
+> **[0:15](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=15)** [[GitHub]] is a great way to showcase your technical skills.
 >
 > **[0:18](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=18)** When you have a GitHub account, you can share your code, projects and other work with potential employers.
 >
@@ -678,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=33)** The first step is to select the projects you want to share with employers.
 >
-> **[0:36](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=36)** Try and make your projects highlight your various exploratory data analysis, statistics, machine learning, or even your visualization abilities.
+> **[0:36](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=36)** Try and make your projects highlight your various exploratory data analysis, [[Statistics]], machine learning, or even your visualization abilities.
 >
 > **[0:45](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=45)** The benefit of this is that if an interview asks you, "Can you tell me about a project "where you did insert skill or problem here?"
 >
@@ -688,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=59)** You can produce the most amazing code, but without a readme or some sort of writeup describing your work, you are hurting your chances.
 >
-> **[1:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=67)** An important part of data science is about communicating results and solving problems.
+> **[1:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=67)** An important part of [[Data Science]] is about communicating results and solving problems.
 >
 > **[1:11](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=71)** Having projects on GitHub also gives you the opportunity to showcase your communication skills.
 >
@@ -696,7 +686,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=86)** Also, I want you to think about how putting projects on your GitHub improves your resume and your online presence.
 >
-> **[1:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=92)** You fill out your profile and GitHub, you can include a link to your LinkedIn.
+> **[1:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=92)** You fill out your profile and GitHub, you can include a link to your [[LinkedIn]].
 >
 > **[1:36](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/create-impressive-github-projects?u=76281980&t=96)** You also have the option to put links on the product section of your resume to your GitHub.
 >
@@ -712,7 +702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), data (2), [[Statistics]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Statistics]] (1), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Tools:** github (10)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -720,14 +710,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - one (1)
 
-#### Build a compelling blog
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980)
+#### [Build a compelling blog](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=0)** - Data science jobs require communication skills.
+> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=0)** - [[Data Science]] jobs require communication skills.
 >
-> **[0:03](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=3)** This could be a challenge as communicating how algorithms work or how you cleaned your data is often not trivial.
+> **[0:03](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=3)** This could be a challenge as communicating how [[Algorithms]] work or how you cleaned your data is often not trivial.
 >
 > **[0:10](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=10)** It could be even harder to showcase your data science communication skills to a potential employer.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=53)** The other option is to make your own website.
 >
-> **[0:55](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=55)** I recommend hosting with GitHub pages and blogging with Jekyll.
+> **[0:55](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=55)** I recommend hosting with [[GitHub]] pages and blogging with Jekyll.
 >
 > **[0:58](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=58)** The added advantage of this is that you can customize your site for your individual needs.
 >
@@ -755,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=67)** You can really write about any data science topic, no matter how big or small.
 >
-> **[1:11](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=71)** For example, you can write about data visualizations, exploratory data analysis, statistics, large language models, or basic machine learning.
+> **[1:11](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=71)** For example, you can write about data visualizations, exploratory data analysis, [[Statistics]], [[Large Language Models (LLM)|large language models]], or basic machine learning.
 >
 > **[1:19](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=79)** You may already have some projects in GitHub that you can write a blog post about.
 >
@@ -763,13 +752,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=87)** Finally, sharing your blog can help you network.
 >
-> **[1:31](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=91)** One thing I didn't realize is that data scientists and software engineers often Google their problems.
+> **[1:31](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=91)** One thing I didn't realize is that data scientists and software engineers often [[Google]] their problems.
 >
 > **[1:39](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=99)** These same people might think more highly of the writer of a blog if it solves their problems.
 >
 > **[1:44](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=104)** In fact, over time, I've had data scientists reach out to me for jobs and networking opportunities.
 >
-> **[1:50](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=110)** To get started with sharing your blog, you can use LinkedIn groups, your personal LinkedIn profile, Reddit, or even republish individual blog posts across multiple sites.
+> **[1:50](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=110)** To get started with sharing your blog, you can use [[LinkedIn]] groups, your personal LinkedIn profile, Reddit, or even republish individual blog posts across multiple sites.
 >
 > **[2:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/build-a-compelling-blog?u=76281980&t=120)** Now I encourage you to start writing.
 >
@@ -781,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[GitHub]] (2), [[LinkedIn]] (2), [[Algorithms]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[GitHub]] (2), [[LinkedIn]] (2), [[Algorithms]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1)
@@ -793,14 +782,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify valuable connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980)
+#### [Identify valuable connections](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=0)** - A lot of people approach looking for jobs with a that it's not what you know, it's who you know.
 >
-> **[0:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=7)** Now, if you're looking for a job in data science, I don't advise not knowing anything about data science.
+> **[0:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=7)** Now, if you're looking for a job in [[Data Science]], I don't advise not knowing anything about data science.
 >
 > **[0:13](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=13)** That will be important.
 >
@@ -816,7 +804,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=40)** If you've helped someone out, they might think better of you and be happier to see you succeed and potentially help you when you need help.
 >
-> **[0:47](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=47)** As a small example, say you post a blog on LinkedIn.
+> **[0:47](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=47)** As a small example, say you post a blog on [[LinkedIn]].
 >
 > **[0:50](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/identify-valuable-connections?u=76281980&t=50)** People in your network might share it with a broader audience.
 >
@@ -838,13 +826,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[LinkedIn]] (2)
 > **Warnings:** keep in mind (2)
 > **Definitions:** means that (1)
 > **Speakers:** - a (1)
 
-#### Request a referral
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980)
+#### [Request a referral](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,9 +849,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980&t=33)** This is where having a strong network can help.
 >
-> **[0:35](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980&t=35)** You can start your search on LinkedIn to see if you know someone at a company of interest.
+> **[0:35](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980&t=35)** You can start your search on [[LinkedIn]] to see if you know someone at a company of interest.
 >
-> **[0:39](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980&t=39)** You can also reach out to people who went to the same data science graduate program or bootcamp as you to see where they're working.
+> **[0:39](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980&t=39)** You can also reach out to people who went to the same [[Data Science]] graduate program or bootcamp as you to see where they're working.
 >
 > **[0:44](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/request-a-referral?u=76281980&t=44)** Next, and perhaps most important is knowing how to ask someone for a referral.
 >
@@ -892,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), data (2), [[Search]] (1), next (1), generic (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Data Science]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** you should always (1)
@@ -903,14 +890,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare for assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980)
+#### [Prepare for assessments](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980&t=0)** - Do you thrive on timed pressure?
 >
-> **[0:02](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980&t=2)** Well, in the data science interview process, there are often timed take-home challenges.
+> **[0:02](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980&t=2)** Well, in the [[Data Science]] interview process, there are often timed take-home challenges.
 >
 > **[0:07](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/prepare-for-assessments?u=76281980&t=7)** While it may seem intimidating, there are a couple things you can do to improve your performance.
 >
@@ -962,17 +948,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (4)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - do (1)
 
-#### Stand out in interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980)
+#### [Stand out in interviews](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=0)** - How do you do well in a data science interview?
+> **[0:00](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=0)** - How do you do well in a [[Data Science]] interview?
 >
 > **[0:03](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=3)** Obviously, nobody's an expert in everything and studying everything could be overwhelming.
 >
@@ -980,13 +965,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=16)** Now, there are a few things to keep in mind when preparing for an interview.
 >
-> **[0:20](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=20)** First, some larger companies often give you interview preparation guides, so it's a good idea to refresh or learn the topics they put in the guide.
+> **[0:20](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=20)** First, some larger companies often give you [[Interview Preparation]] guides, so it's a good idea to refresh or learn the topics they put in the guide.
 >
 > **[0:29](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=29)** For companies that don't, one approach is to ask whoever invited you to interview what general subjects that you'll be asked.
 >
 > **[0:35](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=35)** In short, the more information that you gather about the interview process, the better that you can prepare.
 >
-> **[0:42](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=42)** Next, you want to look at the title of the job that you're interviewing for.
+> **[0:42](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=42)** Next, you want to look at the title of the job that you're [[Interviewing]] for.
 >
 > **[0:45](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/stand-out-in-interviews?u=76281980&t=45)** It's a job title at a company that's been around for a while.
 >
@@ -1008,13 +993,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Interviewing]] (2), business (2), next (1), [[Interview Preparation]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Interviewing]] (2), [[Interview Preparation]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - how (1)
 
-#### Craft your follow-up strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980)
+#### [Craft your follow-up strategy](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,7 +1026,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=48)** Whatever the situation is, trying to get more information can help you plan your future.
 >
-> **[0:53](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=53)** And finally, the sad truth about interviewing is that there's a good chance you'll experience a rejection email at some point.
+> **[0:53](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=53)** And finally, the sad truth about [[Interviewing]] is that there's a good chance you'll experience a rejection email at some point.
 >
 > **[0:58](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=58)** This is an opportunity to reach out to your interviewers, thank them for their time, express disappointment, show a continued interest in the company, and optionally, politely ask for feedback.
 >
@@ -1052,9 +1036,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=79)** You may not ace your next interview, but you can do better on similar questions.
 >
-> **[1:23](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=83)** You can also take any feedback from an interview to improve your data science projects and work on how you can present yourself.
+> **[1:23](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=83)** You can also take any feedback from an interview to improve your [[Data Science]] projects and work on how you can present yourself.
 >
-> **[1:29](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=89)** Lastly, connect with your interviewers on LinkedIn.
+> **[1:29](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=89)** Lastly, connect with your interviewers on [[LinkedIn]].
 >
 > **[1:32](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=92)** This can be a great way to expand your network, and who knows, maybe someone will reach out to you about a future opportunity.
 >
@@ -1066,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), express (1), next (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (1)
@@ -1077,8 +1061,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Begin your journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980)
+#### [Begin your journey](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,11 +1073,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=10)** As you probably know, there's always more you can do to land a data scientist job.
 >
-> **[0:14](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=14)** For more information about getting a data science job, you check my blog post titled How to Build a Data Science Portfolio to help you on your way.
+> **[0:14](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=14)** For more information about getting a [[Data Science]] job, you check my blog post titled How to Build a Data Science Portfolio to help you on your way.
 >
 > **[0:22](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=22)** And finally, stay in touch.
 >
-> **[0:23](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=23)** You can check out my YouTube channel and connect with me on LinkedIn.
+> **[0:23](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=23)** You can check out my YouTube channel and connect with me on [[LinkedIn]].
 >
 > **[0:27](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job-2023/begin-your-journey?u=76281980&t=27)** I'd love to hear from you.
 >
@@ -1108,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[LinkedIn]] (1)
 > **Speakers:** - it (1)
 
 

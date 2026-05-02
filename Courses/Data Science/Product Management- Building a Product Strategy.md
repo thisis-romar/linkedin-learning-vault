@@ -75,12 +75,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why you need a product strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980)
+#### [Why you need a product strategy](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=1)** - If you are a product manager or a product leader, you know how easy it is to dive straight into product development without first figuring out your strategy.
+> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=1)** - If you are a product manager or a product leader, you know how easy it is to dive straight into [[Product Development]] without first figuring out your strategy.
 >
 > **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=11)** - Or if you're a senior leader in a product company, you know how often it feels like you're just drifting aimlessly without a clear sense of direction.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=29)** An engineer by training, I founded a startup company and led both product and engineering for several years.
 >
-> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=35)** - [Eldad] In this course, our goal is to help you build and implement an effective product strategy.
+> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=35)** - [Eldad] In this course, our goal is to help you build and implement an effective [[Product Strategy]].
 >
 > **[0:41](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980&t=41)** We do this by clearly defining what product strategy is, providing a simple framework for developing a strategy and walking through examples.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Product Development]] (1), management (1), teams (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (2), [[Product Development]] (1)
 > **Speakers:** - if (1), - or (1), - hi (1), - and (1), - [eldad] (1)
 
 
@@ -112,14 +111,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is product strategy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980)
+#### [What is product strategy?](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=1)** - Yogi Berra once said, "If you don't know where you're going, you'll end up someplace else."
 >
-> **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=6)** Companies just like people or baseball teams need to know where they're going and that's where product strategy comes in.
+> **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=6)** Companies just like people or baseball teams need to know where they're going and that's where [[Product Strategy]] comes in.
 >
 > **[0:14](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=14)** Let's start by exploring the concept of product strategy, what it looks like, and how it fits into the overall direction of your company.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=32)** A product strategy is the set of choices a company makes in order to achieve its objectives.
 >
-> **[0:40](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=40)** These are choices like which products to develop, which market segments to focus on, how to differentiate, how to price, how to position, and message and so on.
+> **[0:40](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=40)** These are choices like which [[Microsoft Products|products]] to develop, which market segments to focus on, how to differentiate, how to price, how to position, and message and so on.
 >
 > **[0:51](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980&t=51)** First, you need to understand your objectives then you can figure out your strategy.
 >
@@ -197,15 +195,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), teams (1), [[Microsoft Products|Products]] (1), traffic (1), business (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - yogi (1)
 
-#### Why strategy is important
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980)
+#### [Why strategy is important](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=24)** Plenty of companies act mostly in a reactive fashion.
 >
-> **[0:28](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=28)** They respond to a never-ending cycle of events, put out fires, react to competitors.
+> **[0:28](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=28)** They respond to a never-ending cycle of events, put out fires, [[React.js|react]] to competitors.
 >
 > **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=35)** Some have strategies that are so vague, no one understands what to make of them.
 >
@@ -241,15 +238,15 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=116)** One of the most unfortunate side effects of lack of direction is that you end up losing the faith of your own people.
 >
-> **[2:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=125)** The energy and drive you want to see around the office runs out as team members sense the company is losing its way.
+> **[2:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=125)** The energy and drive you want to see around the [[Microsoft Office|office]] runs out as team members sense the company is losing its way.
 >
 > **[2:15](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=135)** If defining a strategy and following it consistently is so important, why is it so common, then, for companies not to do so?
 >
 > **[2:25](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=145)** Well, it requires a unique set of skills coupled with strong conviction.
 >
-> **[2:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=152)** The skills required to articulate a coherent and effective product strategy span across many disciplines, from technology to business, operations, and marketing.
+> **[2:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=152)** The skills required to articulate a coherent and effective [[Product Strategy]] span across many disciplines, from technology to business, operations, and marketing.
 >
-> **[2:46](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=166)** You need to understand the market dynamics, map out the products and services that are being offered by different players, and appreciate what technology makes possible.
+> **[2:46](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=166)** You need to understand the market dynamics, map out the [[Microsoft Products|products]] and services that are being offered by different players, and appreciate what technology makes possible.
 >
 > **[2:59](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-strategy-is-important-8532841?u=76281980&t=179)** You need to analyze financial factors, be able to define programmatic options, and prioritize between them, and communicate your choices clearly.
 >
@@ -269,18 +266,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), teams (4), [[React.js|React]] (1), [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Microsoft Office|Office]] (1), [[Product Strategy]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - let (1)
 
-#### Tenets of a good strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/tenets-of-a-good-strategy-8534657?u=76281980)
+#### [Tenets of a good strategy](https://www.linkedin.com/learning/product-management-building-a-product-strategy/tenets-of-a-good-strategy-8534657?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/tenets-of-a-good-strategy-8534657?u=76281980&t=1)** - So what makes a product strategy good, and how do you know if it's working?
+> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/tenets-of-a-good-strategy-8534657?u=76281980&t=1)** - So what makes a [[Product Strategy]] good, and how do you know if it's working?
 >
 > **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-strategy/tenets-of-a-good-strategy-8534657?u=76281980&t=6)** A good strategy is like your favorite navigation app.
 >
@@ -358,13 +354,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), business (3), traffic (2)
+> **Frameworks & Libraries:** [[Product Strategy]] (4)
 > **CLI Commands:** make (4)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
-#### The elevator pitch framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980)
+#### [The elevator pitch framework](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=5)** "I didn't have time to write a short letter so I wrote a long one instead."
 >
-> **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=11)** When writing a product strategy, realize it can take many forms.
+> **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=11)** When writing a [[Product Strategy]], realize it can take many [[Forms]].
 >
 > **[0:15](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=15)** Some folks write long documents that lasts for many pages, others are more comfortable telling this step-by-step story using slides.
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=145)** So go at it again.
 >
-> **[2:27](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=147)** This framework can work for products or services of any type or scope.
+> **[2:27](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=147)** This framework can work for [[Microsoft Products|products]] or services of any type or scope.
 >
 > **[2:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=152)** Let's try it out.
 >
@@ -434,11 +429,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=180)** Let's try something else.
 >
-> **[3:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=182)** How about Amazon Web Services?
+> **[3:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=182)** How about [[Amazon Web Services (AWS)|Amazon Web Services]]?
 >
 > **[3:06](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=186)** For growing companies who need to control infrastructure costs as they grow, Amazon Web Services or AWS is a cloud hosting service that is highly flexible.
 >
-> **[3:19](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=199)** Unlike Google Cloud or Microsoft Azure, AWS offers a complete portfolio of Cloud services.
+> **[3:19](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=199)** Unlike [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure]], AWS offers a complete portfolio of [[Cloud Services]].
 >
 > **[3:28](https://www.linkedin.com/learning/product-management-building-a-product-strategy/the-elevator-pitch-framework-8536491?u=76281980&t=208)** Do these sentences cover all customer categories, features or differentiators that exist today?
 >
@@ -456,7 +451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), express (2), [[Microsoft Products|Products]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), aws (2)
+> **Frameworks & Libraries:** [[Product Strategy]] (2), [[Microsoft Products|Products]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Forms]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), hbo (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -470,12 +465,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determine your target customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980)
+#### [Determine your target customers](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=1)** - Let's explore the core elements of product strategy using the elevator pitch framework as our guide.
+> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=1)** - Let's explore the core elements of [[Product Strategy]] using the elevator pitch framework as our guide.
 >
 > **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=7)** The elevator pitch framework is simple and helps you express your strategy in only two sentences.
 >
@@ -495,13 +489,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=48)** Well, it's generally true that your product can't be everything to everyone.
 >
-> **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=54)** Even products that seem to have universal appeal typically start from a narrow target.
+> **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=54)** Even [[Microsoft Products|products]] that seem to have universal appeal typically start from a narrow target.
 >
 > **[1:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=60)** Take Facebook, for example.
 >
-> **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=62)** Before it reached the masses, it was targeted at college students in the United States and was designed specifically to get them hooked, and the rest is history.
+> **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=62)** Before it reached the masses, it was targeted at college students in the United States and was designed specifically to get them hooked, and the [[Representational State Transfer (REST)|rest]] is history.
 >
-> **[1:14](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=74)** Now, no matter the size of your company or how much money you have in the bank, the resources you have available to invest in product development are limited.
+> **[1:14](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=74)** Now, no matter the size of your company or how much money you have in the bank, the resources you have available to invest in [[Product Development]] are limited.
 >
 > **[1:24](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980&t=84)** They're better spent creating a critical mass of value for a distinct target audience than spread thin across many audiences, failing to satisfy any of them.
 >
@@ -571,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (4), express (1), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Product Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Product Development]] (1)
 > **Env Vars:** bmw (7), crm (2)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** make (2)
@@ -579,8 +573,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - let (1)
 
-#### Fill in customer need
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980)
+#### [Fill in customer need](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=5)** It asks us to identify a single need or a problem that exists for our target customer.
 >
-> **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=11)** If selecting a target customer helps us zoom in, identifying a customer need gives us clear focus.
+> **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=11)** If selecting a target customer helps us [[Zoom]] in, identifying a customer need gives us clear focus.
 >
 > **[0:19](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=19)** A customer needs should be real, something that exists for your target customer.
 >
@@ -608,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=64)** Rather, he realized that people wanted to take their music library with them.
 >
-> **[1:10](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=70)** This need wasn't really addressed by existing products.
+> **[1:10](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=70)** This need wasn't really addressed by existing [[Microsoft Products|products]].
 >
 > **[1:14](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=74)** Focusing on the problem and not any particular solution is liberating.
 >
@@ -652,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=174)** While mainstream auto models like the Toyota Corolla aim to satisfy functional or economical need, BMW focuses on a deeper emotional one, the desire for excitement and indulgence in luxury.
 >
-> **[3:09](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=189)** That gives them great clarity and translates directly to product design choices.
+> **[3:09](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=189)** That gives them great clarity and translates directly to [[Product Design]] choices.
 >
 > **[3:15](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-customer-need-8531972?u=76281980&t=195)** What about Salesforce as our enterprise example?
 >
@@ -674,15 +667,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Zoom]] (1), [[Search]] (1), [[Microsoft Products|Products]] (1), functional (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Products|Products]] (1), [[Product Design]] (1)
 > **Env Vars:** bmw (2), crm (2)
 > **Code Identifiers:** ipod (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Choose the market category
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/choose-the-market-category-8530899?u=76281980)
+#### [Choose the market category](https://www.linkedin.com/learning/product-management-building-a-product-strategy/choose-the-market-category-8530899?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,15 +758,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), next (1)
 > **Env Vars:** crm (4), bmw (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), it's like (1)
 > **Speakers:** - now (1)
 
-#### Fill in the key benefit
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-the-key-benefit-8534658?u=76281980)
+#### [Fill in the key benefit](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-the-key-benefit-8534658?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-the-key-benefit-8534658?u=76281980&t=46)** That's a benefit.
 >
-> **[0:48](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-the-key-benefit-8534658?u=76281980&t=48)** Customers adopt or buy products not for the features that they have, but for the benefits they create.
+> **[0:48](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-the-key-benefit-8534658?u=76281980&t=48)** Customers adopt or buy [[Microsoft Products|products]] not for the features that they have, but for the benefits they create.
 >
 > **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/fill-in-the-key-benefit-8534658?u=76281980&t=54)** So before you design features and develop them, you should know what benefits you're trying to create.
 >
@@ -854,14 +844,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), feature (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** bmw (4), crm (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Add competitors and alternatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980)
+#### [Add competitors and alternatives](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,13 +860,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=11)** This may seem trivial.
 >
-> **[0:13](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=13)** It's usually pretty straightforward to identify similar products or companies in the same space.
+> **[0:13](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=13)** It's usually pretty straightforward to identify similar [[Microsoft Products|products]] or companies in the same space.
 >
 > **[0:20](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=20)** But there are some pitfalls you should be aware of.
 >
 > **[0:23](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=23)** It's easy to miss some important alternatives if you don't take the right approach.
 >
-> **[0:28](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=28)** To understand the right approach, first ask, why is it important to take into consideration competitors as you form your product strategy?
+> **[0:28](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=28)** To understand the right approach, first ask, why is it important to take into consideration competitors as you form your [[Product Strategy]]?
 >
 > **[0:37](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=37)** Well, it figures into the customer adoption decision.
 >
@@ -891,7 +880,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=84)** So rather than just come up with a list that makes sense to you, ask your customers what they would consider as options.
 >
-> **[1:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=92)** Or you may find other ways to figure this out by analyzing consumer behavior or purchasing market research.
+> **[1:32](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=92)** Or you may find other ways to figure this out by analyzing consumer behavior or purchasing [[Market Research]].
 >
 > **[1:39](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=99)** In any case, you should avoid your own biases and truly understand the alternatives from the customer perspective.
 >
@@ -923,7 +912,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=178)** Another alternative would be not getting one at all.
 >
-> **[3:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=182)** For our Salesforce example, it's unlike Siebel or managing customer relations manually.
+> **[3:02](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=182)** For our Salesforce example, it's unlike Siebel or managing [[Customer Relations]] manually.
 >
 > **[3:09](https://www.linkedin.com/learning/product-management-building-a-product-strategy/add-competitors-and-alternatives-8530895?u=76281980&t=189)** The alternatives for Salesforce are using a legacy CRM solution or continuing to live without one.
 >
@@ -931,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), [[Market Research]] (1), [[Customer Relations]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Strategy]] (1), [[Market Research]] (1), [[Customer Relations]] (1)
 > **Env Vars:** bmw (2), hbo (1), crm (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** be aware (1), note that (1)
@@ -939,8 +928,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Determine the product differentiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980)
+#### [Determine the product differentiation](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -956,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=26)** If a product doesn't provide a key benefit that's expected, would it really be considered a viable option?
 >
-> **[0:33](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=33)** So if there are several products that make it to the finish line and they have a lot in common, how would the customer decide between them?
+> **[0:33](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=33)** So if there are several [[Microsoft Products|products]] that make it to the finish line and they have a lot in common, how would the customer decide between them?
 >
 > **[0:42](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=42)** That's where differentiation comes in.
 >
@@ -1010,7 +998,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=213)** For Salesforce we get the following, four small businesses without a CRM solution who need to control their costs, Salesforce is a CRM solution that is financially flexible.
 >
-> **[3:46](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=226)** Unlike Siebel or managing customer relations manually, Salesforce is quick to set up and easy to use.
+> **[3:46](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=226)** Unlike Siebel or managing [[Customer Relations]] manually, Salesforce is quick to set up and easy to use.
 >
 > **[3:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=234)** Reading through these short sentences, you can easily see how they'd help product managers or engineers make decisions day in and day out.
 >
@@ -1022,11 +1010,11 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=264)** But I chose to focus on it because it gives you the biggest bang for the buck.
 >
-> **[4:29](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=269)** If you get this one right, you're well on your way to defining a coherent and solid product strategy.
+> **[4:29](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-the-product-differentiation-8531969?u=76281980&t=269)** If you get this one right, you're well on your way to defining a coherent and solid [[Product Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), business (2), [[Microsoft Products|Products]] (1), feature (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Customer Relations]] (1), [[Product Strategy]] (1)
 > **Env Vars:** bmw (3), crm (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1039,8 +1027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make strategy work
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/make-strategy-work-8536488?u=76281980)
+#### [Make strategy work](https://www.linkedin.com/learning/product-management-building-a-product-strategy/make-strategy-work-8536488?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,8 +1082,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - sometimes (1)
 
-#### How to identify key stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980)
+#### [How to identify key stakeholders](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=56)** So it would be a good idea to identify other people who may be in a position of influence in strategic matters.
 >
-> **[1:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=65)** These influencers can be both internal like head of business development for example or external like valued consultants.
+> **[1:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=65)** These influencers can be both internal like head of [[Business Development]] for example or external like valued consultants.
 >
 > **[1:15](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=75)** Now, what if you are the decision maker?
 >
@@ -1152,7 +1138,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=139)** And I don't just mean developing the product.
 >
-> **[2:23](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=143)** I mean the whole enchilada from envisioning to development, all the way to sales, marketing, account management, customer support and even billing.
+> **[2:23](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=143)** I mean the whole enchilada from envisioning to development, all the way to sales, marketing, account management, [[Customer Support]] and even billing.
 >
 > **[2:34](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-identify-key-stakeholders-8536490?u=76281980&t=154)** Before I make your head spin, let me clarify.
 >
@@ -1166,7 +1152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (1), [[Business Development]] (1), management (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Business Development]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (2), cfo (1)
 > **Analogies:** for example (2)
@@ -1175,22 +1161,21 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### How to collect and organize input
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980)
+#### [How to collect and organize input](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=1)** - While not much is known about how clandestine intelligence organizations operate, we do know they typically have elaborate intelligence collection activities that are kept separate from those doing the analysis.
 >
-> **[0:17](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=17)** They want data collection that leads to unbiased analysis, followed by logical decision-making, which then brings about action.
+> **[0:17](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=17)** They want [[Data Collection]] that leads to unbiased analysis, followed by logical [[Decision-Making]], which then brings about action.
 >
 > **[0:28](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=28)** Their ability to stay objective as they collect and analyze data is a matter of life and death.
 >
-> **[0:36](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=36)** Now, product strategy development may not save lives, but it does follow a similar approach.
+> **[0:36](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=36)** Now, [[Product Strategy]] development may not save lives, but it does follow a similar approach.
 >
 > **[0:44](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=44)** For us the parallel would be, collect inputs from stakeholders and other sources, organize them to shed light on the nature of the opportunity, make specific strategic choices, and then execute the plan.
 >
-> **[1:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=60)** So begin by interviewing your key stakeholders.
+> **[1:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=60)** So begin by [[Interviewing]] your key stakeholders.
 >
 > **[1:04](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=64)** Ask them how they see the direction of the industry.
 >
@@ -1210,7 +1195,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=98)** They'll give you a good sense of where others see the opportunity for the next few years.
 >
-> **[1:44](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=104)** Also put your hands on some market research.
+> **[1:44](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=104)** Also put your hands on some [[Market Research]].
 >
 > **[1:47](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=107)** Examine financials to determine the size of the market.
 >
@@ -1248,7 +1233,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=206)** I usually capture these kinds of insights on slides and put together the deck I would later use in meetings with my key stakeholders to discuss the strategy.
 >
-> **[3:36](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=216)** Craft a logical storyline that begins with a wide lens and then gradually zoom in on your company and product.
+> **[3:36](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=216)** Craft a logical storyline that begins with a wide lens and then gradually [[Zoom]] in on your company and product.
 >
 > **[3:45](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-collect-and-organize-input-8531965?u=76281980&t=225)** Make sure it's coherent and compelling.
 >
@@ -1260,19 +1245,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Decision-Making]] (2), product (2), business (2), parallel (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Data Collection]] (1), [[Product Strategy]] (1), [[Interviewing]] (1), [[Market Research]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cia (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - while (1)
 
-#### Build support for your strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980)
+#### [Build support for your strategy](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=0)** - One word comes to mind when I think about what it takes to build support for your product strategy.
+> **[0:00](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=0)** - One [[Microsoft Word|word]] comes to mind when I think about what it takes to build support for your [[Product Strategy]].
 >
 > **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=6)** The word is evangelize.
 >
@@ -1346,13 +1330,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=197)** Get the functional leaders to do the same for their teams.
 >
-> **[3:21](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=201)** It might feel strange to see others do that after all you've done to get to this point, but building support for a strategy is essentially about influencing others to move in a certain direction.
+> **[3:21](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=201)** It might feel strange to see others do that after all you've done to get to this point, but building support for a strategy is essentially about [[Influencing Others]] to move in a certain direction.
 >
 > **[3:34](https://www.linkedin.com/learning/product-management-building-a-product-strategy/build-support-for-your-strategy-8535700?u=76281980&t=214)** If you can make that happen, it will be your crowning achievement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), product (1), business (1), data (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Product Strategy]] (1), [[Influencing Others]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (2), ceo (1)
 > **Cross-References:** go back to (1)
@@ -1365,8 +1349,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintain your strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980)
+#### [Maintain your strategy](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1357,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=7)** You spend years looking for the perfect partner so you can marry them and then embark on a lifelong effort to change everything about them.
 >
-> **[0:18](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=18)** Well, joking aside, working on product strategy is kind of the same way.
+> **[0:18](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=18)** Well, joking aside, working on [[Product Strategy]] is kind of the same way.
 >
 > **[0:23](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=23)** You go through this elaborate process to come up with the perfect strategy, only to revisit and adjust it frequently.
 >
@@ -1400,7 +1383,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=89)** You might get so attached to your perception of reality that you ignore or explain away any evidence that contradicts it.
 >
-> **[1:38](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=98)** I recently had to make a big change to a strategy for one of my products.
+> **[1:38](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=98)** I recently had to make a big change to a strategy for one of my [[Microsoft Products|products]].
 >
 > **[1:43](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980&t=103)** My original concept was beautiful.
 >
@@ -1432,12 +1415,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Product Strategy]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
-#### How to implement a strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-implement-a-strategy-8531968?u=76281980)
+#### [How to implement a strategy](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-implement-a-strategy-8531968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1435,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-implement-a-strategy-8531968?u=76281980&t=29)** The most prominent practical representation of a strategy is the product roadmap.
 >
-> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-implement-a-strategy-8531968?u=76281980&t=35)** This is where many of your choices around target customers, benefits, and differentiators materialize into a product development plan.
+> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-implement-a-strategy-8531968?u=76281980&t=35)** This is where many of your choices around target customers, benefits, and differentiators materialize into a [[Product Development]] plan.
 >
 > **[0:45](https://www.linkedin.com/learning/product-management-building-a-product-strategy/how-to-implement-a-strategy-8531968?u=76281980&t=45)** Creating a product roadmap and driving a product development process are two large and meaty topics that deserve complete courses in their own right.
 >
@@ -1503,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[Product Development]] (3), business (2), leadership (1), next (1)
+> **Frameworks & Libraries:** [[Product Development]] (3)
 > **Analogies:** just like (2), imagine (1), for example (1), picture (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -1516,12 +1498,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=1)** - Congratulations on having completed this course on product strategy.
+> **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=1)** - Congratulations on having completed this course on [[Product Strategy]].
 >
 > **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=5)** You now understand what product strategy is, why it's important and what makes it good.
 >
@@ -1533,7 +1514,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=30)** - Step one, flex your product management muscles, using the elevator pitch framework.
 >
-> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=35)** Follow the instructions in chapter two to come up with a strategy for a few different products.
+> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=35)** Follow the instructions in chapter two to come up with a strategy for a few different [[Microsoft Products|products]].
 >
 > **[0:40](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=40)** Start with some simple consumer products you use every day.
 >
@@ -1567,11 +1548,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=95)** We really only scratched the surface for many of the topics we've covered in this course.
 >
-> **[1:40](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=100)** Some of the areas you should continue to study are market mapping, competitive analysis, financial analysis, and business models.
+> **[1:40](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=100)** Some of the areas you should continue to study are market mapping, competitive analysis, [[Financial Analysis]], and business models.
 >
 > **[1:50](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=110)** Also be sure to complement your understanding of strategy with a strong command of execution.
 >
-> **[1:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=114)** Review other courses covering topics like product roadmap development, writing requirements, managing Agile development and so on.
+> **[1:54](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=114)** Review other courses covering topics like product roadmap development, writing requirements, managing [[Agile Development|Agile]] development and so on.
 >
 > **[2:03](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980&t=123)** - Finally, beyond all the reading and exercises, we urge you to connect with other product-minded people.
 >
@@ -1583,7 +1564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), next (1), management (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (2), [[Microsoft Products|Products]] (2), [[Financial Analysis]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - congratulations (1), - step (1), - now (1), - and (1), - finally (1)
 
 

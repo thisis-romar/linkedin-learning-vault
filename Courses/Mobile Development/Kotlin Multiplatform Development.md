@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kotlin multiplatform development
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980)
+#### [Kotlin multiplatform development](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=0)** - Are you ready to explore the magic of Kotlin Multiplatform?
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=0)** - Are you ready to explore the magic of [[Kotlin Multiplatform]]?
 >
 > **[0:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=4)** In this course, I'll provide you with a broad overview of the topic.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=24)** I'm an experienced mobile engineer at an AI startup.
 >
-> **[0:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=28)** I launched a Kotlin user group even before Google announced official support for Kotlin and Android.
+> **[0:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=28)** I launched a [[Kotlin]] user group even before [[Google]] announced official support for Kotlin and [[Android]].
 >
 > **[0:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980&t=34)** So let's go.
 >
@@ -122,19 +121,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (2), [[Kotlin]] (2), web (1), ai (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (2), [[Kotlin]] (2), [[Google]] (1), [[Android]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you should know.
 >
-> **[0:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=1)** Since this course is not going to cover the basics, you may want to consider an intro to Kotlin.
+> **[0:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=1)** Since this course is not going to cover the basics, you may want to consider an intro to [[Kotlin]].
 >
 > **[0:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=7)** You could simply read the Kotlin tour on the official website.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=22)** However, you shouldn't need too much preparation.
 >
-> **[0:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=24)** If you've used a similar language with strong types, like Swift, Kotlin will feel quite familiar.
+> **[0:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=24)** If you've used a similar language with strong types, like [[Swift (Programming Language)|Swift]], Kotlin will feel quite familiar.
 >
 > **[0:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/what-you-should-know?u=76281980&t=30)** You will also need to know how to install software on your computer and how to use a terminal or command line in your operating system.
 
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The problem Kotlin Multiplatform solves
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980)
+#### [The problem Kotlin Multiplatform solves](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=0)** - [Instructor] Why are we discussing Kotlin Multiplatform?
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=0)** - [Instructor] Why are we discussing [[Kotlin Multiplatform]]?
 >
 > **[0:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=3)** Cost complexity and trade-offs make it the best solution for many apps.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=25)** By using methods supported by your operating system vendor, your app is more likely to look like an app that belongs on that platform and to work in a way that is more intuitive to users of that operating system.
 >
-> **[0:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=38)** Writing a traditional native app across iOS, Android, MacOs, Windows, Linux, and web requires a large team of highly paid developers communicating closely with one another.
+> **[0:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=38)** Writing a traditional native app across iOS, [[Android]], MacOs, [[Windows]], [[Linux]], and web requires a large team of highly paid developers communicating closely with one another.
 >
 > **[0:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=52)** It is a very expensive and it's challenging to write one app that looks beautiful and runs nicely across all of these devices.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=84)** These were intended to solve the difficulty in knowing all of these systems, and to produce a native app across all of them.
 >
-> **[1:33](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=93)** Most hybrid frameworks substitute calls in one language, like JavaScript or Dart, with user interface calls in the native language.
+> **[1:33](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=93)** Most hybrid frameworks substitute calls in one language, like [[JavaScript]] or Dart, with user interface calls in the native language.
 >
 > **[1:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=103)** While hybrid frameworks seem convenient and they would seem to solve the difficulty of producing an app across a wide spectrum of platforms, they have several key downsides.
 >
@@ -201,15 +198,15 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=123)** The languages used tend to have poor performance, like JavaScript, or may be less known outside of hyper development, such as Dart.
 >
-> **[2:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=132)** Apps which require careful handling of device hardware, like camera, Bluetooth, and others, may be more challenging to write and to maintain.
+> **[2:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=132)** Apps which require careful handling of device [[Hardware]], like camera, Bluetooth, and others, may be more challenging to write and to maintain.
 >
 > **[2:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=143)** Kotlin Multiplatform handles most of the downsides of hybrid frameworks admirably.
 >
 > **[2:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=149)** What is Kotlin Multiplatform?
 >
-> **[2:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=151)** In 2017, the Kotlin language team at JetBrains added support to allow running software written in Kotlin across a wide variety of different hardware and software types.
+> **[2:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=151)** In 2017, the [[Kotlin]] language team at JetBrains added support to allow running software written in Kotlin across a wide variety of different hardware and software types.
 >
-> **[2:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=163)** They added support to allow writing apps for the Java Virtual Machine, or JVM, native on the LLVM, and web.
+> **[2:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=163)** They added support to allow writing apps for the [[Java]] Virtual Machine, or JVM, native on the LLVM, and web.
 >
 > **[2:53](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980&t=173)** However, each platform can still benefit from custom per-platform code in some instances.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (5), [[Kotlin]] (3), web (2), [[JavaScript]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (5), [[Kotlin]] (3), [[JavaScript]] (2), [[Hardware]] (2), [[Android]] (1)
 > **Env Vars:** jvm (1), llvm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -235,26 +232,25 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison with alternatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980)
+#### [Comparison with alternatives](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=0)** - [Instructor] What if you could code native apps for every device without giving up on the performance, the flexibility, or the unique look and feel of each platform.
 >
-> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=11)** This is what KMP or Kotlin Multiplatform offers.
+> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=11)** This is what [[Kotlin Multiplatform|KMP]] or [[Kotlin Multiplatform]] offers.
 >
 > **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=15)** So how does KMP compare to hybrid alternatives?
 >
 > **[0:19](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=19)** Today, most software is composed of libraries.
 >
-> **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=23)** Since 2017, many Kotlin software libraries have been written for Kotlin Multiplatform.
+> **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=23)** Since 2017, many [[Kotlin]] software libraries have been written for Kotlin Multiplatform.
 >
-> **[0:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=30)** This means you might be able to write a simple app without writing any code specific to the operating system or at hardware.
+> **[0:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=30)** This means you might be able to write a simple app without writing any code specific to the operating system or at [[Hardware]].
 >
 > **[0:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=38)** In addition, you can mix and match Kotlin with other languages and incorporate shared business logic into native user interfaces.
 >
-> **[0:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=48)** For example, Kotlin Interoperates with Objective-C and Swift Code for writing apps for Apple devices like iOS, macOS, watchOS, and visionOS.
+> **[0:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=48)** For example, Kotlin Interoperates with Objective-C and [[Swift (Programming Language)|Swift]] Code for writing apps for Apple devices like iOS, macOS, watchOS, and visionOS.
 >
 > **[0:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=59)** Your software teams can decide how much they want to share code to deliver software faster, or how much they would prefer to have native user interfaces that are easy to use and which native developers will feel more comfortable working with.
 >
@@ -270,9 +266,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=108)** Here are a few.
 >
-> **[1:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=110)** Some assume it's simply another hybrid framework like React Native.
+> **[1:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=110)** Some assume it's simply another hybrid framework like [[React Native]].
 >
-> **[1:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=115)** While there is a user interface framework available called Compose Multiplatform, KMP can be used with entirely native UI as well.
+> **[1:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=115)** While there is a user interface framework available called [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]], KMP can be used with entirely native UI as well.
 >
 > **[2:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=126)** Also, KMP works across a very wide spectrum of platforms and is not limited to mobile or even client apps.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=152)** As I found during my Meetup project work, native developers can quickly start contributing code to KP projects if there's someone to support the team with Kotlin Multiplatform knowledge.
 >
-> **[2:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=164)** Finally, there is a large, robust community centered on KP mostly due to Android apps, which also share code with iOS.
+> **[2:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=164)** Finally, there is a large, robust community centered on KP mostly due to [[Android]] apps, which also share code with iOS.
 >
 > **[2:53](https://www.linkedin.com/learning/kotlin-multiplatform-development/comparison-with-alternatives?u=76281980&t=173)** That community is very competent and quite often does not limit their libraries exclusively to mobile.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin Multiplatform|Kmp]] (9), [[Kotlin Multiplatform]] (7), [[Kotlin]] (3), business (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform|Kmp]] (9), [[Kotlin Multiplatform]] (7), [[Kotlin]] (3), [[Hardware]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** kmp (9)
 > **Code Identifiers:** ios (2), macos (1), watchos (1), visionos (1)
 > **Definitions:** is a  (3)
@@ -300,40 +296,39 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supported platforms and performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980)
+#### [Supported platforms and performance](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=0)** - [Instructor] What app would you build if you knew it could work on every device and operating system?
 >
-> **[0:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=7)** Kotlin Multiplatform supports nearly all operating systems and hardware in wide use today; this includes mobile, desktop, web, and server.
+> **[0:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=7)** [[Kotlin Multiplatform]] supports nearly all operating systems and [[Hardware]] in wide use today; this includes mobile, desktop, web, and server.
 >
-> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=18)** In order to support this wide range of hardware and operating systems, Kotlin uses four code generators: their Java Virtual Machine or JVM; Native or LLVM; JavaScript, and WebAssembly.
+> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=18)** In order to support this wide range of hardware and operating systems, [[Kotlin]] uses four code generators: their [[Java]] Virtual Machine or JVM; Native or LLVM; [[JavaScript]], and WebAssembly.
 >
-> **[0:37](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=37)** These four code generators allow Kotlin to target most modern devices and operating systems: Android, iOS, Windows, Mac OS, Linux, web, WebAssembly, server-side backend web, watchOS, tvOS, even Raspberry Pi, or any device that can run Java, C, or JavaScript.
+> **[0:37](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=37)** These four code generators allow Kotlin to target most modern devices and operating systems: [[Android]], iOS, [[Windows]], Mac OS, [[Linux]], web, WebAssembly, server-side backend web, watchOS, tvOS, even Raspberry Pi, or any device that can run Java, C, or JavaScript.
 >
 > **[1:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=61)** Kotlin is known to interoperate quite nicely with a good number of alternative programming languages.
 >
-> **[1:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=67)** The best are like Java, Objective-C, Swift.
+> **[1:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=67)** The best are like Java, Objective-C, [[Swift (Programming Language)|Swift]].
 >
-> **[1:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=71)** It's decent at other JVM languages, C/C++, Rust, and JavaScript; and only okay maybe at like Go, Python, and any other language with C bindings.
+> **[1:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=71)** It's decent at other JVM languages, C/C++, [[Rust (Programming Language)|Rust]], and JavaScript; and only okay maybe at like Go, [[Python (Programming Language)|Python]], and any other language with C bindings.
 >
 > **[1:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=83)** Based on Kotlin's four code generators, there are also numerous options to choose in terms of user interface frameworks.
 >
-> **[1:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=91)** Here's a small sampling: Jetpack Compose, SwiftUI, React, any JavaScript framework, Flutter, Angular, Spring.
+> **[1:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=91)** Here's a small sampling: [[Jetpack Compose]], SwiftUI, [[React.js|React]], any JavaScript framework, Flutter, [[Angular]], Spring.
 >
 > **[1:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=100)** So how easy is it to use Kotlin on these platforms?
 >
 > **[1:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=105)** What are the best-case platforms that are the easiest to use today?
 >
-> **[1:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=109)** I would say the easiest is Android and iOS with Compose and SwiftUI, or Jetpack Compose, Windows, Mac OS, and Linux with Compose Desktop, and back-end web with Ktor and Spring.
+> **[1:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=109)** I would say the easiest is Android and iOS with [[Jetpack Compose|Compose]] and SwiftUI, or Jetpack Compose, Windows, Mac OS, and Linux with Compose Desktop, and back-end web with [[Ktor]] and Spring.
 >
 > **[2:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=125)** Harder might be Kotlin with React and JavaScript frameworks or WebAssembly, which is still fairly young.
 >
-> **[2:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=132)** And hardest would be all the rest of the platforms.
+> **[2:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=132)** And hardest would be all the [[Representational State Transfer (REST)|rest]] of the platforms.
 >
-> **[2:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=136)** Compose Multiplatform is a technology which uses the Jetpack Compose Android user interface library to create shared user interface code across nearly all supported devices.
+> **[2:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=136)** Compose [[Kotlin Multiplatform|Multiplatform]] is a technology which uses the Jetpack Compose Android user interface library to create shared user interface code across nearly all supported devices.
 >
 > **[2:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/supported-platforms-and-performance?u=76281980&t=149)** There are also numerous software libraries supporting with this framework, which function decently across many of the devices.
 >
@@ -345,21 +340,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (7), [[JavaScript]] (5), web (3), [[Java]] (3), [[Android]] (3)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[JavaScript]] (5), [[Java]] (3), [[Android]] (3), [[Jetpack Compose]] (3)
 > **Code Identifiers:** ios (2), watchos (1), tvos (1)
 > **Env Vars:** jvm (2), llvm (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Just what the KDoctor ordered
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980)
+#### [Just what the KDoctor ordered](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=0)** - [Instructor] Before we get started programming, it's important to ask if our system is ready.
 >
-> **[0:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=5)** There could be a number of things required to build and run a Kotlin Multiplatform app.
+> **[0:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=5)** There could be a number of things required to build and run a [[Kotlin Multiplatform]] app.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=10)** To make sure that we're ready, we're going to take a trip to the doctor, specifically KDoctor.
 >
@@ -389,15 +383,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=95)** Once installation is completed, we can then run KDoctor and it will run us through the steps needed to have a fully working Kotlin Multiplatform environment.
 >
-> **[1:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=106)** As you can see, it can't find Java or the Xcode command line tools.
+> **[1:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=106)** As you can see, it can't find [[Java]] or the [[Xcode]] command line tools.
 >
 > **[1:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=112)** It's using system Ruby, which is not good and does not have CocoaPods.
 >
 > **[1:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=116)** So keep running KDoctor until you no longer see required steps to perform.
 >
-> **[2:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=122)** If you're not developing on a macOS device, but are using Windows or Linux instead, we have a number of manual steps you're going to need to perform.
+> **[2:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=122)** If you're not developing on a macOS device, but are using [[Windows]] or [[Linux]] instead, we have a number of manual steps you're going to need to perform.
 >
-> **[2:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=130)** First, install Android Studio from the official website.
+> **[2:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=130)** First, install [[Android]] Studio from the official website.
 >
 > **[2:14](https://www.linkedin.com/learning/kotlin-multiplatform-development/just-what-the-kdoctor-ordered?u=76281980&t=134)** This will give you all the Android SDK tools, as well as Android Studio.
 >
@@ -428,16 +422,15 @@ created: 2026-05-02
 > **File Paths:** brew.sh (1)
 > **UI Navigation:** go to (1)
 
-#### Android studio for KMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980)
+#### [Android studio for KMP](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=0)** - [Instructor] For working with Kotlin Multiplatform, a number of integrated development environments or IDE options are supported.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=0)** - [Instructor] For working with [[Kotlin Multiplatform]], a number of integrated development environments or IDE options are supported.
 >
-> **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=8)** For this course, we will use Android Studio for most of our development.
+> **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=8)** For this course, we will use [[Android]] Studio for most of our development.
 >
-> **[0:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=13)** We will also use Xcode, which we'll cover in a later video.
+> **[0:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=13)** We will also use [[Xcode]], which we'll cover in a later video.
 >
 > **[0:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=17)** A lot of improvements have been coming to Android Studio recently related to Kotlin Multiplatform.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=35)** Starting with Meerkat, Android Studio has the capability to add shared module to your Android app projects for you.
 >
-> **[0:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=44)** Beginning with Narwhal, the IDE also has the capability to show compose multi-platform previews.
+> **[0:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=44)** Beginning with Narwhal, the IDE also has the capability to show [[Jetpack Compose|compose]] multi-platform previews.
 >
 > **[0:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=51)** Let's take a look at an example project that I created.
 >
@@ -457,11 +450,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=66)** There are a couple of plugins you should consider which will improve your development experience.
 >
-> **[1:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=73)** First, there is a compose multiplatform project, which is included in most recent versions of Android Studio.
+> **[1:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=73)** First, there is a compose [[Kotlin Multiplatform|multiplatform]] project, which is included in most recent versions of Android Studio.
 >
 > **[1:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=81)** This adds some useful functionality to make compose multiplatform easier to work with.
 >
-> **[1:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=88)** So you can see this is Jetpack Compose.
+> **[1:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=88)** So you can see this is [[Jetpack Compose]].
 >
 > **[1:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=90)** It's not the same one.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=144)** First, go to the dropdown at the top of the IDE where you would select Android or iOS run configurations, you select Edit Configurations and then press the plus button.
 >
-> **[2:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=158)** Choose application, name your run configuration, select a recent Java version.
+> **[2:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=158)** Choose application, name your run configuration, select a recent [[Java]] version.
 >
 > **[2:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=164)** Here I'm going to choose the JetBrains Runtime that came with Android Studio.
 >
@@ -493,7 +486,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=186)** So usually select the first option, press OK, and run the desktop app.
 >
-> **[3:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=193)** Okay, I had to update some Gradle versions, but now I should correctly run the desktop version.
+> **[3:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=193)** Okay, I had to update some [[Gradle]] versions, but now I should correctly run the desktop version.
 >
 > **[3:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=201)** You'll notice I made changes to both the Gradle Libs versions 2 ML file, as well as the Gradle wrapper properties file in order to update the versions of the project.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=440)** Let's say we want to delete one of the actual functions.
 >
-> **[7:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=444)** You'll notice that the word expect gets a red underline if we do that.
+> **[7:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=444)** You'll notice that the [[Microsoft Word|word]] expect gets a red underline if we do that.
 >
 > **[7:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=450)** If you tap on it and hit option return to do the IDE Quick fix, it'll give you the option to create the missing function just like that.
 >
@@ -597,13 +590,13 @@ created: 2026-05-02
 >
 > **[8:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=536)** The same goes for refactoring to change the signature of the Expect Fund function.
 >
-> **[9:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=540)** You'll find that most refactorings simply work across these platform boundaries as long as you use a Kotlin multi-platform aware IDE like Android Studio.
+> **[9:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=540)** You'll find that most refactorings simply work across these platform boundaries as long as you use a [[Kotlin]] multi-platform aware IDE like Android Studio.
 >
 > **[9:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=552)** So here I can change the signature and just add something new to it, and there I've added a string and you'll see each of the functions now has a string added to it.
 >
 > **[9:27](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=567)** So there you go.
 >
-> **[9:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=568)** Android Studio is definitely aware and will empower your cross-platform development.
+> **[9:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=568)** Android Studio is definitely aware and will empower your [[Cross-platform Development]].
 >
 > **[9:33](https://www.linkedin.com/learning/kotlin-multiplatform-development/android-studio-for-kmp?u=76281980&t=573)** I recommend it for now until they get IntelliJ working with all of these new features.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (16), [[Kotlin Multiplatform]] (6), web (5), hit (5), [[Jetpack Compose|Compose]] (4)
+> **Frameworks & Libraries:** [[Android]] (16), [[Kotlin Multiplatform]] (6), [[Jetpack Compose|Compose]] (4), [[Gradle]] (4), [[Kotlin Multiplatform|Multiplatform]] (3)
 > **Code Identifiers:** ios (12), iphone (1)
 > **Env Vars:** ide (7), wasm (3)
 > **UI Navigation:** go to (3), dropdown (2), select the (2), click on (1)
@@ -620,14 +613,13 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Definitions:** is a  (1)
 
-#### Xcode for KMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980)
+#### [Xcode for KMP](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980&t=0)** - [Instructor] If you're building an iOS app with KMP, you should know how to use Xcode to empower multi-platform and development with Kotlin.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980&t=0)** - [Instructor] If you're building an iOS app with [[Kotlin Multiplatform|KMP]], you should know how to use [[Xcode]] to empower multi-platform and development with [[Kotlin]].
 >
-> **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980&t=8)** You might be asking yourself, "If I have spent all of this energy building an app using both native iOS languages like Swift and Objective-C, will I still be able to debug my app in Xcode?"
+> **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980&t=8)** You might be asking yourself, "If I have spent all of this energy building an app using both native iOS languages like [[Swift (Programming Language)|Swift]] and Objective-C, will I still be able to debug my app in Xcode?"
 >
 > **[0:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/xcode-for-kmp?u=76281980&t=21)** The answer is yes.
 >
@@ -701,7 +693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (15), [[Kotlin]] (11), [[Swift (Programming Language)|Swift]] (3), [[Kotlin Multiplatform|Kmp]] (2), next (2)
+> **Frameworks & Libraries:** [[Xcode]] (15), [[Kotlin]] (11), [[Swift (Programming Language)|Swift]] (3), [[Kotlin Multiplatform|Kmp]] (2)
 > **Code Identifiers:** ios (4), composeapp (1), commonmain (1), iphone (1)
 > **Prerequisites:** install (5), make sure you have (1), setup (1)
 > **CLI Commands:** make (2), brew (2)
@@ -710,8 +702,7 @@ created: 2026-05-02
 > **File Paths:** brew.sh (1)
 > **Cross-References:** in the next (1)
 
-#### Crafting a template with the Kotlin Multiplatform wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980)
+#### [Crafting a template with the Kotlin Multiplatform wizard](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=7)** There is a lot of custom setup to select which platforms to support and the directory structure required is quite complex to create it all from memory.
 >
-> **[0:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=16)** So, to avoid creating all of this boilerplate, first, let's go to the URL kmp.[jetbrains.com](https://jetbrains.com).
+> **[0:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=16)** So, to avoid creating all of this boilerplate, first, let's go to the URL [[Kotlin Multiplatform|kmp]].[jetbrains.com](https://jetbrains.com).
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=26)** After that, we can name our project with a title and a project ID.
 >
@@ -733,11 +724,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=50)** Next, let's select which platforms we would like to use.
 >
-> **[0:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=54)** The template supports Android, iOS, Desktop, Web, and Server.
+> **[0:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=54)** The template supports [[Android]], iOS, Desktop, Web, and Server.
 >
 > **[0:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=59)** Let's choose all except server for now.
 >
-> **[1:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=62)** You'll notice that the iOS platform lets you decide whether or not to share the UI using Compose Multiplatform.
+> **[1:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=62)** You'll notice that the iOS platform lets you decide whether or not to share the UI using [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]].
 >
 > **[1:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/crafting-a-template-with-kotlin-multiplatform-wizard?u=76281980&t=70)** Let's leave that checked for now.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin Multiplatform|Kmp]] (1), dns (1), next (1), [[Android]] (1), web (1)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform|Kmp]] (1), [[Android]] (1), [[Jetpack Compose|Compose]] (1), [[Kotlin Multiplatform|Multiplatform]] (1)
 > **Env Vars:** url (1), dns (1), download (1)
 > **Exercise Files:** template (2), boilerplate (1)
 > **Code Identifiers:** ios (2)
@@ -761,12 +752,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building our first multiplatform app
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980)
+#### [Building our first multiplatform app](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=0)** - [Narrator] In this video, we'll take a hands-on approach to building your first multiplatform app, guiding you through the process of using the custom template that you just downloaded.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=0)** - [Narrator] In this video, we'll take a hands-on approach to building your first [[Kotlin Multiplatform|multiplatform]] app, guiding you through the process of using the custom template that you just downloaded.
 >
 > **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=11)** By the end of this session, you'll have a working app running on multiple platforms and a clear understanding of how to make impactful changes to its functionality.
 >
@@ -776,11 +766,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=28)** In most cases, you can double-click the file in the file manager of your operating system, and this will start the process.
 >
-> **[0:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=36)** Next, we're going to open the project from within Android Studio.
+> **[0:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=36)** Next, we're going to open the project from within [[Android]] Studio.
 >
 > **[0:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=44)** If needed, we may be required to allow permission to let it build the project.
 >
-> **[0:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=50)** Then we want it to Gradle sync and choose the project view instead of Android, which is what we always use for Kotlin Multiplatform development.
+> **[0:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=50)** Then we want it to [[Gradle]] sync and choose the project view instead of Android, which is what we always use for [[Kotlin Multiplatform]] development.
 >
 > **[1:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=63)** First, I'm going to go into the Gradle directory and update some versions.
 >
@@ -796,7 +786,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=101)** Now we are going to add any missing run configurations.
 >
-> **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=104)** I'll go to edit configurations, add, application, we call it Desktop, select the Java version, desktopMain, the main class, and hit OK.
+> **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=104)** I'll go to edit configurations, add, application, we call it Desktop, select the [[Java]] version, desktopMain, the main class, and hit OK.
 >
 > **[2:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=123)** And then we'll add the web assembly version, which is Gradle.
 >
@@ -840,7 +830,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=242)** As you can see, I now have all four running at once.
 >
-> **[4:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=245)** I have made a small change and changed the text to read Hello LinkedIN Learning! in the shared code, and it's reflected in all four.
+> **[4:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=245)** I have made a small change and changed the text to read Hello [[LinkedIn]] Learning! in the shared code, and it's reflected in all four.
 >
 > **[4:14](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980&t=254)** You've now seen how to set up, run, and customize your first Kotlin Multiplatform app using the custom template.
 >
@@ -852,7 +842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[Gradle]] (6), web (6), [[Kotlin Multiplatform]] (3), hit (3)
+> **Frameworks & Libraries:** [[Android]] (6), [[Gradle]] (6), [[Kotlin Multiplatform]] (3), [[Java]] (2), [[Kotlin Multiplatform|Multiplatform]] (1)
 > **Code Identifiers:** ios (3), desktopmain (1), wasmjsbrowserdevelopment (1)
 > **UI Navigation:** open the (2), double-click (1), go to (1), select the (1)
 > **Exercise Files:** template (3), zip file (1)
@@ -861,18 +851,17 @@ created: 2026-05-02
 > **Versions:** 8.11.1 (1), 8.9.1 (1)
 > **Definitions:** we call this (1), is a  (1)
 
-#### Whether to use Compose Multiplatform
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980)
+#### [Whether to use Compose Multiplatform](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=0)** - [Instructor] Let's look at what Compose Multiplatform offers, its benefits, and its limitations, and how to decide if it's the right choice for your project.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=0)** - [Instructor] Let's look at what [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]] offers, its benefits, and its limitations, and how to decide if it's the right choice for your project.
 >
-> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=11)** Compose Multiplatform has its origins with the user interface framework Jetpack Compose.
+> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=11)** Compose Multiplatform has its origins with the user interface framework [[Jetpack Compose]].
 >
-> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=18)** Jetpack Compose was written by Google for Android developers.
+> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=18)** Jetpack Compose was written by [[Google]] for [[Android]] developers.
 >
-> **[0:22](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=22)** It shared some of the same main developers who originally wrote React.
+> **[0:22](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=22)** It shared some of the same main developers who originally wrote [[React.js|React]].
 >
 > **[0:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=28)** I feel Compose has a wonderful developer experience for writing user interfaces in a declarative manner.
 >
@@ -882,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=48)** They figured out a neat trick to treat every platform as if it was an Android screen, simply by porting the Android graphics library Skia to each of these platforms.
 >
-> **[1:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=61)** They call it Skiko for Skia Kotlin.
+> **[1:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=61)** They call it Skiko for Skia [[Kotlin]].
 >
 > **[1:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=65)** While it's obvious that writing all of your user interface code once may save you a lot of time, there are reasons why this may not be a good idea for you.
 >
@@ -894,19 +883,19 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=103)** You might find that some animations behave differently or require custom tweaking.
 >
-> **[1:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=109)** You can get around some issues with the special KMP libraries, but a Compose Multiplatform app still may not appear the same on iOS, for example, as if you had written it using SwiftUI.
+> **[1:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=109)** You can get around some issues with the special [[Kotlin Multiplatform|KMP]] libraries, but a Compose Multiplatform app still may not appear the same on iOS, for example, as if you had written it using SwiftUI.
 >
 > **[2:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=123)** Also, if you work for a larger company, you might have existing development teams and investments into the native user interface libraries.
 >
 > **[2:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=133)** In this case, it might make sense to reuse existing user interface code and to only replace the code sections with shared Kotlin code when it makes sense.
 >
-> **[2:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=145)** A lot of larger companies share business logic between Android and iOS apps with Kotlin Multiplatform, while still using Jetpack Compose on Android and SwiftUI on iOS.
+> **[2:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=145)** A lot of larger companies share business logic between Android and iOS apps with [[Kotlin Multiplatform]], while still using Jetpack Compose on Android and SwiftUI on iOS.
 >
 > **[2:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=158)** Here's some examples.
 >
 > **[2:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=160)** Compose Multiplatform can offer a huge savings in cost, time, and administrative overhead.
 >
-> **[2:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=166)** However, you must consider if a seamless native user experience may be more important to your organization than those savings.
+> **[2:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=166)** However, you must consider if a seamless native [[User Experience (UX)|user experience]] may be more important to your organization than those savings.
 >
 > **[2:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/whether-to-use-compose-multiplatform?u=76281980&t=176)** Kotlin Multiplatform has the ability to empower both hybrid Compose and per-platform native user experiences, You can mix and match to your heart's content.
 >
@@ -922,16 +911,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expect and actual
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980)
+#### [Expect and actual](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980&t=0)** - [Instructor] So far we've used a template to modify existing code to work on multiple platforms.
 >
-> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980&t=6)** However, we haven't really explained how Kotlin Multiplatform works.
+> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980&t=6)** However, we haven't really explained how [[Kotlin Multiplatform]] works.
 >
-> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980&t=11)** Under the hood, there are two special Kotlin language modifiers, which were added to the core Kotlin language back when KMP was added to Kotlin in 2017.
+> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980&t=11)** Under the hood, there are two special [[Kotlin]] language modifiers, which were added to the core Kotlin language back when [[Kotlin Multiplatform|KMP]] was added to Kotlin in 2017.
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/expect-and-actual?u=76281980&t=23)** These are expect and actual.
 >
@@ -975,19 +963,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (10), [[Kotlin Multiplatform]] (3), feature (2), [[Kotlin Multiplatform|Kmp]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[Kotlin Multiplatform]] (3), [[Kotlin Multiplatform|Kmp]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** kmp (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### An actual example
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980)
+#### [An actual example](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=0)** - [Instructor] In the last segment, I gave you an overview of the expect and actual keywords in Kotlin, but now it's time for a brief demonstration.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=0)** - [Instructor] In the last segment, I gave you an overview of the expect and actual keywords in [[Kotlin]], but now it's time for a brief demonstration.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=10)** I will show you an example of using different implementations for each platform for Kotlin property and function.
 >
@@ -1001,7 +988,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=34)** Typically, this code sits under commonMain slash kotlin for your app or library module.
 >
-> **[0:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=42)** You need to use the Project view, not the Android.
+> **[0:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=42)** You need to use the Project view, not the [[Android]].
 >
 > **[0:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=46)** So here we have my shared code for my project.
 >
@@ -1027,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=117)** Now you select all the platforms you want the implementations for on that quick fix screen.
 >
-> **[2:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=121)** You can choose iOS main instead of the individual check boxes for each of the different iOS targets, for example, this works because KMP uses a hierarchical approach, so you're not forced to write multiple implementations when it does not make any sense.
+> **[2:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=121)** You can choose iOS main instead of the individual check boxes for each of the different iOS targets, for example, this works because [[Kotlin Multiplatform|KMP]] uses a hierarchical approach, so you're not forced to write multiple implementations when it does not make any sense.
 >
 > **[2:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=137)** After you click through to this screen, the IDE will create files for each platform and will leave the implementation as TODO, Not yet implemented.
 >
@@ -1037,7 +1024,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=163)** You can also find all TODOs in your code using the TODO tool window in most JetBrains IDEs.
 >
-> **[2:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=169)** So that would go Tool Windows and then look for TODO, and it found four TODOs, as you can see.
+> **[2:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=169)** So that would go Tool [[Windows]] and then look for TODO, and it found four TODOs, as you can see.
 >
 > **[3:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=180)** Let's define the actual val greeting to four different values depending upon the platform.
 >
@@ -1059,7 +1046,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=257)** I run for Android here.
 >
-> **[4:19](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=259)** If I click here, it says, Compose: Let's do the robot, Android!
+> **[4:19](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=259)** If I click here, it says, [[Jetpack Compose|Compose]]: Let's do the robot, Android!
 >
 > **[4:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/an-actual-example?u=76281980&t=263)** So, and likewise, if I pick any other one of these, let's do web.
 >
@@ -1089,7 +1076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[Kotlin]] (5), web (5), [[Jetpack Compose|Compose]] (2), feature (1)
+> **Frameworks & Libraries:** [[Android]] (6), [[Kotlin]] (5), [[Jetpack Compose|Compose]] (2), [[Kotlin Multiplatform|Kmp]] (1), [[Windows]] (1)
 > **Env Vars:** todo (5), ide (3), wasm (3), kmp (1)
 > **Code Identifiers:** ios (5), commonmain (1), val_world (1), platformfunction (1)
 > **UI Navigation:** go to (5), open the (1)
@@ -1098,8 +1085,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **File Paths:** greeting.kt (1)
 
-#### Accessing operating system methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980)
+#### [Accessing operating system methods](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,13 +1093,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=9)** You see here, I have created a platform function with expect fun, and I gave it the composable annotation.
 >
-> **[0:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=17)** This makes it a Compose Multiplatform function, so then we can actually make this call from Compose code and also take advantage of some of the Compose methods.
+> **[0:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=17)** This makes it a [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]] function, so then we can actually make this call from Compose code and also take advantage of some of the Compose methods.
 >
-> **[0:27](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=27)** So we're going to use this expect fun to create a function interface that we satisfy with a different Kotlin function for each platform, so let's take a look at Android here.
+> **[0:27](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=27)** So we're going to use this expect fun to create a function interface that we satisfy with a different [[Kotlin]] function for each platform, so let's take a look at [[Android]] here.
 >
 > **[0:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=40)** Starting with Android, we create a sequence of toasts, so toast is a system message that briefly appears over the top of our app, covering everything underneath it.
 >
-> **[0:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=52)** In this case, we define our platform func to show two different messages with the Toast.makeText method, which only Android supports, passing in the Android context that we get from the composable, so LocalContext.current is the way, in Jetpack Compose, that you can get Android's context.
+> **[0:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=52)** In this case, we define our platform func to show two different messages with the Toast.makeText method, which only Android supports, passing in the Android context that we get from the composable, so LocalContext.current is the way, in [[Jetpack Compose]], that you can get Android's context.
 >
 > **[1:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=73)** Here, we're passing into a launched effect, which allows you to use coroutines to run normal code inside of Compose rather than view code, and so here, we're in a coroutine, looping forever while true, meaning we continue this loop until the end of time unless this is no longer visible, which we'll show, and Toast.makeText is going to spit these two messages out with a two second delay between each of them, so this is going to show the two messages on repeat for Android.
 >
@@ -1139,11 +1125,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=167)** Finally, we go to WebAssembly.
 >
-> **[2:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=171)** Again, WebAssembly, we're going to use a platform access to the browser's JavaScript to the document.title that allow us to change the title of the webpage.
+> **[2:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=171)** Again, WebAssembly, we're going to use a platform access to the browser's [[JavaScript]] to the document.title that allow us to change the title of the webpage.
 >
 > **[3:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=182)** I'm going to show this in Chrome, because if I show it in Safari, it doesn't show you the title, so we're going to go back and forth every two seconds between the two messages.
 >
-> **[3:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=191)** As you can see, using Kotlin Multiplatform, you can make calls to specific messages for each operating system on each platform while keeping the main majority of your codebase still shared and still reusable, and I'm going to demonstrate that quickly here.
+> **[3:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=191)** As you can see, using [[Kotlin Multiplatform]], you can make calls to specific messages for each operating system on each platform while keeping the main majority of your codebase still shared and still reusable, and I'm going to demonstrate that quickly here.
 >
 > **[3:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=208)** So let's take a look at Android.
 >
@@ -1163,13 +1149,13 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=256)** So we've just demonstrated how we can run the platform functions of the operating system directly from actual functions and then calling it from shared code.
 >
-> **[4:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=265)** This approach not only simplifies cross-platform development, but it also ensures that platform-specific features integrate cleanly into your app.
+> **[4:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=265)** This approach not only simplifies [[Cross-platform Development]], but it also ensures that platform-specific features integrate cleanly into your app.
 >
 > **[4:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/accessing-operating-system-methods?u=76281980&t=274)** Kotlin Multiplatform enables you to write maintainable code while leveraging the unique capabilities of each platform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (8), [[Jetpack Compose|Compose]] (5), [[Kotlin Multiplatform|Multiplatform]] (2), application (2), [[Kotlin Multiplatform]] (2)
+> **Frameworks & Libraries:** [[Android]] (8), [[Jetpack Compose|Compose]] (5), [[Kotlin Multiplatform|Multiplatform]] (2), [[Kotlin Multiplatform]] (2), [[Kotlin]] (1)
 > **Code Identifiers:** ios (4), maketext (2), rootviewcontroller (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
@@ -1177,16 +1163,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiplatform project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980)
+#### [Multiplatform project structure](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=0)** - [Instructor] Now that we've looked at a bit of Kotlin Multiplatform code, we should familiarize ourselves with the project structure that makes it all possible.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=0)** - [Instructor] Now that we've looked at a bit of [[Kotlin Multiplatform]] code, we should familiarize ourselves with the project structure that makes it all possible.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=10)** Let's take a look at our template and identify each location where the different code goes for each platform and for shared code segments.
 >
-> **[0:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=20)** The template keeps all of its Kotlin code within a single module named composeApp.
+> **[0:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=20)** The template keeps all of its [[Kotlin]] code within a single module named composeApp.
 >
 > **[0:27](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=27)** All of its Kotlin code lives under composeApp/source in different folders with special names.
 >
@@ -1208,7 +1193,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=111)** You might want to use the more specific architectures if you're calling code that only works in that architecture.
 >
-> **[2:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=120)** Likewise, we can share code for all JVM platforms that use methods specific to the JVM, or we can create code under Android and desktop that are more specific than the JVM.
+> **[2:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=120)** Likewise, we can share code for all JVM platforms that use methods specific to the JVM, or we can create code under [[Android]] and desktop that are more specific than the JVM.
 >
 > **[2:14](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=134)** Each time we create both expect and actual implementations, we can decide for ourselves as a programmer which level is most appropriate to create our actual code implementation at.
 >
@@ -1222,11 +1207,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=165)** But you could get more specific like iOS simulator, ARM 64 main or less specific like Apple Main, which also supports Watch OS and Vision OS.
 >
-> **[2:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=175)** Web has wasmjsmain, which supports writing both web assembly as well as JavaScript code from Kotlin.
+> **[2:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=175)** Web has wasmjsmain, which supports writing both web assembly as well as [[JavaScript]] code from Kotlin.
 >
 > **[3:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=185)** You might wonder how Kotlin knows which platforms you're supporting.
 >
-> **[3:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=189)** All of these settings are defined within the standard build system called Gradle.
+> **[3:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=189)** All of these settings are defined within the standard build system called [[Gradle]].
 >
 > **[3:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=195)** You can also try Amper instead of Gradle, but that build system is still very new and less tested with complex configurations.
 >
@@ -1242,15 +1227,15 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=244)** This doesn't really demonstrate how useful Kotlin Multiplatform is though.
 >
-> **[4:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=249)** What really makes KMP exciting is the plethora of useful libraries that provide both the expect and the actual code for us to use.
+> **[4:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=249)** What really makes [[Kotlin Multiplatform|KMP]] exciting is the plethora of useful libraries that provide both the expect and the actual code for us to use.
 >
-> **[4:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=260)** By using these libraries, we can access the network, store data in databases, key platform settings and key value stores, manage dates and times, handle dependency injection across platforms, and provide resources for all platforms.
+> **[4:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=260)** By using these libraries, we can access the network, store data in [[Databases]], key platform settings and key value stores, manage dates and times, handle [[Dependency Injection]] across platforms, and provide resources for all platforms.
 >
 > **[4:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/multiplatform-project-structure?u=76281980&t=276)** In the coming videos, I will demonstrate some of these libraries that provide all of the code for each platform for you, and I will show you how they will make your work much easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (7), [[Android]] (4), [[Gradle]] (4), [[Kotlin Multiplatform]] (3), web (2)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[Android]] (4), [[Gradle]] (4), [[Kotlin Multiplatform]] (3), [[JavaScript]] (1)
 > **Code Identifiers:** ios (9), composeapp (2)
 > **Env Vars:** jvm (5), arm (3), kmp (1)
 > **CLI Commands:** make (2)
@@ -1264,14 +1249,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Kotlin from Swift code
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980)
+#### [Using Kotlin from Swift code](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=0)** - [Instructor] The Kotlin native code generator was designed to interoperate seamlessly with Objective C code, Apple's original language of choice.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=0)** - [Instructor] The [[Kotlin]] native code generator was designed to interoperate seamlessly with Objective C code, Apple's original language of choice.
 >
-> **[0:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=9)** However, most developers who write code today for Apple devices use the Swift programming language, which offers more modern features than Objective C.
+> **[0:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=9)** However, most developers who write code today for Apple devices use the [[Swift (Programming Language)|Swift]] programming language, which offers more modern features than Objective C.
 >
 > **[0:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=21)** This video demonstrates how you can call Kotlin functions from your Swift code, and how you can handle Kotlin types from return variables.
 >
@@ -1283,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=52)** You can simply call the function in Swift by passing any appropriate arguments.
 >
-> **[0:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=58)** So let's try creating a new platform function here that does not depend on compose multi-platform or Jetpack compose.
+> **[0:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=58)** So let's try creating a new platform function here that does not depend on [[Jetpack Compose|compose]] multi-platform or [[Jetpack Compose]].
 >
 > **[1:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=68)** So now we have to implement it for all of our platforms.
 >
@@ -1297,11 +1281,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=103)** and then here, we'll launch this to the main dispatcher
 >
-> **[1:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=111)** so that we can use the main thread, which is required to make UI updates on Android or iOS.
+> **[1:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=111)** so that we can use the main thread, which is required to make UI updates on [[Android]] or iOS.
 >
 > **[2:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=126)** There we go.
 >
-> **[2:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=128)** So now we have this new call platform func, and we're going to go over to Xcode and add it to our Swift code.
+> **[2:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=128)** So now we have this new call platform func, and we're going to go over to [[Xcode]] and add it to our Swift code.
 >
 > **[2:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980&t=136)** First. We should probably remove this from our shared code.
 >
@@ -1347,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (16), [[Swift (Programming Language)|Swift]] (16), [[Xcode]] (2), [[Programming]] (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (16), [[Swift (Programming Language)|Swift]] (16), [[Xcode]] (2), [[Jetpack Compose|Compose]] (1), [[Jetpack Compose]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ios (2), greeting_ioskt (1)
 > **Analogies:** for example (2), such as (1)
@@ -1355,18 +1339,17 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making it easier with Swift export
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980)
+#### [Making it easier with Swift export](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=0)** - [Instructor] In our previous video, we called our Kotlin code directly from Swift.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=0)** - [Instructor] In our previous video, we called our [[Kotlin]] code directly from [[Swift (Programming Language)|Swift]].
 >
 > **[0:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=4)** However, there are some small issues that may become annoying to Swift developers having to use our Kotlin code.
 >
-> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=11)** We discuss Kotlin Sealed classes as one example of a type that will be difficult to work with in traditional Kotlin Multiplatform code.
+> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=11)** We discuss Kotlin Sealed classes as one example of a type that will be difficult to work with in traditional [[Kotlin Multiplatform]] code.
 >
-> **[0:19](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=19)** In this video, we'll discuss the solutions to make KMP code much easier to integrate for Swift developers.
+> **[0:19](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=19)** In this video, we'll discuss the solutions to make [[Kotlin Multiplatform|KMP]] code much easier to integrate for Swift developers.
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=26)** After KMP came out and developers discovered some minor difficulties with certain aspects of the integration between Kotlin and Swift, a KMP consulting company called Touchlab realized that there could be a commercial opportunity in making it all easier.
 >
@@ -1384,11 +1367,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=89)** Even though it's still young and could change in the coming months, I recommend learning to work with the new official Swift Export Library for KMP.
 >
-> **[1:39](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=99)** While we could work with our existing project template, it seems Swift Export and Compose Multiplatform aren't compatible just yet.
+> **[1:39](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=99)** While we could work with our existing project template, it seems Swift Export and [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]] aren't compatible just yet.
 >
 > **[1:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=106)** So, let's open a special Swift Export sample code instead, and I'll explain it.
 >
-> **[1:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=112)** You'll need to use Kotlin version 2.1.0 or newer as I have here in the gradle/libs.versions.toml file.
+> **[1:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=112)** You'll need to use Kotlin version 2.1.0 or newer as I have here in the [[Gradle]]/libs.versions.toml file.
 >
 > **[2:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=121)** You'll also need to set experimental setting in the gradle.properties file, kotlin.experimental.swift-export.enabled=true.
 >
@@ -1408,7 +1391,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=184)** Also, make sure that the module name matches its old name, Shared in this case, and the flattenPackage structure should mimic your project structure.
 >
-> **[3:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=193)** Here it's com.github.jetbrrains.swiftexport.
+> **[3:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=193)** Here it's com.[[GitHub]].jetbrrains.swiftexport.
 >
 > **[3:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-it-easier-with-swift-export?u=76281980&t=198)** At this point, you should gradle sync.
 >
@@ -1436,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (16), [[Kotlin]] (12), [[Kotlin Multiplatform|Kmp]] (5), [[Gradle]] (5), feature (3)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (16), [[Kotlin]] (12), [[Kotlin Multiplatform|Kmp]] (5), [[Gradle]] (5), [[Kotlin Multiplatform|Multiplatform]] (2)
 > **Env Vars:** kmp (5), skie (3)
 > **Code Identifiers:** swiftexport (2), useclassfroma (2), flattenpackage (1)
 > **File Paths:** gradle/libs.versions.toml (1), kotlin.experimental.swift (1), project/shared/build.gradle (1), contentview.swift (1)
@@ -1445,22 +1428,21 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), click on (1)
 > **Exercise Files:** template (1), sample code (1)
 
-#### KMP together with SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980)
+#### [KMP together with SwiftUI](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=0)** - [Instructor] In the last video, we learned one new way to make the integration easier between Kotlin and Swift.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=0)** - [Instructor] In the last video, we learned one new way to make the integration easier between [[Kotlin]] and [[Swift (Programming Language)|Swift]].
 >
 > **[0:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=7)** In this new video, we'll use Kotlin together with Swift UI.
 >
 > **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=11)** Swift UI is Apple's recommended user interface framework.
 >
-> **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=15)** It's also declarative like Compose and has a lot of the same nice usability features.
+> **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=15)** It's also declarative like [[Jetpack Compose|Compose]] and has a lot of the same nice usability features.
 >
 > **[0:22](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=22)** Why would you want to work with Swift UI even when Compose multi-platform is available?
 >
-> **[0:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=28)** Maybe your company already has a lot of highly paid Swift UI developers for Apple products, and they want to produce the cleanest user interface integration that they can, even if it costs more or has to be redone for an Android Compose app.
+> **[0:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=28)** Maybe your company already has a lot of highly paid Swift UI developers for Apple [[Microsoft Products|products]], and they want to produce the cleanest user interface integration that they can, even if it costs more or has to be redone for an [[Android]] Compose app.
 >
 > **[0:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=42)** Maybe you want to use existing Swift UI views that were custom designed for the problem that you're tackling.
 >
@@ -1480,7 +1462,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=80)** I had to make some little tweaks to it.
 >
-> **[1:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=81)** So you should check out the actual sample code we're providing to you in order to make sure that the Java tool chain is set up correctly so that you can run it.
+> **[1:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=81)** So you should check out the actual sample code we're providing to you in order to make sure that the [[Java]] tool chain is set up correctly so that you can run it.
 >
 > **[1:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=89)** This is a very big project.
 >
@@ -1498,7 +1480,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=143)** And this is getting integrated, this native map view, into this shared code here.
 >
-> **[2:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=149)** So since I have the same function, new title, I can paste in actual coordinates of where LinkedIn is.
+> **[2:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=149)** So since I have the same function, new title, I can paste in actual coordinates of where [[LinkedIn]] is.
 >
 > **[2:37](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=157)** I can go ahead and do the same thing over here with the Android code as well.
 >
@@ -1508,7 +1490,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=172)** The title isn't showing up, but that's because it's a different type of view, and it's not showing titles at this moment.
 >
-> **[2:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=176)** So this is the Google Maps from Android, and this is a different map view from Swift UI that's highly custom for iOS.
+> **[2:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=176)** So this is the [[Google]] Maps from Android, and this is a different map view from Swift UI that's highly custom for iOS.
 >
 > **[3:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/kmp-together-with-swiftui?u=76281980&t=184)** That's Apple Maps, this is Google Maps.
 >
@@ -1530,12 +1512,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recommended architecture with MVVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980)
+#### [Recommended architecture with MVVM](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=0)** - [Presenter] Why is software architecture important?
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=0)** - [Presenter] Why is [[Software Architecture]] important?
 >
 > **[0:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=3)** I often joke, "Never argue with an app developer.
 >
@@ -1543,23 +1524,23 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=11)** Architecture is important because the user interfaces in our app are constantly changing, and it's vital to keep them separated from other layers for a variety of reasons.
 >
-> **[0:22](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=22)** Ever since Microsoft introduced the Model-View-ViewModel or MVVM architecture in 2005, it has consistently been one of the most popular app architectures.
+> **[0:22](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=22)** Ever since [[Microsoft]] introduced the Model-View-ViewModel or MVVM architecture in 2005, it has consistently been one of the most popular app architectures.
 >
-> **[0:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=34)** Google recommends it for Android apps.
+> **[0:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=34)** [[Google]] recommends it for [[Android]] apps.
 >
 > **[0:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=36)** Most iOS apps also implement it.
 >
 > **[0:39](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=39)** We should talk about architecture and why it matters, but I don't intend to go over all of the options in this course.
 >
-> **[0:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=46)** MVVM makes special sense for Kotlin Multiplatform development in part because Google publishes opinionated KMP library implementations of this architecture for both Android and iOS apps, and even desktop and others, but it is not the only option.
+> **[0:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=46)** MVVM makes special sense for [[Kotlin Multiplatform]] development in part because Google publishes opinionated [[Kotlin Multiplatform|KMP]] library implementations of this architecture for both Android and iOS apps, and even desktop and others, but it is not the only option.
 >
 > **[1:03](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=63)** For this section of the course, a key question you might have is why is software architecture important?
 >
 > **[1:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=70)** A common answer everyone uses is it makes testing your code easier.
 >
-> **[1:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=76)** By separating the view from the view model and the rest of your data, it's easier to verify that each step is producing the correct output that you would expect.
+> **[1:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=76)** By separating the view from the view model and the [[Representational State Transfer (REST)|rest]] of your data, it's easier to verify that each step is producing the correct output that you would expect.
 >
-> **[1:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=85)** However, there is another reason specific to multiplatform development.
+> **[1:25](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=85)** However, there is another reason specific to [[Kotlin Multiplatform|multiplatform]] development.
 >
 > **[1:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=91)** Structuring your application will make it easier to verify your code's behavior after you decide which layers should be shared and which should be customized for each platform.
 >
@@ -1569,7 +1550,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=119)** This is important because views can change very often whenever the design changes, but the underlying logic generally does not change very much, and the logic result should be tested.
 >
-> **[2:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=130)** MVVM creates a simple binding from the model data to the VM model to the view that works very well with modern declarative user interface libraries like Compose and SwiftUI.
+> **[2:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=130)** MVVM creates a simple binding from the model data to the VM model to the view that works very well with modern declarative user interface libraries like [[Jetpack Compose|Compose]] and SwiftUI.
 >
 > **[2:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980&t=144)** Many useful support libraries have been written to make MVVM easier to implement in Kotlin Multiplatform apps.
 >
@@ -1581,22 +1562,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (3), [[Software Architecture]] (2), [[Google]] (2), [[Android]] (2), data (2)
+> **Frameworks & Libraries:** [[Kotlin Multiplatform]] (3), [[Software Architecture]] (2), [[Google]] (2), [[Android]] (2), [[Kotlin Multiplatform|Multiplatform]] (2)
 > **Env Vars:** mvvm (4), kmp (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [presenter] (1)
 
-#### Google ViewModel
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980)
+#### [Google ViewModel](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=0)** - [Instructor] To support compose multi-platform, Google offers the common view model library as part of its Jetpack series of libraries.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=0)** - [Instructor] To support [[Jetpack Compose|compose]] multi-platform, [[Google]] offers the common view model library as part of its Jetpack series of libraries.
 >
 > **[0:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=9)** In this video, we'll use Google's common view model to share code across platforms.
 >
-> **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=15)** First, we're going to go into our project, which I have here, and we have to paste in the Gradle dependency for lifecycle view model compose into the dependency section for our app.
+> **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=15)** First, we're going to go into our project, which I have here, and we have to paste in the [[Gradle]] dependency for lifecycle view model compose into the dependency section for our app.
 >
 > **[0:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=30)** As you can see here, I already have it added to my libs versions two ml file.
 >
@@ -1612,7 +1592,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=54)** You're basically doing the same thing here, except we're just using the Gradle version catalogs to define it, right here.
 >
-> **[1:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=61)** So we've added the lifecycle view model compose, as well as androidx-lifecycle-runtime-compose, and androidx-lifecycle-viewmodel-android, okay?
+> **[1:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=61)** So we've added the lifecycle view model compose, as well as androidx-lifecycle-runtime-compose, and androidx-lifecycle-viewmodel-[[Android]], okay?
 >
 > **[1:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/google-s-viewmodel?u=76281980&t=73)** And then we need to add these to our common build, Gradle KTS file.
 >
@@ -1706,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Android]] (5), [[Gradle]] (3), data (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Android]] (5), [[Gradle]] (3), [[Google]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), defined as (1)
 > **Code Identifiers:** ios (1)
@@ -1720,8 +1700,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding Ktor to your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980)
+#### [Adding Ktor to your project](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,9 +1710,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=15)** As a result, you'll very likely need a solution for talking to clients or servers over the internet.
 >
-> **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=23)** Fortunately, the company that originally made Kotlin also builds a multi-platform networking library that works for you as both a client and a server.
+> **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=23)** Fortunately, the company that originally made [[Kotlin]] also builds a multi-platform networking library that works for you as both a client and a server.
 >
-> **[0:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=32)** It's called Ktor, K-T-O-R, and it supports the HTTP REST protocol that is most popular on the internet.
+> **[0:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=32)** It's called [[Ktor]], K-T-O-R, and it supports the HTTP [[Representational State Transfer (REST)|REST]] protocol that is most popular on the internet.
 >
 > **[0:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=42)** We're going to make a good number of changes to our example project in this section.
 >
@@ -1743,7 +1722,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=56)** I'll describe each of the changes that I made in order.
 >
-> **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=60)** First, we're going to make changes to our Gradle configuration for the app.
+> **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=60)** First, we're going to make changes to our [[Gradle]] configuration for the app.
 >
 > **[1:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=65)** Again, Gradle is the primary build system Kotlin uses for most apps.
 >
@@ -1755,7 +1734,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=97)** You can see I added the version here for Ktor, and I have five libraries down below here.
 >
-> **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=104)** These five libraries are: ktor-client-core, ktor-client-okhttp, which is a very popular JVM HTTP library, ktor-client-darwin, which Darwin is a Apple reference, ktor-client-content-negotiation, and then, finally, ktor-serialization-json.
+> **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=104)** These five libraries are: ktor-client-core, ktor-client-okhttp, which is a very popular JVM HTTP library, ktor-client-darwin, which Darwin is a Apple reference, ktor-client-content-negotiation, and then, finally, ktor-serialization-[[JSON]].
 >
 > **[2:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=127)** We need all of these.
 >
@@ -1777,7 +1756,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=172)** Because they're all the same version number, I'm referencing Ktor five times here.
 >
-> **[2:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=176)** The easy way to find these module names and version numbers is to search for these libraries on GitHub and to copy the module name from either the README file on the front page of the library or from its docs.
+> **[2:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=176)** The easy way to find these module names and version numbers is to search for these libraries on [[GitHub]] and to copy the module name from either the README file on the front page of the library or from its docs.
 >
 > **[3:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=189)** So we've already entered the names and version numbers here for the five libraries in one plugin.
 >
@@ -1799,7 +1778,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=232)** Usually, I just add new third-party libraries to the end of the plugin block.
 >
-> **[3:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=238)** As we come down here, under androidMain, we've added the one OkHttp library, which provides our Android implementation.
+> **[3:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=238)** As we come down here, under androidMain, we've added the one OkHttp library, which provides our [[Android]] implementation.
 >
 > **[4:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980&t=248)** Down here under commonMain, for our share code, I added three libraries: ktor.client.core, ktor.client.content.negotiation, and ktor.serialization.json, okay?
 >
@@ -1830,8 +1809,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Tools:** github (1)
 
-#### Modeling with Kotlinx-serialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980)
+#### [Modeling with Kotlinx-serialization](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1839,7 +1817,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=5)** To do so, we need to make them serializable.
 >
-> **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=8)** You'll remember earlier that we set up a build plugin for kotlinx serialization, as well as ctor libraries for json serialization and deserialization.
+> **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=8)** You'll remember earlier that we set up a build plugin for kotlinx serialization, as well as ctor libraries for [[JSON]] serialization and deserialization.
 >
 > **[0:21](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=21)** I think I'll show you here again.
 >
@@ -1847,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=26)** It needs both a plugin and the dependency.
 >
-> **[0:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=29)** So what is Kotlin Externalization?
+> **[0:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=29)** So what is [[Kotlin]] Externalization?
 >
 > **[0:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=32)** This is an add-on library for Kotlin provided by JetBrains, for the purpose of converting data between formats through the process of serialization and deserialization.
 >
@@ -1857,7 +1835,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=60)** We'll want that JSON deserialized back into our Kotlin data classes.
 >
-> **[1:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=65)** Kotlinx serialization generates most of the code for us to do this across KMP platforms.
+> **[1:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=65)** Kotlinx serialization generates most of the code for us to do this across [[Kotlin Multiplatform|KMP]] platforms.
 >
 > **[1:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/modeling-with-kotlinx-serialization?u=76281980&t=73)** I use the Hacker News API to provide a simple example, since it does not require us to provide any authentication.
 >
@@ -1905,7 +1883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (11), data (9), api (6), [[Kotlin]] (5), [[Kotlin Multiplatform|Kmp]] (1)
+> **Frameworks & Libraries:** [[JSON]] (11), [[Kotlin]] (5), [[Kotlin Multiplatform|Kmp]] (1)
 > **Env Vars:** api (6), json (1), kmp (1), http (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1914,8 +1892,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Making network requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980)
+#### [Making network requests](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1927,11 +1904,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=15)** So let's take a look at this news API.
 >
-> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=18)** Now, typically we'll want to create our client using dependency injection, but I wanted to keep this example very simple and easy to read.
+> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=18)** Now, typically we'll want to create our client using [[Dependency Injection]], but I wanted to keep this example very simple and easy to read.
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=26)** At the top of the news API, you'll notice that we created a client variable.
 >
-> **[0:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=32)** We gave it the capability to handle JSON serialization by installing the content negotiation module with the JSON block here.
+> **[0:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=32)** We gave it the capability to handle [[JSON]] serialization by installing the content negotiation module with the JSON block here.
 >
 > **[0:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=42)** We are pretty printing and is lenient.
 >
@@ -1955,7 +1932,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=97)** Then we take the first 10 IDs returns, storiesIDs.take10.
 >
-> **[1:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=102)** This is a Kotlin stream API here.
+> **[1:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=102)** This is a [[Kotlin]] stream API here.
 >
 > **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=104)** Only take the ones that are not null 'cause we don't want ones that are not stories, if there were any.
 >
@@ -2007,7 +1984,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=269)** Likewise, I should be able to do this on other platforms.
 >
-> **[4:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=275)** Here's an Android and iOS.
+> **[4:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=275)** Here's an [[Android]] and iOS.
 >
 > **[4:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=280)** Now in practice, you're going to want to provide some kind of error handling for this, possibly retry.
 >
@@ -2015,13 +1992,13 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=291)** And as you can see, it's now working on all of the platforms, we had Android, iOS, and desktop.
 >
-> **[4:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=298)** What you'll notice though from this code is that we did not have to define any platform specific code other than providing a different client library for each one of the platforms in our Gradle configuration.
+> **[4:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=298)** What you'll notice though from this code is that we did not have to define any platform specific code other than providing a different client library for each one of the platforms in our [[Gradle]] configuration.
 >
 > **[5:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/making-network-requests?u=76281980&t=310)** It's pretty cool, huh?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Kotlin]] (3), [[Dependency Injection]] (2), [[JSON]] (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Dependency Injection]] (2), [[JSON]] (2), [[Android]] (2), [[Gradle]] (1)
 > **Env Vars:** api (8), http (3), url (3), json (2)
 > **Code Identifiers:** ios (2), gettopstories (1), storiesids (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2030,22 +2007,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apollo GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980)
+#### [Apollo GraphQL](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=0)** - [Instructor] While most of the internet is based upon REST, another protocol has also grown.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=0)** - [Instructor] While most of the internet is based upon [[Representational State Transfer (REST)|REST]], another protocol has also grown.
 >
-> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=6)** GraphQL was popularized by Facebook for managing complex APIs, which would normally be split between numerous microservices.
+> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=6)** [[GraphQL]] was popularized by Facebook for managing complex APIs, which would normally be split between numerous [[Microservices]].
 >
 > **[0:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=16)** The solution makes it much easier as a client to interact with only one endpoint using customized requests rather than making many requests to multiple microservice hosts for the same thing.
 >
-> **[0:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=29)** In Kotlin Multiplatform, the Apollo GraphQL Library has excellent support and it's easy to use.
+> **[0:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=29)** In [[Kotlin Multiplatform]], the Apollo GraphQL Library has excellent support and it's easy to use.
 >
-> **[0:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=36)** We're going to integrate the Apollo GraphQL KMP client into our app for accessing the GitHub API.
+> **[0:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=36)** We're going to integrate the Apollo GraphQL [[Kotlin Multiplatform|KMP]] client into our app for accessing the [[GitHub]] API.
 >
-> **[0:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=43)** First, we're going to add the library build plugin dependency to our Gradle version catalog.
+> **[0:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=43)** First, we're going to add the library build plugin dependency to our [[Gradle]] version catalog.
 >
 > **[0:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=49)** We open libs.versions.toml.
 >
@@ -2117,11 +2093,11 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=260)** Two different interceptors in the list, and we're creating our Apollo client here and pressing the server URL here for it.
 >
-> **[4:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=271)** Normally you would inject this via dependency injection.
+> **[4:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=271)** Normally you would inject this via [[Dependency Injection]].
 >
 > **[4:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=275)** So now we can write this function here to show our top repos.
 >
-> **[4:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=278)** You'll notice it's a suspend function, which is important in Kotlin because the suspending function can be run on a Kotlin coroutine on another thread.
+> **[4:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=278)** You'll notice it's a suspend function, which is important in [[Kotlin]] because the suspending function can be run on a Kotlin coroutine on another thread.
 >
 > **[4:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=287)** This allows us to run a background request while our app does not have its UI frozen, which would be very bad, especially in say, a mobile app, for example.
 >
@@ -2145,7 +2121,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=356)** And here, this is the top 10 GitHub repos on GitHub sorted by stars.
 >
-> **[6:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=362)** Here's it working on Android.
+> **[6:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=362)** Here's it working on [[Android]].
 >
 > **[6:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/apollo-graphql?u=76281980&t=366)** And finally here we have it running on iOS.
 >
@@ -2155,7 +2131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), [[GitHub]] (7), api (4), [[Representational State Transfer (REST)|Rest]] (3), [[Gradle]] (3)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[GitHub]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Gradle]] (3), [[Kotlin]] (2)
 > **Env Vars:** api (4), url (4), rest (3), kmp (1), post (1)
 > **Tools:** github (7)
 > **Code Identifiers:** commonmain (3), composeapp (1), dataassertnoerrors (1), ios (1)
@@ -2169,8 +2145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding SQLDelight to your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980)
+#### [Adding SQLDelight to your project](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,19 +2155,19 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=15)** We can use this as a network cache, as storage for data created by users, or in any way we'd like.
 >
-> **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=23)** For Kotlin Multiplatform, the most popular and flexible option is SQLDelight, a KMP library written by the same engineers who built the Cash App.
+> **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=23)** For [[Kotlin Multiplatform]], the most popular and flexible option is SQLDelight, a [[Kotlin Multiplatform|KMP]] library written by the same engineers who built the Cash App.
 >
 > **[0:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=34)** Let's start by adding SQLDelight, to our existing project.
 >
 > **[0:38](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=38)** First, we need to add the plugin and database drivers for each platform.
 >
-> **[0:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=43)** We do this in the gradle libs.versions.toml file.
+> **[0:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=43)** We do this in the [[Gradle]] libs.versions.toml file.
 >
 > **[0:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=48)** Each of these database drivers provides everything you need to both query and write data to an SQLite database on each supported platform using KMP code.
 >
 > **[0:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=58)** So, let's look at the libs.versions.toml file.
 >
-> **[1:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=62)** We'll add one plugin and three database drivers: Android, native for iOS, and JVM for desktop.
+> **[1:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=62)** We'll add one plugin and three database drivers: [[Android]], native for iOS, and JVM for desktop.
 >
 > **[1:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=69)** Here we put the version in.
 >
@@ -2208,9 +2183,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=104)** We add the coroutine extensions under commonMain.dependencies.
 >
-> **[1:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=110)** We're actually adding Linux datetime and Apollo datetime.
+> **[1:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=110)** We're actually adding [[Linux]] datetime and Apollo datetime.
 >
-> **[1:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=114)** It's useful because we needed it for the GraphQL, but we also need date time to handle the date and time types in our database.
+> **[1:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=114)** It's useful because we needed it for the [[GraphQL]], but we also need date time to handle the date and time types in our database.
 >
 > **[2:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=124)** For iosMain, we add the native driver.
 >
@@ -2218,17 +2193,17 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=131)** All of that right here. Okay?
 >
-> **[2:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=135)** And then we come down here, we create a SQLDelight block with databases.
+> **[2:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=135)** And then we come down here, we create a SQLDelight block with [[Databases]].
 >
 > **[2:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=138)** I'm creating one called cashDB, and I'm sending a package name here.
 >
 > **[2:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=144)** So, next we want to create the queries that we're going to need to use.
 >
-> **[2:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=150)** So, here we have both TopRepos for GitHub, and we have TopStorys for Hacker News.
+> **[2:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=150)** So, here we have both TopRepos for [[GitHub]], and we have TopStorys for Hacker News.
 >
 > **[2:37](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=157)** So, the TopRepos, we're going to create a table here.
 >
-> **[2:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=160)** This is all SQL code.
+> **[2:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=160)** This is all [[SQL]] code.
 >
 > **[2:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=162)** If you're not familiar, you can look online and learn how to write SQL.
 >
@@ -2278,7 +2253,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=305)** If you're not familiar with context, it's something you always just need.
 >
-> **[5:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=309)** I prefer not doing this, and instead using dependency injection here if you can.
+> **[5:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=309)** I prefer not doing this, and instead using [[Dependency Injection]] here if you can.
 >
 > **[5:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980&t=316)** But here we've created our AndroidSqlightDriver.
 >
@@ -2290,7 +2265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Android]] (8), next (3), [[SQL]] (3), data (2)
+> **Frameworks & Libraries:** [[Android]] (8), [[SQL]] (3), [[Kotlin Multiplatform]] (2), [[Kotlin Multiplatform|Kmp]] (2), [[Gradle]] (1)
 > **Code Identifiers:** ios (2), selectall (2), createdriver (2), createdatabase (2), composeapp (1)
 > **Env Vars:** jvm (3), sql (3), kmp (2), insert (1), replace (1)
 > **File Paths:** libs.versions.toml (2)
@@ -2299,12 +2274,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 
-#### Setting up your database and adding objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980)
+#### [Setting up your database and adding objects](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=0)** - [Instructor] So now that we have SQL Delight set up in our code base, we need to make sure that the queries are defined for our database.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=0)** - [Instructor] So now that we have [[SQL]] Delight set up in our code base, we need to make sure that the queries are defined for our database.
 >
 > **[0:08](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=8)** We took a brief look at these in the last video.
 >
@@ -2320,7 +2294,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=39)** When we create the table, we set the field types and their constraints.
 >
-> **[0:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=45)** The first field is almost always the ID Field, ID Fields are special in databases.
+> **[0:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=45)** The first field is almost always the ID Field, ID Fields are special in [[Databases]].
 >
 > **[0:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=50)** Nearly everything gets an ID because it's the only way to link or join data between objects reliably.
 >
@@ -2344,7 +2318,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=105)** It cannot be null.
 >
-> **[1:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=107)** So this is useful in Kotlin because then you don't have the question mark and have to deal with null safety and optionals.
+> **[1:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=107)** So this is useful in [[Kotlin]] because then you don't have the question mark and have to deal with null safety and optionals.
 >
 > **[1:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/setting-up-your-database-and-adding-objects?u=76281980&t=114)** You can create custom queries against database by using the select keyword.
 >
@@ -2366,7 +2340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (11), database (7), next (2), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (11), [[Databases]] (1), [[Kotlin]] (1)
 > **Env Vars:** sql (11)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2374,18 +2348,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980)
+#### [Creating queries](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=0)** - [Instructor] Earlier we added database models for our top story and top repo types.
 >
-> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=6)** These SQ light files provide SQL delight with all the generated type safe code for queries that we'll be able to use in our project.
+> **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=6)** These SQ light files provide [[SQL]] delight with all the generated type safe code for queries that we'll be able to use in our project.
 >
 > **[0:16](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=16)** Now we're going to use that generated code.
 >
-> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=18)** The first thing that you should do is either rebuild your project or run the generate SQL delight interface Gradle task.
+> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=18)** The first thing that you should do is either rebuild your project or run the generate SQL delight interface [[Gradle]] task.
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=26)** This is going to generate the code to make queries against our new database models.
 >
@@ -2395,7 +2368,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=55)** You will also need a reference to your database class in the view model.
 >
-> **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=60)** One would normally inject that with dependency injection, but we haven't covered that yet.
+> **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=60)** One would normally inject that with [[Dependency Injection]], but we haven't covered that yet.
 >
 > **[1:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=64)** So for here now we're just going to add it directly here.
 >
@@ -2409,7 +2382,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=101)** For each of these methods, this inserts top stories and database, insert fake story and top repos from database.
 >
-> **[1:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=110)** We're going to access the new classes available from our database class to directly call generated Kotlin methods.
+> **[1:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=110)** We're going to access the new classes available from our database class to directly call generated [[Kotlin]] methods.
 >
 > **[1:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=118)** These classes and methods are named based upon the file names and the query names, like topRepoQueries.selectall, topStoryQueries.upsert.
 >
@@ -2421,11 +2394,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=162)** We've learned how to insert values into our database and how to make queries against it.
 >
-> **[2:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=167)** In the next video, we'll learn how you can use Kotlin Coroutine flows to actually watch the database values in real time and react to them as they update in our database.
+> **[2:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/creating-queries?u=76281980&t=167)** In the next video, we'll learn how you can use Kotlin Coroutine flows to actually watch the database values in real time and [[React.js|react]] to them as they update in our database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), data (3), [[SQL]] (2), [[Kotlin]] (2), [[Gradle]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Kotlin]] (2), [[Gradle]] (1), [[Dependency Injection]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** topstoryqueries (3), selectall (2), toprepoqueries (1), topstories (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (2)
@@ -2433,26 +2406,25 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Going with the flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980)
+#### [Going with the flow](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=0)** - [Instructor] If you've used reactive coding methods, you'll find Kotlin coroutine flows immediately familiar.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=0)** - [Instructor] If you've used reactive coding methods, you'll find [[Kotlin]] coroutine flows immediately familiar.
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=6)** Much like observables and subjects in Rx flows offer a means of watching a value as a stream of values that changes over time while we observe it.
 >
-> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=18)** In the case of database programming flows allow us a mean to watch values in our database and to react immediately in the user interface whenever any value changes.
+> **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=18)** In the case of database programming flows allow us a mean to watch values in our database and to [[React.js|react]] immediately in the user interface whenever any value changes.
 >
-> **[0:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=31)** SQL Delight offers the possibility to query our database in a manner that observes the stream of updated values as a Kotlin flow.
+> **[0:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=31)** [[SQL]] Delight offers the possibility to query our database in a manner that observes the stream of updated values as a Kotlin flow.
 >
 > **[0:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=40)** To do this, we first need a new library.
 >
 > **[0:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=43)** We added it already here, but that is SQL Delight coroutines, extensions.
 >
-> **[0:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=50)** So we go into this Libs versions 2 ML file in the Gradle directory and add this right?
+> **[0:50](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=50)** So we go into this Libs versions 2 ML file in the [[Gradle]] directory and add this right?
 >
-> **[0:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=56)** If we haven't already, we can then add it to the apps, build Gradle KTS file again under compose app build Gradle KTS, and here we go into Common Maine and we add Libs SQL light, coroutines extensions.
+> **[0:56](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=56)** If we haven't already, we can then add it to the apps, build Gradle KTS file again under [[Jetpack Compose|compose]] app build Gradle KTS, and here we go into Common Maine and we add Libs SQL light, coroutines extensions.
 >
 > **[1:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=73)** At this point, we can simply Gradle sync to make sure we have the library there that's either hit sync now or press the elephant.
 >
@@ -2480,7 +2452,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=190)** You only have to learn a little bit of SQL and Kotlin and suddenly you can use a database anywhere.
 >
-> **[3:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=198)** Here it is in Android.
+> **[3:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=198)** Here it is in [[Android]].
 >
 > **[3:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/going-with-the-flow?u=76281980&t=204)** There we go.
 >
@@ -2504,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[SQL]] (6), [[Gradle]] (4), [[Kotlin]] (3), [[Android]] (3)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Gradle]] (4), [[Kotlin]] (3), [[Android]] (3), [[React.js|React]] (1)
 > **Env Vars:** sql (6), kts (2)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** ios (2)
@@ -2517,8 +2489,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kermit for logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980)
+#### [Kermit for logging](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2532,13 +2503,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=26)** Touch Lab's Kermit Library provides the solution for our apps.
 >
-> **[0:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=31)** Named after the pun, Kermit the Log, Kermit can hide or strip debug logs in production and then send those logs instead to a variety of different crash reporting solutions from a Kotlin multi-platform app.
+> **[0:31](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=31)** Named after the pun, Kermit the Log, Kermit can hide or strip debug logs in production and then send those logs instead to a variety of different crash reporting solutions from a [[Kotlin]] multi-platform app.
 >
-> **[0:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=45)** For crash reporting solutions, Kermit has support for Google's Crash Lytics, Bug Snag and Sentry.
+> **[0:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=45)** For crash reporting solutions, Kermit has support for [[Google]]'s Crash Lytics, Bug Snag and Sentry.
 >
 > **[0:52](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=52)** You simply add the correct library dependency to your project and you'll be able to integrate logging with these solutions.
 >
-> **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=60)** Let's start as usual by adding the libraries to the Libs version to ML file in the Gradle folder.
+> **[1:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=60)** Let's start as usual by adding the libraries to the Libs version to ML file in the [[Gradle]] folder.
 >
 > **[1:07](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=67)** So first, we need to get Kermit, the latest version right now.
 >
@@ -2548,11 +2519,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=89)** And that's it as far as the- Those versions to a ml file is concerned.
 >
-> **[1:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=94)** Now we have to go back as usual to compose apps, build Gradle KTS file.
+> **[1:34](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=94)** Now we have to go back as usual to [[Jetpack Compose|compose]] apps, build Gradle KTS file.
 >
 > **[1:41](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=101)** Here we have to add our Kermit dependencies.
 >
-> **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=104)** So you'll notice I have to add it here under Android main, under iOS main, but not under desktop, as there's no desktop support right now for Crashlytics in Kermit.
+> **[1:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=104)** So you'll notice I have to add it here under [[Android]] main, under iOS main, but not under desktop, as there's no desktop support right now for Crashlytics in Kermit.
 >
 > **[1:57](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980&t=117)** I'm going to just use Kermit in the common main folder however here so that you can see that the actual logging support to hide the logs in production will work across the board for any platform.
 >
@@ -2588,15 +2559,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gradle]] (2), database (2), [[Debugging]] (1), cloud (1), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Gradle]] (2), [[Kotlin]] (1), [[Google]] (1), [[Jetpack Compose|Compose]] (1), [[Android]] (1)
 > **CLI Commands:** cat (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** kts (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980)
+#### [Managing resources](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2610,9 +2580,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=30)** For example, you can have different strings for different languages or use different images depending on day versus night mode theming.
 >
-> **[0:39](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=39)** You would normally need to add the compose component resources dependency, but we've actually been using it all along.
+> **[0:39](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=39)** You would normally need to add the [[Jetpack Compose|compose]] component resources dependency, but we've actually been using it all along.
 >
-> **[0:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=45)** You'll notice that it's included as part of compose with the Compose Multiplatform plugin.
+> **[0:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=45)** You'll notice that it's included as part of compose with the Compose [[Kotlin Multiplatform|Multiplatform]] plugin.
 >
 > **[0:53](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=53)** Let's start by adding the Comic Sans TrueType font.
 >
@@ -2620,7 +2590,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=59)** So we will simply add the font file to commonMain, composeResources, font folder, and we put this TrueType font in there, which everyone will recognize from its infamy, and at that point, we can then create a compose FontFamily based upon that file, so if I go over here to Fonts, I have created a composable function that creates a FontFamily based on the Comic Sans font, and this will work on every platform that we have here, so finally, we can change the text of one of our buttons in our app to use the edgy new FontFamily, so here we have the insert_story button to add a fake story,
 >
-> **[1:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=109)** which will now be in Comic Sans format, so if I go here and run it, you see I now have a Comic Sans Insert a fake story, and the same thing would happen if I were to run it on Android, for example.
+> **[1:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=109)** which will now be in Comic Sans format, so if I go here and run it, you see I now have a Comic Sans Insert a fake story, and the same thing would happen if I were to run it on [[Android]], for example.
 >
 > **[2:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=125)** As you can see, the font has changed here to Comic Sans on Android, and the same would apply for iOS, so the original app we started from already included a vector image here of the compose-multiplatform logo in XML image drawable format.
 >
@@ -2632,7 +2602,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=180)** Otherwise, you'll make blurry images that don't look very good.
 >
-> **[3:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=185)** Perhaps the most useful aspect of sharing resources for multiplatform Kotlin projects is to share translations.
+> **[3:05](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=185)** Perhaps the most useful aspect of sharing resources for multiplatform [[Kotlin]] projects is to share translations.
 >
 > **[3:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/managing-resources?u=76281980&t=192)** Here we have a strings file where we have English text, and then we have another one with everything translated by AI into Spanish.
 >
@@ -2656,7 +2626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[Android]] (5), [[Kotlin Multiplatform|Multiplatform]] (4), ai (2), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (6), [[Android]] (5), [[Kotlin Multiplatform|Multiplatform]] (4), [[Kotlin]] (1)
 > **Code Identifiers:** commonmain (1), composeresources (1), insert_story (1), ios (1)
 > **Env Vars:** xml (1), svg (1), jpeg (1), png (1)
 > **Analogies:** for example (3), similar to (1)
@@ -2665,16 +2635,15 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
 
-#### KOIN for dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980)
+#### [KOIN for dependency injection](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=0)** - [Instructor] Dependency injection is very popular among experienced software developers.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=0)** - [Instructor] [[Dependency Injection]] is very popular among experienced software developers.
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=6)** It offers improvements to the decoupling, testability, and reusability of software components.
 >
-> **[0:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=13)** For Kotlin Multiplatform, the most popular dependency injection solution of choice is called Koin, with a K.
+> **[0:13](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=13)** For [[Kotlin Multiplatform]], the most popular dependency injection solution of choice is called Koin, with a K.
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=23)** It has a simple, easy to use DSL, domain specific language, and can be used with annotations to simplify adding it to your classes.
 >
@@ -2684,9 +2653,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=40)** As usual, we should add the actual library dependencies to the project.
 >
-> **[0:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=44)** If we go to gradle folder, libs.versions.toml, we add Koin version 4.0.4 is the current one right now, maybe newer when you look at it.
+> **[0:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=44)** If we go to [[Gradle]] folder, libs.versions.toml, we add Koin version 4.0.4 is the current one right now, maybe newer when you look at it.
 >
-> **[0:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=59)** And then we add three actual libraries, koin-android, specific to Android, koin-compose-viewmodel, for injecting view models, and koin-core.
+> **[0:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=59)** And then we add three actual libraries, koin-[[Android]], specific to Android, koin-[[Jetpack Compose|compose]]-viewmodel, for injecting view models, and koin-core.
 >
 > **[1:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=72)** We don't end up needing a plugin for this.
 >
@@ -2706,7 +2675,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=130)** First, let's identify common code modules to add to the common module.
 >
-> **[2:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=135)** We can add the MainViewModel with viewModelOf, the HTTP client, the NewsApi, the SQL driver, and our database.
+> **[2:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=135)** We can add the MainViewModel with viewModelOf, the HTTP client, the NewsApi, the [[SQL]] driver, and our database.
 >
 > **[2:28](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=148)** Every one of these can be added as a singleton, except for the view model, using the singleOf method.
 >
@@ -2748,7 +2717,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=286)** Here, we just set the printLogger for everything debug and above, and we pass the appModule again.
 >
-> **[4:53](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=293)** Now, if we go over to iOSApp.swift, I'm going to wire it this way, I'm going to add a UIApplicationDelegateAdaptor, and create an AppDelegate, so that I can then import ComposeApp.
+> **[4:53](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=293)** Now, if we go over to iOSApp.[[Swift (Programming Language)|swift]], I'm going to wire it this way, I'm going to add a UIApplicationDelegateAdaptor, and create an AppDelegate, so that I can then import ComposeApp.
 >
 > **[5:09](https://www.linkedin.com/learning/kotlin-multiplatform-development/koin-for-dependency-injection?u=76281980&t=309)** ComposeApp here is our XCFramework, our shared library that I created, I'll show you.
 >
@@ -2812,7 +2781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (9), application (7), [[Dependency Injection]] (4), [[Jetpack Compose|Compose]] (4), database (2)
+> **Frameworks & Libraries:** [[Android]] (9), [[Dependency Injection]] (4), [[Jetpack Compose|Compose]] (4), [[Kotlin Multiplatform]] (1), [[Gradle]] (1)
 > **Code Identifiers:** ios (4), singleof (3), createdatabase (3), startkoin (2), viewmodelof (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** dsl (1), http (1), sql (1)
@@ -2821,16 +2790,15 @@ created: 2026-05-02
 > **Versions:** version 4 (1), 0.4 (1)
 > **UI Navigation:** go to (1)
 
-#### Storing values in multiplatform-settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980)
+#### [Storing values in multiplatform-settings](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=0)** - [Instructor] We've talked about how to persist data by storing it into a database with custom SQL code.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=0)** - [Instructor] We've talked about how to persist data by storing it into a database with custom [[SQL]] code.
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=6)** However, many times we want to persist values and apps, we don't need a complex database.
 >
-> **[0:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=12)** A simple key value store is enough for most purposes, like app settings or preferences, for these purposes, there's a very useful KMP library called multi-platform settings.
+> **[0:12](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=12)** A simple key value store is enough for most purposes, like app settings or preferences, for these purposes, there's a very useful [[Kotlin Multiplatform|KMP]] library called multi-platform settings.
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=26)** It's a common pattern in apps to have an onboarding screen that you only ever show once.
 >
@@ -2838,11 +2806,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=36)** In these cases, it often doesn't make sense to store the values in a database with all of the overhead of making special database tables and queries.
 >
-> **[0:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=46)** This is why settings exist, like user defaults on iOS or shared preferences or data store on Android.
+> **[0:46](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=46)** This is why settings exist, like user defaults on iOS or shared preferences or data store on [[Android]].
 >
-> **[0:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=55)** Additionally, you might want to encrypt certain settings if they contain sensitive values like your OAuth tokens or your encryption keys.
+> **[0:55](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=55)** Additionally, you might want to encrypt certain settings if they contain sensitive values like your OAuth [[Tokens]] or your encryption keys.
 >
-> **[1:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=64)** Safe encryption and storage of these values at rest demands safe and effective solutions like key chain storage on iOS or encrypted shared preferences on Android.
+> **[1:04](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=64)** Safe encryption and storage of these values at [[Representational State Transfer (REST)|rest]] demands safe and effective solutions like key chain storage on iOS or encrypted shared preferences on Android.
 >
 > **[1:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=75)** You'll be happy to know that multi-platform settings helps you manage both cases so that you can securely store both encrypted and plain text settings across multiple platforms.
 >
@@ -2850,7 +2818,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=96)** However, I'm going to show you the tricks needed to set up your own custom factories and use coins named dependencies to inject two different versions of the same type, both encrypted and unencrypted settings into the same single settings repository class.
 >
-> **[1:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=114)** So let's first go to Libs.versions, toml in the Gradle folder as we always do.
+> **[1:54](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=114)** So let's first go to Libs.versions, toml in the [[Gradle]] folder as we always do.
 >
 > **[1:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=119)** We need to add the multi-platform settings dependency, which I have the version here, and I have the module here.
 >
@@ -2858,7 +2826,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=135)** And here I have the module for the library.
 >
-> **[2:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=140)** So the latter library for Android is technically deprecated by Google, but it still remains the quickest way to create encrypted preferences on Android.
+> **[2:20](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=140)** So the latter library for Android is technically deprecated by [[Google]], but it still remains the quickest way to create encrypted preferences on Android.
 >
 > **[2:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=149)** Data store should hopefully have something soon.
 >
@@ -2868,7 +2836,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=160)** I have a version here and I have a version here.
 >
-> **[2:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=165)** It's from Microsoft and it's for the JVM.
+> **[2:45](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=165)** It's from [[Microsoft]] and it's for the JVM.
 >
 > **[2:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=167)** So with those three libraries, then we should be set.
 >
@@ -2930,7 +2898,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=358)** You can check it out in the sample code, but this takes care of all of that using the Microsoft credential storage.
 >
-> **[6:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=366)** And for plain text, we just use a regular preferences settings with Java preferences, which are very common.
+> **[6:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=366)** And for plain text, we just use a regular preferences settings with [[Java]] preferences, which are very common.
 >
 > **[6:14](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=374)** Here for iOS, we're doing key chain settings, which again, this is built into multi-platform settings and it's user default settings, which is just how preferences or settings are normally done on iOS.
 >
@@ -2938,7 +2906,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=392)** This is a platform function of iOS.
 >
-> **[6:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=395)** So now that we've got all of this dependency injection set up, each of them by name, then the logic will work in our injection to these settings repository.
+> **[6:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=395)** So now that we've got all of this [[Dependency Injection]] set up, each of them by name, then the logic will work in our injection to these settings repository.
 >
 > **[6:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=407)** And this is shared code.
 >
@@ -2972,7 +2940,7 @@ created: 2026-05-02
 >
 > **[8:41](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=521)** Instead of having to put views here, we can just run code.
 >
-> **[8:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=527)** This is a little confusing, the word unit.
+> **[8:47](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=527)** This is a little confusing, the [[Microsoft Word|word]] unit.
 >
 > **[8:49](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=529)** When you put unit into launch effect, you're saying that I only ever want this to run once, not every time some value changes.
 >
@@ -3082,7 +3050,7 @@ created: 2026-05-02
 >
 > **[13:43](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=823)** I'm not going to bother going into desktop at this point, but you can also verify that that works correctly.
 >
-> **[13:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=828)** At this point, congratulations, you can now handle storing both settings and sensitive data storage, both from Kotlin multi-platform across multiple platforms.
+> **[13:48](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=828)** At this point, congratulations, you can now handle storing both settings and sensitive [[Data Storage]], both from [[Kotlin]] multi-platform across multiple platforms.
 >
 > **[13:59](https://www.linkedin.com/learning/kotlin-multiplatform-development/storing-values-in-multiplatform-settings?u=76281980&t=839)** This is again, super useful.
 >
@@ -3090,7 +3058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Android]] (9), database (7), [[Kotlin Multiplatform|Kmp]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Android]] (9), [[Kotlin Multiplatform|Kmp]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Gradle]] (2), [[Microsoft]] (2)
 > **Code Identifiers:** ios (11), composeapp (1), androidmain (1)
 > **Env Vars:** kmp (2), sql (1), arg (1), ktx (1), jvm (1)
 > **Definitions:** is a  (8), is an  (2)
@@ -3099,14 +3067,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **File Paths:** build.gradle (1), app.kt (1)
 
-#### Dates in Kotlinx-datetime
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980)
+#### [Dates in Kotlinx-datetime](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=0)** - [Instructor] Dates are hard.
 >
-> **[0:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=2)** There's a joke that engineers, much like Microsoft Excel, both struggle to know when something is a date, but also the very nature of dates and times is unbelievably complex.
+> **[0:02](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=2)** There's a joke that engineers, much like [[Microsoft Excel]], both struggle to know when something is a date, but also the very nature of dates and times is unbelievably complex.
 >
 > **[0:15](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=15)** Most regular people don't understand this, but there are so many examples.
 >
@@ -3124,7 +3091,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=70)** It's also recommended to rely upon the very best available date and time libraries available.
 >
-> **[1:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=77)** In Kotlin Multiplatform, there's a special library for this, called Kotlinx-datetime.
+> **[1:17](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=77)** In [[Kotlin Multiplatform]], there's a special library for this, called Kotlinx-datetime.
 >
 > **[1:23](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=83)** So we're going to add code to perform date math and to show the date in different internationalized formats.
 >
@@ -3136,9 +3103,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=117)** If you show these backwards, it can cause great confusion.
 >
-> **[2:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=121)** I will note to you that this library is a work in progress and that it cannot implement certain low cal dependent things that we take for granted in the Java date, time libraries, like 12 hour time being handled automatically when you're using your date formats.
+> **[2:01](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=121)** I will note to you that this library is a work in progress and that it cannot implement certain low cal dependent things that we take for granted in the [[Java]] date, time libraries, like 12 hour time being handled automatically when you're using your date formats.
 >
-> **[2:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=138)** This is because a number of the Kotlin platforms do not yet have access to the rather essential concept of locales.
+> **[2:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=138)** This is because a number of the [[Kotlin]] platforms do not yet have access to the rather essential concept of locales.
 >
 > **[2:27](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=147)** So ISO date format will always work with this library, but it isn't ideal for a lot of use cases.
 >
@@ -3210,7 +3177,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=384)** Okay?
 >
-> **[6:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=389)** We can do the same thing now for Android.
+> **[6:29](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=389)** We can do the same thing now for [[Android]].
 >
 > **[6:33](https://www.linkedin.com/learning/kotlin-multiplatform-development/dates-in-kotlinx-datetime?u=76281980&t=393)** And we can do it for iOS.
 >
@@ -3228,7 +3195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Excel]] (1), [[Kotlin Multiplatform]] (1), [[Kotlin]] (1), database (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Excel]] (1), [[Kotlin Multiplatform]] (1), [[Kotlin]] (1), [[Android]] (1)
 > **Env Vars:** iso (1), jvm (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
@@ -3242,16 +3209,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=0)** - Congratulations on completing this epic journey into the wild world of Kotlin Multiplatform.
+> **[0:00](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=0)** - Congratulations on completing this epic journey into the wild world of [[Kotlin Multiplatform]].
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=6)** I hope you found this course very helpful as your first step down the road to mastery.
 >
-> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=11)** To continue on your adventure, I recommend watching the free YouTube videos from recent Kotlin conferences.
+> **[0:11](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=11)** To continue on your adventure, I recommend watching the free YouTube videos from recent [[Kotlin]] conferences.
 >
 > **[0:18](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=18)** These have outstanding content from top engineers at innovative companies.
 >
@@ -3259,7 +3225,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=27)** Consider the book "Kotlin in Action", which goes into great depth, or just build something useful to you, which is always a great way to learn.
 >
-> **[0:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=35)** You can also follow me on LinkedIn, where I often share content related to the newest innovations in both Kotlin and Compose Multiplatform.
+> **[0:35](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=35)** You can also follow me on [[LinkedIn]], where I often share content related to the newest innovations in both Kotlin and [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]].
 >
 > **[0:44](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980&t=44)** Follow me for tips, hot takes, and posts that'll make your manager think you're researching something.
 >

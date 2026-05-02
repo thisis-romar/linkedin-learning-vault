@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is content marketing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980)
+#### [What is content marketing?](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,9 +95,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980&t=56)** I'm a marketing consultant and an NYU adjunct professor, and for the last decade, I've worked with organizations like the United Nations and Thompson-Reuters on creating impactful content marketing programs.
 >
-> **[1:08](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980&t=68)** Throughout this LinkedIn learning course, you'll learn how to create a content strategy to purposely guide your efforts, understand the ins and outs of producing meaningful content, and the most effective techniques for distributing this content to the right people.
+> **[1:08](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980&t=68)** Throughout this [[LinkedIn]] learning course, you'll learn how to create a content strategy to purposely guide your efforts, understand the ins and outs of producing meaningful content, and the most effective techniques for distributing this content to the right people.
 >
-> **[1:23](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980&t=83)** A lot of old forms of advertising just aren't as effective as they used to be.
+> **[1:23](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980&t=83)** A lot of old [[Forms]] of advertising just aren't as effective as they used to be.
 >
 > **[1:28](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980&t=88)** Now, it's more important than ever to earn trust and loyalty with your customers for the long term.
 >
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting strategic goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980)
+#### [Setting strategic goals](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=7)** That's because it's easy to produce lackluster content that gets lost or ignored, and unfortunately, that's what happens when many companies invest in content marketing.
 >
-> **[0:17](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=17)** While it's certainly a challenge, producing remarkable content for your customers is possible when you're following the guidance of a content marketing strategy.
+> **[0:17](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=17)** While it's certainly a challenge, producing remarkable content for your customers is possible when you're following the guidance of a content [[Marketing Strategy]].
 >
 > **[0:26](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=26)** This document is where your organization should map out how exactly you'll use content to reach your goals.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=83)** A strategic goal is an outcome that's meaningful for your business, easy to understand at a glance, and straightforward to measure.
 >
-> **[1:31](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=91)** Some common content marketing-centric goals are establishing thought leadership, improving customer loyalty, demand generation, increasing sales, audience development, and earning brand awareness.
+> **[1:31](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=91)** Some common content marketing-centric goals are establishing [[Thought Leadership]], improving customer loyalty, demand generation, increasing sales, audience development, and earning brand awareness.
 >
 > **[1:45](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980&t=105)** One way to guide which goals you'll focus on and when is by being aware of the two types of goals, ongoing and campaign goals.
 >
@@ -169,14 +167,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Strategy]] (3), business (2), [[Thought Leadership]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (3), [[Thought Leadership]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
 
-#### Defining your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/defining-your-audience?u=76281980)
+#### [Defining your audience](https://www.linkedin.com/learning/content-marketing-foundations-3/defining-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +225,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1), data (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -239,8 +235,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding relevant topic ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/finding-relevant-topic-ideas?u=76281980)
+#### [Finding relevant topic ideas](https://www.linkedin.com/learning/content-marketing-foundations-3/finding-relevant-topic-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,14 +291,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), product (1), data (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (1), pos (1)
 > **Speakers:** - choosing (1)
 
-#### Organizing topics into categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980)
+#### [Organizing topics into categories](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,9 +312,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=42)** These categories should be different from one another, but complementary at the same time, as each might slightly overlap in focus.
 >
-> **[0:49](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=49)** The point of these categories is to ensure you've only created content on topics within these areas, focusing your team's efforts and streamlining decision-making.
+> **[0:49](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=49)** The point of these categories is to ensure you've only created content on topics within these areas, focusing your team's efforts and streamlining [[Decision-Making]].
 >
-> **[0:58](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=58)** This way, every time you sit down to write a new case study, craft posts for LinkedIn, or script your next video series, you are clear on what topics should and shouldn't be addressed.
+> **[0:58](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=58)** This way, every time you sit down to write a new case study, craft posts for [[LinkedIn]], or script your next video series, you are clear on what topics should and shouldn't be addressed.
 >
 > **[1:09](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=69)** And most of all, consistently publishing useful content on the same overarching themes can help your customers remember you, as repetition helps build a memory.
 >
@@ -341,13 +334,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=151)** Lastly, organizing content on your website in line with these topic categories can help improve your visibility in the search engines.
 >
-> **[2:39](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=159)** By consistently publishing content with specific categories, it'll be easier for Google to navigate your site's architecture, discover similar content within each category, and most of all, understand what subject areas your organization is a leading authority in.
+> **[2:39](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=159)** By consistently publishing content with specific categories, it'll be easier for [[Google]] to navigate your site's architecture, discover similar content within each category, and most of all, understand what subject areas your organization is a leading authority in.
 >
 > **[2:55](https://www.linkedin.com/learning/content-marketing-foundations-3/organizing-topics-into-categories?u=76281980&t=175)** These categories may feel limiting at first, but once you've got this constraint in place, you'll be more focused than ever.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), [[LinkedIn]] (1), next (1), business (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[LinkedIn]] (1), [[Google]] (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -358,18 +351,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tips for successful storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980)
+#### [Tips for successful storytelling](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=1)** - Storytelling isn't selling.
+> **[0:01](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=1)** - [[Storytelling]] isn't selling.
 >
 > **[0:03](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=3)** It's actually a method of sharing information with an audience by conveying emotions, experiences, and perspectives to address a core message.
 >
 > **[0:12](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=12)** Similarly, a business can embrace storytelling with content as a way to convey valuable information to their customers to attract and engage them on the topics they care about.
 >
-> **[0:23](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=23)** Content marketing is primarily driven by storytelling, as it's a distinct way for businesses to connect with their customers beyond advertising the benefits of their products and services.
+> **[0:23](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=23)** Content marketing is primarily driven by storytelling, as it's a distinct way for businesses to connect with their customers beyond advertising the benefits of their [[Microsoft Products|products]] and services.
 >
 > **[0:35](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=35)** To produce meaningful content that builds loyalty and trust with your audience, embrace the fundamentals of storytelling.
 >
@@ -377,9 +369,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=48)** Think of it as the purpose behind the topic to be addressed in your content, and the main takeaway you want your audience to walk away with.
 >
-> **[0:56](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=56)** If you're writing an article about the impact of climate change on employment, then the core message may be that there's lesser-known consequences to climate change to account for.
+> **[0:56](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=56)** If you're writing an article about the impact of [[Climate Change]] on employment, then the core message may be that there's lesser-known consequences to climate change to account for.
 >
-> **[1:07](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=67)** The core message will guide the rest of the details of the article, infographic, documentary, or larger campaign you're working on, which is why it needs to be clear from the start.
+> **[1:07](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=67)** The core message will guide the [[Representational State Transfer (REST)|rest]] of the details of the article, infographic, documentary, or larger campaign you're working on, which is why it needs to be clear from the start.
 >
 > **[1:20](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=80)** Next, consider what type of story would effectively convey the topic, and the core message behind it.
 >
@@ -403,7 +395,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=144)** And lastly, always include characters to add a human element and showcase different experiences and perspectives within your content.
 >
-> **[2:33](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=153)** Whether interviewing an employee in your video series, addressing your customer directly in a white paper, or hosting your company's podcast, showcase people as the characters in your content to make it more relatable and less corporate.
+> **[2:33](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=153)** Whether [[Interviewing]] an employee in your video series, addressing your customer directly in a white paper, or hosting your company's podcast, showcase people as the characters in your content to make it more relatable and less corporate.
 >
 > **[2:48](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=168)** For instance, the Cleveland Clinic and Academic Medical Center hosts a podcast where each episode features an interview with a healthcare professional from the clinic.
 >
@@ -411,17 +403,16 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=190)** As a result, these complex health-related topics feel far less intimidating.
 >
-> **[3:16](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=196)** Follow these storytelling tips to majorly improve the quality of your content and review the many other LinkedIn learning courses on how to become a better storyteller.
+> **[3:16](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980&t=196)** Follow these storytelling tips to majorly improve the quality of your content and review the many other [[LinkedIn]] learning courses on how to become a better storyteller.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (5), [[Climate Change]] (2), business (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (5), [[Climate Change]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Interviewing]] (1)
 > **Analogies:** think of it as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - storytelling (1)
 
-#### Selecting the right type of content
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980)
+#### [Selecting the right type of content](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -437,7 +428,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=47)** This is the most widely used content format by marketers as every organization will need to write at some point to share information with their customers on their website or elsewhere.
 >
-> **[0:58](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=58)** And then there's more visually-focused content formats like videos, infographics, images, and presentations that are ideal for simplifying complex ideas into more digestible concepts.
+> **[0:58](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=58)** And then there's more visually-focused content formats like videos, [[Infographics]], images, and presentations that are ideal for simplifying complex ideas into more digestible concepts.
 >
 > **[1:11](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=71)** Another is interactive content like tools, webinars, quizzes, polls, and of course, social media, all of which allow people to engage directly with the information being shared.
 >
@@ -457,7 +448,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=131)** The best way to gather this information is to ask your customers, review your analytics, observe where competitors are active, and reference leading industry research.
 >
-> **[2:21](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=141)** For instance, a study by Quartz found that executives are most drawn to data visualizations, photography, and charts, and are the most active on LinkedIn over other social channels.
+> **[2:21](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=141)** For instance, a study by Quartz found that executives are most drawn to data visualizations, photography, and charts, and are the most active on [[LinkedIn]] over other social channels.
 >
 > **[2:34](https://www.linkedin.com/learning/content-marketing-foundations-3/selecting-the-right-type-of-content?u=76281980&t=154)** If your customers are primarily company executives, then this research is particularly useful in guiding your format choices.
 >
@@ -473,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infographics]] (1), [[Analytics]] (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
@@ -484,8 +475,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Formatting content for a frictionless experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980)
+#### [Formatting content for a frictionless experience](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,7 +529,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
 > **Best Practices:** you should always (1), make sure to (1)
@@ -547,8 +536,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Formatting content for distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980)
+#### [Formatting content for distribution](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=24)** Let's start with the search engines.
 >
-> **[0:26](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=26)** A recent study found that 68% of all measurable website traffic is the result of organic and paid search, highlighting how effective Google and other search engines are at driving traffic.
+> **[0:26](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=26)** A recent study found that 68% of all measurable website traffic is the result of organic and paid search, highlighting how effective [[Google]] and other search engines are at driving traffic.
 >
 > **[0:40](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-distribution?u=76281980&t=40)** To earn greater visibility in search for your company, always include keywords throughout your written content in a natural and consistent manner with the reader in mind.
 >
@@ -590,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), traffic (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** itunes (1)
 > **Env Vars:** url (1)
@@ -603,8 +591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Promoting with owned and shared media
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980)
+#### [Promoting with owned and shared media](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=49)** Owned media is the content your organization has full ownership of, as your team created it and it is published on your website, blog, or other property you own.
 >
-> **[0:59](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=59)** For example, any content like articles, reports, or videos that are original and live on your website is owned media as opposed to an article published on LinkedIn or a YouTube video that you don't have full control over.
+> **[0:59](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=59)** For example, any content like articles, reports, or videos that are original and live on your website is owned media as opposed to an article published on [[LinkedIn]] or a YouTube video that you don't have full control over.
 >
 > **[1:14](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980&t=74)** Owned media should be your top priority in terms of what you're promoting.
 >
@@ -646,15 +633,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[LinkedIn]] (1), traffic (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** peso (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - after (1)
 
-#### Promoting with earned and paid media
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980)
+#### [Promoting with earned and paid media](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,9 +672,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=127)** A good example of this is when a client of mine embraced the PESO model, significantly increasing the viewership of their content and growing sales in the process.
 >
-> **[2:16](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=136)** We worked together to produce a range of educational and entertaining articles comparing their products to leading competitors, breaking down the pros and cons of each.
+> **[2:16](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=136)** We worked together to produce a range of educational and entertaining articles comparing their [[Microsoft Products|products]] to leading competitors, breaking down the pros and cons of each.
 >
-> **[2:26](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=146)** Over time, their own content began to rank higher in Google searches for product comparisons of their top sellers.
+> **[2:26](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=146)** Over time, their own content began to rank higher in [[Google]] searches for product comparisons of their top sellers.
 >
 > **[2:33](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-earned-and-paid-media?u=76281980&t=153)** To further dominate in search, the organization sent its products to YouTube influencers in the industry with a prompt and a pitch to compare their offerings to leading competitors.
 >
@@ -700,7 +686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), [[Search]] (2), [[Google]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (1)
 > **Env Vars:** peso (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - earning (1)
@@ -710,8 +696,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating content across departments
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980)
+#### [Integrating content across departments](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -737,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980&t=95)** On the other hand, the C-suite can work with marketing to author their own content like writing articles or hosting a podcast to position the organization as a thought leader.
 >
-> **[1:46](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980&t=106)** Human resources can sync with marketing to consistently produce content showcasing the company's culture and employee stories to attract like-minded candidates.
+> **[1:46](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980&t=106)** [[Human Resources (HR)|Human resources]] can sync with marketing to consistently produce content showcasing the company's culture and employee stories to attract like-minded candidates.
 >
 > **[1:56](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980&t=116)** And even the internal communications department can benefit from marketing support on producing content to inform employees of the latest developments at the company.
 >
@@ -747,13 +732,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), hr (1), teams (1), [[Troubleshooting]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Speakers:** - content (1)
 
-#### Repurposing content to earn more benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980)
+#### [Repurposing content to earn more benefits](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +767,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=101)** Remember, there are a lot of ways to get this done.
 >
-> **[1:44](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=104)** Whether reviewing Google Analytics to see which content drove the most conversions, or using a tool like BuzzSumo to determine your most shared content on social media.
+> **[1:44](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=104)** Whether reviewing [[Google]] Analytics to see which content drove the most conversions, or using a tool like BuzzSumo to determine your most shared content on social media.
 >
 > **[1:53](https://www.linkedin.com/learning/content-marketing-foundations-3/repurposing-content-to-earn-more-benefits?u=76281980&t=113)** The goal is to understand what content your audience reacted to the most, as it's an indication that this is a topic of value to your customers.
 >
@@ -801,7 +785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - you (1)
@@ -811,8 +795,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Attributing content actions to results
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980)
+#### [Attributing content actions to results](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +821,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980&t=76)** Investing in a few tools to monitor your progress is necessary, as each offers different features and relying on more than one provides you with a more complete picture of your progress.
 >
-> **[1:27](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980&t=87)** The content measurement tools you decide to use will vary based on your company's needs, but Google Analytics, BuzzSumo, SEMrush, and Parse.ly are all highly effective options.
+> **[1:27](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980&t=87)** The content measurement tools you decide to use will vary based on your company's needs, but [[Google]] Analytics, BuzzSumo, SEMrush, and Parse.ly are all highly effective options.
 >
 > **[1:39](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980&t=99)** For instance, if understanding the performance of your content, both on your website and third-party sites from the same dashboard is important, then SEMrush is a helpful option.
 >
@@ -864,7 +847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2), [[Google]] (2), [[Analytics]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Analogies:** for example (1), picture (1), for instance (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
@@ -876,12 +859,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conveying thought leadership with content
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980)
+#### [Conveying thought leadership with content](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=1)** - Your organization doesn't get to decide if your content is considered thought leadership.
+> **[0:01](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=1)** - Your organization doesn't get to decide if your content is considered [[Thought Leadership]].
 >
 > **[0:06](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=6)** The readers, listeners, and viewers of your content are the ones that make that call.
 >
@@ -891,11 +873,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=29)** Consistency is key as it'll take numerous interactions with your content before a person associates your organization with a particular subject area.
 >
-> **[0:38](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=38)** A long-term commitment to publishing videos, infographics, or a mix of content gives you multiple opportunities to demonstrate that your content is reliable, trustworthy, and helpful.
+> **[0:38](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=38)** A long-term commitment to publishing videos, [[Infographics]], or a mix of content gives you multiple opportunities to demonstrate that your content is reliable, trustworthy, and helpful.
 >
 > **[0:50](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=50)** Hand in hand with committing to consistency, it is also essential that your content is always focused on a similar set of topics so it's easier for your audience to understand your expertise.
 >
-> **[1:01](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=61)** For example, IBM publishes videos, White Papers, articles, and other content on artificial intelligence and cloud computing to position the organization as a leader on these topics.
+> **[1:01](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=61)** For example, IBM publishes videos, White Papers, articles, and other content on [[Artificial Intelligence (AI)|artificial intelligence]] and [[Cloud Computing]] to position the organization as a leader on these topics.
 >
 > **[1:13](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980&t=73)** And while IBM does publish resources on a range of topics, they're all closely related, addressing their customers' needs and are still relevant to what the company does, making it easier to recognize them as an organization with a particular expertise.
 >
@@ -921,15 +903,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Infographics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (2), [[Infographics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** ibm (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
 
-#### The key to the quality versus quantity debate
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/the-key-to-the-quality-versus-quantity-debate?u=76281980)
+#### [The key to the quality versus quantity debate](https://www.linkedin.com/learning/content-marketing-foundations-3/the-key-to-the-quality-versus-quantity-debate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,13 +962,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), generic (1)
 > **Definitions:** is an  (2), is called (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - what (1)
 
-#### Experimenting beyond best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/experimenting-beyond-best-practices?u=76281980)
+#### [Experimenting beyond best practices](https://www.linkedin.com/learning/content-marketing-foundations-3/experimenting-beyond-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,7 +1020,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (1), basically means (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -1053,8 +1031,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Staying updated on content marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980)
+#### [Staying updated on content marketing](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1045,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980&t=15)** There's always new approaches, channels, and content formats to consider experimenting with to see which of these new opportunities work for you, and that's stars by subscribing to the right resources.
 >
-> **[0:28](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980&t=28)** I recommend checking out my marketing courses here LinkedIn Learning, and following new sources, like, Econsultancy, Digiday, Marketing Dive, and Content Marketing Institute.
+> **[0:28](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980&t=28)** I recommend checking out my marketing courses here [[LinkedIn]] Learning, and following new sources, like, Econsultancy, Digiday, Marketing Dive, and Content Marketing Institute.
 >
 > **[0:38](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980&t=38)** You can also check out my website, [brianhonigman.com](https://brianhonigman.com), where I write and discuss all things marketing.
 >
@@ -1082,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), hit (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** don't forget (1)

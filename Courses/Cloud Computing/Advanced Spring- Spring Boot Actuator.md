@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Need to monitor the performance of your applications?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980)
+#### [Need to monitor the performance of your applications?](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=0)** - [Mikaila] As the adoption of microservices grows, monitoring the health of production-ready applications and gathering relevant metrics about our apps is becoming more important.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=0)** - [Mikaila] As the adoption of [[Microservices]] grows, monitoring the health of production-ready applications and gathering relevant metrics about our apps is becoming more important.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=9)** If we don't monitor our apps, we'll lack insight and have no clue of what is happening when certain issues arise.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=16)** Spring Boot Actuator is a sub-module that helps with monitoring and managing production-ready Spring Boot applications.
+> **[0:16](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=16)** [[Spring Boot]] Actuator is a sub-module that helps with monitoring and managing production-ready Spring Boot applications.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=22)** It integrates easily with external monitoring systems such as Prometheus, a monitoring and alerting tool that recalls metrics in a time series database.
 >
@@ -102,27 +101,26 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=36)** I've been a software developer and technical instructor for about a decade.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=40)** In this course, you'll learn how to monitor your Spring Boot applications with Spring Boot Actuator, gather metrics with Prometheus and build beautiful dashboards with Grafana.
+> **[0:40](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=40)** In this course, you'll learn how to monitor your Spring Boot applications with Spring Boot Actuator, gather metrics with Prometheus and build beautiful [[Dashboards]] with Grafana.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=50)** If you're ready to learn how to get a monitoring system up and running in less than an hour, join me in my LinkedIn Learning course.
+> **[0:50](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980&t=50)** If you're ready to learn how to get a monitoring system up and running in less than an hour, join me in my [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (4), [[Microservices]] (1), database (1), [[Dashboards]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (4), [[Microservices]] (1), [[Dashboards]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [mikaila] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is designed for Java developers with an intermediate to advanced knowledge of Java.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is designed for [[Java]] developers with an intermediate to advanced knowledge of Java.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980&t=4)** You're expected to be familiar with Spring Boot and Spring Security, have a basic understanding of Docker images and containers.
+> **[0:04](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980&t=4)** You're expected to be familiar with [[Spring Boot]] and [[Spring Security]], have a basic understanding of Docker images and containers.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980&t=11)** It also helps if you're familiar with basic CLI commands, knowledge of HTTP, databases, RESTful APIs, and knowing how to make API calls with tools such as Postman.
+> **[0:11](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/what-you-should-know?u=76281980&t=11)** It also helps if you're familiar with basic [[CLI]] commands, knowledge of HTTP, [[Databases]], RESTful APIs, and knowing how to make API calls with tools such as Postman.
 
 > [!info]- Semantic Content
 >
@@ -138,16 +136,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Spring Boot Actuator
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980)
+#### [Introduction to Spring Boot Actuator](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=0)** - [Instructor] Spring Boot Actuator is a module that helps us in monitoring and managing our Spring Boot application when we push them to production.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=0)** - [Instructor] [[Spring Boot]] Actuator is a module that helps us in monitoring and managing our Spring Boot application when we push them to production.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=6)** It adds many production grade services to applications with little effort on our part, and allows us to monitor our applications in two different ways, either by leveraging HTTP endpoints or via leveraging JMX.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=19)** JMX stands for Java Management Extension.
+> **[0:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=19)** JMX stands for [[Java]] Management Extension.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=21)** Throughout this course, we'll be leveraging the HTTP endpoints.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=174)** And awesome.
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=175)** We did get back a JSON response with the actuator base path.
+> **[2:55](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=175)** We did get back a [[JSON]] response with the actuator base path.
 >
 > **[3:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980&t=180)** And it shows you we have a couple of endpoints here, one for health.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Spring Boot]] (6), database (2), [[Java]] (1), management (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[Java]] (1), [[JSON]] (1)
 > **Env Vars:** http (2), jmx (2), json (1)
 > **Tools:** intellij (2), postman (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -236,12 +233,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [http://localhost:8080/actuator](http://localhost:8080/actuator) (1)
 
-#### Actuator endpoints and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/actuator-endpoints-and-documentation?u=76281980)
+#### [Actuator endpoints and documentation](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/actuator-endpoints-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/actuator-endpoints-and-documentation?u=76281980&t=0)** - Spring Boot actuator endpoints allow us to manage, monitor and interact with our applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/actuator-endpoints-and-documentation?u=76281980&t=0)** - [[Spring Boot]] actuator endpoints allow us to manage, monitor and interact with our applications.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/actuator-endpoints-and-documentation?u=76281980&t=7)** By default, actuator endpoints are enabled with a prefix of actuator followed by their ID.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Spring Boot]] (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1)
 > **Env Vars:** http (1), cpu (1), jvm (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** such as (2), for example (1)
@@ -297,8 +293,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - spring (1)
 
-#### Exposing and enabling endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/exposing-and-enabling-endpoints?u=76281980)
+#### [Exposing and enabling endpoints](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/exposing-and-enabling-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/exposing-and-enabling-endpoints?u=76281980&t=7)** The health endpoint is the only HTTP endpoint that we have exposed by default.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/exposing-and-enabling-endpoints?u=76281980&t=12)** Exposing all your actuator endpoints could be a security risk.
+> **[0:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/exposing-and-enabling-endpoints?u=76281980&t=12)** Exposing all your actuator endpoints could be a [[Security Risk]].
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/exposing-and-enabling-endpoints?u=76281980&t=16)** However, since this is a demo, and we're here to learn, I'll go ahead and show you how to expose all your actuator endpoints, by setting the include property to a wildcard character.
 >
@@ -428,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), management (4), hit (3), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **Tools:** postman (5)
 > **UI Navigation:** go to (2), scroll down (2)
 > **CLI Commands:** make (2), find (1)
@@ -437,8 +432,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Env Vars:** http (1)
 
-#### Show details and create health endpoint groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-details-and-create-health-endpoint-groups?u=76281980)
+#### [Show details and create health endpoint groups](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-details-and-create-health-endpoint-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +532,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), hit (4), management (2), database (1)
 > **Cross-References:** go back to (4)
 > **Tools:** postman (3)
 > **CLI Commands:** make (2)
@@ -546,15 +539,15 @@ created: 2026-05-02
 > **Env Vars:** ses (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
+> **Analogies:** for example (1)
 
-#### Show application information with the info endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980)
+#### [Show application information with the info endpoint](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=0)** - [Instructor] Earlier, we learned that the info endpoint can be used to display arbitrary information, but what does that mean?
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=6)** Well, it can be used to display information such as environment information, build and git property files information, or, we may just want to add the build version to our info endpoint as well as maybe display the build timestamp.
+> **[0:06](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=6)** Well, it can be used to display information such as environment information, build and [[Git]] property files information, or, we may just want to add the build version to our info endpoint as well as maybe display the build timestamp.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=23)** Well, we can customize this data for the info endpoint in several ways.
 >
@@ -568,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=72)** I'm going to go to the next line, I'm going to copy all this, paste it in the second line and make some changes.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=79)** So instead of name, I also want a description, I'm going to copy the description and swap it out here and I'm going to copy this again, go to the next line, I also want it to display the version, so I'll change this to version and change this to version, okay, I'm going to paste one more time and this one, I want the Java version, so [info.app](https://info.app).java, that version.
+> **[1:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=79)** So instead of name, I also want a description, I'm going to copy the description and swap it out here and I'm going to copy this again, go to the next line, I also want it to display the version, so I'll change this to version and change this to version, okay, I'm going to paste one more time and this one, I want the [[Java]] version, so [info.app](https://info.app).java, that version.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/show-application-information-with-the-info-endpoint?u=76281980&t=110)** And on the other side, it will be java.version.
 >
@@ -596,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), application (3), next (2), [[Git]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Git]] (1)
 > **CLI Commands:** git (1), make (1)
 > **Code Identifiers:** iphone (2)
 > **URLs:** [info.app](https://info.app) (2)
@@ -605,8 +598,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **File Paths:** info.app.java (1)
 
-#### Overriding the Actuator base path
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/overriding-the-actuator-base-path?u=76281980)
+#### [Overriding the Actuator base path](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/overriding-the-actuator-base-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +714,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), management (3), web (3), application (3), next (1)
 > **Cross-References:** go back to (4)
 > **Tools:** postman (4)
 > **Analogies:** such as (2), for example (1)
@@ -734,8 +725,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing the Health Indicator interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980)
+#### [Implementing the Health Indicator interface](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +755,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980&t=67)** As you can see, I have all my endpoints once more, so great job.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980&t=72)** Now, the next thing we want to talk about is we may have an external service that our Spring Boot application depends upon and let's assume is some sort of external database service.
+> **[1:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980&t=72)** Now, the next thing we want to talk about is we may have an external service that our [[Spring Boot]] application depends upon and let's assume is some sort of external database service.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980&t=85)** Now, if this database service is down, the status of our application should also report as down.
 >
@@ -865,7 +855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), database (6), hit (3), next (2), [[Spring Boot]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** postman (3), intellij (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -874,14 +864,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom Actuator endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980)
+#### [Creating a custom Actuator endpoint](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=0)** - [Instructor] Spring Boot Actuator also empowers us with the ability to create our own custom endpoints.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=0)** - [Instructor] [[Spring Boot]] Actuator also empowers us with the ability to create our own custom endpoints.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=5)** We may need to create a custom endpoint for our release notes, which consists of a list of bug fixes, and new features implemented in our application, or maybe we need to monitor our Jira server, or any other external service that our application may depend upon.
+> **[0:05](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=5)** We may need to create a custom endpoint for our release notes, which consists of a list of bug fixes, and new features implemented in our application, or maybe we need to monitor our [[Jira]] server, or any other external service that our application may depend upon.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=22)** To do so, we would need to create a new component and annotate it with the @Endpoint annotation.
 >
@@ -969,7 +958,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=251)** I'm going to send that request one more time.
 >
-> **[4:13](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=253)** And vola, I get my JSON response back, which is the id that I passed into it.
+> **[4:13](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=253)** And vola, I get my [[JSON]] response back, which is the id that I passed into it.
 >
 > **[4:18](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-a-custom-actuator-endpoint?u=76281980&t=258)** So this is awesome.
 >
@@ -977,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Spring Boot]] (1), [[Jira]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1), [[Jira]] (1), [[JSON]] (1)
 > **Tools:** postman (2), intellij (2), jira (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -985,8 +974,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to secure Actuator endpoints with Spring Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/how-to-secure-actuator-endpoints-with-spring-security?u=76281980)
+#### [How to secure Actuator endpoints with Spring Security](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/how-to-secure-actuator-endpoints-with-spring-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +996,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/how-to-secure-actuator-endpoints-with-spring-security?u=76281980&t=36)** So I'm going to go back here and talk about the things that we need to make this happen.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/how-to-secure-actuator-endpoints-with-spring-security?u=76281980&t=41)** So, first of all, we need to bring in spring security dependency into our application so that we can secure the application in general.
+> **[0:41](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/how-to-secure-actuator-endpoints-with-spring-security?u=76281980&t=41)** So, first of all, we need to bring in [[Spring Security]] dependency into our application so that we can secure the application in general.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/how-to-secure-actuator-endpoints-with-spring-security?u=76281980&t=48)** Next, we need to go into the properties file and make a change.
 >
@@ -1152,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), application (4), web (4), [[Spring Security]] (3), hit (3)
+> **Frameworks & Libraries:** [[Spring Security]] (3)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** http (5)
@@ -1166,16 +1154,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spring Boot Actuator metrics and Prometheus
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980)
+#### [Spring Boot Actuator metrics and Prometheus](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=0)** - [Instructor] As applications become more complex due to the increased adoption of microservices, it's increasingly becoming more important to gather metrics about our apps are behaving over time by setting up alerts for certain activities such as how long it takes a server request, the number of requests being made, the rate at which requests are actually failing.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=0)** - [Instructor] As applications become more complex due to the increased adoption of [[Microservices]], it's increasingly becoming more important to gather metrics about our apps are behaving over time by setting up alerts for certain activities such as how long it takes a server request, the number of requests being made, the rate at which requests are actually failing.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=19)** Luckily for us, spring boot provides support for metrics instrumentation library called micrometer.
+> **[0:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=19)** Luckily for us, [[Spring Boot]] provides support for metrics instrumentation library called micrometer.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=24)** It is a vendor-neutral application metrics facade that captures and exposes metrics from our app to several monitoring systems and time-series databases such as Prometheus, Datadog, New Relic and so much more.
+> **[0:24](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=24)** It is a vendor-neutral application metrics facade that captures and exposes metrics from our app to several monitoring systems and time-series [[Databases]] such as Prometheus, Datadog, New Relic and so much more.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980&t=41)** Micrometer also gives us the ability to create our own custom metrics by leveraging the different types of metrics that it exposes which are timers, counters and gauges.
 >
@@ -1193,14 +1180,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (1), [[Spring Boot]] (1), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Spring Boot]] (1), [[Databases]] (1)
 > **Analogies:** such as (6)
 > **Prerequisites:** install (1), configure (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Micrometer Prometheus registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/micrometer-prometheus-registry?u=76281980)
+#### [Micrometer Prometheus registry](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/micrometer-prometheus-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,15 +1242,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), hit (2), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** xml (1)
 > **Cross-References:** go back to (1)
 > **Tools:** postman (1)
 > **Speakers:** - micrometer (1)
 
-#### Prometheus configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980)
+#### [Prometheus configuration](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,15 +1282,15 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=65)** We also have the option of declaring a rules file so that we can receive alerts based on certain conditions.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=72)** Then we can leverage the alert manager component to send those notifications either via email or use services such as Slack.
+> **[1:12](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=72)** Then we can leverage the alert manager component to send those notifications either via email or use services such as [[Slack]].
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=82)** Next thing we're doing here is we're defining two targets that we want to monitor.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=87)** One is our Prometheus server and the second is our spring boot application.
+> **[1:27](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=87)** One is our Prometheus server and the second is our [[Spring Boot]] application.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=91)** We're going to be leveraging Docker, so we've already passed in the host and the port information.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=97)** And since we have spring security in our application, we've passed in the admin user information, which has a role of admin, a user name of admin, and a password of pass.
+> **[1:37](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=97)** And since we have [[Spring Security]] in our application, we've passed in the admin user information, which has a role of admin, a user name of admin, and a password of pass.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/prometheus-configuration?u=76281980&t=108)** So that's it for now.
 >
@@ -1316,7 +1300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), data (1), hit (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Spring Boot]] (1), [[Spring Security]] (1)
 > **CLI Commands:** docker (2), make (1)
 > **Env Vars:** yaml (2)
 > **Tools:** intellij (1), slack (1)
@@ -1325,8 +1309,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Installing and running a Prometheus Docker image
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-prometheus-docker-image?u=76281980)
+#### [Installing and running a Prometheus Docker image](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-prometheus-docker-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1382,7 +1365,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **CLI Commands:** docker (7), ls (1)
 > **Non-Speech:** (keyboard clicking) (4)
 > **Env Vars:** yaml (3)
@@ -1390,9 +1372,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** intellij (1), terminal (1)
 > **UI Navigation:** click on (1), scroll down (1)
+> **Speakers:** - [instructor] (1), - v (1)
 
-#### Take the Prometheus UI for a spin
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/take-the-prometheus-ui-for-a-spin?u=76281980)
+#### [Take the Prometheus UI for a spin](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/take-the-prometheus-ui-for-a-spin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1470,7 +1452,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Search]] (1), data (1), next (1)
 > **UI Navigation:** scroll down (2), select the (1), dropdown (1), go to (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **CLI Commands:** make (1)
@@ -1478,8 +1459,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding custom metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/adding-custom-metrics?u=76281980)
+#### [Adding custom metrics](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/adding-custom-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1549,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), next (2), [[Search]] (2), application (1), api (1)
 > **Code Identifiers:** hitcounter (2), hit_counter (2), meterregistry (1)
 > **Analogies:** such as (4), similar to (1)
 > **CLI Commands:** find (2), make (1)
@@ -1577,9 +1556,9 @@ created: 2026-05-02
 > **Tools:** postman (2)
 > **URLs:** [http://localhosts:8080/api/v1/student](http://localhosts:8080/api/v1/student) (1)
 > **Ports:** :8080 (1)
+> **API Endpoints:** /api/v1/student (1)
 
-#### Viewing custom metrics from the Prometheus UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/viewing-custom-metrics-from-the-prometheus-ui?u=76281980)
+#### [Viewing custom metrics from the Prometheus UI](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/viewing-custom-metrics-from-the-prometheus-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,7 +1604,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/viewing-custom-metrics-from-the-prometheus-ui?u=76281980&t=158)** So I want to wrap the heat counter metric inside the right function as an argument. And then within the brackets, I'm going to have a left-hand good bracket and a right angle bracket.
 >
-> **[2:50](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/viewing-custom-metrics-from-the-prometheus-ui?u=76281980&t=170)** And in here we can specify a time to specify how far back we want to fetch a metric of values. So in here going to go back five minutes by typing 5:00 AM, and I'm going to trigger this by hitting execute, and you should see this data change now, and it should give us a more like a range over a period of time. So let's go ahead and click execute and voila, look at that. Awesome.
+> **[2:50](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/viewing-custom-metrics-from-the-prometheus-ui?u=76281980&t=170)** And in here we can specify a time to specify how far back we want to [[Fetch]] a metric of values. So in here going to go back five minutes by typing 5:00 AM, and I'm going to trigger this by hitting execute, and you should see this data change now, and it should give us a more like a range over a period of time. So let's go ahead and click execute and voila, look at that. Awesome.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/viewing-custom-metrics-from-the-prometheus-ui?u=76281980&t=197)** So as you can see, it's giving us more like a range, not a hardcore metric, like one or two, not an integer.
 >
@@ -1633,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Search]] (2), hit (2), [[Fetch]] (1), data (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Cross-References:** go back to (4)
 > **Definitions:** known as (2), is a  (1)
 > **Ports:** :00 (1)
@@ -1645,8 +1624,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing and running a Grafana Docker image
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980)
+#### [Installing and running a Grafana Docker image](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1654,7 +1632,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=6)** You can bring data into Grafana from the plethora of data sources, such as Prometheus, InfluxDB, Graphite, AWS CloudWatch and many more.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=17)** Let's head back to the CLI and use Docker to install and run Grafana.
+> **[0:17](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=17)** Let's head back to the [[CLI]] and use Docker to install and run Grafana.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=23)** And as you can see here, I already have Prometheus up and running, now we want to go ahead and install and run Grafana as well.
 >
@@ -1686,11 +1664,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=151)** I'm going to skip this step, so I'm going to just click skip, awesome I'm in.
 >
-> **[2:36](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=156)** As you can see now I have a backend to create dashboards and we'll explore more of this in the upcoming video.
+> **[2:36](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980&t=156)** As you can see now I have a backend to create [[Dashboards]] and we'll explore more of this in the upcoming video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (3), open-source (1), aws (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Dashboards]] (1)
 > **CLI Commands:** docker (6), ls (2), aws (1), make (1)
 > **Ports:** port 3000 (4), :3000 (2)
 > **Env Vars:** aws (1), cli (1), http (1)
@@ -1699,8 +1677,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 
-#### Import metrics data from Prometheus to Grafana
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/import-metrics-data-from-prometheus-to-grafana?u=76281980)
+#### [Import metrics data from Prometheus to Grafana](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/import-metrics-data-from-prometheus-to-grafana?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1708,7 +1685,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/import-metrics-data-from-prometheus-to-grafana?u=76281980&t=5)** And the data source for our application in this case will be Prometheus.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/import-metrics-data-from-prometheus-to-grafana?u=76281980&t=10)** We need to get our Prometheus metrics into Grafana so that we can build beautiful dashboards.
+> **[0:10](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/import-metrics-data-from-prometheus-to-grafana?u=76281980&t=10)** We need to get our Prometheus metrics into Grafana so that we can build beautiful [[Dashboards]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/import-metrics-data-from-prometheus-to-grafana?u=76281980&t=15)** So what I'm going to do is go to the left panel right here at this left menu.
 >
@@ -1752,15 +1729,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating dashboards with Grafana
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980)
+#### [Creating dashboards with Grafana](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1850,9 +1826,9 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980&t=199)** And you can see, I have some options here.
 >
-> **[3:21](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980&t=201)** Let's try Spring Boot, so I'm going to type Spring Boot.
+> **[3:21](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980&t=201)** Let's try [[Spring Boot]], so I'm going to type Spring Boot.
 >
-> **[3:26](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980&t=206)** And look, I have Spring Boot Statistics, I have other ones here.
+> **[3:26](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980&t=206)** And look, I have Spring Boot [[Statistics]], I have other ones here.
 >
 > **[3:31](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/creating-dashboards-with-grafana?u=76281980&t=211)** Let's select the Spring Boot Statistics one.
 >
@@ -1906,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (5), data (4), hit (3), [[Statistics]] (2), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Statistics]] (2)
 > **UI Navigation:** scroll down (3), select the (1), dropdown (1)
 > **Exercise Files:** template (5)
 > **Env Vars:** cpu (3), apm (1)
@@ -1920,8 +1896,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,7 +1912,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980&t=35)** So what's next?
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980&t=37)** I highly recommend a couple of courses on the LinkedIn Lennon library that can help you get familiar with Prometheus and Grafanna.
+> **[0:37](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980&t=37)** I highly recommend a couple of courses on the [[LinkedIn]] Lennon library that can help you get familiar with Prometheus and Grafanna.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980&t=44)** The courses are introduction to Prometheus by Chris Bailey and Grafana basics by Laura Stone.
 >
@@ -1955,7 +1930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **CLI Commands:** find (1)
 > **URLs:** [tech552.com](https://tech552.com) (1)
 > **Cross-References:** we covered (1)

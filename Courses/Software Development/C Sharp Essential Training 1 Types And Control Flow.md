@@ -103,14 +103,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980)
+#### [Explore the essentials](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980&t=0)** - [Matt] C Sharp is one of the most popular programming languages in use and continues to make programming easier and more fun with each new version.
 >
-> **[0:09](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980&t=9)** In this course, we'll take a close look at defining and using types and fundamental control flow constructs with C Sharp.
+> **[0:09](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980&t=9)** In this course, we'll take a close look at defining and using types and fundamental [[Control Flow]] constructs with C Sharp.
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980&t=16)** I'm Matt Milner and I've been programming with C Sharp for 20 years.
 >
@@ -120,12 +119,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Control Flow]] (2)
+> **Frameworks & Libraries:** [[Control Flow]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [matt] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,11 +133,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=8)** So either familiarity with another programming language or just general basic programming knowledge.
 >
-> **[0:15](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=15)** Ideally you'll have the C# basics covered and a great way to do that is by watching the learning C# course here on LinkedIn Learning.
+> **[0:15](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=15)** Ideally you'll have the C# basics covered and a great way to do that is by watching the learning C# course here on [[LinkedIn]] Learning.
 >
 > **[0:23](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=23)** I'm going to assume that you have that basic level of understanding as we begin this course.
 >
-> **[0:29](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=29)** All of the examples that I'll be showing use Visual Studio 2022 Community Edition with .NET 6 and C# 10 running on Windows.
+> **[0:29](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=29)** All of the examples that I'll be showing use Visual Studio 2022 Community Edition with .NET 6 and C# 10 running on [[Windows]].
 >
 > **[0:40](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/what-you-should-know?u=76281980&t=40)** I'll point out features that are new in these versions in case you're using a previous version.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Windows]] (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (2)
 > **Tools:** visual studio (4)
 > **CLI Commands:** find (2), unzip (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -169,8 +167,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=14)** These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:21](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:21](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:29](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=29)** The code Challenge has four areas: instructions in the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used in the bottom right and a console for output in the bottom left.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=127)** We see the help down at the bottom.
 >
-> **[2:09](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=129)** The expected result is 19, and the hint tells us we can either iterate through the array to do our own calculation or use a LINQ method.
+> **[2:09](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=129)** The expected result is 19, and the hint tells us we can either iterate through the array to do our own calculation or use a [[Language Integrated Query (LINQ)|LINQ]] method.
 >
 > **[2:18](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/coderpad-tour?u=76281980&t=138)** Regardless of whether your answer is successful, you'll see messages in the console output in the lower left.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[Language Integrated Query (LINQ)|Linq]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Language Integrated Query (LINQ)|Linq]] (1)
 > **Env Vars:** linq (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -233,18 +230,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### C# compiles to MSIL
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980)
+#### [C# compiles to MSIL](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=0)** - [Instructor] When learning a new programming language, I know I understand it better when I also learn the context in which it executes.
 >
-> **[0:07](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=7)** For C#, that means understanding that code written in C# compiles to MSIL, or Microsoft Intermediate Language.
+> **[0:07](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=7)** For C#, that means understanding that code written in C# compiles to MSIL, or [[Microsoft]] Intermediate Language.
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=16)** C# is one of several .NET languages that all compile to MSIL.
 >
-> **[0:21](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=21)** F# is a functional programming language, and Visual Basic .NET are two other languages, supported by Microsoft, with their own compilers that each know how to take those source files in their particular programming language and compile it to Microsoft Intermediate Language.
+> **[0:21](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=21)** F# is a [[Functional Programming]] language, and Visual Basic .NET are two other languages, supported by Microsoft, with their own compilers that each know how to take those source files in their particular programming language and compile it to Microsoft Intermediate Language.
 >
 > **[0:39](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=39)** One of the benefits of this is that the C# language can evolve independent of the runtime.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=96)** We can open that in a tool called ILDASM or IL Disassembler, that allows us to see from a compiled .NET executable or library, what the intermediate language is.
 >
-> **[1:47](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=107)** So I can browse into LinkedIn Essentials here, to my person class, and we can see all those properties, things like first name, age, last name, have get methods and set methods.
+> **[1:47](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=107)** So I can browse into [[LinkedIn]] Essentials here, to my person class, and we can see all those properties, things like first name, age, last name, have get methods and set methods.
 >
 > **[2:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980&t=120)** So if I go to the get last name, for example, I can now see what the MSIL looks like.
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Programming]] (2), [[Functional Programming]] (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Functional Programming]] (1), [[LinkedIn]] (1)
 > **Env Vars:** net (7), msil (5), ildasm (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -298,8 +294,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### .NET runtime is responsible for running MSIL
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/dot-net-runtime-is-responsible-for-running-msil?u=76281980)
+#### [.NET runtime is responsible for running MSIL](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/dot-net-runtime-is-responsible-for-running-msil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/dot-net-runtime-is-responsible-for-running-msil?u=76281980&t=21)** You can simply install the runtime and then your application, compiled MSIL, can run on that platform.
 >
-> **[0:29](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/dot-net-runtime-is-responsible-for-running-msil?u=76281980&t=29)** There've been a variety of versions of the .NET runtime over the years, the most recent versions were started with .NET core are cross-platform, so they can run on Windows, or Linux, or Mac OS.
+> **[0:29](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/dot-net-runtime-is-responsible-for-running-msil?u=76281980&t=29)** There've been a variety of versions of the .NET runtime over the years, the most recent versions were started with .NET core are cross-platform, so they can run on [[Windows]], or [[Linux]], or Mac OS.
 >
 > **[0:41](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/dot-net-runtime-is-responsible-for-running-msil?u=76281980&t=41)** That means with C#, you can write your applications and you can target a variety of platforms, not just desktop or Windows, but also mobile platforms.
 >
@@ -327,17 +322,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Windows]] (4), [[Linux]] (2), cross-platform (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2)
 > **Env Vars:** net (6), msil (2), sdk (1)
 > **Prerequisites:** setup (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### The base class library
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980)
+#### [The base class library](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=0)** - [Instructor] When writing applications in C#, or really any language, there are common pieces of functionality that are often provided in a software development kit or SDK.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=0)** - [Instructor] When writing applications in C#, or really any language, there are common pieces of functionality that are often provided in a [[Software Development]] kit or SDK.
 >
 > **[0:10](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=10)** And because C# is one of several .net languages, that common functionality is provided to all of them in the Base Class Library or BCL.
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=58)** The Base Class Library used to be the primary library used by all applications and little else was needed, or even available.
 >
-> **[1:07](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=67)** These days, open source libraries, including those built by Microsoft, are available to use along with the Base Class Library to build applications.
+> **[1:07](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=67)** These days, open source libraries, including those built by [[Microsoft]], are available to use along with the Base Class Library to build applications.
 >
 > **[1:16](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/the-base-class-library?u=76281980&t=76)** So it's very common, in fact, many of the project templates from Microsoft will create an application and you will start with the Base Class Library as well as these Third-party Libraries added into your application to provide that functionality.
 >
@@ -357,13 +351,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Microsoft]] (2), [[Software Development]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Software Development]] (1)
 > **Env Vars:** bcl (3), sdk (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### NuGet packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980)
+#### [NuGet packages](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=70)** [NuGet.org](https://NuGet.org) is a repository for libraries that provides infrastructure, versioning, library, and developer information.
 >
-> **[1:18](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=78)** A library is packaged with metadata and published to NuGet where other developers can download and install it.
+> **[1:18](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=78)** A library is packaged with [[Metadata]] and published to NuGet where other developers can download and install it.
 >
 > **[1:25](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=85)** The NuGet package manager is a tool used by developers, both to create these packages and to install them in a project.
 >
@@ -399,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=101)** I won't cover how to build NuGet packages in this course.
 >
-> **[1:43](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=103)** That's something you can find in other courses here on LinkedIn Learning.
+> **[1:43](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=103)** That's something you can find in other courses here on [[LinkedIn]] Learning.
 >
 > **[1:47](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=107)** Most developers tend to be on the consuming side of packages, installing them into their projects for use.
 >
@@ -423,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=161)** All the way back to .NET 2, 3, 5, and 4.
 >
-> **[2:45](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=165)** This library, Newtonsoft. JSON, also known as [JSON.NET](https://JSON.NET), has been around for a long time.
+> **[2:45](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=165)** This library, Newtonsoft. [[JSON]], also known as [JSON.NET](https://JSON.NET), has been around for a long time.
 >
 > **[2:51](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=171)** And if we go into .NET Standard 2.0, there's the DLL and some XML documentation.
 >
@@ -431,9 +424,9 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=183)** Having a central place to go and download these packages, have this functionality to manage different target frameworks and the security and the versions is extremely helpful.
 >
-> **[3:13](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=193)** The NuGet package models' become mature and popular enough that Microsoft now ships many of their libraries through this platform.
+> **[3:13](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=193)** The NuGet package models' become mature and popular enough that [[Microsoft]] now ships many of their libraries through this platform.
 >
-> **[3:20](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=200)** Everything from data access libraries to the libraries that make up the [ASP.NET](https://ASP.NET) web programming framework are now packaged and distributed using NuGet.
+> **[3:20](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=200)** Everything from data access libraries to the libraries that make up the [[[ASP.NET]]](https://ASP.NET) web programming framework are now packaged and distributed using NuGet.
 >
 > **[3:30](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/nuget-packages?u=76281980&t=210)** This enables faster, more focused updates to the libraries rather than big bang approaches of an entire new framework every year or two.
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[JSON]] (2), application (1), [[LinkedIn]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[JSON]] (2), [[LinkedIn]] (1), [[Microsoft]] (1), [[ASP.NET]] (1)
 > **Env Vars:** net (6), dll (2), json (2), bcl (1), xml (1)
 > **URLs:** [nuget.org](https://nuget.org) (3), [json.net](https://json.net) (1), [asp.net](https://asp.net) (1)
 > **Prerequisites:** install (4)
@@ -452,8 +445,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1), picture (1)
 > **Versions:** 2.0 (1)
 
-#### Compiling C# to a library or executable
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/compiling-c-sharp-to-a-library-or-executable?u=76281980)
+#### [Compiling C# to a library or executable](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/compiling-c-sharp-to-a-library-or-executable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +501,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Tools:** visual studio (2), command prompt (1)
 > **Env Vars:** dll (1), msil (1)
 > **Analogies:** just like (1)
@@ -520,8 +511,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding classes, structs, and records
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980)
+#### [Understanding classes, structs, and records](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +591,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=213)** So they can have properties, they can have methods much like a class.
 >
-> **[3:40](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=220)** And then in C# 9, Microsoft introduced the notion of a record.
+> **[3:40](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=220)** And then in C# 9, [[Microsoft]] introduced the notion of a record.
 >
 > **[3:45](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=225)** So here I have a record called customer that implements IPerson.
 >
@@ -659,11 +649,11 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=403)** Like I said, class has been most common up to this point.
 >
-> **[6:46](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=406)** Record being newer is fast gaining a lot of traction with folks building microservices, building multi-layered applications, and using it for those immutable objects that they need to pass around.
+> **[6:46](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980&t=406)** Record being newer is fast gaining a lot of traction with folks building [[Microservices]], building multi-layered applications, and using it for those immutable objects that they need to pass around.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), data (1), application (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microservices]] (1)
 > **Tools:** notion (3), visual studio (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** net (3)
@@ -672,8 +662,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Defining constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-constructors?u=76281980)
+#### [Defining constructors](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,14 +808,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (1)
 > **Code Identifiers:** firstname (8), lastname (8), empid (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object initialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/object-initialization?u=76281980)
+#### [Object initialization](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/object-initialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,7 +899,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), application (1)
 > **Prerequisites:** initialization (8)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (2), find (1)
@@ -921,8 +907,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initialize only properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/initialize-only-properties?u=76281980)
+#### [Initialize only properties](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/initialize-only-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,8 +999,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloning and copying objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/cloning-and-copying-objects?u=76281980)
+#### [Cloning and copying objects](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/cloning-and-copying-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1167,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** anotherage (5), myage (4), startingage (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
@@ -1191,8 +1174,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
 
-#### Equality comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/equality-comparisons?u=76281980)
+#### [Equality comparisons](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/equality-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,13 +1292,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining abstract classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-abstract-classes?u=76281980)
+#### [Defining abstract classes](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-abstract-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,8 +1446,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating static classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/creating-static-classes?u=76281980)
+#### [Creating static classes](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/creating-static-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1564,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), database (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** config_db_name (2), server_name (1)
 > **Code Identifiers:** connectionstring (2)
@@ -1593,9 +1571,9 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [narrator] (1)
 
-#### Solution: Expressing equality
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-expressing-equality?u=76281980)
+#### [Solution: Expressing equality](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-expressing-equality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,8 +1604,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using namespaces to organize code
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980)
+#### [Using namespaces to organize code](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1637,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980&t=11)** If you take a look here at our Constants.cs file at the top... I'll just collapse my class definition here.
 >
-> **[0:18](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980&t=18)** You can see that we have a namespace LinkedIn.Essentials wrapping that class definition.
+> **[0:18](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980&t=18)** You can see that we have a namespace [[LinkedIn]].Essentials wrapping that class definition.
 >
 > **[0:25](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980&t=25)** And this is the traditional way that you would define the namespace that your types are contained in.
 >
@@ -1703,15 +1680,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), application (1), web application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** net (2)
 > **Tools:** command line (1), visual studio (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Referencing .NET assemblies
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980)
+#### [Referencing .NET assemblies](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1723,7 +1699,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=22)** It's going to be a library for our types.
 >
-> **[0:25](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=25)** So we'll call this LinkedIn.Essentials.Types.
+> **[0:25](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=25)** So we'll call this [[LinkedIn]].Essentials.Types.
 >
 > **[0:34](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=34)** And we'll add that in choosing to use the dotnet 6.
 >
@@ -1781,11 +1757,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=215)** And again, these are things you can do on the command line, or you can do them in your IDE.
 >
-> **[3:41](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=221)** So maybe I'll choose JSON here and I'll get the very popular Newtonsoft.Json.
+> **[3:41](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=221)** So maybe I'll choose [[JSON]] here and I'll get the very popular Newtonsoft.Json.
 >
 > **[3:48](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=228)** And I'll choose to install that so now I'm installing a NuGet package.
 >
-> **[3:52](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=232)** And what that means is it's going out to [nuget.org](https://nuget.org), downloading the package file with all the metadata, all the versions we saw, it's installing it into my program here.
+> **[3:52](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=232)** And what that means is it's going out to [nuget.org](https://nuget.org), downloading the package file with all the [[Metadata]], all the versions we saw, it's installing it into my program here.
 >
 > **[4:03](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/referencing-dot-net-assemblies?u=76281980&t=243)** I've got a particular version installed.
 >
@@ -1819,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), [[JSON]] (5), application (3), node (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[JSON]] (5), [[Metadata]] (1)
 > **CLI Commands:** node (2), make (1), dotnet (1), find (1)
 > **Env Vars:** json (2), dll (1), com (1), ide (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -1828,12 +1804,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **URLs:** [nuget.org](https://nuget.org) (1)
 
-#### Applying access modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/applying-access-modifiers?u=76281980)
+#### [Applying access modifiers](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/applying-access-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/applying-access-modifiers?u=76281980&t=0)** - [Instructor] Remember that when I tried to use that constants from my LinkedIn essentials, I don't have any properties there.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/applying-access-modifiers?u=76281980&t=0)** - [Instructor] Remember that when I tried to use that constants from my [[LinkedIn]] essentials, I don't have any properties there.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/applying-access-modifiers?u=76281980&t=9)** If I look at the error from the compiler, it says it's inaccessible due to its protection level.
 >
@@ -1906,14 +1881,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aliasing namespaces for clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/aliasing-namespaces-for-clarity?u=76281980)
+#### [Aliasing namespaces for clarity](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/aliasing-namespaces-for-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/aliasing-namespaces-for-clarity?u=76281980&t=0)** - [Instructor] I mentioned that one of the purposes of namespaces is so our types don't clash.
 >
-> **[0:05](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/aliasing-namespaces-for-clarity?u=76281980&t=5)** Let's go over to our LinkedIn essentials types.
+> **[0:05](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/aliasing-namespaces-for-clarity?u=76281980&t=5)** Let's go over to our [[LinkedIn]] essentials types.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/aliasing-namespaces-for-clarity?u=76281980&t=8)** I'm going to add a new class, going to call it manager.cs, Notice that by default, I get a bunch of using statements up at the top.
 >
@@ -1970,8 +1944,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Declaring variables using types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/declaring-variables-using-types?u=76281980)
+#### [Declaring variables using types](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/declaring-variables-using-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2009,8 +1982,7 @@ created: 2026-05-02
 > **Ports:** :30 (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Using the var keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-the-var-keyword?u=76281980)
+#### [Using the var keyword](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-the-var-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,8 +2025,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with anonymous types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980)
+#### [Working with anonymous types](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,7 +2059,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=79)** All of those properties that we've declared there are available on this object.
 >
-> **[1:26](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=86)** You'll see anonymous types get used in a number of different scenarios in C-sharp sometimes with [asp.net](https://asp.net) web pages, other cases where we used language integrated query to project or create new object types on the fly with some state.
+> **[1:26](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=86)** You'll see anonymous types get used in a number of different scenarios in C-sharp sometimes with [[[ASP.NET]]](https://asp.net) web pages, other cases where we used [[Language Integrated Query (LINQ)|language integrated query]] to project or create new object types on the fly with some state.
 >
 > **[1:43](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-anonymous-types?u=76281980&t=103)** And in those cases that var keyword is critical because we don't know that type ahead of time by name.
 >
@@ -2110,14 +2081,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET]] (1), web (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using dynamic variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-dynamic-variables?u=76281980)
+#### [Using dynamic variables](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-dynamic-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2179,15 +2149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Solution: Dynamic keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-dynamic-keyword?u=76281980)
+#### [Solution: Dynamic keyword](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-dynamic-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2225,8 +2193,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining enums
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-enums?u=76281980)
+#### [Defining enums](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-enums?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2292,14 +2259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling multiple enum values
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/enabling-multiple-enum-values?u=76281980)
+#### [Enabling multiple enum values](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/enabling-multiple-enum-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2403,12 +2368,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing enum values
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/testing-enum-values?u=76281980)
+#### [Testing enum values](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/testing-enum-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2506,8 +2469,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), dropdown (1)
 > **Speakers:** - once (1)
 
-#### Understanding nullable types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-nullable-types?u=76281980)
+#### [Understanding nullable types](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-nullable-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2577,14 +2539,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), generic (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** definiteint (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using nullable types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-nullable-types?u=76281980)
+#### [Using nullable types](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-nullable-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2629,8 +2589,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with null objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-null-objects?u=76281980)
+#### [Working with null objects](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-null-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2717,8 +2676,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding nullable reference types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-nullable-reference-types?u=76281980)
+#### [Understanding nullable reference types](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-nullable-reference-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2826,15 +2784,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), application (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Working with nullable reference types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-nullable-reference-types?u=76281980)
+#### [Working with nullable reference types](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/working-with-nullable-reference-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2880,7 +2836,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1), application (1)
 > **CLI Commands:** make (2), dotnet (1), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), just like (1), for example (1)
@@ -2888,8 +2843,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Enum Flags
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-enum-flags?u=76281980)
+#### [Solution: Enum Flags](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-enum-flags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2931,12 +2885,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If and switch revisited
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980)
+#### [If and switch revisited](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980&t=0)** - [Instructor] As we start to look at control flow in our applications, I want to go back and quickly revisit something you're probably familiar with the if statement and the switch statement.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980&t=0)** - [Instructor] As we start to look at [[Control Flow]] in our applications, I want to go back and quickly revisit something you're probably familiar with the if statement and the switch statement.
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980&t=11)** With if, as you probably know, you have the if statement like on line 22 here, where we do some sort of logical operation and a quality check or comparison check.
 >
@@ -3048,12 +3001,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch statement vs. switch expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/switch-statement-vs-switch-expression?u=76281980)
+#### [Switch statement vs. switch expression](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/switch-statement-vs-switch-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/switch-statement-vs-switch-expression?u=76281980&t=0)** - [Instructor] Starting on line 28, we've used a switch statement, which has the switch key word.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/switch-statement-vs-switch-expression?u=76281980&t=0)** - [Instructor] Starting on line 28, we've used a switch statement, which has the switch key [[Microsoft Word|word]].
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/switch-statement-vs-switch-expression?u=76281980&t=6)** And then the item we're evaluating in this case padChar, and then the curly braces wherein we define our case statements, the different branches.
 >
@@ -3187,8 +3139,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the is expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-the-is-expression?u=76281980)
+#### [Using the is expression](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-the-is-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3317,8 +3268,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - we (1)
 
-#### Introduction to patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/introduction-to-patterns?u=76281980)
+#### [Introduction to patterns](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/introduction-to-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3392,15 +3342,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **Definitions:** is a  (5)
 > **Analogies:** just like (2)
 > **Versions:** 7.0 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constant, relational, and logical patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/constant-relational-and-logical-patterns?u=76281980)
+#### [Constant, relational, and logical patterns](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/constant-relational-and-logical-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3486,8 +3434,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Property pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/property-pattern?u=76281980)
+#### [Property pattern](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/property-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3577,15 +3524,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Ports:** :00 (4)
 > **Definitions:** is a  (4)
 > **Env Vars:** swv (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - another (1)
 
-#### Guard conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/guard-conditions?u=76281980)
+#### [Guard conditions](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/guard-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3667,19 +3612,18 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/guard-conditions?u=76281980&t=221)** And that's what we get on that first line.
 >
-> **[3:44](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/guard-conditions?u=76281980&t=224)** So those guards can really add to the complexity of your expressions and your ability to choose the different expressions or control flow in your switch expressions and your switch statements.
+> **[3:44](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/guard-conditions?u=76281980&t=224)** So those guards can really add to the complexity of your expressions and your ability to choose the different expressions or [[Control Flow]] in your switch expressions and your switch statements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1)
 > **Code Identifiers:** padchar (2)
 > **Env Vars:** swv (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Switch expression using patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-switch-expression-using-patterns?u=76281980)
+#### [Solution: Switch expression using patterns](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/solution-switch-expression-using-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3738,8 +3682,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn more and build something
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980)
+#### [Learn more and build something](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3747,13 +3690,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=5)** If you're looking for what to do next to learn even more, I've got some suggestions for you.
 >
-> **[0:10](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=10)** First, you can always come over and join me for C# Essential Training Part 2 where we'll talk about language integrated query, generics, delegates and events, asynchronous programming, exceptions, and other topics to dive a little further into the C# language essentials.
+> **[0:10](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=10)** First, you can always come over and join me for C# Essential Training Part 2 where we'll talk about [[Language Integrated Query (LINQ)|language integrated query]], generics, delegates and events, asynchronous programming, exceptions, and other topics to dive a little further into the C# language essentials.
 >
 > **[0:28](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=28)** After that, there's additional learning topics, including more C# language features or courses where you can dig deeper into those individual topics if you find one that really sparks your interest or is very applicable in your job.
 >
-> **[0:42](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=42)** You can look into some of the frameworks, like Entity framework for doing data access, [ASP.NET](https://ASP.NET) for building web applications, or you can look at Blazor, which is all about building user interfaces using HTML and CSS but programming in C#, and it can run natively in the browser with WebAssembly.
+> **[0:42](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=42)** You can look into some of the frameworks, like Entity framework for doing data access, [[[ASP.NET]]](https://ASP.NET) for building web applications, or you can look at Blazor, which is all about building user interfaces using [[HTML]] and CSS but programming in C#, and it can run natively in the browser with WebAssembly.
 >
-> **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=63)** Maybe you want to look at Xamarin for using C# to write mobile applications for iOS and Android or Windows Presentation Foundation or the other Windows-based UI frameworks if you're building desktop applications solely to run on Windows.
+> **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=63)** Maybe you want to look at Xamarin for using C# to write mobile applications for iOS and [[Android]] or [[Windows]] Presentation Foundation or the other Windows-based UI frameworks if you're building desktop applications solely to run on Windows.
 >
 > **[1:18](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980&t=78)** As you can see, once you've mastered C# the language, the frameworks that allow you to take that a step further and build your applications are going to be a critical next step in your learning.
 >
@@ -3765,7 +3708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Windows]] (3), next (2), application (2), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Language Integrated Query (LINQ)|Language integrated query]] (1), [[ASP.NET]] (1), [[HTML]] (1), [[Android]] (1)
 > **Env Vars:** asp (1), net (1), html (1), css (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (1)

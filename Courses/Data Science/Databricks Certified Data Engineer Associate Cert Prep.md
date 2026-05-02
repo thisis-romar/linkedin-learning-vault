@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=3)** My name is Noah Gift and I'm going to be your instructor for this course.
 >
-> **[0:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=7)** I have quite a bit of experience with Databricks and data engineering, and I teach this at multiple universities around the world, including some of the top universities.
+> **[0:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=7)** I have quite a bit of experience with Databricks and [[Data Engineering]], and I teach this at multiple universities around the world, including some of the top universities.
 >
 > **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=16)** Let's go ahead and get started here.
 >
@@ -121,19 +120,19 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=29)** So we'll talk about how to use the Lakehouse platform, the architecture, also creating and managing clusters, configuring cluster runtimes, terminating clusters, restarting clusters, filtering the cluster list, all-purpose versus job clusters.
 >
-> **[0:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=46)** And then in course two, we cover data transformation with Apache Spark.
+> **[0:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=46)** And then in course two, we cover [[Data Transformation]] with [[Apache Spark]].
 >
-> **[0:52](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=52)** We'll start off with looking at the development environment, so we'll set up IntelliJ for Databricks with Go, also use the Databricks CLI.
+> **[0:52](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=52)** We'll start off with looking at the development environment, so we'll set up IntelliJ for Databricks with Go, also use the Databricks [[CLI]].
 >
 > **[1:01](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=61)** We'll also use Databricks with R Studio.
 >
-> **[1:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=64)** We'll get into notebooks, how to execute them, share them, also how to use multiple languages, like languages like Scala and SQL, and then we'll talk about how Repos work as well.
+> **[1:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=64)** We'll get into notebooks, how to execute them, share them, also how to use multiple languages, like languages like [[Scala]] and [[SQL]], and then we'll talk about how Repos work as well.
 >
 > **[1:15](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=75)** Finally, in the last several courses, we'll start to dive into the Delta Lake.
 >
-> **[1:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=81)** So in course three, we'll get into data management with Delta Lake.
+> **[1:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=81)** So in course three, we'll get into [[Data Management]] with Delta Lake.
 >
-> **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=85)** This covers efficient data transformation with Spark SQL, using Catalog Explorer, creating tables from files, also querying external data sources, inspecting tables, reliable data pipelines with Delta Lake, asset transactions and more.
+> **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=85)** This covers efficient data transformation with Spark SQL, using Catalog Explorer, creating tables from files, also querying external data sources, inspecting tables, reliable [[Data Pipelines]] with Delta Lake, asset transactions and more.
 >
 > **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=104)** In course four, we'll get into data pipelines with Delta Live Tables.
 >
@@ -143,9 +142,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=134)** So we'll talk about orchestrating workloads with jobs, Databricks jobs, demos, multitask workflows, task dependencies.
 >
-> **[2:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=143)** Also, we'll talk about dashboards, handling failures, and even configuring retries.
+> **[2:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=143)** Also, we'll talk about [[Dashboards]], handling failures, and even configuring retries.
 >
-> **[2:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=149)** Now with the final course, we dive into the new feature, which is Unity Catalog.
+> **[2:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=149)** Now with the final course, we dive into the new feature, which is [[Unity]] Catalog.
 >
 > **[2:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980&t=156)** Now, Unity Catalog is interesting because it has the ability to give you more granular control over multiple instances of Databricks.
 >
@@ -157,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Data Transformation]] (2), [[SQL]] (2), [[Unity]] (2), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (2), [[SQL]] (2), [[Data Pipelines]] (2), [[Unity]] (2), [[Data Engineering]] (1)
 > **Env Vars:** sql (2), cli (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** in the last (1)
@@ -170,8 +169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the Databricks Lakehouse platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980)
+#### [Introduction to the Databricks Lakehouse platform](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=8)** First here on the left, we see that there's a progression from the data warehouse to the data lake to the lakehouse.
 >
-> **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=16)** One of the reasons for this is that there are limitations of traditional data warehouses for unstructured data at scale and some of the promises of data lakes didn't fully materialize due to lack of governance.
+> **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=16)** One of the reasons for this is that there are limitations of traditional data warehouses for [[Unstructured Data]] at scale and some of the promises of [[Data Lakes]] didn't fully materialize due to lack of governance.
 >
 > **[0:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=30)** So first, let's define what a lakehouse is.
 >
@@ -187,23 +185,23 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=41)** It's combining those strengths with the data lake in a new architecture.
 >
-> **[0:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=46)** And again, if we look at the data lake here, you can see that some of the difference are that you can also do data science, machine learning, work with structured, semi-structured and unstructured data.
+> **[0:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=46)** And again, if we look at the data lake here, you can see that some of the difference are that you can also do [[Data Science]], machine learning, work with structured, semi-structured and unstructured data.
 >
 > **[0:57](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=57)** But it enables the governance, the quality, the performance for analytics, alongside the flexibility for ML and AI.
 >
 > **[1:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=66)** And it's also powered by separating the storage and the compute, like the traditional cloud data warehouse.
 >
-> **[1:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=73)** Some of the key attributes include the support for asset transactions and schema enforcement like you would get with a traditional SQL solution and also open formats built on low cost object storage.
+> **[1:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=73)** Some of the key attributes include the support for asset transactions and schema enforcement like you would get with a traditional [[SQL]] solution and also open formats built on low cost object storage.
 >
 > **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=85)** So in the case of AWS, it would be something like AWS S3.
 >
-> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=89)** Unified batch, Streaming, SQL and machine learning workloads are also included and also the ability to have enterprise capabilities like security, access control, auditing, all things that are very important for compliance and for proper data governance.
+> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=89)** Unified batch, Streaming, SQL and machine learning workloads are also included and also the ability to have enterprise capabilities like security, access control, auditing, all things that are very important for compliance and for proper [[Data Governance]].
 >
 > **[1:45](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=105)** So, some of the benefits over past systems include: radically simplified architecture for multiple specialized systems, faster time to insight without copying or moving the data, and cost savings of operationalizing one system's infrastructure.
 >
 > **[2:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=120)** And also the flexibility for diverse analytics from BI to AI ML.
 >
-> **[2:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=125)** So some of the limitations here for the future outlook would include early in the maturity, so that they may lag some of the old systems' query performance.
+> **[2:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=125)** So some of the limitations here for the future [[Microsoft Outlook|outlook]] would include early in the maturity, so that they may lag some of the old systems' query performance.
 >
 > **[2:15](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980&t=135)** Also, there could be some issues where you need better support for non-SQL tools and personas.
 >
@@ -213,15 +211,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (3), [[Unstructured Data]] (2), strengths (2), bi (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Unstructured Data]] (2), [[Data Lakes]] (1), [[Data Science]] (1), [[Data Governance]] (1)
 > **Env Vars:** sql (3), aws (2), etl (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the Databricks architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980)
+#### [Overview of the Databricks architecture](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=9)** At the top here, you can see that it's structured into a control plane, and this control plane is managed by Databricks and the compute plane lives in the customer's cloud.
 >
-> **[0:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=19)** In this example, it shows AWS, but it could be in Azure.
+> **[0:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=19)** In this example, it shows AWS, but it could be in [[Microsoft Azure|Azure]].
 >
 > **[0:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=22)** It could be in GCP.
 >
@@ -237,11 +234,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=25)** The control plane, though, is where all of the action takes place, and it handles the back-end services like the storage of notebooks and jobs, and the compute plane processes the customer's data and the workloads.
 >
-> **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=37)** The connector integrates the external data for ingestion, and then the data lake stores securely in the customer's cloud storage.
+> **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=37)** The connector integrates the external data for ingestion, and then the data lake stores securely in the customer's [[Cloud Storage]].
 >
 > **[0:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=46)** So it works on top of things like object storage and compute.
 >
-> **[0:49](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=49)** In the case of AWS, it would be S3 or EC2, and there's a separation of responsibilities where Databricks manages the control plane service to reduce the customer burden, and the customer maintains the ownership and control of business data.
+> **[0:49](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=49)** In the case of AWS, it would be S3 or [[Amazon EC2|EC2]], and there's a separation of responsibilities where Databricks manages the control plane service to reduce the customer burden, and the customer maintains the ownership and control of business data.
 >
 > **[1:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=64)** So this is very similar with the shared responsibility model of AWS, where you manage certain parts of the resources and AWS manages others like the physical data center.
 >
@@ -249,23 +246,22 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=82)** So the common workflow would be the data is ingested from sources via connectors into the cloud storage like S3.
 >
-> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=89)** The compute would spin up on demand to process and analyze the data, and then the interactive workloads in notebooks, batch jobs, SQL, all would share the same architecture, and the results would output back to the cloud storage under the customer control.
+> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=89)** The compute would spin up on demand to process and analyze the data, and then the interactive workloads in notebooks, batch jobs, [[SQL]], all would share the same architecture, and the results would output back to the cloud storage under the customer control.
 >
 > **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=104)** So what this means is that some of the benefits are fully managed control plane that reduces the overhead.
 >
 > **[1:52](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=112)** The customer cloud account provides security and isolation, and you have flexibility to handle diverse data workloads and pay only for the compute used through serverless offerings.
 >
-> **[2:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=123)** So, in a nutshell here, what you really can do with Databricks is manage complex workflows by leveraging that layer on top, and that Databricks control plane has the web application, the notebooks, the jobs and queries, and the cluster management, and it does many things beyond just data engineering, including MLOps.
+> **[2:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/overview-of-the-databricks-architecture?u=76281980&t=123)** So, in a nutshell here, what you really can do with Databricks is manage complex workflows by leveraging that layer on top, and that Databricks control plane has the web application, the notebooks, the jobs and queries, and the cluster management, and it does many things beyond just [[Data Engineering]], including [[MLOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), cloud (6), aws (4), [[Microsoft Azure|Azure]] (1), gcp (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (3), [[Microsoft Azure|Azure]] (1), [[Amazon EC2|Ec2]] (1), [[SQL]] (1), [[Data Engineering]] (1)
 > **Env Vars:** aws (4), gcp (1), ec2 (1), sql (1)
 > **CLI Commands:** aws (4)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and managing clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980)
+#### [Creating and managing clusters](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=14)** You can see there's several different categories of options.
 >
-> **[0:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=18)** First up, we have all purpose compute here, so this is a place to start if you're going to do things like work with notebooks, for example, do basic data engineering operations.
+> **[0:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=18)** First up, we have all purpose compute here, so this is a place to start if you're going to do things like work with notebooks, for example, do basic [[Data Engineering]] operations.
 >
 > **[0:28](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=28)** And you can see here that I've actually got something running, which is called Thrifty, right here.
 >
@@ -309,19 +305,19 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=104)** So, in many scenarios, you would want multi node.
 >
-> **[1:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=108)** Single node is for prototyping.
+> **[1:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=108)** Single node is for [[Prototyping]].
 >
 > **[1:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=110)** So if you toggle to single node, you can see it'll just spin up one machines.
 >
-> **[1:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=114)** But the advantage of multi node is to be able to scale out the Disk I/O and the compute for the Hadoop file system, HTFS.
+> **[1:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=114)** But the advantage of multi node is to be able to scale out the Disk I/O and the compute for the [[Hadoop]] file system, HTFS.
 >
 > **[2:02](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=122)** And you're going to get that by using a multi-node setup.
 >
 > **[2:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=126)** Now look at the default runtime here as well.
 >
-> **[2:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=128)** This is important to stay and look at, is that the runtime here is already configured for you and it has the latest versions of Scala and Spark, and you can toggle it up and down if you want, based on the kinds of things you're doing.
+> **[2:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=128)** This is important to stay and look at, is that the runtime here is already configured for you and it has the latest versions of [[Scala]] and Spark, and you can toggle it up and down if you want, based on the kinds of things you're doing.
 >
-> **[2:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=142)** So generally for regular types of notebook operations, running SQL queries, you would want this standard runtime and it's going to be configured for you.
+> **[2:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=142)** So generally for regular types of notebook operations, running [[SQL]] queries, you would want this standard runtime and it's going to be configured for you.
 >
 > **[2:33](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=153)** If you want to do advanced ML operations, notice here that there'll be options for GPU, there could be different versions of Spark, and also the libraries are going to be pre-configured for you so that you don't have to actually select something that's going to be installed it's already installed for you for many of the standard use cases.
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=260)** You could also add tags here as well.
 >
-> **[4:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=262)** Let's say you want to say, maybe the team would be data science, right?
+> **[4:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=262)** Let's say you want to say, maybe the team would be [[Data Science]], right?
 >
 > **[4:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=266)** If you wanted to add some kind of a tag that would tell you exactly what's happening.
 >
@@ -381,11 +377,11 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=340)** And then finally, this is where you would go in and you could actually create customized policies so that maybe you simplify the ability to launch things or limit the ability to do GPUs.
 >
-> **[5:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=351)** All this is managed directly from the interface inside of Microsoft Azure, Databricks, or AWS Azure Databricks, or whatever platform you're using Databricks on.
+> **[5:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-and-managing-clusters?u=76281980&t=351)** All this is managed directly from the interface inside of [[Microsoft Azure]], Databricks, or AWS [[Azure Databricks]], or whatever platform you're using Databricks on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Data Engineering]] (2), [[SQL]] (2), data (2), feature (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[SQL]] (2), [[Prototyping]] (1), [[Hadoop]] (1), [[Scala]] (1)
 > **CLI Commands:** node (7), aws (1)
 > **Env Vars:** sql (2), htfs (1), gpu (1), cpu (1), aws (1)
 > **UI Navigation:** toggle (5)
@@ -394,12 +390,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), install (1)
 > **Cross-References:** go back to (1)
 
-#### Configuring cluster runtimes
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980)
+#### [Configuring cluster runtimes](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=5)** - [Narrator] Here we have Databricks runtimes, and they include things like the data engineering and ML solutions here.
+> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=5)** - [Narrator] Here we have Databricks runtimes, and they include things like the [[Data Engineering]] and ML solutions here.
 >
 > **[0:11](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=11)** And if we see, the reason for this is that you can have different clusters doing different things and you don't have to spend a lot of time maintaining them.
 >
@@ -409,27 +404,27 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=23)** If we take a look at standard here, this is just general purpose, right?
 >
-> **[0:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=26)** It's for the ETL operations, data pipelines, batch processing.
+> **[0:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=26)** It's for the ETL operations, [[Data Pipelines]], [[Batch Processing]].
 >
 > **[0:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=32)** Let's say you want to have a scheduled job that runs at some interval.
 >
 > **[0:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=35)** It often could be using this standard runtime.
 >
-> **[0:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=38)** We also have support for Python.
+> **[0:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=38)** We also have support for [[Python (Programming Language)|Python]].
 >
-> **[0:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=40)** We have support for R, we have support for Scala, for SQL.
+> **[0:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=40)** We have support for R, we have support for [[Scala]], for [[SQL]].
 >
 > **[0:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=44)** There also is this Photon runtime as well, which is optimized for huge data volumes and table scans.
 >
 > **[0:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=50)** And it's great for ETL on petabytes-sized data.
 >
-> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=55)** And then in terms of machine learning, we have libraries like TensorFlow, we have PyTorch, we have Caris.
+> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=55)** And then in terms of machine learning, we have libraries like [[TensorFlow]], we have [[PyTorch]], we have Caris.
 >
-> **[1:01](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=61)** Also, regular machine learning tasks are handled as well, like things like pandas, for example.
+> **[1:01](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=61)** Also, regular machine learning tasks are handled as well, like things like [[Pandas (Software)|pandas]], for example.
 >
 > **[1:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=67)** That particular API could be available.
 >
-> **[1:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=70)** In terms of the other run of times for analytics, we also have SQL analytics, and this is optimized for SQL and business intelligence use cases.
+> **[1:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=70)** In terms of the other run of times for analytics, we also have SQL analytics, and this is optimized for SQL and [[Business Intelligence (BI)|business intelligence]] use cases.
 >
 > **[1:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-cluster-runtimes?u=76281980&t=79)** And really the difference here is that you can toggle the attributes of languages and libraries, memory IO, CPU, the query engine, the concurrency limits.
 >
@@ -463,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (4), etl (2), [[Analytics]] (2), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Engineering]] (1), [[Data Pipelines]] (1), [[Batch Processing]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (5), etl (2), api (1), cpu (1)
 > **UI Navigation:** toggle (3)
 > **CLI Commands:** python (1)
@@ -472,8 +467,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Terminating clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/terminating-clusters?u=76281980)
+#### [Terminating clusters](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/terminating-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/terminating-clusters?u=76281980&t=98)** Let's say you're done with a project and you're inside of a notebook, you've saved it.
 >
-> **[1:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/terminating-clusters?u=76281980&t=103)** Maybe you've committed it to version control.
+> **[1:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/terminating-clusters?u=76281980&t=103)** Maybe you've committed it to [[Version Control]].
 >
 > **[1:45](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/terminating-clusters?u=76281980&t=105)** All you have to do to get rid of it is just select Terminate, so ahead and say Confirm, and this will actually go through the termination phase and you can see here that this was requested.
 
@@ -529,8 +523,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restarting clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/restarting-clusters?u=76281980)
+#### [Restarting clusters](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/restarting-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,8 +554,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering the clusters list
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/filtering-the-clusters-list?u=76281980)
+#### [Filtering the clusters list](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/filtering-the-clusters-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,8 +589,7 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### All-purpose vs. job clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980)
+#### [All-purpose vs. job clusters](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,7 +597,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=15)** And this is one type of Compute that works very well for notebooks or for other things you're doing, but there's a different type called a job cluster.
 >
-> **[0:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=24)** Let's go ahead and look at that by going to Data Engineering, Job Runs.
+> **[0:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=24)** Let's go ahead and look at that by going to [[Data Engineering]], Job Runs.
 >
 > **[0:28](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=28)** And if we go over here, what we can see is, this was a previous run that I did.
 >
@@ -624,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=64)** And so auto-scaling is enabled by default to handle the job load and it's going to terminate automatically after being idle for a set time.
 >
-> **[1:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=72)** So this is really ideal for doing scheduled ETL pipelines and recurring batch processing.
+> **[1:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=72)** So this is really ideal for doing scheduled ETL pipelines and recurring [[Batch Processing]].
 >
 > **[1:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/all-purpose-vs-job-clusters?u=76281980&t=79)** The all-purpose clusters are more for interactive general data analysis.
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (2), [[Data Engineering]] (1), [[Batch Processing]] (1), data (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Batch Processing]] (1)
 > **Env Vars:** etl (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -652,8 +643,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up IntelliJ for Databricks with Go
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980)
+#### [Set up IntelliJ for Databricks with Go](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,11 +709,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980&t=174)** There's strong support for the Databricks SDK as well.
 >
-> **[2:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980&t=178)** So if you want to give somebody in your team a binary that just ships to let's say Kubernetes or ships to some serverless platform that talks to Databricks, this is a pretty good solution.
+> **[2:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980&t=178)** So if you want to give somebody in your team a binary that just ships to let's say [[Kubernetes]] or ships to some serverless platform that talks to Databricks, this is a pretty good solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cd (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **Env Vars:** sdk (6)
 > **File Paths:** main.go (3)
 > **CLI Commands:** make (1), cd (1), go run (1)
@@ -732,12 +722,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and using the Databricks CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980)
+#### [Installing and using the Databricks CLI](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=4)** - [Instructor] One of the cooler things you can do with Databricks is administer it from the CLI.
+> **[0:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=4)** - [Instructor] One of the cooler things you can do with Databricks is administer it from the [[CLI]].
 >
 > **[0:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=10)** In order to do that on a Mac platform, all you'd have to do is just do a brew install, so here we go.
 >
@@ -763,7 +752,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=111)** So that means that at one point, they were running, and then now the state has been changed to terminated.
 >
-> **[1:57](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=117)** So this is a great example of, if I was going to do some data science work and I wanted to set up a job before I get frustrated because my job is taking a long time, I can notice that, ah, look, the cluster's actually in a terminated state.
+> **[1:57](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=117)** So this is a great example of, if I was going to do some [[Data Science]] work and I wanted to set up a job before I get frustrated because my job is taking a long time, I can notice that, ah, look, the cluster's actually in a terminated state.
 >
 > **[2:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=132)** We need to actually change that, so how would we do this?
 >
@@ -781,7 +770,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=175)** So let's say I had a hundred or a thousand different machines here.
 >
-> **[3:01](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=181)** Well, what's a little bit confusing is, how do I know which one has the right hardware?
+> **[3:01](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=181)** Well, what's a little bit confusing is, how do I know which one has the right [[Hardware]]?
 >
 > **[3:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=186)** For example, let's say I wanted something with a particular hardware capacity, I don't know, GPUs, et cetera.
 >
@@ -795,7 +784,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=213)** So what I can do is do get.
 >
-> **[3:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=216)** We can put the ID right here, and it will return back a big JSON payload.
+> **[3:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=216)** We can put the ID right here, and it will return back a big [[JSON]] payload.
 >
 > **[3:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-cli?u=76281980&t=223)** I don't want that entire payload, so what I'm going to do is I'm going to pipe it into the JQ, which is a JSON query tool, and I'm going to actually query for some pattern.
 >
@@ -811,7 +800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[JSON]] (3), [[CLI]] (2), api (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[JSON]] (3), [[CLI]] (2), [[Data Science]] (1)
 > **Env Vars:** json (3), cli (2), api (1), ds3 (1)
 > **Prerequisites:** configure (3), install (2), set up (1)
 > **CLI Commands:** brew (2), find (2), node (1)
@@ -820,12 +809,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and using Databricks for RStudio
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980)
+#### [Installing and using Databricks for RStudio](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=4)** - [Instructor] Databricks also works with both R and the RStudio environment.
+> **[0:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=4)** - [Instructor] Databricks also works with both R and the [[RStudio]] environment.
 >
 > **[0:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=10)** You can see here this is a Databricks SDK for R tutorial and notice that it's an experimental SDK for now, but the gist of it is that you need to build out inside of your local R environment a Databricks host.
 >
@@ -833,9 +821,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=31)** Once you've done that and you've gone through and you've created that token, you can actually put it inside of your .Renviron files.
 >
-> **[0:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=39)** Obviously this is something that must not go into version control systems because this would have the personal access token and also the workspace URL, but once you've done that, you'll go through here and install these packages.
+> **[0:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=39)** Obviously this is something that must not go into [[Version Control]] systems because this would have the personal access token and also the workspace URL, but once you've done that, you'll go through here and install these packages.
 >
-> **[0:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=51)** So you'll say install.packages("devtools") library(devtools) and then you'll install it directly from GitHub.
+> **[0:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=51)** So you'll say install.packages("devtools") library(devtools) and then you'll install it directly from [[GitHub]].
 >
 > **[0:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=58)** Finally, all you need to do is go inside of here and require the Databricks library that you just installed, make a client and do whatever it is you need to do.
 >
@@ -863,7 +851,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=132)** I then specify the spark version that I want to use, and then I also specify the node type.
 >
-> **[2:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=138)** So this is critical because there are many different types of nodes and you want to select the one that is going to meet your needs, for example, ML jobs or data engineering jobs.
+> **[2:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=138)** So this is critical because there are many different types of nodes and you want to select the one that is going to meet your needs, for example, ML jobs or [[Data Engineering]] jobs.
 >
 > **[2:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=149)** Then finally you can set the auto termination time.
 >
@@ -883,7 +871,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=188)** So there's a total of two nodes here.
 >
-> **[3:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=190)** And then what I can do is I can verify this by going to the Databricks CLI, which I can use inside of RStudio.
+> **[3:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=190)** And then what I can do is I can verify this by going to the Databricks [[CLI]], which I can use inside of RStudio.
 >
 > **[3:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=197)** So if I type in here databricks clusters list, we should see that my-Rcluster.
 >
@@ -891,11 +879,11 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=210)** So the R language is also a option for people that are familiar with it.
 >
-> **[3:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=215)** If you are a data science practitioner and you're really living inside of RStudio, you can absolutely administer the Databricks infrastructure remotely from RStudio.
+> **[3:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/installing-and-using-databricks-for-rstudio?u=76281980&t=215)** If you are a [[Data Science]] practitioner and you're really living inside of RStudio, you can absolutely administer the Databricks infrastructure remotely from RStudio.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (5), [[GitHub]] (2), node (2), [[Version Control]] (1), next (1)
+> **Frameworks & Libraries:** [[RStudio]] (5), [[GitHub]] (2), [[Version Control]] (1), [[Data Engineering]] (1), [[CLI]] (1)
 > **Env Vars:** url (4), sdk (3), rsdk (1), cli (1)
 > **CLI Commands:** make (3), node (2)
 > **Prerequisites:** install (4), set up (1)
@@ -904,8 +892,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Introduction to notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980)
+#### [Introduction to notebooks](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,11 +904,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=15)** So I've already done that.
 >
-> **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=16)** And I'm going to name this thing data science.
+> **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=16)** And I'm going to name this thing [[Data Science]].
 >
 > **[0:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=21)** So it's really common to want to build out a exploratory data analysis workflow.
 >
-> **[0:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=29)** But notice here that by default, you have the ability to use SQL, but you could toggle to another language like Python, you could toggle to Scala, to R.
+> **[0:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=29)** But notice here that by default, you have the ability to use [[SQL]], but you could toggle to another language like [[Python (Programming Language)|Python]], you could toggle to [[Scala]], to R.
 >
 > **[0:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-notebooks?u=76281980&t=39)** It's up to you to decide what it is you want to do.
 >
@@ -1005,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (2), [[Python (Programming Language)|Python]] (1), [[Scala]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[SQL]] (2), [[Python (Programming Language)|Python]] (1), [[Scala]] (1)
 > **UI Navigation:** toggle (3), click on (2), go to (1)
 > **Env Vars:** sql (2), eda (1)
 > **Analogies:** for example (3)
@@ -1014,8 +1001,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Warnings:** be aware (1)
 
-#### Executing notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980)
+#### [Executing notebooks](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=31)** I could also pick a certain cell.
 >
-> **[0:33](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=33)** So if you're working with big data, for example, you may want to select a subsection so that you don't rerun everything.
+> **[0:33](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=33)** So if you're working with [[Big Data]], for example, you may want to select a subsection so that you don't rerun everything.
 >
 > **[0:41](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=41)** Or you could run everything above, or you could run everything below, or you could run the selected text, or you could even go to the last run cell.
 >
@@ -1045,7 +1031,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=85)** So if you go through here and you schedule, you could schedule a job and say, I want this scheduled every single day at some time.
 >
-> **[1:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=92)** A great example of why you'd want to do this would be, let's say web scraping or some kind of data collection job.
+> **[1:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=92)** A great example of why you'd want to do this would be, let's say web scraping or some kind of [[Data Collection]] job.
 >
 > **[1:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/executing-notebooks?u=76281980&t=98)** Now you also could send alerts to your personal email address and you could toggle on start success failure, et cetera.
 >
@@ -1073,14 +1059,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (1), web (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Data Collection]] (1)
 > **UI Navigation:** go to (2), toggle (2)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980)
+#### [Sharing notebooks](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,11 +1079,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=35)** Now, another thing you can do is control exactly what they can do.
 >
-> **[0:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=40)** So this is very useful for maybe a developer that's working on some big data projects, is that you want, let's say, the data scientist to only view the notebook because they are going to execute the run but you don't want them to actually change it.
+> **[0:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=40)** So this is very useful for maybe a developer that's working on some [[Big Data]] projects, is that you want, let's say, the data scientist to only view the notebook because they are going to execute the run but you don't want them to actually change it.
 >
 > **[0:56](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=56)** Likewise, you can actually go through here and run, and you can actually allow someone to redo the run, for example.
 >
-> **[1:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=65)** Because in the case of a view, if you go through here and you were able to just view the results of the notebook, that's good enough maybe for some of the data science tasks that you need to do.
+> **[1:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=65)** Because in the case of a view, if you go through here and you were able to just view the results of the notebook, that's good enough maybe for some of the [[Data Science]] tasks that you need to do.
 >
 > **[1:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=76)** But running requires many resources, and it could require a bit of an understanding of what's happening in your organization and the cluster size, et cetera, so this could be a more privileged thing to do.
 >
@@ -1110,7 +1095,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=114)** So, there's lots of options here when you're thinking about sharing that you can control inside of Databricks.
 >
-> **[2:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=120)** And then finally, you can just copy the link here and paste that link into a chat system like Slack or email it to somebody and say, "Hey, can you take a look at this notebook?
+> **[2:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=120)** And then finally, you can just copy the link here and paste that link into a chat system like [[Slack]] or email it to somebody and say, "Hey, can you take a look at this notebook?
 >
 > **[2:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/sharing-notebooks?u=76281980&t=128)** I'm having some problems."
 >
@@ -1118,22 +1103,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Big Data]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Data Science]] (1), [[Slack]] (1)
 > **Analogies:** for example (3), it's like (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multilanguage support
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980)
+#### [Multilanguage support](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=4)** - [Instructor] Here we have a notebook that I'm going to demonstrate the ability to use multiple languages.
 >
-> **[0:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=10)** Now by default, you can see here that the default is SQL, but there are other languages we can use.
+> **[0:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=10)** Now by default, you can see here that the default is [[SQL]], but there are other languages we can use.
 >
-> **[0:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=17)** We can use Python, we also can use Scala, and we can use R.
+> **[0:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=17)** We can use [[Python (Programming Language)|Python]], we also can use [[Scala]], and we can use R.
 >
 > **[0:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=22)** And even there's a hidden language, which is Bash, which I'll show you how to do as well.
 >
@@ -1151,7 +1135,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=77)** We have the Python right here with the percent that tells the cell that it's going to be a Python cell.
 >
-> **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=84)** We also have the import pandas as pd.
+> **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=84)** We also have the import [[Pandas (Software)|pandas]] as pd.
 >
 > **[1:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=87)** We then go through here and mount the Databricks file system.
 >
@@ -1203,13 +1187,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=207)** So we can say percentage ls, and then notice when we run this, we're able to actually run any type of shell command inside of here.
 >
-> **[3:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=216)** So this is a great way to maybe do some data processing or run some commands to see where you're at.
+> **[3:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=216)** So this is a great way to maybe do some [[Data Processing]] or run some commands to see where you're at.
 >
 > **[3:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multilanguage-support?u=76281980&t=223)** So you really have the ability to run not only just these four languages, but with the Python syntax, you can also do the exclamation point here, ls, to also get access to the shell ecosystem.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (6), [[SQL]] (4), [[Scala]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[SQL]] (4), [[Scala]] (3), [[Pandas (Software)|Pandas]] (1), [[Data Processing]] (1)
 > **CLI Commands:** python (8), ls (2), apache (1)
 > **Env Vars:** sql (3), csv (1)
 > **Tools:** bash (2)
@@ -1218,8 +1202,7 @@ created: 2026-05-02
 > **File Paths:** org.apache.spark.sql (1)
 > **Prerequisites:** you'll need (1)
 
-#### Databricks Repos overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980)
+#### [Databricks Repos overview](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1229,7 +1212,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=20)** So inside of the workspace, one of the things that we can do is we can actually add a folder.
 >
-> **[0:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=25)** And so this folder could be, for example, some scala notebooks.
+> **[0:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=25)** And so this folder could be, for example, some [[Scala]] notebooks.
 >
 > **[0:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=30)** You could put them all in a certain directory.
 >
@@ -1243,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=63)** That's one way to do things is you have this local workflow and there's a lot of benefits to that.
 >
-> **[1:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=68)** On the flip side, a lot of times you will want to get access to version control and actually go through the version control system and version control your notebook.
+> **[1:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=68)** On the flip side, a lot of times you will want to get access to [[Version Control]] and actually go through the version control system and version control your notebook.
 >
 > **[1:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=78)** So let's go ahead and take a look at a repo here.
 >
@@ -1257,7 +1240,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=100)** Now in terms of the repo here you can see this is the URL, and you could put an HTTP URL here.
 >
-> **[1:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=108)** We also could select different providers from GitHub to Bitbucket to GitLab to Azure DevOps to AWS CodeCommit.
+> **[1:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=108)** We also could select different providers from [[GitHub]] to [[Bitbucket]] to GitLab to [[Microsoft Azure|Azure]] [[DevOps]] to AWS CodeCommit.
 >
 > **[1:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-repos-overview?u=76281980&t=115)** We have lots of options here depending on what are the requirements for your organization.
 >
@@ -1295,12 +1278,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Efficient data transformation with Spark SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980)
+#### [Efficient data transformation with Spark SQL](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=5)** - [Instructor] Let's get started with Spark SQL, which is a way to query all of the Databricks file system in SQL.
+> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=5)** - [Instructor] Let's get started with Spark [[SQL]], which is a way to query all of the Databricks file system in SQL.
 >
 > **[0:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=12)** Let's go ahead and take a look first at this catalog here.
 >
@@ -1320,7 +1302,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=63)** Just take this last navigation here, put inside.
 >
-> **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=69)** And then we can see, for example, there is a directory that has Json inside of that, a whole bunch of different files.
+> **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=69)** And then we can see, for example, there is a directory that has [[JSON]] inside of that, a whole bunch of different files.
 >
 > **[1:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=79)** In fact, I can do this, I can do a DU.
 >
@@ -1362,7 +1344,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=201)** Let's go ahead and data profile first.
 >
-> **[3:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=202)** So we can find things like, for example, descriptive statistics, which I often first want to do when I'm looking at something and I want to see what's going on in terms of what's happening here.
+> **[3:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=202)** So we can find things like, for example, descriptive [[Statistics]], which I often first want to do when I'm looking at something and I want to see what's going on in terms of what's happening here.
 >
 > **[3:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980&t=215)** So we can see that the standard deviation of this particular column is a certain value.
 >
@@ -1414,7 +1396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[SQL]] (7), [[Statistics]] (2), cd (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Statistics]] (2), [[JSON]] (1)
 > **Env Vars:** sql (7), nyc (2), tpch (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), ls (1), cd (1), find (1)
@@ -1423,12 +1405,11 @@ created: 2026-05-02
 > **Versions:** 1.63 (1)
 > **Tools:** terminal (1)
 
-#### Using Catalog Explorer
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980)
+#### [Using Catalog Explorer](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=5)** - [Instructor] The Catalog Explorer in Databricks is a user interface that allows you to browse, search, manage, and organize different data objects like tables, views, dashboards in the Databricks workspace.
+> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=5)** - [Instructor] The Catalog Explorer in Databricks is a user interface that allows you to browse, search, manage, and organize different data objects like tables, views, [[Dashboards]] in the Databricks workspace.
 >
 > **[0:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=18)** Some of the things you can do include providing a centralized portal to search, filter, and browse tables, dashboards, and models, and you can also tag objects, and you can manage access permissions, and you can also view the underlying data within tables.
 >
@@ -1488,7 +1469,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=193)** So for example, if I type in Catalog Explorer, we can also open this up in a separate window as well.
 >
-> **[3:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=201)** Now, the other thing that is important to be aware of is that we're able to toggle back and forth between the SQL Editor and the Catalog Explorer, which is what we saw.
+> **[3:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=201)** Now, the other thing that is important to be aware of is that we're able to toggle back and forth between the [[SQL]] Editor and the Catalog Explorer, which is what we saw.
 >
 > **[3:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=210)** So if I go here and I go to the SQL Explorer, right, that gives me this view, but I could always toggle back and go to the Catalog Explorer.
 >
@@ -1500,13 +1481,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=237)** So for example, if I look at the file store here, one of the things that we can see is that there is some data here that doesn't have a table.
 >
-> **[4:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=247)** So this would be something that later, if I wanted to create the metadata for this, I could go back to this Databricks file system and look at that particular path, create the table inside of the Catalog Explorer so then I could do queries with it, or do visualizations, et cetera.
+> **[4:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=247)** So this would be something that later, if I wanted to create the [[Metadata]] for this, I could go back to this Databricks file system and look at that particular path, create the table inside of the Catalog Explorer so then I could do queries with it, or do visualizations, et cetera.
 >
-> **[4:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=265)** So Catalog Explorer is really the place to start when you're dealing with metadata on the Databricks file system, and it saves you a lot of time if you set up some automations around the visualizations, and also the the descriptive statistics so other people on your team can immediately start to add value.
+> **[4:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-catalog-explorer?u=76281980&t=265)** So Catalog Explorer is really the place to start when you're dealing with metadata on the Databricks file system, and it saves you a lot of time if you set up some automations around the visualizations, and also the the descriptive [[Statistics]] so other people on your team can immediately start to add value.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Search]] (2), [[Dashboards]] (2), feature (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[SQL]] (2), [[Metadata]] (2), [[Statistics]] (1)
 > **UI Navigation:** go to (3), click on (2), toggle (2)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3)
@@ -1515,8 +1496,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 
-#### Creating tables from files
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-tables-from-files?u=76281980)
+#### [Creating tables from files](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-tables-from-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,7 +1508,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-tables-from-files?u=76281980&t=29)** If we take a look at this DBFS here, look, I have some data that actually isn't inside of the Catalog Explorer.
 >
-> **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-tables-from-files?u=76281980&t=37)** So one of the things that we can do is we can actually pop over to the SQL Editor right here.
+> **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-tables-from-files?u=76281980&t=37)** So one of the things that we can do is we can actually pop over to the [[SQL]] Editor right here.
 >
 > **[0:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/creating-tables-from-files?u=76281980&t=43)** And what I can do is I can actually create a new query here that will create the table for us.
 >
@@ -1650,7 +1630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), api (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dbfs (3), api (2), csv (2), sql (1), nba (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Code Identifiers:** height_weight (2), hive_metastore (1)
@@ -1659,8 +1639,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
 
-#### Querying external data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980)
+#### [Querying external data sources](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1674,9 +1653,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=23)** So this is probably one of the easier ways to get started with querying external resources is you could put some items inside of blob storage and you could then integrate that directly into your upload.
 >
-> **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=37)** Now, another thing you could do as well is you could have things in different databases like Cassandra, Snowflake System, JDBC, Kafka, Elastic Search, MongoDB Postgres, MySQL, even the DBFS itself.
+> **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=37)** Now, another thing you could do as well is you could have things in different [[Databases]] like Cassandra, [[Snowflake]] System, [[Java Database Connectivity (JDBC)|JDBC]], Kafka, Elastic Search, [[MongoDB]] [[PostgreSQL|Postgres]], [[MySQL]], even the DBFS itself.
 >
-> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=55)** And now you also can talk to other sources as well, and including Google Drive, you could look at Salesforce.
+> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=55)** And now you also can talk to other sources as well, and including [[Google Drive]], you could look at Salesforce.
 >
 > **[1:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=66)** So there's a lot of different ways that we can actually add things inside from external sources.
 >
@@ -1694,7 +1673,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=99)** There's also BI and visualization as well.
 >
-> **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=104)** There's sources for data preparation, transformation machine learning, so Dataiku Label Box, we got security, we have data governance.
+> **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=104)** There's sources for [[Data Preparation]], transformation machine learning, so Dataiku Label Box, we got security, we have [[Data Governance]].
 >
 > **[1:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=114)** So there's a bunch of different ways that you can connect these external data sources as well.
 >
@@ -1704,18 +1683,17 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=128)** So really there's a rich set of resources to pull all this into your Databricks system.
 >
-> **[2:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=134)** And of course, you can use all of the existing interfaces like creating a new notebook or querying that directly inside of your SQL editor, or even going right into machine learning immediately when you have that data and running an auto mail experiment.
+> **[2:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-external-data-sources?u=76281980&t=134)** And of course, you can use all of the existing interfaces like creating a new notebook or querying that directly inside of your [[SQL]] editor, or even going right into machine learning immediately when you have that data and running an auto mail experiment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Databases]] (1), [[Snowflake]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Snowflake]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[MongoDB]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** dbfs (2), jdbc (1), sql (1)
 > **CLI Commands:** mysql (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inspecting tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/inspecting-tables?u=76281980)
+#### [Inspecting tables](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/inspecting-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1727,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/inspecting-tables?u=76281980&t=92)** Now, this is a nice thing you can do as well in inspecting data, is you can actually add comments.
 >
-> **[1:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/inspecting-tables?u=76281980&t=97)** For example, we could say this is in LVs, for example, and then we could potentially add another statement that says this is in inches, right, some kind of metadata that lets us later figure out more information about this, and we could even add some things like, for example, "we don't need this".
+> **[1:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/inspecting-tables?u=76281980&t=97)** For example, we could say this is in LVs, for example, and then we could potentially add another statement that says this is in inches, right, some kind of [[Metadata]] that lets us later figure out more information about this, and we could even add some things like, for example, "we don't need this".
 >
 > **[2:04](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/inspecting-tables?u=76281980&t=124)** And this would allow us to annotate and inspect what's happening.
 >
@@ -1767,31 +1745,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Metadata]] (3)
+> **Frameworks & Libraries:** [[Metadata]] (3)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (4)
 > **Code Identifiers:** hive_metastore (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reliable data pipelines with Delta Lake
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980)
+#### [Reliable data pipelines with Delta Lake](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=5)** - [Instructor] There are some severe challenges with traditional ETL, or Extract, Transform, and Load.
 >
-> **[0:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=12)** They have complex pipeline development, there is a lack of data quality often because of the mixture of data sources.
+> **[0:12](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=12)** They have complex pipeline development, there is a lack of [[Data Quality]] often because of the mixture of data sources.
 >
-> **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=20)** Also, there's manual end-to-end testing, this can cause a lot of issues in terms of getting releases out.
+> **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=20)** Also, there's manual [[End-to-end Testing]], this can cause a lot of issues in terms of getting releases out.
 >
-> **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=27)** There's also inflexible stream versus batch processing, and it's time-consuming to manage the system.
+> **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=27)** There's also inflexible stream versus [[Batch Processing]], and it's time-consuming to manage the system.
 >
 > **[0:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=35)** So it's a good idea to have some of these problems solved with newer technology.
 >
 > **[0:41](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=41)** And if we take a look at the Delta Live Tables, automated intelligent ETL, we have some new changes.
 >
-> **[0:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=48)** One of them is that it's declarative, so you can use SQL, you can use Python pipelines.
+> **[0:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=48)** One of them is that it's declarative, so you can use [[SQL]], you can use [[Python (Programming Language)|Python]] pipelines.
 >
 > **[0:53](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=53)** There's also built-in data quality checks, there are automated error-handling, also continuous and batch modes.
 >
@@ -1799,11 +1776,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=74)** And finally, there's a simplified deployment model.
 >
-> **[1:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=77)** So the five steps to implement Delta Live Tables are automated, scalable data ingestion, also powerful distributed data transformation, declarative data quality controls, automated deployment and lineage tracking, and then built-in scheduling and notifications.
+> **[1:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=77)** So the five steps to implement Delta Live Tables are automated, scalable [[Data Ingestion]], also powerful distributed [[Data Transformation]], declarative data quality controls, automated deployment and lineage tracking, and then built-in scheduling and notifications.
 >
 > **[1:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=95)** So at the end you get these five key benefits here.
 >
-> **[1:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=98)** You get a faster development pipeline, you have also reliable data pipelines, greater efficiency, and then flexibility across streams and batches, and then end-to-end pipeline visibility.
+> **[1:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=98)** You get a faster development pipeline, you have also reliable [[Data Pipelines]], greater efficiency, and then flexibility across streams and batches, and then end-to-end pipeline visibility.
 >
 > **[1:49](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/reliable-data-pipelines-with-delta-lake?u=76281980&t=109)** So really it's an enhancement over a traditional Delta Lake in that you have the ability to do things like time traveling, you have the ability to actually make these really automated changes.
 >
@@ -1811,14 +1788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), etl (2), [[End-to-end Testing]] (1), [[Batch Processing]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[End-to-end Testing]] (1), [[Batch Processing]] (1), [[SQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** etl (2), sql (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### ACID transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980)
+#### [ACID transactions](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1840,11 +1816,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=34)** With Consistency, any Delta Lake transaction would take the database from one valid state to another valid state, for example.
 >
-> **[0:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=43)** We also see this with traditional SQL systems, in terms of related data.
+> **[0:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=43)** We also see this with traditional [[SQL]] systems, in terms of related data.
 >
 > **[0:49](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=49)** So for example, the tables, they're going to be kept consistent after the transaction.
 >
-> **[0:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=54)** This is very different than no SQL databases, which have eventual consistency.
+> **[0:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=54)** This is very different than no SQL [[Databases]], which have eventual consistency.
 >
 > **[1:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=60)** There is Isolation as well with ACID transactions.
 >
@@ -1858,29 +1834,28 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=86)** Also, the committed data will never be lost.
 >
-> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=89)** So some of the benefits include data integrity across batch and streaming.
+> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=89)** So some of the benefits include [[Data Integrity]] across batch and streaming.
 >
 > **[1:34](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=94)** You also have the ability to query consistency with snapshots, and there's fault tolerance because you can have durable logs.
 >
 > **[1:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=103)** Finally, you have reliable data delivery.
 >
-> **[1:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=106)** So it's really the highest standard, in terms of data quality, is to have the ability to do ACID transactions.
+> **[1:46](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=106)** So it's really the highest standard, in terms of [[Data Quality]], is to have the ability to do ACID transactions.
 >
-> **[1:52](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=112)** There's some things you lose by it, for example, the scalability aspects are limited because of that consistency.
+> **[1:52](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=112)** There's some things you lose by it, for example, the [[Scalability]] aspects are limited because of that consistency.
 >
 > **[1:59](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/acid-transactions?u=76281980&t=119)** But in terms of data quality, ACID is really the gold standard.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (2), database (1), [[Databases]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Quality]] (2), [[Databases]] (1), [[Data Integrity]] (1), [[Scalability]] (1)
 > **Env Vars:** acid (4), sql (2)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (1), stands for (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Z-ordering optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980)
+#### [Z-ordering optimization](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,9 +1863,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=6)** This is an important technique for Delta Lake, and it collates related information in the same set of files.
 >
-> **[0:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=13)** So this co-locality is automatically used by Delta Lake on Databricks' data skipping algorithms, and this means that it can dramatically reduce the amount of data that Delta Lake on Databricks needs to read.
+> **[0:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=13)** So this co-locality is automatically used by Delta Lake on Databricks' data skipping [[Algorithms]], and this means that it can dramatically reduce the amount of data that Delta Lake on Databricks needs to read.
 >
-> **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=27)** So if we take a look at this SQL query here, you can specify the columns to order in the Z-order by clause.
+> **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=27)** So if we take a look at this [[SQL]] query here, you can specify the columns to order in the Z-order by clause.
 >
 > **[0:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=35)** So we see optimize events, where date, greater than or equal to, current timestamp interval, one day, and here we get into the magic.
 >
@@ -1908,7 +1883,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=95)** It also provides a major boost to skipping effectiveness, and you can specify the columns that you want to use the Z-order by.
 >
-> **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=104)** Also, the statistics are great as well because it gives you a configurable statistics collection and it defaults to the first 32 columns in the table schema.
+> **[1:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=104)** Also, the [[Statistics]] are great as well because it gives you a configurable statistics collection and it defaults to the first 32 columns in the table schema.
 >
 > **[1:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/z-ordering-optimization?u=76281980&t=114)** But you can customize it via the columns property, and you can avoid high cardinality textual columns.
 >
@@ -1928,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (2), [[Algorithms]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Algorithms]] (1), [[SQL]] (1)
 > **Definitions:** means that (2), is an  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -1938,8 +1913,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vacuuming and garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/vacuuming-and-garbage-collection?u=76281980)
+#### [Vacuuming and garbage collection](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/vacuuming-and-garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1973,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Env Vars:** optimize (1), create (1), table (1), using (1), select (1)
 > **SQL:** create table (1), select (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -2007,8 +1980,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980)
+#### [Table documentation](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2024,7 +1996,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=39)** You want to be able to programmatically interact with a table.
 >
-> **[0:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=44)** So what we can do is go to Create and go to SQL Query here.
+> **[0:44](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=44)** So what we can do is go to Create and go to [[SQL]] Query here.
 >
 > **[0:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=48)** And we can actually manipulate this by doing a SQL Query.
 >
@@ -2044,7 +2016,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=92)** In this case, I'm going to say "comments," so I'll add a comment to this and it will say maybe something different.
 >
-> **[1:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=99)** Say "Synthetic data on height/weight," right, "added By John."
+> **[1:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=99)** Say "Synthetic data on height/weight," right, "added By [[John the Ripper|John]]."
 >
 > **[1:54](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/table-documentation?u=76281980&t=114)** So we've got some comments here.
 >
@@ -2092,7 +2064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[John the Ripper|John]] (1)
 > **Env Vars:** sql (5), alter (1), table (1), set (1), describe (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -2100,8 +2072,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated pipelines with Delta Live Tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980)
+#### [Automated pipelines with Delta Live Tables](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2119,7 +2090,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=47)** You know, for example, your repo that's connected to your workstation, that could be a good a place to store your source code.
 >
-> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=55)** And then in terms of the destination, potentially the Unity Catalog.
+> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=55)** And then in terms of the destination, potentially the [[Unity]] Catalog.
 >
 > **[1:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=60)** And then in terms of compute, you would select what kind of compute cluster you would want to run.
 >
@@ -2161,13 +2132,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=151)** So, in your Development mode, you get things working, you could then toggle to Production mode, and then, finally, you could schedule this pipeline on some kind of an interval as well.
 >
-> **[2:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=163)** So there are a lot of features that make doing complex data pipelines fairly straightforward with the Delta Live Tables.
+> **[2:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=163)** So there are a lot of features that make doing complex [[Data Pipelines]] fairly straightforward with the Delta Live Tables.
 >
 > **[2:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/automated-pipelines-with-delta-live-tables?u=76281980&t=170)** And you can see here a pretty good overview of the basic features of Delta Live Tables.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (1), [[Unity]] (1), etl (1), api (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Data Pipelines]] (1)
 > **UI Navigation:** toggle (3), go to (1)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** make (2), find (1)
@@ -2176,8 +2147,7 @@ created: 2026-05-02
 > **Code Identifiers:** sales_order_clean (1)
 > **Warnings:** be aware (1)
 
-#### Delta Live Tables components
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980)
+#### [Delta Live Tables components](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,21 +2155,21 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=16)** If you see the differences here are that, let's say for example, in the silver zone, you're able to get the whole data pipeline observability functioning.
 >
-> **[0:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=25)** At the end of the gold zone, you're able to have automated deployments and operations, so MLOps or DataOps, and you're also able to orchestrate your data pipelines.
+> **[0:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=25)** At the end of the gold zone, you're able to have automated deployments and operations, so [[MLOps]] or DataOps, and you're also able to orchestrate your [[Data Pipelines]].
 >
-> **[0:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=36)** This leads to better results in SQL analytics and BI, AI and ML, and also data sharing.
+> **[0:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=36)** This leads to better results in [[SQL]] analytics and BI, AI and ML, and also [[Data Sharing]].
 >
-> **[0:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=43)** So if we walk through this diagram here, you can see that efficient data ingestion is a big component of Delta Live Tables.
+> **[0:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=43)** So if we walk through this diagram here, you can see that efficient [[Data Ingestion]] is a big component of Delta Live Tables.
 >
-> **[0:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=51)** The auto loader has incremental landing, and this is in the bronze layer and the ingestion from diverse sources like cloud storage or CDC or message buses, and you can load the data in a very simple way for the entire data team from SQL users to engineers.
+> **[0:51](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=51)** The auto loader has incremental landing, and this is in the bronze layer and the ingestion from diverse sources like [[Cloud Storage]] or CDC or message buses, and you can load the data in a very simple way for the entire data team from SQL users to engineers.
 >
-> **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=69)** Next step, we have intelligent data transformation, and this means streamlining architectures using streaming tables and views.
+> **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=69)** Next step, we have intelligent [[Data Transformation]], and this means streamlining architectures using streaming tables and views.
 >
 > **[1:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=76)** And this would have the ability to have quality enforcement, also flexible, continuous, or triggered pipeline execution, and you could leverage the performance optimizations of Spark structured streaming.
 >
-> **[1:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=90)** Next step, you have a simplified pipeline management, and this means handling orchestration, monitoring, failure, CICD, version control, autoscale your infrastructure, for example, with infrastructure as code, and also allowing the focus on business logic rather than just operations.
+> **[1:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=90)** Next step, you have a simplified pipeline management, and this means handling orchestration, monitoring, failure, CICD, [[Version Control]], autoscale your infrastructure, for example, with [[Infrastructure as code (IaC)|infrastructure as code]], and also allowing the focus on business logic rather than just operations.
 >
-> **[1:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=110)** And then with the Lakehouse platform integration, the Unity catalog is useful for data discovery, governance.
+> **[1:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=110)** And then with the Lakehouse platform integration, the [[Unity]] catalog is useful for data discovery, governance.
 >
 > **[1:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/delta-live-tables-components?u=76281980&t=118)** And then the Delta Lake is the reliable storage layer, and it works across multiple cloud environments.
 >
@@ -2211,14 +2181,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (2), cloud (2), next (2), business (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[MLOps]] (1), [[Data Pipelines]] (1), [[Data Sharing]] (1), [[Data Ingestion]] (1)
 > **Env Vars:** sql (2), cdc (1), cicd (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous vs. triggered pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980)
+#### [Continuous vs. triggered pipelines](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2230,7 +2199,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=21)** So streaming data, new inserts and updates are incrementally synced to target tables.
 >
-> **[0:28](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=28)** It also enables real-time ETL extract, transform, load, and also real-time analytics.
+> **[0:28](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=28)** It also enables [[Real-Time]] ETL [[Extract, Transform, Load (ETL)|extract, transform, load]], and also real-time analytics.
 >
 > **[0:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=35)** So the use cases for this would be a metrics dashboard.
 >
@@ -2242,7 +2211,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=53)** You could have a fraud detection system via this continuous pipeline.
 >
-> **[0:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=58)** Now, triggered pipelines are a little bit different in that the data is processed during scheduled windows instead of continuous.
+> **[0:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=58)** Now, triggered pipelines are a little bit different in that the data is processed during scheduled [[Windows]] instead of continuous.
 >
 > **[1:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/continuous-vs-triggered-pipelines?u=76281980&t=66)** So this means that, let's say, once per day you would do some operation and the windows can be scheduled via Cron schedules.
 >
@@ -2266,27 +2235,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (4), data (3), [[Windows]] (2), etl (1), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Windows]] (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Auto Loader
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980)
+#### [Configuring Auto Loader](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=8)** - [Instructor] The Auto Loader allows you to securely ingest data from external locations as long as you have the Unity Catalog.
+> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=8)** - [Instructor] The Auto Loader allows you to securely ingest data from external locations as long as you have the [[Unity]] Catalog.
 >
 > **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=16)** Here's some key talking points to be aware of.
 >
 > **[0:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=19)** First up, there is the source configuration.
 >
-> **[0:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=22)** This means support for cloud storage, the database, the messaging system.
+> **[0:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=22)** This means support for [[Cloud Storage]], the database, the messaging system.
 >
-> **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=27)** You can handle various data formats like JSON, Parquet, CSV, and also, there is credential management for secure connectivity.
+> **[0:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=27)** You can handle various data formats like [[JSON]], Parquet, CSV, and also, there is credential management for secure connectivity.
 >
 > **[0:36](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=36)** The incremental data loading is another important aspect because it persists the cursor state for each source, and you're only going to get the latest inserts and updates pulled in, and it's going to be a lot faster and efficient for full loads.
 >
@@ -2296,24 +2264,23 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=57)** You could also change into Delta for reliability as well.
 >
-> **[1:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=63)** In terms of monitoring, there are dashboards that can track the pipeline health.
+> **[1:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=63)** In terms of monitoring, there are [[Dashboards]] that can track the pipeline health.
 >
 > **[1:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=68)** You can get alerts.
 >
-> **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=69)** There's also de detailed debug logs as well, and then, in terms of scheduling, you can set schedules with crons or trigger or continuous execution, and then have built-in dependency management across jobs, so really straightforward here to build this kind of code.
+> **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=69)** There's also de detailed debug logs as well, and then, in terms of scheduling, you can set schedules with crons or trigger or continuous execution, and then have built-in [[Dependency Management]] across jobs, so really straightforward here to build this kind of code.
 >
-> **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=85)** You can see in Python, just a few lines, and then you're able to take advantage of the advanced capabilities of the Unity Catalog to manage that table.
+> **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-auto-loader?u=76281980&t=85)** You can see in [[Python (Programming Language)|Python]], just a few lines, and then you're able to take advantage of the advanced capabilities of the Unity Catalog to manage that table.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Unity]] (2), cloud (1), database (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Cloud Storage]] (1), [[JSON]] (1), [[Dashboards]] (1), [[Dependency Management]] (1)
 > **Env Vars:** json (1), csv (1)
 > **CLI Commands:** python (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying pipeline events
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980)
+#### [Querying pipeline events](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2323,7 +2290,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=26)** There are three different query parameters as well, including order_by, filter, and max_results.
 >
-> **[0:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=32)** And you can see this sample JSON payload that gives you some of those items.
+> **[0:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=32)** And you can see this sample [[JSON]] payload that gives you some of those items.
 >
 > **[0:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=37)** So in a nutshell, there are CRUD APIs for Delta live table pipelines.
 >
@@ -2339,20 +2306,19 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=73)** So the common capabilities are there's granular validation and error handling, structured request response, standard HTP codes, so it can work with many different languages.
 >
-> **[1:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=83)** And there's pagination support via tokens.
+> **[1:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=83)** And there's pagination support via [[Tokens]].
 >
 > **[1:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/querying-pipeline-events?u=76281980&t=86)** So this is easy to integrate into a customized CICD workflow and also build custom tooling and automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[JSON]] (1), [[Tokens]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Tokens]] (1)
 > **Env Vars:** api (3), dbfs (3), crud (2), json (1), acl (1)
 > **Code Identifiers:** order_by (1), max_results (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### End-to-end example of Delta Live Tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/end-to-end-example-of-delta-live-table?u=76281980)
+#### [End-to-end example of Delta Live Tables](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/end-to-end-example-of-delta-live-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2360,7 +2326,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/end-to-end-example-of-delta-live-table?u=76281980&t=14)** And notice that there are these initial components that show us what's happening.
 >
-> **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/end-to-end-example-of-delta-live-table?u=76281980&t=20)** So in terms of data quality, we can see that 100% of the code was written.
+> **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/end-to-end-example-of-delta-live-table?u=76281980&t=20)** So in terms of [[Data Quality]], we can see that 100% of the code was written.
 >
 > **[0:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/end-to-end-example-of-delta-live-table?u=76281980&t=25)** We we toggle down to the next section also 100%, 4,000 items.
 >
@@ -2390,7 +2356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), strengths (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2)
 > **UI Navigation:** toggle (2), go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
@@ -2400,8 +2366,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Orchestrating workloads with jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980)
+#### [Orchestrating workloads with jobs](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2439,15 +2404,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=88)** Now there are other things you can do beyond just a notebook, which is very useful.
 >
-> **[1:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=92)** You could point it to a Python script, which again, should live in a source code repo, but it could also live in Databricks workspace.
+> **[1:32](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=92)** You could point it to a [[Python (Programming Language)|Python]] script, which again, should live in a source code repo, but it could also live in Databricks workspace.
 >
-> **[1:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=100)** You could also build out a very sophisticated SQL query that did a bunch of different things in your organization.
+> **[1:40](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=100)** You could also build out a very sophisticated [[SQL]] query that did a bunch of different things in your organization.
 >
 > **[1:47](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=107)** Again, check that into a source code repo, or it could even point directly into a Databricks workspace, and you could actually save previous SQL queries and point to it.
 >
 > **[1:59](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=119)** A final thing that could be pointed out is that you also could have a JAR file.
 >
-> **[2:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=123)** So Java has the ability to have portable runtimes.
+> **[2:03](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=123)** So [[Java]] has the ability to have portable runtimes.
 >
 > **[2:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980&t=127)** You could create this JAR file, have it waiting there, ready to go, and that could do an ETL operation.
 >
@@ -2457,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (2), data (2), [[SQL]] (2), business (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** etl (2), sql (2), jar (2)
 > **Exercise Files:** source code (4)
 > **Analogies:** for example (2)
@@ -2466,8 +2431,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
 
-#### Databricks jobs demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980)
+#### [Databricks jobs demo](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2465,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=78)** And then from here we could look at the type.
 >
-> **[1:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=83)** So notice here, under Type, we have Notebooks, Python scripts, Python wheel, SQL, Delta Live Tables pipeline, dbt, JAR, Spark Submit, Run Job, If/else conditions.
+> **[1:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=83)** So notice here, under Type, we have Notebooks, [[Python (Programming Language)|Python]] scripts, Python wheel, [[SQL]], Delta Live Tables pipeline, dbt, JAR, Spark Submit, Run Job, If/else conditions.
 >
 > **[1:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=95)** And these, if/else could be really handy if you're going to, you know, do something that needed to wait for certain resources or there was a condition that you needed to match here.
 >
@@ -2511,9 +2475,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=110)** Now notice here, under Source, this is where you would also take a look at, you know, what is actually the source for your notebook?
 >
-> **[2:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=120)** Is it going to be in a Git provider?
+> **[2:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=120)** Is it going to be in a [[Git]] provider?
 >
-> **[2:02](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=122)** So GitLab, for example, or GitHub, Bitbucket, AWS CodeCommit, or is it going to be inside of the Databricks Workspace itself?
+> **[2:02](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=122)** So GitLab, for example, or [[GitHub]], [[Bitbucket]], AWS CodeCommit, or is it going to be inside of the Databricks Workspace itself?
 >
 > **[2:11](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/databricks-jobs-demo?u=76281980&t=131)** I think most mature organizations probably are going to be pointing to a Git provider here.
 >
@@ -2599,7 +2563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), data (3), [[Python (Programming Language)|Python]] (2), [[Engineering]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[GitHub]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** git (3), python (2), make (2), aws (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sql (1), jar (1), aws (1)
@@ -2608,8 +2572,7 @@ created: 2026-05-02
 > **Code Identifiers:** job_cluster (1)
 > **UI Navigation:** go to (1)
 
-#### Multitask workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multitask-workflows?u=76281980)
+#### [Multitask workflows](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multitask-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2637,7 +2600,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multitask-workflows?u=76281980&t=69)** I then point it to the job cluster, and I also have the ability to toggle between the different types here.
 >
-> **[1:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multitask-workflows?u=76281980&t=76)** So in this case, we're doing a notebook, but it could be a Python script, a JAR file.
+> **[1:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multitask-workflows?u=76281980&t=76)** So in this case, we're doing a notebook, but it could be a [[Python (Programming Language)|Python]] script, a JAR file.
 >
 > **[1:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/multitask-workflows?u=76281980&t=81)** It could be a Delta Live Tables pipeline.
 >
@@ -2645,7 +2608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** toggle (2)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** python (1)
@@ -2653,8 +2616,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Task dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/task-dependencies?u=76281980)
+#### [Task dependencies](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/task-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2690,15 +2652,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **UI Navigation:** toggle (1), go to (1)
 > **Warnings:** be careful (1), watch out (1)
 > **Env Vars:** gpu (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing job history
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/viewing-job-history?u=76281980)
+#### [Viewing job history](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/viewing-job-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2740,13 +2700,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (1), toggle (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980)
+#### [Using dashboards](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2760,11 +2718,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=30)** When you share a dashboard like this, what's nice about it is that you're able to give people up to date information with any interval that you're looking at, and you can also query and give them the ability, in human knowledge, to look at different ranges.
 >
-> **[0:49](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=49)** So they don't need to know SQL.
+> **[0:49](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=49)** So they don't need to know [[SQL]].
 >
 > **[0:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=50)** They don't have to actually know anything about writing code because they can toggle and search from different date ranges, or they can look at different zip codes themselves.
 >
-> **[1:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=60)** So this is very empowering, and it's a democratization of data science and data analytics.
+> **[1:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=60)** So this is very empowering, and it's a democratization of [[Data Science]] and data analytics.
 >
 > **[1:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/using-dashboards?u=76281980&t=67)** Now notice here as well that look, it says 5 minutes ago.
 >
@@ -2826,7 +2784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (4), [[Search]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Science]] (1)
 > **Env Vars:** sql (4), csv (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **Definitions:** is a  (3)
@@ -2835,8 +2793,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/handling-failures?u=76281980)
+#### [Handling failures](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/handling-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2864,7 +2821,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/handling-failures?u=76281980&t=66)** So if this job fails, let's go ahead and do some logic here that cleans things up, and even I could add a notification as well.
 >
-> **[1:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/handling-failures?u=76281980&t=74)** This notification could go to email, to Teams, PagerDuty, Slack, et cetera, and says, "Look, this thing actually failed.
+> **[1:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/handling-failures?u=76281980&t=74)** This notification could go to email, to Teams, PagerDuty, [[Slack]], et cetera, and says, "Look, this thing actually failed.
 >
 > **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/handling-failures?u=76281980&t=84)** I ran a cleanup job, but you should know about it."
 >
@@ -2878,15 +2835,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), next (1), teams (1), [[Slack]] (1), database (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring retries
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-retries?u=76281980)
+#### [Configuring retries](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/configuring-retries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2928,7 +2884,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), api (1), data (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -2939,22 +2894,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unified data access with Unity Catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980)
+#### [Unified data access with Unity Catalog](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=5)** - [Instructor] Databricks Unity Catalog provides centralized access control, auditing, lineage, and data discovery capabilities across not just one, but even multiple Databricks workspaces.
+> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=5)** - [Instructor] Databricks [[Unity]] Catalog provides centralized access control, auditing, lineage, and data discovery capabilities across not just one, but even multiple Databricks workspaces.
 >
-> **[0:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=19)** Let's take a look here first at this Unity Catalog where we have user management and metastore inside, and it's connecting to more than one Databricks workspace.
+> **[0:19](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=19)** Let's take a look here first at this Unity Catalog where we have [[User Management]] and metastore inside, and it's connecting to more than one Databricks workspace.
 >
-> **[0:31](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=31)** Inside, there is clusters, there are SQL warehouses, and the idea here is that you can define once, but secure everywhere.
+> **[0:31](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=31)** Inside, there is clusters, there are [[SQL]] warehouses, and the idea here is that you can define once, but secure everywhere.
 >
-> **[0:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=39)** And this allows for comprehensive data governance.
+> **[0:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=39)** And this allows for comprehensive [[Data Governance]].
 >
 > **[0:42](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=42)** Also, you can have a standards compliant security model, and this is based on ANSI SQL, and you can allow administrators to grant permissions in their existing data lake using a familiar syntax.
 >
-> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=55)** This means catalogs, databases, tables, and views.
+> **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=55)** This means catalogs, [[Databases]], tables, and views.
 >
 > **[0:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=58)** It also has built in auditing and lineage, so you can capture user level audit logs and data discovery.
 >
@@ -2962,7 +2916,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=77)** Next up, we have the Unity Catalog object model.
 >
-> **[1:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=82)** You can see that the metastore is the top level container for metadata.
+> **[1:22](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=82)** You can see that the metastore is the top level container for [[Metadata]].
 >
 > **[1:27](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=87)** It exposes a three level namespace, so catalog.schema.table organizes the data.
 >
@@ -2972,7 +2926,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=112)** Of course, you can create these tables and views in SQL, you can create them with the catalog explorer, and then finally, in the tables of views and volumes at the lowest level, this is where you would have governance for nontabular data.
 >
-> **[2:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=127)** So in a nutshell here, the five key characteristics of the Unity Catalog are the centralized metadata store, which would capture technical metadata, the unified access controls, which allow you to set fine-grain access controls using SQL, the data lineage tracking, right, data governance, auto capture, and end-to-end lineage at query time, the discovery and organization, so searchable catalog for easy discovery of data, and also using browser and REST APIs.
+> **[2:07](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=127)** So in a nutshell here, the five key characteristics of the Unity Catalog are the centralized metadata store, which would capture technical metadata, the unified access controls, which allow you to set fine-grain access controls using SQL, the [[Data Lineage]] tracking, right, data governance, auto capture, and end-to-end lineage at query time, the discovery and organization, so searchable catalog for easy discovery of data, and also using browser and [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[2:38](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980&t=158)** And then finally, it's multi-cloud friendly.
 >
@@ -2980,21 +2934,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Unity]] (4), [[SQL]] (4), [[Metadata]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Unity]] (4), [[SQL]] (4), [[Metadata]] (3), [[Data Governance]] (2), [[User Management]] (1)
 > **Env Vars:** sql (4), ansi (1), rest (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Catalogs vs. metastores
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980)
+#### [Catalogs vs. metastores](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=8)** - [Narrator] Databricks Unity Catalog has many different components, but let's take a look at first the catalog itself versus the metastore.
+> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=8)** - [Narrator] Databricks [[Unity]] Catalog has many different components, but let's take a look at first the catalog itself versus the metastore.
 >
 > **[0:17](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=17)** There are some key differences.
 >
-> **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=20)** First, the metastore is the top level logical container for metadata.
+> **[0:20](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=20)** First, the metastore is the top level logical container for [[Metadata]].
 >
 > **[0:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=26)** It stores information about data assets like tables or models, and it also defines the namespace hierarchy of catalog.
 >
@@ -3012,19 +2965,18 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=78)** The metastore contains all the metadata for catalogs and data assets, and the catalogs help group data objects based on apps, teams, and more.
 >
-> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=89)** So in a nutshell, a metastore is the overarching metadata store and root data governance layer in Unity Catalog, and catalogs provide the first-level organization and boundaries within the metastore metadata.
+> **[1:29](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/catalogs-vs-metastores?u=76281980&t=89)** So in a nutshell, a metastore is the overarching metadata store and root [[Data Governance]] layer in Unity Catalog, and catalogs provide the first-level organization and boundaries within the metastore metadata.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Metadata]] (4), [[Unity]] (2), teams (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Unity]] (2), [[Data Governance]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Unity Catalog quick start with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980)
+#### [Unity Catalog quick start with Python](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=5)** - [Instructor] Let's take a look at how to do a Unity catalog quick start in pure Python here.
+> **[0:05](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=5)** - [Instructor] Let's take a look at how to do a [[Unity]] catalog quick start in pure [[Python (Programming Language)|Python]] here.
 >
 > **[0:11](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=11)** The key overview is that we're going to look at the workspace setup.
 >
@@ -3032,7 +2984,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=21)** It's got to also support the runtime, like 11.3 or higher.
 >
-> **[0:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=26)** And then you're going to do a catalog creation, a schema creation, table management, security best practice, and then metadata discovery.
+> **[0:26](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=26)** And then you're going to do a catalog creation, a schema creation, table management, security best practice, and then [[Metadata]] discovery.
 >
 > **[0:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=35)** So one of the things you can do when you look at a notebook like this is actually go over to the table of contents.
 >
@@ -3040,7 +2992,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=55)** So here we go, here's some documentation.
 >
-> **[0:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=58)** And then we have the actual code, which is going to say, create a catalog, then create a managed schema, which is the database, create a managed table, and then use the Unity catalog in the Pandas API on Spark, right?
+> **[0:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=58)** And then we have the actual code, which is going to say, create a catalog, then create a managed schema, which is the database, create a managed table, and then use the Unity catalog in the [[Pandas (Software)|Pandas]] API on Spark, right?
 >
 > **[1:10](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=70)** So those are the key steps here.
 >
@@ -3052,7 +3004,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=83)** So pretty simple.
 >
-> **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=84)** Is a spark SQL statement that says Create catalog if it doesn't exist.
+> **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=84)** Is a spark [[SQL]] statement that says Create catalog if it doesn't exist.
 >
 > **[1:28](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=88)** And that's a quick start catalog.
 >
@@ -3084,7 +3036,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=155)** And what's nice is that there's a Pandas API available for Spark.
 >
-> **[2:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=159)** And so you would import pyspark.pandas as ps.
+> **[2:39](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=159)** And so you would import [[PySpark]].pandas as ps.
 >
 > **[2:43](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unity-catalog-quick-start-with-python?u=76281980&t=163)** So instead of doing import pandas as pd, you would say import pyspark.pandas as ps.
 >
@@ -3098,7 +3050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Unity]] (4), [[Python (Programming Language)|Python]] (3), next (3), database (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Unity]] (4), [[Python (Programming Language)|Python]] (3), [[PySpark]] (2), [[Metadata]] (1)
 > **CLI Commands:** python (3), find (1)
 > **Env Vars:** api (2), sql (1)
 > **UI Navigation:** toggle (2), go to (1)
@@ -3107,12 +3059,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Prerequisites:** setup (1)
 
-#### Applying object security
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980)
+#### [Applying object security](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=9)** - [Narrator] Applying object security best practices with the Unity Catalog system involves several characteristics.
+> **[0:09](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=9)** - [Narrator] Applying object security best practices with the [[Unity]] Catalog system involves several characteristics.
 >
 > **[0:16](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=16)** First, we have leveraging access control lists, or ACLs.
 >
@@ -3134,23 +3085,22 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=85)** You would also revoke access once the purpose is served rather than letting it accumulate, and you also review policies on a regular basis for relevance.
 >
-> **[1:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=95)** So to wrap this up, the key benefits with this best practice technique is, you would enhance the data security and compliance, you'd avoid unnecessary broad access by leveraging precise ACLs, and you're going to control a blast radius if credentials or policies are compromised because you've only given people the privileges they are necessary to have.
+> **[1:35](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=95)** So to wrap this up, the key benefits with this best practice technique is, you would enhance the [[Data Security]] and compliance, you'd avoid unnecessary broad access by leveraging precise ACLs, and you're going to control a blast radius if credentials or policies are compromised because you've only given people the privileges they are necessary to have.
 >
 > **[1:58](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/applying-object-security?u=76281980&t=118)** If you have admin privileges, you could have a huge security problem because everybody has access to everything.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (2), [[Unity]] (1), database (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Data Security]] (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Best practices for catalogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980)
+#### [Best practices for catalogs](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=8)** - [Instructor] Here are some best practices for catalogs with the Databricks Unity Catalog system.
+> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=8)** - [Instructor] Here are some best practices for catalogs with the Databricks [[Unity]] Catalog system.
 >
 > **[0:14](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=14)** First up, you want to create a separate catalog for loose coupling.
 >
@@ -3166,13 +3116,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=41)** If we go to map to domains, this means aligning the catalog boundaries with business domains or applications.
 >
-> **[0:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=48)** A good example of this would be a catalog for marketing analytics, maybe a catalog for HR, maybe a catalog for monitoring the observability of a data pipeline.
+> **[0:48](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=48)** A good example of this would be a catalog for [[Marketing Analytics]], maybe a catalog for HR, maybe a catalog for monitoring the observability of a data pipeline.
 >
 > **[1:00](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=60)** And then finally, you would want to have the security policy and governance as well as a component of that catalog, so you're able to really drill down into a particular domain and understand exactly what's happening.
 >
 > **[1:15](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=75)** Finally, with the security, if you look at the security policy per catalog, this means creating access control groups and roles specific to a catalog.
 >
-> **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=84)** Also, fine tuning the read write, and you'd want to grant those independently.
+> **[1:24](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=84)** Also, [[Fine Tuning]] the read write, and you'd want to grant those independently.
 >
 > **[1:30](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-catalogs?u=76281980&t=90)** So in many scenarios, you'd only want to read, for example, to a dashboard.
 >
@@ -3184,15 +3134,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), business (2), [[Unity]] (1), teams (1), [[Marketing Analytics]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Marketing Analytics]] (1), [[Fine Tuning]] (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-connections?u=76281980)
+#### [Best practices for connections](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3216,17 +3165,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), teams (1), [[Security]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for business units
-> [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980)
+#### [Best practices for business units](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=8)** - [Instructor] Here we have Databricks Unity Catalog Business Unit Best Practices.
+> **[0:08](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=8)** - [Instructor] Here we have Databricks [[Unity]] Catalog Business Unit Best Practices.
 >
 > **[0:13](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=13)** First up, you want to provide a dedicated sandbox for each of your business units.
 >
@@ -3248,7 +3195,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=97)** Now, if we get into discoverability, this is another one that's important, is you need a meaningful naming convention like glossaries.
 >
-> **[1:45](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=105)** You also want to do metadata best practices as well.
+> **[1:45](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=105)** You also want to do [[Metadata]] best practices as well.
 >
 > **[1:50](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/best-practices-for-business-units?u=76281980&t=110)** So that includes logically structuring catalogs and folders and assets, making a meaningful hierarchy, and then also have collaboration across different units.
 >
@@ -3262,7 +3209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (4), [[Unity]] (1), [[Security]] (1), product (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Metadata]] (1)
 > **Speakers:** - [instructor] (1)
 
 

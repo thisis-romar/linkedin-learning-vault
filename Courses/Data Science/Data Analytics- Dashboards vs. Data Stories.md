@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose the right format for your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980)
+#### [Choose the right format for your data](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980&t=30)** In this course, you'll discover how to choose the right format to make your data heard.
 >
-> **[0:36](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980&t=36)** You'll explore how dashboards help users interact with data to uncover insights, how stories communicate those insights with impact, and how combining both creates a powerful cycle of understanding and action.
+> **[0:36](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980&t=36)** You'll explore how [[Dashboards]] help users interact with data to uncover insights, how stories communicate those insights with impact, and how combining both creates a powerful cycle of understanding and action.
 >
 > **[0:53](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980&t=53)** By the end, you'll know how to move beyond simply analyzing numbers to creating experiences that help others explore, interpret, and act on data with confidence.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), career (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 
 
@@ -102,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explain why businesses want insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980)
+#### [Explain why businesses want insights](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980&t=114)** When you can understand what businesses want and frame data to answer those needs, you become more than a number cruncher.
 >
-> **[2:03](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980&t=123)** You become a partner in decision-making.
+> **[2:03](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980&t=123)** You become a partner in [[Decision-Making]].
 >
 > **[2:06](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980&t=126)** I encourage you to listen closely for these asks in your own work.
 >
@@ -163,12 +161,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (2), next (2), traffic (1), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** picture (1), for example (1)
 
-#### Solve the problem of unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980)
+#### [Solve the problem of unstructured data](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,11 +203,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=80)** Or imagine preparing a sales dashboard.
 >
-> **[1:23](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=83)** Half your regions report “USD,” while the rest say just “$.”
+> **[1:23](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=83)** Half your regions report “USD,” while the [[Representational State Transfer (REST)|rest]] say just “$.”
 >
 > **[1:29](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=89)** Unless that inconsistency is fixed, the dashboard shows inflated totals, and suddenly a leader thinks revenue doubled when it didn't.
 >
-> **[1:40](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=100)** Unstructured data doesn't just cause confusion.
+> **[1:40](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=100)** [[Unstructured Data]] doesn't just cause confusion.
 >
 > **[1:44](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=104)** It costs money and time.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=118)** That's because structure is the foundation of analytics.
 >
-> **[2:02](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=122)** Without it, dashboards are incomplete, reports mislead, and businesses risk making the wrong moves.
+> **[2:02](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=122)** Without it, [[Dashboards]] are incomplete, reports mislead, and businesses risk making the wrong moves.
 >
 > **[2:11](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/solve-the-problem-of-unstructured-data-30269053?u=76281980&t=131)** Picture a marketing team presenting campaign results.
 >
@@ -242,13 +239,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1), [[Unstructured Data]] (1), [[Analytics]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Unstructured Data]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dob (1), usd (1)
 > **Analogies:** imagine (1), picture (1)
 
-#### Define the role of a data analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/define-the-role-of-a-data-analyst-30266054?u=76281980)
+#### [Define the role of a data analyst](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/define-the-role-of-a-data-analyst-30266054?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/define-the-role-of-a-data-analyst-30266054?u=76281980&t=95)** By reframing, you save time and deliver something useful.
 >
-> **[1:40](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/define-the-role-of-a-data-analyst-30266054?u=76281980&t=100)** Analysts use tools like Excel, SQL, Power BI, and Python, but tools are just the means, not the end.
+> **[1:40](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/define-the-role-of-a-data-analyst-30266054?u=76281980&t=100)** Analysts use tools like [[Microsoft Excel|Excel]], [[SQL]], [[Microsoft Power BI|Power BI]], and [[Python (Programming Language)|Python]], but tools are just the means, not the end.
 >
 > **[1:51](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/define-the-role-of-a-data-analyst-30266054?u=76281980&t=111)** The real value comes from interpreting results and communicating them clearly.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (2), business (1), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[SQL]] (1), [[Microsoft Power BI|Power bi]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
@@ -340,8 +336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design dashboards for stakeholder needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980)
+#### [Design dashboards for stakeholder needs](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,13 +358,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=34)** Marketing teams track which campaigns drive leads.
 >
-> **[0:38](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=38)** Regional managers zoom in on performance by territory.
+> **[0:38](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=38)** Regional managers [[Zoom]] in on performance by territory.
 >
 > **[0:43](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=43)** A dashboard works when it's designed for the people using it, highlighting the metrics that matter most for their decisions.
 >
 > **[0:50](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=50)** Let's look at an example of how a dashboard brings these different perspectives together in one view.
 >
-> **[0:57](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=57)** This dashboard was built in Power BI, and it provides a comprehensive overview of marketing and sales in the year 2024 for the fictional company Comsale Incorporated.
+> **[0:57](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=57)** This dashboard was built in [[Microsoft Power BI|Power BI]], and it provides a comprehensive overview of marketing and sales in the year 2024 for the fictional company Comsale Incorporated.
 >
 > **[1:09](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=69)** Each section of the dashboard has been thoughtfully designed to deliver meaningful insights to professionals.
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=113)** On the bottom left, the dashboard features a detailed breakdown by product, showcasing how each product performed in terms of sales and conversions.
 >
-> **[2:04](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=124)** For those seeking more granular insights, a table is provided to filter data by city and marketing strategy.
+> **[2:04](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=124)** For those seeking more granular insights, a table is provided to filter data by city and [[Marketing Strategy]].
 >
 > **[2:12](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=132)** This section is especially useful for drilling down into specific campaigns or geographic areas.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=183)** Conversions. Leads.
 >
-> **[3:05](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=185)** Dashboards succeed when they start with people, not visuals.
+> **[3:05](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=185)** [[Dashboards]] succeed when they start with people, not visuals.
 >
 > **[3:10](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980&t=190)** Now that you know how to align dashboards with stakeholder needs, I encourage you to ask your next audience, “What do you need this dashboard to help you decide?”
 >
@@ -413,13 +408,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), teams (3), product (3), [[Dashboards]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Zoom]] (1), [[Microsoft Power BI|Power bi]] (1), [[Marketing Strategy]] (1)
 > **Analogies:** picture (1), similar to (1), such as (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 
-#### Optimize dashboard layout and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980)
+#### [Optimize dashboard layout and filters](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,13 +435,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=35)** They give different audiences the ability to view the same dataset from their own perspective.
 >
-> **[0:42](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=42)** Executives can zoom out to see overall performance, while managers can filter by product, region, or time frame to answer more specific questions.
+> **[0:42](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=42)** Executives can [[Zoom]] out to see overall performance, while managers can filter by product, region, or time frame to answer more specific questions.
 >
-> **[0:52](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=52)** When these interactive features are missing or poorly designed, your audience has to dig through raw data or bounce between multiple dashboards just to find one answer.
+> **[0:52](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=52)** When these interactive features are missing or poorly designed, your audience has to dig through raw data or bounce between multiple [[Dashboards]] just to find one answer.
 >
 > **[1:05](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=65)** But when filters are clear and easy to use, the dashboard becomes a tool for discovery.
 >
-> **[1:12](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=72)** Here is a sample dashboard built inside of Power BI, a popular business intelligence tool.
+> **[1:12](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=72)** Here is a sample dashboard built inside of [[Microsoft Power BI|Power BI]], a popular [[Business Intelligence (BI)|business intelligence]] tool.
 >
 > **[1:20](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/optimize-dashboard-layout-and-filters-30267072?u=76281980&t=80)** This dashboard is an example that any business-level leader can acquire the insights they need to review and follow up.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Zoom]] (2), product (1), [[Dashboards]] (1), power (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Dashboards]] (1), [[Microsoft Power BI|Power bi]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is an  (1)
@@ -501,8 +495,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a compelling narrative
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/build-a-compelling-narrative-30264065?u=76281980)
+#### [Build a compelling narrative](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/build-a-compelling-narrative-30264065?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,12 +597,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (3), traffic (3), business (1), teams (1)
 > **Analogies:** for example (3), just like (1), imagine (1)
 > **Prerequisites:** setup (2)
 
-#### Visualize data with purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980)
+#### [Visualize data with purpose](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=14)** Every chart should exist to answer a question or prove a point.
 >
-> **[0:20](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=20)** In data storytelling, visuals are not decoration-- they're evidence.
+> **[0:20](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=20)** In [[Data Storytelling]], visuals are not decoration-- they're evidence.
 >
 > **[0:26](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=26)** In this lesson, you'll see how to choose visuals that help identify problems, clarify what the data is showing, and provide evidence for your findings.
 >
@@ -643,7 +634,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=104)** This helps me emphasize that my campaigns are largely effective.
 >
-> **[1:49](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=109)** The second visual zooms in on email marketing ROI, which shows a 21% loss, clearly identifying it as a problem area.
+> **[1:49](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=109)** The second visual zooms in on [[Email Marketing]] ROI, which shows a 21% loss, clearly identifying it as a problem area.
 >
 > **[2:00](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=120)** Finally, the trend chart reveals a sharp decline in engagement and conversions during November and December, confirming the issue visually.
 >
@@ -655,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=156)** That's the power of using visuals with purpose.
 >
-> **[2:40](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=160)** When creating your own dashboards or presentations, remember, not every visual tells the full story.
+> **[2:40](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=160)** When creating your own [[Dashboards]] or presentations, remember, not every visual tells the full story.
 >
 > **[2:48](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/visualize-data-with-purpose-30270061?u=76281980&t=168)** Some exist to uncover the issue and set the stage for what comes next.
 >
@@ -663,13 +654,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Data Storytelling]] (1), power (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Analogies:** imagine (1)
 
-#### Conclude with insights and action
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/conclude-with-insights-and-action-30268063?u=76281980)
+#### [Conclude with insights and action](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/conclude-with-insights-and-action-30268063?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,7 +717,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/conclude-with-insights-and-action-30268063?u=76281980&t=164)** I keep them focused, actionable, and tied directly to the insights I've just shared.
 >
-> **[2:51](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/conclude-with-insights-and-action-30268063?u=76281980&t=171)** In this case, I recommend ending the email marketing channel and reallocating that budget to stronger performers.
+> **[2:51](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/conclude-with-insights-and-action-30268063?u=76281980&t=171)** In this case, I recommend ending the [[Email Marketing]] channel and reallocating that budget to stronger performers.
 >
 > **[2:59](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/conclude-with-insights-and-action-30268063?u=76281980&t=179)** Based on projections, that shift could generate an additional $57,000 in revenue.
 >
@@ -751,7 +741,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (5), generic (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 
@@ -760,8 +749,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decide between a dashboard and a story
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980)
+#### [Decide between a dashboard and a story](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980&t=5)** Or told a great story in a presentation and someone asked, “Can you show me the data?”
 >
-> **[0:11](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980&t=11)** That happens because dashboards and data stories serve two different but equally important purposes.
+> **[0:11](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980&t=11)** That happens because [[Dashboards]] and data stories serve two different but equally important purposes.
 >
 > **[0:19](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980&t=19)** In this lesson, you'll see how to decide which format to use depending on your goal, audience, and context.
 >
@@ -829,13 +817,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Dashboards]] (3), next (2)
+> **Frameworks & Libraries:** [[Dashboards]] (3)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 
-#### Integrate dashboards and data stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980)
+#### [Integrate dashboards and data stories](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=3)** Now comes the question: How do you bring it all together?
 >
-> **[0:08](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=8)** Dashboards help you explore data, and data stories help you explain what's happening.
+> **[0:08](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=8)** [[Dashboards]] help you explore data, and data stories help you explain what's happening.
 >
 > **[0:14](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=14)** But when you combine these two parts, that's where data truly drives action.
 >
@@ -867,9 +854,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=56)** Return to the dashboard to measure results and refine your approach.
 >
-> **[1:01](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=61)** For example, a data analyst might use Power BI to identify key trends.
+> **[1:01](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=61)** For example, a data analyst might use [[Microsoft Power BI|Power BI]] to identify key trends.
 >
-> **[1:07](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=67)** Then share the story behind them through PowerPoint or teams.
+> **[1:07](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=67)** Then share the story behind them through [[Microsoft PowerPoint|PowerPoint]] or teams.
 >
 > **[1:12](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=72)** As new data arrives each quarter, they revisit the dashboard, reassess the narrative, and fine-tune the message.
 >
@@ -877,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=89)** The story doesn't always have to live outside the dashboard.
 >
-> **[1:33](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=93)** You can embed storytelling directly into visuals using clear labels, annotations, and concise written insights.
+> **[1:33](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=93)** You can embed [[Storytelling]] directly into visuals using clear labels, annotations, and concise written insights.
 >
 > **[1:43](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/integrate-dashboards-and-data-stories-30273062?u=76281980&t=103)** Adding a note such as “Notice the spike in March from product promotion” or using color to highlight key trends helps your audience see not just what the data shows, but why it matters.
 >
@@ -907,7 +894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (7), data (7), power (1), bi (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (7), [[Microsoft Power BI|Power bi]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Storytelling]] (1)
 > **Analogies:** for example (1), such as (1)
 
 
@@ -915,8 +902,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share insights confidently
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980)
+#### [Share insights confidently](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +910,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=5)** In this course, you've seen how to make that happen by choosing the right format to make your data heard.
 >
-> **[0:11](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=11)** You explored why insights matter, how dashboards reveal meaning, and how stories inspire action.
+> **[0:11](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=11)** You explored why insights matter, how [[Dashboards]] reveal meaning, and how stories inspire action.
 >
 > **[0:19](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=19)** Then you discovered how to combine both into a continuous cycle of exploration, communication, and improvement.
 >
@@ -934,13 +920,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=38)** You are guiding, understanding, and shaping decisions.
 >
-> **[0:42](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=42)** For further learning on dashboards and data stories, I recommend checking out this Microsoft Learning module on building dashboards in Power BI.
+> **[0:42](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=42)** For further learning on dashboards and data stories, I recommend checking out this [[Microsoft]] Learning module on building dashboards in [[Microsoft Power BI|Power BI]].
 >
 > **[0:51](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=51)** It's a great way to get started with creating your own dashboards.
 >
-> **[0:55](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=55)** Canva also has a YouTube channel with excellent resources on data storytelling such as this video.
+> **[0:55](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=55)** [[Canva]] also has a YouTube channel with excellent resources on [[Data Storytelling]] such as this video.
 >
-> **[1:03](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=63)** Finally, connect with me on LinkedIn.
+> **[1:03](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=63)** Finally, connect with me on [[LinkedIn]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980&t=66)** I love to hear about your data journey and how this course helped you grow.
 >
@@ -950,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (4), [[Microsoft]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft]] (1), [[Microsoft Power BI|Power bi]] (1), [[Canva]] (1), [[Data Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 

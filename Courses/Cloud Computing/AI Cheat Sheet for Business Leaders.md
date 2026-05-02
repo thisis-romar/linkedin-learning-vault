@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,12 +108,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - are (1)
 
-#### What business leaders really need to know about AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-business-leaders-really-need-to-know-about-ai?u=76281980)
+#### [What business leaders really need to know about AI](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-business-leaders-really-need-to-know-about-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -172,7 +169,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), business (2), [[Automation]] (1), leadership (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
@@ -184,8 +180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What we mean by AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980)
+#### [What we mean by AI](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=90)** They've learned from thousands of observations.
 >
-> **[1:33](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=93)** Next up is generative AI, the creative soul of the bunch.
+> **[1:33](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=93)** Next up is [[Generative AI]], the creative soul of the bunch.
 >
 > **[1:38](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=98)** Think of a chef who's mastered the classics and now creates original dishes, combining ingredients in new ways.
 >
@@ -251,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=161)** They're particularly good at maths and science right now, but you may find some other uses.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=167)** And finally, we've got autonomous AI agents.
+> **[2:47](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=167)** And finally, we've got autonomous [[AI Agents]].
 >
 > **[2:51](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=171)** They're currently the new kids on the block.
 >
@@ -263,7 +258,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=190)** So let's look at how each of these might tackle a customer service challenge.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=196)** Rules-based systems can handle simple routing.
+> **[3:16](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=196)** Rules-based systems can handle simple [[Routing]].
 >
 > **[3:19](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980&t=199)** If someone mentions refund, then send them to the returns department.
 >
@@ -287,15 +282,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Generative AI]] (5), next (2), [[Security]] (1), hit (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[AI Agents]] (1), [[Routing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is an  (1)
 > **Code Identifiers:** degrasse (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - you (1)
 
-#### The AI adoption journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980)
+#### [The AI adoption journey](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=46)** So, internally, people are using it to summarize meetings, to proofread documents, and to do dull stuff.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=52)** Externally, they're developing things like banking chatbots to handle routine queries, automated data entry, and basic process automation.
+> **[0:52](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=52)** Externally, they're developing things like [[Banking]] chatbots to handle routine queries, automated data entry, and basic process automation.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=61)** These are a great start, but they're just the beginning.
 >
@@ -345,11 +339,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=125)** Here are some examples of companies who are pushing on to stage two.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=130)** Morgan Stanley equipped their financial advisors with AI that analyzes vast amounts of financial data and research, and the result?
+> **[2:10](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=130)** Morgan Stanley equipped their financial advisors with AI that analyzes vast amounts of [[Financial Data]] and research, and the result?
 >
 > **[2:19](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=139)** Well, their advisors now spend less time gathering data and more time developing sophisticated investment strategies.
 >
-> **[2:28](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=148)** GitHub's Copilot helps developers write code faster, turning good programmers into great ones by handling the routine aspects of coding while letting them focus on architecture and innovation.
+> **[2:28](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=148)** [[GitHub]]'s [[Microsoft Copilot|Copilot]] helps developers write code faster, turning good programmers into great ones by handling the routine aspects of coding while letting them focus on architecture and innovation.
 >
 > **[2:41](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/the-ai-adoption-journey?u=76281980&t=161)** But the real breakthroughs happen in stage three.
 >
@@ -389,15 +383,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (2), [[Banking]] (1), [[Automation]] (1), next (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Financial Data]] (1), [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** think of it as (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** mrna (1)
 > **Tools:** github (1)
 > **Speakers:** - most (1)
 
-#### AI that fits your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980)
+#### [AI that fits your business](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=104)** Look at Walmart's approach to grocery operations.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=107)** Their foundation is operational excellence, so their AI focuses on predicting customer purchasing patterns and making smart substitutions when items are out of stock.
+> **[1:47](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=107)** Their foundation is [[Operational Excellence]], so their AI focuses on predicting customer purchasing patterns and making smart substitutions when items are out of stock.
 >
 > **[1:59](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=119)** They've even merged their grocery pickup into their main shopping app so that they can benefit from unified data insights.
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=164)** Users can upload photos of their rooms for AI processing into 3D models.
 >
-> **[2:50](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=170)** The system uses computer vision to remove existing furniture from photos, and they've recently expanded with an AI assistant for personalized recommendations.
+> **[2:50](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=170)** The system uses [[Computer Vision]] to remove existing furniture from photos, and they've recently expanded with an AI assistant for personalized recommendations.
 >
 > **[3:00](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=180)** Timing matters too.
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=188)** They implemented AI when the technology, the data, and the medical knowledge converged.
 >
-> **[3:15](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=195)** Using natural language processing to interpret clinical notes and research papers, they've reduced diagnosis time from weeks to hours.
+> **[3:15](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=195)** Using [[Natural Language Processing (NLP)|natural language processing]] to interpret clinical notes and research papers, they've reduced diagnosis time from weeks to hours.
 >
 > **[3:24](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-that-fits-your-business?u=76281980&t=204)** And finally we've got scale, good AI investments are like good wine, they get better with time.
 >
@@ -485,13 +478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (6), data (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), next (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Operational Excellence]] (1), [[Computer Vision]] (1)
 > **Env Vars:** fits (1), asml (1), ibm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - this (1)
 
-#### AI is about humans
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980)
+#### [AI is about humans](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,13 +551,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=162)** This means that the path forward isn't about competing with AI, it's about developing our uniquely human strengths, cultivate judgment over just knowledge, develop wisdom over just intelligence, build relationships over mere transactions, create understanding over just information.
 >
-> **[3:03](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=183)** Because in a world of artificial intelligence, human intelligence becomes more valuable, not less.
+> **[3:03](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=183)** Because in a world of [[Artificial Intelligence (AI)|artificial intelligence]], human intelligence becomes more valuable, not less.
 >
 > **[3:11](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=191)** Our supposed weaknesses, our emotions, our intuition, our ability to wrestle with ambiguity, these aren't bugs in the system.
 >
 > **[3:19](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=199)** They're features, they're our superpowers.
 >
-> **[3:22](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=202)** The future belongs to those who embrace what makes them uniquely human and to the companies that understand the value in that, even if it means that someone occasionally burns some toast and sets off the fire alarm, evacuating the office three times.
+> **[3:22](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=202)** The future belongs to those who embrace what makes them uniquely human and to the companies that understand the value in that, even if it means that someone occasionally burns some toast and sets off the fire alarm, evacuating the [[Microsoft Office|office]] three times.
 >
 > **[3:40](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-is-about-humans?u=76281980&t=220)** That was me.
 >
@@ -573,14 +565,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (2), strengths (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2)
 > **Analogies:** imagine (1), it's like (1)
 > **Speakers:** - imagine (1)
 
-#### AI offers adequacy, humans offer excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-offers-adequacy-humans-offer-excellence?u=76281980)
+#### [AI offers adequacy, humans offer excellence](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/ai-offers-adequacy-humans-offer-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,18 +693,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), teams (2), [[Debugging]] (1), data (1), prompt (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** stride (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - today (1)
 
-#### What tasks are AI good at?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980)
+#### [What tasks are AI good at?](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=0)** - If you want to transform your organization's AI strategy, just ask your teams two simple questions.
+> **[0:00](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=0)** - If you want to transform your organization's [[AI Strategy]], just ask your teams two simple questions.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=7)** What tasks make them groan and what ones make their eyes light up?
 >
@@ -735,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=53)** These are the tasks your people want to spend more time on because they're of value both to them and the organization and AI can add significant value to a lot of these.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=64)** We're talking tasks like innovation that could be accelerated with AI insights, customer relationships that could be deepened with better information, strategy development that could be transformed with predictive analytics.
+> **[1:04](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=64)** We're talking tasks like innovation that could be accelerated with AI insights, customer relationships that could be deepened with better information, strategy development that could be transformed with [[Predictive Analytics]].
 >
 > **[1:18](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=78)** In the context of these tasks, your AI approach becomes clear, minimize the drains and amplify the gains.
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=124)** Take your operations teams, for instance.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=127)** Their drains often include manual data processing, routine quality checks, and churning out standard reports.
+> **[2:07](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=127)** Their drains often include manual [[Data Processing]], routine quality checks, and churning out standard reports.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=135)** But their potential gains, that's where it gets exciting.
 >
@@ -765,7 +754,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=146)** Or look at customer service.
 >
-> **[2:27](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=147)** Their drains might include handling basic inquiries, routing tickets, and entering data, but their gains could be revolutionary.
+> **[2:27](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=147)** Their drains might include handling basic inquiries, [[Routing]] tickets, and entering data, but their gains could be revolutionary.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-tasks-are-ai-good-at?u=76281980&t=157)** Solving complex problems more effectively, building deeper customer relationships, innovating new service approaches.
 >
@@ -811,13 +800,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), teams (7), data (4), [[Predictive Analytics]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[AI Strategy]] (1), [[Predictive Analytics]] (1), [[Data Processing]] (1), [[Routing]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - if (1)
 
-#### Accountability and responsibility for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980)
+#### [Accountability and responsibility for AI](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=45)** Then there's AI-enhanced automation, which is just like basic automation, except some of the steps in the process involve AI.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=54)** Finally, we're seeing AI agents emerge, systems that can plan and act with increasing autonomy.
+> **[0:54](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=54)** Finally, we're seeing [[AI Agents]] emerge, systems that can plan and act with increasing autonomy.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=63)** But as the stakes go up, and AI is involved in increasingly business critical work, you need more human involvement, not less.
 >
@@ -863,7 +851,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=98)** Now we're talking about more complex decisions where judgment matters.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=102)** Think customer service responses or content creation.
+> **[1:42](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=102)** Think customer service responses or [[Content Creation]].
 >
 > **[1:46](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/accountability-and-responsibility-for-ai?u=76281980&t=106)** Here, AI leads the way, but humans need to monitor and guide.
 >
@@ -915,12 +903,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Automation]] (7), business (1), [[Content Creation]] (1), traffic (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Content Creation]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - here (1)
 
-#### Assign the right AI leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980)
+#### [Assign the right AI leader](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +915,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=8)** After all, AI is technology, right?
 >
-> **[0:12](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=12)** Well, while technology expertise matters, successful AI implementation isn't about who knows the most about neural networks.
+> **[0:12](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=12)** Well, while technology expertise matters, successful AI implementation isn't about who knows the most about [[Neural Networks]].
 >
 > **[0:21](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=21)** It's about who can bridge the gap between the technology's potential and human adoption.
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=127)** This means creating psychological safety where people can express concerns.
 >
-> **[2:12](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=132)** It means ensuring responsible AI use.
+> **[2:12](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=132)** It means ensuring [[Responsible AI]] use.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/assign-the-right-ai-leader?u=76281980&t=135)** It means bringing people along on the journey rather than pushing them into it.
 >
@@ -998,13 +985,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), leadership (4), business (2), [[Neural Networks]] (1), express (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - when (1)
 
-#### Choosing the right AI platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980)
+#### [Choosing the right AI platforms](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1012,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=39)** You can make your own choice based on your preferences.
 >
-> **[0:43](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=43)** This is a bit like choosing from the selection of specialized AI tools, ChatGPT, Midjourney, Runway, et cetera.
+> **[0:43](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=43)** This is a bit like choosing from the selection of specialized AI tools, [[ChatGPT]], [[Midjourney]], Runway, et cetera.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=50)** They're off the shelf and most of them are really good.
 >
@@ -1054,7 +1040,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=110)** Others need tight control.
 >
-> **[1:52](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=112)** Healthcare, banking, defense, you might need that custom kitchen.
+> **[1:52](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=112)** Healthcare, [[Banking]], defense, you might need that custom kitchen.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/choosing-the-right-ai-platforms?u=76281980&t=118)** What about competitive advantage? Now, be honest here.
 >
@@ -1086,13 +1072,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (4), next (1), [[ChatGPT]] (1), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Midjourney]] (1), [[Banking]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - if (1)
 
-#### Creating AI guidelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980)
+#### [Creating AI guidelines](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1093,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=29)** Here's a simple rule.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=31)** If you wouldn't post it on LinkedIn, don't put it into AI.
+> **[0:31](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=31)** If you wouldn't post it on [[LinkedIn]], don't put it into AI.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=35)** Company financials, customer lists, trade secrets, they all stay in house and those confidential documents, well, it's best to treat AI tools like you're sitting in a crowded coffee shop full of nosy snoopers.
 >
@@ -1116,7 +1101,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=52)** It's just good data practice.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=54)** It's never a good idea to upload sensitive information to a server that you've got no control over, and that's exactly what you're doing when you're uploading information to a publicly accessible AI tool like ChatGPT.
+> **[0:54](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=54)** It's never a good idea to upload sensitive information to a server that you've got no control over, and that's exactly what you're doing when you're uploading information to a publicly accessible AI tool like [[ChatGPT]].
 >
 > **[1:08](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/creating-ai-guidelines?u=76281980&t=68)** Focusing on the no-nos is where most companies stop with their recommendation guidelines, because they see this exercise as a way of adding iron plating to the back of their trousers.
 >
@@ -1188,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), prompt (3), [[LinkedIn]] (1), data (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[ChatGPT]] (1)
 > **UI Navigation:** go to (2)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you need to have (1)
@@ -1199,20 +1184,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=0)** - Well done you.
 >
-> **[0:01](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=1)** We've covered significant ground in our exploration of AI for leadership, from understanding the journey beyond basic cost-cutting through to discovering new possibilities.
+> **[0:01](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=1)** We've covered significant ground in our exploration of [[AI for Leadership]], from understanding the journey beyond basic cost-cutting through to discovering new possibilities.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=12)** We've built a practical foundation for making smart AI decisions and remember that it's not humans or AI, it's about how they work together to do better work than ever before.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=25)** If you want a reminder of the frameworks and exercises that I covered in the course, make sure you download the PDF, and if you want to dive deeper into AI, you can see a list of my LinkedIn learning courses by clicking on my profile image somewhere near this video.
+> **[0:25](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=25)** If you want a reminder of the frameworks and exercises that I covered in the course, make sure you download the PDF, and if you want to dive deeper into AI, you can see a list of my [[LinkedIn]] learning courses by clicking on my profile image somewhere near this video.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=42)** I recommend starting with how to research and write using generative AI tools for a solid foundation or [[How to Boost Your Productivity with AI Tools]] if you want some prompts that will help you nudge the needle and don't just stick to my bag of LinkedIn learning courses, rummage around in the platform, and you'll find some other great AI courses by top thinkers in the field.
+> **[0:42](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=42)** I recommend starting with how to research and write using [[Generative AI Tools]] for a solid foundation or [[How to Boost Your Productivity with AI Tools]] if you want some prompts that will help you nudge the needle and don't just stick to my bag of LinkedIn learning courses, rummage around in the platform, and you'll find some other great AI courses by top thinkers in the field.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980&t=65)** Thank you for spending time with me.
 >
@@ -1230,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[LinkedIn]] (4), leadership (2), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** download the (1)

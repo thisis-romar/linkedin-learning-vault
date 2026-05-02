@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why dbatools?
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980)
+#### [Why dbatools?](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=0)** - Are you a database professional, Curious about how PowerShell can help make your life easier?
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=0)** - Are you a database professional, Curious about how [[Powershell]] can help make your life easier?
 >
 > **[0:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=5)** Have you maybe heard about the DBA tools module, but never had the time to get stuck in and really learn what it's all about?
 >
@@ -97,35 +96,34 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=13)** We'll find and download the module, explore the available commands, and figure out how we can use the Built-in help documentation to make using them easy.
 >
-> **[0:21](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=21)** Then we'll discuss key topics to improve how you administer your SQL server environments.
+> **[0:21](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=21)** Then we'll discuss key topics to improve how you administer your [[Microsoft SQL Server|SQL server]] environments.
 >
 > **[0:26](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=26)** My name's Jess Pomfret.
 >
-> **[0:27](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=27)** I've worked with SQL Server databases for over 10 years, and I'm a Microsoft MVP.
+> **[0:27](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=27)** I've worked with SQL Server [[Databases]] for over 10 years, and I'm a [[Microsoft]] MVP.
 >
 > **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=32)** I also love PowerShell and automation.
 >
 > **[0:35](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=35)** I've been a major contributor to the DBA Tools Project for several years now, and I can't wait to teach more people about it.
 >
-> **[0:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=41)** By the end, you'll be able to integrate DBA tools into how you manage SQL servers, and maybe you'll even be inspired to get involved and help build the next great DBA tools command.
+> **[0:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980&t=41)** By the end, you'll be able to integrate DBA tools into how you manage [[SQL]] servers, and maybe you'll even be inspired to get involved and help build the next great DBA tools command.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (2), database (1), [[Databases]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Microsoft]] (1), [[SQL]] (1)
 > **Env Vars:** dba (4), sql (3), mvp (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** powershell (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there are a few things that it would be good to know at least the basics of.
 >
-> **[0:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=5)** We're going to be using a GitHub repo that contains a dev container with not just all of our code, but two test SQL server instances inside.
+> **[0:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=5)** We're going to be using a [[GitHub]] repo that contains a dev container with not just all of our code, but two test [[Microsoft SQL Server|SQL server]] instances inside.
 >
 > **[0:13](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=13)** We'll cover how to get this all set up and working in the next video, but if you're already familiar with VSCode, that will be helpful.
 >
@@ -135,17 +133,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=25)** The fact that it's cross-platform means that you can follow along with this course no matter what your operating system of choice is.
 >
-> **[0:31](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=31)** There is also a LinkedIn Learning course that might be useful to review if you've not worked with it before.
+> **[0:31](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=31)** There is also a [[LinkedIn]] Learning course that might be useful to review if you've not worked with it before.
 >
 > **[0:35](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=35)** However, during this course, we'll cover all the features you'll need to know to be able to navigate around and execute the demo code in your own environment.
 >
-> **[0:43](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=43)** Otherwise, you just need to know some basic database administration concepts, as we'll be taking that knowledge and translating it into PowerShell with dbatools.
+> **[0:43](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=43)** Otherwise, you just need to know some basic [[Database Administration]] concepts, as we'll be taking that knowledge and translating it into [[Powershell]] with dbatools.
 >
-> **[0:50](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=50)** That includes topics like database backups and restores, SQL agent jobs, SQL logins, and generally, just how our SQL Server environment works.
+> **[0:50](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/what-you-should-know?u=76281980&t=50)** That includes topics like database backups and restores, [[SQL]] agent jobs, SQL logins, and generally, just how our SQL Server environment works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), cross-platform (2), [[SQL]] (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (2), [[GitHub]] (1), [[LinkedIn]] (1), [[Database Administration]] (1)
 > **Env Vars:** sql (4)
 > **Tools:** github (1), powershell (1)
 > **Definitions:** is a  (1), means that (1)
@@ -154,12 +152,11 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=0)** - [Instructor] As I mentioned, the demo environment for this course is contained in a GitHub repo.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=0)** - [Instructor] As I mentioned, the demo environment for this course is contained in a [[GitHub]] repo.
 >
 > **[0:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=4)** There are a few things you need to download and get set up on your machine in order for you to get started on these demos.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=14)** Once you have these tools installed you'll clone this repo down to your machine.
 >
-> **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=18)** First, open a PowerShell console and navigate to the folder you want to store the code repo in.
+> **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=18)** First, open a [[Powershell]] console and navigate to the folder you want to store the code repo in.
 >
 > **[0:23](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=23)** Here I'm navigating to C:\LinkedInLearning.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=30)** Press the code button and then click this copy button.
 >
-> **[0:34](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=34)** Back in our PowerShell console, we'll type git clone and paste in the URL.
+> **[0:34](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=34)** Back in our PowerShell console, we'll type [[Git]] clone and paste in the URL.
 >
 > **[0:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=41)** Navigate into the new folder that has been created by typing cd and then the folder name.
 >
@@ -201,13 +198,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=78)** If you don't get a popup or you miss it press control shift P to open the command palette.
 >
-> **[1:23](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=83)** You can also use F1 on windows.
+> **[1:23](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=83)** You can also use F1 on [[Windows]].
 >
 > **[1:25](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=85)** Once the command palette is open search for Remote Containers: Rebuild and Reopen.
 >
 > **[1:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=92)** Choose the Remote Containers: Rebuild and Reopen in a container option and the containers will start to download and your dev container will spin up.
 >
-> **[1:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=101)** Once the containers are downloaded and up and running you'll be able to run the core scripts against the two test SQL instances that are now up and running within the development environment.
+> **[1:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=101)** Once the containers are downloaded and up and running you'll be able to run the core scripts against the two test [[SQL]] instances that are now up and running within the development environment.
 >
 > **[1:49](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/setting-up-your-environment?u=76281980&t=109)** It's pretty neat.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[GitHub]] (2), [[Git]] (1), cd (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[GitHub]] (2), [[Git]] (1), [[Windows]] (1), [[SQL]] (1)
 > **Tools:** powershell (4), vs code (3), github (2), terminal (1)
 > **Env Vars:** url (2), sql (1)
 > **UI Navigation:** open the (2), navigate to (1)
@@ -241,22 +238,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing dbatools
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980)
+#### [Introducing dbatools](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=0)** - [Instructor] Have you ever dreamed of an easier way to manage your SQL Server estate?
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=0)** - [Instructor] Have you ever dreamed of an easier way to manage your [[Microsoft SQL Server|SQL Server]] estate?
 >
 > **[0:03](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=3)** Are you tired of clicking through GUIs for every instance, every database, or every job just to complete your morning checks?
 >
 > **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=9)** If so, follow us on this journey as we learn all about how dbatools can make your life easier.
 >
-> **[0:14](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=14)** Dbatools is an open source PowerShell module written and maintained by the community.
+> **[0:14](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=14)** Dbatools is an open source [[Powershell]] module written and maintained by the community.
 >
-> **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=18)** It was first created by Chrissy LeMaire back in 2014 when she needed to migrate some SharePoint instances, so she wrote a long PowerShell script to migrate all the pieces and parts to the new instance.
+> **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=18)** It was first created by Chrissy LeMaire back in 2014 when she needed to migrate some [[SharePoint]] instances, so she wrote a long PowerShell script to migrate all the pieces and parts to the new instance.
 >
-> **[0:28](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=28)** Chrissy was talking to some folks in 2015 about this project, and they convinced her how useful it was and that she should turn it into a module and put it up on GitHub.
+> **[0:28](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=28)** Chrissy was talking to some folks in 2015 about this project, and they convinced her how useful it was and that she should turn it into a module and put it up on [[GitHub]].
 >
 > **[0:35](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980&t=35)** This allowed people to contribute and use the code for their own migrations.
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Powershell]] (3), database (1), [[SharePoint]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Powershell]] (3), [[SharePoint]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (4)
 > **Tools:** powershell (3), github (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -298,12 +294,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and updating the module
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980)
+#### [Installing and updating the module](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=0)** - [Presenter] PowerShell includes a lot of functionality out of the box for you to use when automating and scripting administration tasks in your environment.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=0)** - [Presenter] [[Powershell]] includes a lot of functionality out of the box for you to use when automating and scripting administration tasks in your environment.
 >
 > **[0:07](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=7)** However, in my opinion, one of the biggest strengths of PowerShell is the ability to download and import modules to add even more functionality.
 >
@@ -311,9 +306,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=17)** dbatools is hosted on the PowerShell Gallery which is the central repository for sharing PowerShell modules.
 >
-> **[0:21](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=21)** The gallery is backed by Microsoft and you can find over 10,000 unique packages there.
+> **[0:21](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=21)** The gallery is backed by [[Microsoft]] and you can find over 10,000 unique packages there.
 >
-> **[0:26](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=26)** These packages include both Microsoft modules such as SQL Server, as well as community modules like dbatools.
+> **[0:26](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=26)** These packages include both Microsoft modules such as [[Microsoft SQL Server|SQL Server]], as well as community modules like dbatools.
 >
 > **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/installing-and-updating-the-module?u=76281980&t=32)** If you navigate to the gallery page for dbatools, you can see there is a load of information.
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft SQL Server|Sql server]] (3), management (3), [[Microsoft]] (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft]] (2)
 > **Tools:** powershell (9)
 > **Prerequisites:** install (9)
 > **CLI Commands:** find (5), make (1)
@@ -368,14 +363,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **UI Navigation:** navigate to (1)
 
-#### Find the command you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980)
+#### [Find the command you need](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=0)** - [Instructor] Remember when I told you there were over 650 different functions in DBA tools and you wondered how on earth will I find the command I need?
 >
-> **[0:07](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=7)** The good news is PowerShell and DBA tools have got you covered.
+> **[0:07](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=7)** The good news is [[Powershell]] and DBA tools have got you covered.
 >
 > **[0:10](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=10)** Let's take a look at some of the options we have available to us and find some useful commands to get started with.
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=45)** We can narrow down this list though by using a pattern.
 >
-> **[0:48](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=48)** Here, you can see I've used the word compression with a wildcard symbol either side.
+> **[0:48](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=48)** Here, you can see I've used the [[Microsoft Word|word]] compression with a wildcard symbol either side.
 >
 > **[0:53](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=53)** In the results, you can see that PowerShell has found us three commands relating to compression.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=90)** There is also a tag parameter that can be used with find-DBA Command if we pass in job for this parameter, we'll get a list of all the DBA tool commands that relate to jobs.
 >
-> **[1:39](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=99)** You can see there's quite a few commands that will help us get started managing our SQL Server agent jobs.
+> **[1:39](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=99)** You can see there's quite a few commands that will help us get started managing our [[Microsoft SQL Server|SQL Server]] agent jobs.
 >
 > **[1:44](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-the-command-you-need?u=76281980&t=104)** The two commands we've learned in this video are definitely worth keeping in front of your mind as you start using PowerShell more.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (6), next (3), [[Microsoft Word|Word]] (1), [[Search]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Microsoft Word|Word]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dba (11), set (1), sql (1)
 > **CLI Commands:** find (9)
 > **Tools:** powershell (6)
@@ -427,12 +421,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running your first command
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980)
+#### [Running your first command](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=0)** - [User] One of my favorite things about PowerShell is that it likes to teach you as you go.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=0)** - [User] One of my favorite things about [[Powershell]] is that it likes to teach you as you go.
 >
 > **[0:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=4)** We've already seen how it can help us find the commands we're going to need to use with GET command and Find-DBA command.
 >
@@ -446,13 +439,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=32)** Depending on the command, these descriptions can be quite detailed, explaining any calculations you use or knowledge and expertise that has gone into creating the command.
 >
-> **[0:40](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=40)** A great parameter to use if you're on a Windows machine is ShowWindow.
+> **[0:40](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=40)** A great parameter to use if you're on a [[Windows]] machine is ShowWindow.
 >
 > **[0:43](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=43)** This will open up a new window showing all of the help content for this command.
 >
 > **[0:47](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=47)** This is really useful because you can keep it open and refer back to it while you work on your scripts.
 >
-> **[0:52](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=52)** Now, we are running our demo environment within a Dev container, which is Linux-based, so the ShowWindow parameter won't work here unfortunately.
+> **[0:52](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=52)** Now, we are running our demo environment within a Dev container, which is [[Linux]]-based, so the ShowWindow parameter won't work here unfortunately.
 >
 > **[0:59](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=59)** Another good option and one that is supported for all the dbatools commands is to use the online parameter.
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=124)** Let's copy that example into our VS Code window and update the parameters for our environment.
 >
-> **[2:11](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=131)** Let's update the SqlInstance parameter to dbatools1, which is one of the SQL Server instances available in our Dev container.
+> **[2:11](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=131)** Let's update the SqlInstance parameter to dbatools1, which is one of the [[Microsoft SQL Server|SQL Server]] instances available in our Dev container.
 >
 > **[2:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/running-your-first-command?u=76281980&t=138)** When we execute this, we can see that dbatools goes out to our dbatools1 instance and investigates whether there are any compression gains to be enjoyed.
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), web (2), [[Microsoft SQL Server|Sql server]] (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (2), vs code (2)
 > **UI Navigation:** open the (2), scroll down (1), scroll up (1)
 > **CLI Commands:** find (3)
@@ -504,12 +497,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get a list of SQL Servers in your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980)
+#### [Get a list of SQL Servers in your environment](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=0)** - [Instructor] So when we talk about automating our SQL Server estate with DBA tools, the first step is to keep track of what our estate actually consists of.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=0)** - [Instructor] So when we talk about automating our [[Microsoft SQL Server|SQL Server]] estate with DBA tools, the first step is to keep track of what our estate actually consists of.
 >
 > **[0:07](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=7)** How many SQL server instances do we have?
 >
@@ -517,9 +509,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=11)** How do we connect to 'em?
 >
-> **[0:12](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=12)** Let's take a look at a few options here that will enable us to compile a list of servers that we can use throughout the rest of this series.
+> **[0:12](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=12)** Let's take a look at a few options here that will enable us to compile a list of servers that we can use throughout the [[Representational State Transfer (REST)|rest]] of this series.
 >
-> **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=18)** So first, let's assume you know about all the SQL servers in your estate.
+> **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=18)** So first, let's assume you know about all the [[SQL]] servers in your estate.
 >
 > **[0:22](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=22)** You're a good DBA so you keep track of them, and the people in your organization follow the rules.
 >
@@ -533,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=39)** No details, just a simple list.
 >
-> **[0:43](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=43)** We can pull that content into our PowerShell session to use with Get-Content.
+> **[0:43](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=43)** We can pull that content into our [[Powershell]] session to use with Get-Content.
 >
 > **[0:47](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=47)** Pretty straightforward and you can see our list of SQL Servers is returned.
 >
@@ -563,11 +555,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=117)** CSV processing is available natively within PowerShell using the import CSV and export CSV commands.
 >
-> **[2:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=124)** If you prefer Excel workbooks for your server list, there is a fantastic open source module called ImportExcel that allows you to read data into PowerShell from Excel and use that within your session.
+> **[2:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=124)** If you prefer [[Microsoft Excel|Excel]] workbooks for your server list, there is a fantastic open source module called ImportExcel that allows you to read data into PowerShell from Excel and use that within your session.
 >
 > **[2:14](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=134)** Now we are database folks.
 >
-> **[2:15](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=135)** We like databases.
+> **[2:15](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=135)** We like [[Databases]].
 >
 > **[2:17](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980&t=137)** So what if we keep our SQL instance list in a table within a database?
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (12), [[Microsoft SQL Server|Sql server]] (9), data (7), [[Powershell]] (5), database (4)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Microsoft SQL Server|Sql server]] (9), [[Powershell]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (21), dba (9), csv (7)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** powershell (5)
@@ -605,16 +597,15 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Get database status across your estate
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980)
+#### [Get database status across your estate](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=0)** - [Instructor] I like to describe DBATools as the command line version of SQL Server Management Studio.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=0)** - [Instructor] I like to describe DBATools as the command line version of [[Microsoft SQL Server|SQL Server]] Management Studio.
 >
 > **[0:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=4)** Tasks that you would usually complete in SSMS can also be completed in the console using DBATools.
 >
-> **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=9)** For example, checking on our databases and making sure they're all in a good state.
+> **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=9)** For example, checking on our [[Databases]] and making sure they're all in a good state.
 >
 > **[0:13](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=13)** Let's take a look at how we'd accomplish this now.
 >
@@ -676,7 +667,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=161)** This hash table is then passed into the command using this special "@" notation.
 >
-> **[2:45](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=165)** Let's run Get-DbaDatabase, passing in our Sql instances and see what we get by default.
+> **[2:45](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=165)** Let's run Get-DbaDatabase, passing in our [[SQL]] instances and see what we get by default.
 >
 > **[2:50](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-database-status-across-your-estate?u=76281980&t=170)** DBATools often has a default view set up for commands.
 >
@@ -698,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (3), management (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (1)
 > **Env Vars:** sql (3), ssms (1), tsql (1), select (1)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** command line (1), vs code (1)
@@ -707,16 +698,15 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Cross-References:** previous chapter (1)
 
-#### Check database last backup times
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980)
+#### [Check database last backup times](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=0)** - One of the most important tasks on the database administrator's morning checklist is to ensure all the databases are being backed up as expected, and that there have been no failures.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=0)** - One of the most important tasks on the database administrator's morning checklist is to ensure all the [[Databases]] are being backed up as expected, and that there have been no failures.
 >
 > **[0:08](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=8)** It should be no surprise at this point that DBA Tools can help with this task.
 >
-> **[0:12](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=12)** We all know the first step and that's to use find DBA command with the word backup to find a DBA tools command that can help.
+> **[0:12](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=12)** We all know the first step and that's to use find DBA command with the [[Microsoft Word|word]] backup to find a DBA tools command that can help.
 >
 > **[0:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=18)** There are a lot of results returned for this patent.
 >
@@ -728,9 +718,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=32)** Let's review, Get Help and look at the examples for running this command.
 >
-> **[0:37](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=37)** Example one is again the simplest option for us so let's copy that and replace the SQL instance name with DBA Tools One.
+> **[0:37](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=37)** Example one is again the simplest option for us so let's copy that and replace the [[SQL]] instance name with DBA Tools One.
 >
-> **[0:49](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=49)** Running that we can see all the backup history for our SQL server.
+> **[0:49](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=49)** Running that we can see all the backup history for our [[Microsoft SQL Server|SQL server]].
 >
 > **[0:52](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=52)** You can see the different types of backups, how big they were, and when they occurred.
 >
@@ -760,7 +750,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=111)** You can see we have a few that need a full backup.
 >
-> **[1:54](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=114)** Once again, DBA tools and PowerShell makes fixing this remarkably easy.
+> **[1:54](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=114)** Once again, DBA tools and [[Powershell]] makes fixing this remarkably easy.
 >
 > **[1:58](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/check-database-last-backup-times?u=76281980&t=118)** We can run that same command as before, filtered by date and then pipe that output into backup DBA database.
 >
@@ -772,21 +762,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (8), database (3), [[SQL]] (2), [[Microsoft Word|Word]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (8), [[SQL]] (2), [[Microsoft Word|Word]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Powershell]] (1)
 > **Env Vars:** dba (8), sql (3), msdb (1)
 > **CLI Commands:** find (3)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Get SQL Server patch levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980)
+#### [Get SQL Server patch levels](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=0)** - [Instructor] Keeping our SQL servers up to date is another important task as a DBA.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=0)** - [Instructor] Keeping our [[SQL]] servers up to date is another important task as a DBA.
 >
-> **[0:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=4)** Microsoft often releases security patches and hot fixes for the SQL server versions we have deployed in our estate.
+> **[0:04](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=4)** [[Microsoft]] often releases security patches and hot fixes for the [[Microsoft SQL Server|SQL server]] versions we have deployed in our estate.
 >
 > **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=9)** So for us to be as secure as possible, it's good to be up to date with applying those patches.
 >
@@ -848,7 +837,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=159)** If you have older SQL Server versions in your environment, this is a great tool for planning out which servers should be upgraded before they roll out of support.
 >
-> **[2:46](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=166)** The information returned by these commands is stored an A JSON file within the module.
+> **[2:46](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=166)** The information returned by these commands is stored an A [[JSON]] file within the module.
 >
 > **[2:50](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-sql-server-patch-levels?u=76281980&t=170)** If this is more than a month old, you'll see a warning that this information might be out of date.
 >
@@ -864,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft]] (2), [[Security]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft]] (2), [[JSON]] (2)
 > **Env Vars:** sql (13), dba (12), json (2), rtm (1)
 > **Versions:** version 15 (1), 16.0.900 (1)
 > **Definitions:** is a  (2)
@@ -872,12 +861,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review SQL Server Configuration Settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980)
+#### [Review SQL Server Configuration Settings](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=0)** - [Instructor] SQL Server has many configuration options available, and it's very likely, either from following best practices, or from experimentation in your own estate, a lot of these settings won't be set to the defaults.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] has many configuration options available, and it's very likely, either from following best practices, or from experimentation in your own estate, a lot of these settings won't be set to the defaults.
 >
 > **[0:10](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=10)** Let's take a look at what our configuration options are set to, how we can reconfigure our systems, and also how we can export and import settings.
 >
@@ -889,7 +877,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=32)** In this case, SpConfigure options.
 >
-> **[0:35](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=35)** Let's run Get-DbaSpConfigure for our SQL instances.
+> **[0:35](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=35)** Let's run Get-DbaSpConfigure for our [[SQL]] instances.
 >
 > **[0:38](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/review-sql-server-configuration-settings?u=76281980&t=38)** This will return all of the available configuration options, and I'm hoping this to format table, so it's a little easier to review.
 >
@@ -949,14 +937,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find failed SQL Agent jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980)
+#### [Find failed SQL Agent jobs](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=0)** - [Narrator] SQL agent jobs provide a way to schedule work to run against our SQL Server instances.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=0)** - [Narrator] [[SQL]] agent jobs provide a way to schedule work to run against our [[Microsoft SQL Server|SQL Server]] instances.
 >
-> **[0:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=5)** This includes DBA type jobs like backups and corruption checking as well as jobs for the business like data transformation or report creation.
+> **[0:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=5)** This includes DBA type jobs like backups and corruption checking as well as jobs for the business like [[Data Transformation]] or report creation.
 >
 > **[0:12](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=12)** There are a lot of reasons these jobs are important which is why another item on our DBA morning checklist is to ensure no jobs have failed.
 >
@@ -984,7 +971,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=78)** One thing to note on the last command I ran, I highlighted the OutVariable parameter.
 >
-> **[1:22](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=82)** This is a common parameter within PowerShell, meaning you can use it anywhere.
+> **[1:22](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=82)** This is a common parameter within [[Powershell]], meaning you can use it anywhere.
 >
 > **[1:26](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/find-failed-sql-agent-jobs?u=76281980&t=86)** Remembering how our pipeline works, objects are passed from the commands on the left through to the commands on the right.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), business (2), [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Data Transformation]] (1)
 > **Env Vars:** sql (7), ssms (3), dba (2), gui (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** powershell (2)
@@ -1040,8 +1027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set databases online or offline
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980)
+#### [Set databases online or offline](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=6)** This video will show us how to easily accomplish this with DBA tools.
 >
-> **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=9)** Let's use Get-DbaDatabase to start with, to view the databases we currently have on our DBA tools, one instance and their status.
+> **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=9)** Let's use Get-DbaDatabase to start with, to view the [[Databases]] we currently have on our DBA tools, one instance and their status.
 >
 > **[0:16](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=16)** You can see in the results there are three databases Northwind, pubs and databaseAdmin.
 >
@@ -1085,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=105)** This uses Get-DbaDbState, pipes that to a wear object to filter for just databases where the status is offline and then pipes that on to Set-DbaDbState to set them back online.
 >
-> **[1:56](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=116)** Remember, in PowerShell the output of one command flows through that pipeline to the right so we'll only be affecting the databases returned by Get-DbaDbState and then filtered.
+> **[1:56](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=116)** Remember, in [[Powershell]] the output of one command flows through that pipeline to the right so we'll only be affecting the databases returned by Get-DbaDbState and then filtered.
 >
 > **[2:06](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980&t=126)** One final check of Get-DbaDatabase and we can see all our databases are back online and ready for the next chapter.
 >
@@ -1093,7 +1079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (12), database (4), application (1), [[Powershell]] (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (12), [[Powershell]] (1)
 > **Env Vars:** dba (2)
 > **Cross-References:** in the last (1), next chapter (1)
 > **Code Identifiers:** databaseadmin (1)
@@ -1101,12 +1087,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
 
-#### Discover and apply recommended data compression levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/discover-and-apply-recommended-data-compression-levels?u=76281980)
+#### [Discover and apply recommended data compression levels](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/discover-and-apply-recommended-data-compression-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/discover-and-apply-recommended-data-compression-levels?u=76281980&t=0)** - [Instructor] Data compression is a fantastic SQL Server feature.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/discover-and-apply-recommended-data-compression-levels?u=76281980&t=0)** - [Instructor] Data compression is a fantastic [[Microsoft SQL Server|SQL Server]] feature.
 >
 > **[0:03](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/discover-and-apply-recommended-data-compression-levels?u=76281980&t=3)** It can not only help us to save space both on disk and in memory, this will then lead to increased performance.
 >
@@ -1198,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), [[Microsoft SQL Server|Sql server]] (3), feature (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (3), sp1 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -1206,12 +1191,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update database compatibility levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/update-database-compatibility-levels?u=76281980)
+#### [Update database compatibility levels](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/update-database-compatibility-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/update-database-compatibility-levels?u=76281980&t=0)** - New SQL Server versions come out every couple of years at this point, which means that it's a steady recurrence for a DBA to plan and execute and upgrade for our SQL Server databases.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/update-database-compatibility-levels?u=76281980&t=0)** - New [[Microsoft SQL Server|SQL Server]] versions come out every couple of years at this point, which means that it's a steady recurrence for a DBA to plan and execute and upgrade for our SQL Server [[Databases]].
 >
 > **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/update-database-compatibility-levels?u=76281980&t=9)** We're currently preparing for SQL Server 2022 to be generally available.
 >
@@ -1253,23 +1237,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), database (6), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (3)
 > **Env Vars:** sql (6), dba (6)
 > **Versions:** version 130 (2), version 150 (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - new (1)
 
-#### Insert data into SQL Server tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980)
+#### [Insert data into SQL Server tables](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=0)** - [Instructor] As data professionals, we like data in tables.
 >
-> **[0:03](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=3)** It's a great way of storing information we want to keep track of and quite often in the past, I've found myself generating data in PowerShell from some process and then wishing there was an easy way to just save that into a database table.
+> **[0:03](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=3)** It's a great way of storing information we want to keep track of and quite often in the past, I've found myself generating data in [[Powershell]] from some process and then wishing there was an easy way to just save that into a database table.
 >
-> **[0:14](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=14)** And now there is, Write-DbaDbTableData will take data we have in a PowerShell object and using SQL bulk copy, will insert it into our database table.
+> **[0:14](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=14)** And now there is, Write-DbaDbTableData will take data we have in a PowerShell object and using [[SQL]] bulk copy, will insert it into our database table.
 >
 > **[0:23](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=23)** For these examples, we're going to be writing data into the database admin database.
 >
@@ -1277,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=31)** Let's start with a simple example.
 >
-> **[0:33](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=33)** We've already used Get-DbaDatabase a few times, so we know that it gets information about databases in RSD.
+> **[0:33](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=33)** We've already used Get-DbaDatabase a few times, so we know that it gets information about [[Databases]] in RSD.
 >
 > **[0:39](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/insert-data-into-sql-server-tables?u=76281980&t=39)** I'm selecting just a few properties for now, the name, owner, status, and last full backup time.
 >
@@ -1327,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (8), [[Powershell]] (3), [[SQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** dba (2), csv (2), sql (1), rsd (1), ssms (1)
 > **Tools:** powershell (3)
 > **Definitions:** means that (1)
@@ -1339,12 +1322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Migrate whole instances with one line of code
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980)
+#### [Migrate whole instances with one line of code](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=0)** - [Instructor] I mentioned in the early videos how dbatools got its start as a way of migrating the SQL Server instances behind SharePoint from one server to another.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=0)** - [Instructor] I mentioned in the early videos how dbatools got its start as a way of migrating the [[Microsoft SQL Server|SQL Server]] instances behind [[SharePoint]] from one server to another.
 >
 > **[0:08](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=8)** This video is all about Start-DbaMigration and the magic that this one command can accomplish.
 >
@@ -1358,7 +1340,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=26)** This is my personal preference for some of the more complicated commands so I can keep that window open while I work through my examples.
 >
-> **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=32)** On Windows, running this would immediately open the web browser.
+> **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=32)** On [[Windows]], running this would immediately open the web browser.
 >
 > **[0:35](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=35)** But in our container we'll need to hold Ctrl and click the link returned.
 >
@@ -1372,11 +1354,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=61)** We're looking to migrate everything from the dbatools1 instance over to the dbatools2.
 >
-> **[1:06](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=66)** We're going to specify the backup restore method for how the databases should be migrated, and for that we need to provide a shared path that both the SQL Server Instant Service accounts have access to.
+> **[1:06](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=66)** We're going to specify the backup restore method for how the [[Databases]] should be migrated, and for that we need to provide a shared path that both the SQL Server Instant Service accounts have access to.
 >
 > **[1:15](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=75)** We've kicked off this migration and you'll see some information returned as it gets started.
 >
-> **[1:20](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=80)** There are a few warnings returned for items that could not be migrated due to the fact we're running in containers on Linux.
+> **[1:20](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=80)** There are a few warnings returned for items that could not be migrated due to the fact we're running in containers on [[Linux]].
 >
 > **[1:25](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=85)** For example, Copy DBA credential is only supported on Windows.
 >
@@ -1396,7 +1378,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=129)** We also have a list of logins that have been migrated.
 >
-> **[2:11](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=131)** This includes SQL logins, Windows users and Windows groups.
+> **[2:11](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=131)** This includes [[SQL]] logins, Windows users and Windows groups.
 >
 > **[2:15](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980&t=135)** If they already exist on the destination there will be a message that they have been skipped.
 >
@@ -1412,7 +1394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (2), web (2), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (2), [[SharePoint]] (1), [[Linux]] (1)
 > **Env Vars:** sql (3), dba (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** find (2)
@@ -1421,8 +1403,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple database migrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980)
+#### [Simple database migrations](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1411,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=7)** In the real world that's not always what we want and the beauty of how that start DBA Migration Command is written is that it's basically a rapid script around a whole bunch of copy commands.
 >
-> **[0:16](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=16)** Let's take a look at just migrating our databases with copy DBA database.
+> **[0:16](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=16)** Let's take a look at just migrating our [[Databases]] with copy DBA database.
 >
 > **[0:23](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=23)** The databases are usually the most complex part of our migrations and it makes sense.
 >
@@ -1446,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=53)** I'll specify the source and destination instances and set the old databases switch to True.
 >
-> **[1:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=60)** As for the migration method, we're going to use Backup Restore which requires a shared path that both SQL Server instances accounts have access to.
+> **[1:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=60)** As for the migration method, we're going to use Backup Restore which requires a shared path that both [[Microsoft SQL Server|SQL Server]] instances accounts have access to.
 >
 > **[1:07](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/simple-database-migrations?u=76281980&t=67)** As that runs, you'll see in the messaging that there are some backups happening and then some restores taking place.
 >
@@ -1484,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (14), database (8), data (2), next (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (14), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dba (16), sql (1)
 > **API Endpoints:** get  (2)
 > **Cross-References:** in the next (2)
@@ -1492,12 +1473,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [narrator] (1)
 
-#### More advanced database migrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980)
+#### [More advanced database migrations](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=0)** - [Instructor] Imagine if the databases you want to migrate are quite large, and the amount of time to back up and restore them is longer than the downtime window you have for your migration, what then?
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=0)** - [Instructor] Imagine if the [[Databases]] you want to migrate are quite large, and the amount of time to back up and restore them is longer than the downtime window you have for your migration, what then?
 >
 > **[0:09](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=9)** Well let's look at a way that we can still use copy DBA database, but we can pre-stage most of the data before the downtime window, ensuring we can complete our migration quickly and efficiently.
 >
@@ -1507,7 +1487,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=29)** Now, I said we were going to migrate big databases, but we can execute the same process with any database.
 >
-> **[0:34](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=34)** It'll just take longer for the first copy process if your databases are larger, the rest of the process will remain exactly the same.
+> **[0:34](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=34)** It'll just take longer for the first copy process if your databases are larger, the [[Representational State Transfer (REST)|rest]] of the process will remain exactly the same.
 >
 > **[0:41](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/more-advanced-database-migrations?u=76281980&t=41)** If you completed the previous video on simple database migrations, this code should look really similar.
 >
@@ -1571,25 +1551,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), [[Databases]] (6), data (4), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dba (21), lsn (1)
 > **Definitions:** means that (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrating logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980)
+#### [Migrating logins](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=0)** - [Instructor] Migrating databases will always be where most of our time is spent when planning migrations.
+> **[0:00](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=0)** - [Instructor] Migrating [[Databases]] will always be where most of our time is spent when planning migrations.
 >
 > **[0:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=5)** However, if we don't also migrate the logins, those databases won't be much good because our applications and users won't be able to connect to 'em.
 >
 > **[0:13](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=13)** DBATools can help us to migrate these logins and what's really useful is we can ensure both the password and the SID, which identifies each login are exactly the same on the destination sequence as they were on the source.
 >
-> **[0:25](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=25)** Running get-DBA login we can see a list of SQL logins, Windows logins and Windows groups that are currently on DBA tools One.
+> **[0:25](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=25)** Running get-DBA login we can see a list of [[SQL]] logins, [[Windows]] logins and Windows groups that are currently on DBA tools One.
 >
 > **[0:32](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=32)** Let's take a look at the database users for the North Wind database.
 >
@@ -1633,17 +1612,16 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=153)** Rerunning get-DBA DB Orphan User you can see that web user, no longer shows us being an orphan user and so it will now be able to connect successfully to our Migrated database.
 >
-> **[2:42](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=162)** Hopefully, you can see how much easier it is to use copy-DBA login rather than having to recreate those logins manually on the new SQL server.
+> **[2:42](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrating-logins?u=76281980&t=162)** Hopefully, you can see how much easier it is to use copy-DBA login rather than having to recreate those logins manually on the new [[Microsoft SQL Server|SQL server]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), web (4), [[Databases]] (2), [[Windows]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Windows]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dba (12), sql (2), sids (2), sid (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exporting documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980)
+#### [Exporting documentation](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1653,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=53)** So to save time, we can just skip over those.
 >
-> **[0:56](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=56)** As this runs, you can see in the console, the command is going through each instance and providing a bunch of SQL files, all containing important information about our environment.
+> **[0:56](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=56)** As this runs, you can see in the console, the command is going through each instance and providing a bunch of [[SQL]] files, all containing important information about our environment.
 >
 > **[1:05](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=65)** The command can take a little while to run, but you could easily schedule this off hours and let it just churn through creating documentation for you to review the next day.
 >
@@ -1685,7 +1663,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=89)** Looking at the first one, backupdevices, we can see that DBAtools has created the scripts needed to recreate any backup devices that are currently on the dbatools1 instance.
 >
-> **[1:40](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=100)** The databases.sql file contains the SQL required to restore the last backup chain for each database.
+> **[1:40](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=100)** The [[Databases]].sql file contains the SQL required to restore the last backup chain for each database.
 >
 > **[1:46](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/exporting-documentation?u=76281980&t=106)** You can see that for the Northwind database, we have a full backup to restore, a differential, and a couple of transaction logs.
 >
@@ -1725,7 +1703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (3), [[Databases]] (2), next (1), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (2)
 > **File Paths:** sp_configure.sql (2), databases.sql (1)
 > **Code Identifiers:** sp_configure (3)
 > **Env Vars:** sql (2), clr (1)
@@ -1739,8 +1717,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980)
+#### [Continue your learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1743,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980&t=45)** If you've enjoyed this course, please let me know, and if you've got questions, I'll be more than happy to try and answer them.
 >
-> **[0:51](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980&t=51)** The best places to find me are on Twitter and LinkedIn.
+> **[0:51](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980&t=51)** The best places to find me are on Twitter and [[LinkedIn]].
 >
 > **[0:53](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980&t=53)** Again, my name is Jess Pomfret.
 >
@@ -1774,7 +1751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [jess] (1)

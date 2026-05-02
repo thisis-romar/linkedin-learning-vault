@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a real-world AI app
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980)
+#### [Building a real-world AI app](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=9)** In this course, I'll show you the most common APIs from OpenAI required to get your application up and running in no time.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=19)** My name is Rodrigo Diaz Concha, and I'm a member of the Microsoft Regional Directors.
+> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=19)** My name is Rodrigo Diaz Concha, and I'm a member of the [[Microsoft]] Regional Directors.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980&t=24)** I've been building professional software solutions for more than 25 years.
 >
@@ -117,17 +116,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Speakers:** - [rodrigo] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=0)** - [Instructor] To get the most out of this training course, there are some knowledge prerequisites that you should have.
 >
-> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=7)** I'm going to use the Python programming language, so you should be comfortable reading and understanding basic Python code.
+> **[0:07](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=7)** I'm going to use the [[Python (Programming Language)|Python]] programming language, so you should be comfortable reading and understanding basic Python code.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=15)** Luckily, Python is quite easy to grasp and an excellent choice as a first programming language for non-technical people.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=32)** Don't worry, you don't need to be an expert in Docker, but you should understand its basic commands, such as Docker Image, Docker Build, and Docker Push.
 >
-> **[0:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=45)** In this course, I'm going to create an Azure container app for running the container with the web API.
+> **[0:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=45)** In this course, I'm going to create an [[Microsoft Azure|Azure]] container app for running the container with the web API.
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=52)** You should have at least basic knowledge of the Azure portal if you want to follow the same steps.
 >
@@ -145,19 +143,19 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=64)** However, if you prefer, you can use any other cloud platform to run the container.
 >
-> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=71)** Now, talking about the tools, there are many ways to install Python, but for this course, I'll be using the one from the Microsoft store.
+> **[1:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=71)** Now, talking about the tools, there are many ways to install Python, but for this course, I'll be using the one from the [[Microsoft]] store.
 >
 > **[1:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=81)** You can use any other installation method that you prefer.
 >
 > **[1:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=85)** I'm going to use Visual Studio Code as my primary development environment, but again, you can use any other tool.
 >
-> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=94)** Finally, I'm going to use Docker Desktop on my Windows machine to build and push a container image.
+> **[1:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=94)** Finally, I'm going to use Docker Desktop on my [[Windows]] machine to build and push a container image.
 >
 > **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-need-to-know?u=76281980&t=101)** Okay, now join me in the next video to understand the Kinder Logger project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (3), [[Programming]] (2), web (2), api (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (6), python (4)
 > **Tools:** azure portal (1), visual studio (1), docker desktop (1)
 > **Env Vars:** api (2)
@@ -166,8 +164,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you are going to build throughout this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980)
+#### [What you are going to build throughout this course](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,13 +188,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=78)** In Chapter 1, I'll manually provide the audio files from my WhatsApp account.
 >
-> **[1:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=84)** Here, we're going to use the Audio API for transcribing the audio files and the Chat Completions API for creating the JSON document that will be saved as a JSON file.
+> **[1:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=84)** Here, we're going to use the Audio API for transcribing the audio files and the Chat Completions API for creating the [[JSON]] document that will be saved as a JSON file.
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=98)** In Chapter 2, we're going to create a new assistant by using the Assistants API.
 >
 > **[1:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=104)** In Chapter 3, we're going to upload all the JSON files to the assistant.
 >
-> **[1:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=110)** In Chapter 4, we'll create a new web API by using FastAPI, and then we're going to containerize that web API and run it inside an Azure container app.
+> **[1:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=110)** In Chapter 4, we'll create a new web API by using FastAPI, and then we're going to containerize that web API and run it inside an [[Microsoft Azure|Azure]] container app.
 >
 > **[2:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/what-you-are-going-to-build-throughout-this-course?u=76281980&t=123)** In Chapter 5, we're going to use the Moderations API for filtering out dangerous content.
 >
@@ -209,14 +206,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[JSON]] (3), ai (2), web (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** api (6), json (3), gpt (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing the tools and development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980)
+#### [Preparing the tools and development environment](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,9 +220,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=5)** Let me show you where you can download the required software for this course.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=10)** First, we need Python.
+> **[0:10](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=10)** First, we need [[Python (Programming Language)|Python]].
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=12)** Since I'm using Windows, I can open the Microsoft Store app.
+> **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=12)** Since I'm using [[Windows]], I can open the [[Microsoft]] Store app.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/preparing-the-tools-and-development-environment?u=76281980&t=17)** Here, I can search for Python and install it.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Windows]] (2), [[Search]] (2), api (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Windows]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (3), find (2), docker (1)
 > **Tools:** visual studio (2), docker desktop (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1), [openai.com](https://openai.com) (1)
@@ -276,8 +272,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extracting rich information from audio messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980)
+#### [Extracting rich information from audio messages](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,19 +284,18 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=20)** In this part of the course, we're going to pull the words out of those audio files using the audio API.
 >
-> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=26)** After that, we'll use the Chat Completions API to make some JSON documents, which we'll upload later on.
+> **[0:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=26)** After that, we'll use the Chat Completions API to make some [[JSON]] documents, which we'll upload later on.
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980&t=35)** Okay, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** api (2), json (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the required library and preparing the code
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980)
+#### [Installing the required library and preparing the code](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=12)** This is a place that we are going to use for implementing the transcription logic.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=17)** So the first thing that you want to do is you need to install the OpenAI Python library.
+> **[0:17](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=17)** So the first thing that you want to do is you need to install the OpenAI [[Python (Programming Language)|Python]] library.
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/installing-the-required-library-and-preparing-the-code?u=76281980&t=23)** You can do that by executing pip install and then openai.
 >
@@ -343,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** openai_api_key (3), api (2)
 > **CLI Commands:** python (1), pip (1)
 > **Tools:** terminal (2)
@@ -352,8 +346,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Transcribing the audio files by using the Audio API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980)
+#### [Transcribing the audio files by using the Audio API](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,13 +414,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=183)** Awesome.
 >
-> **[3:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=184)** Let's test this by opening the terminal and let's execute Python and then transcription.py just to know if everything is working as expected.
+> **[3:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=184)** Let's test this by opening the terminal and let's execute [[Python (Programming Language)|Python]] and then transcription.py just to know if everything is working as expected.
 >
-> **[3:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=200)** Join me in the next video where we're going to use the transcription text to create a JSON file by using the chat completions API.
+> **[3:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/transcribing-the-audio-files-by-using-the-audio-api?u=76281980&t=200)** Join me in the next video where we're going to use the transcription text to create a [[JSON]] file by using the chat completions API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), ai (1), prompt (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Env Vars:** ogg (3), api (2), json (1)
 > **Analogies:** just like (1), such as (1), for instance (1)
 > **File Paths:** whatsapp_utils.py (1), transcription.py (1)
@@ -436,12 +429,11 @@ created: 2026-05-02
 > **Versions:** 0.2 (1)
 > **Cross-References:** in the next (1)
 
-#### Creating the JSON document using the Chat Completions API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980)
+#### [Creating the JSON document using the Chat Completions API](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=0)** - [Instructor] Our goal is to create one JSON file for each audio file transcription.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=0)** - [Instructor] Our goal is to create one [[JSON]] file for each audio file transcription.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=5)** We could create the JSON document with the current transcription text of course, however, the text is in Spanish.
 >
@@ -459,9 +451,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=49)** With the chat completion API, we can ask the large language model to perform any task or return any kind of information.
 >
-> **[0:58](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=58)** To get the most out of large language models, such as the open AI ones, we should specify clear instructions.
+> **[0:58](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=58)** To get the most out of [[Large Language Models (LLM)|large language models]], such as the open AI ones, we should specify clear instructions.
 >
-> **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=66)** That is one of the most important prompt engineering strategies for getting better results.
+> **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=66)** That is one of the most important [[Prompt Engineering]] strategies for getting better results.
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=72)** So here I'm specifying the system role and I'm telling it that it should behave as a helpful assistant.
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=202)** Okay, so now we're ready to test this.
 >
-> **[3:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=206)** Let's open up the terminal and let's execute Python transcription.py.
+> **[3:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=206)** Let's open up the terminal and let's execute [[Python (Programming Language)|Python]] transcription.py.
 >
 > **[3:34](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-json-document-using-the-chat-completions-api?u=76281980&t=214)** I'm going to post the video to let the process run.
 >
@@ -515,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (9), api (4), prompt (2), ai (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[JSON]] (9), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** json (9), api (4)
 > **Code Identifiers:** audiofile_datetime (1), file_datetime (1)
 > **File Paths:** transcription.py (1)
@@ -529,8 +521,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bringing the KinderLogger assistant idea to life
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980)
+#### [Bringing the KinderLogger assistant idea to life](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,24 +537,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the assistant using the Assitants API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980)
+#### [Creating the assistant using the Assitants API](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=0)** - [Instructor] In this video, we're going to create the assistant that will be used by the KinderLogger solution.
 >
-> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=6)** The thing about large language models is that they're stateless by nature.
+> **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=6)** The thing about [[Large Language Models (LLM)|large language models]] is that they're stateless by nature.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=11)** With the assistant API, we can create threaded conversations that automatically remember the previous messages.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=19)** So let's import both OS and OpenAI, and then let's specify this model constant with the name of the model that we want to use in this case, GPT-3.5 turbo 1106.
 >
-> **[0:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=37)** And then let's obtain the OpenAI API key environment variable value, and let's create the OpenAI client object.
+> **[0:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=37)** And then let's obtain the [[OpenAI API]] key environment variable value, and let's create the OpenAI client object.
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=50)** So now let's create a new viable named assistant.
 >
@@ -619,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=209)** And finally, let's create this never ending loop for displaying the main menu.
 >
-> **[3:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=217)** All right, so let's test this by opening up the terminal and let's execute Python and then assistance.py.
+> **[3:37](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=217)** All right, so let's test this by opening up the terminal and let's execute [[Python (Programming Language)|Python]] and then assistance.py.
 >
 > **[3:47](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-assistant-using-the-assitants-api?u=76281980&t=227)** So as you can see, this is displaying the menu.
 >
@@ -631,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), api (2), [[Large Language Models (LLM)|Large language models]] (1), [[OpenAI API]] (1), application (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (3), gpt (1)
 > **Definitions:** is a  (2)
 > **File Paths:** assistance.py (1)
@@ -640,8 +629,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 
-#### Creating a new conversation thread and adding a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980)
+#### [Creating a new conversation thread and adding a message](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +639,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=9)** In other words, when you as a user send a message, the model will respond with a message in the same thread as your original message.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=20)** This process is similar to creating a new chat in ChatGPT.
+> **[0:20](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=20)** This process is similar to creating a new chat in [[ChatGPT]].
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-a-new-conversation-thread-and-adding-a-message?u=76281980&t=25)** Let's see how this is done.
 >
@@ -691,7 +679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Code Identifiers:** client_beta (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll up (1)
@@ -699,8 +687,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running and testing the conversation thread
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980)
+#### [Running and testing the conversation thread](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,13 +735,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=133)** As you can see, I didn't need to add additional information or context about the city because the assistant already has all the required information, in the message history for this thread.
 >
-> **[2:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=147)** Okay, so now, we're going to upload the JSON files to the assistant, so we can use that data for reasoning and responding.
+> **[2:27](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=147)** Okay, so now, we're going to upload the [[JSON]] files to the assistant, so we can use that data for reasoning and responding.
 >
 > **[2:36](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/running-and-testing-the-conversation-thread?u=76281980&t=156)** We're going to do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
 
@@ -763,8 +750,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using private documents and data in the KinderLogger project
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980)
+#### [Using private documents and data in the KinderLogger project](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,12 +771,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uploading the transcription files to the assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980)
+#### [Uploading the transcription files to the assistant](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=0)** - [Instructor] Let's start by uploading the JSON files to the assistant.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=0)** - [Instructor] Let's start by uploading the [[JSON]] files to the assistant.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/uploading-the-transcription-files-to-the-assistant?u=76281980&t=4)** It's pretty simple and just takes two steps.
 >
@@ -836,15 +821,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), next (2), ai (1), prompt (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** json (2)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving the assistant with prompt engineering techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980)
+#### [Improving the assistant with prompt engineering techniques](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=115)** By the way, with this changes, I'm expecting the model to respond more accurately.
 >
-> **[2:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=121)** Now, prompt engineering is a form of art, and maybe you could try additional techniques in order to reduce hallucinations.
+> **[2:01](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=121)** Now, [[Prompt Engineering]] is a form of art, and maybe you could try additional techniques in order to reduce hallucinations.
 >
 > **[2:09](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/improving-the-assistant-with-prompt-engineering-techniques?u=76281980&t=129)** Okay, so we have the prompt now, and I'm going to paste, "When did the firefighters visit the kindergarten?"
 >
@@ -902,13 +886,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Prompt Engineering]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the assistant on the Assistants Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980)
+#### [Using the assistant on the Assistants Playground](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=13)** In this video, I've removed all the assistants we made in the previous lessons.
 >
-> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=19)** This assistant, you see, is the last one I put together using Python.
+> **[0:19](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=19)** This assistant, you see, is the last one I put together using [[Python (Programming Language)|Python]].
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-the-assistant-on-the-assistants-playground?u=76281980&t=25)** You can view its name, its ID, and the creation date.
 >
@@ -938,7 +921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
@@ -950,8 +933,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exposing the assistant as a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980)
+#### [Exposing the assistant as a service](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,7 +943,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=16)** To make this happen, in this part of the course, we're going to focus on creating a web API.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=23)** This will expose the assistance functionality, making it accessible in different forms.
+> **[0:23](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=23)** This will expose the assistance functionality, making it accessible in different [[Forms]].
 >
 > **[0:29](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980&t=29)** All right, are you ready?
 >
@@ -969,20 +951,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), api (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating the Web API using the FastAPI library
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980)
+#### [Creating the Web API using the FastAPI library](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=0)** - [Instructor] In this video, we're going to create the web API that is going to expose the OpenAI assistant that we've created.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=8)** First, we need to install the FastAPI Python library.
+> **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=8)** First, we need to install the FastAPI [[Python (Programming Language)|Python]] library.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=13)** FastAPI is a web framework for building, well, fast web APIs.
 >
@@ -1026,7 +1007,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=135)** We can navigate to /docs, so we can see the OpenAPI documentation.
 >
-> **[2:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=141)** And here is the JSON schema that we're going to use in one of the following videos.
+> **[2:21](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=141)** And here is the [[JSON]] schema that we're going to use in one of the following videos.
 >
 > **[2:28](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-web-api-using-the-fastapi-library?u=76281980&t=148)** Okay, let's test this, try it out.
 >
@@ -1038,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), application (3), api (2), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Env Vars:** api (2), gpt (1), http (1), post (1), json (1)
 > **CLI Commands:** python (2), pip (1)
 > **UI Navigation:** navigate to (2), open the (1)
@@ -1048,8 +1029,7 @@ created: 2026-05-02
 > **API Endpoints:** post
  (1)
 
-#### Calling the assistant from the Web API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980)
+#### [Calling the assistant from the Web API](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1057,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=66)** Okay, let's close the terminal.
 >
-> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=68)** And now let's implement the rest of the code.
+> **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=68)** And now let's implement the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=72)** So I'm going to paste it right here and you can see that we're creating a new threat.
 >
@@ -1091,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=101)** Okay, let's test this.
 >
-> **[1:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=102)** Let's execute Python, uvicorn, and the name of the FastAPI application.
+> **[1:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=102)** Let's execute [[Python (Programming Language)|Python]], uvicorn, and the name of the FastAPI application.
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/calling-the-assistant-from-the-web-api?u=76281980&t=110)** But first, let's save this.
 >
@@ -1115,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** navigate to (2), click on (2)
 > **CLI Commands:** ls (1), python (1)
 > **Env Vars:** api (2)
@@ -1124,8 +1104,7 @@ created: 2026-05-02
 > **File Paths:** assistance.py (1)
 > **Definitions:** is a  (1)
 
-#### Implementing logging in the Web API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980)
+#### [Implementing logging in the Web API](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,7 +1140,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=132)** Something like this. Okay, let's test this.
 >
-> **[2:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=138)** Let's execute Python Unicorn, and let's navigate to the browser.
+> **[2:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=138)** Let's execute [[Python (Programming Language)|Python]] Unicorn, and let's navigate to the browser.
 >
 > **[2:25](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-logging-in-the-web-api?u=76281980&t=145)** And here, let's navigate to docs and then post.
 >
@@ -1183,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** conversation_id (2), basicconfig (1)
 > **Env Vars:** gpt (2), info (1)
 > **UI Navigation:** navigate to (2), scroll up (1)
@@ -1192,8 +1171,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Prerequisites:** configure (1)
 
-#### Building and publishing the Docker container image
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980)
+#### [Building and publishing the Docker container image](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-and-publishing-the-docker-container-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,14 +1227,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying the Azure Container App for the service
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980)
+#### [Deploying the Azure Container App for the service](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=0)** - [Instructor] We need a place to execute the Docker container.
 >
-> **[0:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=3)** And in this video we're going to use an Azure container app to do that.
+> **[0:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=3)** And in this video we're going to use an [[Microsoft Azure|Azure]] container app to do that.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/deploying-the-azure-container-app-for-the-service?u=76281980&t=8)** In the Azure portal, I already navigated to the Marketplace and searched for container app.
 >
@@ -1316,7 +1293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), application (2), api (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** openai_api_key (1), openai_ (1), assistant (1), url (1), dogs (1)
 > **UI Navigation:** click on (3), navigate to (2)
 > **CLI Commands:** docker (1)
@@ -1329,12 +1306,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying responsible AI practices in KinderLogger
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980)
+#### [Applying responsible AI practices in KinderLogger](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=0)** - [Instructor] Artificial intelligence has totally changed how we do things every day.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has totally changed how we do things every day.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980&t=6)** So it's paramount that our Kinder Lagger project can identify any harmful content.
 >
@@ -1346,12 +1322,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), api (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the Moderations API in the transcription app
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980)
+#### [Implementing the Moderations API in the transcription app](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=42)** We can print the entire transcription and finally we can break the code.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=48)** With this, we prevent the rest of the code from executing.
+> **[0:48](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=48)** With this, we prevent the [[Representational State Transfer (REST)|rest]] of the code from executing.
 >
 > **[0:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-transcription-app?u=76281980&t=56)** This is just one safety measure at the source of the data.
 >
@@ -1379,12 +1354,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), ai (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the Moderations API in the Web API
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980)
+#### [Implementing the Moderations API in the Web API](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,23 +1406,22 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=117)** Let's wait for this.
 >
-> **[1:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=119)** And now we're ready to use this new version in the Azure container app.
+> **[1:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=119)** And now we're ready to use this new version in the [[Microsoft Azure|Azure]] container app.
 >
 > **[2:05](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/implementing-the-moderations-api-in-the-web-api?u=76281980&t=125)** We're going to do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), application (1), [[Microsoft Azure|Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** docker (5)
 > **Env Vars:** http (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building a new image and updating the Azure Container App
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980)
+#### [Building a new image and updating the Azure Container App](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=0)** - [Instructor] In the Azure portal, we're going to navigate to the kinderlogger container app because we need to create a new revision so we can use the latest Docker image.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=0)** - [Instructor] In the [[Microsoft Azure|Azure]] portal, we're going to navigate to the kinderlogger container app because we need to create a new revision so we can use the latest Docker image.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=11)** So let's click on create new revision, and then let's delete this container image and create another one.
 >
@@ -1458,7 +1431,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=33)** And then I can specify the container resource allocation, for instance, half a CPU core and one gig.
 >
-> **[0:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=44)** And then the environment variables such as OpenAI API key.
+> **[0:44](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=44)** And then the environment variables such as [[OpenAI API]] key.
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-new-image-and-updating-the-azure-container-app?u=76281980&t=50)** I should select manual entry with the value and OpenAI assistant ID.
 >
@@ -1478,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (1), [[OpenAI API]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[OpenAI API]] (1)
 > **Env Vars:** cpu (1), api (1), url (1), gpt (1)
 > **UI Navigation:** click on (2), navigate to (2)
 > **CLI Commands:** docker (3)
@@ -1492,8 +1465,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using a GPT as a frontend for the KinderLogger project
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980)
+#### [Using a GPT as a frontend for the KinderLogger project](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,16 +1481,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the GPT and the action for invoking the service
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980)
+#### [Creating the GPT and the action for invoking the service](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=0)** - [Instructor] GPTs are custom versions of ChatGPT that you can create for a specific purpose.
+> **[0:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=0)** - [Instructor] GPTs are custom versions of [[ChatGPT]] that you can create for a specific purpose.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=6)** In our case, we're going to create the KinderLogger GPT that uses the service we've just published as a docker container.
 >
@@ -1544,7 +1514,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=68)** Let's navigate to the service and then docs.
 >
-> **[1:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=73)** And here, we can find the openapi.json link.
+> **[1:13](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=73)** And here, we can find the openapi.[[JSON]] link.
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=78)** And here, let's copy the entire json document and let's go back and paste it right here.
 >
@@ -1554,7 +1524,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=98)** So right below info, let's write servers and this is an array and let's type URL and the address of that particular server.
 >
-> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=113)** In this case, let's go back to the Azure portal and let's copy this address.
+> **[1:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=113)** In this case, let's go back to the [[Microsoft Azure|Azure]] portal and let's copy this address.
 >
 > **[1:59](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=119)** Let's go back to the GPT and let's paste it right here.
 >
@@ -1568,7 +1538,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=146)** So we know that this is working as expected.
 >
-> **[2:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=150)** Now, we need to set the privacy policy, and I created a fictitious privacy policy in my blog.
+> **[2:30](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=150)** Now, we need to set the [[Privacy]] policy, and I created a fictitious privacy policy in my blog.
 >
 > **[2:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=158)** And let's go back here.
 >
@@ -1580,7 +1550,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=176)** Finally, let's create an icon.
 >
-> **[3:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=180)** Let's click here and use DALL-E.
+> **[3:00](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=180)** Let's click here and use [[DALL-E]].
 >
 > **[3:03](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/creating-the-gpt-and-the-action-for-invoking-the-service?u=76281980&t=183)** This is taking the description and it's going to create a new image for this GPT.
 >
@@ -1596,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[Privacy]] (2), [[ChatGPT]] (1), api (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Privacy]] (2), [[ChatGPT]] (1), [[Microsoft Azure|Azure]] (1), [[DALL-E]] (1)
 > **Env Vars:** gpt (6), url (2), api (1), dall (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **CLI Commands:** find (2), docker (1)
@@ -1605,8 +1575,7 @@ created: 2026-05-02
 > **File Paths:** openapi.json (1)
 > **Tools:** azure portal (1)
 
-#### Testing the KinderLogger GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980)
+#### [Testing the KinderLogger GPT](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,7 +1599,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=38)** And after some seconds, we receive the response.
 >
-> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=43)** You can even use the KinderLogger GPT right from the ChatGPT application on your smartphone.
+> **[0:43](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=43)** You can even use the KinderLogger GPT right from the [[ChatGPT]] application on your smartphone.
 >
 > **[0:53](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/testing-the-kinderlogger-gpt?u=76281980&t=53)** Give me my kid's summary.
 >
@@ -1664,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), application (1), game (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Speakers:** - [instructor] (2), - [ai] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -1675,8 +1644,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,17 +1654,17 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=12)** There are many paths you can take from here.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=14)** First off, why not deepen your Python skills?
+> **[0:14](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=14)** First off, why not deepen your [[Python (Programming Language)|Python]] skills?
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=18)** Dive into its best practices and design patterns.
+> **[0:18](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=18)** Dive into its best practices and [[Design Patterns]].
 >
 > **[0:22](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=22)** There's so much to learn.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=24)** Next up, how about mastering the ins and outs of Web APIs and their different authentication types like OAuth?
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=33)** And finally, why not expand your knowledge on Azure and microservices?
+> **[0:33](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=33)** And finally, why not expand your knowledge on [[Microsoft Azure|Azure]] and [[Microservices]]?
 >
-> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=39)** I've got some courses right here in the LinkedIn Learning Library that I think you'll love.
+> **[0:39](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=39)** I've got some courses right here in the [[LinkedIn]] Learning Library that I think you'll love.
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980&t=45)** I really hope you had as much fun with this course as I did making it for you.
 >
@@ -1708,7 +1676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Design Patterns]] (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Design Patterns]] (1), [[Microsoft Azure|Azure]] (1), [[Microservices]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [rodrigo] (1)
 

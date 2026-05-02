@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction?u=76281980)
+#### [Intro to the course](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), career (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (bright music) (1)
 
@@ -135,8 +133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to course objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980)
+#### [Introduction to course objectives](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=20)** This course is designed to help you navigate those moments with more confidence and structure.
 >
-> **[0:26](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=26)** Responsible AI is often treated as something external to the development process, but in reality, the most consequential decisions are made inside the workflow, during dataset construction and model tuning, evaluation and deployment, and monitoring.
+> **[0:26](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=26)** [[Responsible AI]] is often treated as something external to the development process, but in reality, the most consequential decisions are made inside the workflow, during dataset construction and model tuning, evaluation and deployment, and monitoring.
 >
 > **[0:40](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=40)** Responsibility doesn't come in after the system's finished.
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=61)** We'll start by looking at the strategic benefits of early integration, and from there we'll move into the role of engineers, not as abstract thinkers, but as the people closest to how the systems actually behave.
 >
-> **[1:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=72)** We'll walk through a series of modules that follow the sequence of system design and deployment, and each one will examine a key area, model selection, explainability, privacy, trade-offs and performance metrics, and what happens after a model's live and in the real world.
+> **[1:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=72)** We'll walk through a series of modules that follow the sequence of system design and deployment, and each one will examine a key area, model selection, explainability, [[Privacy]], trade-offs and [[Performance Metrics]], and what happens after a model's live and in the real world.
 >
 > **[1:29](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980&t=89)** You'll see examples drawn from those real-world contexts.
 >
@@ -170,12 +167,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (1), teams (1), [[Privacy]] (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Privacy]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### The business case for early integration of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980)
+#### [The business case for early integration of responsible AI](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=32)** Credit scoring tools that replicate past discrimination.
 >
-> **[0:35](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=35)** Content moderation systems that struggle to understand cultural nuance, or large language models that produce confident answers but are unsupported by facts.
+> **[0:35](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=35)** Content moderation systems that struggle to understand cultural nuance, or [[Large Language Models (LLM)|large language models]] that produce confident answers but are unsupported by facts.
 >
 > **[0:44](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=44)** These outcomes could have been predictable and in many cases they could have been addressed before deployment with far less disruption.
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=81)** What we're seeing from more effective teams is a different approach.
 >
-> **[1:25](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=85)** One where we take responsibility and integrate it into design early, alongside technical planning and product development.
+> **[1:25](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=85)** One where we take responsibility and integrate it into design early, alongside technical planning and [[Product Development]].
 >
 > **[1:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=92)** And this makes it easier to identify points of failure before they become headlines.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=127)** It might even help improve system performance, particularly across edge cases that we might otherwise have totally missed.
 >
-> **[2:14](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=134)** Responsible AI isn't about slowing down.
+> **[2:14](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=134)** [[Responsible AI]] isn't about slowing down.
 >
 > **[2:17](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/the-business-case-for-early-integration-of-responsible-ai?u=76281980&t=137)** It's about building systems that work the way they're intended to across the full range of users and use cases.
 >
@@ -231,19 +227,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Engineering]] (3), product (2), ai (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Product Development]] (1), [[Responsible AI]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Engineers as ethics first responders
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980)
+#### [Engineers as ethics first responders](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=0)** - When AI systems fail in the real world, the first signs are often subtle.
 >
-> **[0:06](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=6)** A model starts behaving inconsistently with certain inputs, an anomaly appears in performance metrics, but it doesn't trigger an alert.
+> **[0:06](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=6)** A model starts behaving inconsistently with certain inputs, an anomaly appears in [[Performance Metrics]], but it doesn't trigger an alert.
 >
 > **[0:14](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=14)** And sometimes a dataset contains patterns that reflect more about the past than the future it's meant to inform.
 >
@@ -303,9 +298,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=169)** And culture plays a role here.
 >
-> **[2:51](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=171)** It matters whether people feel safe raising concerns and whether those concerns are met with curiosity and accountability and action.
+> **[2:51](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=171)** It matters whether people feel safe raising concerns and whether those concerns are met with curiosity and [[Accountability]] and action.
 >
-> **[2:59](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=179)** Throughout this course, we're going to return to this idea, responsible AI begins not with policy, but with people.
+> **[2:59](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=179)** Throughout this course, we're going to return to this idea, [[Responsible AI]] begins not with policy, but with people.
 >
 > **[3:06](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/engineers-as-ethics-first-responders?u=76281980&t=186)** And the people closest to the system, you and me, are often the first to see how it might fail.
 >
@@ -315,14 +310,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (2), ai (1), [[Performance Metrics]] (1), product (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Accountability]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
 > **Speakers:** - when (1)
 
-#### Mapping technical choices to ethical principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980)
+#### [Mapping technical choices to ethical principles](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=36)** They're moments where values and principles enter the system.
 >
-> **[0:40](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=40)** And if you care about fairness or transparency, accountability, those principles need to live in the architecture of what we design, not just in public commitments or after-the-fact audits.
+> **[0:40](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=40)** And if you care about fairness or transparency, [[Accountability]], those principles need to live in the architecture of what we design, not just in public commitments or after-the-fact audits.
 >
 > **[0:52](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=52)** Let's take a scenario.
 >
@@ -388,11 +382,11 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=193)** They're part of doing the work well.
 >
-> **[3:15](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=195)** Teams that already spend time debating performance metrics and reviewing failure cases make judgment calls about uncertainty all the time.
+> **[3:15](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=195)** Teams that already spend time debating [[Performance Metrics]] and reviewing failure cases make judgment calls about uncertainty all the time.
 >
 > **[3:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=204)** The point here is to connect those decisions to a larger sense of values, of principles, of purpose, and to make sure the system you're building is one that you understand not just for its technical sophistication, but because of its social impacts.
 >
-> **[3:38](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=218)** Next up, we'll look at when these moments have outsized impact in decision-making.
+> **[3:38](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=218)** Next up, we'll look at when these moments have outsized impact in [[Decision-Making]].
 >
 > **[3:43](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/mapping-technical-choices-to-ethical-principles?u=76281980&t=223)** Not every part of the pipeline carries the same weight.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), ai (1), [[Engineering]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Performance Metrics]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - every (1)
 
@@ -411,8 +405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Critical decision points in AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980)
+#### [Critical decision points in AI development](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,23 +465,22 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980&t=177)** In the next video, we'll talk about how technical teams translate these questions into implementation.
 >
-> **[3:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980&t=183)** How ideas like fairness and privacy are expressed in the logic of the system itself.
+> **[3:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980&t=183)** How ideas like fairness and [[Privacy]] are expressed in the logic of the system itself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), ai (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - every (1)
 
-#### Translating values into code
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980)
+#### [Translating values into code](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=1)** - Many organizations are beginning to define the values that are meant to guide their use of AI.
 >
-> **[0:06](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=6)** Fairness, transparency, privacy, accountability.
+> **[0:06](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=6)** Fairness, transparency, [[Privacy]], [[Accountability]].
 >
 > **[0:11](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=11)** These commitments are often written at a high level, but their significance depends on whether they're reflected in the systems that are being built, and that work happens through implementation, and it starts with technical teams.
 >
@@ -528,13 +520,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=120)** So we might consider how data's collected, stored, and accessed, and we need to apply techniques like data minimization, encryption, or even differential privacy to reduce exposure.
 >
-> **[2:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=132)** In some environments, federated learning may allow for distributed training without centralized data sharing, and logging, access control, and internal audit tools also help ensure that privacy protections are maintained over time.
+> **[2:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=132)** In some environments, federated learning may allow for distributed training without centralized [[Data Sharing]], and logging, access control, and internal audit tools also help ensure that privacy protections are maintained over time.
 >
 > **[2:27](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=147)** Finally, we come to accountability.
 >
 > **[2:29](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=149)** Systems need clear lines of responsibility.
 >
-> **[2:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=152)** That includes documentation of key decisions, of version control, and reproducibility.
+> **[2:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=152)** That includes documentation of key decisions, of [[Version Control]], and reproducibility.
 >
 > **[2:38](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=158)** It also includes making sure that we have mechanisms for intervention.
 >
@@ -548,25 +540,24 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=200)** Next up, let's turn to integration.
 >
-> **[3:23](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=203)** How do we incorporate responsible AI practices into technical workflows so that they support delivery and let us build more robust, more useful systems?
+> **[3:23](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/translating-values-into-code?u=76281980&t=203)** How do we incorporate [[Responsible AI]] practices into technical workflows so that they support delivery and let us build more robust, more useful systems?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Privacy]] (4), next (3), [[Accountability]] (2), teams (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Accountability]] (2), [[Version Control]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - many (1)
 
-#### Integrating RAI into existing workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980)
+#### [Integrating RAI into existing workflows](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=0)** - Responsible AI practices are most effective when they're already a part of how teams operate.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=0)** - [[Responsible AI]] practices are most effective when they're already a part of how teams operate.
 >
 > **[0:07](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=7)** In this video, we'll focus on integration, how to embed responsibility into workflows without adding unnecessary friction or creating separate tracks for ethical review.
 >
-> **[0:17](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=17)** In most technical environments, work's already organized around familiar processes: data pipelines, model development sprints, code reviews, evaluation cycles.
+> **[0:17](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=17)** In most technical environments, work's already organized around familiar processes: [[Data Pipelines]], model development sprints, code reviews, evaluation cycles.
 >
 > **[0:27](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=27)** They're not project management tools.
 >
@@ -574,13 +565,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=33)** So the goal here isn't to design a new process.
 >
-> **[0:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=36)** It's to identify where responsible AI already fits, how to reinforce it in ways that support delivery, and quality and accountability, and there are four areas where integration tends to be most effective.
+> **[0:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=36)** It's to identify where responsible AI already fits, how to reinforce it in ways that support delivery, and quality and [[Accountability]], and there are four areas where integration tends to be most effective.
 >
 > **[0:49](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=49)** The first is data onboarding.
 >
 > **[0:50](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=50)** Every data set introduced into a project should come with great documentation, documentation that includes source and intended use, known limitations and any pre-processing decisions.
 >
-> **[1:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=63)** Teams can build this into intake forms and versioning systems, or even into the repository standards.
+> **[1:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=63)** Teams can build this into intake [[Forms]] and versioning systems, or even into the repository standards.
 >
 > **[1:08](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/integrating-rai-into-existing-workflows?u=76281980&t=68)** And a structured intake process helps surface concerns early and it avoids surprises downstream.
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Responsible AI]] (4), data (3), next (2), management (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Data Pipelines]] (1), [[Accountability]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
@@ -661,8 +652,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model selection trade-offs
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980)
+#### [Model selection trade-offs](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,7 +660,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=3)** It's rarely about maximizing a single metric, but rather about matching a model to a task, to the context it'll operate in, and to the constraints that we're often working with.
 >
-> **[0:14](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=14)** This video focuses on how to approach model selection when responsible AI is a part of the equation.
+> **[0:14](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=14)** This video focuses on how to approach model selection when [[Responsible AI]] is a part of the equation.
 >
 > **[0:21](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=21)** Most teams already weigh performance and latency and cost, but when the goal is to build systems that are reliable in context, in real-world use, not just perform well in test environments, other factors become essential.
 >
@@ -680,15 +670,15 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=50)** The first is, what is the system's intended function, and what kind of behaviors acceptable in the real world?
 >
-> **[0:57](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=57)** Imagine you're deploying a classifier to triage customer support requests for a health insurance platform.
+> **[0:57](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=57)** Imagine you're deploying a classifier to triage [[Customer Support]] requests for a health insurance platform.
 >
-> **[1:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=63)** A deep learning model might deliver marginal gains in precision, but a simpler tree-based model could offer stable performance across input types, easier retraining, and maybe more consistent behavior under shifting traffic loads.
+> **[1:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=63)** A [[Deep Learning]] model might deliver marginal gains in precision, but a simpler tree-based model could offer stable performance across input types, easier retraining, and maybe more consistent behavior under shifting traffic loads.
 >
 > **[1:17](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=77)** This is a situation where predictability might matter more than trying to maximize your top-line accuracy.
 >
 > **[1:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=84)** Next, you might consider, how's this model going to be maintained and updated?
 >
-> **[1:29](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=89)** Consider a retail platform that retrains demand-forecasting models weekly using transaction data.
+> **[1:29](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=89)** Consider a retail platform that retrains demand-[[Forecasting]] models weekly using transaction data.
 >
 > **[1:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=96)** A model that requires expensive GPU infrastructure, or manual hyperparameter tuning might not be sustainable, even if it does perform slightly better on the benchmark tasks.
 >
@@ -698,7 +688,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=120)** For example, a logistics company that uses route-optimization models might need to explain the system's outputs to regional managers who are accountable for fuel costs or for delivery times.
 >
-> **[2:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=132)** A model that offers clear attribution for decision-making, like a weighted linear model or a constrained ensemble, they might enable better alignment across teams, and in this case, interpretability is not optional.
+> **[2:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=132)** A model that offers clear attribution for [[Decision-Making]], like a weighted linear model or a constrained ensemble, they might enable better alignment across teams, and in this case, interpretability is not optional.
 >
 > **[2:25](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980&t=145)** Instead, it supports operational trust, and it supports team coordination.
 >
@@ -718,15 +708,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (2), [[Responsible AI]] (1), [[Customer Support]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Customer Support]] (1), [[Deep Learning]] (1), [[Forecasting]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** gpu (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - selecting (1)
 
-#### Building explainability from day one
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980)
+#### [Building explainability from day one](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +743,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=75)** This kind of explainability is primarily for the builders and it's most effective when you integrate it into model evaluation from the start.
 >
-> **[1:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=84)** And even as we're building, we have to start considering stakeholder accountability.
+> **[1:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=84)** And even as we're building, we have to start considering stakeholder [[Accountability]].
 >
 > **[1:28](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=88)** In sectors like lending, hiring, or healthcare, explainability is often required by law or by policy, and even outside of formal regulation.
 >
@@ -776,7 +765,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=148)** So that requires a design coordination.
 >
-> **[2:30](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=150)** It's not just engineering, but we also have to bring in user experience and product design.
+> **[2:30](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=150)** It's not just engineering, but we also have to bring in [[User Experience (UX)|user experience]] and [[Product Design]].
 >
 > **[2:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=156)** The decision to prioritize explainability affects the architecture.
 >
@@ -794,24 +783,23 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=204)** And it's easier to do this early when decisions are still flexible than to try to recover it once the system's live.
 >
-> **[3:33](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=213)** In the next video, we'll turn to privacy-preserving architectures.
+> **[3:33](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=213)** In the next video, we'll turn to [[Privacy]]-preserving architectures.
 >
 > **[3:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/building-explainability-from-day-one?u=76281980&t=216)** What do they look like in practice, how do they perform, and what choices can we make to reduce risk without giving up capability?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), teams (2), [[Debugging]] (1), [[Accountability]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[User Experience (UX)|User experience]] (1), [[Product Design]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - explainability (1)
 
-#### Privacy-preserving architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980)
+#### [Privacy-preserving architectures](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=0)** - Privacy is not just a matter of compliance.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=0)** - [[Privacy]] is not just a matter of compliance.
 >
 > **[0:03](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=3)** It's a foundational element of system design that affects reliability, user trust, and organizational risk.
 >
@@ -821,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=28)** The goal is not just to check a box, but to reduce unnecessary exposure.
 >
-> **[0:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=32)** To ensure control over how data is used and to design systems that hold up under pressure.
+> **[0:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=32)** To ensure control over how data is used and to [[Design Systems]] that hold up under pressure.
 >
 > **[0:38](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=38)** There are four design strategies that teams can use to build privacy into the system from the very beginning.
 >
@@ -841,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=78)** It depends on how data's stored, who can access it, and whether that access is logged and reviewable.
 >
-> **[1:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=84)** Role-based permissions, structured logging, and a clear data lifecycle policy creates accountability.
+> **[1:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=84)** Role-based permissions, structured logging, and a clear data lifecycle policy creates [[Accountability]].
 >
 > **[1:31](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/privacy-preserving-architectures?u=76281980&t=91)** These tools are especially important in environments where multiple teams interact with user data across systems.
 >
@@ -873,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Privacy]] (11), teams (6), next (3), product (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[Design Systems]] (1), [[Accountability]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - privacy (1)
 
@@ -882,8 +870,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Metrics for responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980)
+#### [Metrics for responsible AI](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=4)** They set the boundaries for how success is evaluated and how trade-offs are justified.
 >
-> **[0:09](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=9)** And in responsible AI, the metrics are not just about performance.
+> **[0:09](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=9)** And in [[Responsible AI]], the metrics are not just about performance.
 >
 > **[0:13](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=13)** They also shape how fairness, reliability, and transparency show up in the final system.
 >
@@ -909,7 +896,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=48)** Here's a few examples.
 >
-> **[0:50](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=50)** Start with group-level performance metrics.
+> **[0:50](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=50)** Start with group-level [[Performance Metrics]].
 >
 > **[0:52](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980&t=52)** These compare outcomes across user subgroups.
 >
@@ -949,14 +936,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Performance Metrics]] (2), [[Responsible AI]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - metrics (1)
 
-#### Designing effective monitoring systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980)
+#### [Designing effective monitoring systems](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=17)** It allows models to be adjusted before small issues become big failures.
 >
-> **[0:23](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=23)** This video focuses on how to design monitoring systems that support both technical performance and responsible AI goals.
+> **[0:23](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=23)** This video focuses on how to design monitoring systems that support both technical performance and [[Responsible AI]] goals.
 >
 > **[0:30](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=30)** A good monitoring system doesn't just track whether the system's running or how efficient it is.
 >
@@ -1000,7 +986,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=109)** And then maybe most importantly, ownership and response.
 >
-> **[1:52](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=112)** Monitoring without accountability is just noise.
+> **[1:52](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=112)** Monitoring without [[Accountability]] is just noise.
 >
 > **[1:55](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/designing-effective-monitoring-systems?u=76281980&t=115)** Somebody needs to be responsible for reviewing what the system reports, investigating patterns, and deciding what to do next.
 >
@@ -1016,14 +1002,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Responsible AI]] (1), [[Accountability]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Accountability]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Systematic approaches to bias detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/systematic-approaches-to-bias-detection?u=76281980)
+#### [Systematic approaches to bias detection](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/systematic-approaches-to-bias-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,12 +1042,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), teams (2), ai (1), data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - bias (1)
 
-#### Balancing automation and human judgment
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980)
+#### [Balancing automation and human judgment](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1074,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=13)** The challenge is deciding where to draw that line and how to make the handoff between an automated system and a person, and how to make it work in practice.
 >
-> **[0:22](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=22)** This video focuses on how to design systems that preserve the right balance between automated decisions and human oversight, not about resisting automation, but rather about building workflows that recognize when people add value and when systems need review.
+> **[0:22](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=22)** This video focuses on how to [[Design Systems]] that preserve the right balance between automated decisions and human oversight, not about resisting automation, but rather about building workflows that recognize when people add value and when systems need review.
 >
 > **[0:38](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=38)** Start by asking: What is this system being asked to do?
 >
@@ -1104,18 +1087,17 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=137)** Tracking whether decisions are actually changed through human review is one way to test whether the balance is really working.
 >
-> **[2:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=144)** Human judgment isn't perfect, but it brings context, and adaptability, and accountability, qualities that are hard to encode.
+> **[2:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=144)** Human judgment isn't perfect, but it brings context, and adaptability, and [[Accountability]], qualities that are hard to encode.
 >
 > **[2:32](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/balancing-automation-and-human-judgment?u=76281980&t=152)** When paired with the speed and scale of automation, we can create systems that are both more powerful and more context-aware and resilient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), [[Design Systems]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - automation (1)
 
-#### Comprehensive testing for ethical robustness
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980)
+#### [Comprehensive testing for ethical robustness](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1147,7 +1129,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=90)** It means evaluating whether override mechanisms work, whether user escalation paths are respected, and whether documented failures actually feed back into the development cycle.
 >
-> **[1:40](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=100)** These tests can be integrated into standard quality assurance workflows.
+> **[1:40](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=100)** These tests can be integrated into standard [[Quality Assurance]] workflows.
 >
 > **[1:44](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=104)** Teams can define thresholds for acceptable performance variation.
 >
@@ -1163,11 +1145,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=132)** In the next chapter, we'll move from examining systems to designing organizations.
 >
-> **[2:18](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=138)** We'll look at what it takes to build institutional capacity for responsible AI.
+> **[2:18](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/comprehensive-testing-for-ethical-robustness?u=76281980&t=138)** We'll look at what it takes to build institutional capacity for [[Responsible AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), data (1), [[Quality Assurance]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Responsible AI]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - ethical (1)
 
@@ -1176,14 +1158,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Distributing RAI expertise in teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980)
+#### [Distributing RAI expertise in teams](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=0)** - Responsible AI isn't carried by one person.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=0)** - [[Responsible AI]] isn't carried by one person.
 >
-> **[0:04](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=4)** Instead, it's a shared responsibility that depends on how teams make decisions, how knowledge is shared, and how accountability is built into the work itself.
+> **[0:04](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=4)** Instead, it's a shared responsibility that depends on how teams make decisions, how knowledge is shared, and how [[Accountability]] is built into the work itself.
 >
 > **[0:14](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=14)** This video focuses on how expertise and responsible AI can be distributed across technical teams.
 >
@@ -1195,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=46)** These decisions carry weight.
 >
-> **[0:47](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=47)** They affect fairness, explainability, privacy, and long-term performance.
+> **[0:47](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=47)** They affect fairness, explainability, [[Privacy]], and long-term performance.
 >
 > **[0:52](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980&t=52)** So to support responsible development expertise needs to match where those decisions are made.
 >
@@ -1221,13 +1202,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Responsible AI]] (4), [[Accountability]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Accountability]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - responsible (1)
 
-#### Documentation that builds trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/documentation-that-builds-trust?u=76281980)
+#### [Documentation that builds trust](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/documentation-that-builds-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/documentation-that-builds-trust?u=76281980&t=21)** And without it, even well-designed systems become harder to evaluate and maintain over time.
 >
-> **[0:27](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/documentation-that-builds-trust?u=76281980&t=27)** This video focuses on documentation as a core engineering practice and a part of responsible AI.
+> **[0:27](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/documentation-that-builds-trust?u=76281980&t=27)** This video focuses on documentation as a core engineering practice and a part of [[Responsible AI]].
 >
 > **[0:34](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/documentation-that-builds-trust?u=76281980&t=34)** There are a number of areas where clear, good documentation makes a difference.
 >
@@ -1277,14 +1257,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), data (3), [[Responsible AI]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Warnings:** caution (1)
 > **Speakers:** - documentation (1)
 
-#### Lightweight but effective review checkpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/lightweight-but-effective-review-checkpoints?u=76281980)
+#### [Lightweight but effective review checkpoints](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/lightweight-but-effective-review-checkpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1322,7 +1301,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/lightweight-but-effective-review-checkpoints?u=76281980&t=84)** It allows teams to revisit those choices later if they need to.
 >
-> **[1:28](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/lightweight-but-effective-review-checkpoints?u=76281980&t=88)** These checkpoints don't need to be led by a dedicated ethics team.
+> **[1:28](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/lightweight-but-effective-review-checkpoints?u=76281980&t=88)** These checkpoints don't need to be led by a dedicated [[Ethics]] team.
 >
 > **[1:31](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/lightweight-but-effective-review-checkpoints?u=76281980&t=91)** Instead, they can be owned by project leads, by product managers or engineering directors.
 >
@@ -1334,16 +1313,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), data (1), [[Ethics]] (1), product (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - review (1)
 
-#### Breaking down communication barriers
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/breaking-down-communication-barriers?u=76281980)
+#### [Breaking down communication barriers](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/breaking-down-communication-barriers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/breaking-down-communication-barriers?u=76281980&t=0)** - In my experience, one of the biggest challenges in responsible AI production is not a lack of tools or frameworks or technical skills.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/breaking-down-communication-barriers?u=76281980&t=0)** - In my experience, one of the biggest challenges in [[Responsible AI]] production is not a lack of tools or frameworks or technical skills.
 >
 > **[0:09](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/breaking-down-communication-barriers?u=76281980&t=9)** It's communication.
 >
@@ -1377,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Responsible AI]] (2), product (2), leadership (1), data (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2)
 > **Speakers:** - in (1)
 
 
@@ -1385,8 +1363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution-focused risk assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/solution-focused-risk-assessment?u=76281980)
+#### [Solution-focused risk assessment](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/solution-focused-risk-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1440,11 +1417,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), product (1), next (1)
 > **Speakers:** - let (1)
 
-#### Early warning signs in system behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/early-warning-signs-in-system-behavior?u=76281980)
+#### [Early warning signs in system behavior](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/early-warning-signs-in-system-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,26 +1453,25 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/early-warning-signs-in-system-behavior?u=76281980&t=96)** If performance begins to diverge across demographic or contextual boundaries, the system might be interacting with a shift in the environment or maybe with assumptions that were hard coded or soft coded that no longer hold.
 >
-> **[1:49](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/early-warning-signs-in-system-behavior?u=76281980&t=109)** The goal here isn't to react to every fluctuation, but rather to build enough visibility into the system behavior that meaningful changes can be addressed before they cascade through the system.
+> **[1:49](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/early-warning-signs-in-system-behavior?u=76281980&t=109)** The goal here isn't to [[React.js|react]] to every fluctuation, but rather to build enough visibility into the system behavior that meaningful changes can be addressed before they cascade through the system.
 >
 > **[2:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/early-warning-signs-in-system-behavior?u=76281980&t=120)** When early signs are taken seriously, teams have more room to respond, to iterate, and to innovate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (1), [[React.js|React]] (1), teams (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** warning (1)
 > **Speakers:** - ai (1)
 
-#### Frameworks for complex trade-off decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980)
+#### [Frameworks for complex trade-off decisions](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=0)** - Many of the most important decisions in AI development involve trade-offs, accuracy versus fairness, transparency versus complexity, speed versus oversight.
 >
-> **[0:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=12)** They're not abstract dilemmas, they show up in model selection and system design and deployment planning.
+> **[0:12](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=12)** They're not abstract dilemmas, they show up in model selection and system design and [[Deployment Planning]].
 >
 > **[0:18](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=18)** And the challenge isn't just technical, it's about making choices with clear understanding and documenting why we made them.
 >
@@ -1523,7 +1497,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=90)** Assess how it might perform relative to the values and constraints.
 >
-> **[1:34](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=94)** A more interpretable model might reduce performance marginally, but might allow for real-time audit.
+> **[1:34](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=94)** A more interpretable model might reduce performance marginally, but might allow for [[Real-Time]] audit.
 >
 > **[1:40](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/frameworks-for-complex-trade-off-decisions?u=76281980&t=100)** A more complex architecture might increase accuracy for underrepresented groups, but it might require significant retraining every time there's an update.
 >
@@ -1547,17 +1521,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), ai (1), [[Deployment Planning]] (1), [[Real-Time]] (1), next (1)
+> **Frameworks & Libraries:** [[Deployment Planning]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - many (1)
 
-#### Learning from real-world RAI implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/learning-from-real-world-rai-implementations?u=76281980)
+#### [Learning from real-world RAI implementations](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/learning-from-real-world-rai-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/learning-from-real-world-rai-implementations?u=76281980&t=1)** - Implementing responsible AI can look very different depending on the sector, the team, even the specific use case.
+> **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/learning-from-real-world-rai-implementations?u=76281980&t=1)** - Implementing [[Responsible AI]] can look very different depending on the sector, the team, even the specific use case.
 >
 > **[0:08](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/learning-from-real-world-rai-implementations?u=76281980&t=8)** But across organizations that are doing this work well, there are patterns, practices that tend to show up consistently even when the systems themselves are complex or fast moving.
 >
@@ -1601,15 +1574,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (5), teams (5), data (1), [[Engineering]] (1), product (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (5)
 > **Speakers:** - implementing (1)
 
-#### A roadmap for the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/a-roadmap-for-the-future?u=76281980)
+#### [A roadmap for the future](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/a-roadmap-for-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/a-roadmap-for-the-future?u=76281980&t=1)** - Responsible AI isn't about frameworks or about technical skills.
+> **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/a-roadmap-for-the-future?u=76281980&t=1)** - [[Responsible AI]] isn't about frameworks or about technical skills.
 >
 > **[0:05](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/a-roadmap-for-the-future?u=76281980&t=5)** It starts with a decision to treat responsibility as part of the technical craft, to build systems that reflect that commitment over time.
 >
@@ -1645,7 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Responsible AI]] (2), teams (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - responsible (1)
 
@@ -1654,12 +1626,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980&t=1)** - You've reached the end of the course, but responsible AI isn't something you finish.
+> **[0:01](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980&t=1)** - You've reached the end of the course, but [[Responsible AI]] isn't something you finish.
 >
 > **[0:05](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980&t=5)** It's a practice, one that grows with experience, improves through iteration and strengthens every time a team chooses to work with a commitment to better design and better outcomes.
 >
@@ -1689,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (2), leadership (1), teams (1), ai (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 

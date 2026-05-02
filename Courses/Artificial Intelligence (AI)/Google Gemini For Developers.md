@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building the future: Google Gemini tools for AI developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980)
+#### [Building the future: Google Gemini tools for AI developers](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=0)** - [Lynn] What does the Google Gemini 2.x model family offer for your generative AI use cases?
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=0)** - [Lynn] What does the [[Google Gemini]] 2.x model family offer for your [[Generative AI]] use cases?
 >
-> **[0:07](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=7)** In addition to the powerful foundational LLMs, Gemini now includes a number of tools, libraries, and services that you can use to build your own gen AI applications.
+> **[0:07](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=7)** In addition to the powerful foundational LLMs, [[Gemini]] now includes a number of tools, libraries, and services that you can use to build your own gen AI applications.
 >
 > **[0:18](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980&t=18)** We'll explore these capabilities by looking at dev environments, prompt mechanics, grounding, API capabilities, and reference applications.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Gemini]] (2), ai (2), [[Generative AI]] (1), [[Gemini]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Google Gemini]] (2), [[Generative AI]] (1), [[Gemini]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [lynn] (1)
 
@@ -117,12 +116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Google Gemini 2.x models
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980)
+#### [Understand Google Gemini 2.x models](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=0)** - [Instructor] To start with LLM development for Gemini 2.0, we're going to start with prompt design because again, this is not an algorithm we're working with, this is a language model which needs to be interacted with at a basic level with an effective prompt.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=0)** - [Instructor] To start with LLM development for [[Gemini]] 2.0, we're going to start with prompt design because again, this is not an algorithm we're working with, this is a language model which needs to be interacted with at a basic level with an effective prompt.
 >
 > **[0:15](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=15)** And I see a lot of my developers skipping the step and moving to some of the more lower level interactions with the model, and it doesn't have a good result.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=45)** So I just copied this prompt, and the tool that I recommend that you use is not a developer tool to interact with the business.
 >
-> **[0:53](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=53)** I recommend use the commercial tool, just gemini.[google.com](https://google.com), because it's super friendly when you are in the early stages of building.
+> **[0:53](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=53)** I recommend use the commercial tool, just gemini.[[[Google]].com](https://google.com), because it's super friendly when you are in the early stages of building.
 >
 > **[1:01](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980&t=61)** Of course, as your application goes more towards maturity and release, you will then use the dev tools.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), prompt (4), llm (2), [[Gemini]] (2), application (2)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Google]] (1)
 > **Env Vars:** llm (2)
 > **Versions:** 2.0 (2)
 > **Prerequisites:** set up (1), before we start (1)
@@ -171,8 +169,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Google Gemini 2.x experimental models
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980)
+#### [Understand Google Gemini 2.x experimental models](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=8)** And this is really tricky in this fast-moving world.
 >
-> **[0:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=12)** As of this recording, here's the guidance from Google.
+> **[0:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=12)** As of this recording, here's the guidance from [[Google]].
 >
 > **[0:15](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=15)** 2.5 Pro and Flash have been released in what's called experimental.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=51)** And then once you have the ability to use the different models, then you're going to look at the capabilities and decide.
 >
-> **[0:58](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=58)** And you can see here, 2.5 Pro is the most powerful, and here's a new word for us, thinking model, with maximum response accuracy.
+> **[0:58](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=58)** And you can see here, 2.5 Pro is the most powerful, and here's a new [[Microsoft Word|word]] for us, thinking model, with maximum response accuracy.
 >
 > **[1:07](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=67)** So thinking is a new aspect of working with LLMs that's really happening across the vendor landscape.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=111)** So it is really the predecessor to 2.5.
 >
-> **[1:55](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=115)** Now when you are working with your business customer, again with these different models, I really recommend that you use the public tool gemini.[google.com](https://google.com) as a starting point.
+> **[1:55](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=115)** Now when you are working with your business customer, again with these different models, I really recommend that you use the public tool [[Gemini]].[google.com](https://google.com) as a starting point.
 >
 > **[2:06](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-experimental-models?u=76281980&t=126)** And you can see here as of this recording, we've got 2.5 Flash, 2.5 Pro, and then we have another model, Deep Research with 2.5 Pro.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), llm (2), [[Google]] (2), business (2), application (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Word|Word]] (1), [[Gemini]] (1)
 > **Versions:** 2.5 (8), 2.0 (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (2)
@@ -267,14 +264,13 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Google Gemini 2.x Canvas
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-canvas?u=76281980)
+#### [Understand Google Gemini 2.x Canvas](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-canvas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-canvas?u=76281980&t=0)** - [Instructor] Now to help your business owners envision what is possible with an LLM and also for other productivity tasks, but this is related to helping to design the use cases with your business owner.
 >
-> **[0:11](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-canvas?u=76281980&t=11)** There are some capabilities that are part of the consumer Gemini product that can really open the eyes of people who are just starting to work with LLMs.
+> **[0:11](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-canvas?u=76281980&t=11)** There are some capabilities that are part of the consumer [[Gemini]] product that can really open the eyes of people who are just starting to work with LLMs.
 >
 > **[0:20](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-canvas?u=76281980&t=20)** 'Cause one of the challenges on building these use cases is not everybody has used an LLM.
 >
@@ -358,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (4), llm (3), application (3), prompt (3), business (2)
+> **Frameworks & Libraries:** [[Gemini]] (4)
 > **Env Vars:** llm (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -367,12 +363,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Google AI Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980)
+#### [Use Google AI Studio](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=0)** - [Speaker] After you've refined your use case using the public Gemini tool, as a developer, you're probably going to want to move to Google AI Studio.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=0)** - [Speaker] After you've refined your use case using the public [[Gemini]] tool, as a developer, you're probably going to want to move to [[Google]] AI Studio.
 >
 > **[0:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=9)** And initially, this looks very similar, so it might be a little bit confusing.
 >
@@ -442,13 +437,13 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=202)** And as we go through this course, we'll also talk about some of these other capabilities that you can set over here when you're working with the models.
 >
-> **[3:30](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=210)** Do notice also, we have token count here, which again, as developer helps us as we're testing and iterating so that we can understand how many tokens we have used from a cost basis.
+> **[3:30](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=210)** Do notice also, we have token count here, which again, as developer helps us as we're testing and iterating so that we can understand how many [[Tokens]] we have used from a cost basis.
 >
 > **[3:41](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-google-ai-studio?u=76281980&t=221)** This is really your core developer tool, and you're going to want to really spend a lot of time here when you're first starting building your custom LLM application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Gemini]] (4), [[Google]] (3), llm (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (3), [[Tokens]] (1)
 > **Versions:** 2.5 (4), 2.0 (1), 1.5 (1), 1.25 (1), 3.50 (1)
 > **Env Vars:** llm (3), api (1)
 > **Definitions:** is a  (3)
@@ -456,12 +451,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [speaker] (1)
 
-#### Use Colab Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980)
+#### [Use Colab Jupyter Notebook](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=0)** - [Instructor] As you're working along in Google AI Studio and you're refining your prompt and you're working with different LLM model versions, and eventually setting the model run settings over using this box on the side here, you'll get to the point where you want to start interacting programmatically with what you've done in here, so code, basically.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=0)** - [Instructor] As you're working along in [[Google]] AI Studio and you're refining your prompt and you're working with different LLM model versions, and eventually setting the model run settings over using this box on the side here, you'll get to the point where you want to start interacting programmatically with what you've done in here, so code, basically.
 >
 > **[0:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=19)** So, in order to do that, you need to do a couple things.
 >
@@ -481,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=59)** If I bring this up, this gives me some code, but what is this?
 >
-> **[1:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=63)** So, notice it says you can run this prompt from the Gemini API after installing the relevant package, so if I click on Gemini API here, this is going to take us into the developer docs, which is really where we're going to start interacting programmatically with our models, and it gives us the sample code for us to interact.
+> **[1:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=63)** So, notice it says you can run this prompt from the [[Gemini]] API after installing the relevant package, so if I click on Gemini API here, this is going to take us into the developer docs, which is really where we're going to start interacting programmatically with our models, and it gives us the sample code for us to interact.
 >
 > **[1:23](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=83)** So, where can we interact?
 >
@@ -501,9 +495,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=121)** Well, not quite, you can't quite try that out here.
 >
-> **[2:04](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=124)** If you want to run this, you have to actually have a Google Cloud Demo account, which we're not really going to be working with this much in this course, we're going to work more with the Studio tool.
+> **[2:04](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=124)** If you want to run this, you have to actually have a [[Google Cloud Platform (GCP)|Google Cloud]] Demo account, which we're not really going to be working with this much in this course, we're going to work more with the Studio tool.
 >
-> **[2:16](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=136)** But if you wanted to, you can see if I scroll down here, when we create the client, we have the Vertex AI service, which is the set of services inside of the Google Cloud platform that allows you to work with AI models, including Gemini.
+> **[2:16](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=136)** But if you wanted to, you can see if I scroll down here, when we create the client, we have the [[Vertex]] AI service, which is the set of services inside of the [[Google Cloud Platform (GCP)|Google Cloud platform]] that allows you to work with AI models, including Gemini.
 >
 > **[2:32](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-colab-jupyter-notebook?u=76281980&t=152)** And notice project and location are blank, so you would have to fill those in with your project and your location and you'd have to set that up.
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), ai (3), prompt (3), [[Gemini]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** api (12), ide (2), llm (1)
 > **Tools:** colab (4), vs code (2)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -533,12 +527,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design and test language model prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980)
+#### [Design and test language model prompts](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=0)** - [Instructor] As we dig into designing prompts, I have an additional tool for us in addition to this Google AI for Developers documentation around prompting.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=0)** - [Instructor] As we dig into designing prompts, I have an additional tool for us in addition to this [[Google]] AI for Developers documentation around prompting.
 >
 > **[0:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=9)** And this tool for prompting is actually designed for end users, but I really like it because it helps marry the two capabilities together, what your end users are asking for, and then what you can do as a developer.
 >
@@ -554,9 +547,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=61)** Where is it here?
 >
-> **[1:02](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=62)** It's more code-y like it is to use a confusion matrix in Python.
+> **[1:02](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=62)** It's more code-y like it is to use a confusion matrix in [[Python (Programming Language)|Python]].
 >
-> **[1:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=69)** And then when I pulled it up, it by default pulled up the Gemini 1.5 model, and I switched that to the Gemini 2.5 Pro because I wanted to work with Thinking.
+> **[1:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=69)** And then when I pulled it up, it by default pulled up the [[Gemini]] 1.5 model, and I switched that to the Gemini 2.5 Pro because I wanted to work with Thinking.
 >
 > **[1:21](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980&t=81)** So I went ahead and ran it.
 >
@@ -644,19 +637,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[Gemini]] (3), [[Google]] (2), ai (2), data (2)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (2), python (1), make (1), find (1)
 > **Versions:** 2.5 (2), 1.5 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use system instructions with prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-system-instructions-with-prompts?u=76281980)
+#### [Use system instructions with prompts](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-system-instructions-with-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-system-instructions-with-prompts?u=76281980&t=0)** - [Instructor] Another way to augment your prompts is to use a capacity called system instructions and the documentation for this is actually on Google Cloud under Vertex AI, but it applies to the Google AI Studio as well.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-system-instructions-with-prompts?u=76281980&t=0)** - [Instructor] Another way to augment your prompts is to use a capacity called system instructions and the documentation for this is actually on [[Google Cloud Platform (GCP)|Google Cloud]] under [[Vertex]] AI, but it applies to the [[Google]] AI Studio as well.
 >
 > **[0:13](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-system-instructions-with-prompts?u=76281980&t=13)** So what are these?
 >
@@ -704,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), ai (3), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Vertex]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** llm (1)
 > **Cross-References:** go back to (1)
@@ -712,12 +704,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Gemini compare mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980)
+#### [Use Gemini compare mode](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=0)** - [Instructor] Alright, the next thing that you might want to do when you're working in your app dev in Google AI Studio is you might want to compare the output from your prompt from more than one model.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=0)** - [Instructor] Alright, the next thing that you might want to do when you're working in your app dev in [[Google]] AI Studio is you might want to compare the output from your prompt from more than one model.
 >
 > **[0:10](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=10)** You might be trying to figure out which model version to use.
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=20)** So if I click this button, then what I get is I get my prompt, but I have the ability to use a different model to compare.
 >
-> **[0:30](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=30)** So we can go ahead and compare Flash preview, Gemini 2.5, to Pro preview.
+> **[0:30](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=30)** So we can go ahead and compare Flash preview, [[Gemini]] 2.5, to Pro preview.
 >
 > **[0:36](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=36)** And I can type something like: Okay, thanks.
 >
@@ -751,7 +742,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=121)** So I'm just reading across these, the goals.
 >
-> **[2:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=123)** On Flash, it's the user wants unit tests for Python code I provided, which calculates metrics; the user wants unit tests from the previous Python.
+> **[2:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=123)** On Flash, it's the user wants unit tests for [[Python (Programming Language)|Python]] code I provided, which calculates metrics; the user wants unit tests from the previous Python.
 >
 > **[2:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=132)** Okay, so that seems okay.
 >
@@ -763,7 +754,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=142)** I'm looking at what is being considered in the creation of the tests.
 >
-> **[2:29](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=149)** This is interesting, unit testing, the visual output is complex and not done with unit test.
+> **[2:29](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=149)** This is interesting, [[Unit Testing]], the visual output is complex and not done with unit test.
 >
 > **[2:36](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-gemini-compare-mode?u=76281980&t=156)** Is this one even going to do that at all?
 >
@@ -807,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), ai (2), [[Python (Programming Language)|Python]] (2), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Google]] (1), [[Gemini]] (1), [[Unit Testing]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** python (2)
 > **Versions:** 2.5 (2)
@@ -815,20 +806,19 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design and test multimodal prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980)
+#### [Design and test multimodal prompts](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=0)** - [Instructor] Up till now we've been working just with text prompting.
 >
-> **[0:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=3)** A whole new area is multimodal prompting.
+> **[0:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=3)** A whole new area is [[Multimodal Prompting]].
 >
 > **[0:07](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=7)** And again, I'm really finding a lack of imagination because people are just not using LLMs day in and day out.
 >
 > **[0:14](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=14)** And so the first thing I would challenge you as a developer is to just use LLMs as much as you can.
 >
-> **[0:20](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=20)** Use it as much as you use a search engine like Google.
+> **[0:20](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=20)** Use it as much as you use a search engine like [[Google]].
 >
 > **[0:22](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=22)** And you will develop this intuition for what's possible and then you'll help to convey that to the business side of your work and help them to learn about what's possible.
 >
@@ -872,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=125)** The persona, the task, the context, the output, and then doing this multimodally.
 >
-> **[2:11](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=131)** And so if we click run and we're using Gemini 2.5 Flash here, we can see the thinking if we want to see that.
+> **[2:11](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=131)** And so if we click run and we're using [[Gemini]] 2.5 Flash here, we can see the thinking if we want to see that.
 >
 > **[2:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-multimodal-prompts?u=76281980&t=139)** All right, class, get ready for a super fast tour through museum hall packed with skeletons of giant dinosaurs, flying, whatever it is in ancient swimming reptiles.
 >
@@ -898,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Gemini]] (2), [[Multimodal Prompting]] (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Multimodal Prompting]] (1), [[Google]] (1)
 > **Versions:** 2.5 (1), 2.0 (1)
 > **Analogies:** picture (1), it's like (1)
 > **CLI Commands:** find (1)
@@ -911,8 +901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure model temperature
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980)
+#### [Configure model temperature](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +911,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=10)** So, what is Temperature, and how does it work?
 >
-> **[0:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=12)** Here's some documentation from, again, Vertex AI.
+> **[0:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=12)** Here's some documentation from, again, [[Vertex]] AI.
 >
 > **[0:16](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=16)** They talk about another parameter first.
 >
@@ -930,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=28)** So, more towards deterministic, "while higher temperatures can lead to more diverse "or creative results.
 >
-> **[0:33](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=33)** "A temperature of 0 means that the highest probability "tokens are always selected."
+> **[0:33](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=33)** "A temperature of 0 means that the highest [[Probability]] "[[Tokens]] are always selected."
 >
 > **[0:39](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=39)** But it's still not deterministic. That's important.
 >
@@ -944,7 +933,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=64)** So, let's see how this works Using AI Studio, with our familiar flower shop prompt.
 >
-> **[1:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=69)** So, we're using Gemini 2.5 Pro Preview model.
+> **[1:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=69)** So, we're using [[Gemini]] 2.5 Pro Preview model.
 >
 > **[1:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980&t=72)** The default temperature setting is 2.
 >
@@ -1008,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), ai (2), [[Vertex]] (1), [[Probability]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (1), [[Probability]] (1), [[Tokens]] (1), [[Gemini]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Versions:** 2.5 (1)
@@ -1016,8 +1005,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure model safety settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-safety-settings?u=76281980)
+#### [Configure model safety settings](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-safety-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1067,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), ai (1), prompt (1)
 > **Prerequisites:** configure (2)
 > **Env Vars:** api (1)
 > **Versions:** 2.5 (1)
@@ -1088,8 +1075,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure model parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980)
+#### [Configure model parameters](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=6)** Again, the documentation doesn't exactly match some of the newer models here, but this is the base documentation.
 >
-> **[0:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=12)** So you can see that you can set the max output tokens.
+> **[0:12](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=12)** So you can see that you can set the max output [[Tokens]].
 >
 > **[0:15](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=15)** So a token is approximately four characters.
 >
@@ -1123,7 +1109,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=53)** Tokens are selected from the most to the least probable until the sum of their probabilities equals the topP value.
 >
-> **[0:59](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=59)** They give an example, if tokens A, B, and C have a probability of 0.3, 0.2 and 0.1 and the topP is 0.5, then the model will select A or B as the next token by using the temperature and exclude C as a candidate.
+> **[0:59](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=59)** They give an example, if tokens A, B, and C have a [[Probability]] of 0.3, 0.2 and 0.1 and the topP is 0.5, then the model will select A or B as the next token by using the temperature and exclude C as a candidate.
 >
 > **[1:13](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=73)** So the default topP value is 0.95.
 >
@@ -1133,7 +1119,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=89)** So what does this look like?
 >
-> **[1:31](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=91)** So if we go back over to our interface here, and we are working with Gemini 2.5 Pro, you can see that in the advanced settings, which you can open and close, we looked at safety, so we could add a stop sequence, and, again, it tells you if you've forgotten, an output length, and our Top P, and this is set by default to 0.95.
+> **[1:31](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=91)** So if we go back over to our interface here, and we are working with [[Gemini]] 2.5 Pro, you can see that in the advanced settings, which you can open and close, we looked at safety, so we could add a stop sequence, and, again, it tells you if you've forgotten, an output length, and our Top P, and this is set by default to 0.95.
 >
 > **[1:53](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-parameters?u=76281980&t=113)** Now, a really interesting thing, and again this is pretty darn new as of this new model release, is if you switch to a different model, let's go to Flash Preview, you also now have the ability to set thinking mode and thinking budget.
 >
@@ -1153,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (6), next (2), [[Probability]] (1), [[Gemini]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[Probability]] (1), [[Gemini]] (1)
 > **Code Identifiers:** topp (5), topk (3)
 > **Versions:** 0.95 (2), 0.3 (1), 0.2 (1), 0.1 (1), 0.5 (1)
 > **Cross-References:** we talked about (1), go back to (1)
@@ -1162,8 +1148,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Use the AI Studio dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980)
+#### [Use the AI Studio dashboard](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=16)** So if you've used the tool before, it has been updated.
 >
-> **[0:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=19)** So you have three sections in the dashboard currently, you have the API keys where you can click the blue button to create API keys and get your key for use with the Gemini API, you have a change log, which is helpful, because you can then see when releases occur, which is very frequent.
+> **[0:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=19)** So you have three sections in the dashboard currently, you have the API keys where you can click the blue button to create API keys and get your key for use with the [[Gemini]] API, you have a change log, which is helpful, because you can then see when releases occur, which is very frequent.
 >
 > **[0:39](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=39)** So I recommend that you just about weekly take a look at this just to see what's new because it's a very, very fast cadence.
 >
@@ -1179,7 +1164,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=52)** And I always like to turn on auto save so that I don't lose any of my work.
 >
-> **[0:56](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=56)** And this is the UI at this point, I will say that Google is iterating quite frequently on this ui.
+> **[0:56](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=56)** And this is the UI at this point, I will say that [[Google]] is iterating quite frequently on this ui.
 >
 > **[1:02](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-the-ai-studio-dashboard?u=76281980&t=62)** So when you are watching this course, if it's been updated, Google and the whole world of LLMs is moving very, very fast.
 >
@@ -1189,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Google]] (2), ai (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Gemini]] (1)
 > **Env Vars:** api (3)
 > **Documentation:** the documentation (1)
 > **Warnings:** be aware (1)
@@ -1200,22 +1185,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use structured output
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980)
+#### [Use structured output](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=0)** - [Instructor] The next thing that we want to work with in terms of model run settings are the tools, and you can see that we have four tools that are exposed in the AI studio: structured output, code execution, function, calling, and grounding with Google Search.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=0)** - [Instructor] The next thing that we want to work with in terms of model run settings are the tools, and you can see that we have four tools that are exposed in the AI studio: structured output, code execution, function, calling, and grounding with [[Google]] Search.
 >
 > **[0:13](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=13)** Now the availability of the tools does vary by model.
 >
-> **[0:18](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=18)** And so I'll show you here, if I go to Gemini 2 Flash, you can see that some of the tools are not available.
+> **[0:18](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=18)** And so I'll show you here, if I go to [[Gemini]] 2 Flash, you can see that some of the tools are not available.
 >
 > **[0:27](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=27)** Flashlight, for example. So it varies by model.
 >
 > **[0:30](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=30)** So I'm going to go ahead and do Gemini 2.5 Flash preview, and then we're going to use a sample to look at structured output.
 >
-> **[0:38](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=38)** So in the prompt gallery, we're going to bring up this sample which actually uses this, and then we'll run a prompt so you can see how this works to list recipes in a JSON format.
+> **[0:38](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=38)** So in the prompt gallery, we're going to bring up this sample which actually uses this, and then we'll run a prompt so you can see how this works to list recipes in a [[JSON]] format.
 >
 > **[0:49](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980&t=49)** So you can see that the prompt is, "Generate a list of cookie recipes.
 >
@@ -1245,7 +1229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (4), [[JSON]] (4), prompt (3), ai (2), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[JSON]] (4), [[Google]] (1)
 > **Env Vars:** json (4), api (1)
 > **Versions:** 2.5 (2), 1.5 (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1253,8 +1237,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use code execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980)
+#### [Use code execution](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=61)** Okay, there's the pattern.
 >
-> **[1:04](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=64)** Okay, so now here's the Python code with the pattern and I can turn on Code Execution and I can say, "run this code "and show me the result."
+> **[1:04](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=64)** Okay, so now here's the [[Python (Programming Language)|Python]] code with the pattern and I can turn on Code Execution and I can say, "run this code "and show me the result."
 >
 > **[1:27](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=87)** And it's showing different strings and whether it matches or not.
 >
@@ -1294,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=100)** So the way that this works, here's the documentation.
 >
-> **[1:42](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=102)** Notice Gemini is only able to execute code in Python.
+> **[1:42](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=102)** Notice [[Gemini]] is only able to execute code in Python.
 >
 > **[1:46](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-code-execution?u=76281980&t=106)** You can ask Gemini to generate code in another language.
 >
@@ -1312,20 +1295,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), prompt (3), [[Gemini]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Gemini]] (2)
 > **CLI Commands:** python (6), make (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use function calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980)
+#### [Use function calling](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=0)** - [Instructor] The next tool we have available is super powerful but a little bit complicated.
 >
-> **[0:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=5)** So, I tried to make a simpler example 'cause even Google's basic example is pretty long.
+> **[0:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=5)** So, I tried to make a simpler example 'cause even [[Google]]'s basic example is pretty long.
 >
 > **[0:11](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=11)** So, I simplified, and I'll show you in a second.
 >
@@ -1341,17 +1323,17 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=44)** And as you can see, it can be called in the construction of the prompt when the output comes.
 >
-> **[0:49](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=49)** I mean this is kind of a really powerful extension of Gemini and really all LLMs.
+> **[0:49](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=49)** I mean this is kind of a really powerful extension of [[Gemini]] and really all LLMs.
 >
 > **[0:56](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=56)** So, the model can act as a bridge between natural language and real world actions and data.
 >
-> **[1:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=60)** So, there's three primary use cases and the first one is to augment knowledge, access information from external sources like databases, APIs, and knowledge bases.
+> **[1:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=60)** So, there's three primary use cases and the first one is to augment knowledge, access information from external sources like [[Databases]], APIs, and knowledge bases.
 >
 > **[1:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=69)** Super powerful to, in essence, ground the response, to extend capabilities to use external tools to perform computations and extend the limitations of the model, such as using an actual calculator or creating charts, and to take actions.
 >
 > **[1:24](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=84)** So, interact with external systems using APIs, such as scheduling appointments, creating invoices, sending emails, or controlling smart home devices.
 >
-> **[1:32](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=92)** So, this is really where the application development piece comes into play.
+> **[1:32](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=92)** So, this is really where the [[Application Development]] piece comes into play.
 >
 > **[1:37](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=97)** And there are three different examples in this documentation.
 >
@@ -1395,7 +1377,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=204)** So, you know, we're moving from the world of just typing in prompts to creating prompt templates basically.
 >
-> **[3:31](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=211)** And there are a lot of tools out there that I know I've used like LangChain and some other tools as you're building these multi-part applications.
+> **[3:31](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=211)** And there are a lot of tools out there that I know I've used like [[LangChain]] and some other tools as you're building these multi-part applications.
 >
 > **[3:39](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=219)** But having Function Calling integrated inside of AI Studio is again a really handy developer feature that I think once you wrap your head around it, you will use.
 >
@@ -1407,7 +1389,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=245)** And always, always read the Best Practices because that's there for a reason.
 >
-> **[4:10](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=250)** Things like using strong typing because Python, of course, is not strongly typed by default are going to help you.
+> **[4:10](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=250)** Things like using strong typing because [[Python (Programming Language)|Python]], of course, is not strongly typed by default are going to help you.
 >
 > **[4:16](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-function-calling?u=76281980&t=256)** So, in working with this new world of Function Calling really work through this entire example.
 >
@@ -1415,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), ai (3), [[Gemini]] (3), application (2), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (1), [[Databases]] (1), [[Application Development]] (1), [[LangChain]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** generatecontent (1)
@@ -1424,12 +1406,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use model grounding
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980)
+#### [Use model grounding](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=0)** - [Instructor] And to round out our tour of the tools available in AI Studio, we're going to look at my favorite tool, which is grounding with Google Search.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=0)** - [Instructor] And to round out our tour of the tools available in AI Studio, we're going to look at my favorite tool, which is grounding with [[Google]] Search.
 >
 > **[0:09](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=9)** How often have we, in using some gen AI tool, went and done a manual Google search to look at the quality of the output?
 >
@@ -1439,7 +1420,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=26)** I'm going to go to the bottom here.
 >
-> **[0:28](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=28)** And the sample that Google has is set to work with Gemini 1.5 Pro.
+> **[0:28](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=28)** And the sample that Google has is set to work with [[Gemini]] 1.5 Pro.
 >
 > **[0:33](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=33)** It's when is the next total solar eclipse?
 >
@@ -1485,15 +1466,15 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=137)** So in other words, you can pin the answers of a model that is generated to information that's found in data you provide.
 >
-> **[2:26](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=146)** This to me is really exciting because it can ramp up the usability of generative AI by dramatically reducing hallucinations if you ground with your data.
+> **[2:26](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=146)** This to me is really exciting because it can ramp up the usability of [[Generative AI]] by dramatically reducing hallucinations if you ground with your data.
 >
 > **[2:39](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=159)** Now, not every use case needs that.
 >
 > **[2:41](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=161)** But like I said, I do a lot of work in healthcare, and a lot of the ones I work in do.
 >
-> **[2:46](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=166)** You can ground with Elasticsearch, and you have web grounding for enterprise.
+> **[2:46](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=166)** You can ground with [[Elasticsearch]], and you have web grounding for enterprise.
 >
-> **[2:50](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=170)** And you can even use Google Search suggestions, kind of bringing the products together.
+> **[2:50](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=170)** And you can even use Google Search suggestions, kind of bringing the [[Microsoft Products|products]] together.
 >
 > **[2:55](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-model-grounding?u=76281980&t=175)** So this is an area that Google has been expanding, adding to their API.
 >
@@ -1505,7 +1486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (10), [[Search]] (7), ai (3), api (3), data (3)
+> **Frameworks & Libraries:** [[Google]] (10), [[Gemini]] (2), [[Generative AI]] (1), [[Elasticsearch]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 1.5 (3), 2.5 (2)
 > **Env Vars:** api (3), llm (1)
 > **CLI Commands:** make (2)
@@ -1519,12 +1500,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generate videos with Veo 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980)
+#### [Generate videos with Veo 2](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980&t=0)** - [Instructor] A recently released capability of the Google family of large language models has gathered a lot of excitement.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980&t=0)** - [Instructor] A recently released capability of the [[Google]] family of [[Large Language Models (LLM)|large language models]] has gathered a lot of excitement.
 >
 > **[0:08](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980&t=8)** And that is the release of Veo or Veo 2, which is a video generator.
 >
@@ -1622,23 +1602,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), game (2), [[Large Language Models (LLM)|Large language models]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** cat (1)
 > **Cross-References:** later in (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test Gemini Live
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980)
+#### [Test Gemini Live](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980&t=0)** - [Instructor] So the next capability is the ability to literally talk to Gemini.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980&t=0)** - [Instructor] So the next capability is the ability to literally talk to [[Gemini]].
 >
 > **[0:04](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980&t=4)** And this is pretty darn new and I'm still getting my head around it.
 >
-> **[0:08](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980&t=8)** You have the ability in this Google AI studio to talk, share your webcam or share your screen and notice you are going to be interacting with the Gemini 2.0 flash model.
+> **[0:08](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980&t=8)** You have the ability in this [[Google]] AI studio to talk, share your webcam or share your screen and notice you are going to be interacting with the Gemini 2.0 flash model.
 >
 > **[0:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-gemini-live?u=76281980&t=19)** That's the only one available at this time.
 >
@@ -1724,7 +1703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (12), [[Google]] (6), [[Search]] (3), ai (2), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (12), [[Google]] (6)
 > **Speakers:** - [instructor] (8), - [gemini] (7)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
@@ -1733,12 +1712,11 @@ created: 2026-05-02
 > **Env Vars:** llm (1)
 > **Versions:** 2.0 (1)
 
-#### Test a Gemini app
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980)
+#### [Test a Gemini app](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=0)** - [Instructor] Yet another new capability in the Google AI Studio is, starter apps.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=0)** - [Instructor] Yet another new capability in the [[Google]] AI Studio is, starter apps.
 >
 > **[0:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=5)** So we have some demo apps, we have our apps, and FAQ, and we have this button to create an app.
 >
@@ -1746,15 +1724,15 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=18)** And I really like these.
 >
-> **[0:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=19)** This has only been out for like a month or two since Google Cloud next this year as of this recording.
+> **[0:19](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=19)** This has only been out for like a month or two since [[Google Cloud Platform (GCP)|Google Cloud]] next this year as of this recording.
 >
 > **[0:24](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=24)** So I'm sure Google will be adding more.
 >
-> **[0:27](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=27)** But if I just go in and go to this one, count tokens, this is a real simple one.
+> **[0:27](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=27)** But if I just go in and go to this one, count [[Tokens]], this is a real simple one.
 >
 > **[0:32](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=32)** You can see that this interface allows you to see the TypeScript.
 >
-> **[0:36](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=36)** It's set up to autorun the HTML, and we don't have any CSS here other than the fact that the text is black and I can change it to red there.
+> **[0:36](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=36)** It's set up to autorun the [[HTML]], and we don't have any CSS here other than the fact that the text is black and I can change it to red there.
 >
 > **[0:46](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=46)** And you can see this actually executes in real time.
 >
@@ -1764,11 +1742,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=56)** So what this does is it gives you this boilerplate code, which can get you up and going really quickly for these different types of applications.
 >
-> **[1:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=65)** And you can see you've got prompts, live, chat, count tokens, embeddings, very useful for rag or retrieval, augmented generative applications, code execution, function calling, streaming, a react example, and OpenAI, SDK compatibility.
+> **[1:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=65)** And you can see you've got prompts, live, chat, count tokens, embeddings, very useful for rag or retrieval, augmented generative applications, code execution, function calling, streaming, a [[React.js|react]] example, and OpenAI, SDK compatibility.
 >
 > **[1:22](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=82)** I also think it's really fun to look at the demo apps.
 >
-> **[1:26](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=86)** I'm showing my age here, but I like this Gemini 95.
+> **[1:26](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=86)** I'm showing my age here, but I like this [[Gemini]] 95.
 >
 > **[1:29](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/test-a-gemini-app?u=76281980&t=89)** It's kind of cracks me up.
 >
@@ -1788,7 +1766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Tokens]] (3), ai (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Tokens]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[HTML]] (1), [[React.js|React]] (1)
 > **Env Vars:** faq (1), html (1), css (1), sdk (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
@@ -1801,26 +1779,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=0)** - [Lynn] Thanks for going with me on the journey of yet another course on LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=0)** - [Lynn] Thanks for going with me on the journey of yet another course on [[LinkedIn]] Learning.
 >
-> **[0:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=5)** I'm having so much fun using Google AI Studio.
+> **[0:05](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=5)** I'm having so much fun using [[Google]] AI Studio.
 >
 > **[0:08](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=8)** It really is evolving quickly, so when you work with it, it might have even more features.
 >
 > **[0:14](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=14)** I recommend for more learning that you are always taking a look at not only the documentation, but there's a link here that I look at probably, oh gosh, every week or two.
 >
-> **[0:25](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=25)** It's the Cookbook and this links out to a GitHub repo that Google maintains.
+> **[0:25](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=25)** It's the Cookbook and this links out to a [[GitHub]] repo that Google maintains.
 >
 > **[0:31](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=31)** And you can see it's pretty updated.
 >
 > **[0:35](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=35)** If I look at the updates over here, we've got updates that were last week, 14 hours ago, and we have lots and lots of examples, and you can see this pretty good README.
 >
-> **[0:47](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=47)** So when you are going beyond what you're doing in the Google AI Studio and moving to a production situation, probably using Vertex AI and Google Cloud, because you've got your own data, this is going to help you make that transition.
+> **[0:47](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=47)** So when you are going beyond what you're doing in the Google AI Studio and moving to a production situation, probably using [[Vertex]] AI and [[Google Cloud Platform (GCP)|Google Cloud]], because you've got your own data, this is going to help you make that transition.
 >
 > **[1:03](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980&t=63)** As always, keep learning.
 >
@@ -1832,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), ai (3), [[LinkedIn]] (1), [[GitHub]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (1), [[GitHub]] (1), [[Vertex]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** readme (1)
 > **Documentation:** the documentation (1)

@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=0)** - Artificial intelligence is fascinating field.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is fascinating field.
 >
 > **[0:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=3)** It brings out a lot of passion, and many people have strong opinions.
 >
@@ -118,9 +117,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=61)** You'll see the history of artificial intelligence, and the ideas that fell in and out of favor in the field.
 >
-> **[1:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=67)** You'll also see how different approaches like symbolic reasoning, machine learning, and artificial neural networks all blend into more modern approaches to AI.
+> **[1:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=67)** You'll also see how different approaches like symbolic reasoning, machine learning, and [[Artificial Neural Networks]] all blend into more modern approaches to AI.
 >
-> **[1:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=78)** Finally, you'll see how newer approaches like deep learning allow machines to see and understand the world in a way that humans can't comprehend.
+> **[1:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=78)** Finally, you'll see how newer approaches like [[Deep Learning]] allow machines to see and understand the world in a way that humans can't comprehend.
 >
 > **[1:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980&t=88)** This course is designed for managers, entrepreneurs, students, or business professionals who want to better understand how AI technologies might impact their field.
 >
@@ -132,7 +131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (5), ai (5), [[Artificial Neural Networks]] (1), [[Deep Learning]] (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Artificial Neural Networks]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - artificial (1)
 
@@ -141,12 +140,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define general intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980)
+#### [Define general intelligence](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=0)** - Back in 1955, Dartmouth Professor John McCarthy coined the term artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=0)** - Back in 1955, Dartmouth Professor [[John the Ripper|John]] McCarthy coined the term [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=7)** He created the term as part of an academic grant to fund the first AI workshop.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=82)** How do you define human intelligence?
 >
-> **[1:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=84)** There are many different forms of human intelligence.
+> **[1:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=84)** There are many different [[Forms]] of human intelligence.
 >
 > **[1:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=86)** Many great artists are terrible mathematicians.
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=115)** IBM Watson beat some of the best champions in the game show Jeopardy.
 >
-> **[2:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=120)** Google's DeepMind has beaten the best players in the 2,500-year-old Chinese game called Go, a game that's so complex that there's thought to be more than twice as many possible game scenarios as there are atoms in the universe.
+> **[2:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=120)** [[Google]]'s DeepMind has beaten the best players in the 2,500-year-old Chinese game called Go, a game that's so complex that there's thought to be more than twice as many possible game scenarios as there are atoms in the universe.
 >
 > **[2:17](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=137)** As good as they are, none of these computers understand the purpose of a game or even why they're playing.
 >
@@ -210,7 +208,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=187)** It has set rules with a certain amount of possibilities.
 >
-> **[3:10](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=190)** When IBM's Watson played Jeopardy, it used natural language processing to understand the question.
+> **[3:10](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=190)** When IBM's Watson played Jeopardy, it used [[Natural Language Processing (NLP)|natural language processing]] to understand the question.
 >
 > **[3:17](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980&t=197)** Then it used pattern matching to check its database for a possible answer.
 >
@@ -246,18 +244,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (6), ai (5), [[Google]] (2), database (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Google]] (2), [[John the Ripper|John]] (1), [[Forms]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** ibm (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - back (1)
 
-#### The history of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980)
+#### [The history of AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=0)** - Early artificial intelligence was a mix of ambition and self-discipline.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=0)** - Early [[Artificial Intelligence (AI)|artificial intelligence]] was a mix of ambition and self-discipline.
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=5)** Some scientists were quick to over promise what could be done with early machines.
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=58)** When you see a stop sign, you know to look for traffic.
 >
-> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=62)** When you see the letter a, you know that the word will make a certain sound.
+> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=62)** When you see the letter a, you know that the [[Microsoft Word|word]] will make a certain sound.
 >
 > **[1:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=65)** When you see a sandwich, you might think of eating.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=81)** In one sense, our language, ideas, and concepts were just broad groupings of interconnected symbols, but not everyone bought into this idea.
 >
-> **[1:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=90)** In 1980, philosopher John Sorrell argued that you could never call these symbolic connections real intelligence.
+> **[1:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=90)** In 1980, philosopher [[John the Ripper|John]] Sorrell argued that you could never call these symbolic connections real intelligence.
 >
 > **[1:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-history-of-ai?u=76281980&t=98)** To explain, he created something called the Chinese Room Argument.
 >
@@ -347,18 +344,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), traffic (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[John the Ripper|John]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** imagine (2), just like (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - early (1)
 
-#### Strong vs. weak AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980)
+#### [Strong vs. weak AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=0)** - The philosopher John Searle pointed out that you can think of artificial intelligence in two different ways.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=0)** - The philosopher [[John the Ripper|John]] Searle pointed out that you can think of [[Artificial Intelligence (AI)|artificial intelligence]] in two different ways.
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=6)** There's strong AI, and weak AI.
 >
@@ -398,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=100)** Then they'll convert your language into something that a computer will recognize.
 >
-> **[1:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=104)** They'll also do pattern matching to connect your request to what's in their database, but if you think about it, that's not that much different from when you type something into Google or Bing.
+> **[1:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=104)** They'll also do pattern matching to connect your request to what's in their database, but if you think about it, that's not that much different from when you type something into [[Google]] or Bing.
 >
 > **[1:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/strong-vs-weak-ai?u=76281980&t=115)** The difference is that it seems to behave much more like a human.
 >
@@ -468,19 +464,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), database (2), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[John the Ripper|John]] (2), [[Google]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gofai (1)
 > **Analogies:** just like (1)
 > **Speakers:** - the (1)
 
-#### Plan AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980)
+#### [Plan AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=0)** - In the very beginning, artificial intelligence used something called the symbolic systems approach.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=0)** - In the very beginning, [[Artificial Intelligence (AI)|artificial intelligence]] used something called the symbolic systems approach.
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=6)** This approach allowed machines to act in a way that seemed intelligent, but in reality it was just complex pattern matching.
 >
@@ -540,7 +535,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=157)** If the program is expecting these as a first note, then it limits how far it has to search to match the pattern.
 >
-> **[2:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=166)** One common place that you'll see AI planning is with navigation systems like Google Maps.
+> **[2:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=166)** One common place that you'll see AI planning is with navigation systems like [[Google]] Maps.
 >
 > **[2:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=171)** Here you'll put in your starting location and your destination, and then the system will step through all the possibilities to find you the best route.
 >
@@ -572,7 +567,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=255)** Like most common sense, if you turn out to be wrong, then pretty much everything you assume aftewards will also be incorrect.
 >
-> **[4:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=262)** Think about how your mapping software might react if early on you turn onto a road that hasn't been added to its list.
+> **[4:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=262)** Think about how your mapping software might [[React.js|react]] if early on you turn onto a road that hasn't been added to its list.
 >
 > **[4:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/plan-ai?u=76281980&t=270)** Even though you might use your mapping software every day, it still comes from symbolic system ideas that came out in the 1950s.
 >
@@ -584,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Google]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Search]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[React.js|React]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - in (1)
@@ -594,8 +589,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980)
+#### [Machine learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +665,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=208)** Something like if the note says this, then be sure to say this as a response.
 >
-> **[3:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=214)** You still run into the same challenge that John Straw pointed out with the symbolic systems approach.
+> **[3:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=214)** You still run into the same challenge that [[John the Ripper|John]] Straw pointed out with the symbolic systems approach.
 >
 > **[3:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=220)** The machine doesn't exactly know what's being said, it just matches the symbols and identifies patterns.
 >
@@ -687,7 +681,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=260)** That's partly because it's now much cheaper to store massive amounts of data.
 >
-> **[4:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=265)** In fact, sometimes machine learning is used interchangeably with the terms data science and big data.
+> **[4:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=265)** In fact, sometimes machine learning is used interchangeably with the terms [[Data Science]] and [[Big Data]].
 >
 > **[4:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980&t=271)** If you think about this, it makes a lot of sense.
 >
@@ -701,18 +695,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), database (1), game (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Data Science]] (1), [[Big Data]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** irs (1)
 > **Speakers:** - symbolic (1)
 
-#### Artificial neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980)
+#### [Artificial neural networks](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=0)** - Machine learning has gotten a big boost from artificial neural networks.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=0)** - Machine learning has gotten a big boost from [[Artificial Neural Networks]].
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=5)** An artificial neural network is a computer program that tries to mimic the structure of the human brain.
 >
@@ -720,7 +713,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=13)** A biological brain is filled with billions of neurons.
 >
-> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=18)** These neurons connect to one another and sends signals as a way to learn and react to the outside world.
+> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=18)** These neurons connect to one another and sends signals as a way to learn and [[React.js|react]] to the outside world.
 >
 > **[0:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=25)** These neurons communicate through synapses.
 >
@@ -746,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=83)** The band leaders in front wouldn't have any instruments.
 >
-> **[1:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=87)** Instead, their job is to listen to the music and pass the individual notes to the rest of the band.
+> **[1:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=87)** Instead, their job is to listen to the music and pass the individual notes to the [[Representational State Transfer (REST)|rest]] of the band.
 >
 > **[1:33](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/artificial-neural-networks?u=76281980&t=93)** Each player in the hidden layers would tune their instruments to see if it sounds like the note.
 >
@@ -804,15 +797,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Neural Networks]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[React.js|React]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[React.js|React]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** picture (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - machine (1)
 
-#### Perceptrons
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980)
+#### [Perceptrons](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +814,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=11)** At the time it seemed like machine learning had the wind at it's back.
 >
-> **[0:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=15)** It was ready to become the dominant form of artificial intelligence.
+> **[0:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=15)** It was ready to become the dominant form of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=20)** Yet what actually happened is that machine learning took a backseat to other innovations.
 >
@@ -854,7 +846,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=115)** In 1969, Minsky co-authored a book with Seymour Papert, called "Perceptrons".
 >
-> **[2:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=122)** In it, he argued decisively against Rosenblatt's approach to artificial neural networks.
+> **[2:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=122)** In it, he argued decisively against Rosenblatt's approach to [[Artificial Neural Networks]].
 >
 > **[2:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=128)** A few years after the book was published, Rosenblatt died in a boating accident.
 >
@@ -868,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=157)** This is a key part of how artificial neural networks learn and adapt.
 >
-> **[2:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=161)** This was partly because the Mark 1 was a hardware device.
+> **[2:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=161)** This was partly because the Mark 1 was a [[Hardware]] device.
 >
 > **[2:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=165)** So the single layer was hard coded to classify only a few patterns.
 >
@@ -882,7 +874,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=195)** They were slow, and they had to go through the problem several times before they could learn and improve.
 >
-> **[3:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=201)** It wasn't until the 1990's that Hinton started working in a new field called Deep Learning.
+> **[3:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=201)** It wasn't until the 1990's that Hinton started working in a new field called [[Deep Learning]].
 >
 > **[3:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/perceptrons?u=76281980&t=209)** They called it Deep Learning because there are many hidden layers.
 >
@@ -922,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Neural Networks]] (4), [[Deep Learning]] (4), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (4), [[Deep Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Hardware]] (1)
 > **Analogies:** picture (3), such as (2)
 > **CLI Commands:** cat (2), make (1), find (1)
 > **Env Vars:** mit (1)
@@ -934,12 +926,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Match patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980)
+#### [Match patterns](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=0)** - Deep learning and machine learning have been supercharged with the availability of massive amounts of data.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=0)** - [[Deep Learning]] and machine learning have been supercharged with the availability of massive amounts of data.
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=7)** If you wanted to create an AI program to identify pictures with cats, then you'll typically have access to millions of these images online.
 >
@@ -983,7 +974,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=129)** Human beings just couldn't keep up with that influx of new information.
 >
-> **[2:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=134)** So, in the mid 1990s, Yahoo started working with a smaller company called Google that would use machines to find its own categories and connections.
+> **[2:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=134)** So, in the mid 1990s, Yahoo started working with a smaller company called [[Google]] that would use machines to find its own categories and connections.
 >
 > **[2:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=146)** When people clicked on a link, Google would increase the weight of the link.
 >
@@ -1007,7 +998,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=212)** You have many more layers of players in your marching band.
 >
-> **[3:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=216)** These deep learning artificial neural networks look at so much data and create so many new connections that it's not even clear how these programs discover their patterns.
+> **[3:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=216)** These deep learning [[Artificial Neural Networks]] look at so much data and create so many new connections that it's not even clear how these programs discover their patterns.
 >
 > **[3:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=227)** It's like a black box where swirls of computation and data are mixed together and agree on what it means to be a cat.
 >
@@ -1023,7 +1014,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=262)** So, if you're starting your own program in AI, you have to be comfortable with the fact that your network might be sensing things that humans are unable to perceive.
 >
-> **[4:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=272)** Artificial intelligence is not the same as human intelligence.
+> **[4:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=272)** [[Artificial Intelligence (AI)|Artificial intelligence]] is not the same as human intelligence.
 >
 > **[4:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980&t=277)** And even though we might reach the same conclusions, we're definitely not going through the same process.
 >
@@ -1031,17 +1022,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Google]] (6), [[Deep Learning]] (4), ai (4), web (4)
+> **Frameworks & Libraries:** [[Google]] (6), [[Deep Learning]] (4), [[Artificial Neural Networks]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (3), cat (2), make (1)
 > **Analogies:** similar to (1), it's like (1)
 > **Speakers:** - deep (1)
 
-#### Data vs. reasoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980)
+#### [Data vs. reasoning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=0)** - Even though symbolic reasoning, machine learning, and artificial neural networks are all very different, they're still considered part of AI.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=0)** - Even though symbolic reasoning, machine learning, and [[Artificial Neural Networks]] are all very different, they're still considered part of AI.
 >
 > **[0:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=8)** That means if you're starting an AI project, you might have to figure out which one of these approaches works best.
 >
@@ -1089,7 +1079,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=112)** You could go through it this way step by step, hard coding most of the reasoning.
 >
-> **[1:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=118)** The second option you could try is to use a deep learning artificial neural network.
+> **[1:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=118)** The second option you could try is to use a [[Deep Learning]] artificial neural network.
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-vs-reasoning?u=76281980&t=123)** With this approach, you want to pump as much data as you can through the network.
 >
@@ -1141,19 +1131,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (4), [[Artificial Neural Networks]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - even (1)
 
-#### Unsupervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980)
+#### [Unsupervised learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=0)** - So, you've seen how artificial neural networks can tune into different patterns.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=0)** - So, you've seen how [[Artificial Neural Networks]] can tune into different patterns.
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=5)** Each neuron is like a member in a marching band.
 >
@@ -1175,13 +1164,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=58)** You want to be able to catagorize any song that's fed to the bandleaders in the front row.
 >
-> **[1:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=64)** That means that if you give them any Rock 'n' Roll song, the rest of the band should be able to catagorize it as Rock 'n' Roll.
+> **[1:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=64)** That means that if you give them any Rock 'n' Roll song, the [[Representational State Transfer (REST)|rest]] of the band should be able to catagorize it as Rock 'n' Roll.
 >
 > **[1:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=71)** The same should be true for Jazz, Classical, and even Broadway musicals.
 >
 > **[1:16](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=76)** There are two ways that you can teach your marching band to catagorize each song.
 >
-> **[1:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=82)** The first way is called supervised learning, the second way is called unsupervised learning.
+> **[1:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=82)** The first way is called [[Supervised Learning]], the second way is called unsupervised learning.
 >
 > **[1:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=89)** For supervised learning, you give the marching band a small set of data called a training set, in this case, it'll be several Jazz songs that have many of the same attributes of common Jazz music.
 >
@@ -1229,21 +1218,20 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=248)** If it's essential to use human created categories, then you might want to stick with supervised learning.
 >
-> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=254)** That way your neural networks will always look for patterns in your well-established categories.
+> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=254)** That way your [[Neural Networks]] will always look for patterns in your well-established categories.
 >
 > **[4:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/unsupervised-learning?u=76281980&t=260)** You might want to try unsupervised learning if it's more important to accurately group things regardless of the human created categories, but you're probably much more likely to find similar songs to the ones that you like if you work with AI created categories.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Supervised Learning]] (3), data (2), [[Artificial Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Artificial Neural Networks]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Neural Networks]] (1)
 > **Definitions:** is called (3), means that (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** itunes (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - so (1)
 
-#### Backpropagation
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980)
+#### [Backpropagation](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=35)** They tasted like a mixture of soap and bug spray and candles.
 >
-> **[0:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=38)** I spit them out and that ruined the rest of the bag.
+> **[0:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=38)** I spit them out and that ruined the [[Representational State Transfer (REST)|rest]] of the bag.
 >
 > **[0:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=42)** From that day forward, I was deeply suspicious of any of the darker colored beans.
 >
@@ -1283,7 +1271,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=72)** I wasn't thinking about it at the time, but I was actually using a gradient ascent to do a form of backpropagation.
 >
-> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=79)** Backpropagation is a term you'll often hear around artificial neural networks.
+> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=79)** Backpropagation is a term you'll often hear around [[Artificial Neural Networks]].
 >
 > **[1:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=84)** It's a very common way to deal with error correction.
 >
@@ -1303,7 +1291,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=122)** The deeper the groove, the more likely you are to follow the same path.
 >
-> **[2:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=127)** The challenge is that when you're doing supervised learning, there has to be a way to gently know that the artificial neural network has made a mistake.
+> **[2:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=127)** The challenge is that when you're doing [[Supervised Learning]], there has to be a way to gently know that the artificial neural network has made a mistake.
 >
 > **[2:16](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=136)** You've fallen out of the groove into the road and you need a way to get safely back.
 >
@@ -1341,7 +1329,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=225)** Maybe a touch more red, a touch more black, it's a match.
 >
-> **[3:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=229)** The backpropagation of errors in a gradient descent will help you twist the dials of your artificial neural network so that you can zoom in on the correct answer.
+> **[3:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=229)** The backpropagation of errors in a gradient descent will help you twist the dials of your artificial neural network so that you can [[Zoom]] in on the correct answer.
 >
 > **[3:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/backpropagation?u=76281980&t=239)** It's important to keep in mind that backprop is typically only used for supervised learning.
 >
@@ -1353,18 +1341,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Neural Networks]] (1), traffic (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Neural Networks]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
-#### Regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980)
+#### [Regression](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=0)** - Up until now you've seen how supervised learning can be used for classification.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=0)** - Up until now you've seen how [[Supervised Learning]] can be used for classification.
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=5)** You can use your neural network to classify music into different categories.
 >
@@ -1456,13 +1443,13 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=271)** After they found the pattern, it was up to human beings to try to sort out why this happens.
 >
-> **[4:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=277)** Perhaps at some point, these artificial neural networks will be able to create their own theories for why these patterns exist.
+> **[4:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=277)** Perhaps at some point, these [[Artificial Neural Networks]] will be able to create their own theories for why these patterns exist.
 >
 > **[4:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/regression?u=76281980&t=284)** For now, they pretty much rely on their human counterparts to find meaning in these connections.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Supervised Learning]] (1), ai (1), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** such as (1), think of it as (1)
 > **Warnings:** warning (1), keep in mind (1)
@@ -1473,14 +1460,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Robotics
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980)
+#### [Robotics](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=0)** - So far you've seen how artificial intelligence can work in a world of data.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=0)** - So far you've seen how [[Artificial Intelligence (AI)|artificial intelligence]] can work in a world of data.
 >
-> **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=5)** Artificial neural networks can recognize cats, classify music, and make complex connections.
+> **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=5)** [[Artificial Neural Networks]] can recognize cats, classify music, and make complex connections.
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=12)** But not all AI technology is limited to the digital world.
 >
@@ -1578,7 +1564,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=260)** One of the key things to figure out is the role data plays with the robot.
 >
-> **[4:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=265)** Google famously said that they think of their self-driving cars not as a robotics problem but as a big data problem.
+> **[4:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=265)** [[Google]] famously said that they think of their self-driving cars not as a robotics problem but as a [[Big Data]] problem.
 >
 > **[4:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980&t=274)** It's true that to figure out how to get a car to steer left or right is trivial compared to having a car understand when to turn left or right.
 >
@@ -1586,15 +1572,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), ai (3), [[Artificial Neural Networks]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Artificial Neural Networks]] (1), [[Google]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - so (1)
 
-#### Natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980)
+#### [Natural language processing](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,11 +1609,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=68)** That means that the machines have to do a better job existing in our world.
 >
-> **[1:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=73)** To do this, AI programs try to do something called natural language processing.
+> **[1:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=73)** To do this, AI programs try to do something called [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[1:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=80)** This is when you can interact with the machine using your own natural language.
 >
-> **[1:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=85)** We're all familiar with how to communicate with a search engine like Google.
+> **[1:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=85)** We're all familiar with how to communicate with a search engine like [[Google]].
 >
 > **[1:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=90)** There's a little box, and then you type in different questions or phrases.
 >
@@ -1658,7 +1643,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=158)** You wouldn't want an expert in a room hand coding different ways to describe Belgian waffles.
 >
-> **[2:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=164)** Again, a lot of the work in this area has been using machine learning and artificial neural networks.
+> **[2:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=164)** Again, a lot of the work in this area has been using machine learning and [[Artificial Neural Networks]].
 >
 > **[2:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=171)** Any time you send a text or an email, it potentially goes through servers that can process parts of your conversations.
 >
@@ -1666,11 +1651,11 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=183)** Instead they do this because they're interested in how you're saying it.
 >
-> **[3:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=187)** It makes sense that organizations that are interested in artificial intelligence also offer many free communication services.
+> **[3:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=187)** It makes sense that organizations that are interested in [[Artificial Intelligence (AI)|artificial intelligence]] also offer many free communication services.
 >
 > **[3:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=194)** Google has access to anonymized versions of your email and voicemail to pick up how you have conversations.
 >
-> **[3:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=202)** Apple offers iMessage and Microsoft has Skype.
+> **[3:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=202)** Apple offers iMessage and [[Microsoft]] has Skype.
 >
 > **[3:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/natural-language-processing?u=76281980&t=206)** These services give their AI programs a treasure trove of different types of human communications.
 >
@@ -1698,14 +1683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (6), [[Search]] (4), [[Google]] (4), ai (3), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (6), [[Google]] (4), [[Artificial Neural Networks]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (1), imagine (1), it's like (1)
 > **Code Identifiers:** imessage (1)
 > **Definitions:** means that (1)
 > **Speakers:** - communication (1)
 
-#### The Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980)
+#### [The Internet of Things](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1715,7 +1699,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=11)** There are also cheap sensors that check room temperature, their location, and some can even upload your medical data.
 >
-> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=18)** This new way of connecting is commonly called the Internet of Things, sometimes you'll see it as IoT for short.
+> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=18)** This new way of connecting is commonly called the [[IoT|Internet of Things]], sometimes you'll see it as [[IoT]] for short.
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=27)** These IoT devices can be a massive new source of data.
 >
@@ -1737,11 +1721,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=79)** That's why many IoT companies also invest heavily in AI programs.
 >
-> **[1:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=86)** Not only will AI allow organizations to see new patterns, it will also give them the ability to quickly react.
+> **[1:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=86)** Not only will AI allow organizations to see new patterns, it will also give them the ability to quickly [[React.js|react]].
 >
 > **[1:35](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=95)** One area that has a lot of potential is IoT medical devices.
 >
-> **[1:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=100)** You can now purchase an electrocardiogram, or EKG sensor, that's nearly as accurate as the ones in your doctor's office.
+> **[1:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=100)** You can now purchase an electrocardiogram, or EKG sensor, that's nearly as accurate as the ones in your doctor's [[Microsoft Office|office]].
 >
 > **[1:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=110)** These devices can check your heart's electrical activity.
 >
@@ -1763,7 +1747,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=176)** That might be an obstacle if you're looking to prevent illnesses.
 >
-> **[3:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=180)** Remember that machine learning and artificial neural networks create a black box.
+> **[3:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=180)** Remember that machine learning and [[Artificial Neural Networks]] create a black box.
 >
 > **[3:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/the-internet-of-things?u=76281980&t=186)** No one except for the network really knows how the machine finds patterns.
 >
@@ -1785,7 +1769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[IoT]] (6), ai (4), [[Internet of Things (IoT)|Internet of things]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[IoT]] (6), [[IoT|Internet of things]] (2), [[React.js|React]] (2), [[Microsoft Office|Office]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** ekg (5)
 > **Definitions:** is a  (1)
@@ -1797,12 +1781,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980)
+#### [Big data](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=0)** - You see a lot of crossover between AI and big data.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=0)** - You see a lot of crossover between AI and [[Big Data]].
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=6)** The term big data is used to describe a lot of different technologies, but if you go back to the original report, you'll see that the authors weren't thinking of big data as a term.
 >
@@ -1828,7 +1811,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=76)** That being said, it's really easy to get mixed up in the terms.
 >
-> **[1:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=80)** Many database specialists use machine learning and data mining interchangeably.
+> **[1:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=80)** Many database specialists use machine learning and [[Data Mining]] interchangeably.
 >
 > **[1:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=86)** Data mining is a broad term in which you look to the data to find new insights.
 >
@@ -1836,7 +1819,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=97)** With machine learning, you typically start with a training set and then use one of the machine learning frameworks.
 >
-> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=103)** There are a few in Python, R, and other development languages.
+> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=103)** There are a few in [[Python (Programming Language)|Python]], R, and other development languages.
 >
 > **[1:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980&t=107)** Data mining typically uses a much broader set of tools.
 >
@@ -1892,19 +1875,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Big Data]] (18), teams (4), [[Python (Programming Language)|Python]] (3), ai (2)
+> **Frameworks & Libraries:** [[Big Data]] (18), [[Data Mining]] (5), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (6), python (3)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)
 
-#### Data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980)
+#### [Data science](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=0)** - Data science is another key area where you'll see a lot of crossover with artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=0)** - [[Data Science]] is another key area where you'll see a lot of crossover with [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=6)** In fact, there are many vocal data scientists who also specialize in AI.
 >
@@ -1914,7 +1896,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=21)** The most popular definitions revolve around what a data scientist does.
 >
-> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=28)** That's why most definitions about data science are about knowledge of programing, data, math, statistics, and hacking.
+> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=28)** That's why most definitions about data science are about knowledge of programing, data, math, [[Statistics]], and hacking.
 >
 > **[0:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/data-science?u=76281980&t=36)** Then a data scientist applies these skills to explore the data using the scientific method.
 >
@@ -2014,7 +1996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Statistics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Statistics]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -2025,16 +2007,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=0)** - The last year, we've seen some pretty big leaps in artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=0)** - The last year, we've seen some pretty big leaps in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=4)** That's why we're adding these three new videos to the course.
 >
-> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=7)** In this chapter, I'll explain how many of the concepts in this course apply to newer generative AI.
+> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=7)** In this chapter, I'll explain how many of the concepts in this course apply to newer [[Generative AI]].
 >
 > **[0:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=13)** So far in this course, you've seen that artificial intelligence can be used to play chess, direct robots, and identify very complex patterns.
 >
@@ -2052,7 +2033,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=59)** Newer generative AI systems still use a form of machine learning.
 >
-> **[1:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=64)** They typically use a deep learning artificial neural network, but there are a few key differences that help these systems generate content.
+> **[1:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=64)** They typically use a [[Deep Learning]] artificial neural network, but there are a few key differences that help these systems generate content.
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=72)** One of the biggest challenges is that these new systems need to be able to train on massive data sets.
 >
@@ -2074,9 +2055,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=122)** That's where two new technologies come in.
 >
-> **[2:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=125)** The first is using deep learning artificial neural networks to create a foundation model.
+> **[2:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=125)** The first is using deep learning [[Artificial Neural Networks]] to create a foundation model.
 >
-> **[2:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=132)** A foundation model allows neural networks to be able to handle more than one task without retraining.
+> **[2:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=132)** A foundation model allows [[Neural Networks]] to be able to handle more than one task without retraining.
 >
 > **[2:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=138)** With a foundation model, you could create an artificial neural network that both plays video games and looks for credit card fraud.
 >
@@ -2090,7 +2071,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=165)** That means that the foundation model will have to include all of this and even more.
 >
-> **[2:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=171)** To train these systems, you'll have to use something called self-supervised learning.
+> **[2:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=171)** To train these systems, you'll have to use something called self-[[Supervised Learning]].
 >
 > **[2:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980&t=175)** As you'll see later, this is a mixture of both unsupervised and supervised learning.
 >
@@ -2098,13 +2079,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Deep Learning]] (2), [[Supervised Learning]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Deep Learning]] (2), [[Supervised Learning]] (2), [[Artificial Neural Networks]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - the (1)
 
-#### Foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980)
+#### [Foundation models](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,15 +2130,15 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=128)** These systems could match the mood and even add data from other sources.
 >
-> **[2:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=134)** Foundation models have supercharged the development of generative artificial intelligence.
+> **[2:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=134)** Foundation models have supercharged the development of generative [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[2:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=139)** You may have heard of some common foundation models like large language models or LLMs.
+> **[2:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=139)** You may have heard of some common foundation models like [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[2:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=144)** These models can generate text that sounds remarkably human.
 >
 > **[2:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=148)** There's also foundation models that can generate images.
 >
-> **[2:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=151)** Some of these early systems used generative adversarial networks where two competing artificial neural networks create very lifelike images.
+> **[2:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=151)** Some of these early systems used [[Generative Adversarial Networks (GANs)|generative adversarial networks]] where two competing [[Artificial Neural Networks]] create very lifelike images.
 >
 > **[2:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/foundation-models?u=76281980&t=161)** Advanced diffusion models can generate captivating images that can seamlessly blend the elements of different objects such as cats and boats.
 >
@@ -2170,24 +2150,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), power (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Neural Networks]] (1)
 > **Definitions:** means that (3), is a  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - in (1)
 
-#### Self-supervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980)
+#### [Self-supervised learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=0)** - You've seen that newer generative AI systems often rely on foundation models to create new data.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=0)** - You've seen that newer [[Generative AI]] systems often rely on foundation models to create new data.
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=6)** These foundation models need to go through enormous amounts of data.
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=11)** So how can you feed this appetite for data?
 >
-> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=14)** You've already seen that supervised learning requires training the system with labeled data.
+> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=14)** You've already seen that [[Supervised Learning]] requires training the system with labeled data.
 >
 > **[0:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/self-supervised-learning?u=76281980&t=19)** This is data that's been identified as spam or labeled to contain the image of a dog.
 >
@@ -2235,7 +2214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Supervised Learning]] (6), [[Generative AI]] (2), product (1), chatbot (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (6), [[Generative AI]] (2)
 > **CLI Commands:** cat (4), find (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
@@ -2245,12 +2224,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pitfalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980)
+#### [Pitfalls](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=0)** - Artificial intelligence has been around since the early 1950s.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] has been around since the early 1950s.
 >
 > **[0:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=4)** Since then, research has gone up and down.
 >
@@ -2258,9 +2236,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=12)** Sometimes these are called the AI winters.
 >
-> **[0:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=15)** Right now, machine learning and artificial neural networks have been in an upswing.
+> **[0:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=15)** Right now, machine learning and [[Artificial Neural Networks]] have been in an upswing.
 >
-> **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=20)** This has led to a lot of activity around deep learning with large datasets.
+> **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=20)** This has led to a lot of activity around [[Deep Learning]] with large datasets.
 >
 > **[0:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=25)** But not everyone thinks of data and pattern matching as the surest way to intelligence.
 >
@@ -2290,7 +2268,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=105)** That way, when customer makes a request, the machine could match it to one of the other millions of orders.
 >
-> **[1:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=112)** That's likely the approach that a company like Google, Microsoft, or IBM would have for the problem.
+> **[1:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=112)** That's likely the approach that a company like [[Google]], [[Microsoft]], or IBM would have for the problem.
 >
 > **[1:57](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=117)** If you're a smaller organization, then you might be able to build a very similar program using symbolic reasoning.
 >
@@ -2328,13 +2306,13 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=221)** If you use deep learning for an AI program that helps with your taxes, then you might run into some difficult challenges.
 >
-> **[3:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=229)** For one, most of the decision-making will be done in a black box.
+> **[3:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=229)** For one, most of the [[Decision-Making]] will be done in a black box.
 >
 > **[3:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=234)** You won't necessarily know the machine's reasoning when it works on your tax returns.
 >
 > **[3:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=239)** Also, a system like this would be very difficult to update.
 >
-> **[4:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=243)** When you have the machine create its own models and algorithms, it's very difficult for a human to go into the system to make changes.
+> **[4:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=243)** When you have the machine create its own models and [[Algorithms]], it's very difficult for a human to go into the system to make changes.
 >
 > **[4:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980&t=252)** The more you think about the strengths and weaknesses of these different approaches, the more likely you'll find an approach that works well.
 >
@@ -2346,7 +2324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Deep Learning]] (4), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Artificial Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Artificial Neural Networks]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** ibm (1)
@@ -2360,18 +2338,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=0)** - In this course, you saw an overview of the history and technology behind artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=0)** - In this course, you saw an overview of the history and technology behind [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=6)** The field started with key concepts such as the General Problem Solver and symbolic reasoning.
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=12)** Then we covered how machine learning got a slow start but then quickly became a dominant field in AI.
 >
-> **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=20)** Finally you saw how artificial neural networks could be used with machine learning to get deeper insights and find complex patterns.
+> **[0:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=20)** Finally you saw how [[Artificial Neural Networks]] could be used with machine learning to get deeper insights and find complex patterns.
 >
 > **[0:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=29)** I hope that throughout the course you got a sense for how to apply some of these technologies to help solve complex problems.
 >
@@ -2381,7 +2358,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=48)** I hope you enjoyed this course on thinking machines.
 >
-> **[0:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=52)** Feel free to follow me on LinkedIn.
+> **[0:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=52)** Feel free to follow me on [[LinkedIn]].
 >
 > **[0:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980&t=54)** There you'll see articles and links about artificial intelligence and key business and ethical challenges.
 >
@@ -2389,7 +2366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Artificial Neural Networks]] (2), ai (1), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Artificial Neural Networks]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** such as (1)

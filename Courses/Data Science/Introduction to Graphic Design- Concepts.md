@@ -93,14 +93,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=0)** Graphic design is everywhere, it's all around you, every single product you can think of, the identity of every service you use, the screen you're looking at right now.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=0)** [[Graphic Design]] is everywhere, it's all around you, every single product you can think of, the identity of every service you use, the screen you're looking at right now.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=10)** Graphic design is the art of using and combining visual elements, typography and colour to convey a message.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=10)** Graphic design is the art of using and combining visual elements, [[Typography]] and colour to convey a message.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980&t=17)** If you are an aspiring graphic designer or you're someone who will work with designers, you're going to need to learn about the processes, principles, terminology and language involved in the industry And this is where you start.
 >
@@ -112,19 +111,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (3), product (1), [[Typography]] (1), career (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (3), [[Typography]] (1)
 
 
 ### 1. Graphic Design Projects
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The creative process
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980)
+#### [The creative process](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980&t=0)** Graphic design is about problem solving through visual communication and the creative process is a way we can describe the journey from identifying the initial problem through to the design that aims to achieve the desired outcome.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980&t=0)** [[Graphic Design]] is about problem solving through visual communication and the creative process is a way we can describe the journey from identifying the initial problem through to the design that aims to achieve the desired outcome.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980&t=16)** Although the process may vary depending on whether it is your own project or something that is client led, but typically it begins with a brief.
 >
@@ -145,8 +143,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Graphic Design]] (1)
 > **Definitions:** is a  (1)
 
-#### The creative brief
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-brief?u=76281980)
+#### [The creative brief](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-brief?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,8 +177,7 @@ created: 2026-05-02
 >
 > **Prerequisites:** you'll need (1)
 
-#### Research
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980)
+#### [Research](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=5)** Start by learning about the client's brand.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=8)** This includes specific colours, typography, imagery they use, as well as their tone, that's how they describe themselves or the project, and the mood they want to evoke in their audience.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=8)** This includes specific colours, [[Typography]], imagery they use, as well as their tone, that's how they describe themselves or the project, and the mood they want to evoke in their audience.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/research?u=76281980&t=20)** Most clients enjoy discussing their brand and also may already have resources you can check out.
 >
@@ -217,11 +213,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Typography]] (1)
 > **Analogies:** picture (1)
 
-#### Ideation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/ideation?u=76281980)
+#### [Ideation](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/ideation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,12 +240,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 
-#### Production
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/production?u=76281980)
+#### [Production](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,8 +269,7 @@ created: 2026-05-02
 > **Definitions:** known as (2)
 > **Analogies:** such as (2)
 
-#### Challenge: Brand of you
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-brand-of-you?u=76281980)
+#### [Challenge: Brand of you](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-brand-of-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -310,18 +302,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Font vs. type
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980)
+#### [Font vs. type](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=0)** An understanding of type and typography is central to graphic design and there's quite a bit of terminology you'll need to learn.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=0)** An understanding of type and [[Typography]] is central to [[Graphic Design]] and there's quite a bit of terminology you'll need to learn.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=8)** Some of the terms you may have heard before or even used but there are some in everyday usage that are used differently in professional design, especially where typography is concerned.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=22)** Let's begin with the words font and typeface.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=26)** While the word font is often used to describe both of these things, it's not technically correct.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=26)** While the [[Microsoft Word|word]] font is often used to describe both of these things, it's not technically correct.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980&t=33)** A font is the software file that delivers a typeface like Times New Roman, or Garamond, or Calibri, or Futura, etc.
 >
@@ -345,8 +336,7 @@ created: 2026-05-02
 > **Definitions:** known as (2), is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Key typographic terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980)
+#### [Key typographic terms](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=9)** The first character here is in uppercase, commonly known as capitals or caps, and that's followed by some lowercase characters.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=18)** There are also variations for numbers or numerals, as they're known in the language of type, in two forms.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=18)** There are also variations for numbers or numerals, as they're known in the language of type, in two [[Forms]].
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=26)** Old style numerals that tend to give a more harmonious appearance when used within blocks of paragraph text, and lining numerals that are better for tabulated text.
 >
@@ -382,7 +372,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=127)** Garamond and Times are very similar as they are designed for use in paragraphs of text, but Trajan may well be designed for larger display sizes and you can see just how different that can be.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=141)** Understanding these terms and concepts is crucial for getting to grips with typography and graphic design, so be sure to invest some time in studying them.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/key-typographic-terms?u=76281980&t=141)** Understanding these terms and concepts is crucial for getting to grips with [[Typography]] and [[Graphic Design]], so be sure to invest some time in studying them.
 
 > [!info]- Semantic Content
 >
@@ -391,8 +381,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Basic type classifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980)
+#### [Basic type classifications](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=102)** Taking serifs up a level or three, we have slab serif typefaces with these heavy projecting feet and shoulders, usually wide and very bold but there are lighter ones too and many other variations that fit into this category.
 >
-> **[1:58](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=118)** Script comes in various forms from casual but elegant humanistic handwriting styles to the more formal super elaborate mega swashy super curly examples
+> **[1:58](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=118)** Script comes in various [[Forms]] from casual but elegant humanistic handwriting styles to the more formal super elaborate mega swashy super curly examples
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/basic-type-classifications?u=76281980&t=130)** based on calligraphic mastery with a fine pen that would look at home on an invitation to lunch with somebody very important indeed.
 >
@@ -446,18 +435,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Type anatomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980)
+#### [Type anatomy](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980&t=0)** It's a good idea to learn at least a few of the anatomical names of letter forms because it gives us a point of reference when we're evaluating different typefaces for use in our projects and a point for discussion.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980&t=0)** It's a good idea to learn at least a few of the anatomical names of letter [[Forms]] because it gives us a point of reference when we're evaluating different typefaces for use in our projects and a point for discussion.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/type-anatomy?u=76281980&t=13)** So to start with, this is a serif typeface and if you look at the A at the front there, you'll see some of the serifs highlighted there and on other characters.
 >
@@ -491,14 +479,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** known as (6), is a  (3)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Analogies:** imagine (1)
 
-#### Understanding character attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-character-attributes?u=76281980)
+#### [Understanding character attributes](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-character-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,15 +621,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (4)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 
-#### Understanding paragraph attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980)
+#### [Understanding paragraph attributes](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,7 +721,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=292)** So I might want a small value to separate it out from the previous paragraph, just here, and then another value to separate it out from the flow of the paragraph that it's associated with.
 >
-> **[5:05](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=305)** Remember this is a thing in graphic design, we're talking about proximity here and those being viewed as being together.
+> **[5:05](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=305)** Remember this is a thing in [[Graphic Design]], we're talking about proximity here and those being viewed as being together.
 >
 > **[5:14](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=314)** There we go, hopefully that's sinking in.
 >
@@ -750,7 +735,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=335)** So if I just go for three lines just here, and then we have this option here for how many characters are picked up inside of that first line indent just there.
 >
-> **[5:47](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=347)** And it will do it provided there's enough word there for it to actually do it.
+> **[5:47](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=347)** And it will do it provided there's enough [[Microsoft Word|word]] there for it to actually do it.
 >
 > **[5:51](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/understanding-paragraph-attributes?u=76281980&t=351)** Otherwise it will ignore it if it's too short.
 >
@@ -776,13 +761,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), hit (1), [[Graphic Design]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Graphic Design]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: Quote poster
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-quote-poster?u=76281980)
+#### [Challenge: Quote poster](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-quote-poster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,8 +783,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Principles of layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980)
+#### [Principles of layout](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,7 +803,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=55)** Contrast adds visual interest and highlights key areas, making it a crucial element in guiding viewers through a design.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=64)** It can be achieved through various attributes such as size, colour and typography, and also serves as an accessibility consideration, particularly with colour.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=64)** It can be achieved through various attributes such as size, colour and [[Typography]], and also serves as an accessibility consideration, particularly with colour.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980&t=75)** Repetition brings consistency and rhythm to a layout, connecting individual elements and adding strength.
 >
@@ -838,16 +821,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 
-#### The design space
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980)
+#### [The design space](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=0)** In creating a design one of the first considerations is going to be space.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=5)** Graphic design is all about space and how it is used in many different ways.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=5)** [[Graphic Design]] is all about space and how it is used in many different ways.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=10)** From the design as a whole down to the individual tiny spaces between letter forms.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=10)** From the design as a whole down to the individual tiny spaces between letter [[Forms]].
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-design-space?u=76281980&t=16)** There's a vocabulary for the different kinds of spaces and this is perhaps something you should start making notes of throughout the course that you can refer to later.
 >
@@ -871,11 +853,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Forms]] (1), functional (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
 
-#### Space
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980)
+#### [Space](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=42)** The negative space is almost equal to the positive space and it gives it balance.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=48)** You may have heard me use the word active a few moments ago too and this is another way we can refer to positive content just as we can refer to negative space
+> **[0:48](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=48)** You may have heard me use the [[Microsoft Word|word]] active a few moments ago too and this is another way we can refer to positive content just as we can refer to negative space
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/space?u=76281980&t=59)** passive which can be more descriptive in certain circumstances.
 >
@@ -908,8 +889,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 
-#### Using grids
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980)
+#### [Using grids](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=4)** They help to ensure consistency, alignment and structure in your design, making it visually appealing and easier to navigate.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=13)** There are many forms of grid, but they all share one thing in common.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=13)** There are many [[Forms]] of grid, but they all share one thing in common.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/using-grids?u=76281980&t=18)** They are a guide to the placement of content, and it's OK to break the grid if you need to.
 >
@@ -967,13 +947,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 
-#### Building a layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/building-a-layout?u=76281980)
+#### [Building a layout](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/building-a-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,11 +1004,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 
-#### Challenge: Deconstructing layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-deconstructing-layouts?u=76281980)
+#### [Challenge: Deconstructing layouts](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-deconstructing-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,12 +1036,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Color
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980)
+#### [Color](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980&t=0)** In many ways, color is the lifeblood of graphic design.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980&t=0)** In many ways, color is the lifeblood of [[Graphic Design]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980&t=4)** It's a powerfully expressive component with nearly infinite variations and its own unique language.
 >
@@ -1091,8 +1067,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Graphic Design]] (3)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Digital color
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/digital-color?u=76281980)
+#### [Digital color](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/digital-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,8 +1110,7 @@ created: 2026-05-02
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **Env Vars:** rgb (1), hsb (1)
 
-#### Color harmonies
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color-harmonies?u=76281980)
+#### [Color harmonies](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color-harmonies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,8 +1148,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), similar to (1)
 > **URLs:** [adobe.com](https://adobe.com) (1)
 
-#### Color associations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color-associations?u=76281980)
+#### [Color associations](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color-associations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,8 +1183,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Color as information
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color-as-information?u=76281980)
+#### [Color as information](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color-as-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,8 +1207,7 @@ created: 2026-05-02
 > **Env Vars:** cvd (2)
 > **Analogies:** such as (1)
 
-#### Digital and print colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/digital-and-print-colors?u=76281980)
+#### [Digital and print colors](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/digital-and-print-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,8 +1272,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Map
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-map?u=76281980)
+#### [Challenge: Map](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,8 +1297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Photo vs. illustration
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980)
+#### [Photo vs. illustration](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=18)** Whether it's a striking photo, a detailed illustration or an eye-catching graphic, Imagery helps to illustrate ideas, tell stories and connect with the audience on a deeper level.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=30)** When it comes to illustration in graphic design, it's all about creativity and customization.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=30)** When it comes to illustration in [[Graphic Design]], it's all about creativity and customization.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=37)** Illustrations can convey specific moods, themes or messages that might be hard to capture with photography.
 >
@@ -1348,7 +1317,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=58)** On the flip side, photography brings a level of realism and relatability that illustrations might not always achieve.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=66)** Photos can capture genuine moments, emotions and textures, making them incredibly powerful for storytelling and creating real connections with the audience.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=66)** Photos can capture genuine moments, emotions and textures, making them incredibly powerful for [[Storytelling]] and creating real connections with the audience.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980&t=75)** They're especially effective for product advertising, lifestyle branding and any design work where authenticity is key.
 >
@@ -1362,12 +1331,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Storytelling]] (1), product (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 
-#### Cropping images
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980)
+#### [Cropping images](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/cropping-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,12 +1391,11 @@ created: 2026-05-02
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980&t=0)** Generative AI is now a part of our world and it can be used to explore ideas very quickly.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980&t=0)** [[Generative AI]] is now a part of our world and it can be used to explore ideas very quickly.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/generative-ai?u=76281980&t=7)** It's great for sparking them and sometimes can generate design options that may not have occurred otherwise.
 >
@@ -1452,11 +1419,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Analogies:** it's like (1)
 
-#### Challenge: The art of cropping
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-the-art-of-cropping?u=76281980)
+#### [Challenge: The art of cropping](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-the-art-of-cropping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,16 +1441,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=0)** That's it, we are done for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=3)** Now you can go and get some practical experience with the i2gd, that's Intro to Graphic Design, Projects course.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=3)** Now you can go and get some practical experience with the i2gd, that's Intro to [[Graphic Design]], Projects course.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=10)** Feel free to follow me here on LinkedIn and also follow my weekly series, Design Tools Weekly, that contains software news and articles all around design.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=10)** Feel free to follow me here on [[LinkedIn]] and also follow my weekly series, Design Tools Weekly, that contains software news and articles all around design.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980&t=21)** Hopefully I'll see you there.
 >

@@ -73,46 +73,44 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980)
+#### [Getting started](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=0)** - [Alex] With infrastructure as code becoming essential in today's world, Terraform has changed the way that we manage our cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=0)** - [Alex] With [[Infrastructure as code (IaC)|infrastructure as code]] becoming essential in today's world, [[Terraform]] has changed the way that we manage our [[Cloud Infrastructure]].
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=7)** Instead of manually configuring our changes, we can now automate and standardize our processes through Terraform.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=13)** Today we'll learn the benefits of infrastructure as code in Terraform, specifically for our Azure environments.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=13)** Today we'll learn the benefits of infrastructure as code in Terraform, specifically for our [[Microsoft Azure|Azure]] environments.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=20)** I'll walk you through getting your environment set up to start learning and building out our Terraform solutions.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=25)** My name is Alex Illarionov, a cloud solution engineer helping individuals take advantage of infrastructure as code in their Azure environments.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=33)** Now I'm excited today to invite you to take this LinkedIn Learning course with me.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980&t=33)** Now I'm excited today to invite you to take this [[LinkedIn]] Learning course with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Microsoft Azure|Azure]] (2), [[Cloud Infrastructure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Microsoft Azure|Azure]] (2), [[Cloud Infrastructure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** terraform (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [alex] (1)
 
-#### WYSK: What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980)
+#### [WYSK: What you should know](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=0)** - [Instructor] What you should know.
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=1)** For this course, you should have a basic understanding of Azure administration and concepts.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=1)** For this course, you should have a basic understanding of [[Microsoft Azure|Azure]] administration and concepts.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=6)** But if you don't know any Terraform, don't worry.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=6)** But if you don't know any [[Terraform]], don't worry.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=8)** This is the course for you.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=10)** For this course, we'll be using the PowerShell command line with administrative access, Visual Studio Code, An Azure subscription.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=10)** For this course, we'll be using the [[Powershell]] command line with administrative access, Visual Studio Code, An Azure subscription.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=17)** I'll be using a windows PC, but you can try to follow along with a Mac.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/wysk-what-you-should-know?u=76281980&t=17)** I'll be using a [[Windows]] PC, but you can try to follow along with a Mac.
 
 > [!info]- Semantic Content
 >
@@ -121,12 +119,11 @@ created: 2026-05-02
 > **CLI Commands:** terraform (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980)
+#### [Using the exercise files on GitHub](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored on [[GitHub]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=4)** There are branches for both the start and end states of each video on where we work with code.
 >
@@ -136,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=25)** And to see the end state, you would go to 0501E to see the end state of the code.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=32)** The files that are automatically generated by Terraform will not be part of the exercise files.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=32)** The files that are automatically generated by [[Terraform]] will not be part of the exercise files.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=37)** This is an intentional, and the gitignore file in the exercise folder will make sure those files aren't uploaded to your GitHub repository.
 >
@@ -150,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=62)** One simple way is to copy the URL from the code dropdown.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=67)** So we can click here to copy the button, and then we can go to our Visual Studio Code and just click on Clone Git Repository, enter the link in here.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=67)** So we can click here to copy the button, and then we can go to our Visual Studio Code and just click on Clone [[Git]] Repository, enter the link in here.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/using-the-exercise-files-on-github?u=76281980&t=77)** And it's going to ask which directory we're going to add this to.
 >
@@ -186,14 +183,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Infrastructure as Code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980)
+#### [What is Infrastructure as Code?](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=0)** - [Instructor] What is infrastructure as code?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=0)** - [Instructor] What is [[Infrastructure as code (IaC)|infrastructure as code]]?
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=3)** This video will focus on the importance of infrastructure as code in the world of cloud computing, specifically focusing on infrastructure and code in Azure.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=3)** This video will focus on the importance of infrastructure as code in the world of [[Cloud Computing]], specifically focusing on infrastructure and code in [[Microsoft Azure|Azure]].
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=11)** Infrastructure as code is a fantastic way to simplify the creation and management of your infrastructure resources through automation and code.
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=28)** This helps save time since we no longer have to rely on the manual configurations anymore, and can just automate this all using code.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=36)** Azure has many infrastructures code tools that can help rapidly deploy and develop these resources, from ARM templates to BICEP and Terraform, there are many more as well.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=36)** Azure has many infrastructures code tools that can help rapidly deploy and develop these resources, from ARM templates to BICEP and [[Terraform]], there are many more as well.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980&t=46)** And one of the biggest things to consider when choosing your ideal infrastructure as code tool is which benefits will bring you the most value to you and your organization?
 >
@@ -213,20 +209,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Terraform]] (4), [[Microsoft Azure|Azure]] (3), cloud (1), management (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Terraform]] (4), [[Microsoft Azure|Azure]] (3), [[Cloud Computing]] (1)
 > **CLI Commands:** terraform (4)
 > **Env Vars:** arm (1), bicep (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Terraform?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980)
+#### [What is Terraform?](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=0)** - What is Terraform?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=0)** - What is [[Terraform]]?
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=2)** Terraform is an infrastructure as code tool developed by HashiCorp.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=2)** Terraform is an [[Infrastructure as code (IaC)|infrastructure as code]] tool developed by HashiCorp.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=7)** This provides infrastructure automation through code.
 >
@@ -236,24 +231,23 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=22)** These declarative configuration files are created with blocks, arguments and exceptions within your Terraform code.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=29)** With this code, it then creates and manages infrastructure through a cloud services application programming interface, or API.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=29)** With this code, it then creates and manages infrastructure through a [[Cloud Services]] application programming interface, or API.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-terraform?u=76281980&t=37)** This enables Terraform to work with virtually any platform or service with an accessible API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (5), api (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Automation]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** terraform (5)
 > **Env Vars:** api (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - what (1)
 
-#### Why is Terraform useful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/why-is-terraform-useful?u=76281980)
+#### [Why is Terraform useful?](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/why-is-terraform-useful?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/why-is-terraform-useful?u=76281980&t=0)** - [Instructor] Now that we've discussed the basics of Terraform, let's go over the benefits.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/why-is-terraform-useful?u=76281980&t=0)** - [Instructor] Now that we've discussed the basics of [[Terraform]], let's go over the benefits.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/why-is-terraform-useful?u=76281980&t=5)** Terraform is a cloud agnostic and cross-platform infrastructure as a code tool.
 >
@@ -269,29 +263,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (4), cloud (2), cross-platform (1), management (1)
+> **Frameworks & Libraries:** [[Terraform]] (4)
 > **CLI Commands:** terraform (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform vs. Bicep
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980)
+#### [Terraform vs. Bicep](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=0)** - [Instructor] One commonly asked question is, why Terraform over BICEP?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=0)** - [Instructor] One commonly asked question is, why [[Terraform]] over BICEP?
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=4)** In this module we'll discuss the similarities and differences between the two.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=9)** So what exactly is BICEP?
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=12)** BICEP is Microsoft's IaC tool that uses a declarative syntax to deploy Azure resources.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=12)** BICEP is [[Microsoft]]'s IaC tool that uses a declarative syntax to deploy [[Microsoft Azure|Azure]] resources.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=18)** Like Terraform, they both use a human-readable syntax that's much easier to understand, and interpret compared to the previous arm, JSON Templates, to deploy Azure resources.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=18)** Like Terraform, they both use a human-readable syntax that's much easier to understand, and interpret compared to the previous arm, [[JSON]] Templates, to deploy Azure resources.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=30)** But on top of that, they both support modules, allowing you to breakdown your code, and deploy resources in a consistent matter.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=37)** But that's not all, both configuration languages also support the use of DevOps and GitOps workflows for the modern CI/CD processes.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=37)** But that's not all, both configuration languages also support the use of [[DevOps]] and GitOps workflows for the modern CI/CD processes.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-vs-bicep?u=76281980&t=46)** While they have many similarities, they also have many differences.
 >
@@ -317,24 +310,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980)
+#### [Installing Terraform](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=0)** - [Instructor] For this module, we'll set up your environment so that you can get started with Terraform.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=0)** - [Instructor] For this module, we'll set up your environment so that you can get started with [[Terraform]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=5)** In this course, there's a document that you can follow along with to get your environment set up.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=9)** It will have the same commands that I'm running and we'll go through this tutorial step by step as well.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=15)** For this demo, I'll be using the following, a Windows PC, PowerShell run in an administrative session, an Azure account, and Visual Studio Code.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=15)** For this demo, I'll be using the following, a [[Windows]] PC, [[Powershell]] run in an administrative session, an [[Microsoft Azure|Azure]] account, and Visual Studio Code.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=26)** The first thing we'll need to do is install the Azure Command Line Interface, also known as the Azure CLI.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=26)** The first thing we'll need to do is install the Azure Command Line Interface, also known as the Azure [[CLI]].
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=32)** There are two ways to install the Azure CLI.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=35)** You can download the MSI file from Microsoft's website, or you can go to the Microsoft Installer with Command tab.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=35)** You can download the MSI file from [[Microsoft]]'s website, or you can go to the Microsoft Installer with Command tab.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980&t=42)** Since we'll be already doing everything in an administrative PowerShell session, what I'm going to do is copy this command and enter this in my current administrative PowerShell session.
 >
@@ -383,12 +375,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 
-#### Setting up Terraform for your Azure environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980)
+#### [Setting up Terraform for your Azure environment](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=0)** - [Instructor] Now that we've installed Terraform onto our computers, now we should create a directory in which we'd like to add our configuration files to.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=0)** - [Instructor] Now that we've installed [[Terraform]] onto our computers, now we should create a directory in which we'd like to add our configuration files to.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=12)** I'm going to create a folder called TerraformforAzure.
 >
@@ -398,17 +389,17 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=29)** So this is where kind of you'll be hosting your modules, your commands on what you would like to deploy in your environment.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=35)** So now that we have that created, let's go into our Visual Studio Code environment and get connected to our Azure accounts.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=35)** So now that we have that created, let's go into our Visual Studio Code environment and get connected to our [[Microsoft Azure|Azure]] accounts.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=42)** So in order to do this, we'll open our terminal.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=45)** Let's create a new terminal section.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=48)** And since now we have the Azure CLI installed on our workstations as well, what we'll be using is using the Azure CLI commands to log into our Azure accounts.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=48)** And since now we have the Azure [[CLI]] installed on our workstations as well, what we'll be using is using the Azure CLI commands to log into our Azure accounts.
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=58)** So all we do is type in az-login.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=62)** If you are receiving an error when trying to run az-login to log into your Azure session, one thing you can do is try restarting your PowerShell terminal by clicking this little trashcan right here that says kill terminal.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=62)** If you are receiving an error when trying to run az-login to log into your Azure session, one thing you can do is try restarting your [[Powershell]] terminal by clicking this little trashcan right here that says kill terminal.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-terraform-for-your-azure-environment?u=76281980&t=77)** And let's start a new one and enter the command az-login and it should now work.
 >
@@ -420,30 +411,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Terraform]] (3), [[CLI]] (2), [[Powershell]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Terraform]] (3), [[CLI]] (2), [[Powershell]] (1)
 > **CLI Commands:** terraform (3), az (3)
 > **Tools:** terminal (4), visual studio (1), powershell (1)
 > **Env Vars:** cli (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your code repo for Azure DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980)
+#### [Setting up your code repo for Azure DevOps](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=0)** - [Instructor] Now that we're logged into our Azure accounts in our current Visual Studio Code session, one of the biggest things to be aware of while coding is source control.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=0)** - [Instructor] Now that we're logged into our [[Microsoft Azure|Azure]] accounts in our current Visual Studio Code session, one of the biggest things to be aware of while coding is source control.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=9)** I'm sure everyone's gone through an experience of changing a portion of their code and breaking it and then having no clue what happened, and this is where source control is super important.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=19)** For this module, we'll be looking at using GitHub to manage our code and check it in as we go.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=19)** For this module, we'll be looking at using [[GitHub]] to manage our code and check it in as we go.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=25)** For this course, what I'll be doing is cloning the current Introduction-to-Terraform GitHub repo that will be linked to this course.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=25)** For this course, what I'll be doing is cloning the current Introduction-to-[[Terraform]] GitHub repo that will be linked to this course.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=33)** All we have to do is click on this link again.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=37)** So all we do is copy it here, and let's go back to our Visual Studio Code session.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=43)** And all we do have to enter is git clone and then right-click and enter the GitHub repository that we're looking to work in.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=43)** And all we do have to enter is [[Git]] clone and then right-click and enter the GitHub repository that we're looking to work in.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/setting-up-your-code-repo-for-azure-devops?u=76281980&t=52)** So what this will do is add the GitHub repository and the current directory that we're working with.
 >
@@ -475,14 +465,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Terraform commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980)
+#### [Terraform commands](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=0)** - [Instructor] Now that we have our environments all set up and ready to go, let's take a look at the main commands we'll be using for this course.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=7)** One of the most common commands you'll be using is Terraform init.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=7)** One of the most common commands you'll be using is [[Terraform]] init.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=11)** This prepares your working directory for other commands throughout your configurations.
 >
@@ -496,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=29)** This shows all the changes that will be taking place with your current configuration.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=33)** Even with our next command, Terraform apply, every time you run Terraform apply, it will also run Terraform plan at the same time to show you what you're going to create or update using your infrastructure as code.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=33)** Even with our next command, Terraform apply, every time you run Terraform apply, it will also run Terraform plan at the same time to show you what you're going to create or update using your [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980&t=46)** Both are super helpful to see your changes on what's going to happen once you apply that Terraform.
 >
@@ -516,18 +505,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (17), next (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (17), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** terraform (17), make (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform workspaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980)
+#### [Terraform workspaces](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=0)** - [Instructor] Next, let's take a look at common commands to manage workspaces within your Terraform terminal.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=0)** - [Instructor] Next, let's take a look at common commands to manage workspaces within your [[Terraform]] terminal.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=6)** So what exactly are Terraform command line interface workspaces?
 >
@@ -537,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=24)** So Terraform Cloud workspaces create separate working directories, while with the Terraform command line interface workspaces, you're working within the same directory, but it's creating separate files.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=37)** For this demo, we'll be working in the Terraform CLI workspaces.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=37)** For this demo, we'll be working in the Terraform [[CLI]] workspaces.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-workspaces?u=76281980&t=41)** In Terraform, most commands only work within the current selected workspace.
 >
@@ -561,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (14), data (2), cloud (2), next (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (14), [[CLI]] (1)
 > **CLI Commands:** terraform (14)
 > **Tools:** command line (2), terminal (1)
 > **Env Vars:** cli (1)
@@ -569,18 +557,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform state
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980)
+#### [Terraform state](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=0)** - [Instructor] In this module, we'll be going over Terraform State.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=0)** - [Instructor] In this module, we'll be going over [[Terraform]] State.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=4)** So what exactly is Terraform State?
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=6)** The state file maps real world resources to your configuration file, keeps track of your metadata and improves performance for large scale infrastructure.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=6)** The state file maps real world resources to your configuration file, keeps track of your [[Metadata]] and improves performance for large scale infrastructure.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=16)** Terraform State files are in JSON.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=16)** Terraform State files are in [[JSON]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=19)** While it may be tempting to directly edit the file, it is highly discouraged since it won't match your configuration files and will cause potentially more issues in the future.
 >
@@ -588,7 +575,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=37)** In our previous module, when we learned a little bit about Terraform workspaces, you could also see that the Terraform local files were separated by what we listed our workspaces as.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=48)** You can also store your state files remotely, in an as Azure storage account, Terraform cloud, an S3 bucket or whatever your organization or you prefer.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=48)** You can also store your state files remotely, in an as [[Microsoft Azure|Azure]] storage account, Terraform cloud, an S3 bucket or whatever your organization or you prefer.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-state?u=76281980&t=59)** With state files, since this does store all your configurations and resources, your state file does refresh to update the state of your real infrastructure on Azure just to make sure things already match up.
 >
@@ -598,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Azure|Azure]] (5), [[Metadata]] (1), [[JSON]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Azure|Azure]] (5), [[Metadata]] (1), [[JSON]] (1)
 > **CLI Commands:** terraform (9), make (2)
 > **Tools:** azure portal (3)
 > **Env Vars:** json (1)
@@ -610,18 +597,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980)
+#### [Resources](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=0)** - [Instructor] Now that we've learned a lot about Terraform, it's time to get into resources.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=0)** - [Instructor] Now that we've learned a lot about [[Terraform]], it's time to get into resources.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=6)** Terraform resource blocks are the most important part about Terraform, without resource blocks we can't implement any infrastructure, make any changes.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=16)** It's the key foundation of why we can use infrastructure as code.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=16)** It's the key foundation of why we can use [[Infrastructure as code (IaC)|infrastructure as code]].
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=21)** Resource blocks describe one or more infrastructure objects such as virtual networks, virtual machines, and many more in a given setting.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=21)** Resource blocks describe one or more infrastructure objects such as virtual networks, [[Virtual Machines]], and many more in a given setting.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980&t=30)** When you're writing a new configuration for the first time, the resources you'll be creating only exist in the configuration file and won't actually represent any real infrastructure until you run Terraform apply.
 >
@@ -650,14 +636,13 @@ created: 2026-05-02
 > **Analogies:** such as (2), for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Calling Terraform provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980)
+#### [Calling Terraform provider](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=0)** - [Instructor] Now that we learned a little bit about Terraform resources, let's learn about Terraform Providers.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=0)** - [Instructor] Now that we learned a little bit about [[Terraform]] resources, let's learn about Terraform Providers.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=6)** Terraform relies on providers to interact with cloud providers, SaaS providers, or other APIs.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=6)** Terraform relies on providers to interact with cloud providers, [[SaaS]] providers, or other APIs.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=13)** Without Terraform providers, we can't create any resources or configure any infrastructure.
 >
@@ -667,9 +652,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=39)** For this module, we'll be using the Azurerm provider but you can also take a look at all the different types of Terraform providers on the Terraform registry.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=49)** To get the Azurerm provider which will be using for this course, you can go to the GitHub repository that will be linked to the exercise files or you can go on the Terraform registry.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=49)** To get the Azurerm provider which will be using for this course, you can go to the [[GitHub]] repository that will be linked to the exercise files or you can go on the Terraform registry.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=60)** You can click on Azure, use provider, and you can copy and paste this into your visual studio code configuration file.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=60)** You can click on [[Microsoft Azure|Azure]], use provider, and you can copy and paste this into your visual studio code configuration file.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/calling-terraform-provider?u=76281980&t=70)** Let me quickly switch over.
 >
@@ -689,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (11), cloud (1), [[SaaS]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (11), [[SaaS]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** terraform (11), make (2)
 > **Prerequisites:** configure (2), install (2)
 > **Tools:** github (1), visual studio (1), terminal (1)
@@ -698,12 +683,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 
-#### Creating a resource group in Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980)
+#### [Creating a resource group in Terraform](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=0)** - [Instructor] Now that we have our Terraform provider ready to go, it's time to create our first resource block.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=0)** - [Instructor] Now that we have our [[Terraform]] provider ready to go, it's time to create our first resource block.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=7)** For this first resource block, we'll be creating a resource group, which we'll be putting all of our Terraform resources in.
 >
@@ -717,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=58)** Now that we have our first configuration block created, we can open our terminal up.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=65)** Make sure you're logged into your Azure account.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=65)** Make sure you're logged into your [[Microsoft Azure|Azure]] account.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=68)** So we can enter an az login.
 >
@@ -753,11 +737,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=178)** We'll learn more about state within the next module.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=181)** However, it is something we want to keep secure and make sure we're not uploading to our GitHub repository since it will contain sensitive information of our Terraform infrastructure.
+> **[3:01](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=181)** However, it is something we want to keep secure and make sure we're not uploading to our [[GitHub]] repository since it will contain sensitive information of our Terraform infrastructure.
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=193)** As this is running and creating resources in our Azure environment, let's take a look at how it changed the state file.
 >
-> **[3:22](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=202)** So since we're working in the test workspace as you can see here, if we go to the test state file, you'll see that it created JSON to create that resource group.
+> **[3:22](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=202)** So since we're working in the test workspace as you can see here, if we go to the test state file, you'll see that it created [[JSON]] to create that resource group.
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-resource-group-in-terraform?u=76281980&t=215)** So now if we go to our Azure portal, and go to our resource groups, you'll see that this resource group was created right now.
 >
@@ -765,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Azure|Azure]] (5), next (2), prompt (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (9), [[Microsoft Azure|Azure]] (5), [[GitHub]] (1), [[JSON]] (1)
 > **CLI Commands:** terraform (9), make (4), az (1)
 > **Tools:** terminal (1), github (1), azure portal (1)
 > **UI Navigation:** go to (3)
@@ -778,8 +762,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a virtual network
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980)
+#### [Creating a virtual network](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +770,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=7)** The first thing we need to create is a virtual network.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=11)** Azure virtual networks allow your resources to talk to each other and is one of the bases that we need to create first in order to create our virtual machine since all the pieces will fit together at the end.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=11)** [[Microsoft Azure|Azure]] virtual networks allow your resources to talk to each other and is one of the bases that we need to create first in order to create our virtual machine since all the pieces will fit together at the end.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=24)** To create a virtual network resource block, it's very similar to a resource group.
 >
@@ -821,7 +804,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=143)** Since we don't have to reference and rename everything all over again, we can keep that all within the azurerm_resource_group container.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=152)** So if we ever change the resource group name, it will automatically update the rest of the information and configurations within our Terraform configuration file.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=152)** So if we ever change the resource group name, it will automatically update the [[Representational State Transfer (REST)|rest]] of the information and configurations within our [[Terraform]] configuration file.
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=162)** So this is a great way.
 >
@@ -843,7 +826,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=225)** So let's give this a second.
 >
-> **[3:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=228)** So what this is going to do is refresh your state file to make sure to matches real-time configuration and shows the changes that it's going to create.
+> **[3:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=228)** So what this is going to do is refresh your state file to make sure to matches [[Real-Time]] configuration and shows the changes that it's going to create.
 >
 > **[3:57](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980&t=237)** So now we want to enter yes and what it's going to do is create our virtual network in the resource group that we previously created in the previous module.
 >
@@ -864,12 +847,11 @@ created: 2026-05-02
 > **Versions:** 10.0.0 (1)
 > **Tools:** azure portal (1)
 
-#### Creating a subnet
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980)
+#### [Creating a subnet](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980&t=0)** - [Instructor] For this module, we'll be learning on how to create a subnet resource block in Terraform.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980&t=0)** - [Instructor] For this module, we'll be learning on how to create a subnet resource block in [[Terraform]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-subnet?u=76281980&t=6)** Since we've just created our azurerm_virtual_network resource block, we're now going to create our subnet.
 >
@@ -919,20 +901,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (1)
 > **Code Identifiers:** azurerm_subnet (2), virtual_network (2), address_prefixes (2), azurerm_virtual_network (1), resource_group (1)
 > **CLI Commands:** terraform (1), find (1)
 > **Versions:** 10.0.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an internal network interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980)
+#### [Creating an internal network interface](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=0)** - [Instructor] Now that we've created the base for our networking, let's create the network interface card that we want to be attached to our virtual network.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=9)** Network interface cards are super important since it allows your virtual machines to talk to each other or communicate with different resources within your Azure environment.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=9)** Network interface cards are super important since it allows your [[Virtual Machines]] to talk to each other or communicate with different resources within your [[Microsoft Azure|Azure]] environment.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=19)** NICs are connected to subnets within a virtual network.
 >
@@ -948,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=57)** Just to kind of give an extra layer of security since it won't be able to communicate over the internet.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=64)** So one of the best parts about Terraform is that resource blocks are, at this point, I'm sure you're catching on, super uniform on the arguments that you need.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=64)** So one of the best parts about [[Terraform]] is that resource blocks are, at this point, I'm sure you're catching on, super uniform on the arguments that you need.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-an-internal-network-interface?u=76281980&t=73)** And it just varies by resource type.
 >
@@ -1010,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (1), [[Security]] (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Virtual Machines]] (1), [[Terraform]] (1)
 > **Code Identifiers:** ip_configuration (4), azurerm_resource_group (2), subnet_id (2), azurerm_network_interface (1), private_ip (1)
 > **CLI Commands:** make (5), terraform (1)
 > **Env Vars:** nic (3)
@@ -1019,22 +1000,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980)
+#### [Creating a virtual machine](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=0)** - Now that we have all of our pieces ready to go, it's time to create our virtual machine.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=6)** There are a few different Azure RM virtual machine resource blocks.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=6)** There are a few different [[Microsoft Azure|Azure]] RM virtual machine resource blocks.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=11)** For this demo, I'll be using the Azure RM windows, virtual machine.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=11)** For this demo, I'll be using the Azure RM [[Windows]], virtual machine.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=16)** So it's Azure RM Windows virtual machine.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=23)** They have a few different Azure RM virtual machine resource blocks.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=28)** They have one specifically for a Linux virtual machine, a generic virtual machine resource block.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=28)** They have one specifically for a [[Linux]] virtual machine, a generic virtual machine resource block.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=33)** For the purposes of this demo, we'll be using the Azure RM Windows virtual machine, since we'll be creating a Windows virtual machine with this demo.
 >
@@ -1070,7 +1050,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=121)** I'm going to use a standard B1s series.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=127)** This is mainly just for cost management.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=127)** This is mainly just for [[Cost Management]].
 >
 > **[2:09](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=129)** We will be destroying our resources at the end of this tutorial, but we want to make sure we are minimizing and optimizing our cloud costs.
 >
@@ -1080,7 +1060,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=146)** You can create your username to whatever you'd like.
 >
-> **[2:29](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=149)** And one important thing to know with Terraform, your admin password to your virtual machine will be saved in plain text within your state file.
+> **[2:29](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=149)** And one important thing to know with [[Terraform]], your admin password to your virtual machine will be saved in plain text within your state file.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=160)** So it's super important to keep this secure.
 >
@@ -1128,7 +1108,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=322)** So we have to enter the publisher of our resource image.
 >
-> **[5:27](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=327)** So since this is a Microsoft Windows server, we'll enter that in the publisher.
+> **[5:27](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=327)** So since this is a [[Microsoft]] [[Windows Server]], we'll enter that in the publisher.
 >
 > **[5:35](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-machine?u=76281980&t=335)** The offer is a window server, so that is also required within our source image reference.
 >
@@ -1144,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Terraform]] (5), data (3), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Terraform]] (5), [[Linux]] (1), [[Cost Management]] (1)
 > **CLI Commands:** rm (6), make (5), terraform (5), find (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sku (2), lrs (1)
@@ -1152,18 +1132,17 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - now (1)
 
-#### Deploying Terraform code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980)
+#### [Deploying Terraform code](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=0)** - [Instructor] Now that we've created all our resources and have our pieces together, what we want to do is log in to our Azure accounts.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=0)** - [Instructor] Now that we've created all our resources and have our pieces together, what we want to do is log in to our [[Microsoft Azure|Azure]] accounts.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=7)** So using the Azure CLI, we want to enter az login.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=7)** So using the Azure [[CLI]], we want to enter az login.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=13)** And now that we've successfully logged into our Azure account, it's going to pull up all our subscription and tenant information.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=20)** So after that, we can run terraform plan, and this will show us all the configuration changes that are going to occur since we've last run terraform apply.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=20)** So after that, we can run [[Terraform]] plan, and this will show us all the configuration changes that are going to occur since we've last run terraform apply.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=30)** Mine will potentially have less changes than you since we ran terraform apply earlier on.
 >
@@ -1173,7 +1152,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=48)** So now it's showing all the actions and configurations that will happen once we run terraform apply.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=55)** I do want to know, I did shorten the name in the Windows Virtual Machine resource block.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=55)** I do want to know, I did shorten the name in the [[Windows]] Virtual Machine resource block.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=61)** Since, in the previous module, the name was actually too long and it wouldn't let me create the Azure M Windows Virtual Machine.
 >
@@ -1189,7 +1168,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=113)** So this will take a few seconds to a few minutes or a little bit beyond that, depending the size of your configuration file.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=122)** This one shouldn't take too long since it is just virtual machines and a few networking components.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=122)** This one shouldn't take too long since it is just [[Virtual Machines]] and a few networking components.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=128)** So, as you can see, it's now creating my windows_virtual_machine.
 >
@@ -1197,9 +1176,9 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=140)** As you can see, we're applying these actions to our workspace of test.
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=145)** So if we go to our test1, you can see that it's actually all in JSON as these resources are being created.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=145)** So if we go to our test1, you can see that it's actually all in [[JSON]] as these resources are being created.
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=156)** And that's being transferred over to your Azure provider through the Microsoft API.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=156)** And that's being transferred over to your Azure provider through the [[Microsoft]] API.
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/deploying-terraform-code?u=76281980&t=162)** As you can see, our terraform apply was successful with the changes that we've created.
 >
@@ -1255,18 +1234,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Experiment and continue to learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980)
+#### [Experiment and continue to learn](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980&t=0)** - [Alex] That brings us to the end of the course and we've only scratched the surface of what infrastructure is code and Terraform has to offer.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980&t=0)** - [Alex] That brings us to the end of the course and we've only scratched the surface of what infrastructure is code and [[Terraform]] has to offer.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980&t=7)** This isn't the end and I encourage you to learn more by adding variables, modules and other resources to your Terraform code, and of course, by experimenting more and continuing to learn more about Terraform.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980&t=17)** Again, my name is Alex Illarionov and thank you for watching.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980&t=20)** Feel free to connect me with me on LinkedIn if you have any further questions, but otherwise, I wish you the best on your Terraform learning journey.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980&t=20)** Feel free to connect me with me on [[LinkedIn]] if you have any further questions, but otherwise, I wish you the best on your Terraform learning journey.
 
 > [!info]- Semantic Content
 >

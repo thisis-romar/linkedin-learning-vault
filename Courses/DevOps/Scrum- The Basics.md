@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practicing scrum in your work environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980)
+#### [Practicing scrum in your work environment](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980&t=0)** - Agile project management has taken the business world by storm for the better part of the last two decades, and most recently, Scrum is dominating the landscape.
+> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980&t=0)** - [[Agile Development|Agile]] project management has taken the business world by storm for the better part of the last two decades, and most recently, [[Scrum]] is dominating the landscape.
 >
 > **[0:11](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980&t=11)** It may sound mysterious, but at it's root, Scrum is a set of simple processes and practices that can help you harness the speed of change.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (7), [[Agile Development|Agile]] (2), management (2), business (1), career (1)
+> **Frameworks & Libraries:** [[Scrum]] (7), [[Agile Development|Agile]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - agile (1)
 
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The scrum approach to project success
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980)
+#### [The scrum approach to project success](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=6)** As we use and adapt words, new definitions are created to match what they mean in current times.
 >
-> **[0:12](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=12)** Similarly, the scrum we're talking about is an adaptation of the word scrummage, taken from the game rugby, but scrum from rugby, how does that work?
+> **[0:12](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=12)** Similarly, the [[Scrum]] we're talking about is an adaptation of the [[Microsoft Word|word]] scrummage, taken from the game rugby, but scrum from rugby, how does that work?
 >
 > **[0:23](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=23)** Well, in rugby, a scrummage, scrum for short, was the method used to restart play in a match after a foul.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=64)** It's impossible to know at the beginning exactly how a project will unfold and how to best meet its unique challenges.
 >
-> **[1:12](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=72)** The Agile Project Management movement comes out of a desire to adapt in real time to the changing circumstances that teams face, and this is where the rugby team comes in.
+> **[1:12](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=72)** The [[Agile Development|Agile]] Project Management movement comes out of a desire to adapt in real time to the changing circumstances that teams face, and this is where the rugby team comes in.
 >
 > **[1:24](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980&t=84)** The founders of the Agile movement recognize that, in rugby, the object is to move the ball down the field, one possession at a time, so why couldn't projects do the same thing?
 >
@@ -157,14 +155,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (5), [[Microsoft Word|Word]] (3), game (3), management (2), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Microsoft Word|Word]] (3), [[Agile Development|Agile]] (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - language (1)
 
-#### The agile revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980)
+#### [The agile revolution](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,21 +177,21 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=33)** You can absolutely plan and schedule that whole project upfront.
 >
-> **[0:37](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=37)** It happens every time a home or an office building is built.
+> **[0:37](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=37)** It happens every time a home or an [[Microsoft Office|office]] building is built.
 >
-> **[0:41](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=41)** The problem comes when applying the technique to highly empirical work like software development.
+> **[0:41](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=41)** The problem comes when applying the technique to highly empirical work like [[Software Development]].
 >
 > **[0:47](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=47)** Empirical work is more like a science experiment.
 >
 > **[0:50](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=50)** You try something, check out the results, and if it didn't work, you try something else.
 >
-> **[0:56](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=56)** You certainly can't do that when building a house, but with software or some other products, you do it every day.
+> **[0:56](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=56)** You certainly can't do that when building a house, but with software or some other [[Microsoft Products|products]], you do it every day.
 >
 > **[1:03](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=63)** That's the crux of why waterfall didn't work well for software development.
 >
 > **[1:07](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=67)** You literally cannot upfront plan the process of discovery.
 >
-> **[1:12](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=72)** The frustration of highly-skilled software developers working on waterfall projects was the tipping point that led to the Agile revolution.
+> **[1:12](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=72)** The frustration of highly-skilled software developers working on waterfall projects was the tipping point that led to the [[Agile Development|Agile]] revolution.
 >
 > **[1:21](https://www.linkedin.com/learning/scrum-the-basics/the-agile-revolution-2?u=76281980&t=81)** Tired of having a failure rate equivalent to a weatherman, these individuals decided they had to come up with a better option.
 >
@@ -240,17 +237,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (5), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (5), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - being (1)
 
-#### Scrum: The leading project methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980)
+#### [Scrum: The leading project methodology](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=0)** - Scrum wants you to fail.
+> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=0)** - [[Scrum]] wants you to fail.
 >
 > **[0:03](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=3)** In fact, it's known for the slogan, "Fail fast."
 >
@@ -266,11 +262,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=29)** Well, really they're not.
 >
-> **[0:32](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=32)** The trick is in focusing on the second word, fast.
+> **[0:32](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=32)** The trick is in focusing on the second [[Microsoft Word|word]], fast.
 >
 > **[0:36](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=36)** Failure is okay, as long as you're learning from it, but if you have to wait too long, you're not going to learn nearly as much from it.
 >
-> **[0:46](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=46)** Scrum takes the agile manifesto and its key principles and boils them down to a very simple framework that encourages small scale focus and rapid learning cycles.
+> **[0:46](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=46)** Scrum takes the [[Agile Development|agile]] manifesto and its key principles and boils them down to a very simple framework that encourages small scale focus and rapid learning cycles.
 >
 > **[0:58](https://www.linkedin.com/learning/scrum-the-basics/scrum-the-leading-project-methodology-2?u=76281980&t=58)** That's what fail fast really means, learn fast.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (5), product (3), [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - scrum (1)
 
@@ -313,8 +309,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solve project problems with scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980)
+#### [Solve project problems with scrum](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=28)** Project requirements are shifting just as quickly to keep up.
 >
-> **[0:32](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=32)** So teams were doomed to failure on every project, until the agile manifesto came along.
+> **[0:32](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=32)** So teams were doomed to failure on every project, until the [[Agile Development|agile]] manifesto came along.
 >
 > **[0:39](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=39)** Then we shifted our focus away from constraining all three project elements and decided to make one of them flexible, scope.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=74)** Agile is a broad umbrella of many methodologies that follow the same principles.
 >
-> **[1:19](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=79)** Scrum is one of them.
+> **[1:19](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=79)** [[Scrum]] is one of them.
 >
 > **[1:21](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980&t=81)** Scrum took it a step further by creating a framework to help teams stay focused and protect them from distractions.
 >
@@ -392,18 +387,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (12), business (6), teams (5), [[Agile Development|Agile]] (5), product (3)
+> **Frameworks & Libraries:** [[Scrum]] (12), [[Agile Development|Agile]] (5)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - traditionally (1)
 
-#### Essential roles for scrum teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980)
+#### [Essential roles for scrum teams](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=1)** - Scrum is a lightweight framework that can be incredibly flexible, efficient, and powerful.
+> **[0:01](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=1)** - [[Scrum]] is a lightweight framework that can be incredibly flexible, efficient, and powerful.
 >
 > **[0:07](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=7)** There are two key roles that exist on every scrum team: the product owner and the scrum master.
 >
@@ -457,7 +451,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=146)** Scrum is a framework that doesn't value heroics by teams or individual team members.
 >
-> **[2:32](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=152)** It values sustainability and open dialog on what can and cannot be reasonably accomplished.
+> **[2:32](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=152)** It values [[Sustainability]] and open dialog on what can and cannot be reasonably accomplished.
 >
 > **[2:40](https://www.linkedin.com/learning/scrum-the-basics/essential-roles-for-scrum-teams-2?u=76281980&t=160)** The scrum master is the most visible spokesperson for the team.
 >
@@ -483,13 +477,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (17), product (5), business (3), teams (2), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (17), [[Sustainability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - scrum (1)
 
-#### Establish your scrum team
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980)
+#### [Establish your scrum team](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=9)** I felt like I'd been set up to fail.
 >
-> **[0:11](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=11)** So when you're ready to set up your Scrum team, I hope you're planning to do everything you can to help them succeed.
+> **[0:11](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=11)** So when you're ready to set up your [[Scrum]] team, I hope you're planning to do everything you can to help them succeed.
 >
 > **[0:19](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=19)** Scrum is all about daily collaboration and communication.
 >
@@ -531,7 +524,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=118)** They have broad knowledge at a high level in several areas and deep knowledge in just one area like a T.
 >
-> **[2:06](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=126)** For example, I worked with a very skilled Java developer, the vertical of the T, who also had database analyst skills, the crossbar of the T.
+> **[2:06](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=126)** For example, I worked with a very skilled [[Java]] developer, the vertical of the T, who also had database analyst skills, the crossbar of the T.
 >
 > **[2:16](https://www.linkedin.com/learning/scrum-the-basics/establish-your-scrum-team-2?u=76281980&t=136)** So she could work on more than one type of deliverable.
 >
@@ -573,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), database (2), teams (1), [[Java]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Analogies:** for example (1)
@@ -584,8 +577,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set the vision for your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980)
+#### [Set the vision for your project](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980&t=14)** That way, I'll get exactly what I want.
 >
-> **[0:17](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980&t=17)** Your Scrum project is exactly the same.
+> **[0:17](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980&t=17)** Your [[Scrum]] project is exactly the same.
 >
 > **[0:20](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980&t=20)** The vision is the map that will guide you and your team to your destination.
 >
@@ -665,12 +657,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Security]] (2), [[Scrum]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **Env Vars:** mvp (5)
 > **Speakers:** - i (1)
 
-#### Write user stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/write-user-stories-2?u=76281980)
+#### [Write user stories](https://www.linkedin.com/learning/scrum-the-basics/write-user-stories-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,20 +753,19 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/scrum-the-basics/write-user-stories-2?u=76281980&t=268)** So all parties on the team know what done for the story really is.
 >
-> **[4:34](https://www.linkedin.com/learning/scrum-the-basics/write-user-stories-2?u=76281980&t=274)** User stories are the tactical tools scrum teams use to deliver the work for their product.
+> **[4:34](https://www.linkedin.com/learning/scrum-the-basics/write-user-stories-2?u=76281980&t=274)** User stories are the tactical tools [[Scrum]] teams use to deliver the work for their product.
 >
 > **[4:40](https://www.linkedin.com/learning/scrum-the-basics/write-user-stories-2?u=76281980&t=280)** Writing good user stories can be challenging, but with practice, it gets easier every time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), next (2), functional (2), database (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **Definitions:** is a  (1), means that (1), known as (1)
 > **Env Vars:** invest (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - we (1)
 
-#### Set boundaries for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/set-boundaries-for-success-2?u=76281980)
+#### [Set boundaries for success](https://www.linkedin.com/learning/scrum-the-basics/set-boundaries-for-success-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/scrum-the-basics/set-boundaries-for-success-2?u=76281980&t=78)** The more valuable the outcome of the story, the higher it is in the backlog.
 >
-> **[1:23](https://www.linkedin.com/learning/scrum-the-basics/set-boundaries-for-success-2?u=76281980&t=83)** Remember, scrum allows flexibility in scope, but is locked in duration, so the PO wants the most valuable stuff delivered first.
+> **[1:23](https://www.linkedin.com/learning/scrum-the-basics/set-boundaries-for-success-2?u=76281980&t=83)** Remember, [[Scrum]] allows flexibility in scope, but is locked in duration, so the PO wants the most valuable stuff delivered first.
 >
 > **[1:33](https://www.linkedin.com/learning/scrum-the-basics/set-boundaries-for-success-2?u=76281980&t=93)** That way even if time runs out, a valuable product has still been delivered.
 >
@@ -839,12 +829,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), next (2), product (2), teams (2)
+> **Frameworks & Libraries:** [[Scrum]] (3)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **Speakers:** - your (1)
 
-#### Story points and estimation in scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/story-points-and-estimation-in-scrum-2?u=76281980)
+#### [Story points and estimation in scrum](https://www.linkedin.com/learning/scrum-the-basics/story-points-and-estimation-in-scrum-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,7 +849,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/scrum-the-basics/story-points-and-estimation-in-scrum-2?u=76281980&t=17)** Then there's relative estimating, which is comparing things to each other to get a general idea of something, like a giraffe is twice as tall as a zebra, or a cake is the same width as a pie.
 >
-> **[0:31](https://www.linkedin.com/learning/scrum-the-basics/story-points-and-estimation-in-scrum-2?u=76281980&t=31)** In Agile and Scrum, we use both kinds of estimating.
+> **[0:31](https://www.linkedin.com/learning/scrum-the-basics/story-points-and-estimation-in-scrum-2?u=76281980&t=31)** In [[Agile Development|Agile]] and [[Scrum]], we use both kinds of estimating.
 >
 > **[0:34](https://www.linkedin.com/learning/scrum-the-basics/story-points-and-estimation-in-scrum-2?u=76281980&t=34)** We use relative estimation to get a rough size of our work by comparing user stories to each other.
 >
@@ -892,11 +881,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (1)
 > **Speakers:** - there (1)
 
-#### Create a roadmap and release plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/create-a-roadmap-and-release-plan-2?u=76281980)
+#### [Create a roadmap and release plan](https://www.linkedin.com/learning/scrum-the-basics/create-a-roadmap-and-release-plan-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/scrum-the-basics/create-a-roadmap-and-release-plan-2?u=76281980&t=8)** Now it's time to estimate when things will be worked on.
 >
-> **[0:12](https://www.linkedin.com/learning/scrum-the-basics/create-a-roadmap-and-release-plan-2?u=76281980&t=12)** Scrum has tools for this as well.
+> **[0:12](https://www.linkedin.com/learning/scrum-the-basics/create-a-roadmap-and-release-plan-2?u=76281980&t=12)** [[Scrum]] has tools for this as well.
 >
 > **[0:15](https://www.linkedin.com/learning/scrum-the-basics/create-a-roadmap-and-release-plan-2?u=76281980&t=15)** We use two different mechanisms for this: the roadmap and the release plan.
 >
@@ -974,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), next (2), business (1), functional (1)
+> **Frameworks & Libraries:** [[Scrum]] (3)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -986,14 +974,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sprint planning in scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980)
+#### [Sprint planning in scrum](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980&t=1)** - As your team prepares for the sprint, more detailed collaboration is necessary, and that's exactly what you do in your sprint planning meeting.
 >
-> **[0:09](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980&t=9)** Full participation is critical, so you'll need all your development team members, your scrum master and product owner.
+> **[0:09](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980&t=9)** Full participation is critical, so you'll need all your development team members, your [[Scrum]] master and product owner.
 >
 > **[0:16](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980&t=16)** These responsibilities can't be delegated.
 >
@@ -1051,14 +1038,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), product (1), database (1)
+> **Frameworks & Libraries:** [[Scrum]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Track your scrum progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980)
+#### [Track your scrum progress](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,11 +1052,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=7)** This is good, people are invested in the outcome of your project.
 >
-> **[0:12](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=12)** Scrum addresses these challenges, by posting information radiators.
+> **[0:12](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=12)** [[Scrum]] addresses these challenges, by posting information radiators.
 >
 > **[0:17](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=17)** An information radiator is anything that you post on walls or team sites, that help everyone understand what you're doing and how it's going.
 >
-> **[0:26](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=26)** These can take as many unique forms as needed for your environment and project.
+> **[0:26](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=26)** These can take as many unique [[Forms]] as needed for your environment and project.
 >
 > **[0:32](https://www.linkedin.com/learning/scrum-the-basics/track-your-scrum-progress-2?u=76281980&t=32)** I've seen teams visibly post the vision for their project, the team norms, their teams definition of done.
 >
@@ -1122,16 +1108,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Scrum]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
-#### The daily scrum or standup meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-daily-scrum-or-standup-meeting-2?u=76281980)
+#### [The daily scrum or standup meeting](https://www.linkedin.com/learning/scrum-the-basics/the-daily-scrum-or-standup-meeting-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-the-basics/the-daily-scrum-or-standup-meeting-2?u=76281980&t=1)** - The scrum master, as the scrum process owner, will establish your daily scrum.
+> **[0:01](https://www.linkedin.com/learning/scrum-the-basics/the-daily-scrum-or-standup-meeting-2?u=76281980&t=1)** - The [[Scrum]] master, as the scrum process owner, will establish your daily scrum.
 >
 > **[0:06](https://www.linkedin.com/learning/scrum-the-basics/the-daily-scrum-or-standup-meeting-2?u=76281980&t=6)** This is also commonly referred to as the daily standup meeting or standup for short.
 >
@@ -1213,15 +1198,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (16), teams (4), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (16)
 > **Speakers:** - the (1)
 
-#### Backlog refinement in scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/backlog-refinement-in-scrum?u=76281980)
+#### [Backlog refinement in scrum](https://www.linkedin.com/learning/scrum-the-basics/backlog-refinement-in-scrum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-the-basics/backlog-refinement-in-scrum?u=76281980&t=1)** - In Scrum, the Product Owner is accountable to the team and the stakeholders.
+> **[0:01](https://www.linkedin.com/learning/scrum-the-basics/backlog-refinement-in-scrum?u=76281980&t=1)** - In [[Scrum]], the Product Owner is accountable to the team and the stakeholders.
 >
 > **[0:06](https://www.linkedin.com/learning/scrum-the-basics/backlog-refinement-in-scrum?u=76281980&t=6)** The stakeholders want to ensure they get what they need from your project.
 >
@@ -1279,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Scrum]] (2), product (2)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
@@ -1289,12 +1273,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get stories done in scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980)
+#### [Get stories done in scrum](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=0)** - In scrum, the team takes their sprint commitment very seriously.
+> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=0)** - In [[Scrum]], the team takes their sprint commitment very seriously.
 >
 > **[0:05](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=5)** They're striving each day to collaborate and get their stories to done.
 >
@@ -1302,7 +1285,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=18)** The AC approval though has to come from the product owner.
 >
-> **[0:22](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=22)** Since the product owner is the business representative on the team, their acceptance or rejection is the final word.
+> **[0:22](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=22)** Since the product owner is the business representative on the team, their acceptance or rejection is the final [[Microsoft Word|word]].
 >
 > **[0:30](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980&t=30)** That means that throughout the sprint, team members are checking their work with the PO.
 >
@@ -1338,17 +1321,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Scrum]] (2), business (1), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### Demo the team's work
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980)
+#### [Demo the team's work](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=0)** - In scrum, we strive to deliver a working product at the end of every sprint.
+> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=0)** - In [[Scrum]], we strive to deliver a working product at the end of every sprint.
 >
 > **[0:06](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=6)** But what's the point if no one knows about it?
 >
@@ -1408,7 +1390,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=155)** The stakeholders can also provide feedback on the timing and contents of each planned release.
 >
-> **[2:41](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=161)** Again, another trust and relationship building exercise.
+> **[2:41](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=161)** Again, another trust and [[Relationship Building]] exercise.
 >
 > **[2:46](https://www.linkedin.com/learning/scrum-the-basics/demo-the-team-s-work-2?u=76281980&t=166)** You might be wondering if you have to demo at the end of every sprint.
 >
@@ -1426,19 +1408,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Scrum]] (4), teams (1), [[Relationship Building]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Relationship Building]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Assess the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980)
+#### [Assess the team](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980&t=0)** - For a scrum team, 100% of every sprint is focused on the needs of the stakeholders and the end users.
+> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980&t=0)** - For a [[Scrum]] team, 100% of every sprint is focused on the needs of the stakeholders and the end users.
 >
-> **[0:08](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980&t=8)** But the principles behind agile say that teams need to reflect regularly on how to be more effective and adjust their behaviors accordingly.
+> **[0:08](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980&t=8)** But the principles behind [[Agile Development|agile]] say that teams need to reflect regularly on how to be more effective and adjust their behaviors accordingly.
 >
 > **[0:17](https://www.linkedin.com/learning/scrum-the-basics/assess-the-team-2?u=76281980&t=17)** In scrum, this principle has taken shape as the team retrospective, or retro for short.
 >
@@ -1512,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (7), product (3), next (3), teams (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (7), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1524,12 +1505,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deliver successful projects using scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980)
+#### [Deliver successful projects using scrum](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=0)** - In this course, we've covered the basics of the Scrum framework.
+> **[0:00](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=0)** - In this course, we've covered the basics of the [[Scrum]] framework.
 >
 > **[0:04](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=4)** We've walked through the reasons why so many teams and organizations have moved to Scrum.
 >
@@ -1537,7 +1517,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=14)** It's only a 15-minute commitment each day and you'll see immediate results with your team.
 >
-> **[0:21](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=21)** If you're interested in a deeper dive to understanding how to move your whole organization to Agile and Scrum, check out my course, Transitioning from Waterfall to Agile Project Management.
+> **[0:21](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=21)** If you're interested in a deeper dive to understanding how to move your whole organization to [[Agile Development|Agile]] and Scrum, check out my course, Transitioning from Waterfall to Agile Project Management.
 >
 > **[0:32](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980&t=32)** Thank you for exploring the basics of Scrum with me.
 >
@@ -1545,7 +1525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2), teams (1), management (1), product (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2)
 > **Speakers:** - in (1)
 
 

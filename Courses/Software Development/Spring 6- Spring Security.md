@@ -85,14 +85,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure with Spring Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980)
+#### [Secure with Spring Security](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980&t=0)** - [Frank] Building secure applications can be stressful and difficult for many developers.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980&t=5)** For developers working in the Java Virtual Machine, Spring Security simplifies the processes and allows you to focus on delivery of your business value.
+> **[0:05](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980&t=5)** For developers working in the [[Java]] Virtual Machine, [[Spring Security]] simplifies the processes and allows you to focus on delivery of your business value.
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-spring-security/secure-with-spring-security?u=76281980&t=14)** Hi, my name is Frank Moley.
 >
@@ -102,30 +101,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Security]] (2), [[Java]] (1), business (1)
+> **Frameworks & Libraries:** [[Spring Security]] (2), [[Java]] (1)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [frank] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In order to be successful in this course, there is some prerequisite knowledge you should have, as well as some understanding of the environment itself.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=8)** While you can use Spring with several JVM languages, we will be focusing on using the Java language.
+> **[0:08](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=8)** While you can use Spring with several JVM languages, we will be focusing on using the [[Java]] language.
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=14)** For this course, I'll be using the latest long-term support version of the Java language that is supported by Spring today, and that is Java 21.
 >
 > **[0:23](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=23)** While we won't use any of the newer features of the language, you should have a good base knowledge of Java in general.
 >
-> **[0:30](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=30)** Since we are using codespaces for this course, the JDK is installed for you.
+> **[0:30](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=30)** Since we are using [[Codespaces]] for this course, the JDK is installed for you.
 >
 > **[0:35](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=35)** However, if you prefer to work locally, make sure you have a JDK installed and not just a JRE.
 >
-> **[0:42](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=42)** This course is based on the Spring framework, so there is an expectation of knowledge of Spring.
+> **[0:42](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=42)** This course is based on the [[Spring Framework]], so there is an expectation of knowledge of Spring.
 >
-> **[0:47](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=47)** If you are new to Spring, stop this course and go through my course, Learning Spring with Spring Boot 3 at a minimum.
+> **[0:47](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=47)** If you are new to Spring, stop this course and go through my course, Learning Spring with [[Spring Boot]] 3 at a minimum.
 >
 > **[0:54](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=54)** As I just said, a base understanding of Spring is very important.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=72)** Once again, my course, Learning Spring With Spring Boot 3, is a great starting point if you need it.
 >
-> **[1:18](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=78)** Spring security is primarily designed for web security.
+> **[1:18](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=78)** [[Spring Security]] is primarily designed for web security.
 >
 > **[1:22](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=82)** You should understand how Spring Web works, especially in Spring Boot.
 >
@@ -149,9 +147,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=99)** There are a few more pieces of software that you will need to have on your computer for this course if you are not using codespaces, they're already installed in the codespaces environment if you are using them.
 >
-> **[1:50](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=110)** We're going to be using Maven as our dependency management system.
+> **[1:50](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=110)** We're going to be using Maven as our [[Dependency Management]] system.
 >
-> **[1:54](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=114)** Now, Spring supports both Maven and Gradle, but for this course, I will be using Maven.
+> **[1:54](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=114)** Now, Spring supports both Maven and [[Gradle]], but for this course, I will be using Maven.
 >
 > **[2:00](https://www.linkedin.com/learning/spring-6-spring-security/what-you-need-to-know?u=76281980&t=120)** If you prefer the Gradle path, it will definitely work, but you will need to adjust as you go.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Java]] (4), [[Codespaces]] (3), web (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Java]] (4), [[Codespaces]] (3), [[Gradle]] (2), [[Spring Framework]] (1)
 > **Env Vars:** jdk (2), jvm (1), jre (1)
 > **Prerequisites:** prerequisite (1), make sure you have (1), you'll need (1)
 > **CLI Commands:** make (1), curl (1)
@@ -179,12 +177,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Spring Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980)
+#### [Introduction to Spring Security](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=0)** - [Instructor] The Spring Security Project is one of the most powerful abstractions from the perspective of the developer.
+> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=0)** - [Instructor] The [[Spring Security]] Project is one of the most powerful abstractions from the perspective of the developer.
 >
 > **[0:06](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=6)** However, it is also one of the most complex considering everything that it includes.
 >
@@ -200,17 +197,17 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=39)** These topics can comprise several courses on their own, but I do want a conceptual framework so you get a feel of where Spring Security comes into play.
 >
-> **[0:48](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=48)** Most often, the focus in this layered model starts with the lowest level, and that is the physical hardware.
+> **[0:48](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=48)** Most often, the focus in this layered model starts with the lowest level, and that is the physical [[Hardware]].
 >
 > **[0:54](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=54)** Hardware must be physically secured and uniquely identifiable to trusted systems.
 >
 > **[1:01](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=61)** After you plan to secure the hardware, you start looking at the network.
 >
-> **[1:05](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=65)** Here we deploy transport layer security, firewalls, network segmentation strategies like VLANs and security zones, intrusion detection systems, and the list goes on and on.
+> **[1:05](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=65)** Here we deploy transport layer security, firewalls, network segmentation strategies like VLANs and security zones, [[Intrusion Detection]] systems, and the list goes on and on.
 >
 > **[1:17](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=77)** We then move to the operating systems where user access controls, patching policies, and software restrictions provide additional layers of security for our system as a whole.
 >
-> **[1:27](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=87)** Finally, we look at application security, and this is where we focus on good coding practices, proper data handling, and application user access controls.
+> **[1:27](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=87)** Finally, we look at [[Application Security]], and this is where we focus on good [[Coding Practices]], proper data handling, and application user access controls.
 >
 > **[1:38](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=98)** So where does Spring Security fit in?
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=104)** Spring Security is a project that provides amazing abstractions of the J2EE now called Jakarta EE application space.
 >
-> **[1:53](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=113)** These applications help solve the various issues of traditional Java enterprise security like portability and vendor lock-in.
+> **[1:53](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=113)** These applications help solve the various issues of traditional [[Java]] enterprise security like portability and vendor lock-in.
 >
 > **[2:01](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=121)** By abstracting these topics, we are providing a clean and efficient way to provide security services.
 >
@@ -226,27 +223,26 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=131)** It also provides valuable tools for internet facing applications running in the JVM.
 >
-> **[2:18](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=138)** Obviously as a Spring project, it plays very nice with the Spring framework as a whole, but that isn't a requirement.
+> **[2:18](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=138)** Obviously as a Spring project, it plays very nice with the [[Spring Framework]] as a whole, but that isn't a requirement.
 >
-> **[2:27](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=147)** In this course, we will do all of our work using Spring Boot, but at no point should that feel like a requirement.
+> **[2:27](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=147)** In this course, we will do all of our work using [[Spring Boot]], but at no point should that feel like a requirement.
 >
 > **[2:34](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=154)** You could use Spring Security with traditional Spring-based WAR applications, as well as raw Java applications.
 >
 > **[2:42](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=162)** Most of Spring Security is designed to focus on authentication and authorization.
 >
-> **[2:47](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=167)** These are often the most critical needs at the application level itself outside of secure coding practices.
+> **[2:47](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=167)** These are often the most critical needs at the application level itself outside of [[Secure Coding]] practices.
 >
 > **[2:55](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-spring-security?u=76281980&t=175)** We will focus on these topics exclusively in this course, but there's a lot of material in these topics, so buckle up and let's dig into what authentication and authorization is really about.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Security]] (9), [[Security]] (8), application (5), [[Hardware]] (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Spring Security]] (9), [[Hardware]] (3), [[Java]] (2), [[Intrusion Detection]] (1), [[Application Security]] (1)
 > **Env Vars:** j2ee (1), jvm (1), war (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication vs. authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980)
+#### [Authentication vs. authorization](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,9 +260,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=49)** Often we leverage a process of a system calling another system.
 >
-> **[0:53](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=53)** In a microservices world, that tends to happen a lot.
+> **[0:53](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=53)** In a [[Microservices]] world, that tends to happen a lot.
 >
-> **[0:57](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=57)** We can leverage Spring Security to secure system to system calls the same way we would use for user to system calls.
+> **[0:57](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=57)** We can leverage [[Spring Security]] to secure system to system calls the same way we would use for user to system calls.
 >
 > **[1:06](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=66)** Now, Spring provides out-of-the box support for many different flavors of authentication.
 >
@@ -274,15 +270,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=79)** It also includes support for X.509 certificate based authentication.
 >
-> **[1:24](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=84)** The most common internal level of authentication model is forms based authentication.
+> **[1:24](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=84)** The most common internal level of authentication model is [[Forms]] based authentication.
 >
 > **[1:31](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=91)** Spring Security provides rich and robust support for forms based authentication models.
 >
 > **[1:37](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=97)** Now in the enterprise world, we often see integration with LDAP as a method of authentication.
 >
-> **[1:43](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=103)** Spring Security provides native LDAP support as well as support for Microsoft Active Directory using the LDAP abstraction.
+> **[1:43](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=103)** Spring Security provides native LDAP support as well as support for [[Microsoft]] [[Active Directory]] using the LDAP abstraction.
 >
-> **[1:52](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=112)** This is clearly one of the most common integration points in the world for Java-based applications using Spring Security.
+> **[1:52](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=112)** This is clearly one of the most common integration points in the world for [[Java]]-based applications using Spring Security.
 >
 > **[2:00](https://www.linkedin.com/learning/spring-6-spring-security/authentication-vs-authorization?u=76281980&t=120)** Spring Security has rich support for other external facing authentication providers that are much more common in an internet-based system.
 >
@@ -320,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Security]] (8), web (3), [[Forms]] (2), [[Java]] (2), application (1)
+> **Frameworks & Libraries:** [[Spring Security]] (8), [[Forms]] (2), [[Java]] (2), [[Microservices]] (1), [[Microsoft]] (1)
 > **Env Vars:** ldap (3), http (2), cas (1), jaas (1), saml (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
@@ -332,14 +328,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to project
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980)
+#### [Introduction to project](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=0)** - [Instructor] Most of the work that we'll be doing in this course is adding security to a web application.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=5)** To save immense time and so we can focus on Spring security, I've created a Spring Boot based web application that we will use.
+> **[0:05](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=5)** To save immense time and so we can focus on [[Spring Security]], I've created a [[Spring Boot]] based web application that we will use.
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=14)** The project details are really important to understand.
 >
@@ -353,17 +348,17 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=40)** So we have a fresh database at every restart.
 >
-> **[0:44](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=44)** We also have a simple Spring data repository to connect to that data source.
+> **[0:44](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=44)** We also have a simple [[Spring Data]] repository to connect to that data source.
 >
 > **[0:49](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=49)** So let's take a look at the application itself.
 >
-> **[0:53](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=53)** I've opened up GitHub Code Spaces, and I'm going to start with the admin web application, which is what we are going to use for this chapter.
+> **[0:53](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=53)** I've opened up [[GitHub]] Code Spaces, and I'm going to start with the admin web application, which is what we are going to use for this chapter.
 >
 > **[1:01](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=61)** Within here, you can take a look at the Palm.XML file and you'll see that we have brought in Spring Boot starter Actuator, Lombok for Annotation Processing, Spring Boot Starter JPA, Thymeleaf and Web, as well as the H2 embedded database.
 >
 > **[1:17](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=77)** And then of course, the test package that comes with every Spring Boot application.
 >
-> **[1:22](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=82)** In source main Java, we have our base application package, and within there we have two sub packages as well as the application class that comes with Spring Boot.
+> **[1:22](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=82)** In source main [[Java]], we have our base application package, and within there we have two sub packages as well as the application class that comes with Spring Boot.
 >
 > **[1:33](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=93)** One of those packages is our data package, and underneath that is our model, which has our customer model annotated with Lombok as well as JPA and our order model.
 >
@@ -381,13 +376,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=135)** We have a generic error template.
 >
-> **[2:18](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=138)** We also have the header HTML, which is used as a fragment on every page.
+> **[2:18](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=138)** We also have the header [[HTML]], which is used as a fragment on every page.
 >
 > **[2:22](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=142)** We've got our indexer homepage and then an orders page.
 >
 > **[2:26](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=146)** We've also got our application properties set for both JPA and Spring itself.
 >
-> **[2:30](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=150)** And then our data.SQL file and schema.SQL file, which are used to load that data into the embedded database.
+> **[2:30](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=150)** And then our data.[[SQL]] file and schema.SQL file, which are used to load that data into the embedded database.
 >
 > **[2:38](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-project?u=76281980&t=158)** So with that, I'm going to jump over here to admin web, and I am going to start it in the Spring Boot dashboard.
 >
@@ -407,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Spring Boot]] (6), data (6), web (4), database (4)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[SQL]] (2), [[Spring Security]] (1), [[Spring Data]] (1), [[GitHub]] (1)
 > **Env Vars:** jpa (4), sql (2), mvc (1), xml (1), html (1)
 > **File Paths:** palm.xml (1), data.sql (1), schema.sql (1)
 > **Exercise Files:** template (3)
@@ -416,12 +411,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 
-#### In-memory authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980)
+#### [In-memory authentication](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=0)** - [Instructor] So we're going to start with the Hello World example of Spring Security.
+> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=0)** - [Instructor] So we're going to start with the Hello World example of [[Spring Security]].
 >
 > **[0:04](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=4)** Now I want to be very, very clear.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=125)** And of course the scope of this will be test.
 >
-> **[2:10](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=130)** So now we can go ahead and close that and we're going to go to source, main, Java.
+> **[2:10](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=130)** So now we can go ahead and close that and we're going to go to source, main, [[Java]].
 >
 > **[2:14](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=134)** In our base package, we are going to add a new Java package called config.
 >
@@ -531,7 +525,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=351)** And we are now ready to run it.
 >
-> **[5:52](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=352)** So I'm going to go to the Spring Boot dashboard and launch my admin web application and it's going to open up.
+> **[5:52](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=352)** So I'm going to go to the [[Spring Boot]] dashboard and launch my admin web application and it's going to open up.
 >
 > **[6:00](https://www.linkedin.com/learning/spring-6-spring-security/in-memory-authentication?u=76281980&t=360)** Now, if I click on customers, it's now going to prompt me with the browser-based authentication for basic loss.
 >
@@ -541,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Spring Security]] (3), [[Java]] (3), web application (2), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Spring Security]] (3), [[Java]] (3), [[Spring Boot]] (1)
 > **Code Identifiers:** artifactid (2), securityfilterchain (1), authorizehttprequests (1), httpbasic (1), withdefaultpasswordencoder (1)
 > **UI Navigation:** go to (3), click on (1), navigate to (1)
 > **Env Vars:** http (3), release (1)
@@ -550,8 +544,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### JDBC authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980)
+#### [JDBC authentication](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=17)** All right, so the first thing we need do, is to go to src, main, resources.
 >
-> **[0:21](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=21)** Let's open up our schema.sql file.
+> **[0:21](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=21)** Let's open up our schema.[[SQL]] file.
 >
 > **[0:24](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=24)** We're going to add a couple of new tables.
 >
@@ -625,7 +618,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=202)** We will set admin also to the role of USER, and admin to the role of ADMIN.
 >
-> **[3:32](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=212)** Now let's jump into our src, main, java.
+> **[3:32](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=212)** Now let's jump into our src, main, [[Java]].
 >
 > **[3:36](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=216)** Go into our config, and our WebSecureConfig, and and we are now going to modify our UserDetailsService.
 >
@@ -665,7 +658,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=311)** So, what I want you to do, is to go ahead and copy that, open up a new private incognito window and go to that same place.
 >
-> **[5:21](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=321)** Now, it's probably going to ask you to log into GitHub, because this is public.
+> **[5:21](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=321)** Now, it's probably going to ask you to log into [[GitHub]], because this is public.
 >
 > **[5:25](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=325)** So, I'm going to use my pass key to do that.
 >
@@ -677,11 +670,11 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=347)** And that's what we need to see.
 >
-> **[5:49](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=349)** So, with this, we have a JDBC-based password system.
+> **[5:49](https://www.linkedin.com/learning/spring-6-spring-security/jdbc-authentication?u=76281980&t=349)** So, with this, we have a [[Java Database Connectivity (JDBC)|JDBC]]-based password system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (3), [[SQL]] (2), next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Java]] (1), [[GitHub]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** insert (2), into (2), user (2), unique (1), index (1)
 > **Code Identifiers:** varchar_ignorecase (4), datasource (2), idx_auth_username (1), getpasswordencoder (1), getinstance (1)
 > **Definitions:** is a  (3), is called (1)
@@ -690,8 +683,7 @@ created: 2026-05-02
 > **File Paths:** schema.sql (1), javax.sql (1)
 > **CLI Commands:** make (1)
 
-#### Leveraging bcrypt for hashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980)
+#### [Leveraging bcrypt for hashing](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=10)** You should use a proper cryptographically sound one way hash, Shell 256 is no longer considered secure.
 >
-> **[0:18](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=18)** There are several valid hash algorithms you can use and Spring Boot supports them.
+> **[0:18](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=18)** There are several valid hash [[Algorithms]] you can use and [[Spring Boot]] supports them.
 >
 > **[0:23](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=23)** But we will use the default one, which is Bcrypt.
 >
@@ -713,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=38)** Now once that is installed, we can actually use it to encode our password.
 >
-> **[0:43](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=43)** So we're going to do an encode password and we will do our password JDBC, and we can now grab that entire text string and copy it.
+> **[0:43](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=43)** So we're going to do an encode password and we will do our password [[Java Database Connectivity (JDBC)|JDBC]], and we can now grab that entire text string and copy it.
 >
 > **[0:57](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=57)** Now open up admin web, go to source main resources and go to our data file.
 >
@@ -721,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=73)** Now with that said, we need to actually go out and make this use BCrypt.
 >
-> **[1:18](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=78)** So in order to do that, we simply go to our source bank Java config, go to our web security config and simply remove the password encoder.
+> **[1:18](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=78)** So in order to do that, we simply go to our source bank [[Java]] config, go to our web security config and simply remove the password encoder.
 >
 > **[1:31](https://www.linkedin.com/learning/spring-6-spring-security/leveraging-bcrypt-for-hashing?u=76281980&t=91)** Bcrypt is default behavior.
 >
@@ -751,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2), web (2), database (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Algorithms]] (1), [[Java]] (1)
 > **Env Vars:** sdk (2), jdbc (2)
 > **UI Navigation:** go to (4)
 > **Best Practices:** you should never (2)
@@ -760,8 +752,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying authorizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980)
+#### [Applying authorizations](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=9)** So let's change that for our simple web example.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=13)** All right, so the first thing I want you to do is open up admin web, go to source, main, java.
+> **[0:13](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=13)** All right, so the first thing I want you to do is open up admin web, go to source, main, [[Java]].
 >
 > **[0:18](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=18)** The config package underneath our base package and the web security config.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=148)** And this namespace is sec.
 >
-> **[2:31](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=151)** And this has actually been imported already for us when we brought in the spring security extras for Thymeleaf.
+> **[2:31](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=151)** And this has actually been imported already for us when we brought in the [[Spring Security]] extras for Thymeleaf.
 >
 > **[2:38](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=158)** So this is going to come from [http://www.thymeleaf.org/extra/spring-security](http://www.thymeleaf.org/extra/spring-security).
 >
@@ -867,7 +858,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=275)** This equals a new AtomicBoolean that we will set to false.
 >
-> **[4:41](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=281)** Now, we will create a collection, and the collection is going to be of type Granted Authority from org Spring Framework, and we will call this authorities.
+> **[4:41](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=281)** Now, we will create a collection, and the collection is going to be of type Granted Authority from org [[Spring Framework]], and we will call this authorities.
 >
 > **[4:54](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=294)** And this will equal a UsernamePassword.
 >
@@ -915,7 +906,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=424)** So let's grab this and let's go to a new window, an incognito window, and let's paste that in.
 >
-> **[7:22](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=442)** I will log into GitHub.
+> **[7:22](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=442)** I will log into [[GitHub]].
 >
 > **[7:29](https://www.linkedin.com/learning/spring-6-spring-security/applying-authorizations?u=76281980&t=449)** Now, I'm going to sign in as the admin user, go to my Details once again.
 >
@@ -931,7 +922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), web (4), data (4), [[Security]] (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Security]] (1), [[Spring Framework]] (1), [[GitHub]] (1)
 > **Code Identifiers:** authoritymapper (2), authoritiesmapper (1), setconverttouppercase (1), detailed_customer (1), hasauthority (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **URLs:** [http://www.thymeleaf.org/extra/spring-security](http://www.thymeleaf.org/extra/spring-security) (1)
@@ -940,12 +931,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
-#### Form-based authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980)
+#### [Form-based authentication](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=0)** - [Instructor] Before we jump into implementing forms based authentication, let's take a moment and discuss why we should do this in a web application.
+> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=0)** - [Instructor] Before we jump into implementing [[Forms]] based authentication, let's take a moment and discuss why we should do this in a web application.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=8)** So you may ask yourself, why would we want to implement forms based authentication for web applications when we have basic authentication?
 >
@@ -971,13 +961,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=59)** Often you'll hear that the base 64 encoding of the username and password is a security flaw in the spec.
 >
-> **[1:05](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=65)** Now, I'd like to put that to rest a little bit.
+> **[1:05](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=65)** Now, I'd like to put that to [[Representational State Transfer (REST)|rest]] a little bit.
 >
 > **[1:08](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=68)** When leveraging TLS communications, the base 64 encoded header is actually encrypted on the wire.
 >
 > **[1:17](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=77)** As such, it isn't easy to decode as some people will tell you.
 >
-> **[1:22](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=82)** There's really no inherent security risk with using basic auth, assuming your server's operating with TLS, unless of course you consider the risk of not being able to log out, of course.
+> **[1:22](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=82)** There's really no inherent [[Security Risk]] with using basic auth, assuming your server's operating with TLS, unless of course you consider the risk of not being able to log out, of course.
 >
 > **[1:33](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=93)** And I do consider that a risk when it comes to basic authentication.
 >
@@ -993,7 +983,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=131)** So with forms based authentication, you have complete control.
 >
-> **[2:15](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=135)** Since you're going to leverage a standard HTML form to pass the credentials to the backend, you can style that form as much or as little as your organization would like.
+> **[2:15](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=135)** Since you're going to leverage a standard [[HTML]] form to pass the credentials to the backend, you can style that form as much or as little as your organization would like.
 >
 > **[2:24](https://www.linkedin.com/learning/spring-6-spring-security/form-based-authentication?u=76281980&t=144)** But keep in mind that you still need to leverage TLS to secure your credentials on the wire because they're going to be in the body instead of the header, but it still needs to be encrypted.
 >
@@ -1015,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (10), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), web application (1)
+> **Frameworks & Libraries:** [[Forms]] (10), [[Representational State Transfer (REST)|Rest]] (2), [[Security Risk]] (1), [[HTML]] (1)
 > **Env Vars:** tls (3), rfc (1), html (1)
 > **Documentation:** rfc (1), specification (1), spec (1)
 > **Definitions:** is a  (2)
@@ -1024,8 +1014,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### The login page
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/the-login-page?u=76281980)
+#### [The login page](https://www.linkedin.com/learning/spring-6-spring-security/the-login-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1084,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Code Identifiers:** isanonymous (1)
 > **URLs:** [http://thymeleaf.org/extras/spring-security](http://thymeleaf.org/extras/spring-security) (1)
@@ -1103,14 +1091,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - so (1)
 
-#### Wiring it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980)
+#### [Wiring it all together](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=0)** - [Instructor] So now that we've made our page and added the header button, let's put the wiring in place so we can actually use this.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=8)** So the first thing that I need you to do is to go into the admin-web, source, main, java.
+> **[0:08](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=8)** So the first thing that I need you to do is to go into the admin-web, source, main, [[Java]].
 >
 > **[0:13](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=13)** base package, web, controller.
 >
@@ -1162,21 +1149,20 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=152)** All right, now with that said, we are ready to actually run this.
 >
-> **[2:37](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=157)** So when we come back we'll do some testing, and make sure that all of this works as expected using forms-based authentication.
+> **[2:37](https://www.linkedin.com/learning/spring-6-spring-security/wiring-it-all-together?u=76281980&t=157)** So when we come back we'll do some testing, and make sure that all of this works as expected using [[Forms]]-based authentication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Java]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Forms]] (1)
 > **Code Identifiers:** formlogin (2), getloginpage (1), httpbasic (1), loginpage (1), permitall (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Finishing touches and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/finishing-touches-and-testing?u=76281980)
+#### [Finishing touches and testing](https://www.linkedin.com/learning/spring-6-spring-security/finishing-touches-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/finishing-touches-and-testing?u=76281980&t=0)** - [Instructor] So, we've made our login page, we've added a button to the header so we can log in or log out depending on our state, and we've wired this in instead of basic auth using forms authentication, so let's actually go test everything in all of our scenarios.
+> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/finishing-touches-and-testing?u=76281980&t=0)** - [Instructor] So, we've made our login page, we've added a button to the header so we can log in or log out depending on our state, and we've wired this in instead of basic auth using [[Forms]] authentication, so let's actually go test everything in all of our scenarios.
 >
 > **[0:15](https://www.linkedin.com/learning/spring-6-spring-security/finishing-touches-and-testing?u=76281980&t=15)** So, I'm going to go ahead and simply fire up my application, and you'll notice up here at the top right, we have a Login button, but instead of clicking that right now, let's go ahead and click on Customers.
 >
@@ -1202,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Forms]] (1), data (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Env Vars:** ldap (1)
 > **Cross-References:** next chapter (1)
@@ -1214,14 +1200,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to LDAP for authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980)
+#### [Introduction to LDAP for authentication](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=0)** - [Instructor] One of the most common ways to authenticate an application in an enterprise is due to the use of LDAP.
 >
-> **[0:06](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=6)** So let's talk a little bit about LDAP in Microsoft Active Directory.
+> **[0:06](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=6)** So let's talk a little bit about LDAP in [[Microsoft]] [[Active Directory]].
 >
 > **[0:10](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=10)** LDAP or Lightweight Directory Access Protocol is a lightweight user authentication directory structure.
 >
@@ -1239,7 +1224,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=61)** In some way, shape or form, it supports an LDAP protocol, but it is not LDAP, and that's very important to understand before we go forward.
 >
-> **[1:10](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=70)** Now, Spring Security LDAP is not a very hard project to learn.
+> **[1:10](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=70)** Now, [[Spring Security]] LDAP is not a very hard project to learn.
 >
 > **[1:14](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=74)** The base project is Spring Security LDAP itself.
 >
@@ -1255,7 +1240,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=127)** I do want to talk a little bit about how we're going to to use LDAP in this chapter.
 >
-> **[2:12](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=132)** We're going to use an embedded LDAP server that's part of the spring dependency management structure.
+> **[2:12](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=132)** We're going to use an embedded LDAP server that's part of the spring [[Dependency Management]] structure.
 >
 > **[2:18](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-ldap-for-authentication?u=76281980&t=138)** You don't have to use the embedded LDAP server if you don't want to.
 >
@@ -1283,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), [[Spring Security]] (4), [[Microsoft]] (2), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Spring Security]] (4), [[Microsoft]] (2), [[Dependency Management]] (1)
 > **Env Vars:** ldap (21)
 > **CLI Commands:** docker (1)
 > **Definitions:** is a  (1)
@@ -1291,14 +1276,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a sample LDAP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/configuring-a-sample-ldap-server?u=76281980)
+#### [Configuring a sample LDAP server](https://www.linkedin.com/learning/spring-6-spring-security/configuring-a-sample-ldap-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/configuring-a-sample-ldap-server?u=76281980&t=0)** - [Instructor] So now let's go through the actions of configuring a local embedded LDAP server, acknowledging that this is only for the demo itself.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-6-spring-security/configuring-a-sample-ldap-server?u=76281980&t=9)** Normally your LDAP server is external to your application, as we already discussed, but doing so gets us what we need so we can actually wire in the spring security constructs.
+> **[0:09](https://www.linkedin.com/learning/spring-6-spring-security/configuring-a-sample-ldap-server?u=76281980&t=9)** Normally your LDAP server is external to your application, as we already discussed, but doing so gets us what we need so we can actually wire in the [[Spring Security]] constructs.
 >
 > **[0:21](https://www.linkedin.com/learning/spring-6-spring-security/configuring-a-sample-ldap-server?u=76281980&t=21)** So the first thing that I want you to do is I want you to go into the DAT directory and I want you to copy the Test-server LDIF file.
 >
@@ -1376,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Security]] (2), [[Spring Security]] (1), web (1)
+> **Frameworks & Libraries:** [[Spring Security]] (1)
 > **Env Vars:** ldap (5), ldif (3), url (2), dat (1)
 > **Code Identifiers:** passwordencoder (2), authenticationmanagerbuilder (1), ldapauthentication (1), userdnpatterns (1), groupsearch (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1385,8 +1369,7 @@ created: 2026-05-02
 > **Ports:** :8389 (1)
 > **Cross-References:** go back to (1)
 
-#### Spring LDAP outside of authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/spring-ldap-outside-of-authentication?u=76281980)
+#### [Spring LDAP outside of authentication](https://www.linkedin.com/learning/spring-6-spring-security/spring-ldap-outside-of-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1412,7 +1395,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/spring-6-spring-security/spring-ldap-outside-of-authentication?u=76281980&t=65)** One of the beautiful aspects of the way the Spring team works is the cohesion of the framework itself and LDAP operations are no exception.
 >
-> **[1:14](https://www.linkedin.com/learning/spring-6-spring-security/spring-ldap-outside-of-authentication?u=76281980&t=74)** In Spring Security, we can query LDAP using the template pattern for LDAP, just like we would for JDBC or Rest or Rabbit, or any of the other templates for the various technologies that exist.
+> **[1:14](https://www.linkedin.com/learning/spring-6-spring-security/spring-ldap-outside-of-authentication?u=76281980&t=74)** In [[Spring Security]], we can query LDAP using the template pattern for LDAP, just like we would for [[Java Database Connectivity (JDBC)|JDBC]] or [[Representational State Transfer (REST)|Rest]] or Rabbit, or any of the other templates for the various technologies that exist.
 >
 > **[1:29](https://www.linkedin.com/learning/spring-6-spring-security/spring-ldap-outside-of-authentication?u=76281980&t=89)** The LDAP template has several key use cases that you need to know.
 >
@@ -1442,19 +1425,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), hr (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Search]] (2), [[Spring Security]] (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Spring Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ldap (11), jdbc (2)
 > **Exercise Files:** template (4)
 > **Definitions:** is an  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Active directory vs. LDAP for authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980)
+#### [Active directory vs. LDAP for authentication](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=0)** - [Instructor] I want to talk for a moment about using Active Directory from Microsoft for authentication in a Spring Boot application.
+> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=0)** - [Instructor] I want to talk for a moment about using [[Active Directory]] from [[Microsoft]] for authentication in a [[Spring Boot]] application.
 >
 > **[0:07](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=7)** Now today, many companies are moving to ADFS, which is SAML-based, but there still are a lot of enterprises using good old fashioned Microsoft Active Directory.
 >
@@ -1474,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=105)** It can be standard, but there's also some non-standard methods.
 >
-> **[1:50](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=110)** Now, configuration in an Active Directory situation is very similar to what we previously looked at with our embedded LDAP instance, but I do want to give you a little word of caution.
+> **[1:50](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=110)** Now, configuration in an Active Directory situation is very similar to what we previously looked at with our embedded LDAP instance, but I do want to give you a little [[Microsoft Word|word]] of caution.
 >
 > **[2:01](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=121)** One catch with active directories, all too often we build nested group structures.
 >
@@ -1482,7 +1464,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=133)** That way you can cascade permissions down across your organization.
 >
-> **[2:17](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=137)** But in the Spring Security world, nested groups don't natively work out of the box.
+> **[2:17](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=137)** But in the [[Spring Security]] world, nested groups don't natively work out of the box.
 >
 > **[2:22](https://www.linkedin.com/learning/spring-6-spring-security/active-directory-vs-ldap-for-authentication?u=76281980&t=142)** And there's actually a Spring Security ticket that talks about this, and there's some conversation there actually between Rob Winch and myself, for instance, where we're talking about the fact that this support, in my mind's eye, seems natural, but it would be non-passive changed in Spring Security.
 >
@@ -1506,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (18), [[Spring Security]] (4), [[Microsoft]] (2), [[Spring Boot]] (1), application (1)
+> **Frameworks & Libraries:** [[Active Directory]] (18), [[Spring Security]] (4), [[Microsoft]] (2), [[Spring Boot]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ldap (15), adfs (1), saml (1), api (1), sec (1)
 > **Documentation:** the documentation (1), stack overflow (1)
 > **Analogies:** similar to (1), for instance (1)
@@ -1519,14 +1501,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to OAuth 2.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980)
+#### [Introduction to OAuth 2.0](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=0)** - [Instructor] While OAuth and OAuth 2 are probably two of the most common authentication and authorization schemes on the internet today, they're also some of the most confusing and misunderstood.
 >
-> **[0:10](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=10)** So before we get too deep into using OAuth 2 with Spring Security, I want to just talk very briefly about what OAuth 2 actually is.
+> **[0:10](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=10)** So before we get too deep into using OAuth 2 with [[Spring Security]], I want to just talk very briefly about what OAuth 2 actually is.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=19)** So what is it?
 >
@@ -1534,7 +1515,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=26)** It's often used for third party access, so if you use social media and you grant an application access to your Facebook profile, for instance, that's done through OAuth 2.
 >
-> **[0:37](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=37)** Google provides the same sort of structure with its frameworks.
+> **[0:37](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=37)** [[Google]] provides the same sort of structure with its frameworks.
 >
 > **[0:41](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=41)** It's so common that you may not even realize you're doing it, but OAuth 2 really is all over the place.
 >
@@ -1554,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=104)** So it is the system that hosts the protected data in the accounts that we're requesting access to.
 >
-> **[1:51](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=111)** And the authorization server is the service that grants tokens on behalf of me to the data that the resource server itself holds, that the application is requesting.
+> **[1:51](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=111)** And the authorization server is the service that grants [[Tokens]] on behalf of me to the data that the resource server itself holds, that the application is requesting.
 >
 > **[2:05](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-oauth-2?u=76281980&t=125)** Now, there's a couple token types and we need to know about these tokens as we're interacting with OAuth 2 at a systemic level.
 >
@@ -1600,15 +1581,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (5), [[Google]] (4), [[Tokens]] (4), web (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Tokens]] (4), [[Spring Security]] (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring and OAuth 2.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980)
+#### [Spring and OAuth 2.0](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,9 +1596,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=7)** And as you might guess, Spring has full integration for this protocol.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=12)** One of the first classes you may interact with is the CommonOAuth2Provider, and this is used to connect to such systems as Okta or Facebook, and we'll use a little bit more on this later, but as I said, it provides native support for things like Okta, Google, Facebook, GitHub, and several other OAuth providers.
+> **[0:12](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=12)** One of the first classes you may interact with is the CommonOAuth2Provider, and this is used to connect to such systems as Okta or Facebook, and we'll use a little bit more on this later, but as I said, it provides native support for things like Okta, [[Google]], Facebook, [[GitHub]], and several other OAuth providers.
 >
-> **[0:31](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=31)** It's a property-based configuration if you're in a Spring Boot application, and that's most often how you're going to use this class.
+> **[0:31](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=31)** It's a property-based configuration if you're in a [[Spring Boot]] application, and that's most often how you're going to use this class.
 >
 > **[0:39](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=39)** By using the property-based configuration, you actually get native support in the Spring Boot app itself with very little work, something that we are going to see in our example.
 >
@@ -1664,19 +1644,19 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=191)** The OAuth 2 client allows you to have full client-side support for OAuth systems like Facebook, Google, GitHub, and the like.
 >
-> **[3:19](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=199)** To enable the client, you simply enable OAuth2Client and then we're going to walk through that, and then you have the ability to do the rest of it through configuration.
+> **[3:19](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=199)** To enable the client, you simply enable OAuth2Client and then we're going to walk through that, and then you have the ability to do the [[Representational State Transfer (REST)|rest]] of it through configuration.
 >
 > **[3:29](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=209)** Now, there is a REST template that you have access to if you want to use it to do more detailed work.
 >
 > **[3:37](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=217)** Not something we're going to focus on on this course, but I do want you to know that it exists.
 >
-> **[3:42](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=222)** And like we had before, you've got various grant types and you can use Spring security annotations to protect your methods based on those.
+> **[3:42](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=222)** And like we had before, you've got various grant types and you can use [[Spring Security]] annotations to protect your methods based on those.
 >
 > **[3:51](https://www.linkedin.com/learning/spring-6-spring-security/spring-and-oauth-2?u=76281980&t=231)** More documentation is available at [spring.io](https://spring.io) on all of these constructs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[GitHub]] (2), [[Spring Boot]] (2), application (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[GitHub]] (2), [[Spring Boot]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Security]] (1)
 > **Definitions:** is an  (3), is a  (3)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
@@ -1685,12 +1665,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Warnings:** caution (1)
 
-#### Using GitHub as an authorization service
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980)
+#### [Using GitHub as an authorization service](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=0)** - [Instructor] All right, now it's time to actually do some work, and we're going to use GitHub as our OAuth provider.
+> **[0:00](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=0)** - [Instructor] All right, now it's time to actually do some work, and we're going to use [[GitHub]] as our OAuth provider.
 >
 > **[0:06](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=6)** Quite simply, not only is it easy, but we have a GitHub token because you're using GitHub as part of Code Spaces.
 >
@@ -1700,7 +1679,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=21)** So I'm going to open up the command palette and do spring initializer.
 >
-> **[0:25](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=25)** We'll select 344 java com.frankmoley.lil, choose your group name, whatever you would like it to be.
+> **[0:25](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=25)** We'll select 344 [[Java]] com.frankmoley.lil, choose your group name, whatever you would like it to be.
 >
 > **[0:35](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=35)** We're going to call this admin client.
 >
@@ -1718,7 +1697,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=64)** So I'm going to go to Java import, let it bring everything in.
 >
-> **[1:11](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=71)** I'm going to do a quick check and make sure that it shows up in my Spring Boot dashboard, which it does.
+> **[1:11](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=71)** I'm going to do a quick check and make sure that it shows up in my [[Spring Boot]] dashboard, which it does.
 >
 > **[1:17](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=77)** So we should be ready to go.
 >
@@ -1726,9 +1705,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=81)** Let's go to source main resources static, and I'm going
 >
-> **[1:30](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=90)** to create a new file called index.html, and we are going to do a very simple Hello World example.
+> **[1:30](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=90)** to create a new file called index.[[HTML]], and we are going to do a very simple Hello World example.
 >
-> **[1:45](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=105)** We'll put an h1 tag in here and I'll simply say, Hello LinkedIn Learning.
+> **[1:45](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=105)** We'll put an h1 tag in here and I'll simply say, Hello [[LinkedIn]] Learning.
 >
 > **[1:53](https://www.linkedin.com/learning/spring-6-spring-security/using-github-as-an-authorization-service?u=76281980&t=113)** Excellent, okay, that is the entire application that we are going to build.
 >
@@ -1808,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[GitHub]] (8), [[Java]] (3), web (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Java]] (3), [[Spring Boot]] (1), [[HTML]] (1), [[LinkedIn]] (1)
 > **Tools:** github (8)
 > **Env Vars:** url (6)
 > **UI Navigation:** go to (6)
@@ -1822,8 +1801,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to WebFlux Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980)
+#### [Introduction to WebFlux Security](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1831,7 +1809,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980&t=5)** WebFlux is the way to do Reactive Spring since 2.0.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980&t=9)** With Spring Security, there is full support for WebFlux.
+> **[0:09](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980&t=9)** With [[Spring Security]], there is full support for WebFlux.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-6-spring-security/introduction-to-webflux-security?u=76281980&t=13)** Let's take a look.
 >
@@ -1861,14 +1839,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Security]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Spring Security]] (4)
 > **Versions:** 2.0 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing basic security
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980)
+#### [Implementing basic security](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1899,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=160)** of password, .roles of USER and .build.
 >
-> **[2:57](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=177)** Need to import this java.util.ArrayList 'cause I type too fast.
+> **[2:57](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=177)** Need to import this [[Java]].util.ArrayList 'cause I type too fast.
 >
 > **[3:06](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=186)** Excellent, now after we build it, we will return a new MapReactiveUserDetailsService where we pass it, the userDetails.
 >
@@ -1954,7 +1931,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=298)** It's going to redirect us to a white level error page because there is nothing there for it.
 >
-> **[5:03](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=303)** But if we go to /roll, you'll see that it actually prints out the json that we would get back, which is great to see.
+> **[5:03](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=303)** But if we go to /roll, you'll see that it actually prints out the [[JSON]] that we would get back, which is great to see.
 >
 > **[5:12](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=312)** But if we come back to our console, you'll see that we get a 401 because we haven't provided the header.
 >
@@ -1966,11 +1943,11 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=337)** It's just little tweaks here and there based on whether it's standard or reactive.
 >
-> **[5:42](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=342)** But nonetheless, spring security works for all of it and hopefully will make your life easier.
+> **[5:42](https://www.linkedin.com/learning/spring-6-spring-security/implementing-basic-security?u=76281980&t=342)** But nonetheless, [[Spring Security]] works for all of it and hopefully will make your life easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (3), [[Java]] (1), [[JSON]] (1), [[Spring Security]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[JSON]] (1), [[Spring Security]] (1)
 > **Code Identifiers:** userdetails (3), userdetailsservice (1), withdefaultpasswordencoder (1), authorizeexchange (1), anyexchange (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (3)
@@ -1984,8 +1961,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1993,7 +1969,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=6)** But before we get there, I want to start with a very simple review of what we've looked at in this course.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=12)** To start with, we introduced the concept of Spring Security, as well as some general security concepts.
+> **[0:12](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=12)** To start with, we introduced the concept of [[Spring Security]], as well as some general security concepts.
 >
 > **[0:18](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=18)** We then went about the process of securing a web application through various incantations.
 >
@@ -2005,13 +1981,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=54)** So the next things for you really are to get involved.
 >
-> **[0:58](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=58)** I highly recommend that you find a local Spring or Java user group to get involved with.
+> **[0:58](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=58)** I highly recommend that you find a local Spring or [[Java]] user group to get involved with.
 >
 > **[1:04](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=64)** Many times security topics get talked about in these user group sessions.
 >
 > **[1:09](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=69)** I also encourage you to join the online community at Stack Overflow where you will find lots of questions and answers about all things Spring, but specifically Spring Security.
 >
-> **[1:19](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=79)** And, of course, you should follow the contributors and advocates of the Spring framework as well as Spring Security on Twitter or X, many of whom I already follow.
+> **[1:19](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=79)** And, of course, you should follow the contributors and advocates of the [[Spring Framework]] as well as Spring Security on Twitter or X, many of whom I already follow.
 >
 > **[1:28](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=88)** So if you want to go that route, you could follow me and then get their names from that path.
 >
@@ -2025,7 +2001,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=119)** And that's very important for me because your time invested in this course is very valuable, and I thank you for taking your time to learn with me.
 >
-> **[2:10](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=130)** Reach out to me on X or Stack Overflow or GitHub by the handle fpmoles.
+> **[2:10](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=130)** Reach out to me on X or Stack Overflow or [[GitHub]] by the handle fpmoles.
 >
 > **[2:15](https://www.linkedin.com/learning/spring-6-spring-security/next-steps?u=76281980&t=135)** Also, I am very active in the Q&A section on this platform.
 >
@@ -2037,7 +2013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Security]] (4), [[Security]] (4), next (2), web application (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Spring Security]] (4), [[Java]] (1), [[Spring Framework]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** ldap (2), oidc (1)
 > **Documentation:** stack overflow (2)

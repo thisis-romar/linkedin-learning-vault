@@ -67,12 +67,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the state of AI and copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980)
+#### [Understanding the state of AI and copyright](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=0)** - As generative AI models become more capable and sophisticated in their ability to create seemingly new content from just a few text prompts, a question that increasingly comes up is, who owns this content?
+> **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=0)** - As [[Generative AI]] models become more capable and sophisticated in their ability to create seemingly new content from just a few text prompts, a question that increasingly comes up is, who owns this content?
 >
 > **[0:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=12)** Is it the person who wrote the prompt?
 >
@@ -82,7 +81,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=18)** Or even the AI itself?
 >
-> **[0:21](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=21)** I recently had the opportunity to chat about the state of AI and copyright with Matt Hervey, a UK-based attorney and the head of artificial intelligence law at Galling WLG, and Jennifer Maisel, an IP litigator and technology attorney at Rothwell Figg in Washington, DC.
+> **[0:21](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=21)** I recently had the opportunity to chat about the state of AI and copyright with Matt Hervey, a UK-based attorney and the head of [[Artificial Intelligence (AI)|artificial intelligence]] law at Galling WLG, and Jennifer Maisel, an IP litigator and technology attorney at Rothwell Figg in Washington, DC.
 >
 > **[0:36](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980&t=36)** We discussed topics around fair use, ownership rights, ways in which creators can protect their content from AI models, and how international regulations may shape the future of generative AI.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), prompt (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** wlg (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - as (1)
@@ -100,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introductions
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980)
+#### [Introductions](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=22)** I was a computer scientist.
 >
-> **[0:24](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=24)** I was actually working on natural language processing systems, and speech recognition, and grammar and English models.
+> **[0:24](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=24)** I was actually working on [[Natural Language Processing (NLP)|natural language processing]] systems, and [[Speech Recognition]], and grammar and English models.
 >
 > **[0:32](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=32)** So, I came about this or the law really through the law of cyberspace and learning a bit about how some of these legal issues are intersecting with some things I was doing as a programmer.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=57)** I cut my chops as a kind of litigator for several years before venturing into other areas of the law.
 >
-> **[1:04](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=64)** But I would say my first foray into copyright law was in the open-source context.
+> **[1:04](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=64)** But I would say my first foray into [[Copyright Law]] was in the open-source context.
 >
 > **[1:09](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=69)** - There's a lot to unpack from what you said there, because it seems to me a lot of this that we're talking about today is sort of similar to, you know, as technology advances, there are always, you know, we always run into these ideas of intellectual property and copyright.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=87)** - Sure.
 >
-> **[1:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=88)** So, I'm head of artificial intelligence at the law firm Gowling WLG.
+> **[1:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=88)** So, I'm head of [[Artificial Intelligence (AI)|artificial intelligence]] at the law firm Gowling WLG.
 >
 > **[1:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=93)** And I also edit the practitioner's book in this country, which is called The Law of AI.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=127)** And I started looking into that, started doing more and more public speaking on the issues of autonomous vehicles, and then realized that all of the topics really applied across any use of AI.
 >
-> **[2:19](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=139)** Then I proposed the book, and I started our team, and the rest is history.
+> **[2:19](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=139)** Then I proposed the book, and I started our team, and the [[Representational State Transfer (REST)|rest]] is history.
 >
 > **[2:24](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980&t=144)** We've been advising on.
 >
@@ -163,15 +161,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1), [[Copyright Law]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1), [[Copyright Law]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - sure (2), - all (1), - there (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** wlg (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is called (1)
 
-#### Does the doctrine of fair use apply when training AI models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980)
+#### [Does the doctrine of fair use apply when training AI models?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=32)** I would say that there are a couple of open questions.
 >
-> **[0:35](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=35)** I think the law's fairly settled in the sense that we know what the law is, we're just not sure how it's going to turn out with these new facts that we're seeing with generative AI.
+> **[0:35](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=35)** I think the law's fairly settled in the sense that we know what the law is, we're just not sure how it's going to turn out with these new facts that we're seeing with [[Generative AI]].
 >
 > **[0:48](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/does-the-doctrine-of-fair-use-apply-when-training-ai-models?u=76281980&t=48)** It's super fascinating.
 >
@@ -233,12 +230,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), data (2), web (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Speakers:** - we (1), - it (1), - yeah (1), - no (1), - matt (1)
 > **CLI Commands:** make (1)
 
-#### Are there any international bodies governing the use of AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980)
+#### [Are there any international bodies governing the use of AI?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=47)** In the UK, as I explained, you're going to have to fit it in to one of our specific list of recognized exceptions.
 >
-> **[0:54](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=54)** And then if you go across to the EU, they have a text and data mining exception, which covers commercial use, and that's just subject to an opt-out by the rights holder.
+> **[0:54](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=54)** And then if you go across to the EU, they have a text and [[Data Mining]] exception, which covers commercial use, and that's just subject to an opt-out by the rights holder.
 >
 > **[1:04](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=64)** So that's much broader.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=148)** - So the only clear example is in the EU there is a draft AI Act, and the current draft suggests, and it's not law yet, but the current draft suggests that if you deploy a foundation model, that's one trained on vast amounts of information, and able to do various tasks, and that foundation model is used to generate content.
 >
-> **[2:55](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=175)** It's generative AI.
+> **[2:55](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=175)** It's [[Generative AI]].
 >
 > **[2:56](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=176)** You may have to publish a list of the copyright works you used to train it.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=243)** - Yeah I fully echo that and I do want to do a quick followup.
 >
-> **[4:07](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=247)** The US copyright office right now is... They have a notice of inquiry out on several of these issues at the intersection of copyright law and AI.
+> **[4:07](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=247)** The US copyright [[Microsoft Office|office]] right now is... They have a notice of inquiry out on several of these issues at the intersection of [[Copyright Law]] and AI.
 >
 > **[4:18](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/are-there-any-international-bodies-governing-the-use-of-ai?u=76281980&t=258)** And I would encourage, you know, anyone who's interested in these issues or affected by these issues to look at that notice of inquiry and think about submitting comments which I believe the deadline was just extended to October 30th to submit written comments.
 >
@@ -332,19 +328,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (2), [[Microsoft Office|Office]] (2), [[Generative AI]] (1), [[Copyright Law]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Microsoft Office|Office]] (2), [[Generative AI]] (1), [[Copyright Law]] (1)
 > **Speakers:** - and (3), - so (3), - yeah (2), - the (1), - it (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** wipo (1)
 
-#### What can creators do to protect their work from being used for AI training?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980)
+#### [What can creators do to protect their work from being used for AI training?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=0)** - It seems like there, with so much unknown or unanswered in AI-related copyright law, what steps can a creator take like right now to protect themselves from AI deriving content from their own work?
+> **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=0)** - It seems like there, with so much unknown or unanswered in AI-related [[Copyright Law]], what steps can a creator take like right now to protect themselves from AI deriving content from their own work?
 >
 > **[0:15](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=15)** If anything?
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=47)** But I would actually flip that and advise content creators to mark their own content, put some digital watermark, invisible signatures, something on their content so that they can track its authenticity.
 >
-> **[1:02](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=62)** I've seen really unique solutions proposed leveraging blockchain technologies.
+> **[1:02](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=62)** I've seen really unique solutions proposed leveraging [[Blockchain]] technologies.
 >
 > **[1:06](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=66)** - Okay.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=112)** There are some changes being proposed right now in terms of, how can we signal to bots out there that are scraping the web, you know, to not scrape content?
 >
-> **[2:05](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=125)** Like you mentioned ChatGPT, I think there's a CBOT out there now that's crawling the internet.
+> **[2:05](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=125)** Like you mentioned [[ChatGPT]], I think there's a CBOT out there now that's crawling the internet.
 >
 > **[2:11](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=131)** You can block that kind of bot if you want it scraping your content.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=146)** I think we're going to see a lot more trademark issues coming here as we think about unique styles, watermarking, we've seen that in some of the litigation.
 >
-> **[2:39](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=159)** If any of you have seen the Getty Images complaint, there are some distorted images coming out of the Stable Diffusion model that have, it's almost like a distorted Getty Images watermark on it.
+> **[2:39](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=159)** If any of you have seen the Getty Images complaint, there are some distorted images coming out of the [[Stable Diffusion]] model that have, it's almost like a distorted Getty Images watermark on it.
 >
 > **[2:54](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=174)** So thinking about how these branding and trademarks in conjunction with our digital content might be another layer of protection we can think about.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=201)** There's a site called Have I Been Trained?, which searches the LAION-5B Dataset, tells you if it's in that dataset, which is used by a lot of image generators to train their AI and you can then file an opt-out.
 >
-> **[3:37](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=217)** Because under EU law, if the text and data mining is done for a commercial purpose, you have to check for opt-outs in some way.
+> **[3:37](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=217)** Because under [[EU Law]], if the text and [[Data Mining]] is done for a commercial purpose, you have to check for opt-outs in some way.
 >
 > **[3:45](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-can-creators-do-to-protect-their-work-from-being-used-for-ai-training?u=76281980&t=225)** But we don't know how that's going to work in practice.
 >
@@ -428,23 +423,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[Copyright Law]] (1), [[Blockchain]] (1), web (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Copyright Law]] (1), [[Blockchain]] (1), [[ChatGPT]] (1), [[Stable Diffusion]] (1)
 > **Speakers:** - [jen] (2), - it (1), - okay (1), - provenance (1), - that (1)
 > **Env Vars:** cbot (1), laion (1)
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** robots.txt (1)
 > **CLI Commands:** make (1)
 
-#### Can we detect when AI has been used?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980)
+#### [Can we detect when AI has been used?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=0)** - But then we still have the issue of trying to track down whether they, in fact, did use your content.
 >
-> **[0:05](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=5)** It seems like that would be especially difficult with text-based generative AI because it's so difficult.
+> **[0:05](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=5)** It seems like that would be especially difficult with text-based [[Generative AI]] because it's so difficult.
 >
-> **[0:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=12)** Didn't ChatGPT even scrap the tool that they were originally pushing to detect whether something was generated by AI?
+> **[0:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=12)** Didn't [[ChatGPT]] even scrap the tool that they were originally pushing to detect whether something was generated by AI?
 >
 > **[0:21](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=21)** - Yes.
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=69)** In terms of knowing what's gone into them, that at the moment, unless you get to discovery or disclosure in a court case, or unless law does come in requiring disclosure of that publicly, you are relying on public statements that companies have voluntarily made.
 >
-> **[1:30](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=90)** There are some well-known databases and you can look at the databases like the Laion database, like The Pile for text, and you could have a guess on that basis as whether your, an intelligent guess about whether your work has been used.
+> **[1:30](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=90)** There are some well-known [[Databases]] and you can look at the databases like the Laion database, like The Pile for text, and you could have a guess on that basis as whether your, an intelligent guess about whether your work has been used.
 >
 > **[1:49](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/can-we-detect-when-ai-has-been-used?u=76281980&t=109)** - It's funny how you mentioned how it seems like you can detect AI images a little bit better.
 >
@@ -520,13 +514,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (5), [[Generative AI]] (2), [[Databases]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Databases]] (2), [[ChatGPT]] (1)
 > **Speakers:** - yeah (4), - but (1), - yes (1), - oh (1), - i (1)
 > **CLI Commands:** find (1)
 > **Analogies:** it's like (1)
 
-#### What are some of the jurisdictional differences in ownership rights?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980)
+#### [What are some of the jurisdictional differences in ownership rights?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,15 +543,15 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=76)** But what you don't have is an international right.
 >
-> **[1:18](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=78)** And so I think Jen can explain the US position which is, I think, more representative of the rest of the world.
+> **[1:18](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=78)** And so I think Jen can explain the US position which is, I think, more representative of the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[1:26](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=86)** - Yeah, I think that's right.
 >
-> **[1:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=88)** So we have a human authorship requirement which practically means if you have an AI system or that generates some kind of creative work, say, let's take Midjourney because we have some examples of that.
+> **[1:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=88)** So we have a human authorship requirement which practically means if you have an AI system or that generates some kind of creative work, say, let's take [[Midjourney]] because we have some examples of that.
 >
 > **[1:45](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=105)** Midjourney outputting an image in response to a prompt.
 >
-> **[1:49](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=109)** We have a couple of decisions from the US Copyright Office saying the outputs from Midjourney are not protected under a copyright law because there's no human author at the helm of those images.
+> **[1:49](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=109)** We have a couple of decisions from the US Copyright [[Microsoft Office|Office]] saying the outputs from Midjourney are not protected under a [[Copyright Law]] because there's no human author at the [[Helm]] of those images.
 >
 > **[2:06](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=126)** By contrast, if you augment those images in some way.
 >
@@ -578,7 +571,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=192)** - Yeah, no.
 >
-> **[3:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=192)** - I think what's needed is for sort of grownup discussion about when you should use generative AI.
+> **[3:12](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=192)** - I think what's needed is for sort of grownup discussion about when you should use [[Generative AI]].
 >
 > **[3:21](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-of-the-jurisdictional-differences-in-ownership-rights?u=76281980&t=201)** If you're acting on the basis that you won't get any copyright in it.
 >
@@ -592,17 +585,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Midjourney]] (3), [[Microsoft Office|Office]] (3), ai (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Midjourney]] (3), [[Microsoft Office|Office]] (3), [[Generative AI]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Copyright Law]] (1)
 > **Speakers:** - yeah (3), - would (1), - ownership (1), - so (1), - as (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2)
 
-#### Is there copyright protection for purely AI-generated content?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980)
+#### [Is there copyright protection for purely AI-generated content?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=0)** - I'm thinking of cases where I know there are several cases now where people have just used, say, ChatGPT to write a children's book and use DALL-E to create illustrations and just self-publish it on Amazon.
+> **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=0)** - I'm thinking of cases where I know there are several cases now where people have just used, say, [[ChatGPT]] to write a children's book and use [[DALL-E]] to create illustrations and just self-publish it on Amazon.
 >
 > **[0:10](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=10)** They're making money off of it.
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 >
 > **[6:46](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=406)** Can I just talk a little bit
 >
-> **[6:48](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=408)** - Yeah. - about the economics of training large language models?
+> **[6:48](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=408)** - Yeah. - about the economics of training [[Large Language Models (LLM)|large language models]]?
 >
 > **[6:51](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/is-there-copyright-protection-for-purely-ai-generated-content?u=76281980&t=411)** - Please, please.
 >
@@ -744,15 +736,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (1), [[DALL-E]] (1), prompt (1), cd (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[DALL-E]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - yeah (7), - so (3), - okay (2), - i (1), - thinking (1)
 > **CLI Commands:** make (4), cd (1)
 > **Env Vars:** dall (1), vhs (1), mp3 (1)
 > **Analogies:** just like (1), such as (1), for example (1)
 > **UI Navigation:** go to (1)
 
-#### In what ways can regulations shape the future of GenAI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980)
+#### [In what ways can regulations shape the future of GenAI?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=99)** Matt, do you have something to add to that?
 >
-> **[1:43](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=103)** - I mean, stepping aside from generative AI for a second.
+> **[1:43](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=103)** - I mean, stepping aside from [[Generative AI]] for a second.
 >
 > **[1:46](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/in-what-ways-can-regulations-shape-the-future-of-genai?u=76281980&t=106)** Clearly AI enables new drugs by which I mean pharmaceuticals, medical devices, self-driving cars, and, like, and those clearly need to have a regulatory framework to ensure they're safe and that's always been true of such technologies.
 >
@@ -898,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Generative AI]] (3), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Speakers:** - i (4), - mm (2), - yeah (2), - and (1), - absolutely (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
@@ -907,8 +898,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 
-#### What's the legal difference between a human creating derivative work and an AI creating derivative work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980)
+#### [What's the legal difference between a human creating derivative work and an AI creating derivative work?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=25)** But again, on a, on a larger, faster scale
 >
-> **[0:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=28)** - I, I would say legally there's a difference until someone brings a case that storing something in your brain is a copy because they actually work on silicon and the, like, that you are in fact making a copy for the purposes of copyright law.
+> **[0:28](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=28)** - I, I would say legally there's a difference until someone brings a case that storing something in your brain is a copy because they actually work on silicon and the, like, that you are in fact making a copy for the purposes of [[Copyright Law]].
 >
 > **[0:45](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=45)** And so right or wrong, philosophically potentially there are infringements by doing exactly the same thing as you would've done in your head.
 >
@@ -944,7 +934,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=142)** I fully support Matt's statement that the difference between a musician, a human musician listening to a song and playing it themselves there's no copy being made of that song.
 >
-> **[2:35](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=155)** Whereas with computer hardware and the the techniques we have to use, the the issue is for making a copy and maybe restoring them.
+> **[2:35](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=155)** Whereas with computer [[Hardware]] and the the techniques we have to use, the the issue is for making a copy and maybe restoring them.
 >
 > **[2:44](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=164)** And I think maybe the technological question of the day is the model itself is that derivative work of all of the training data on which it was trained on.
 >
@@ -960,7 +950,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=212)** - [Jenny Maisel] Under kind of laws.
 >
-> **[3:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=213)** - I think about stuff like what if a musician is using, say a rhyming dictionary is that different than asking, you know, an AI to say gimme 20 rhymes for this word, or, you know make sure this many syllables or something like that then, I know that's not a legal question.
+> **[3:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=213)** - I think about stuff like what if a musician is using, say a rhyming dictionary is that different than asking, you know, an AI to say gimme 20 rhymes for this [[Microsoft Word|word]], or, you know make sure this many syllables or something like that then, I know that's not a legal question.
 >
 > **[3:47](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-s-the-legal-difference-between-a-human-creating-derivative-work-and-an-ai-creating-derivative-work?u=76281980&t=227)** More of a philosophical question.
 >
@@ -984,19 +974,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (3), [[Copyright Law]] (3), data (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Copyright Law]] (3), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - you (2), - i (2), - yeah (1), - [jenny (1), - that (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 
-#### What are some resources for learning more about AI and copyright issues?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980)
+#### [What are some resources for learning more about AI and copyright issues?](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=0)** - In addition to some of the sites you already mentioned are there any other resources people could check out if they wanted to find out more information maybe from a more of a lay person point of view.
 >
-> **[0:13](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=13)** - I mean, there's a wealth of videos online explaining how generative AI works.
+> **[0:13](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=13)** - I mean, there's a wealth of videos online explaining how [[Generative AI]] works.
 >
 > **[0:22](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=22)** I mean, obviously Chat GBT.
 >
@@ -1008,13 +997,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=50)** - Yeah.
 >
-> **[0:51](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=51)** - Yeah. One resource that I really like for companies using and deploying AI systems is the National Institute of Standards and Technology in the US, because earlier this year they released the AI Risk Management Framework, and it's a high level document, but it describes some of the steps that any enterprise should undertake to use and deploy AI models safely and effectively, thinking about certain key risks.
+> **[0:51](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=51)** - Yeah. One resource that I really like for companies using and deploying AI systems is the National Institute of Standards and Technology in the US, because earlier this year they released the AI [[Risk Management Framework (RMF)|Risk Management Framework]], and it's a high level document, but it describes some of the steps that any enterprise should undertake to use and deploy AI models safely and effectively, thinking about certain key risks.
 >
 > **[1:24](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=84)** And I would encourage folks to read that.
 >
 > **[1:26](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=86)** It's written at a generalized enough level that I think laymen can understand it.
 >
-> **[1:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=93)** There are also a ton of government resources so I mentioned the US Copyright Office.
+> **[1:33](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=93)** There are also a ton of government resources so I mentioned the US Copyright [[Microsoft Office|Office]].
 >
 > **[1:38](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=98)** They have a whole webpage devoted to AI issues.
 >
@@ -1022,7 +1011,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=113)** But the Copyright Office, the Patent Office similarly had an AI webpage.
 >
-> **[1:59](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=119)** The White House, there have been several executive orders recently on AI and specifically generative AI, like the AI Bill of Rights, notices about how do we avoid bias and discrimination in AI algorithms.
+> **[1:59](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=119)** The White House, there have been several executive orders recently on AI and specifically generative AI, like the AI Bill of Rights, notices about how do we avoid bias and discrimination in AI [[Algorithms]].
 >
 > **[2:16](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/what-are-some-resources-for-learning-more-about-ai-and-copyright-issues?u=76281980&t=136)** And I think the hot topic is the EU's AI Acts.
 >
@@ -1034,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Microsoft Office|Office]] (4), [[Generative AI]] (2), business (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Generative AI]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Algorithms]] (1)
 > **Speakers:** - yeah (2), - in (1), - i (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gbt (1)

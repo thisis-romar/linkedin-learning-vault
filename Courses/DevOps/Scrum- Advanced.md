@@ -77,16 +77,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take scrum to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980)
+#### [Take scrum to the next level](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980&t=0)** - After you've been using Scrum practices for a while, you may feel like you can handle any challenge that arises for your teams.
+> **[0:00](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980&t=0)** - After you've been using [[Scrum]] practices for a while, you may feel like you can handle any challenge that arises for your teams.
 >
 > **[0:08](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980&t=8)** I've been in your shoes and it's really helpful to have a mentor share some of their favorite tips to help you out.
 >
-> **[0:16](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980&t=16)** I'm Kelley O'Connell and I've been in project management for more than 20 years and in Agile and Scrum for more than a decade.
+> **[0:16](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980&t=16)** I'm Kelley O'Connell and I've been in project management for more than 20 years and in [[Agile Development|Agile]] and Scrum for more than a decade.
 >
 > **[0:24](https://www.linkedin.com/learning/scrum-advanced-22852495/take-scrum-to-the-next-level?u=76281980&t=24)** In this course, we'll explore the topics you need to know to take your Scrum practice to the next level.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (4), teams (2), management (1), [[Agile Development|Agile]] (1), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (4), [[Agile Development|Agile]] (1)
 > **Speakers:** - after (1)
 
 
@@ -106,12 +105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review scrum fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980)
+#### [Review scrum fundamentals](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=1)** - You're already practicing Scrum.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=1)** - You're already practicing [[Scrum]].
 >
 > **[0:03](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=3)** Maybe you've been doing it for a while, but you feel like you can take your team to the next level.
 >
@@ -159,24 +157,23 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=150)** You are continuously adapting and growing as a team to deliver more quickly and with improved quality, every single sprint.
 >
-> **[2:40](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=160)** Scrum has become the leading agile framework because it's so lightweight and effective.
+> **[2:40](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=160)** Scrum has become the leading [[Agile Development|agile]] framework because it's so lightweight and effective.
 >
 > **[2:45](https://www.linkedin.com/learning/scrum-advanced-22852495/review-scrum-fundamentals?u=76281980&t=165)** These events and principles make it easy to see real results quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (8), next (3), product (2), functional (2), business (1)
+> **Frameworks & Libraries:** [[Scrum]] (8), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - you (1)
 
-#### Product owner and scrum master roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980)
+#### [Product owner and scrum master roles](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=1)** - While the team is the heart of Scrum, the Product Owner and Scrum Master roles are essential to keeping the team moving in the right direction, in the right way.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=1)** - While the team is the heart of [[Scrum]], the Product Owner and Scrum Master roles are essential to keeping the team moving in the right direction, in the right way.
 >
 > **[0:10](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=10)** Really, the Product Owner is responsible for the product vision.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=122)** Their efforts are often taken for granted.
 >
-> **[2:05](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=125)** But signs you can look out for include their team consistently hits the sprint commitment and produces high quality, functioning products each sprint.
+> **[2:05](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=125)** But signs you can look out for include their team consistently hits the sprint commitment and produces high quality, functioning [[Microsoft Products|products]] each sprint.
 >
 > **[2:16](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-and-scrum-master-roles?u=76281980&t=136)** While the PO wants a product developed and released quickly, the Scrum Master wants the team to work at a sustainable pace.
 >
@@ -242,21 +239,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (14), product (11), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mvp (1)
 > **Definitions:** known as (1)
 > **Speakers:** - while (1)
 
-#### Relationship of the product owner and scrum master
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980)
+#### [Relationship of the product owner and scrum master](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=1)** - Given the focus of the product owner on the product and the scrum master on the team, it makes sense that they could naturally fall into opposition or conflict.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=1)** - Given the focus of the product owner on the product and the [[Scrum]] master on the team, it makes sense that they could naturally fall into opposition or conflict.
 >
 > **[0:10](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=10)** The PO has been given this team to deliver their product vision.
 >
-> **[0:14](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=14)** In agile and scrum, we've told the PO that they can have this team for a specific period of time.
+> **[0:14](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=14)** In [[Agile Development|agile]] and scrum, we've told the PO that they can have this team for a specific period of time.
 >
 > **[0:20](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=20)** Those are their constraints.
 >
@@ -308,13 +304,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=134)** The team strives to attain the goals for the product while maintaining team health.
 >
-> **[2:19](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=139)** This is why scrum produces such high quality products while maintaining team wellbeing.
+> **[2:19](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=139)** This is why scrum produces such high quality [[Microsoft Products|products]] while maintaining team wellbeing.
 >
 > **[2:26](https://www.linkedin.com/learning/scrum-advanced-22852495/relationship-of-the-product-owner-and-scrum-master?u=76281980&t=146)** Add a little opposition between your PO and scrum master and watch the team blossom.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (12), product (9), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (12), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -325,8 +321,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product owner as chief negotiator
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-as-chief-negotiator?u=76281980)
+#### [Product owner as chief negotiator](https://www.linkedin.com/learning/scrum-advanced-22852495/product-owner-as-chief-negotiator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,14 +385,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), product (5), functional (3), database (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
-#### Set the product vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/set-the-product-vision?u=76281980)
+#### [Set the product vision](https://www.linkedin.com/learning/scrum-advanced-22852495/set-the-product-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/scrum-advanced-22852495/set-the-product-vision?u=76281980&t=98)** Don't invite the whole world, just the key individuals from those areas.
 >
-> **[1:42](https://www.linkedin.com/learning/scrum-advanced-22852495/set-the-product-vision?u=76281980&t=102)** You know, the ones who can make or break your work with a word?
+> **[1:42](https://www.linkedin.com/learning/scrum-advanced-22852495/set-the-product-vision?u=76281980&t=102)** You know, the ones who can make or break your work with a [[Microsoft Word|word]]?
 >
 > **[1:46](https://www.linkedin.com/learning/scrum-advanced-22852495/set-the-product-vision?u=76281980&t=106)** Limit attendees to a maximum of 18 to 20 people.
 >
@@ -469,13 +462,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), teams (2), [[Microsoft Word|Word]] (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - every (1)
 
-#### Turn the vision into a road map
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/turn-the-vision-into-a-road-map?u=76281980)
+#### [Turn the vision into a road map](https://www.linkedin.com/learning/scrum-advanced-22852495/turn-the-vision-into-a-road-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/scrum-advanced-22852495/turn-the-vision-into-a-road-map?u=76281980&t=7)** When looking at a vision, it can be overwhelming to imagine all that work and how to get it done.
 >
-> **[0:13](https://www.linkedin.com/learning/scrum-advanced-22852495/turn-the-vision-into-a-road-map?u=76281980&t=13)** Instead of looking at the whole thing all at once, in Scrum, we use specific tools to start breaking the work down into more manageable sizes and sequencing your effort.
+> **[0:13](https://www.linkedin.com/learning/scrum-advanced-22852495/turn-the-vision-into-a-road-map?u=76281980&t=13)** Instead of looking at the whole thing all at once, in [[Scrum]], we use specific tools to start breaking the work down into more manageable sizes and sequencing your effort.
 >
 > **[0:24](https://www.linkedin.com/learning/scrum-advanced-22852495/turn-the-vision-into-a-road-map?u=76281980&t=24)** One key tool is the roadmap.
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Scrum]] (3), database (2), management (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (3)
 > **Analogies:** for instance (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crm (2)
@@ -558,12 +550,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - once (1)
 
-#### Manage the misses
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/manage-the-misses?u=76281980)
+#### [Manage the misses](https://www.linkedin.com/learning/scrum-advanced-22852495/manage-the-misses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/manage-the-misses?u=76281980&t=1)** - Scrum is a powerful framework that lets you see real results really quickly, but it's not immune to the usual challenges faced by every team.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/manage-the-misses?u=76281980&t=1)** - [[Scrum]] is a powerful framework that lets you see real results really quickly, but it's not immune to the usual challenges faced by every team.
 >
 > **[0:11](https://www.linkedin.com/learning/scrum-advanced-22852495/manage-the-misses?u=76281980&t=11)** Let's explore some of the normal challenges and see how you address them using Scrum.
 >
@@ -651,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (12), teams (3), next (2), product (1)
+> **Frameworks & Libraries:** [[Scrum]] (12)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crm (1)
@@ -663,12 +654,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced story-writing tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980)
+#### [Advanced story-writing tips](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980&t=1)** - Writing good user stories is often considered the hardest part of Scrum.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980&t=1)** - Writing good user stories is often considered the hardest part of [[Scrum]].
 >
 > **[0:05](https://www.linkedin.com/learning/scrum-advanced-22852495/advanced-story-writing-tips?u=76281980&t=5)** It's hard and takes a lot of practice.
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), [[Scrum]] (1), [[Search]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **Env Vars:** crud (2), crm (1), invest (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -742,8 +732,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - writing (1)
 
-#### Detailed release planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/detailed-release-planning?u=76281980)
+#### [Detailed release planning](https://www.linkedin.com/learning/scrum-advanced-22852495/detailed-release-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/scrum-advanced-22852495/detailed-release-planning?u=76281980&t=12)** That's what your release plan gives you, an estimate of when functionality will be delivered.
 >
-> **[0:18](https://www.linkedin.com/learning/scrum-advanced-22852495/detailed-release-planning?u=76281980&t=18)** When you host this meeting, you'll need the product owner, scrum master, and the whole team to attend.
+> **[0:18](https://www.linkedin.com/learning/scrum-advanced-22852495/detailed-release-planning?u=76281980&t=18)** When you host this meeting, you'll need the product owner, [[Scrum]] master, and the whole team to attend.
 >
 > **[0:23](https://www.linkedin.com/learning/scrum-advanced-22852495/detailed-release-planning?u=76281980&t=23)** You'll also need any subject matter experts and key stakeholders.
 >
@@ -825,15 +814,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (2), product (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Continual backlog refinement
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/continual-backlog-refinement?u=76281980)
+#### [Continual backlog refinement](https://www.linkedin.com/learning/scrum-advanced-22852495/continual-backlog-refinement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +835,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/scrum-advanced-22852495/continual-backlog-refinement?u=76281980&t=30)** The reason some teams decide to break it into two shorter meetings is that for pre-planning, you'd want the whole team present to hear the upcoming stories and identify any AC gaps that the PO needs to fill before sprint planning.
 >
-> **[0:46](https://www.linkedin.com/learning/scrum-advanced-22852495/continual-backlog-refinement?u=76281980&t=46)** The backlog refinement event, however, is really intended for a subset of the team, the PO, Scrum Master, subject matter expert, and technical expert to write new stories, remove stories, or clarify them by rewording or reprioritizing.
+> **[0:46](https://www.linkedin.com/learning/scrum-advanced-22852495/continual-backlog-refinement?u=76281980&t=46)** The backlog refinement event, however, is really intended for a subset of the team, the PO, [[Scrum]] Master, subject matter expert, and technical expert to write new stories, remove stories, or clarify them by rewording or reprioritizing.
 >
 > **[1:02](https://www.linkedin.com/learning/scrum-advanced-22852495/continual-backlog-refinement?u=76281980&t=62)** Their job is to make sure the backlog accurately reflects the vision.
 >
@@ -895,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Scrum]] (3), product (2), next (1)
+> **Frameworks & Libraries:** [[Scrum]] (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - one (1)
 
@@ -904,8 +892,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be a leader who serves
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980)
+#### [Be a leader who serves](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=40)** Management means to handle, direct, or control.
 >
-> **[0:44](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=44)** It's interesting that the one key word missing from management is leadership.
+> **[0:44](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=44)** It's interesting that the one key [[Microsoft Word|word]] missing from management is leadership.
 >
 > **[0:49](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=49)** In leadership, the focus is providing guidance and direction.
 >
@@ -957,7 +944,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=131)** And then there's purpose, which means we believe we're working toward a greater good or an ideal.
 >
-> **[2:17](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=137)** In agile and scrum, we focus on providing autonomy, mastery, and purpose to our teams.
+> **[2:17](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=137)** In [[Agile Development|agile]] and [[Scrum]], we focus on providing autonomy, mastery, and purpose to our teams.
 >
 > **[2:24](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=144)** The way we do this is through servant leadership.
 >
@@ -975,7 +962,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=183)** The scrum master needs to apply the boundaries of scrum without removing the team's ability to self-organize.
 >
-> **[3:10](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=190)** They do this using the soft skills of persuasion, empathy, listening, and negotiation.
+> **[3:10](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=190)** They do this using the [[Soft Skills]] of persuasion, empathy, listening, and negotiation.
 >
 > **[3:17](https://www.linkedin.com/learning/scrum-advanced-22852495/be-a-leader-who-serves?u=76281980&t=197)** I think the most essential trait for the scrum master and servant leader is humility.
 >
@@ -995,17 +982,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (8), leadership (6), management (4), teams (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (8), [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1), [[Soft Skills]] (1)
 > **Speakers:** - servant (1)
 
-#### Guide team forming and storming stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980)
+#### [Guide team forming and storming stages](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=1)** - There has been a standard model for the stages of group development ever since Bruce Tuckman, a psychological researcher, studied the traits of teams.
 >
-> **[0:10](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=10)** These stages are recognized as occurring whether the group is waterfall, agile, or a local volunteer organization, they're basic human behaviors.
+> **[0:10](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=10)** These stages are recognized as occurring whether the group is waterfall, [[Agile Development|agile]], or a local volunteer organization, they're basic human behaviors.
 >
 > **[0:20](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=20)** The stages are forming, storming, norming, and performing.
 >
@@ -1019,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=45)** To speed the team through this stage, the leader needs to anticipate the questions team members have and may not be willing to ask yet.
 >
-> **[0:54](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=54)** As the team forms, you need to be ready to repeat the purpose and vision often.
+> **[0:54](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=54)** As the team [[Forms]], you need to be ready to repeat the purpose and vision often.
 >
 > **[0:59](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=59)** This way, the team can integrate these ideas into their belief structures.
 >
@@ -1049,7 +1035,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=131)** Storming can take many forms, but the hallmarks are questioning the knowledge, skills, and abilities of their teammates.
 >
-> **[2:19](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=139)** And second, guessing the decisions of the team, product owner, or scrum master.
+> **[2:19](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=139)** And second, guessing the decisions of the team, product owner, or [[Scrum]] master.
 >
 > **[2:25](https://www.linkedin.com/learning/scrum-advanced-22852495/guide-team-forming-and-storming-stages?u=76281980&t=145)** In order for the team to progress, personality clashes and other conflicts have to be addressed so they don't fester.
 >
@@ -1073,13 +1059,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Forms]] (2), next (2), [[Agile Development|Agile]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Agile Development|Agile]] (1), [[Scrum]] (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - there (1)
 
-#### Lead from norming to performing
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/lead-from-norming-to-performing?u=76281980)
+#### [Lead from norming to performing](https://www.linkedin.com/learning/scrum-advanced-22852495/lead-from-norming-to-performing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1080,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/scrum-advanced-22852495/lead-from-norming-to-performing?u=76281980&t=41)** They become servant leaders to each other, which is a beautiful thing to see.
 >
-> **[0:46](https://www.linkedin.com/learning/scrum-advanced-22852495/lead-from-norming-to-performing?u=76281980&t=46)** The one danger to be aware of in this stage is that the team may enjoy this unity so much that they avoid making suggestions that may be controversial.
+> **[0:46](https://www.linkedin.com/learning/scrum-advanced-22852495/lead-from-norming-to-performing?u=76281980&t=46)** The one danger to be aware of in this stage is that the team may enjoy this [[Unity]] so much that they avoid making suggestions that may be controversial.
 >
 > **[0:57](https://www.linkedin.com/learning/scrum-advanced-22852495/lead-from-norming-to-performing?u=76281980&t=57)** You can save them from this trap by coaching everyone on the team to encourage brainstorming at every opportunity.
 >
@@ -1139,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Unity]] (1), product (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -1151,12 +1136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remove impediments for the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980)
+#### [Remove impediments for the team](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=1)** - One of the primary objectives for the scrum master is to help the team address any impediments or obstacles that get in their way.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=1)** - One of the primary objectives for the [[Scrum]] master is to help the team address any impediments or obstacles that get in their way.
 >
 > **[0:09](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=9)** Effectively removing these impediments helps establish a trusting relationship between the team members and the scrum master, and it also helps keep the team focused on the work.
 >
@@ -1192,7 +1176,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=98)** These issues can be resolved using good facilitation skills, bringing the parties together and helping them share their concerns in a safe, respectful manner.
 >
-> **[1:48](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=108)** Solving a dependency management issue is also common.
+> **[1:48](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=108)** Solving a [[Dependency Management]] issue is also common.
 >
 > **[1:52](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=112)** In many organizations, different projects are interrelated and will require scrum masters to closely coordinate their work.
 >
@@ -1206,7 +1190,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=146)** Perhaps your organization has an intense process to move code into production.
 >
-> **[2:32](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=152)** For example, maybe it takes a full sprint to do paperwork to move products into production.
+> **[2:32](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=152)** For example, maybe it takes a full sprint to do paperwork to move [[Microsoft Products|products]] into production.
 >
 > **[2:37](https://www.linkedin.com/learning/scrum-advanced-22852495/remove-impediments-for-the-team?u=76281980&t=157)** In this case, the scrum master needs to take two paths simultaneously.
 >
@@ -1222,18 +1206,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (16), teams (2), product (2), [[Dependency Management]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (16), [[Dependency Management]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
 
-#### Protect the scrum team
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/protect-the-scrum-team?u=76281980)
+#### [Protect the scrum team](https://www.linkedin.com/learning/scrum-advanced-22852495/protect-the-scrum-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/protect-the-scrum-team?u=76281980&t=1)** - Along with being the master of the scrum process, the scrum master is also the guardian of the team.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/protect-the-scrum-team?u=76281980&t=1)** - Along with being the master of the [[Scrum]] process, the scrum master is also the guardian of the team.
 >
 > **[0:08](https://www.linkedin.com/learning/scrum-advanced-22852495/protect-the-scrum-team?u=76281980&t=8)** The goal is to protect the team from distractions and intrusions that get in their way without team members noticing.
 >
@@ -1295,23 +1278,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (12), product (5), next (4)
+> **Frameworks & Libraries:** [[Scrum]] (12)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - along (1)
 
-#### Celebrate success on your scrum team
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980)
+#### [Celebrate success on your scrum team](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980&t=1)** - In our chaotic world of full-time accessibility, and 24/7 accountability, it's really easy to skip over successes, and move on to the next task, or release, or sprint.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980&t=1)** - In our chaotic world of full-time accessibility, and 24/7 [[Accountability]], it's really easy to skip over successes, and move on to the next task, or release, or sprint.
 >
 > **[0:14](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980&t=14)** Don't fall into this trap.
 >
-> **[0:16](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980&t=16)** Scrum is simple to execute, but really hard to master.
+> **[0:16](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980&t=16)** [[Scrum]] is simple to execute, but really hard to master.
 >
 > **[0:19](https://www.linkedin.com/learning/scrum-advanced-22852495/celebrate-success-on-your-scrum-team?u=76281980&t=19)** So be sure you're celebrating success when you have them, and here's why.
 >
@@ -1389,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (7), teams (6), product (3), next (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (7), [[Accountability]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - in (1)
 
@@ -1398,12 +1380,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=1)** - Scrum leadership is a journey, and you can improve your own processes by putting what you've learned into action.
+> **[0:01](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=1)** - [[Scrum]] leadership is a journey, and you can improve your own processes by putting what you've learned into action.
 >
 > **[0:08](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=8)** The most impactful place to start is by working on your servant leadership skills.
 >
@@ -1421,7 +1402,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=45)** Another is "Scrum Mastery" by Geoff Watts, and it's a great book on how to improve your skills as a Scrum master and offers additional ideas on how to step up your game.
 >
-> **[0:56](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=56)** Finally, "Coaching Agile Teams" by Lyssa Adkins is one of my go-to books for helping me reach my potential as an Agile coach.
+> **[0:56](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=56)** Finally, "Coaching [[Agile Development|Agile]] Teams" by Lyssa Adkins is one of my go-to books for helping me reach my potential as an Agile coach.
 >
 > **[1:05](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=65)** I hope you have a deeper understanding about how adding some finesse to your Scrum practice can yield great results for your team.
 >
@@ -1429,13 +1410,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=77)** I'd love to hear your stories.
 >
-> **[1:19](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=79)** Contact me on LinkedIn.
+> **[1:19](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=79)** Contact me on [[LinkedIn]].
 >
 > **[1:21](https://www.linkedin.com/learning/scrum-advanced-22852495/conclusion?u=76281980&t=81)** Best of luck to you and your Scrum team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (5), leadership (2), [[Agile Development|Agile]] (2), game (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (5), [[Agile Development|Agile]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - scrum (1)
 

@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,9 +101,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980&t=8)** The key to our success is to discover what's valuable to our customers amidst this change, and this means analysis must happen.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980&t=18)** Agile business analysts provide a great service to agile teams and their role with requirements and as a partner to the product owner role.
+> **[0:18](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980&t=18)** [[Agile Development|Agile]] business analysts provide a great service to agile teams and their role with requirements and as a partner to the product owner role.
 >
-> **[0:27](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980&t=27)** In today's business and technology environment, where change, ambiguity, and complexity are the norm, product and software requirements analysis work is critical to success.
+> **[0:27](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980&t=27)** In today's business and technology environment, where change, ambiguity, and complexity are the norm, product and software [[Requirements Analysis]] work is critical to success.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980&t=39)** Hi, I'm Angela Wick and welcome to this course which focuses on agile requirements, agile analysis and the agile BA role.
 >
@@ -124,15 +123,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), business (3), teams (2), product (2), [[Requirements Analysis]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Requirements Analysis]] (1)
 > **Speakers:** - our (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980&t=1)** - This course is all about agile requirements and analysis, it's designed to help you accelerate your contributions to an agile team and understand the role of the BA, requirements and analysis on agile teams.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980&t=1)** - This course is all about [[Agile Development|agile]] requirements and analysis, it's designed to help you accelerate your contributions to an agile team and understand the role of the BA, requirements and analysis on agile teams.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980&t=15)** This course also looks to clarify the collaboration of the product owner and the business analyst roles on agile teams.
 >
@@ -142,15 +140,14 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980&t=39)** It's just the beginning, your continued learning and experimentation will also be key to your success.
 >
-> **[0:46](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980&t=46)** This course is designed for business analysts, product owners, scrum masters, systems analysts, product and project managers, and anyone on a project or product team who needs to better understand how to facilitate great requirements analysis process on an agile team.
+> **[0:46](https://www.linkedin.com/learning/agile-requirements-foundations/what-you-need-to-know?u=76281980&t=46)** This course is designed for business analysts, product owners, [[Scrum]] masters, systems analysts, product and project managers, and anyone on a project or product team who needs to better understand how to facilitate great [[Requirements Analysis]] process on an agile team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), product (4), business (3), teams (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Scrum]] (1), [[Requirements Analysis]] (1)
 > **Speakers:** - this (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/agile-requirements-foundations/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,12 +173,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The business analyst role in agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980)
+#### [The business analyst role in agile](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980&t=0)** - Like an organization without customers, I can't imagine an Agile project without analysis.
+> **[0:00](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980&t=0)** - Like an organization without customers, I can't imagine an [[Agile Development|Agile]] project without analysis.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980&t=7)** Being an Agile BA is about facilitating dialogue about customer value with the team, making the product owner's decisions more efficient, and analyzing for gaps and impacts.
 >
@@ -229,26 +225,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), product (6), business (3), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (12)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - like (1)
 
-#### The agile manifesto from a business analyst perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980)
+#### [The agile manifesto from a business analyst perspective](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=1)** - 17 guys at a ski resort in Utah, it sounds like of a beginning of a bad joke, but that gathering in February of 2001 produced the Agile Manifesto, which prompted a significant shift in software development strategies and processes and now business operations and strategies too.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=1)** - 17 guys at a ski resort in Utah, it sounds like of a beginning of a bad joke, but that gathering in February of 2001 produced the [[Agile Development|Agile]] Manifesto, which prompted a significant shift in [[Software Development]] strategies and processes and now [[Business Operations]] and strategies too.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=22)** The Agile Manifesto describes the common ground that this group of 17 methodologists found as they vented their frustrations and discussed what works to get to valuable, high quality products.
+> **[0:22](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=22)** The Agile Manifesto describes the common ground that this group of 17 methodologists found as they vented their frustrations and discussed what works to get to valuable, high quality [[Microsoft Products|products]].
 >
 > **[0:35](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=35)** They were frustrated by heavy document-driven processes for creating software with detailed plans, and this made changing needs difficult to address.
 >
 > **[0:46](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=46)** In creating the Agile Manifesto, they were able to emphasize a shared set of values.
 >
-> **[0:52](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=52)** These values strongly resonated with the rest of the industry and since then, the Manifesto has lead to many new approaches for software developers.
+> **[0:52](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=52)** These values strongly resonated with the [[Representational State Transfer (REST)|rest]] of the industry and since then, the Manifesto has lead to many new approaches for software developers.
 >
 > **[1:02](https://www.linkedin.com/learning/agile-requirements-foundations/the-agile-manifesto-from-a-business-analyst-perspective?u=76281980&t=62)** But few have given pause to what this means for business analysts and requirements.
 >
@@ -322,16 +317,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), business (2), [[Microsoft Products|Products]] (2), next (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), [[Microsoft Products|Products]] (2), [[Software Development]] (1), [[Business Operations]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - 17 (1)
 
-#### Agile principles 1–4 from a business analyst perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980)
+#### [Agile principles 1–4 from a business analyst perspective](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=1)** - The principles of the Agile Manifesto bring clarity to what being agile truly means.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=1)** - The principles of the [[Agile Development|Agile]] Manifesto bring clarity to what being agile truly means.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=7)** It's more than doing agile, it's about being agile in our behaviors and mindset.
 >
@@ -339,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=23)** Here's my take on what each of these mean to business analysts and requirements.
 >
-> **[0:28](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=28)** Number one, our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+> **[0:28](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=28)** Number one, our highest priority is to satisfy the customer through early and [[Continuous Delivery (CD)|continuous delivery]] of valuable software.
 >
 > **[0:37](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=37)** BAs facilitate the dialog that helps the product owner prioritize what the team builds.
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=161)** It can be one thing to build great software and yet a different focus for the team to make it valuable from a customer perspective.
 >
-> **[2:50](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=170)** Many times, discovering the value to customers means experimenting and learning from seeing users use and react to working software.
+> **[2:50](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=170)** Many times, discovering the value to customers means experimenting and learning from seeing users use and [[React.js|react]] to working software.
 >
 > **[3:00](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-1-4-from-a-business-analyst-perspective?u=76281980&t=180)** And the fourth principle.
 >
@@ -401,16 +395,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), product (6), [[Agile Development|Agile]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (2), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
 
-#### Agile principles 5–8 from a business analyst perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980)
+#### [Agile principles 5–8 from a business analyst perspective](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=1)** - Okay, so we have seen agile principles one through four, and we are seeing how important these are to BAs as part of the agile team.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=1)** - Okay, so we have seen [[Agile Development|agile]] principles one through four, and we are seeing how important these are to BAs as part of the agile team.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=9)** Next let's look at principles five through eight.
 >
@@ -444,7 +437,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=100)** Agile teams value face-to-face conversation with the team over documentation and hand offs.
 >
-> **[1:47](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=107)** Virtual teams can also use many tools to facilitate face-to-face dialogue as well.
+> **[1:47](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=107)** [[Virtual Teams]] can also use many tools to facilitate face-to-face dialogue as well.
 >
 > **[1:53](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=113)** Tools that use virtual whiteboards, virtual sticky notes and video are common for virtual agile teams.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=159)** Agile teams prefer to finish increments of value instead of increasing the amount of work in progress.
 >
-> **[2:46](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=166)** The BA demonstrates this principle via prioritized stories, well-defined acceptance criteria, prototyping and experimenting.
+> **[2:46](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=166)** The BA demonstrates this principle via prioritized stories, well-defined acceptance criteria, [[Prototyping]] and experimenting.
 >
 > **[2:56](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-5-8-from-a-business-analyst-perspective?u=76281980&t=176)** BAs elicit feedback from users as the sprint progresses.
 >
@@ -492,17 +485,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), product (6), next (3), [[Virtual Teams]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Virtual Teams]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - okay (1)
 
-#### Agile principles 9–12 from a business analyst perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-9-12-from-a-business-analyst-perspective?u=76281980)
+#### [Agile principles 9–12 from a business analyst perspective](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-9-12-from-a-business-analyst-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-9-12-from-a-business-analyst-perspective?u=76281980&t=1)** - OK, so we've seen Agile principles one through eight, but we still have four more to go.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-9-12-from-a-business-analyst-perspective?u=76281980&t=1)** - OK, so we've seen [[Agile Development|Agile]] principles one through eight, but we still have four more to go.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-requirements-foundations/agile-principles-9-12-from-a-business-analyst-perspective?u=76281980&t=7)** So, number nine: continuous attention to technical excellence and good design enhances agility.
 >
@@ -576,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), product (3), next (2), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - ok (1)
@@ -586,8 +578,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The business analyst point of view on an agile team
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980)
+#### [The business analyst point of view on an agile team](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980&t=29)** Well, that's just it.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980&t=30)** When you apply the agile values and principles to your BA work, your point of view will change.
+> **[0:30](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980&t=30)** When you apply the [[Agile Development|agile]] values and principles to your BA work, your point of view will change.
 >
 > **[0:37](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980&t=37)** You'll get curious about how an agile approach would shift your focus.
 >
@@ -663,13 +654,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### Key agile mindsets of business analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980)
+#### [Key agile mindsets of business analysts](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +669,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=6)** But it starts with changing minds.
 >
-> **[0:09](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=9)** When BAs really embrace the agile values and principles, they shift from a traditional mindset to an agile mindset.
+> **[0:09](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=9)** When BAs really embrace the [[Agile Development|agile]] values and principles, they shift from a traditional mindset to an agile mindset.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=16)** This agile mindset drives changes in behavior that bring value to the team and improve the quality of solutions.
 >
@@ -701,7 +691,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=60)** Well, as an agile BA, I would ask to chat fact to face with the stakeholder to get more context.
 >
-> **[1:06](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=66)** I would bring the product owner and iteration leader/scrum master into the dialogue as well.
+> **[1:06](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=66)** I would bring the product owner and iteration leader/[[Scrum]] master into the dialogue as well.
 >
 > **[1:12](https://www.linkedin.com/learning/agile-requirements-foundations/key-agile-mindsets-of-business-analysts?u=76281980&t=72)** The product owner would determine the priorities, and the iteration leader would identify any impacts to the current content, value, and end dates.
 >
@@ -751,13 +741,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), next (4), product (3), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Scrum]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - it (1)
 
-#### Increments of value
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/increments-of-value?u=76281980)
+#### [Increments of value](https://www.linkedin.com/learning/agile-requirements-foundations/increments-of-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +816,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/agile-requirements-foundations/increments-of-value?u=76281980&t=173)** Now, let's talk about how to define the right increments of value.
 >
-> **[2:58](https://www.linkedin.com/learning/agile-requirements-foundations/increments-of-value?u=76281980&t=178)** Like most things at Agile, it's all about experimenting, reflecting, and adjusting.
+> **[2:58](https://www.linkedin.com/learning/agile-requirements-foundations/increments-of-value?u=76281980&t=178)** Like most things at [[Agile Development|Agile]], it's all about experimenting, reflecting, and adjusting.
 >
 > **[3:04](https://www.linkedin.com/learning/agile-requirements-foundations/increments-of-value?u=76281980&t=184)** So, the team identifies an increment of value and builds it.
 >
@@ -837,13 +826,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), feature (4), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### Volatility, uncertainty, complexity, and ambiguity (VUCA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980)
+#### [Volatility, uncertainty, complexity, and ambiguity (VUCA)](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +843,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=14)** VUCA is an acronym that stands for Volatility, Uncertainty, Complexity, and Ambiguity.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=22)** It's a VUCA world that makes agile and attractive approach for many organizations and initiatives.
+> **[0:22](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=22)** It's a VUCA world that makes [[Agile Development|agile]] and attractive approach for many organizations and initiatives.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=29)** Let's look at each piece and how it impacts our work with requirements.
 >
@@ -885,9 +873,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=88)** Our competitors reactions to markets are unknown too.
 >
-> **[1:32](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=92)** So how do we build products to meet customer needs in such an uncertain landscape?
+> **[1:32](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=92)** So how do we build [[Microsoft Products|products]] to meet customer needs in such an uncertain landscape?
 >
-> **[1:37](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=97)** The key is just-in-time requirements based on real data and real-time data.
+> **[1:37](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=97)** The key is just-in-time requirements based on real data and [[Real-Time]] data.
 >
 > **[1:43](https://www.linkedin.com/learning/agile-requirements-foundations/volatility-uncertainty-complexity-and-ambiguity-vuca?u=76281980&t=103)** Using data insights to determine and understand what's next helps us pivot to address changes quickly.
 >
@@ -935,19 +923,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (3), [[Microsoft Products|Products]] (3), data (3), business (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Microsoft Products|Products]] (3), [[Real-Time]] (1)
 > **Env Vars:** vuca (6), mvp (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1), known as (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Prerequisites:** required to (1)
 
-#### Day in the life of an agile business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980)
+#### [Day in the life of an agile business analyst](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=1)** - Being an agile BA is a very busy role.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=1)** - Being an [[Agile Development|agile]] BA is a very busy role.
 >
 > **[0:03](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=3)** If it's a part-time role for you, your project may be heading for trouble.
 >
@@ -955,7 +942,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=19)** So what does a typical day of an agile BA look like?
 >
-> **[0:22](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=22)** Well, you'll see a variety of meetings, facilitation and analysis tasks, along with relationship building, negotiating, and reviewing the previous days software progress.
+> **[0:22](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=22)** Well, you'll see a variety of meetings, facilitation and analysis tasks, along with [[Relationship Building]], negotiating, and reviewing the previous days software progress.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-requirements-foundations/day-in-the-life-of-an-agile-business-analyst?u=76281980&t=33)** It's a fun and exciting role that is challenging to say the least.
 >
@@ -997,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Agile Development|Agile]] (5), [[Relationship Building]] (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Relationship Building]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -1009,12 +996,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A healthy backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980)
+#### [A healthy backlog](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980&t=1)** - Something all agile teams have in common is a backlog.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980&t=1)** - Something all [[Agile Development|agile]] teams have in common is a backlog.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980&t=4)** And as an agile business analyst, you spend a lot of time getting to know the backlog.
 >
@@ -1078,17 +1064,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), business (5), [[Agile Development|Agile]] (3), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - something (1)
 
-#### Ownership of the backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980)
+#### [Ownership of the backlog](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=1)** - So who owns the backlog, the scrum master, product owner, business analyst, technical lead?
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=1)** - So who owns the backlog, the [[Scrum]] master, product owner, business analyst, technical lead?
 >
 > **[0:07](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=7)** The product owner owns the backlog.
 >
@@ -1126,7 +1111,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=111)** And last, determining where on the backlog the item goes.
 >
-> **[1:56](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=116)** I recommend that teams break their backlog into four categories, a top ten, a next release, subsequent release, and the rest.
+> **[1:56](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=116)** I recommend that teams break their backlog into four categories, a top ten, a next release, subsequent release, and the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:05](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=125)** This way only 10 need to be ranked in priority order, and the next three buckets are just categories.
 >
@@ -1136,26 +1121,25 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=146)** Determining the priority of each item is something the team needs to address and work on for items that will be delivered in the next few iterations, while keeping an eye on the current and next release as well as the long-term view.
 >
-> **[2:39](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=159)** As an agile BA, you have a huge influence on the backlog and can make a big difference in the team's success.
+> **[2:39](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=159)** As an [[Agile Development|agile]] BA, you have a huge influence on the backlog and can make a big difference in the team's success.
 >
 > **[2:47](https://www.linkedin.com/learning/agile-requirements-foundations/ownership-of-the-backlog?u=76281980&t=167)** You help define what items matter the most and keep it flowing smoothly, out of the funnel, to your customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), business (5), next (5), teams (4), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### Level of detail in the backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980)
+#### [Level of detail in the backlog](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=1)** - We have looked at what a healthy backlog looks like, and even with healthy backlogs, teams struggle with knowing the right level of detail for their backlog items.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=10)** With our backlog, I talked before about the funnel shape backlog and having a top 10, next release, subsequent release, and the rest.
+> **[0:10](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=10)** With our backlog, I talked before about the funnel shape backlog and having a top 10, next release, subsequent release, and the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:20](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=20)** All backlog items should be well-written, easy to understand, and be an independent increment of value.
 >
@@ -1197,7 +1181,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=154)** It's about waiting for something to become a priority before we spend time breaking it down further.
 >
-> **[2:41](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=161)** The slices of value break items down into smaller pieces which are still meaningful to the user experience.
+> **[2:41](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=161)** The slices of value break items down into smaller pieces which are still meaningful to the [[User Experience (UX)|user experience]].
 >
 > **[2:49](https://www.linkedin.com/learning/agile-requirements-foundations/level-of-detail-in-the-backlog?u=76281980&t=169)** Notice how this backlog detail example did not take the payment type functionality and break it down by the activities and tasks a team does to get all the work done, nor is it broken down by technical component.
 >
@@ -1227,17 +1211,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), feature (2), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - we (1)
 
-#### Refining the backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/refining-the-backlog?u=76281980)
+#### [Refining the backlog](https://www.linkedin.com/learning/agile-requirements-foundations/refining-the-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/refining-the-backlog?u=76281980&t=1)** - Refining the backlog is an ongoing task for agile BAs, and a hefty task that requires daily attention.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/refining-the-backlog?u=76281980&t=1)** - Refining the backlog is an ongoing task for [[Agile Development|agile]] BAs, and a hefty task that requires daily attention.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-requirements-foundations/refining-the-backlog?u=76281980&t=8)** It involves continually estimating, analyzing, prioritizing, and breaking down stories in order to ensure that upcoming sprints have what the team needs to keep delivering.
 >
@@ -1297,19 +1280,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (2), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - refining (1)
 
-#### Analyzing the backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980)
+#### [Analyzing the backlog](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=0)** - In order to refine the backlog, you may need to do a lot of analysis to find the gaps and slice the items into smaller pieces.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=8)** Agile BAs use their deep analysis skills to analyze the context, data, processes, user experience, and various user roles impacted to determine if there are missing items on the backlog, and to decompose the items for further work.
+> **[0:08](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=8)** [[Agile Development|Agile]] BAs use their deep analysis skills to analyze the context, data, processes, [[User Experience (UX)|user experience]], and various user roles impacted to determine if there are missing items on the backlog, and to decompose the items for further work.
 >
 > **[0:24](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=24)** This work is so critical to the agile team.
 >
@@ -1327,7 +1309,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=71)** These models help teams find critical missing pieces and identify unknown impacts.
 >
-> **[1:18](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=78)** Many teams neglect these models and struggle to deliver high quality products.
+> **[1:18](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=78)** Many teams neglect these models and struggle to deliver high quality [[Microsoft Products|products]].
 >
 > **[1:24](https://www.linkedin.com/learning/agile-requirements-foundations/analyzing-the-backlog?u=76281980&t=84)** Agile still means analysis needs to happen.
 >
@@ -1351,14 +1333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (7), data (2), business (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sipoc (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### Collaborating with the product owner on the backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980)
+#### [Collaborating with the product owner on the backlog](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1357,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=24)** The BA brings analysis skills at a release and feature level, and they bring collaboration and facilitation skills that help the team deliver the product owner's vision.
 >
-> **[0:35](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=35)** The agile BA role is to make decision making easy for the product owner.
+> **[0:35](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=35)** The [[Agile Development|agile]] BA role is to make decision making easy for the product owner.
 >
 > **[0:40](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=40)** The BA maximizes the efficiency and effectiveness of the product owner by analyzing, organizing and facilitating the key factors needed for the product owner to engage and make decisions.
 >
@@ -1400,7 +1381,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=106)** When product owners and business analysts team up it's typical for the product owner to be more external facing to the market, customers and organization.
 >
-> **[1:55](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=115)** The product owner is typically looking at the big picture view, the product strategy and the market and organizational changes influencing the product.
+> **[1:55](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=115)** The product owner is typically looking at the big picture view, the [[Product Strategy]] and the market and organizational changes influencing the product.
 >
 > **[2:05](https://www.linkedin.com/learning/agile-requirements-foundations/collaborating-with-the-product-owner-on-the-backlog?u=76281980&t=125)** The BA usually works internally with the team on detailed backlog analysis and day-to-day delivery work.
 >
@@ -1420,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (19), business (2), feature (1), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Product Strategy]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -1431,8 +1412,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product decomposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980)
+#### [Product decomposition](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1444,9 +1424,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980&t=20)** Would it be helpful for making decisions as a homeowner?
 >
-> **[0:24](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980&t=24)** Of course it would be, and it's similar to the process Agile teams use for product decomposition.
+> **[0:24](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980&t=24)** Of course it would be, and it's similar to the process [[Agile Development|Agile]] teams use for product decomposition.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980&t=30)** Agile teams focus on products and these products need decomposition to help the team plan and manage the improvements.
+> **[0:30](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980&t=30)** Agile teams focus on [[Microsoft Products|products]] and these products need decomposition to help the team plan and manage the improvements.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980&t=39)** A product decomposition, sometimes also called a product hierarchy or product map, is much like a functional decomposition that traditional teams use.
 >
@@ -1496,14 +1476,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), teams (4), [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2), functional (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2)
 > **Analogies:** similar to (1), picture (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - think (1)
 
-#### Context techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/context-techniques?u=76281980)
+#### [Context techniques](https://www.linkedin.com/learning/agile-requirements-foundations/context-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1494,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/agile-requirements-foundations/context-techniques?u=76281980&t=15)** And they're one of a handful of visual techniques you can use to help with context.
 >
-> **[0:20](https://www.linkedin.com/learning/agile-requirements-foundations/context-techniques?u=76281980&t=20)** Context is so important to agile teams.
+> **[0:20](https://www.linkedin.com/learning/agile-requirements-foundations/context-techniques?u=76281980&t=20)** Context is so important to [[Agile Development|agile]] teams.
 >
 > **[0:23](https://www.linkedin.com/learning/agile-requirements-foundations/context-techniques?u=76281980&t=23)** It's critical to helping our product owner and team make good decisions.
 >
@@ -1563,14 +1542,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), teams (4), [[Agile Development|Agile]] (3), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Analogies:** picture (5), just like (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/user-stories?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/agile-requirements-foundations/user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1578,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/agile-requirements-foundations/user-stories?u=76281980&t=6)** From a requirements perspective, they are the start of a requirement but more importantly, the start of a conversation.
 >
-> **[0:14](https://www.linkedin.com/learning/agile-requirements-foundations/user-stories?u=76281980&t=14)** Working in an agile way means we document a memory of a conversation in a lightweight style.
+> **[0:14](https://www.linkedin.com/learning/agile-requirements-foundations/user-stories?u=76281980&t=14)** Working in an [[Agile Development|agile]] way means we document a memory of a conversation in a lightweight style.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-requirements-foundations/user-stories?u=76281980&t=20)** To provide some context as we look at what good user stories look like, let's look at one from our online coffee store case study.
 >
@@ -1672,14 +1650,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), next (3), database (3), teams (2), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Definitions:** stands for (4), is a  (2), is an  (1)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - user (1)
 
-#### Acceptance criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/acceptance-criteria?u=76281980)
+#### [Acceptance criteria](https://www.linkedin.com/learning/agile-requirements-foundations/acceptance-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,7 +1674,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/agile-requirements-foundations/acceptance-criteria?u=76281980&t=49)** Acceptance criteria are typically a list of statements that have a clear result.
 >
-> **[0:54](https://www.linkedin.com/learning/agile-requirements-foundations/acceptance-criteria?u=76281980&t=54)** Think of them like statements you could build a test to, to test the products.
+> **[0:54](https://www.linkedin.com/learning/agile-requirements-foundations/acceptance-criteria?u=76281980&t=54)** Think of them like statements you could build a test to, to test the [[Microsoft Products|products]].
 >
 > **[1:00](https://www.linkedin.com/learning/agile-requirements-foundations/acceptance-criteria?u=76281980&t=60)** They might contain scenarios, rules and logic that create a specific outcome for a user, or there might be non-functional requirements like security, performance, expected volumes, response time, and thresholds of performance.
 >
@@ -1739,13 +1716,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), product (1), [[Microsoft Products|Products]] (1), functional (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - so (1)
 
-#### User story maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/user-story-maps?u=76281980)
+#### [User story maps](https://www.linkedin.com/learning/agile-requirements-foundations/user-story-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/agile-requirements-foundations/user-story-maps?u=76281980&t=11)** A story map is all about telling the whole story versus a small part of it.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-requirements-foundations/user-story-maps?u=76281980&t=16)** It's a technique that keeps the team focused on the user experience and results in better dialogue in conversation.
+> **[0:16](https://www.linkedin.com/learning/agile-requirements-foundations/user-story-maps?u=76281980&t=16)** It's a technique that keeps the team focused on the [[User Experience (UX)|user experience]] and results in better dialogue in conversation.
 >
 > **[0:24](https://www.linkedin.com/learning/agile-requirements-foundations/user-story-maps?u=76281980&t=24)** To create a user story map, we take all of the user stories for a product release and place them in the sequence of how a customer uses the product, from left to right.
 >
@@ -1785,18 +1761,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[User Experience (UX)|User experience]] (1), feature (1), business (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (2), picture (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - a (1)
 
-#### Story slicing and splitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/story-slicing-and-splitting?u=76281980)
+#### [Story slicing and splitting](https://www.linkedin.com/learning/agile-requirements-foundations/story-slicing-and-splitting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/story-slicing-and-splitting?u=76281980&t=1)** - Story-slicing, or splitting, is an essential skill and can prevent many of the typical challenges Agile teams experience.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/story-slicing-and-splitting?u=76281980&t=1)** - Story-slicing, or splitting, is an essential skill and can prevent many of the typical challenges [[Agile Development|Agile]] teams experience.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-requirements-foundations/story-slicing-and-splitting?u=76281980&t=9)** To build features effectively, and deliver user value in increments, the functionality needs to be broken down further into smaller user stories.
 >
@@ -1840,18 +1815,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (2), product (2), business (2), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - story (1)
 
-#### Lightweight modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/lightweight-modeling?u=76281980)
+#### [Lightweight modeling](https://www.linkedin.com/learning/agile-requirements-foundations/lightweight-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-requirements-foundations/lightweight-modeling?u=76281980&t=0)** - When we use the word agile to describe a person, we usually think of someone who is quick, nimble, and probably quite small or lightweight.
+> **[0:00](https://www.linkedin.com/learning/agile-requirements-foundations/lightweight-modeling?u=76281980&t=0)** - When we use the [[Microsoft Word|word]] [[Agile Development|agile]] to describe a person, we usually think of someone who is quick, nimble, and probably quite small or lightweight.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-requirements-foundations/lightweight-modeling?u=76281980&t=9)** And that's why you may hear the terms lightweight requirements, or lightweight modeling, on an agile team.
 >
@@ -1897,7 +1871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (3), [[Microsoft Word|Word]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Microsoft Word|Word]] (1)
 > **Speakers:** - when (1)
 
 
@@ -1905,12 +1879,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Last responsible moment
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980)
+#### [Last responsible moment](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=1)** - As Business Analysts, we help the product owner and business stakeholders make decisions, and the agile mindset, encourages us to make these decisions at the last responsible moment.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=1)** - As Business Analysts, we help the product owner and business stakeholders make decisions, and the [[Agile Development|agile]] mindset, encourages us to make these decisions at the last responsible moment.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=12)** Agile BA's believe that the later a decision can be made, the more flexibility there is for change.
 >
@@ -1936,7 +1909,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=96)** Many of us actually do this naturally in our personal lives so why not with requirements as well?
 >
-> **[1:42](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=102)** Things that team's may wait for to make decisions would include, customer feedback on the last release that's expected to impact the designs of the next backlog items, or things like, strategic leadership decisions expected to impact priorities for the next release.
+> **[1:42](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=102)** Things that team's may wait for to make decisions would include, customer feedback on the last release that's expected to impact the designs of the next backlog items, or things like, [[Strategic Leadership]] decisions expected to impact priorities for the next release.
 >
 > **[1:59](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980&t=119)** Agile avoids doing work just in case and focuses on doing work just in time, but this can be hard for some of us to embrace.
 >
@@ -1968,18 +1941,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (3), product (3), [[Agile Development|Agile]] (3), teams (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Strategic Leadership]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Minimum viable product (MVP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/minimum-viable-product-mvp?u=76281980)
+#### [Minimum viable product (MVP)](https://www.linkedin.com/learning/agile-requirements-foundations/minimum-viable-product-mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/minimum-viable-product-mvp?u=76281980&t=1)** - You've probably heard the term MVP, but in an agile context we are not talking about the most valuable player.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/minimum-viable-product-mvp?u=76281980&t=1)** - You've probably heard the term MVP, but in an [[Agile Development|agile]] context we are not talking about the most valuable player.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-requirements-foundations/minimum-viable-product-mvp?u=76281980&t=8)** MVP in an agile context stands for minimum viable product.
 >
@@ -2039,15 +2011,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Agile Development|Agile]] (6), feature (6), teams (3), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6)
 > **Env Vars:** mvp (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - you (1)
 
-#### Experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/experiments?u=76281980)
+#### [Experiments](https://www.linkedin.com/learning/agile-requirements-foundations/experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2097,20 +2068,19 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/agile-requirements-foundations/experiments?u=76281980&t=150)** We want to really know what we're trying to learn and don't over-engineer the experiment to miss out on critical time.
 >
-> **[2:38](https://www.linkedin.com/learning/agile-requirements-foundations/experiments?u=76281980&t=158)** Experiments can be amazing tools to provide real-time customer insights.
+> **[2:38](https://www.linkedin.com/learning/agile-requirements-foundations/experiments?u=76281980&t=158)** Experiments can be amazing tools to provide [[Real-Time]] customer insights.
 >
 > **[2:43](https://www.linkedin.com/learning/agile-requirements-foundations/experiments?u=76281980&t=163)** They can reduce ambiguity and point your team in the right direction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (1), teams (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - have (1)
 
-#### Value stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980)
+#### [Value stream](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,7 +2090,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=13)** I'm guessing you've seen this.
 >
-> **[0:15](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=15)** Value streams help Agile teams organize and deliver around what's valuable.
+> **[0:15](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=15)** Value streams help [[Agile Development|Agile]] teams organize and deliver around what's valuable.
 >
 > **[0:21](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=21)** Teams use value streams to ensure that one part of a solution does not adversely impact other parts.
 >
@@ -2132,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=53)** Agile BAs need to understand value streams to effectively analyze backlogs, slice user stories, and facilitate minimum viable discussions.
 >
-> **[1:02](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=62)** Value streams can also be analyzed to find waste and improve the process overall, helping Agile teams see where business operations, processes, and technology can come together to create a better value stream experience for the customer.
+> **[1:02](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=62)** Value streams can also be analyzed to find waste and improve the process overall, helping Agile teams see where [[Business Operations]], processes, and technology can come together to create a better value stream experience for the customer.
 >
 > **[1:17](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=77)** Let's look at an example from our online coffee store case study.
 >
@@ -2156,7 +2126,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=141)** Notice that packing the product may take one to two days total, but the active time is only 10 minutes.
 >
-> **[2:29](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=149)** The rest is lag time.
+> **[2:29](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=149)** The [[Representational State Transfer (REST)|rest]] is lag time.
 >
 > **[2:31](https://www.linkedin.com/learning/agile-requirements-foundations/value-stream?u=76281980&t=151)** If the goal of the survey is to identify where the company can improve the process, the value stream shows us much of the process is invisible to the customer.
 >
@@ -2176,13 +2146,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), teams (4), product (4), feature (2), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Business Operations]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - sometimes (1)
 
-#### Outcome-focused
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/outcome-focused?u=76281980)
+#### [Outcome-focused](https://www.linkedin.com/learning/agile-requirements-foundations/outcome-focused?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,7 +2159,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/agile-requirements-foundations/outcome-focused?u=76281980&t=9)** Or even, perhaps, focused on defining process details.
 >
-> **[0:14](https://www.linkedin.com/learning/agile-requirements-foundations/outcome-focused?u=76281980&t=14)** As an agile business analyst, the focus changes.
+> **[0:14](https://www.linkedin.com/learning/agile-requirements-foundations/outcome-focused?u=76281980&t=14)** As an [[Agile Development|agile]] business analyst, the focus changes.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-requirements-foundations/outcome-focused?u=76281980&t=17)** It changes to be outcome focused over anything else.
 >
@@ -2242,17 +2211,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), product (4), feature (3), business (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **Analogies:** picture (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - in (1)
 
-#### Who is the customer?
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/who-is-the-customer?u=76281980)
+#### [Who is the customer?](https://www.linkedin.com/learning/agile-requirements-foundations/who-is-the-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/who-is-the-customer?u=76281980&t=1)** - Do you know who your customer is as an agile BA?
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/who-is-the-customer?u=76281980&t=1)** - Do you know who your customer is as an [[Agile Development|agile]] BA?
 >
 > **[0:04](https://www.linkedin.com/learning/agile-requirements-foundations/who-is-the-customer?u=76281980&t=4)** I want to take a look at this and challenge who our customer is as we work on requirements.
 >
@@ -2308,7 +2276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), product (3), business (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - do (1)
 
@@ -2317,14 +2285,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980&t=1)** - Being an agile business analyst and working on requirements on an agile project is an adventure, it's an adventure that is both rewarding and challenging.
+> **[0:01](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980&t=1)** - Being an [[Agile Development|agile]] business analyst and working on requirements on an agile project is an adventure, it's an adventure that is both rewarding and challenging.
 >
-> **[0:11](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980&t=11)** Agile projects need business analysis and requirements analysis more than ever, and it does require us to have a different mindset and approach, while using our analysis skills we've always relied on.
+> **[0:11](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980&t=11)** Agile projects need business analysis and [[Requirements Analysis]] more than ever, and it does require us to have a different mindset and approach, while using our analysis skills we've always relied on.
 >
 > **[0:24](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980&t=24)** There are many great industry resources for those who want to advance their agile analysis skills.
 >
@@ -2340,7 +2307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), business (3), [[Requirements Analysis]] (1), career (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Requirements Analysis]] (1)
 > **Env Vars:** iiba (1), babok (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - being (1)

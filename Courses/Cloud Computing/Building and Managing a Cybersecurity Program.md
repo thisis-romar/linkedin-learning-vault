@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect against cyberattacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980)
+#### [Protect against cyberattacks](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980&t=0)** - When you're building (soft, upbeat music) a cybersecurity program, you've got all these requirements from different people.
+> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980&t=0)** - When you're building (soft, upbeat music) a [[Cybersecurity]] program, you've got all these requirements from different people.
 >
 > **[0:05](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980&t=5)** You have customers who want their data safeguarded, regulators who want to see that laws are followed, and your own corporate assets that need to be protected.
 >
@@ -114,16 +113,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Speakers:** - when (1)
 > **Non-Speech:** (soft, upbeat music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-you-should-know-22158260?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-you-should-know-22158260?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-you-should-know-22158260?u=76281980&t=0)** - [Instructor] It's crucial for organizations of all sizes and industries to have a pragmatic cybersecurity program.
+> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-you-should-know-22158260?u=76281980&t=0)** - [Instructor] It's crucial for organizations of all sizes and industries to have a pragmatic [[Cybersecurity]] program.
 >
 > **[0:07](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-you-should-know-22158260?u=76281980&t=7)** This course is designed for people who need to take a big picture perspective on cybersecurity and set long-term priorities for their organization.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), data (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -148,8 +146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is information security?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980)
+#### [What is information security?](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980&t=114)** How do these goals help us today?
 >
-> **[1:57](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980&t=117)** Take for example, modern banking.
+> **[1:57](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980&t=117)** Take for example, modern [[Banking]].
 >
 > **[1:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980&t=119)** Today, we can manage our money privately online.
 >
@@ -193,18 +190,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Env Vars:** bce (1), cia (1), atm (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - information (1)
 
-#### Cybersecurity overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980)
+#### [Cybersecurity overview](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=1)** - [Instructor] Cybersecurity is a hot buzzword these days, but what is it?
+> **[0:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=1)** - [Instructor] [[Cybersecurity]] is a hot buzzword these days, but what is it?
 >
 > **[0:05](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=5)** The term cybersecurity first emerged into our collective consciousness in 1994 according to the Miriam Webster dictionary.
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=14)** We can't even agree how to spell it yet.
 >
-> **[0:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=16)** Is it one word?
+> **[0:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=16)** Is it one [[Microsoft Word|word]]?
 >
 > **[0:18](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=18)** Do we use a hyphen?
 >
@@ -226,11 +222,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=48)** Some people think the two terms are synonymous or that cybersecurity is a subset or a super set of information security.
 >
-> **[0:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=54)** Some people say cybersecurity is just a newer and possibly more silly term for computer security or network security, but the term cybersecurity is important for implementing an information security program so I'm going to define it.
+> **[0:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=54)** Some people say cybersecurity is just a newer and possibly more silly term for computer security or [[Network Security]], but the term cybersecurity is important for implementing an information security program so I'm going to define it.
 >
 > **[1:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=70)** The National Institute of Standards and Technology in the United States defines it as the ability to protect or defend the use of cyberspace from cyber attacks.
 >
-> **[1:22](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=82)** Now, the NIST definition's okay but when they say cyberspace, we'll say internet.
+> **[1:22](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=82)** Now, the [[NIST]] definition's okay but when they say cyberspace, we'll say internet.
 >
 > **[1:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cybersecurity-overview-22157260?u=76281980&t=87)** Also, their definition doesn't talk about risk and we'll need to deal with that because risk is an important input to prioritizing where we'll deploy the limited resources we have for our information security program.
 >
@@ -238,13 +234,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (6), [[Microsoft Word|Word]] (1), [[Network Security]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Microsoft Word|Word]] (1), [[Network Security]] (1), [[NIST]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cyber resilience overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyber-resilience-overview-22156754?u=76281980)
+#### [Cyber resilience overview](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyber-resilience-overview-22156754?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyber-resilience-overview-22156754?u=76281980&t=27)** Over the past several years, the volume of data breaches has been increasing.
 >
-> **[0:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyber-resilience-overview-22156754?u=76281980&t=32)** The average cost of a large company cybersecurity incident is now 15.4 million dollars as published in the 2022 net diligence cyber claims study.
+> **[0:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyber-resilience-overview-22156754?u=76281980&t=32)** The average cost of a large company [[Cybersecurity]] incident is now 15.4 million dollars as published in the 2022 net diligence cyber claims study.
 >
 > **[0:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyber-resilience-overview-22156754?u=76281980&t=44)** Cybersecurity ventures recently predicted that by 2025, the annual cost of cybersecurity incidents will reach 10.5 trillion dollars globally.
 >
@@ -314,14 +309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), data (1), [[Security]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5)
 > **Versions:** 15.4 (1), 10.5 (1)
 > **Analogies:** such as (1), just like (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk management overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/risk-management-overview-22162223?u=76281980)
+#### [Risk management overview](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/risk-management-overview-22162223?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/risk-management-overview-22162223?u=76281980&t=130)** What's powerful is you can combine any of these options.
 >
-> **[2:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/risk-management-overview-22162223?u=76281980&t=134)** Risk management can be such a useful practice that some people follow formal risk management guidance from standards organizations such as ISO 31000 from the International Organization for Standardization or NIST Special Publication 800-30.
+> **[2:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/risk-management-overview-22162223?u=76281980&t=134)** Risk management can be such a useful practice that some people follow formal risk management guidance from standards organizations such as ISO 31000 from the International Organization for Standardization or [[NIST]] Special Publication 800-30.
 >
 > **[2:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/risk-management-overview-22162223?u=76281980&t=152)** I want to share with you a few words of caution about risk management.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (12), data (2), next (2), business (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** acat (1), iso (1), nist (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -410,8 +404,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Prepare and recover
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-prepare-and-recover-22162225?u=76281980)
+#### [Challenge: Prepare and recover](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-prepare-and-recover-22162225?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,14 +428,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Prepare and recover
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980)
+#### [Solution: Prepare and recover](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=32)** Do they know how to shut down the network and servers to avoid any further spreading of the malicious code?
 >
-> **[0:39](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=39)** Can they restore their data through trusted backup servers, and would they be ready to use emergency forms of communication?
+> **[0:39](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=39)** Can they restore their data through trusted backup servers, and would they be ready to use emergency [[Forms]] of communication?
 >
 > **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-prepare-and-recover-22160232?u=76281980&t=48)** The next thing I would do is prompt a conversation with senior decision-makers and ask them to decide in advance whether or not they would pay a ransom to restore systems.
 >
@@ -478,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), data (1), [[Forms]] (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -488,8 +479,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Achieve your customers’ expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980)
+#### [Achieve your customers’ expectations](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=32)** According to the 2018 Cost of a Data Breach Study conducted by the Ponemon Institute, the rate of abnormal churn for healthcare firms can be as high as 6.7%.
 >
-> **[0:45](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=45)** You can see the rest of the industry is here.
+> **[0:45](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=45)** You can see the [[Representational State Transfer (REST)|rest]] of the industry is here.
 >
 > **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=48)** So your customers are trusting you with their data.
 >
@@ -515,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=71)** Second, integrity means that the information your customers share with you will not become corrupt before you make decisions based on it or when they access it again.
 >
-> **[1:24](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=84)** And availability means that products and services you sell will be available whenever they're needed such as a bill payment portal or shipment tracking.
+> **[1:24](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=84)** And availability means that [[Microsoft Products|products]] and services you sell will be available whenever they're needed such as a bill payment portal or shipment tracking.
 >
 > **[1:34](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=94)** The failure of your information security program can result in big losses for your customers.
 >
@@ -537,7 +527,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=179)** Your company makes confidentiality, integrity and availability promises to your customers in the contracts they sign with your organization.
 >
-> **[3:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=189)** Customers also count on your company to obey the laws and regulations related to information and cybersecurity.
+> **[3:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=189)** Customers also count on your company to obey the laws and regulations related to information and [[Cybersecurity]].
 >
 > **[3:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980&t=196)** For some companies, knowing what you've promised to customers is easy to determine, because you offer a standard contract to everyone like a software company or mobile phone provider that sells to consumers.
 >
@@ -559,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** tnt (3), dhl (1), ups (1), ceo (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1), find (1)
@@ -567,12 +557,11 @@ created: 2026-05-02
 > **Versions:** 6.7 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cyberattack and failure resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980)
+#### [Cyberattack and failure resilience](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=0)** - [Instructor] Being resilient to cyber attacks and cyber failures is one of the four major goals of a cybersecurity program.
+> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=0)** - [Instructor] Being resilient to cyber attacks and cyber failures is one of the four major goals of a [[Cybersecurity]] program.
 >
 > **[0:07](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=7)** Without enough resilience, a cyber attack or failure could result in damage severe enough that a company could be greatly hurt or even go out of business.
 >
@@ -640,7 +629,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=283)** I want to wrap up this video with a couple thoughts about the insidious nature of integrity attacks.
 >
-> **[4:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=290)** Think about the power of Stuxnet, and imagine the potential damage a data integrity attack could have against a hospital.
+> **[4:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=290)** Think about the power of Stuxnet, and imagine the potential damage a [[Data Integrity]] attack could have against a hospital.
 >
 > **[4:58](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/cyberattack-and-failure-resilience-22157262?u=76281980&t=298)** By relying on inaccurate medical records, a doctor might prescribe the wrong drug or administer a dose that's too large or too small.
 >
@@ -652,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), [[Cybersecurity]] (1), career (1), power (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Integrity]] (1)
 > **Env Vars:** ceo (1), cfo (1)
 > **Versions:** 1.4 (1), 12.7 (1)
 > **URLs:** [vice.com](https://vice.com) (1)
@@ -660,14 +649,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance with laws and regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980)
+#### [Compliance with laws and regulations](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=0)** - [Host] Being compliant with the laws and regulations that apply to your organization is one of the four major goals of an information security program.
 >
-> **[0:08](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=8)** Because of the growing importance of cybersecurity there are many laws and regulations and we can expect more to emerge in the coming years.
+> **[0:08](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=8)** Because of the growing importance of [[Cybersecurity]] there are many laws and regulations and we can expect more to emerge in the coming years.
 >
 > **[0:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=17)** You'll find laws and regulations at many levels of governance, everything from multinational requirements all the way down to national, state, and local levels.
 >
@@ -679,9 +667,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=50)** It's designed to protect investors and the public by increasing the accuracy and reliability of corporate disclosures, particularly financial ones.
 >
-> **[0:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=59)** That means information security programs need to make sure their organization's financial data is safeguarded, whether they are publicly traded or not.
+> **[0:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=59)** That means information security programs need to make sure their organization's [[Financial Data]] is safeguarded, whether they are publicly traded or not.
 >
-> **[1:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=69)** The Payment Card Industry Data Security Standard is a set of requirements for securing payment card customer data.
+> **[1:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=69)** The Payment Card Industry [[Data Security]] Standard is a set of requirements for securing payment card customer data.
 >
 > **[1:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=77)** It was developed by the founders of the PCI Security Standards Council which includes American Express, MasterCard, and Visa.
 >
@@ -697,15 +685,15 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=114)** These laws also require organizations to take other steps to protect consumers involved in the breach.
 >
-> **[2:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=121)** Let's turn now to some industry specific regulations and guidelines, enacted in 2002, the Federal Information Security Management Act or FISMA, requires US federal agencies to implement a program to provide security for the information and information systems.
+> **[2:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=121)** Let's turn now to some industry specific regulations and guidelines, enacted in 2002, the Federal [[Information Security Management]] Act or FISMA, requires US federal agencies to implement a program to provide security for the information and information systems.
 >
 > **[2:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=140)** The North American Electric Reliability Corporation also called NERC, has published standards for the bulk power system of North America.
 >
 > **[2:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=150)** It protects the industry's critical infrastructure from physical and cyber threats.
 >
-> **[2:36](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=156)** The Health Insurance Portability and Accountability Act or HIPAA requires the adoption of standards nationwide to protect electronic healthcare transactions.
+> **[2:36](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=156)** The Health Insurance Portability and [[Accountability]] Act or HIPAA requires the adoption of standards nationwide to protect electronic healthcare transactions.
 >
-> **[2:46](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=166)** The law also requires guarding the security and privacy of personal health information.
+> **[2:46](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=166)** The law also requires guarding the security and [[Privacy]] of personal health information.
 >
 > **[2:51](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=171)** It applies to healthcare providers, health plans and health clearing houses who are also known as covered entities.
 >
@@ -717,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=207)** It added new requirements concerning privacy and security for patient health information, and it applies to both covered entities and business associates.
 >
-> **[3:37](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=217)** On the international front, one of the most important data privacy laws is the General Data Protection Regulation, also known as GDPR.
+> **[3:37](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=217)** On the international front, one of the most important [[Data Privacy]] laws is the General Data Protection Regulation, also known as GDPR.
 >
 > **[3:45](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/compliance-with-laws-and-regulations-22161209?u=76281980&t=225)** It took the place of the Data Protection Directive in 2018 and regulates the processing of personal data of citizens of the European Union no matter where in the world they live.
 >
@@ -729,14 +717,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (7), [[Privacy]] (6), business (3), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (2), [[Cybersecurity]] (1), [[Financial Data]] (1), [[Data Security]] (1)
 > **Env Vars:** hipaa (3), gdpr (2), sox (1), pci (1), pcidss (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [host] (1)
 
-#### Executive and BOD support
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980)
+#### [Executive and BOD support](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +769,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=153)** It's the ongoing effort of ensuring that your organization is abiding by both industry regulations and government legislation.
 >
-> **[2:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=162)** Examples of common compliance mandates affecting information security include the Payment Card Industry Data Security Standard, the Health Insurance Portability and Accountability Act of 1996, the Sarbanes-Oxley Act of 2002, and the Federal Information Security Management Act.
+> **[2:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=162)** Examples of common compliance mandates affecting information security include the Payment Card Industry [[Data Security]] Standard, the Health Insurance Portability and [[Accountability]] Act of 1996, the Sarbanes-Oxley Act of 2002, and the Federal [[Information Security Management]] Act.
 >
 > **[3:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=181)** It's important for you to know that there is a material difference between being compliant and being secure.
 >
@@ -812,11 +799,11 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=300)** For each of these GRC areas, your information security program needs to provide board members with an understanding of the information security goals it should support, where your program has been in the past, where you are now, and where you're going next.
 >
-> **[5:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=316)** And you'll need to help guide the board's decision-making by providing data that's easy for you to gather and present and easy for them to understand.
+> **[5:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/executive-and-bod-support-22160233?u=76281980&t=316)** And you'll need to help guide the board's [[Decision-Making]] by providing data that's easy for you to gather and present and easy for them to understand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), data (3), business (2), management (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Accountability]] (1), [[Information Security Management]] (1), [[Decision-Making]] (1)
 > **Env Vars:** erm (5), pci (2), grc (2), oecd (1), dss (1)
 > **Definitions:** is a  (3), in other words (1), is an  (1), defined as (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
@@ -824,8 +811,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Customer security requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980)
+#### [Challenge: Customer security requirements](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,28 +819,27 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=2)** If you are, I've got a challenge for you.
 >
-> **[0:05](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=5)** Imagine you are a supplier to a customer called Acme and you've just been given Acme's data security addendum which you can see in the exercise files.
+> **[0:05](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=5)** Imagine you are a supplier to a customer called Acme and you've just been given Acme's [[Data Security]] addendum which you can see in the exercise files.
 >
-> **[0:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=20)** I want you to identify at least three distinct customer security requirements that needs to be integrated into your organization's cybersecurity program.
+> **[0:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=20)** I want you to identify at least three distinct customer security requirements that needs to be integrated into your organization's [[Cybersecurity]] program.
 >
-> **[0:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=30)** To get started, download the data security addendum in the Exercise Files and study it, then I want you to use the highlighter function in your word processor to isolate the requirements and in the next video I'll tell you what I came up with.
+> **[0:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-security-requirements-22157263?u=76281980&t=30)** To get started, download the data security addendum in the Exercise Files and study it, then I want you to use the highlighter function in your [[Microsoft Word|word]] processor to isolate the requirements and in the next video I'll tell you what I came up with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (2), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Security]] (2), [[Cybersecurity]] (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Customer security requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-security-requirements-22163186?u=76281980)
+#### [Solution: Customer security requirements](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-security-requirements-22163186?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-security-requirements-22163186?u=76281980&t=0)** - [Narrator] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-security-requirements-22163186?u=76281980&t=1)** What did you see when you read through the data security addendum?
+> **[0:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-security-requirements-22163186?u=76281980&t=1)** What did you see when you read through the [[Data Security]] addendum?
 >
 > **[0:06](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-security-requirements-22163186?u=76281980&t=6)** Let's take a look at what I saw.
 >
@@ -872,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **Versions:** 2.1.1 (1), 2.1.6 (1), 2.2 (1), 2.3 (1)
 > **Speakers:** - [narrator] (1)
 
@@ -881,8 +866,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Essential functions of a program
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980)
+#### [Essential functions of a program](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,23 +878,23 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=20)** Many medium or smaller sized companies often outsource information security functions to keep costs within their small budgets.
 >
-> **[0:28](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=28)** The Security Operations Center or SOC, is the organizational focal point where information systems are monitored to detect incidents assessed to detect the vulnerabilities and defend it when they're under attack.
+> **[0:28](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=28)** The [[Security Operations]] Center or SOC, is the organizational focal point where information systems are monitored to detect incidents assessed to detect the vulnerabilities and defend it when they're under attack.
 >
 > **[0:43](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=43)** The SOC may have dedicated rooms at larger organizations.
 >
-> **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=48)** The types of information systems monitored by a SOC includes websites, applications, databases, data centers, and servers, networks, desktops, and other endpoints.
+> **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=48)** The types of information systems monitored by a SOC includes websites, applications, [[Databases]], data centers, and servers, networks, desktops, and other endpoints.
 >
-> **[1:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=62)** To operate smoothly, your SOC must have clearly spelled out roles and responsibilities, as well as incident response procedures that describe the steps to be taken when an alert or report is received.
+> **[1:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=62)** To operate smoothly, your SOC must have clearly spelled out roles and responsibilities, as well as [[Incident Response]] procedures that describe the steps to be taken when an alert or report is received.
 >
 > **[1:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=77)** A SOC is typically based around the security information and event management system or SIEM.
 >
 > **[1:24](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=84)** A SIEM attempts to create a single pane of class for the security analyst to monitor the entire organization.
 >
-> **[1:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=92)** A SIEM aggregates and correlates data from security feeds such as system logs, firewalls, enterprise anti-malware systems, vulnerability assessment systems, and intrusion detection and prevention systems.
+> **[1:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=92)** A SIEM aggregates and correlates data from security feeds such as system logs, firewalls, enterprise anti-malware systems, [[Vulnerability Assessment]] systems, and [[Intrusion Detection]] and prevention systems.
 >
 > **[1:49](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=109)** A typical SOC is staffed by analysts, security engineers, and managers.
 >
-> **[1:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=114)** They are usually trained in computer engineering, cryptography, and network engineering.
+> **[1:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=114)** They are usually trained in computer engineering, [[Cryptography]], and network engineering.
 >
 > **[2:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=120)** SOC staff will usually have earned one or more information security credentials.
 >
@@ -920,11 +904,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=140)** A great information security team will work hard to find ways to use that new technology within the boundaries of the organization's risk tolerance.
 >
-> **[2:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=150)** This may require the information security team to find new ways of working such as when [[Agile Software Development]] became popular, or deploy new security products like executive level email encryption.
+> **[2:30](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=150)** This may require the information security team to find new ways of working such as when [[[[Agile Software Development]]]] became popular, or deploy new security [[Microsoft Products|products]] like executive level email encryption.
 >
 > **[2:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=164)** The output of this work is usually a multi-year roadmap.
 >
-> **[2:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=170)** Most information security teams provide cybersecurity guidance to the larger and riskier projects undertaken by the organization.
+> **[2:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=170)** Most information security teams provide [[Cybersecurity]] guidance to the larger and riskier projects undertaken by the organization.
 >
 > **[2:58](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980&t=178)** A year long migration of a line of business software package from one vendor to another is a good example.
 >
@@ -952,15 +936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), management (4), data (3), business (3), teams (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security Operations]] (1), [[Databases]] (1), [[Incident Response]] (1), [[Vulnerability Assessment]] (1)
 > **Env Vars:** soc (7), siem (3)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Determine your role
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980)
+#### [Determine your role](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1022,13 +1005,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=220)** Fourth, we worked to maintain and enhance our trusted relationships with all stakeholders, including customers, partners, suppliers, and employees.
 >
-> **[3:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=230)** Fifth, we enhanced our company's competitive position by securely supporting and enabling new products and services as well as acquisitions.
+> **[3:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=230)** Fifth, we enhanced our company's competitive position by securely supporting and enabling new [[Microsoft Products|products]] and services as well as acquisitions.
 >
 > **[3:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=239)** And finally, we promoted information security education, training, and awareness throughout the organization.
 >
 > **[4:07](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=247)** So, you can't delegate vision and you can't delegate top-level cultural requirements and performance expectations.
 >
-> **[4:15](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=255)** But for all the rest of the work, you must delegate as many responsibilities and tasks as possible.
+> **[4:15](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=255)** But for all the [[Representational State Transfer (REST)|rest]] of the work, you must delegate as many responsibilities and tasks as possible.
 >
 > **[4:22](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/determine-your-role-22158259?u=76281980&t=262)** This can be scary because it requires a lot of trust in your delegates, but people have been successfully delegating work for thousands of years, so we know it's possible to do it well, and delegation is necessary so your staff members can grow by accomplishing more challenging work.
 >
@@ -1036,13 +1019,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), next (1), strengths (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980)
+#### [Build a team](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1070,15 +1052,15 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=68)** Will you need people who can process network access requests quickly and accurately?
 >
-> **[1:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=74)** How about the cybersecurity due diligence work for the acquisition of a competitor.
+> **[1:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=74)** How about the [[Cybersecurity]] due diligence work for the acquisition of a competitor.
 >
 > **[1:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=80)** Now, sort your activities into those that are core to your program as opposed to those activities that could be done by others, either inside your organization or external to it.
 >
 > **[1:31](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=91)** A core competency is when you do something better than anyone else.
 >
-> **[1:35](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=95)** Apple, for example, is great at designing hardware, but they hire an outside company to manufacture their devices for them.
+> **[1:35](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=95)** Apple, for example, is great at designing [[Hardware]], but they hire an outside company to manufacture their devices for them.
 >
-> **[1:43](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=103)** To make the greatest impact for the money spent on your program, you need to put as much of your staff time into what is core and delegate the rest.
+> **[1:43](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=103)** To make the greatest impact for the money spent on your program, you need to put as much of your staff time into what is core and delegate the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:52](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=112)** Let's walk through an example.
 >
@@ -1098,7 +1080,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=199)** In contrast, performing forensics requires specialized equipment and training, but there's no need to understand your business, and from talking with managers from the largest departments, the need is infrequent, so you conclude this activity should be done by an outside service provider on demand.
 >
-> **[3:38](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=218)** Now, for the activities that are part of your core competency, create position descriptions and proceed to hire them in priority order by working with your human resources department.
+> **[3:38](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=218)** Now, for the activities that are part of your core competency, create position descriptions and proceed to hire them in priority order by working with your [[Human Resources (HR)|human resources]] department.
 >
 > **[3:50](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/build-a-team-22159265?u=76281980&t=230)** If you inherited a staff of people, you may need to change their duties either a little or a lot.
 >
@@ -1128,14 +1110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2), next (1), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [facilitator] (1)
 
-#### The need for management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-management-22161208?u=76281980)
+#### [The need for management](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-management-22161208?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,7 +1130,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-management-22161208?u=76281980&t=14)** They are two sides of the same coin and both are needed.
 >
-> **[0:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-management-22161208?u=76281980&t=17)** John Kotter, a published leadership expert and former professor at the Harvard Business School says that leadership is about producing useful change.
+> **[0:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-management-22161208?u=76281980&t=17)** [[John the Ripper|John]] Kotter, a published leadership expert and former professor at the Harvard Business School says that leadership is about producing useful change.
 >
 > **[0:26](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-management-22161208?u=76281980&t=26)** So what's management?
 >
@@ -1183,17 +1164,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), leadership (5), [[Security]] (3), business (1), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The need for leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980)
+#### [The need for leadership](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=0)** - [Instructor] John Kotter, a published leadership expert and former professor at the Harvard Business School said that, "Leadership is about vision, about people buying in, about empowerment, and most of all, about producing useful change."
+> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=0)** - [Instructor] [[John the Ripper|John]] Kotter, a published leadership expert and former professor at the Harvard Business School said that, "Leadership is about vision, about people buying in, about empowerment, and most of all, about producing useful change."
 >
 > **[0:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=17)** Previously, we saw that Kotter defines management as maintaining the status quo.
 >
@@ -1219,7 +1199,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=99)** That means you need to be skilled in that work.
 >
-> **[1:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=102)** At a minimum, you'll need empathy, strong [[Interpersonal Communication]] skills, and the ability to set and enforce boundaries with firmness and respect, and it'll help a lot if you're likable.
+> **[1:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=102)** At a minimum, you'll need empathy, strong [[[[Interpersonal Communication]]]] skills, and the ability to set and enforce boundaries with firmness and respect, and it'll help a lot if you're likable.
 >
 > **[1:57](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/the-need-for-leadership-22161212?u=76281980&t=117)** In fact, a study published in the July 2013 issue of Harvard Business Review said that, "To be very influential, you need to balance warmth with competence."
 >
@@ -1271,7 +1251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (11), management (5), [[Security]] (3), business (2), game (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Interpersonal Communication]] (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (2)
@@ -1279,14 +1259,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Core competencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980)
+#### [Challenge: Core competencies](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=0)** - [Instructor] Okay, are you ready for a challenge?
 >
-> **[0:03](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=3)** As you've learned from a previous video, to make the greatest impact for the money spent on your program, you need to put as much of your staff time into what is core and delegate or outsource the rest.
+> **[0:03](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=3)** As you've learned from a previous video, to make the greatest impact for the money spent on your program, you need to put as much of your staff time into what is core and delegate or outsource the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=16)** Let's practice identifying your core functions so you can get a stronger sense for what you could delegate or outsource.
 >
@@ -1296,7 +1275,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=33)** Detect network intrusions on a 24 hour by seven day basis.
 >
-> **[0:38](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=38)** Review the information security requirements for all customer contracts upon request by your legal team and perform forensic examinations of work stations involved in cybersecurity incidents as needed.
+> **[0:38](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=38)** Review the information security requirements for all customer contracts upon request by your legal team and perform forensic examinations of work stations involved in [[Cybersecurity]] incidents as needed.
 >
 > **[0:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-core-competencies-22161210?u=76281980&t=54)** Again, thinking about your organization, which of these are core and why and which are not core and who else could do them?
 >
@@ -1304,19 +1283,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Cybersecurity]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Core competencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-core-competencies-22161211?u=76281980)
+#### [Solution: Core competencies](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-core-competencies-22161211?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-core-competencies-22161211?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-core-competencies-22161211?u=76281980&t=1)** To make the greatest impact for the money spent on your program, you need to put as much of your staff time into what is core and then delegate the rest.
+> **[0:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-core-competencies-22161211?u=76281980&t=1)** To make the greatest impact for the money spent on your program, you need to put as much of your staff time into what is core and then delegate the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-core-competencies-22161211?u=76281980&t=11)** So how did you do identifying core functions?
 >
@@ -1344,7 +1322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1353,8 +1331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sources of controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980)
+#### [Sources of controls](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,13 +1351,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=46)** How will you assess them?
 >
-> **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=48)** In contrast, the Payment Card Industry Data Security Standard or PCI DSS tells you in great detail what to do to protect credit card data.
+> **[0:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=48)** In contrast, the Payment Card Industry [[Data Security]] Standard or PCI DSS tells you in great detail what to do to protect credit card data.
 >
 > **[0:58](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=58)** For example, the first thing the standard tells you to do is build and maintain a secure network and systems.
 >
 > **[1:05](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=65)** It then gives you two broad requirements for doing this.
 >
-> **[1:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=69)** The first one states install and maintain network security controls.
+> **[1:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=69)** The first one states install and maintain [[Network Security]] controls.
 >
 > **[1:15](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=75)** Then there are over 19 specific sub requirements, such as requirement 1.5.1, which as you can see, is quite lengthy and complex.
 >
@@ -1410,9 +1387,9 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=175)** And lastly, COBIT is easy for both management and information security analysts to understand and follow.
 >
-> **[3:03](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=183)** Next is NIST Special Publication 800-53.
+> **[3:03](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=183)** Next is [[NIST]] Special Publication 800-53.
 >
-> **[3:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=189)** It's called Security and Privacy Controls for Federal Information Systems and Organizations.
+> **[3:09](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=189)** It's called Security and [[Privacy]] Controls for Federal Information Systems and Organizations.
 >
 > **[3:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=196)** This standard is particularly aimed at US federal information systems except those related to national security.
 >
@@ -1424,7 +1401,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=229)** The ISO 27002 International Standard is a catalog of controls that you can select from based on your needs.
 >
-> **[3:58](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=238)** This standard also contains implementation advice for ISO 27001, which describes how to construct an information security management system.
+> **[3:58](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=238)** This standard also contains implementation advice for ISO 27001, which describes how to construct an [[Information Security Management]] system.
 >
 > **[4:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=250)** These standards are a good choice if you do business globally and need to assure all your customers of your security practices.
 >
@@ -1450,7 +1427,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=344)** Unfortunately, the controls have no built-in method of measuring success.
 >
-> **[5:51](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=351)** The second consensus standard we should review is the NIST Cybersecurity Framework.
+> **[5:51](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=351)** The second consensus standard we should review is the NIST [[Cybersecurity]] Framework.
 >
 > **[5:56](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980&t=356)** It provides governance for how private sector organizations can assess and improve their ability to prevent, detect, and respond to cyber attacks.
 >
@@ -1468,7 +1445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), business (4), [[NIST]] (3), data (2), management (2)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Data Security]] (1), [[Network Security]] (1), [[Privacy]] (1), [[Information Security Management]] (1)
 > **Env Vars:** cobit (3), nist (3), iso (3), sans (2), sox (1)
 > **Definitions:** is a  (2), stands for (1), known as (1)
 > **Analogies:** for example (2), such as (2)
@@ -1477,8 +1454,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize around cyber resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980)
+#### [Organize around cyber resilience](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1492,13 +1468,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=44)** As you'll see, there are a lot of similarities.
 >
-> **[0:47](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=47)** Previously, we saw the NIST Cybersecurity Framework.
+> **[0:47](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=47)** Previously, we saw the [[NIST]] [[Cybersecurity]] Framework.
 >
 > **[0:51](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=51)** It has five high-level functions.
 >
 > **[0:53](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=53)** Let's look at each one.
 >
-> **[0:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=55)** Identify means to develop the organizational understanding to manage cyber security risk.
+> **[0:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=55)** Identify means to develop the organizational understanding to manage [[Cyber Security Risk]].
 >
 > **[1:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/organize-around-cyber-resilience-22162226?u=76281980&t=61)** Protect means to develop and implement the appropriate controls to stop cyber attacks from happening.
 >
@@ -1528,13 +1504,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (4), [[NIST]] (2), management (1), [[Cyber Security Risk]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (2), [[Cyber Security Risk]] (1)
 > **Env Vars:** nist (2), iso (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - being (1)
 
-#### Information security program design
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980)
+#### [Information security program design](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1521,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=23)** Be easy for your workforce to follow every time, all the time, and allow you to actually manage risk, while also demonstrating compliance.
 >
-> **[0:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=32)** But because of the increasing pressure at the executive level, to be compliant with information security laws and regulations, the importance of being compliant sometimes overshadows the rest of your program goals, which is unacceptable.
+> **[0:32](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=32)** But because of the increasing pressure at the executive level, to be compliant with information security laws and regulations, the importance of being compliant sometimes overshadows the [[Representational State Transfer (REST)|rest]] of your program goals, which is unacceptable.
 >
 > **[0:45](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=45)** So you need to figure out how to cost-effectively comply with multiple mandates.
 >
@@ -1554,7 +1529,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=55)** That's too much duplication of effort, which leads to extra expenses, and is overwhelming for your staff.
 >
-> **[1:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=61)** For example, there is a requirement to change vendor, default settings in compliance mandates published by many different regulators, including the Payment Card Industry Data Security Standard, the Federal Financial Institutions Examination Council, National Institute of Standards and Technology, and the Internal Revenue Service.
+> **[1:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=61)** For example, there is a requirement to change vendor, default settings in compliance mandates published by many different regulators, including the Payment Card Industry [[Data Security]] Standard, the Federal Financial Institutions Examination Council, National Institute of Standards and Technology, and the Internal Revenue Service.
 >
 > **[1:22](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=82)** And while conceptually similar, the details can be different enough to make it difficult for practitioners and expensive for their organizations.
 >
@@ -1616,13 +1591,13 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=285)** You also get a competitive advantage.
 >
-> **[4:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=288)** Smart regulatory compliance strengthens customer relationships, as we previously learned.
+> **[4:48](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=288)** Smart [[Regulatory Compliance]] strengthens customer relationships, as we previously learned.
 >
 > **[4:54](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=294)** In fact, you may end up understanding the regulatory issues better than your auditors.
 >
 > **[4:59](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=299)** Finally, new compliance mandates become much easier and quicker to satisfy.
 >
-> **[5:04](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=304)** This information security program design allows you to quickly take credit for everything you've already put in place.
+> **[5:04](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=304)** This information security [[Program Design]] allows you to quickly take credit for everything you've already put in place.
 >
 > **[5:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/information-security-program-design-22163187?u=76281980&t=310)** You just need to implement any truly new controls.
 >
@@ -1646,22 +1621,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), management (3), data (2), next (2), [[Program Design]] (2)
+> **Frameworks & Libraries:** [[Program Design]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Security]] (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Customer requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980)
+#### [Challenge: Customer requirements](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980&t=0)** - Hey, are you ready for a challenge?
 >
-> **[0:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980&t=2)** If your customers have cybersecurity requirements for you as their vendor or supplier, then that's another source of controls for your program, as we've seen already.
+> **[0:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980&t=2)** If your customers have [[Cybersecurity]] requirements for you as their vendor or supplier, then that's another source of controls for your program, as we've seen already.
 >
-> **[0:18](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980&t=18)** Customer requirements often show up in the forum of a data security contract addendum, but requirements from multiple customers often overlap either explicitly or implicitly.
+> **[0:18](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980&t=18)** Customer requirements often show up in the forum of a [[Data Security]] contract addendum, but requirements from multiple customers often overlap either explicitly or implicitly.
 >
 > **[0:31](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-customer-requirements-22157261?u=76281980&t=31)** In this table, there are 10 requirements from four different customers, A through D.
 >
@@ -1677,14 +1651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), data (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Security]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - hey (1)
 
-#### Solution: Customer requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-requirements-22158258?u=76281980)
+#### [Solution: Customer requirements](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-requirements-22158258?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-requirements-22158258?u=76281980&t=29)** When you merge these two requirements together, be sure to follow Customer D's previous-12 months clause, and you'll find that Customer A will be very happy about that.
 >
-> **[0:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-requirements-22158258?u=76281980&t=42)** And so are requirements 10 and seven the same, because they simply require that you have a security incident response plan that's "fully implemented," as Customer C states it, or "in place" as Customer D says it.
+> **[0:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-requirements-22158258?u=76281980&t=42)** And so are requirements 10 and seven the same, because they simply require that you have a [[Security Incident Response]] plan that's "fully implemented," as Customer C states it, or "in place" as Customer D says it.
 >
 > **[1:01](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-customer-requirements-22158258?u=76281980&t=61)** So slightly different wording, but exactly the same requirement.
 >
@@ -1725,8 +1698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicate with executives
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980)
+#### [Communicate with executives](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1736,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=17)** And because they own the risks you are managing, they need you to bring risk decisions that are high priority, timely, and actionable.
 >
-> **[0:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=27)** Finally, they need to be able to tell the organization's cybersecurity story to various people, sometimes on the spur of the moment.
+> **[0:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=27)** Finally, they need to be able to tell the organization's [[Cybersecurity]] story to various people, sometimes on the spur of the moment.
 >
 > **[0:36](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=36)** Let me give you some general guidance on how to meet these three needs.
 >
@@ -1776,7 +1748,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=132)** Be sure to add anything else that's important to them.
 >
-> **[2:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=136)** The second communication need concerns decision-making.
+> **[2:16](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=136)** The second communication need concerns [[Decision-Making]].
 >
 > **[2:20](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=140)** You need to regularly set up decisions for them.
 >
@@ -1796,7 +1768,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=173)** You don't make decisions for them unless they have explicitly delegated that authority to you.
 >
-> **[3:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=180)** Now, let's turn our attention to their storytelling needs.
+> **[3:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=180)** Now, let's turn our attention to their [[Storytelling]] needs.
 >
 > **[3:03](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=183)** I've developed a tool called the Cybersecurity Executive Scorecard.
 >
@@ -1816,18 +1788,17 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=229)** This is where you want to spend most of your time talking about the work you are doing to close your gaps.
 >
-> **[3:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=235)** If you want to learn how to find your top cyber risks and make your own Cybersecurity Executive Scorecard, check out my course called Measuring and Managing Top Cyber Risks right here in the LinkedIn Learning Library.
+> **[3:55](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980&t=235)** If you want to learn how to find your top cyber risks and make your own Cybersecurity Executive Scorecard, check out my course called Measuring and Managing Top Cyber Risks right here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Cybersecurity]] (4), teams (1), [[Decision-Making]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Decision-Making]] (1), [[Storytelling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Warnings:** caution (1), be careful (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Communicate with stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-stakeholders-22162224?u=76281980)
+#### [Communicate with stakeholders](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-stakeholders-22162224?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1851,7 +1822,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-stakeholders-22162224?u=76281980&t=56)** For example, video is a very cost-effective and engaging channel.
 >
-> **[1:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-stakeholders-22162224?u=76281980&t=62)** If possible, also get the help of someone who is an expert in organizational change management, because they deeply understand how to encourage people to adopt new ways of doing things.
+> **[1:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-stakeholders-22162224?u=76281980&t=62)** If possible, also get the help of someone who is an expert in [[Organizational Change Management]], because they deeply understand how to encourage people to adopt new ways of doing things.
 >
 > **[1:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-stakeholders-22162224?u=76281980&t=74)** One very effective method is to ask supervisors if you can join them at one of their regular staff meetings to present your information.
 >
@@ -1887,7 +1858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Organizational Change Management]] (1), management (1)
+> **Frameworks & Libraries:** [[Organizational Change Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** you'll need (2)
@@ -1895,8 +1866,7 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - you (1)
 
-#### Communicate with auditors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-auditors-22156752?u=76281980)
+#### [Communicate with auditors](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-auditors-22156752?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,13 +1942,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), business (1), generic (1), data (1)
 > **Env Vars:** cfo (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - working (1)
 
-#### Construct an annual program of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980)
+#### [Construct an annual program of work](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2004,7 +1972,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=102)** I assume your annual budgeting exercise happens in the fourth calendar quarter each year.
 >
-> **[1:47](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=107)** If that's not true for you, then you'll need to adjust this timeline, and on that note, make sure the rest of your organizational calendar lines up with my recommendations.
+> **[1:47](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=107)** If that's not true for you, then you'll need to adjust this timeline, and on that note, make sure the [[Representational State Transfer (REST)|rest]] of your organizational calendar lines up with my recommendations.
 >
 > **[1:56](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=116)** Feel free to customize it as you need.
 >
@@ -2016,7 +1984,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=134)** See if the design of your information security program will set you up for success in the coming year.
 >
-> **[2:19](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=139)** Also, make a tri-annual update to your cybersecurity scorecard to capture all the progress you've made from risk reduction activities.
+> **[2:19](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=139)** Also, make a tri-annual update to your [[Cybersecurity]] scorecard to capture all the progress you've made from risk reduction activities.
 >
 > **[2:28](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/construct-an-annual-program-of-work-22162222?u=76281980&t=148)** Let's look at October.
 >
@@ -2060,20 +2028,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), management (4), data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (8)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Optimize a cybersecurity program
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-optimize-a-cybersecurity-program-22157267?u=76281980)
+#### [Challenge: Optimize a cybersecurity program](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-optimize-a-cybersecurity-program-22157267?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-optimize-a-cybersecurity-program-22157267?u=76281980&t=0)** - [Kip] Here's a challenge for you.
 >
-> **[0:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-optimize-a-cybersecurity-program-22157267?u=76281980&t=2)** If you have an internal audit team, you need to optimize your working relationship with them so you can maximize the business value of your cybersecurity program.
+> **[0:02](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-optimize-a-cybersecurity-program-22157267?u=76281980&t=2)** If you have an internal audit team, you need to optimize your working relationship with them so you can maximize the business value of your [[Cybersecurity]] program.
 >
 > **[0:13](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/challenge-optimize-a-cybersecurity-program-22157267?u=76281980&t=13)** Your challenge is to answer these three questions about how to work with your internal audit team.
 >
@@ -2095,14 +2062,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (1), [[Cybersecurity]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** ciso (2), url (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kip] (1)
 
-#### Solution: Optimize a cybersecurity program
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-optimize-a-cybersecurity-program-22160231?u=76281980)
+#### [Solution: Optimize a cybersecurity program](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-optimize-a-cybersecurity-program-22160231?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2112,7 +2078,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-optimize-a-cybersecurity-program-22160231?u=76281980&t=7)** As a reminder, here's the first question.
 >
-> **[0:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-optimize-a-cybersecurity-program-22160231?u=76281980&t=10)** I think audit professionals may view security first through a lens of a framework or a law, like Sarbanes-Oxley or the NIST Cybersecurity Framework.
+> **[0:10](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-optimize-a-cybersecurity-program-22160231?u=76281980&t=10)** I think audit professionals may view security first through a lens of a framework or a law, like Sarbanes-Oxley or the [[NIST]] [[Cybersecurity]] Framework.
 >
 > **[0:22](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/solution-optimize-a-cybersecurity-program-22160231?u=76281980&t=22)** But cybersecurity professionals may start with a functional approach, such as emphasizing patch management or access management.
 >
@@ -2142,7 +2108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (2), management (2), [[NIST]] (1), functional (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[NIST]] (1)
 > **Env Vars:** ciso (2), nist (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2152,20 +2118,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for cybersecurity programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980)
+#### [Next steps for cybersecurity programs](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=0)** - We've reached the end of the course, but in no way are we done with cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=0)** - We've reached the end of the course, but in no way are we done with [[Cybersecurity]].
 >
-> **[0:04](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=4)** To keep up with the big picture and stay forward-looking, I want you to check out the Cyber Risk Management Podcast which I co-host with Jake Bernstein, a cybersecurity and privacy attorney.
+> **[0:04](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=4)** To keep up with the big picture and stay forward-looking, I want you to check out the Cyber Risk Management Podcast which I co-host with Jake Bernstein, a cybersecurity and [[Privacy]] attorney.
 >
 > **[0:15](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=15)** You can also check out my complimentary course on measuring and managing top cyber risks.
 >
 > **[0:21](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=21)** The greatest challenge for you going forward will be getting your people to practice better cyber hygiene.
 >
-> **[0:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=27)** As tough as it is for a single person to change their habits, it's even harder for an organization to do it, and that's why I suggest viewing leading with emotional intelligence and managing organizational change for managers, both found right here in the LinkedIn Learning Library.
+> **[0:27](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=27)** As tough as it is for a single person to change their habits, it's even harder for an organization to do it, and that's why I suggest viewing leading with emotional intelligence and managing organizational change for managers, both found right here in the [[LinkedIn]] Learning Library.
 >
 > **[0:45](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980&t=45)** I'm Kip Boyle.
 >
@@ -2173,7 +2138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), management (1), [[Privacy]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1), [[LinkedIn]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 

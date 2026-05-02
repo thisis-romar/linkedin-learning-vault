@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Figma for UX researchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980)
+#### [Figma for UX researchers](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,9 +104,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980&t=11)** My name is Eric Nordquist and I've worked as a UX professional for 20 years, managing teams at large corporations, as well as teaching future students as a professor.
 >
-> **[0:19](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980&t=19)** In this course, we'll make sure you have the skills necessary to begin taking control of your presentations using the popular design tool, Figma.
+> **[0:19](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980&t=19)** In this course, we'll make sure you have the skills necessary to begin taking control of your presentations using the popular design tool, [[Figma (Software)|Figma]].
 >
-> **[0:27](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980&t=27)** We will work together to create all the elements needed for a UX research presentation which you can then build upon on your own to create fully customized presentations that will give you the control you desire.
+> **[0:27](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980&t=27)** We will work together to create all the elements needed for a [[UX Research]] presentation which you can then build upon on your own to create fully customized presentations that will give you the control you desire.
 >
 > **[0:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980&t=39)** After completing this course, you will be able to create customized slides for both quantitative and qualitative data, as well as supporting slides for your participant demographics, methodology, and more.
 >
@@ -115,22 +114,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), data (3), teams (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[UX Research]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [eric] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started on our project, I wanted to set the expectation for the course.
 >
-> **[0:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980&t=4)** I am assuming you are an experienced UX researcher with a lot of knowledge using presentation tools like PowerPoint or Google slides.
+> **[0:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980&t=4)** I am assuming you are an experienced UX researcher with a lot of knowledge using presentation tools like [[Microsoft PowerPoint|PowerPoint]] or [[Google]] slides.
 >
-> **[0:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980&t=12)** Your design colleagues are probably using Figma and you see value in learning the tool to help you with your own presentations.
+> **[0:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980&t=12)** Your design colleagues are probably using [[Figma (Software)|Figma]] and you see value in learning the tool to help you with your own presentations.
 >
 > **[0:19](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/what-you-should-know?u=76281980&t=19)** This course will absolutely meet that goal, but this is not a course on any UX or UI fundamentals or research best practices.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), [[Figma (Software)|Figma]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Google]] (1)
 > **Tools:** figma (2)
 > **Speakers:** - [instructor] (1)
 
@@ -147,12 +145,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your first Figma project
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980)
+#### [Creating your first Figma project](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=0)** - [Eric] First thing we need to do is get you set up with an accountant Figma as well is give you a brief overview of the Figma homepage so that you start to get familiar with everything as we can move forward.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=0)** - [Eric] First thing we need to do is get you set up with an accountant [[Figma (Software)|Figma]] as well is give you a brief overview of the Figma homepage so that you start to get familiar with everything as we can move forward.
 >
 > **[0:10](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=10)** So if we go to [figma.com](https://figma.com), you'll notice in the top right-hand corner there's a signup button.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=41)** There's also the desktop version.
 >
-> **[0:43](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=43)** If we go over here to Products, we'll notice we have Figma and FigJam.
+> **[0:43](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=43)** If we go over here to [[Microsoft Products|Products]], we'll notice we have Figma and FigJam.
 >
 > **[0:47](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=47)** We'll go over those in a bit.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=96)** So you'll be seeing me inside of the desktop application.
 >
-> **[1:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=98)** So if you'd like, just go ahead and download either for macOS or for Windows and we'll get started from there.
+> **[1:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=98)** So if you'd like, just go ahead and download either for macOS or for [[Windows]] and we'll get started from there.
 >
 > **[1:44](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=104)** So this is the Figma homepage for the desktop application.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=152)** Figma has created an online community where people provide all types of assets that you can use to help you get started with projects.
 >
-> **[2:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=158)** You'll have things like icons, wireframes, design systems.
+> **[2:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=158)** You'll have things like icons, wireframes, [[Design Systems]].
 >
 > **[2:42](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=162)** So it's something worth browsing later once you get comfortable with Figma.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=191)** So beneath this, we can see we have a team project.
 >
-> **[3:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=194)** Here we have a team called Rapid Prototyping.
+> **[3:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=194)** Here we have a team called Rapid [[Prototyping]].
 >
 > **[3:17](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980&t=197)** And beneath that we have a project called Course Materials.
 >
@@ -372,7 +369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (26), web (6), teams (6), application (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (26), [[Microsoft Products|Products]] (1), [[Windows]] (1), [[Design Systems]] (1), [[Prototyping]] (1)
 > **Tools:** figma (26)
 > **UI Navigation:** click on (5), go to (3), dropdown (2)
 > **Analogies:** for example (1), such as (1), just like (1)
@@ -381,8 +378,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), getting started (1)
 
-#### Overview of a Figma design file
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980)
+#### [Overview of a Figma design file](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=33)** Let's go ahead and close that.
 >
-> **[0:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=35)** Figma automatically creates a design file for you.
+> **[0:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=35)** [[Figma (Software)|Figma]] automatically creates a design file for you.
 >
 > **[0:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=38)** You can tell that it's a design file by the icon used, associated with a design file icon.
 >
@@ -470,7 +466,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=142)** So commenting is similar to what you would use inside of InVision.
 >
-> **[2:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=145)** Maybe something you've used in Google, where we can leave comments directly on things to help with collaborating.
+> **[2:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=145)** Maybe something you've used in [[Google]], where we can leave comments directly on things to help with collaborating.
 >
 > **[2:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/overview-of-a-figma-design-file?u=76281980&t=151)** Beneath this title bar is our layers and pages.
 >
@@ -554,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), next (7), ux (3), [[Google]] (1), web (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Google]] (1)
 > **Tools:** figma (7)
 > **UI Navigation:** click on (3), right-click (1)
 > **Analogies:** similar to (2), such as (1), just like (1)
@@ -563,8 +559,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - let (1)
 
-#### Importing assets and ideas into Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980)
+#### [Importing assets and ideas into Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +625,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=142)** Let's say this one excites me, there's something about it that I like.
 >
-> **[2:26](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=146)** I just come in, grab a screenshot, and I'll save all of those into a folder, or I can just take them and drag them directly into Figma.
+> **[2:26](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=146)** I just come in, grab a screenshot, and I'll save all of those into a folder, or I can just take them and drag them directly into [[Figma (Software)|Figma]].
 >
 > **[2:36](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=156)** So just spend some time going through and doing searches on things.
 >
@@ -676,7 +671,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=234)** All right, so we can go ahead and just get in our Figma file.
 >
-> **[3:56](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=236)** We can pinch and zoom to zoom out.
+> **[3:56](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=236)** We can pinch and [[Zoom]] to zoom out.
 >
 > **[3:58](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/importing-assets-and-ideas-into-figma?u=76281980&t=238)** Just play around with this, you can't hurt a thing, right?
 >
@@ -820,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Figma (Software)|Figma]] (6), [[Zoom]] (4), business (2), ux (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), [[Zoom]] (4)
 > **Tools:** figma (6)
 > **CLI Commands:** make (4), snap (1)
 > **Exercise Files:** template (2)
@@ -834,8 +829,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using frames
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980)
+#### [Using frames](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -879,7 +873,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=108)** We're going to have multiple slides.
 >
-> **[1:50](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=110)** So in Figma terms, a slide is going to be known as a frame.
+> **[1:50](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=110)** So in [[Figma (Software)|Figma]] terms, a slide is going to be known as a frame.
 >
 > **[1:55](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=115)** So the first thing we want to do is go ahead and just create a frame.
 >
@@ -887,13 +881,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=124)** So if I just click that, if you notice over on the far right hand side, our properties pane, it's switched to a bunch of predefined frames for us.
 >
-> **[2:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=134)** So again, our design colleagues may be creating phone templates, so they could come in here and find the dimensions for common iPhones, Android phones, there's tablets, there's desktops, there's presentations, we could do a watch, whatever we want to.
+> **[2:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=134)** So again, our design colleagues may be creating phone templates, so they could come in here and find the dimensions for common iPhones, [[Android]] phones, there's tablets, there's desktops, there's presentations, we could do a watch, whatever we want to.
 >
 > **[2:28](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=148)** For us, Figma has created this one called presentations and we have the option of 16 by 9 or 4 by 3.
 >
 > **[2:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=155)** So of course the most common for laptops and conference room televisions is going to be 16 by 9.
 >
-> **[2:40](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=160)** This is going to be similar to what you use inside of keynote, inside of slides, inside of PowerPoint, whenever you pick just wide angle or 16 by 9 aspect ratio.
+> **[2:40](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=160)** This is going to be similar to what you use inside of keynote, inside of slides, inside of [[Microsoft PowerPoint|PowerPoint]], whenever you pick just wide angle or 16 by 9 aspect ratio.
 >
 > **[2:49](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980&t=169)** So with my frame selected, I'm going to go ahead and click that and now this gives us our frame, all right, again, this is where the building blocks of everything we put inside of this frame become our slide.
 >
@@ -933,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), ux (3), [[Figma (Software)|Figma]] (3), [[Android]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Android]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Tools:** figma (3)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** just like (1), similar to (1)
@@ -942,8 +936,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with text in Figma, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980)
+#### [Working with text in Figma, part 1](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=2)** Of course, that's going to be a huge part of any presentation.
 >
-> **[0:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=4)** So let's go ahead and spend some time going in-depth on how we add text to our presentations and all the options we have inside of Figma for our text tool.
+> **[0:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=4)** So let's go ahead and spend some time going in-depth on how we add text to our presentations and all the options we have inside of [[Figma (Software)|Figma]] for our text tool.
 >
 > **[0:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=12)** So, first thing we'll do is just up here in our toolbar we have our text.
 >
@@ -963,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=25)** We're going to click and let's just type a placeholder just so we can kind of see something there.
 >
-> **[0:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=31)** I'm going to go ahead and just click out so that's no longer editable and then we can pinch in and zoom so we can see our text overall.
+> **[0:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=31)** I'm going to go ahead and just click out so that's no longer editable and then we can pinch in and [[Zoom]] so we can see our text overall.
 >
 > **[0:40](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-1?u=76281980&t=40)** So of course it's small right now, we'll work on that but we'll notice over on the left hand side we have our text layer got placed inside of our frame.
 >
@@ -1169,21 +1162,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Figma (Software)|Figma]] (7), [[Zoom]] (2), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Zoom]] (2)
 > **UI Navigation:** click on (8), dropdown (2), go to (1)
 > **Tools:** figma (7)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with text in Figma, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980)
+#### [Working with text in Figma, part 2](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=1)** - [Instructor] Okay, let's continue playing around with this text field.
 >
-> **[0:03](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=3)** Let's zoom back out just to kind of orient ourselves.
+> **[0:03](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=3)** Let's [[Zoom]] back out just to kind of orient ourselves.
 >
 > **[0:05](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=5)** We've got our title slide.
 >
@@ -1227,7 +1219,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=70)** Okay.
 >
-> **[1:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=71)** Because we told Figma that there's a hierarchy and that this text layer lives inside of this frame.
+> **[1:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=71)** Because we told [[Figma (Software)|Figma]] that there's a hierarchy and that this text layer lives inside of this frame.
 >
 > **[1:16](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-text-in-figma-part-2?u=76281980&t=76)** If this text layer were to grow larger than our frame, it's getting cut off.
 >
@@ -1439,15 +1431,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Zoom]] (4), [[Figma (Software)|Figma]] (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (3), find (1), snap (1)
 > **UI Navigation:** click on (4)
 > **Analogies:** just like (1), such as (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with shapes in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980)
+#### [Working with shapes in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1446,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=6)** So let's go back and review our inspirational image to see kind of where we're at.
 >
-> **[0:10](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=10)** Let's see, just kind of pinch and zoom over to here.
+> **[0:10](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=10)** Let's see, just kind of pinch and [[Zoom]] over to here.
 >
 > **[0:13](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=13)** So we've got our primary header, we've got our secondary text, and then we have some third-level text down here.
 >
@@ -1469,7 +1460,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=33)** For now, let's focus on this shape.
 >
-> **[0:34](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=34)** Let's use the Shape Tool in Figma to create this border that's floating.
+> **[0:34](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=34)** Let's use the Shape Tool in [[Figma (Software)|Figma]] to create this border that's floating.
 >
 > **[0:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=38)** And if we notice, the border has rounded corners, and it also is transparent.
 >
@@ -1667,11 +1658,11 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=370)** We've added a stroke, we've changed the color, and we've learned how to create radiuses.
 >
-> **[6:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=374)** So we'll continue on with the rest of our title slot.
+> **[6:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-shapes-in-figma?u=76281980&t=374)** So we'll continue on with the [[Representational State Transfer (REST)|rest]] of our title slot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Zoom]] (5), [[Figma (Software)|Figma]] (3), next (3), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Figma (Software)|Figma]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (3), go to (1), in the menu (1), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** figma (3)
@@ -1679,8 +1670,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with images in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980)
+#### [Working with images in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1686,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=31)** But large images just help us capture our viewer's attention, helps break things up.
 >
-> **[0:37](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=37)** A lot of our UX research presentations are filled with just data slide, after data slide, after data slide.
+> **[0:37](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=37)** A lot of our [[UX Research]] presentations are filled with just data slide, after data slide, after data slide.
 >
 > **[0:43](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=43)** It becomes monotonous to our viewer.
 >
@@ -1708,11 +1698,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=58)** So let's go our exercise file.
 >
-> **[1:01](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=61)** Let's grab our title background, and drop that into Figma.
+> **[1:01](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=61)** Let's grab our title background, and drop that into [[Figma (Software)|Figma]].
 >
 > **[1:05](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=65)** Close out our file browser.
 >
-> **[1:07](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=67)** And first thing to note is how big this image is, right if I zoom out, we can see it's larger than our frame.
+> **[1:07](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=67)** And first thing to note is how big this image is, right if I [[Zoom]] out, we can see it's larger than our frame.
 >
 > **[1:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-images-in-figma?u=76281980&t=74)** This is going to be typical when you download high quality photography from the web, it's going to be larger than our frame, which we have at 1920 by 1080.
 >
@@ -1892,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), data (4), hit (3), feature (2), ux (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[UX Research]] (1), [[Zoom]] (1)
 > **Tools:** figma (8)
 > **CLI Commands:** find (2), snap (1), make (1)
 > **Definitions:** is a  (2)
@@ -1906,8 +1896,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with image masks in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980)
+#### [Working with image masks in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1915,7 +1904,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=4)** First thing I'll do is go to our inspiration page and let's use this one.
 >
-> **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=11)** I'll bring that into our UX report page by just holding down Command+C and we'll move into UX report, zoom out some, hit Command+V.
+> **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=11)** I'll bring that into our UX report page by just holding down Command+C and we'll move into UX report, [[Zoom]] out some, hit Command+V.
 >
 > **[0:23](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=23)** I like to work with my slides going horizontally.
 >
@@ -2039,7 +2028,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=298)** All right, so we need to get this shape lined up with our other shape.
 >
-> **[5:03](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=303)** So I'm going to click, I'm going to move it so that Figma snaps my bottom right.
+> **[5:03](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=303)** So I'm going to click, I'm going to move it so that [[Figma (Software)|Figma]] snaps my bottom right.
 >
 > **[5:08](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980&t=308)** Notice right there, Figma took it outside of my frame, right?
 >
@@ -2245,7 +2234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (15), hit (12), [[Zoom]] (5), next (4), ux (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (15), [[Zoom]] (5)
 > **UI Navigation:** click on (13), go to (6)
 > **Tools:** figma (15)
 > **CLI Commands:** find (2), make (1)
@@ -2253,8 +2242,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Creating bulleted lists in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980)
+#### [Creating bulleted lists in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,7 +2256,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=16)** Maybe I want to change the color of one bullet, but not another bullet, trying to get everything just the way I want.
 >
-> **[0:21](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=21)** That's not an issue with Figma.
+> **[0:21](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=21)** That's not an issue with [[Figma (Software)|Figma]].
 >
 > **[0:23](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=23)** We can create a bulleted list however we'd like, so let's get into creating lists.
 >
@@ -2514,7 +2502,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=416)** And let's just pick one of our center colors.
 >
-> **[7:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=420)** Zoom out again.
+> **[7:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=420)** [[Zoom]] out again.
 >
 > **[7:01](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bulleted-lists-in-figma?u=76281980&t=421)** Let's just get our eyedropper tool to make this one yellow.
 >
@@ -2746,7 +2734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (19), [[Figma (Software)|Figma]] (13), [[Zoom]] (3), next (2), feature (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (13), [[Zoom]] (3)
 > **CLI Commands:** make (15)
 > **Tools:** figma (13)
 > **UI Navigation:** click on (4), go to (2)
@@ -2755,8 +2743,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 
-#### Grouping and lines in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980)
+#### [Grouping and lines in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2802,7 +2789,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=85)** If I move this around, it treats it as one item now.
 >
-> **[1:28](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=88)** So Figma is going to treat a group as if it were just one thing.
+> **[1:28](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=88)** So [[Figma (Software)|Figma]] is going to treat a group as if it were just one thing.
 >
 > **[1:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=91)** I can still edit them individually.
 >
@@ -2828,11 +2815,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=163)** I can hit my command Z get things back how they want.
 >
-> **[2:46](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=166)** So let's go ahead and continue doing that for the rest of our items here.
+> **[2:46](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=166)** So let's go ahead and continue doing that for the [[Representational State Transfer (REST)|rest]] of our items here.
 >
 > **[2:51](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=171)** Command G click, click command G, and again just holding our Shift click down as we click the second time and hitting command G.
 >
-> **[2:59](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=179)** So if we zoom out, let's kind of see how everything's looking here.
+> **[2:59](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=179)** So if we [[Zoom]] out, let's kind of see how everything's looking here.
 >
 > **[3:03](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/grouping-and-lines-in-figma?u=76281980&t=183)** compared to our inspiration.
 >
@@ -2986,7 +2973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), [[Figma (Software)|Figma]] (9), [[Zoom]] (3), data (2), feature (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (9), [[Zoom]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** figma (9)
 > **UI Navigation:** click on (6), go to (2), select the (1)
 > **CLI Commands:** make (4)
@@ -2998,8 +2985,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a timeline with key steps in Figma, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980)
+#### [Creating a timeline with key steps in Figma, part 1](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3101,7 +3087,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=180)** Let me just come up to my shape menu again.
 >
-> **[3:01](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=181)** Let's zoom out here so we can see our whole slide.
+> **[3:01](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=181)** Let's [[Zoom]] out here so we can see our whole slide.
 >
 > **[3:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=184)** Just come up to our rectangle tool.
 >
@@ -3161,7 +3147,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=281)** You could create a line and then you could group those two together.
 >
-> **[4:45](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=285)** Figma also allows us to add an end cap to a line.
+> **[4:45](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=285)** [[Figma (Software)|Figma]] also allows us to add an end cap to a line.
 >
 > **[4:48](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980&t=288)** So let me show you how to do that.
 >
@@ -3297,7 +3283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), data (4), [[Zoom]] (3), [[Figma (Software)|Figma]] (3), next (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Figma (Software)|Figma]] (3)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **Tools:** figma (3)
@@ -3305,8 +3291,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - so (1)
 
-#### Creating a timeline with key steps in Figma, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980)
+#### [Creating a timeline with key steps in Figma, part 2](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,7 +3359,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=76)** Let's just type some other items in here.
 >
-> **[1:18](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=78)** Let's go ahead and use Figma's bulleted list for this one.
+> **[1:18](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=78)** Let's go ahead and use [[Figma (Software)|Figma]]'s bulleted list for this one.
 >
 > **[1:20](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=80)** Just to make it easier since we don't need too much custom creativity.
 >
@@ -3414,7 +3399,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=122)** We can say "These interviews" - I'm not going to worry about "Interviews Will be Conducted Remotely
 >
-> **[2:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=135)** In 1 Hour Sessions Using Zoom".
+> **[2:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=135)** In 1 Hour Sessions Using [[Zoom]]".
 >
 > **[2:21](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-2?u=76281980&t=141)** All right, so we're going to do is click off of it.
 >
@@ -3724,7 +3709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), data (7), [[Figma (Software)|Figma]] (3), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Zoom]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2), scroll up (1), double-click (1)
 > **Tools:** figma (3)
@@ -3732,16 +3717,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring different Figma effects and styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980)
+#### [Exploring different Figma effects and styles](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980&t=0)** - [Instructor] Let's go ahead and just stay on our timeline slide, I want to use that to introduce some of the effects Figma has.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980&t=0)** - [Instructor] Let's go ahead and just stay on our timeline slide, I want to use that to introduce some of the effects [[Figma (Software)|Figma]] has.
 >
 > **[0:06](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980&t=6)** There's a lot of features we can use to really help us customize our presentations even further.
 >
-> **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980&t=11)** So one thing I like to do whenever I'm playing around with different ideas or different styles is duplicate the current frame, say, I want to play with this one some more, let's duplicate it, let me zoom out, I take this and move it down and what I do is I stack my frames vertically when I kind of have options.
+> **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980&t=11)** So one thing I like to do whenever I'm playing around with different ideas or different styles is duplicate the current frame, say, I want to play with this one some more, let's duplicate it, let me [[Zoom]] out, I take this and move it down and what I do is I stack my frames vertically when I kind of have options.
 >
 > **[0:29](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/exploring-different-figma-effects-and-styles?u=76281980&t=29)** So maybe I'm trying out a different timeline so I'd have a couple options for a timeline or excuse me, a title slide, same with agenda, I keep my top row, the ones that I currently think are my favorite, the ones I want to use but I always have options down below for subtle changes or things that I've been playing around with.
 >
@@ -3861,7 +3845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Figma (Software)|Figma]] (5), [[Zoom]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[Zoom]] (3)
 > **CLI Commands:** make (8), find (7)
 > **UI Navigation:** click on (3), select the (1), scroll down (1), go to (1)
 > **Tools:** figma (5)
@@ -3875,8 +3859,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create tables with columns in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980)
+#### [Create tables with columns in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3924,7 +3907,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=78)** So, how do I make sure that this rectangle is perfectly half?
 >
-> **[1:21](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=81)** I can just take my line and I can drag it over until it snaps into place in Figma.
+> **[1:21](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=81)** I can just take my line and I can drag it over until it snaps into place in [[Figma (Software)|Figma]].
 >
 > **[1:28](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=88)** The other thing I can do is I know that my agenda slide, if I click on just this frame, is 1920 wide, right?
 >
@@ -4046,7 +4029,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=306)** I'm going to go up till I'm at 60 and then I'm going to go left until we're at 60 there.
 >
-> **[5:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=312)** Perfect. Let's zoom out.
+> **[5:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=312)** Perfect. Let's [[Zoom]] out.
 >
 > **[5:13](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980&t=313)** And now I want my participant column to be indented just a bit. That looks good.
 >
@@ -4116,7 +4099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (4), [[Figma (Software)|Figma]] (4), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Zoom]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Tools:** figma (4)
 > **UI Navigation:** click on (3)
@@ -4125,8 +4108,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Creating infographics in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980)
+#### [Creating infographics in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4140,7 +4122,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=21)** We're going to delete these lines that we kept.
 >
-> **[0:24](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=24)** We don't need these two. Open up by iconify by going to our Figma menu, let's go back to our plugins and iconfiy. Let's go ahead and just do a search for person, which I have in here.
+> **[0:24](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=24)** We don't need these two. Open up by iconify by going to our [[Figma (Software)|Figma]] menu, let's go back to our plugins and iconfiy. Let's go ahead and just do a search for person, which I have in here.
 >
 > **[0:37](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=37)** Let's just find some people that are filled in.
 >
@@ -4496,7 +4478,7 @@ created: 2026-05-02
 >
 > **[10:47](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=647)** Let's check out our decorations and let's go ahead and just put it, title case.
 >
-> **[10:53](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=653)** Perfect. So then zoom out, see how that looks.
+> **[10:53](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=653)** Perfect. So then [[Zoom]] out, see how that looks.
 >
 > **[10:57](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-infographics-in-figma?u=76281980&t=657)** Yeah, I think that's pretty good.
 >
@@ -4536,7 +4518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (4), [[Figma (Software)|Figma]] (1), [[Search]] (1), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (12), find (2), snap (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** previous video (1)
@@ -4545,8 +4527,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - all (1)
 
-#### Adding participant faces for empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/adding-participant-faces-for-empathy?u=76281980)
+#### [Adding participant faces for empathy](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/adding-participant-faces-for-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4564,7 +4545,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/adding-participant-faces-for-empathy?u=76281980&t=23)** Command + Data. Duplicate it.
 >
-> **[0:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/adding-participant-faces-for-empathy?u=76281980&t=25)** Zoom out and just put it down beneath here.
+> **[0:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/adding-participant-faces-for-empathy?u=76281980&t=25)** [[Zoom]] out and just put it down beneath here.
 >
 > **[0:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/adding-participant-faces-for-empathy?u=76281980&t=31)** We're going to delete all of our table data.
 >
@@ -4750,7 +4731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -4764,8 +4745,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating bar charts in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980)
+#### [Creating bar charts in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5121,7 +5101,7 @@ created: 2026-05-02
 >
 > **[12:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980&t=734)** Perfect.
 >
-> **[12:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980&t=735)** So that's how easy it is to create a custom bar chart in Figma.
+> **[12:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980&t=735)** So that's how easy it is to create a custom bar chart in [[Figma (Software)|Figma]].
 >
 > **[12:19](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980&t=739)** All kinds of ways we could label these things, all kinds of different styles we could do, we could highlight things if we wanted to.
 >
@@ -5135,7 +5115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (4), next (2), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** make (12), find (1)
 > **UI Navigation:** go to (3), click on (3), select the (1)
 > **Versions:** 3.8 (2), 2.8 (1), 4.1 (1)
@@ -5144,8 +5124,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating line charts in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980)
+#### [Creating line charts in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5155,7 +5134,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=9)** That's one of the key things I want you to take away from this course is that by the end of it you're going to have a template with all kinds of different artifacts that you can use to help build things in the future.
 >
-> **[0:20](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=20)** One of the problems with moving from a legacy tool to a new tool like Figma is going to be the learning curve that you have to put extra time in.
+> **[0:20](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=20)** One of the problems with moving from a legacy tool to a new tool like [[Figma (Software)|Figma]] is going to be the learning curve that you have to put extra time in.
 >
 > **[0:28](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=28)** But by completing this course, you're going to have a template that you can just copy and paste, duplicate frames, duplicate things from slides from one side to the other to help eliminate a lot of that extra time that it takes when moving to a new tool.
 >
@@ -5189,7 +5168,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=112)** So we'll start down here with our first dot.
 >
-> **[1:54](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=114)** I can zoom in.
+> **[1:54](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=114)** I can [[Zoom]] in.
 >
 > **[1:55](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-line-charts-in-figma?u=76281980&t=115)** We'll drop a dot there.
 >
@@ -5443,7 +5422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Zoom]] (5), [[Figma (Software)|Figma]] (3), data (3), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Figma (Software)|Figma]] (3)
 > **UI Navigation:** go to (4), select the (2), click on (2), in the menu (1)
 > **Tools:** figma (3)
 > **Exercise Files:** template (2)
@@ -5451,8 +5430,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating pie and donut charts in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980)
+#### [Creating pie and donut charts in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5494,7 +5472,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=71)** Let's start with this one, capacity.
 >
-> **[1:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=74)** So playing around with this ellipse tool there's a feature that Figma has.
+> **[1:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=74)** So playing around with this ellipse tool there's a feature that [[Figma (Software)|Figma]] has.
 >
 > **[1:17](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=77)** We have not gone into at all.
 >
@@ -5638,7 +5616,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=333)** And now what we want is to have the incap have a circle on it.
 >
-> **[5:37](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=337)** If we zoom back in for reference, you can see they have a circle on the incaps there.
+> **[5:37](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=337)** If we [[Zoom]] back in for reference, you can see they have a circle on the incaps there.
 >
 > **[5:42](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma?u=76281980&t=342)** So we started on the left and moved to the right.
 >
@@ -5714,15 +5692,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), data (4), [[Figma (Software)|Figma]] (3), feature (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **Tools:** figma (3)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - continuing (1)
 
-#### Creating pie and donut charts in Figma Part II
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma-part-ii?u=76281980)
+#### [Creating pie and donut charts in Figma Part II](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5754,7 +5731,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma-part-ii?u=76281980&t=44)** So that's one way you can do it.
 >
-> **[0:45](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma-part-ii?u=76281980&t=45)** They also have a feature inside of Figma, you saw as we were playing around with kind of our sweeps, we can take a circle, and kind of build out the middle.
+> **[0:45](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma-part-ii?u=76281980&t=45)** They also have a feature inside of [[Figma (Software)|Figma]], you saw as we were playing around with kind of our sweeps, we can take a circle, and kind of build out the middle.
 >
 > **[0:52](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-pie-and-donut-charts-in-figma-part-ii?u=76281980&t=52)** So let's just play around with that a little bit, and see which way we want to go.
 >
@@ -5956,7 +5933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Figma (Software)|Figma]] (5), data (3), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5)
 > **Tools:** figma (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -5965,8 +5942,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Emphasizing key data in your slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980)
+#### [Emphasizing key data in your slides](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6004,7 +5980,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=67)** So what I want to do is kind of push back all the other information on the screen except the task two information.
 >
-> **[1:13](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=73)** So to do that, what I like to do is implement a feature that Figma has where we can subtract things.
+> **[1:13](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=73)** So to do that, what I like to do is implement a feature that [[Figma (Software)|Figma]] has where we can subtract things.
 >
 > **[1:20](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=80)** So what we're going to do is create two rectangles, and then I'm going to subtract it.
 >
@@ -6114,7 +6090,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=258)** And there's all kinds of cool things you can do with this subtract.
 >
-> **[4:20](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=260)** We can type out big letters here and hit subtract and it actually subtracts the word out.
+> **[4:20](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=260)** We can type out big letters here and hit subtract and it actually subtracts the [[Microsoft Word|word]] out.
 >
 > **[4:26](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/emphasizing-key-data-in-your-slides?u=76281980&t=266)** You'll see some effect sometimes where a transition slide will have a nice, big pretty image, but you only see the image through the words.
 >
@@ -6124,31 +6100,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (3), next (2), feature (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (1), similar to (1)
 > **Versions:** 0.5 (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Figma plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980)
+#### [Using Figma plugins](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=0)** - Once you start to get comfortable with your quant data and building out things like bar charts, line charts, your pie, your donut charts, whatever it is you need, as you know, you have complete customizability now inside of Figma.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=0)** - Once you start to get comfortable with your quant data and building out things like bar charts, line charts, your pie, your donut charts, whatever it is you need, as you know, you have complete customizability now inside of [[Figma (Software)|Figma]].
 >
 > **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=11)** We can start to grow and advance and use some of the other tools that Figma has.
 >
 > **[0:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=14)** So, I just want to give you a quick overview into some of the plugins and other things we can do to help with our presentation of quant data using Figma.
 >
-> **[0:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=22)** So if we zoom out, we already have some templates now for some pretty good assets that you'll use most of the time, whenever you're presenting your UX research data.
+> **[0:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=22)** So if we [[Zoom]] out, we already have some templates now for some pretty good assets that you'll use most of the time, whenever you're presenting your [[UX Research]] data.
 >
 > **[0:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=31)** So, we have some good things that we can use as a foundation and as a base point.
 >
 > **[0:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=35)** However, all of our numbers were kind of roughly created.
 >
-> **[0:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=38)** We weren't able to import any data from Excel or other tools.
+> **[0:38](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=38)** We weren't able to import any data from [[Microsoft Excel|Excel]] or other tools.
 >
 > **[0:41](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=41)** So our numbers are not exact.
 >
@@ -6222,11 +6197,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=202)** So if we come back to data, we also can import table data.
 >
-> **[3:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=205)** We can copy and paste directly from Excel, from Google Sheets, right?
+> **[3:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=205)** We can copy and paste directly from Excel, from [[Google]] Sheets, right?
 >
 > **[3:28](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=208)** We can import a CSV.
 >
-> **[3:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=211)** If you have JSON data, you can also import that data here.
+> **[3:31](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=211)** If you have [[JSON]] data, you can also import that data here.
 >
 > **[3:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-figma-plugins?u=76281980&t=215)** So, just something for you to know, as you start to become more familiar with Figma, and using Figma for your UX reports, as we're presenting quantitative data, we can go directly from Google Sheets, from CSVs, from Excel, into plugins.
 >
@@ -6242,7 +6217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Figma (Software)|Figma]] (7), [[Microsoft Excel|Excel]] (4), ux (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Microsoft Excel|Excel]] (4), [[Google]] (2), [[Zoom]] (1), [[UX Research]] (1)
 > **Tools:** figma (7)
 > **UI Navigation:** click on (2), go to (2)
 > **Prerequisites:** install (3), set up (1)
@@ -6256,8 +6231,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Annotating screenshots in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980)
+#### [Annotating screenshots in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6381,7 +6355,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=230)** Let's work on kind of annotating these things.
 >
-> **[3:53](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=233)** So, let's assume that users had an issue with this word transfer right.
+> **[3:53](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=233)** So, let's assume that users had an issue with this [[Microsoft Word|word]] transfer right.
 >
 > **[3:59](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=239)** In the task they were unsure, what transfer was, they struggled with that issue.
 >
@@ -6407,7 +6381,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=273)** So of course we can always get an ellipse tool.
 >
-> **[4:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=275)** We can make our own dots, or if we're happy with what Figma gives us out of the box we can just change our endpoints here for our stroke to circles and to circle.
+> **[4:35](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=275)** We can make our own dots, or if we're happy with what [[Figma (Software)|Figma]] gives us out of the box we can just change our endpoints here for our stroke to circles and to circle.
 >
 > **[4:45](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=285)** We do both ways. We do it one way.
 >
@@ -6605,7 +6579,7 @@ created: 2026-05-02
 >
 > **[11:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=675)** So if I click on the bend tool, what that's going to do is it's going to give me additional ways that I can manipulate this, this node here.
 >
-> **[11:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=682)** So what I do is I can come in now and click and zoom in.
+> **[11:22](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=682)** So what I do is I can come in now and click and [[Zoom]] in.
 >
 > **[11:25](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980&t=685)** You can see it's added additional handles to the left and to the right of that node.
 >
@@ -6639,7 +6613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), hit (7), node (5), ux (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (8), node (5), snap (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** click on (2), go to (1)
@@ -6648,8 +6622,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Tools:** figma (1)
 
-#### Creating quote bubbles in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980)
+#### [Creating quote bubbles in Figma](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6657,7 +6630,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=5)** So lot of my research presentation decks will have quotation bubbles, places where I kind of follow up my data analysis or my reporting with actual verbatims from the participants.
 >
-> **[0:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=15)** Let's go ahead and explore how we could pull that off using Figma.
+> **[0:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=15)** Let's go ahead and explore how we could pull that off using [[Figma (Software)|Figma]].
 >
 > **[0:19](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=19)** So for example, we just wrapped up kind of task one.
 >
@@ -6697,7 +6670,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=73)** Not rely so much on blue.
 >
-> **[1:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=75)** We're going to zoom out, just kind of see that we've got some good color variation here.
+> **[1:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=75)** We're going to [[Zoom]] out, just kind of see that we've got some good color variation here.
 >
 > **[1:19](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-quote-bubbles-in-figma?u=76281980&t=79)** Go ahead and maybe change this one to our purple color.
 >
@@ -6977,7 +6950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), hit (7), data (6), [[Figma (Software)|Figma]] (3), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Zoom]] (2)
 > **CLI Commands:** node (13), make (6)
 > **Cross-References:** go back to (2), we talked about (1)
 > **Tools:** figma (3)
@@ -6990,16 +6963,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating titles and page numbers transition slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980)
+#### [Creating titles and page numbers transition slides](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=0)** - [Instructor] All right, so things are coming along nicely.
 >
-> **[0:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=2)** We're just about done with all the major sections that we would need in a common UX research presentation.
+> **[0:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=2)** We're just about done with all the major sections that we would need in a common [[UX Research]] presentation.
 >
-> **[0:08](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=8)** Using Figma, we can go ahead and just start going through and really tightening up things, cleaning up things, kind of do some final touches.
+> **[0:08](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=8)** Using [[Figma (Software)|Figma]], we can go ahead and just start going through and really tightening up things, cleaning up things, kind of do some final touches.
 >
 > **[0:14](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=14)** Also, I want to talk about some other things that I usually add in and show you some tips and tricks around that.
 >
@@ -7021,7 +6993,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=57)** We already went through and looked at our colors.
 >
-> **[0:59](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=59)** Let me just zoom out, all right, so I can just kind of make sure that I'm not seeing anything where we got so much of the same color being used, or anything looks too overpowering.
+> **[0:59](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=59)** Let me just [[Zoom]] out, all right, so I can just kind of make sure that I'm not seeing anything where we got so much of the same color being used, or anything looks too overpowering.
 >
 > **[1:08](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=68)** Zoomed out at this level, our people here are a little big, but actually I think looks okay on that slide.
 >
@@ -7157,7 +7129,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=306)** And now let's just lower down the transparency on that until it's something we're happy with.
 >
-> **[5:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=312)** Just so it kind of helps us see the word a little clearer, breaks it from the back of the imagery.
+> **[5:12](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=312)** Just so it kind of helps us see the [[Microsoft Word|word]] a little clearer, breaks it from the back of the imagery.
 >
 > **[5:18](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980&t=318)** Perfect.
 >
@@ -7183,7 +7155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), data (4), ux (1), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Figma (Software)|Figma]] (1), [[Zoom]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** quantitative (2)
@@ -7191,8 +7163,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating titles and page numbers transition slides Part II
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980)
+#### [Creating titles and page numbers transition slides Part II](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7280,7 +7251,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=156)** So here's the kind of key thing in the new feature right now.
 >
-> **[2:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=159)** When we click on this, Figma sees it as a text layer. Right?
+> **[2:39](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=159)** When we click on this, [[Figma (Software)|Figma]] sees it as a text layer. Right?
 >
 > **[2:44](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=164)** We have just one option of things we can click.
 >
@@ -7326,7 +7297,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=242)** All right. So when I went to outline stroke notice that I no longer have the T for text layers now moved it to a vector layer.
 >
-> **[4:09](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=249)** Also notice when we zoom in, I have an outline on all the individual letters and I now have notes.
+> **[4:09](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=249)** Also notice when we [[Zoom]] in, I have an outline on all the individual letters and I now have notes.
 >
 > **[4:15](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=255)** So, one thing we could do, if you wanted to come here and just play around with logos was start with a font and then you can actually manipulate the letters in the font to do whatever effect you're trying to achieve.
 >
@@ -7564,7 +7535,7 @@ created: 2026-05-02
 >
 > **[11:04](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=664)** You've put numbers in circles.
 >
-> **[11:05](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=665)** You've worked on strokes you've done iconography, you've done infographics.
+> **[11:05](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=665)** You've worked on strokes you've done iconography, you've done [[Infographics]].
 >
 > **[11:09](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides-part-ii?u=76281980&t=669)** We've created our transition slides.
 >
@@ -7578,7 +7549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), feature (3), node (3), data (3), ux (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1), [[Infographics]] (1)
 > **CLI Commands:** make (14), node (3)
 > **UI Navigation:** click on (4), right-click (1), go to (1)
 > **Exercise Files:** template (2)
@@ -7592,8 +7563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Export and smooth sailing
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980)
+#### [Export and smooth sailing](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7601,7 +7571,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=5)** We can either export it as a PDF.
 >
-> **[0:07](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=7)** There's also ways we can export it as PowerPoint, or we can present directly from Figma.
+> **[0:07](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=7)** There's also ways we can export it as [[Microsoft PowerPoint|PowerPoint]], or we can present directly from [[Figma (Software)|Figma]].
 >
 > **[0:11](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=11)** So it all depends on the situation and what the goal is you're trying to achieve.
 >
@@ -7713,7 +7683,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=221)** All right, I can then take that PowerPoint.
 >
-> **[3:43](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=223)** I can move it into Google Slides.
+> **[3:43](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=223)** I can move it into [[Google]] Slides.
 >
 > **[3:44](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980&t=224)** I can import into Google Slides if I need it to be Google Slides.
 >
@@ -7737,7 +7707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Figma (Software)|Figma]] (5), [[Google]] (3), hit (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Figma (Software)|Figma]] (5), [[Google]] (3)
 > **Env Vars:** pdf (4), png (1), jpeg (1)
 > **Tools:** figma (5)
 > **UI Navigation:** click on (4), go to (1)
